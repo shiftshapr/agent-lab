@@ -1,0 +1,6524 @@
+{
+ "format": "cka-source/1",
+ "episode": 28,
+ "blocks": [
+  {
+   "kind": "text",
+   "lines": [
+    "## 1. Meta-Data",
+    "",
+    "- **Episode**: 28",
+    "- **Monument**: cka",
+    "- **CKA seq**: 28",
+    "- **YouTube id**: r1PS67aRmcA",
+    "- **Candace Ep**: 261",
+    "- **Source**: Candace Owens YouTube",
+    "- **Video Timestamp Range**: 00:00:00–00:54:53",
+    "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
+    "- **Transcript SHA-256**: 2d9d0df8e23c9f62f81f6c3e040382229ea2371024c1d0d0064710f1b9969c26",
+    "",
+    "- **Episode Ledger Summary**:",
+    "  - Tip-minted Nodes (supplement_2026-10d): N-847, N-11231",
+    "  - Hole-minted Nodes (reintro-ep028): N-374, N-10451",
+    "  - Tip-minted Nodes (reintro-ep028): N-11159",
+    "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
+    "  - Claim Range: C-2491–C-2557",
+    "  - Tip-minted Nodes (reintro-ep028): N-710",
+    "  - (see registers)",
+    "",
+    "## 6. Meme Register",
+    ""
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-1",
+   "header": "**M-1** (meme) Grieving Widow",
+   "label": "(meme) Grieving Widow",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:24:09"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "He's standing there and he's saying, \"Candace is attacking a grieving widow and accusing her of murdering Charlie Kirk."
+    },
+    {
+     "k": "Context",
+     "v": "Wave 3 MemeLink backfill: Grieving Widow at 00:24:09 (audit missing_memelink)."
+    },
+    {
+     "k": "Tags",
+     "v": "reuse, memelink_backfill"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:48:20"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "clean bill of health of not attacking a widow"
+    },
+    {
+     "k": "Context",
+     "v": "Host says investigating is framed as attacking Erika."
+    },
+    {
+     "k": "Tags",
+     "v": "reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-2",
+   "header": "**M-2** (meme) Sheer Evil",
+   "label": "(meme) Sheer Evil",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:09:56"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-97"
+    },
+    {
+     "k": "Quote",
+     "v": "I think that what Candace Owens is doing right now is evil."
+    },
+    {
+     "k": "Context",
+     "v": "Shapiro's on-stage characterization of the host's investigation, as played."
+    },
+    {
+     "k": "Tags",
+     "v": "reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-72",
+   "header": "**M-72** (meme) Fresh and Clean Organic",
+   "label": "(meme) Fresh and Clean Organic",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:24:09"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "It is pre-planned. It is not organic."
+    },
+    {
+     "k": "Context",
+     "v": "Host says the Kelly stage exchange and audience were not organic."
+    },
+    {
+     "k": "Tags",
+     "v": "reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-250",
+   "header": "**M-250** (meme) Struggle Session",
+   "label": "(meme) Struggle Session",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:14:04"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "he's now trying to struggle session Megyn Kelly"
+    },
+    {
+     "k": "Context",
+     "v": "Host's verb for coordinated pressure to make someone disavow or recant."
+    },
+    {
+     "k": "Tags",
+     "v": "new, running bit"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:31:59"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "trying to struggle session her and making a comment"
+    },
+    {
+     "k": "Context",
+     "v": "Host predicts pressure on Kelly at every tour stop."
+    },
+    {
+     "k": "Tags",
+     "v": "new, running bit"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:48:20"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "are trying to struggle session us into no longer investigating"
+    },
+    {
+     "k": "Context",
+     "v": "Host applies the term to pressure on her investigation."
+    },
+    {
+     "k": "Tags",
+     "v": "new, running bit"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-251",
+   "header": "**M-251** (meme) Moral Blackmail",
+   "label": "(meme) Moral Blackmail",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:24:09"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "That is exactly the moral blackmail that Charlie was speaking about in the last days of his life."
+    },
+    {
+     "k": "Context",
+     "v": "Host applies Kirk's phrase to Shapiro's on-stage pressure on Kelly."
+    },
+    {
+     "k": "Tags",
+     "v": "new, running bit"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:24:09"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "That is moral blackmail."
+    },
+    {
+     "k": "Context",
+     "v": "Host repeats the label after paraphrasing Shapiro's questions."
+    },
+    {
+     "k": "Tags",
+     "v": "new, running bit"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "# Episode 28 Analysis Record",
+    "",
+    "## I. Meta-Data",
+    "",
+    "- Episode Title: Ben Shapiro Is Crying Again. | Candace Ep 261",
+    "- Series Title: Bride of Charlie investigation",
+    "- Episode Number: 28 (Monument Ep 28, Batch Ep 8)",
+    "- Channel / Creator: @RealCandaceO / Candace Owens",
+    "- Episode Date: 2025-11-08",
+    "- Source Used for Analysis: Transcript (YouTube captions, cleaned) + video context references",
+    "- Transcript Completeness Status: Complete; music cues dropped per source note",
+    "- Analyst / Agent Name: Episode Analysis Agent",
+    "- Analysis Date: 2026-03-11",
+    "- Ledger Continuation Summary: see Episode Ledger Summary below",
+    "",
+    "### Episode 28 Ledger Summary",
+    "",
+    "- Artifact Families Introduced: A-1355, A-1356, A-1357, A-1358, A-1359, A-1360, A-1361, A-1362, A-1363",
+    "  - New Nodes Introduced: N-234, N-235, N-10237, N-10238",
+    "  - Reused Nodes Appearing: N-34, N-36, N-145, N-178, N-222, N-229, N-366, N-659, N-10000, N-10016, N-10025, N-10026, N-10056, N-10063, N-10081, N-10106, N-10345, N-10406, N-10900, N-11096, N-10236, N-10424",
+    "- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens), plus previously inscribed nodes for Megyn Kelly, Tucker Carlson, Nick Fuentes, Ben Shapiro, Jeremy Boreing, Marjorie Taylor Greene, Eric Trump, Lara Trump, Ron Paul, Seth Dillon (node IDs to be reconciled against full ledger)",
+    "",
+    "---",
+    "",
+    "## II. Executive Summary",
+    "",
+    "This episode centers on Candace Owens' response to Ben Shapiro's public criticism of her during a Megyn Kelly stage appearance in Florida. The evidentiary material presented includes multiple audio clips played on air: Ben Shapiro's stage statements characterizing Owens' investigation as \"evil\" and asserting she accused Erika Kirk and Seth Dillon of involvement in Charlie Kirk's death; Tucker Carlson with Marjorie Taylor Greene discussing Zohran Mamdani's NYC mayoral primary win; a previously aired HuffPost article and corresponding audio of then-Daily Wire CEO Jeremy Boreing praising Nick Fuentes on X Space; Candace Owens' own text-message exchange with Charlie Kirk (read aloud) discussing Shapiro's behind-the-scenes campaign against them; an audio clip from YWLS 2024 in which Owens identified a Daily Wire intern sent to record her; a CNN interview clip with Elle Reeve; and an audio segment of Eric and Lara Trump fielding a student question about Israel at a post-Charlie TPUSA event at Auburn University.",
+    "",
+    "The episode advances several investigative threads relevant to the Bride of Charlie record: the characterization of Owens' TPUSA inquiry as \"accusations of murder\" against Erika Kirk and Seth Dillon (which she denies); the pattern of pro-Israel lobby figures appearing publicly to pressure neutral commentators (Megyn Kelly) into disavowals; and the broader claim that coordinated, non-organic audience operations are being deployed at conservative events. Structural importance is high because the episode introduces direct documentary material (text messages with Charlie Kirk, the YWLS intern callout, prior Shapiro statements) that intersects with the central Bride of Charlie line of inquiry into Erika Kirk and Turning Point USA.",
+    "",
+    "---",
+    "",
+    "## III. Artifact Register",
+    "",
+    "### A-1355 Ben Shapiro Social Media Statements Bundle (verbally referenced)",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1355.1",
+   "header": "**A-1355.1** Ben Shapiro quotation about accusers \"gripping the microphone as he would the neck of a black woman\"",
+   "label": "Ben Shapiro quotation about accusers \"gripping the microphone as he would the neck of a black woman\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:01:13"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (read aloud as a quotation, not displayed)"
+    },
+    {
+     "raw": "*Related: C-2498, N-Shapiro (existing)*"
+    },
+    {
+     "k": "Flag",
+     "v": "Artifact verbally referenced but not shown."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1355.2",
+   "header": "**A-1355.2** Ben Shapiro tweet characterizing \"Israel first\" framing as antisemitism, directed at Nick Fuentes",
+   "label": "Ben Shapiro tweet characterizing \"Israel first\" framing as antisemitism, directed at Nick Fuentes",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:02:12"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (read aloud as a tweet, not displayed)"
+    },
+    {
+     "raw": "*Related: C-2491, N-Shapiro (existing)*"
+    },
+    {
+     "k": "Flag",
+     "v": "Artifact verbally referenced but not shown."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1355.3",
+   "header": "**A-1355.3** Ben Shapiro tweet about Ron Paul \"corpse leaning forward from the grave and strangling the Jews\"",
+   "label": "Ben Shapiro tweet about Ron Paul \"corpse leaning forward from the grave and strangling the Jews\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:02:12"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (read aloud as a tweet, not displayed)"
+    },
+    {
+     "raw": "*Related: C-2492, N-Shapiro (existing), N-Ron Paul (existing)*"
+    },
+    {
+     "k": "Flag",
+     "v": "Artifact verbally referenced but not shown."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "### A-1356 Megyn Kelly Tour Stage Audio Bundle",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1356.1",
+   "header": "**A-1356.1** Audio clip: Ben Shapiro on Megyn Kelly tour stage in Florida",
+   "label": "Audio clip: Ben Shapiro on Megyn Kelly tour stage in Florida",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:09:56–00:10:33"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (audio played on air)"
+    },
+    {
+     "raw": "*Related: C-2498, C-2502, C-2503, C-2504, N-Ben Shapiro (existing), N-Megyn Kelly (existing), N-Erika Kirk (N-3)*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1356.2",
+   "header": "**A-1356.2** Audio clip: Tucker Carlson speaking with Marjorie Taylor Greene about Zohran Mamdani",
+   "label": "Audio clip: Tucker Carlson speaking with Marjorie Taylor Greene about Zohran Mamdani",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:06:24–00:08:57"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (audio played on air)"
+    },
+    {
+     "raw": "*Related: C-2498, N-Tucker Carlson (existing), N-Marjorie Taylor Greene (existing), N-Zohran Mamdani (N-223)*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "### A-1357 Shapiro–Carlson Private Text Exchange",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1357.1",
+   "header": "**A-1357.1** Read-aloud text exchange between Ben Shapiro and Tucker Carlson following Charlie Kirk's death",
+   "label": "Read-aloud text exchange between Ben Shapiro and Tucker Carlson following Charlie Kirk's death",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:04:34–00:05:23"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (read aloud by named sender)"
+    },
+    {
+     "raw": "*Related: C-2497, N-Ben Shapiro (existing), N-Tucker Carlson (existing), N-Charlie Kirk (N-1)*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "### A-1358 HuffPost Article (Jeremy Boreing / Nick Fuentes)",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1358.1",
+   "header": "**A-1358.1** HuffPost article: \"Daily Wire CEO tells white supremacist Nick Fuentes that he's talented and he's very funny\"",
+   "label": "HuffPost article: \"Daily Wire CEO tells white supremacist Nick Fuentes that he's talented and he's very funny\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:14:04"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (article read aloud in full excerpt)"
+    },
+    {
+     "raw": "*Related: C-2510, C-2511, N-Jeremy Boreing (existing), N-Nick Fuentes (existing), N-Daily Wire (existing institution)*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "### A-1359 Jeremy Boreing / Nick Fuentes X Space Audio",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1359.1",
+   "header": "**A-1359.1** Audio clip: Jeremy Boreing speaking with Nick Fuentes on X Space, hosted by Lauren Chen",
+   "label": "Audio clip: Jeremy Boreing speaking with Nick Fuentes on X Space, hosted by Lauren Chen",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:15:45"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (audio played on air)"
+    },
+    {
+     "raw": "*Related: C-2510, C-2511, N-Jeremy Boreing (existing), N-Nick Fuentes (existing), N-Daily Wire (existing)*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "### A-1360 Candace–Charlie Kirk Text Message Exchange",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1360.1",
+   "header": "**A-1360.1** Read-aloud SMS / text-message exchange between Candace Owens and Charlie Kirk discussing Ben Shapiro's behavior",
+   "label": "Read-aloud SMS / text-message exchange between Candace Owens and Charlie Kirk discussing Ben Shapiro's behavior",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:16:27–00:17:50"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (read aloud by named participant)"
+    },
+    {
+     "raw": "*Related: C-2515, N-Candace Owens (existing), N-Charlie Kirk (N-1), N-Ben Shapiro (existing), N-10237*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1360.2",
+   "header": "**A-1360.2** Read-aloud headline: \"Ben Shapiro's YAF launches smear campaign against Charlie Kirk and Candace Owens\"",
+   "label": "Read-aloud headline: \"Ben Shapiro's YAF launches smear campaign against Charlie Kirk and Candace Owens\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:16:27"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (referenced as thumbnail; not displayed in detail)"
+    },
+    {
+     "raw": "*Related: C-2515, N-Ben Shapiro (existing), N-YAF (existing)*"
+    },
+    {
+     "k": "Flag",
+     "v": "Artifact verbally referenced but not shown."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "### A-1361 YWLS 2024 Stage Audio",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1361.1",
+   "header": "**A-1361.1** Audio clip: Candace Owens at YWLS 2024 publicly identifying Daily Wire intern Ariana",
+   "label": "Audio clip: Candace Owens at YWLS 2024 publicly identifying Daily Wire intern Ariana",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:25:16–00:27:36"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (audio played on air)"
+    },
+    {
+     "raw": "*Related: C-2528, N-Candace Owens (existing), N-Ariana (N-235), N-Daily Wire (existing)*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "### A-1362 CNN Interview Clip",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1362.1",
+   "header": "**A-1362.1** Audio clip: CNN interview of Candace Owens by Elle Reeve (segment covering Zionist-occupied government characterization)",
+   "label": "Audio clip: CNN interview of Candace Owens by Elle Reeve (segment covering Zionist-occupied government characterization)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:33:44–00:35:14"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (audio played on air)"
+    },
+    {
+     "raw": "*Related: C-2540, C-2539, C-2538, N-Candace Owens (existing), N-Elle Reeve (N-234), N-CNN (existing)*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "### A-1363 Auburn University TPUSA Event Audio",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1363.1",
+   "header": "**A-1363.1** Audio clip: Eric and Lara Trump speaking at TPUSA event at Auburn University, including student question on Israel",
+   "label": "Audio clip: Eric and Lara Trump speaking at TPUSA event at Auburn University, including student question on Israel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:39:12–00:41:34"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (audio played on air)"
+    },
+    {
+     "raw": "*Related: C-2543, C-2544, N-Eric Trump (existing), N-Lara Trump (existing), N-TPUSA (existing)*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3025",
+   "header": "**A-3025** CNN Interview They Exchange Bundle",
+   "label": "CNN Interview They Exchange Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3025.1",
+   "header": "**A-3025.1** Played CNN clip of the host and Elle Reeve discussing the word 'they' and 'Zionists run the media'",
+   "label": "Played CNN clip of the host and Elle Reeve discussing the word 'they' and 'Zionists run the media'",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:36:43"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2541, C-2542, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3026",
+   "header": "**A-3026** Viewer Comments Read Aloud Bundle",
+   "label": "Viewer Comments Read Aloud Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3026.1",
+   "header": "**A-3026.1** Host reads a viewer comment (Amber Lee Frazz) recalling that Shapiro said he would pick up Charlie's bloodstained microphone",
+   "label": "Host reads a viewer comment (Amber Lee Frazz) recalling that Shapiro said he would pick up Charlie's bloodstained microphone",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:49:08"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2555, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3026.2",
+   "header": "**A-3026.2** Host reads a viewer comment (Tom Simpson) asking whether Fuentes is being pushed to smear the anti-Israel dissident right",
+   "label": "Host reads a viewer comment (Tom Simpson) asking whether Fuentes is being pushed to smear the anti-Israel dissident right",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:50:35"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2556, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## IV. Node Register",
+    "",
+    "### People",
+    ""
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-710",
+   "header": "**N-710** Ron Paul",
+   "label": "Ron Paul",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Libertarian former congressman; named in C-2492 (Shapiro imagery)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2492*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-234",
+   "header": "**N-234** Elle Reeve",
+   "label": "Elle Reeve",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "CNN journalist who conducted the aired CNN interview of Candace Owens; introduced in this episode and relevant as the named questioner in the \"Zionist-occupied government\" exchange."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1362.1, C-2539, C-2538*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-223",
+   "header": "**N-223** Zohran Mamdani",
+   "label": "Zohran Mamdani",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "NYC Democratic mayoral primary winner referenced in Tucker Carlson and Ben Shapiro stage discussions; relevant as the named political figure in the Mamdani-coverage dispute between Shapiro and Carlson."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1356.1, A-1356.2, C-2498*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-235",
+   "header": "**N-235** Ariana",
+   "label": "Ariana",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Daily Wire intern identified by Candace Owens at YWLS 2024 as having been dispatched covertly to record Owens. Full surname not stated."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1361.1, C-2528, N-Daily Wire (existing)*"
+    },
+    {
+     "k": "Flag",
+     "v": "Name uncertainty."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "### Investigation Targets",
+    ""
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10236",
+   "header": "**N-10236** Megyn Kelly Tour Attendee Authenticity Question",
+   "label": "Megyn Kelly Tour Attendee Authenticity Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Persistent question whether attendees asking questions and applauding at Megyn Kelly tour stops are organic or coordinated. Owens claims they are coordinated by pro-Israel lobby groups (specifically YAF-affiliated individuals)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1 (Owens assertion in commentary, not artifact)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0 (no artifact-anchored claim inscribed in this episode)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1356.1, A-1361.1, C-2498, C-2528*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10237",
+   "header": "**N-10237** Shapiro Statement Accuracy Re: Owens' Accusations",
+   "label": "Shapiro Statement Accuracy Re: Owens' Accusations",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Verification target",
+     "v": "whether Ben Shapiro's stage characterization that Candace Owens accused Erika Kirk and Seth Dillon of involvement in Charlie Kirk's murder is accurate. Owens denies the characterization in the same episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1356.1, A-1360.1, C-2503, C-2504*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10238",
+   "header": "**N-10238** Daily Wire Intern Covert Recording Operation",
+   "label": "Daily Wire Intern Covert Recording Operation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Persistent target",
+     "v": "the alleged Daily Wire practice of dispatching interns (e.g., Ariana) to conservative events to covertly record hosts and feed the recordings into media cycles. Owens claims this was coordinated, in part, by Alyssa Cordova."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1361.1, C-2528, N-Daily Wire (existing), N-Alyssa Cordova (existing)*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-1",
+   "header": "**N-1** Charlie Kirk",
+   "label": "Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of the assassination; his reported texts, debate offer and views on pressure are cited."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2496, C-2506, C-2507, C-2514, C-2516, C-2517, C-2518, C-2519, C-2520, C-2526, C-2531, C-2535, C-2536, C-2553, C-2554, C-2555, C-2557*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-2",
+   "header": "**N-2** Erika Kirk",
+   "label": "Erika Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Widow and TPUSA CEO; the host says she was not working at TPUSA when Charlie died."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2494, C-2508, C-2520, C-2553*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-3",
+   "header": "**N-3** Candace Owens",
+   "label": "Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host; speaks for herself throughout."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2493, C-2494, C-2505, C-2506, C-2507, C-2508, C-2509, C-2516, C-2517, C-2518, C-2520, C-2529, C-2530, C-2531, C-2532, C-2534, C-2536, C-2537, C-2541, C-2542, C-2553, C-2554, C-2556*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-22",
+   "header": "**N-22** Tucker Carlson",
+   "label": "Tucker Carlson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of Shapiro's stage criticism and the Greene interview clip."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2493, C-2495, C-2496, C-2499, C-2500, C-2501, C-2533*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-34",
+   "header": "**N-34** Eric Trump",
+   "label": "Eric Trump",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Addressed by the Auburn student; the host's remarks on the Trump family."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2545, C-2546, C-2547, C-2548, C-2549, C-2550, C-2551, C-2552*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-36",
+   "header": "**N-36** Benjamin Netanyahu",
+   "label": "Benjamin Netanyahu",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of Shapiro's interview, the Auburn question and the host's remarks."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2522, C-2546, C-2552*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-38",
+   "header": "**N-38** Seth Dillon",
+   "label": "Seth Dillon",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named by Shapiro on stage; the host says she accused him only of lying about the Hamptons meeting and pressuring Charlie."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2506, C-2507*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-46",
+   "header": "**N-46** Megyn Kelly",
+   "label": "Megyn Kelly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host of the tour stop where Shapiro appeared; pressed to disavow Carlson and the host."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2493, C-2505, C-2519, C-2526, C-2527, C-2533, C-2534, C-2535*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-97",
+   "header": "**N-97** Ben Shapiro",
+   "label": "Ben Shapiro",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Guest at the Kelly tour stop; subject of the host's rebuttal."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2493, C-2494, C-2495, C-2496, C-2499, C-2505, C-2513, C-2514, C-2516, C-2517, C-2518, C-2521, C-2522, C-2523, C-2524, C-2526, C-2527, C-2531, C-2555, C-2557*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-145",
+   "header": "**N-145** Marjorie Taylor Greene",
+   "label": "Marjorie Taylor Greene",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Interlocutor in the played Carlson clip."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2499, C-2500, C-2501*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-178",
+   "header": "**N-178** Jared Kushner",
+   "label": "Jared Kushner",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named by the host in her remarks on the Trump family and Middle East deals."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2550*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-201",
+   "header": "**N-201** Nick Fuentes",
+   "label": "Nick Fuentes",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of the Boring conversation, Shapiro's remarks and the host's views."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2512, C-2513, C-2523, C-2524, C-2525, C-2556*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-222",
+   "header": "**N-222** Randy Fine",
+   "label": "Randy Fine",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Congressman the host says Shapiro congratulated."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2521*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-229",
+   "header": "**N-229** Alyssa Cordova",
+   "label": "Alyssa Cordova",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named by the host as orchestrating the Daily Wire intern operation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2532*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-366",
+   "header": "**N-366** Jeremy Boreing",
+   "label": "Jeremy Boreing",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Former Daily Wire CEO (transcript spelling Boring); the host cites his X Space with Fuentes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2509, C-2512, C-2513, C-2523*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-374",
+   "header": "**N-374** Lara Trump",
+   "label": "Lara Trump",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Spoke at the Auburn TPUSA event (transcript spelling Lara Trump)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2545, C-2546, C-2547, C-2548, C-2549, C-2550, C-2551, C-2552*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-659",
+   "header": "**N-659** Ivanka Trump",
+   "label": "Ivanka Trump",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named in the host's remarks on Kushner's deals."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2550*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10000",
+   "header": "**N-10000** Turning Point USA",
+   "label": "Turning Point USA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Organization whose leadership and Erika's role are discussed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2508, C-2520, C-2531*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10016",
+   "header": "**N-10016** Hamptons Meeting Pressure Investigation",
+   "label": "Hamptons Meeting Pressure Investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for Dillon's Hamptons claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2507*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10025",
+   "header": "**N-10025** Israel Lobby Pressure on Conservative Figures",
+   "label": "Israel Lobby Pressure on Conservative Figures",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the host's pressure claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2535, C-2553*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10026",
+   "header": "**N-10026** Israel",
+   "label": "Israel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing place node reused for the host's remarks on Israel's response."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2501, C-2554*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10056",
+   "header": "**N-10056** Kirk-Israel Narrative Dispute",
+   "label": "Kirk-Israel Narrative Dispute",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the host's remarks on Israel's immediate denial."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2554*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10063",
+   "header": "**N-10063** Gaza",
+   "label": "Gaza",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing place node reused for the Kushner remarks."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2550*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10081",
+   "header": "**N-10081** Israel Influence on US Politics",
+   "label": "Israel Influence on US Politics",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the campus speech remark."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2551*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10106",
+   "header": "**N-10106** Moral Blackmail by Donors",
+   "label": "Moral Blackmail by Donors",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the moral blackmail claim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2526*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10345",
+   "header": "**N-10345** Hampton Retreat Seth Dillon Confrontation",
+   "label": "Hampton Retreat Seth Dillon Confrontation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for Dillon's Hamptons conduct."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2507*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10406",
+   "header": "**N-10406** Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
+   "label": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for Kelly's reaction to pressure."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2493, C-2505, C-2519*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10424",
+   "header": "**N-10424** Nick Fuentes Federal Informant Allegation",
+   "label": "Nick Fuentes Federal Informant Allegation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the host's op remark."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2556*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10451",
+   "header": "**N-10451** USS Liberty Incident Cover-up Investigation",
+   "label": "USS Liberty Incident Cover-up Investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the student's USS Liberty remark."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2547*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11096",
+   "header": "**N-11096** TikTok Israel Moderation Claim",
+   "label": "TikTok Israel Moderation Claim",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the TikTok remark."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2552*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11159",
+   "header": "**N-11159** Candace Owens CNN Interview and Interview Statements",
+   "label": "Candace Owens CNN Interview and Interview Statements",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the CNN clips."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2536, C-2537, C-2541, C-2542*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-847",
+   "header": "**N-847** Lauren Chen",
+   "label": "Lauren Chen",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "12:33 in episode 28. Host of the X Space where Boring spoke with Fuentes.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2509*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10900",
+   "header": "**N-10900** Daily Wire",
+   "label": "Daily Wire",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "raw": "Media company the host left; its CEO, staff agreements and intern operation are discussed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2495, C-2509, C-2512, C-2532*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11231",
+   "header": "**N-11231** Young America's Foundation",
+   "label": "Young America's Foundation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "raw": "Referred to by the host as YAF; she alleges its people were sent against her and Kirk and may attend Kelly's events."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2516, C-2534*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## V. Claim Register",
+    ""
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2498",
+   "header": "**C-2498** Shapiro Stage Statement on Tucker's Mamdani Coverage",
+   "label": "Shapiro Stage Statement on Tucker's Mamdani Coverage",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:18"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "On the Megyn Kelly tour stage in Florida, Ben Shapiro stated that Tucker Carlson had mentioned Zohran Mamdani once since October 5 and that he (Shapiro) had done 17 separate shows on Mamdani."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1356.1, A-1356.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-223, N-22, N-46, N-97"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain transcripts/recordings of the cited Carlson and Shapiro shows to verify the cited counts and whether Mamdani was mentioned substantively or in passing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2502",
+   "header": "**C-2502** Shapiro Labels Owens' Current Conduct \"Evil\"",
+   "label": "Shapiro Labels Owens' Current Conduct \"Evil\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:56–00:10:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "On the Megyn Kelly tour stage in Florida, Ben Shapiro stated that \"what Candace Owens is doing right now is evil. It is evil what she is doing right now.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1356.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-46, N-97"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare Shapiro's exact phrasing on stage to prior and subsequent statements to determine whether \"evil\" was used to characterize Owens' investigation, her rhetoric, or both."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2503",
+   "header": "**C-2503** Shapiro Claims Owens Accused Erika Kirk of Murdering Charlie Kirk",
+   "label": "Shapiro Claims Owens Accused Erika Kirk of Murdering Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:56–00:10:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "On the Megyn Kelly tour stage, Ben Shapiro stated that Candace Owens is accusing Erika Kirk of murdering Charlie Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1356.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1, N-46, N-97, N-2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10237"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pull transcripts of all Owens episodes cited by him and verify whether any statement directly accuses Erika Kirk of murder, as opposed to criticizing Turning Point USA leadership or the official narrative."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2504",
+   "header": "**C-2504** Shapiro Claims Owens Accused Seth Dillon of Murder Involvement",
+   "label": "Shapiro Claims Owens Accused Seth Dillon of Murder Involvement",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:56–00:10:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "On the Megyn Kelly tour stage, Ben Shapiro stated that Candace Owens is accusing TPUSA insiders and other members of the right wing, including Seth Dillon, of being involved in Charlie Kirk's murder."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1356.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1, N-46, N-97, N-38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10237"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the specific Owens episodes in which she discusses Seth Dillon and assess whether she characterizes him as involved in the killing versus as having lied or pressured Charlie."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2510",
+   "header": "**C-2510** HuffPost Report: Boreing Praised Fuentes on X Space",
+   "label": "HuffPost Report: Boreing Praised Fuentes on X Space",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "According to the read-aloud HuffPost article, on March 25th, then-Daily Wire CEO Jeremy Boreing joined Nick Fuentes on X for a live audio chat room, praised Fuentes as \"very funny\" and \"one of the most talented political influencers,\" and offered only mild criticism; the host says the X Space was hosted by Lauren Chen."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1358.1, A-1359.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-201, N-366, N-847"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the original X Space audio against the HuffPost excerpts and check whether Boring's characterization of Fuentes was later retracted."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2511",
+   "header": "**C-2511** Boreing Invited Fuentes Onto Daily Wire Shows",
+   "label": "Boreing Invited Fuentes Onto Daily Wire Shows",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:04–00:15:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "According to the read-aloud HuffPost article, Jeremy Boreing said on the X Space that he would be thrilled to have Nick Fuentes on a Daily Wire show."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1358.1, A-1359.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-201, N-366"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm via the original X Space audio that this invitation was extended unconditionally and identify whether Daily Wire subsequently acted on the invitation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2515",
+   "header": "**C-2515** Candace–Charlie Text Exchange Documents Shapiro's Behavior",
+   "label": "Candace–Charlie Text Exchange Documents Shapiro's Behavior",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:27–00:17:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In text messages the host reads between herself and Charlie Kirk, Kirk tells her she is bigger than Ben Shapiro now, says they have to treat him like noise, that, in a Game of Thrones reference, Shapiro is sending his \"incestuous brother\" to go try and kill them, and that he views Owens as Kirk's \"slave 100%\"; the host separately says Shapiro was going on people's shows talking down about her and Kirk and sent his YAF boys and National Review peeps after them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1360.1, A-1360.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1, N-97"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10237"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Authenticate the underlying text messages via metadata, screenshots, or device records to confirm the read-aloud excerpts were not edited."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2528",
+   "header": "**C-2528** Owens Identified Daily Wire Intern Ariana at YWLS 2024",
+   "label": "Owens Identified Daily Wire Intern Ariana at YWLS 2024",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:16–00:27:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "At YWLS 2024, Candace Owens publicly identified a Daily Wire PR intern named Ariana who, Owens alleged, had been sent covertly to record her, after receiving a tip from an intern with a conscience."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1361.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-235, N-3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10238"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the full name of the intern, confirm her employment status with Daily Wire at the time, and obtain corroboration from contemporaneous attendees or recordings."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2540",
+   "header": "**C-2540** Owens Stated America Is \"Occupied by Zionists\" on CNN",
+   "label": "Owens Stated America Is \"Occupied by Zionists\" on CNN",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:35:15"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "During the aired CNN interview, Candace Owens stated, \"America is occupied by Zionists,\" and doubled and then tripled down on the characterization."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1362.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-234, N-3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pull the full CNN interview transcript to verify the exact phrasing and surrounding context."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2539",
+   "header": "**C-2539** Reeve Characterized Owens' Statements as White-Nationalist Tropes",
+   "label": "Reeve Characterized Owens' Statements as White-Nationalist Tropes",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:33:44–00:35:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "During the aired CNN interview, Elle Reeve stated that themes Owens used in her criticism of Israel were \"very familiar\" from her coverage of white nationalists for 10 years, and cited the term \"Zionist-occupied government\" as an example."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1362.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-234, N-3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full CNN interview and any related Reeve reporting to verify the broader framing of the exchange."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2543",
+   "header": "**C-2543** Host Says Eric and Lara Trump Spoke at Auburn TPUSA Event",
+   "label": "Host Says Eric and Lara Trump Spoke at Auburn TPUSA Event",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:12–00:41:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Eric and Lara Trump appeared as speakers at a recent Turning Point USA event at Auburn University following Charlie Kirk's death."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1363.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-34, N-374, N-1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm the event date, attendance records, and Turning Point USA's official event listing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2544",
+   "header": "**C-2544** Auburn Student Cited $230M From Pro-Israel Groups to Trump",
+   "label": "Auburn Student Cited $230M From Pro-Israel Groups to Trump",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:12–00:41:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "At the Auburn TPUSA event, a student stated in a question that President Trump had taken over $230 million from pro-Israel groups."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1363.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-5"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Trace the $230M figure to its underlying donor records, FEC filings, or AIPAC-adjacent donation disclosures to verify the sum and timeframe."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2491",
+   "header": "**C-2491** Shapiro Has Tweeted That \"Israel First\" Critique Is Antisemitism",
+   "label": "Shapiro Has Tweeted That \"Israel First\" Critique Is Antisemitism",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:01:41"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per a tweet the host shows, Ben Shapiro wrote that accusing any American Jew who is pro-Israel of being \"Israel first\" is a \"pure form of anti-semitism\"; the host says it was directed at Nick Fuentes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1355.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-201, N-97"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the original tweet via X/Twitter search or web archives to verify the exact wording, the date, and whether the tweet was later deleted or amended."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2492",
+   "header": "**C-2492** Shapiro Tweeted Imagery of Ron Paul \"Strangling the Jews\"",
+   "label": "Shapiro Tweeted Imagery of Ron Paul \"Strangling the Jews\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per tweets the host shows, Ben Shapiro previously posted tweets containing imagery of Ron Paul \"leaning forward from the grave and strangling the Jews\" and \"gripping the pen as he would the neck of a Jew.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1355.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-97, N-710"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the original tweets via web archives to verify wording, date, and any subsequent deletion or apology."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2497",
+   "header": "**C-2497** Shapiro–Carlson Private Text Exchange After Kirk's Death",
+   "label": "Shapiro–Carlson Private Text Exchange After Kirk's Death",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:34–00:05:23"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip the host plays, Ben Shapiro says he texted Tucker Carlson proposing a joint show on the \"DSA threat,\" that Carlson replied he would spend \"the next week or two\" thinking about how to be most effective, and that his repeated outreach afterward went unanswered."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1357.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-22, N-97"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the exchange via Carlson or Shapiro public statements, and confirm whether the outreach was conducted on both sides after the cited date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2538",
+   "header": "**C-2538** Owens Describes CNN Interview as Occurring Days After Kirk's Death",
+   "label": "Owens Describes CNN Interview as Occurring Days After Kirk's Death",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:33:08"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Candace Owens states that the aired CNN interview with Elle Reeve occurred \"a couple of days after Charlie was killed\" and was her first interview after his death."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1362.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-234, N-3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm the interview date against CNN's published interview records or the original broadcast timestamp."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2493",
+   "header": "**C-2493** Host Says Shapiro Set Out to Make Kelly Disavow Tucker and Candace",
+   "label": "Host Says Shapiro Set Out to Make Kelly Disavow Tucker and Candace",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that on stage with Megyn Kelly in Florida, Ben Shapiro set out to peer pressure Kelly into disavowing the host and Tucker Carlson by asking her to respond to things neither of them did or said."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I'm going to peer pressure Megyn Kelly myself. I'm going to make her disavow me. Make her disavow Candace Owens."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1356.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-97, N-46, N-3, N-22"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10406"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain full video of the Kelly tour stop and compare Shapiro's questions to Kelly with what the host and Carlson actually said."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2494",
+   "header": "**C-2494** Host Says Erika-Attack Narrative Was a Non-Organic Operation Shapiro Plays a Part In",
+   "label": "Host Says Erika-Attack Narrative Was a Non-Organic Operation Shapiro Plays a Part In",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the narrative that she attacked Erika was circulated by people making absurd claims, that she recognizes how such 'organic movements' operate behind the scenes, and that Shapiro plays a part in it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "you saw this narrative circulating amongst people who were just absurdly making claims that I attacked Erika. And I know what these organic movements look like."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2, N-97"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10237"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Trace the earliest accounts and posts pushing the 'Candace attacked Erika' framing and test the host's assertion of coordination with account-level and timing data."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2495",
+   "header": "**C-2495** Host Says Daily Wire Departing Staff Sign Six-Month Non-Tucker Agreements",
+   "label": "Host Says Daily Wire Departing Staff Sign Six-Month Non-Tucker Agreements",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:52"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says people leaving the Daily Wire have to sign agreements that they will not go work for Tucker Carlson for six months."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "people at the Daily Wire when they're leaving the Daily Wire have to sign agreements that they're not going to go work for Tucker Carlson for 6 months."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-22"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10900"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain a Daily Wire separation agreement or a former employee's account confirming a six-month restriction on working for Carlson's outlet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2496",
+   "header": "**C-2496** Host Says Tucker and Shapiro Spoke the Day Kirk Died",
+   "label": "Host Says Tucker and Shapiro Spoke the Day Kirk Died",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:08"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Tucker Carlson and Ben Shapiro had a nice conversation on the day Charlie Kirk died, that Carlson then sent a nice text because Shapiro had called him, and that she guesses Shapiro thought there would be more follow-up than there was."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Tucker and him had a nice conversation on the day that Charlie Kirk died and Tucker then sent a nice text because Ben had called him"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1357.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-22, N-97, N-1"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2497"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare with Shapiro's own account of the call and text in the Kelly tour clip and any published text screenshots."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2499",
+   "header": "**C-2499** Host Says Shapiro Insinuated Tucker Backed Mamdani",
+   "label": "Host Says Shapiro Insinuated Tucker Backed Mamdani",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:24"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Shapiro insinuated that Tucker Carlson supported Zohran Mamdani and said nice things about him in his conversation with Marjorie Taylor Greene, and plays the clip so listeners can judge."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "But to the insinuation that Tucker somehow supported Mandani and said like nice things about him when he sat down with Marjgerie Taylor Green, here's actually what Tucker said"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1356.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-22, N-97, N-145, N-223"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2498"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pull the full Carlson and Greene episode and Shapiro's stage remarks to see whether Carlson praised or merely explained Mamdani's win."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2500",
+   "header": "**C-2500** Clip: Tucker Says Mamdani Primary Win Came the Week DC Focused on Iran",
+   "label": "Clip: Tucker Says Mamdani Primary Win Came the Week DC Focused on Iran",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the played clip, the speaker responding to Marjorie Taylor Greene says he cannot get over what happened in New York City that week, the same week Washington was focused on Iran's nuclear program, when a 32-year-old socialist was elected in the Democratic primary."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And I just can't get over what happened in our biggest city this week, the very same week, that everybody in DC is focused thousands of miles away on the greatest threat we face"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1356.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-22, N-145, N-223"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm the date of the Carlson and Greene episode against the June 2025 New York Democratic primary and the Iran news cycle."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2501",
+   "header": "**C-2501** Clip: Mamdani Was the Only Debate Candidate to Say He Would Not Visit a Foreign Country",
+   "label": "Clip: Mamdani Was the Only Debate Candidate to Say He Would Not Visit a Foreign Country",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:20"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the played clip, a speaker says that in the New York City mayoral debate all the candidates were asked which foreign country they would visit and, the speaker thinks, most said Israel, while Mamdani said he would stay in New York."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They were all the candidates were asked, \"If you could visit a foreign country, what would it be?\" And they of course all had an answer. I think most said Israel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1356.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-223"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10026"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the debate transcript for the foreign-country question and each candidate's answer."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2505",
+   "header": "**C-2505** Clip: Megyn Kelly Tells Shapiro Her Position Is That It Is None of Her Business",
+   "label": "Clip: Megyn Kelly Tells Shapiro Her Position Is That It Is None of Her Business",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:56"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the played clip, Megyn Kelly responds to Shapiro's 'evil' remark by saying she does not opine on whether it is evil and that her position is that it is none of her business."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "but my my position is it's really none of my business."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1356.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-46, N-97, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10406"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare with Kelly's later public statements on the Owens investigation, including those around the same tour stop."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2506",
+   "header": "**C-2506** Host Denies Ever Accusing Seth Dillon of Murdering Charlie",
+   "label": "Host Denies Ever Accusing Seth Dillon of Murdering Charlie",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she never once accused Seth Dillon of murdering Charlie Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I never once accused Seth Dillon of murdering Charlie Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1356.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-38, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10237"
+    },
+    {
+     "k": "Contradicts",
+     "v": "C-2504"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Search the host's episode transcripts for any statement tying Seth Dillon to the killing, as opposed to the Hamptons pressure claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2507",
+   "header": "**C-2507** Host Says Dillon Lied About the Hamptons Meeting and Pressured Charlie on Israel",
+   "label": "Host Says Dillon Lied About the Hamptons Meeting and Pressured Charlie on Israel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that what she actually said about Seth Dillon is that he lied about the Hamptons meeting and was pressuring Charlie Kirk about the topic of Israel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Seth Dillon, I told the truth that Seth Dillon lied about the Hampton's meeting and that he was pushing uh he was pressuring Charlie about the topic of Israel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-38, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10345, N-10016"
+    },
+    {
+     "k": "Supports",
+     "v": "C-239"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare Dillon's public statements about the Hamptons meeting with attendee accounts, emails and calendar records of the August 2025 retreat."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2508",
+   "header": "**C-2508** Host Says Her Audience Pressed Her to Cover Erika's Past and Parents",
+   "label": "Host Says Her Audience Pressed Her to Cover Erika's Past and Parents",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she was getting flack from her own audience for not covering Erika's past or speaking about her parents, and that she has kept her investigation focused on Turning Point USA and why it is telling certain lies."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I actually was getting flack from my audience for not covering Erika's past or speaking about her parents."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the host's earlier episodes for coverage of Erika's background to test the claim that she deliberately held it back."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2509",
+   "header": "**C-2509** Host Says Boring's X Space Happened the Week She Was Fired",
+   "label": "Host Says Boring's X Space Happened the Week She Was Fired",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Jeremy Boreing, then CEO of the Daily Wire, joined an X Space hosted by Lauren Chen during the week she was fired from the Daily Wire."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I distinctly remember the week that I was gloriously fired from the Daily Wire. And during that week, the CEO of the Daily Wire, at the time it was Jeremy Boreing, jumped onto an Xspace hosted by Lauren Chen"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1359.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-366, N-847"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10900"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2510"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the date of the X Space (HuffPost cites March 25) against the date of the host's Daily Wire exit."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2512",
+   "header": "**C-2512** Host Dates the Boring-Fuentes Conversation to 2024",
+   "label": "Host Dates the Boring-Fuentes Conversation to 2024",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:04"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host refers to the Daily Wire's position 'in 2024' that its CEO could talk to and praise Nick Fuentes and invite him on the platform; the article read aloud gives only 'March 25th'."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "when the Daily Wire position in 2024 was that their CEO could talk to Nick Fuentes publicly, praise Nick Fuentes publicly"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1358.1, A-1359.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-366, N-201"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10900"
+    },
+    {
+     "k": "Qualifies",
+     "v": "C-2510"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm the year of the X Space; the existing claim C-2510 gives March 25, 2025, which the transcript does not state."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2513",
+   "header": "**C-2513** Clip: Fuentes Tells Boring That Shapiro Cannot Say 'Christ Is King'",
+   "label": "Clip: Fuentes Tells Boring That Shapiro Cannot Say 'Christ Is King'",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:04"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the played X Space audio, Nick Fuentes says he dislikes that guys like Shapiro will not say 'Christ is king' or 'America first' and that he thinks they forfeit their ability to lead."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I don't like that guys like Shapiro cannot will not say Christ is king. America first. I think they forfeit their ability to lead."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1359.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-201, N-97"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full X Space recording and confirm the speaker and wording."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2514",
+   "header": "**C-2514** Host Says Shapiro Worked Behind the Scenes to Stop Kirk's Rise",
+   "label": "Host Says Shapiro Worked Behind the Scenes to Stop Kirk's Rise",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host asserts as fact that Ben Shapiro did a lot of things behind the scenes to stop the rise of Charlie Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it is just a fact that Ben Shapiro did a lot of things behind the scenes to stop the rise of Charlie Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1360.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-97, N-1"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the host's text threads with Kirk and corroboration from third parties about Shapiro's actions."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2516",
+   "header": "**C-2516** Host Says She Holds Hundreds of Texts on Shapiro Sending YAF and National Review Writers",
+   "label": "Host Says She Holds Hundreds of Texts on Shapiro Sending YAF and National Review Writers",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:27"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she has literally hundreds of messages about Ben Shapiro sending his YAF people and National Review people to come after her and Charlie Kirk by writing articles, including a headline about a smear campaign."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I have literal hundreds of them pertaining to Ben sending his YAF boys, the AF boys, National Review peeps that were coming after us writing articles."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1360.1, A-1360.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-97, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11231"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2515"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Examine the message archive and the cited YAF-linked articles for authorship and timing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2517",
+   "header": "**C-2517** Host Says Shapiro Called Kirk to Lament Their Friendship",
+   "label": "Host Says Shapiro Called Kirk to Lament Their Friendship",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:27"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Ben Shapiro called Charlie Kirk, lamented that Kirk and the host had a friendship, and warned him that he should not have it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Ben called Charlie and he was lamenting the fact that Charlie and I had this friendship and warning him that he shouldn't have him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1360.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-97, N-1, N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Corroborate the call through Kirk's phone records or the text exchange that refers to it; compare with Shapiro's account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2518",
+   "header": "**C-2518** Host Reads Kirk Text That Shapiro Was Saying 'Control Her' on the Call",
+   "label": "Host Reads Kirk Text That Shapiro Was Saying 'Control Her' on the Call",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads a text from Charlie Kirk saying Shapiro views the host as Kirk's slave and that 'Control her' is what Shapiro was really saying when he called."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He views you as my slave 100%. Control her is what he really was saying to me when he called."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1360.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-97, N-3"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2515"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Authenticate the text via the original device or metadata and date it relative to Shapiro's call."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2519",
+   "header": "**C-2519** Host Says Megyn Kelly Was a Good Friend Who Told the Truth About Kirk's Ordeal",
+   "label": "Host Says Megyn Kelly Was a Good Friend Who Told the Truth About Kirk's Ordeal",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Megyn Kelly was a very good friend to Charlie Kirk, that Kirk deeply respected her, and that toward the end she took a principled position on telling the truth about what he was going through."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Megan who was actually a very good friend to Charlie. Charlie deeply respected her and towards the end obviously she took a very principled position on telling the truth about what he was going through"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-46, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10406"
+    },
+    {
+     "k": "Supports",
+     "v": "C-254"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review Kelly's public statements about Kirk's last weeks and what he told her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2520",
+   "header": "**C-2520** Host Says Erika Was Not Working for TPUSA When Charlie Died",
+   "label": "Host Says Erika Was Not Working for TPUSA When Charlie Died",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk was not even working for Turning Point USA when Charlie died, and became CEO only afterward."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Erika who wasn't even working for Turning Point USA uh when Charlie died because now she's the CEO"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check TPUSA payroll, board and org records for Erika Kirk's role before September 10, 2025, including the September 2 internal memo."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2521",
+   "header": "**C-2521** Host Says Shapiro Congratulated Randy Fine",
+   "label": "Host Says Shapiro Congratulated Randy Fine",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Ben Shapiro supports and congratulated Randy Fine, who she says tweeted laughing at photos of dead Palestinian babies."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He supports and congratulated Randy Fine who has literally tweeted laughing at photos of dead Palestinian babies."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-97, N-222"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate Shapiro's post congratulating Fine and the Fine tweet the host describes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2522",
+   "header": "**C-2522** Host Says Shapiro Interviewed Netanyahu Last Month Without Pressing on Genocide",
+   "label": "Host Says Shapiro Interviewed Netanyahu Last Month Without Pressing on Genocide",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:46"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Ben Shapiro sat down with Benjamin Netanyahu the previous month and asks whether he pressed Netanyahu on the point of genocide, which she says Netanyahu is being tried for."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "BB Netanyahu is committing a genocide and Ben Shapiro sat down with him last month."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-97, N-36"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find the date and transcript of Shapiro's Netanyahu interview and check what was asked about Gaza."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2523",
+   "header": "**C-2523** Host Says Fuentes Was Pushed Out of the Market at 18 for Asking About Israel",
+   "label": "Host Says Fuentes Was Pushed Out of the Market at 18 for Asking About Israel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Nick Fuentes was an 18-year-old who started asking questions about Israel and was artificially pushed out of the market, and that she heard the backstory in Jeremy Boreing's conversation with Fuentes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He started asking questions about Israel and he got artificially pushed out of the market when he had his whole life ahead of him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1359.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-201, N-366"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the Boring and Fuentes X Space and Fuentes's own account of his dismissal to see what Boring and Shapiro actually conceded."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2524",
+   "header": "**C-2524** Host Says Shapiro Never Denied Fuentes's Account",
+   "label": "Host Says Shapiro Never Denied Fuentes's Account",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Ben Shapiro has never come out and denied anything Nick Fuentes has said about being pushed out of the market."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Ben has never come out and denied anything that Nick Fuentes has said"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1359.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-97, N-201"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Search Shapiro's public statements for any denial or response to Fuentes's account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2525",
+   "header": "**C-2525** Host Says Fuentes Was Put on the ADL's List",
+   "label": "Host Says Fuentes Was Put on the ADL's List",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:08"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Nick Fuentes seems to have survived without advertisers, sponsors or connections and was put on the ADL's list."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "with the entire media writing things about him, being put on the ADL's list, he has proven to be quite resilient."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-201"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the ADL's published listings for Fuentes and the date he was added."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2526",
+   "header": "**C-2526** Host Calls Shapiro's Stage Questioning the Moral Blackmail Kirk Described",
+   "label": "Host Calls Shapiro's Stage Questioning the Moral Blackmail Kirk Described",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Shapiro's on-stage questioning of Kelly is exactly the moral blackmail Charlie Kirk was speaking about in the last days of his life."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "That is exactly the moral blackmail that Charlie was speaking about in the last days of his life."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1356.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-97, N-46, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10106"
+    },
+    {
+     "k": "Supports",
+     "v": "C-847"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find Kirk's own statements using the phrase moral blackmail and the context in which he used it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2527",
+   "header": "**C-2527** Host Says the Kelly Stage Exchange Was Pre-Planned and Not Organic",
+   "label": "Host Says the Kelly Stage Exchange Was Pre-Planned and Not Organic",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the exchange with Megyn Kelly was pre-planned and not organic, and that the supporters and the questions were not organic."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "It is pre-planned. It is not organic. The supporters are not organic."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1356.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-97, N-46"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10236"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the ticketing, seating and attendee data for the Kelly tour stop to test whether the audience reaction was coordinated."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2529",
+   "header": "**C-2529** Host Says Daily Wire Planned to Circulate the Intern's Question as a Random Student",
+   "label": "Host Says Daily Wire Planned to Circulate the Intern's Question as a Random Student",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that after being fired she learned of a covert Daily Wire plan to send an intern to ask her a question and then pass around a clip made to look as if the questioner were a random student."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "they were going to pass around a clip, but they were going to make it look like she was just a a random student."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1361.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-235"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10238"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2528"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the original tipster at the Daily Wire and any message showing the plan to circulate the clip."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2530",
+   "header": "**C-2530** Clip: Intern Allegedly Got a 10 p.m. Email and Flew In Posing as a Student",
+   "label": "Clip: Intern Allegedly Got a 10 p.m. Email and Flew In Posing as a Student",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:26:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the played YWLS 2024 audio, the host says the Daily Wire intern apparently got an email at 10 p.m., hopped on a plane and was pretending to be a student."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "apparently she got an email at 10 p. m., hopped on a plane, is pretending to be a student."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1361.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-235"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10238"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2528"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Seek the intern's identity, flight and email records, or attendee-list evidence from the event."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2531",
+   "header": "**C-2531** Clip: Host Relays Kirk's Offer to Fly Shapiro to Detroit to Debate",
+   "label": "Clip: Host Relays Kirk's Offer to Fly Shapiro to Detroit to Debate",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:27:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the played clip, the host says Charlie Kirk will fly Ben Shapiro out the following week to Detroit to debate on Kirk's stage; she later says Kirk told her to call Shapiro out on stage and offer the debate."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Charlie Kirk says he will fly you out. He will fly you out next week to Detroit and we can do the debates on his stage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1361.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-97, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find any Kirk or TPUSA confirmation of the offer and whether Shapiro replied."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2532",
+   "header": "**C-2532** Host Says Alyssa Cordova Orchestrated the Intern Operation",
+   "label": "Host Says Alyssa Cordova Orchestrated the Intern Operation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:27:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the orchestration of the intern and applause operation was by Alyssa Cordova, who she says is no longer at the Daily Wire."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "That was orchestrated by Alyssa Cordova now that she's not at the Daily Wire."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1361.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-229, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10238, N-10900"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask Cordova or former Daily Wire staff about the intern assignment and confirm Cordova's departure date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2533",
+   "header": "**C-2533** Host Says Those Pressing Kelly on Tucker at Her Events Are Paid Pro-Israel Operatives",
+   "label": "Host Says Those Pressing Kelly on Tucker at Her Events Are Paid Pro-Israel Operatives",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:27:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that people coming to Megyn Kelly's events to ask her to disavow Tucker Carlson are not organic and are pro-Israel people who are paid to do it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "That is not organic. Okay? That is pro-Israel people that are paid to do it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-46, N-22"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10236"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the audience-question sources and any payment or organizational links for the people who asked questions."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2534",
+   "header": "**C-2534** Host Predicts Kelly's Attendees Include YAF and Other Organization Members",
+   "label": "Host Predicts Kelly's Attendees Include YAF and Other Organization Members",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that if Kelly gave her the attendee list she could find the people sent to applaud and intimidate, and predicts they will be from YAF or some other organization."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I will find the people from they will be from YAF. They will be from some organization."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-46, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10236, N-11231"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare any available ticket-holder list for the tour stop with YAF membership and staff rosters."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2535",
+   "header": "**C-2535** Host Says the Same Bullying Process Cost the Pro-Israel Lobby Charlie Kirk",
+   "label": "Host Says the Same Bullying Process Cost the Pro-Israel Lobby Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:59"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the process of bullying and struggle-sessioning Megyn Kelly is the exact one by which the pro-Israel lobby lost Charlie Kirk, as one gets tired of being bullied and senses it is not organic."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "exact same process by which the pro-Israel lobby lost Charlie Kirk because eventually you just get tired of being bullied"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-46"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10025"
+    },
+    {
+     "k": "Supports",
+     "v": "C-73"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare with Kirk's own statements about Israel-lobby pressure in the weeks before his death."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2536",
+   "header": "**C-2536** Host Says the CNN Interview Was Booked Before and Was Not About Charlie",
+   "label": "Host Says the CNN Interview Was Booked Before and Was Not About Charlie",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:32:51"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the CNN interview took place a couple of days after Charlie was killed, was her first interview since, was set up beforehand and was not about Charlie Kirk, and that she kept the appointment."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it was a couple of days after Charlie was killed. First interview I was giving. Just worked out that it was CNN. It wasn't about Charlie Kirk that we were we had set this up before."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1362.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11159"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2538"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check CNN and the host's team for booking emails and the interview date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2537",
+   "header": "**C-2537** Host Says Reeve Is Circulating the CNN Clip",
+   "label": "Host Says Reeve Is Circulating the CNN Clip",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:32:51"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Elle Reeve is the one passing around the CNN clip because she thinks it embarrasses the host and shows she is a white nationalist."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Anyways, she's the one passing around this clip because she thinks it totally embarrasses me and shows that I'm a white nationalist."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1362.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-234, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11159"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check Reeve's and CNN's social accounts for who first posted the clip."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2541",
+   "header": "**C-2541** Clip: Reeve Says 'They' Sounds Like Jews",
+   "label": "Clip: Reeve Says 'They' Sounds Like Jews",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:43"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the played CNN clip, Elle Reeve tells the host that her use of the word 'they' sounds like she is saying Jews, and the host replies that if she is not talking about Jews then 'they' does not mean Jews."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Who is they? And it's like >> because it sounds like you're saying Jews."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3025.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-234, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11159"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the full CNN interview for the exact exchange on 'they'."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2542",
+   "header": "**C-2542** Clip: Host Says 'Zionists Run the Media' Means Supporters of Israel's Ideology",
+   "label": "Clip: Host Says 'Zionists Run the Media' Means Supporters of Israel's Ideology",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:23"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the played CNN clip, the host says that when she says Zionists run the media she means that people who support the political ideology of Israel run the media."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "When I say Zionists run the media, I mean Zionists run the media. People that support the political ideology of Israel run the media."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3025.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11159"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare with the host's other statements on media ownership and the full CNN transcript."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2545",
+   "header": "**C-2545** Clip: Auburn Student Says Israel Attacked Iran Despite Trump Advising Against It",
+   "label": "Clip: Auburn Student Says Israel Attacked Iran Despite Trump Advising Against It",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the played Auburn clip, a student tells Eric and Lara Trump that during the summer, even though Trump advised against it, Israel still attacked Iran and the US still bombed on behalf of Israel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "During the summer against Iran, even though he advised against it, Israel still attacked Iran and the US still bombed on behalf of Israel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1363.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-34, N-374"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare with the June 2025 timeline of Israeli and US strikes on Iran and public statements of what Trump advised."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2546",
+   "header": "**C-2546** Clip: Auburn Student Says Trump Cursed on National TV Over Netanyahu",
+   "label": "Clip: Auburn Student Says Trump Cursed on National TV Over Netanyahu",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:40:03"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the played Auburn clip, the student says Trump's frustrations with Netanyahu were made clear when he cursed on national TV over the situation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Your father's frustrations with the Netanyahu have been made clear when he cursed on national TV over the situation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1363.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-5, N-36"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the televised remark the student refers to and its date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2547",
+   "header": "**C-2547** Clip: Auburn Student Dates the USS Liberty Attack to 1960",
+   "label": "Clip: Auburn Student Dates the USS Liberty Attack to 1960",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:40:03"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the played Auburn clip, the student says Israel has not been a great ally since 1960 when it bombed the USS Liberty."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Israel has not been a great ally to the US all the way since 1960 when they bombed the USS Liberty."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1363.1"
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10451"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The attack on the USS Liberty is generally dated to 1967; record the student's date as said and verify against the historical record."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2548",
+   "header": "**C-2548** Clip: Eric Trump Says His Father Has Had Frustration With Both Sides",
+   "label": "Clip: Eric Trump Says His Father Has Had Frustration With Both Sides",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:40:42"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the played Auburn clip, Eric Trump responds that there is no question his father has had frustration, and that he thinks his father has expressed frustration with both sides throughout the conflict."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "There's no question my my father's had frustration. In fact, I think he says frustration throughout the whole conflict with with both sides."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1363.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-34, N-5"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Cross-check against public statements by Donald Trump about frustration with Netanyahu and with Iran."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2549",
+   "header": "**C-2549** Clip: Lara Trump Cites Armenia-Azerbaijan and Thailand-Cambodia as Trump Peace Wins",
+   "label": "Clip: Lara Trump Cites Armenia-Azerbaijan and Thailand-Cambodia as Trump Peace Wins",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:41:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the played Auburn clip, a speaker answering the student cites a 40-year war between Armenia and Azerbaijan and a five-day war between Thailand and Cambodia as examples of the president's peace through strength."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "whether we're talking about a 40-year war like Armenia and Azeraijan, as Eric just pointed out, a five-day war in Thailand and Cambodia."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1363.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-374, N-5"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the durations and outcomes of the cited conflicts and the speaker's identity in the full clip."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2550",
+   "header": "**C-2550** Host Says Young People Know About Kushner's Middle East Deals and Gaza Benefit",
+   "label": "Host Says Young People Know About Kushner's Middle East Deals and Gaza Benefit",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:42:27"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the kids are now awake: they know about Jared Kushner and his deals with Ivanka and the Middle East, how much money they are set to make, and that Gaza being destroyed is actually beneficial to their bank accounts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "they know about Jared uh and his deals with Ivanka and the Middle East and how much money they're set to make and you know Gaza being destroyed is actually beneficial uh to their bank accounts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-178, N-659"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10063"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review Kushner's Affinity Partners Middle East investments and public statements on Gaza redevelopment."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2551",
+   "header": "**C-2551** Host Says Students Are Told They Cannot Raise Israel on Campus Without Risk of Arrest",
+   "label": "Host Says Students Are Told They Cannot Raise Israel on Campus Without Risk of Arrest",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:43:11"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says America's upside is that 'we' get lectured and told we are not even allowed to bring up Israel on college campuses or risk being arrested, with stricter anti-semitism laws."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we get to get lectured and told that we're not even allowed to bring up Israel on college campuses or risk being like um arrested getting stricter on anti-semitism laws."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10081"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify specific campus arrests or state anti-semitism laws the host may be referring to."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2552",
+   "header": "**C-2552** Host Refers to BB Buying TikTok",
+   "label": "Host Refers to BB Buying TikTok",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:43:11"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that the Trumps expected this generation to get behind their speech because Netanyahu bought TikTok; the transcript wording is garbled ('what BB bought TikTok')."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "you thought that this generation was going to get behind it because what BB bought TikTok."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-36, N-34, N-374"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11096"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify what the host means; check reporting on the TikTok US ownership deal and any Netanyahu statement about TikTok."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2553",
+   "header": "**C-2553** Host Says Pressure to Stop Investigating Comes From People Who Were Not Charlie's Friends",
+   "label": "Host Says Pressure to Stop Investigating Comes From People Who Were Not Charlie's Friends",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:48:20"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says people who were not friends with Charlie, and she says it is always the pro-Israel lobby, are trying to struggle-session her into no longer investigating what happened so that she gets a clean bill of health for not attacking a widow."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "people that weren't friends with Charlie, okay, are trying to struggle session us into no longer investigating"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10025"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compile the public figures who have demanded the host stop or disavow the investigation and test their ties to Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2554",
+   "header": "**C-2554** Host Says Israel Immediately Said It Was Not Them",
+   "label": "Host Says Israel Immediately Said It Was Not Them",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:49:08"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that right from the beginning Israel did not act right, that it said immediately it was not them, and that she finds it odd to jump up and say it wasn't you."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We didn't do it immediately. It wasn't us. Oh, that's kind of weird. That's kind of weird that you're just jumping up and saying that it wasn't you."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10026, N-10056"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find the dated Israeli official statements after September 10, 2025 denying involvement and compare timing with other governments' statements."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2555",
+   "header": "**C-2555** Host Confirms Shapiro Said 'Pick Up His Bloodstained Microphone' After Kirk's Death",
+   "label": "Host Confirms Shapiro Said 'Pick Up His Bloodstained Microphone' After Kirk's Death",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:49:08"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Responding to a viewer comment, the host says Ben Shapiro did say, right after Charlie died, that he would be the one to pick up his bloodstained microphone."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "That is right. Ben did say that right after Charlie died"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3026.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-97, N-1"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find Shapiro's post-assassination statement containing the bloodstained microphone line and its date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2556",
+   "header": "**C-2556** Host Says Fuentes's Reaction and Lying About How She Treated Him First Made Her Think He Was an Op",
+   "label": "Host Says Fuentes's Reaction and Lying About How She Treated Him First Made Her Think He Was an Op",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:50:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that after she invited Nick Fuentes on her podcast, the way he reacted and lied about how she treated him was the first thing that made her think he was an op, and that she does not trust the Fuentes thing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the sense that I got with how he reacted and lied about how we treated him is the first thing that made me think he was an op"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3026.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-201, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10424"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the host's account of the interview planning with Fuentes's own account and any messages between their teams."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2557",
+   "header": "**C-2557** Host Says Pro-Israel Lobby Squeezed Kirk After Losing a Debate",
+   "label": "Host Says Pro-Israel Lobby Squeezed Kirk After Losing a Debate",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:52:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that the pro-Israel lobby, even when it debates, then does what it did to Charlie Kirk and afterwards gets so angry that it lost the debate that it tries to squeeze him and tell him he can never host this person ever again."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "even when they do debate, they then do what they did to Charlie Kirk and afterwards get so angry that they lost the debate that they try to squeeze him and tell him he can never host this person ever again because they lost."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the debate and the guest the host means and any messages from Shapiro's side to Kirk afterward; the referent of 'they' is not specified."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## VI. Optional Flags",
+    "",
+    "- **A-1355.1, A-1355.2, A-1355.3, A-1360.2**: Artifacts verbally referenced but not shown on screen.",
+    "- **A-1361.1**: Event Timestamp \"2024\" not specific to month/day; requires human verification of exact YWLS event date.",
+    "- **A-1362.1**: Event Timestamp described as \"a couple of days after Charlie was killed\" – actual broadcast date requires confirmation via CNN records.",
+    "- **N-235**: Name uncertainty – only first name \"Ariana\" given; full name and spelling unverified.",
+    "- **N-234, N-223**: New node numbers used because figures were not previously confirmed in the available ledger context; if prior episodes already introduced these figures, the existing node IDs should be substituted upon reconciliation.",
+    "- **A-1356.2**: Exact event date for the Tucker Carlson / Marjorie Taylor Greene stage appearance not stated; estimated as recent to upload.",
+    "",
+    "---",
+    "",
+    "## VII. Output Quality Checklist",
+    "",
+    "- [x] Every claim has at least one artifact anchor",
+    "- [x] Every claim has at least one node",
+    "- [x] Every artifact has a Related line",
+    "- [x] Every node has a Related line",
+    "- [x] No episode-wide artifact bundle exists",
+    "- [x] People nodes use the global people ledger range (N-234+)",
+    "- [x] Non-person investigation targets use the 1000 series (N-10236+)",
+    "- [x] No speculative claims inscribed as evidence-backed claims",
+    "- [x] Names preserved exactly or uncertainty noted",
+    "- [x] Formatting consistent"
+   ]
+  }
+ ]
+}

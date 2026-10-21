@@ -1,0 +1,8822 @@
+{
+ "format": "cka-source/1",
+ "episode": 29,
+ "blocks": [
+  {
+   "kind": "text",
+   "lines": [
+    "## 1. Meta-Data",
+    "",
+    "- **Episode**: 29",
+    "- **Monument**: cka",
+    "- **CKA seq**: 29",
+    "- **YouTube id**: YaZfwLQ7vrI",
+    "- **Candace Ep**: 262",
+    "- **Source**: Candace Owens YouTube",
+    "- **Video Timestamp Range**: 00:00:00–00:59:48",
+    "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
+    "- **Transcript SHA-256**: f464e8e712994efb56bee93a7c7a23da86a3df5028517114a2bdb3d80e5688a8",
+    "",
+    "- **Episode Ledger Summary**:",
+    "  - Tip-minted Nodes (supplement_2026-10c): N-795, N-796, N-797",
+    "  - Hole-minted Nodes (reintro-ep029): N-225, N-451, N-10251, N-10401, N-10573, N-10576, N-10887",
+    "  - Tip-minted Nodes (reintro-ep029): N-11064, N-11147",
+    "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
+    "  - Claim Range: C-2558–C-2639",
+    "  - New Nodes Introduced: N-236, N-238, N-239, N-240, N-241, N-242, N-243, N-244, N-245, N-10239, N-10240, N-10241",
+    "  - Reused Nodes Appearing: N-5, N-17, N-40, N-46, N-66, N-82, N-97, N-99, N-205, N-229, N-234, N-10000, N-10024, N-10063, N-10078, N-10110, N-10132, N-10149, N-10196, N-10209, N-10210, N-10224, N-10231, N-10237, N-10253, N-10319, N-10398, N-10406, N-10840, N-11099, N-11159, N-11171, N-237, N-10242, N-10436, N-10447, N-11158, N-10434",
+    "  - (see registers)",
+    "",
+    "# Episode 29 Analysis – Bride of Charlie / Monument Ep 29",
+    "",
+    "## I. Meta-Data",
+    "",
+    "- Episode Title: \"Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262\"",
+    "- Series Title: Bride of Charlie (Monument series, Batch 9)",
+    "- Episode Number: 29 (Monument Ep 29)",
+    "- Channel / Creator: Candace Owens (@RealCandaceO)",
+    "- Episode Date: 2025-11-10 (upload_date)",
+    "- Source Used for Analysis: YouTube transcript (yt-dlp-tv_embedded-manual; cleaned with lexicon + paragraph merge; music cues dropped; no invented words); cross-referenced with chapter timestamps",
+    "- Transcript Completeness Status: Complete (full transcript provided; chapter segmentation intact)",
+    "- Analyst / Agent: Investigative Analysis Agent (Episode Analysis Protocol)",
+    "- Analysis Date: 2026",
+    "- YouTube ID / URL: YaZfwLQ7vrI / https://www.youtube.com/watch?v=YaZfwLQ7vrI",
+    "- Duration: 59:48",
+    "",
+    "**Episode 29 Ledger Summary**",
+    "- Artifact Families Introduced: A-1364, A-1365, A-1366, A-1367, A-1368, A-1369, A-1370, A-1371, A-1372, A-1373, A-1374, A-1375, A-1376, A-1377, A-1378 (15 families)",
+    "- New Person Nodes: N-236, N-237, N-238, N-239, N-240, N-7, N-38, N-241, N-242, N-227, N-243, N-244, N-22, N-245 (14 people)",
+    "- New Investigation Target Nodes: N-10239, N-10240, N-10241, N-10242 (4 targets)",
+    "- Existing Nodes Reused: N-1 (Charlie Kirk)",
+    "",
+    "---",
+    "",
+    "## II. Executive Summary",
+    "",
+    "This episode presents the host's framing that a coordinated \"crash out\" is occurring across Christian Zionist commentators, right-wing media figures, and AI platforms in response to her ongoing Charlie Kirk assassination investigation series. The evidentiary core of the show consists of eleven external artifacts played or read aloud: six audio clips (Glenn Beck/Steve Baker, Lance Wallnau, Frank Turek, Allie Beth Stuckey, Mark Levin, Keri Smith), one live display of text messages allegedly from Charlie Kirk, and four social-media statements (Seth Dillon, Joel Berry, Frank McCormick, Grok). These artifacts collectively document the public-facing reaction pattern rather than introducing new primary evidence on the Kirk case itself.",
+    "",
+    "The episode advances two substantive investigative vectors. First, it introduces a \"Christian Zionist pastors connection\" thesis that links NAR (New Apostolic Reformation) figures – most prominently Lance Wallnau – to Turning Point USA Faith via alleged financial and operational ties, situating this within a broader \"faith-military constellation\" claim. Second, it relays the Steve Baker / Glenn Beck report identifying Shauni Rae Kerkhoff/Kerkhoff as the alleged January 6 pipe-bomb dropper, tying that revelation to the broader \"feds behind major events\" framing. The episode also advances a single unverified tip-based claim that federal agents seized Timpanogos Hospital footage.",
+    "",
+    "Structurally, Episode 29 functions as a reaction-aggregation and pattern-naming installment: it does not directly advance the Kirk forensic case but accumulates the response artifacts needed to support the host's \"panic\" and \"coordinated pushback\" thesis across future episodes.",
+    "",
+    "---",
+    "",
+    "## III. Artifact Register",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1364",
+   "header": "**A-1364** Lance Wallnau Facebook Post Bundle",
+   "label": "Lance Wallnau Facebook Post Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1364.1",
+   "header": "**A-1364.1** Lance Wallnau Facebook Post (Nov 6, 2020)",
+   "label": "Lance Wallnau Facebook Post (Nov 6, 2020)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:12:07"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2572, N-240*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1365",
+   "header": "**A-1365** Lance Wallnau Seven Mountains Audio Bundle",
+   "label": "Lance Wallnau Seven Mountains Audio Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1365.1",
+   "header": "**A-1365.1** Lance Wallnau audio describing seven mountain mandate",
+   "label": "Lance Wallnau audio describing seven mountain mandate",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:13:31–00:14:22"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2576, N-240*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1366",
+   "header": "**A-1366** Frank Turek NAR Critique Audio Bundle",
+   "label": "Frank Turek NAR Critique Audio Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1366.1",
+   "header": "**A-1366.1** Frank Turek audio describing NAR as \"darker than a cult\"",
+   "label": "Frank Turek audio describing NAR as \"darker than a cult\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:18:06–00:18:30"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2583, N-7*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1367",
+   "header": "**A-1367** Glenn Beck / Steve Baker Interview Bundle",
+   "label": "Glenn Beck / Steve Baker Interview Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1367.1",
+   "header": "**A-1367.1** Glenn Beck broadcast featuring Steve Baker on Shauni Rae Kerkhoff / January 6 pipe bombs",
+   "label": "Glenn Beck broadcast featuring Steve Baker on Shauni Rae Kerkhoff / January 6 pipe bombs",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:08:09–00:09:40"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (audio played)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2567, N-236, N-237, N-238, N-10241*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1368",
+   "header": "**A-1368** CIA Spokesperson Statement Bundle",
+   "label": "CIA Spokesperson Statement Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1368.1",
+   "header": "**A-1368.1** Liz Lyons (CIA spokesperson) statement re: Shauni Kerkhoff / Capitol Police Campus Security",
+   "label": "Liz Lyons (CIA spokesperson) statement re: Shauni Kerkhoff / Capitol Police Campus Security",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:10:32"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low (relayed via host; not directly displayed)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2570, N-238, N-239, N-10241*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1369",
+   "header": "**A-1369** Frank McCormick X Post Bundle",
+   "label": "Frank McCormick X Post Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1369.1",
+   "header": "**A-1369.1** Frank McCormick X post claiming AI analysis showed Charlie Kirk text messages were \"digitally fabricated\"",
+   "label": "Frank McCormick X post claiming AI analysis showed Charlie Kirk text messages were \"digitally fabricated\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:30:25–00:31:24"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2606, N-242*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1370",
+   "header": "**A-1370** Charlie Kirk Text Message Bundle",
+   "label": "Charlie Kirk Text Message Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1370.1",
+   "header": "**A-1370.1** Text messages displayed on air, allegedly from Charlie Kirk to Candace Owens, including the \"Iron sharpens iron\" passage",
+   "label": "Text messages displayed on air, allegedly from Charlie Kirk to Candace Owens, including the \"Iron sharpens iron\" passage",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:31:24–00:32:35"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (displayed live on air)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2607, N-1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1371",
+   "header": "**A-1371** Seth Dillon Babylon Bee Tweet Bundle",
+   "label": "Seth Dillon Babylon Bee Tweet Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1371.1",
+   "header": "**A-1371.1** Seth Dillon tweet quoting Matthew 16:26 (\"what do you benefit if you gain the whole world but lose your own soul\")",
+   "label": "Seth Dillon tweet quoting Matthew 16:26 (\"what do you benefit if you gain the whole world but lose your own soul\")",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:28:07"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2599, N-38*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1372",
+   "header": "**A-1372** Joel Berry Babylon Bee Tweet Bundle",
+   "label": "Joel Berry Babylon Bee Tweet Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1372.1",
+   "header": "**A-1372.1** Joel Berry tweet stating Candace and Tucker gave \"our side nothing but demoralization, division, confusion, and conflict\"",
+   "label": "Joel Berry tweet stating Candace and Tucker gave \"our side nothing but demoralization, division, confusion, and conflict\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:29:06"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2602, N-241*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1373",
+   "header": "**A-1373** Grok X Statement Bundle",
+   "label": "Grok X Statement Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1373.1",
+   "header": "**A-1373.1** Grok (X AI) public statement claiming Candace Owens accused Turning Point USA of orchestrating the October 15, 2025 Charlie Kirk assassination via former volunteer Marcus Hale",
+   "label": "Grok (X AI) public statement claiming Candace Owens accused Turning Point USA of orchestrating the October 15, 2025 Charlie Kirk assassination via former volunteer Marcus Hale",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:36:53–00:37:53"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2617, N-243*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1374",
+   "header": "**A-1374** Allie Beth Stuckey Audio Clip Bundle",
+   "label": "Allie Beth Stuckey Audio Clip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1374.1",
+   "header": "**A-1374.1** Allie Beth Stuckey clip warning viewers about asking questions and accusing them of \"outsourcing your critical thinking\"",
+   "label": "Allie Beth Stuckey clip warning viewers about asking questions and accusing them of \"outsourcing your critical thinking\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:33:55–00:34:48"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (audio played)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2611, N-227*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1375",
+   "header": "**A-1375** Mark Levin Audio Clip Bundle",
+   "label": "Mark Levin Audio Clip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1375.1",
+   "header": "**A-1375.1** Mark Levin broadcast responding to Tucker Carlson debate request; declining and calling Carlson \"Nazi promoter\" / \"modern-day David Duke\"",
+   "label": "Mark Levin broadcast responding to Tucker Carlson debate request; declining and calling Carlson \"Nazi promoter\" / \"modern-day David Duke\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:39:10–00:41:45"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (audio played)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2621, N-244, N-22*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1376",
+   "header": "**A-1376** Keri Smith Deprogrammed Audio Clip Bundle",
+   "label": "Keri Smith Deprogrammed Audio Clip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1376.1",
+   "header": "**A-1376.1** Keri Smith (Deprogrammed podcast) audio stating Candace Owens \"is exhibiting several cult tactics\" and \"cluster B personality disorder behavior\"",
+   "label": "Keri Smith (Deprogrammed podcast) audio stating Candace Owens \"is exhibiting several cult tactics\" and \"cluster B personality disorder behavior\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:44:50–00:46:29"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (audio played)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2626, N-245*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1377",
+   "header": "**A-1377** BBC Borderline Article Bundle",
+   "label": "BBC Borderline Article Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1377.1",
+   "header": "**A-1377.1** BBC headline/article referencing Las Vegas shooting survivor among the dead at Borderline Bar and Grill",
+   "label": "BBC headline/article referencing Las Vegas shooting survivor among the dead at Borderline Bar and Grill",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:23:17"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (headline referenced; full article not shown)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2595, N-10240*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1378",
+   "header": "**A-1378** Timpanogos Tip Bundle",
+   "label": "Timpanogos Tip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1378.1",
+   "header": "**A-1378.1** Anonymous tip to host alleging federal agents seized hospital footage at Timpanogos Hospital on the day of the Charlie Kirk shooting",
+   "label": "Anonymous tip to host alleging federal agents seized hospital footage at Timpanogos Hospital on the day of the Charlie Kirk shooting",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:01:46–00:03:01"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low (anonymous tip; unverified)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2559, N-10239*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2910",
+   "header": "**A-2910** Tip Line Email Request Bundle",
+   "label": "Tip Line Email Request Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2910.1",
+   "header": "**A-2910.1** Host verbal reference to the tip email address moretips@candaceowens.com (verbal call for footage of the black SUV at the hospital)",
+   "label": "Host verbal reference to the tip email address moretips@candaceowens.com (verbal call for footage of the black SUV at the hospital)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"please get that to us at moretips@candaceowens. com\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:04:10"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2565, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2911",
+   "header": "**A-2911** NAR January 6 Article Bundle",
+   "label": "NAR January 6 Article Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2911.1",
+   "header": "**A-2911.1** Host verbal reference to an article titled The New Apostolic Reformation Drove the January 6th Riots (not shown)",
+   "label": "Host verbal reference to an article titled The New Apostolic Reformation Drove the January 6th Riots (not shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"The new apostolic reformation drove the January 6th riots. So, why was it overlooked by the House Select Committee?\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:12:07"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2575, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2912",
+   "header": "**A-2912** Tip Line Reference Bundle",
+   "label": "Tip Line Reference Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2912.1",
+   "header": "**A-2912.1** Host verbal reference to the tip line as the source of all her information",
+   "label": "Host verbal reference to the tip line as the source of all her information",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"I say we because all the information I have is thanks to the tip line.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:47:16"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2630, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## IV. Node Register",
+    ""
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-1",
+   "header": "**N-1** Charlie Kirk",
+   "label": "Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of the assassination; the host speaks of his interest in the Seven Mountain Mandate, his funding questions and his shooting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2561, C-2563, C-2569, C-2577, C-2584, C-2585, C-2587, C-2605, C-2613, C-2614, C-2615, C-2624, C-2627, C-2630, C-2631, C-2633, C-2634, C-2638*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-3",
+   "header": "**N-3** Candace Owens",
+   "label": "Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host; speaks for herself throughout."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2558, C-2560, C-2561, C-2562, C-2563, C-2564, C-2565, C-2566, C-2569, C-2573, C-2574, C-2579, C-2580, C-2585, C-2586, C-2588, C-2590, C-2591, C-2592, C-2593, C-2594, C-2597, C-2600, C-2601, C-2604, C-2605, C-2608, C-2609, C-2610, C-2612, C-2613, C-2614, C-2615, C-2616, C-2618, C-2619, C-2620, C-2624, C-2625, C-2628, C-2629, C-2630, C-2631, C-2632, C-2633, C-2634, C-2635, C-2636, C-2637, C-2638, C-2639*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-5",
+   "header": "**N-5** Donald Trump",
+   "label": "Donald Trump",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Said by the host to have been surrounded by pastors before January 6."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2574*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-17",
+   "header": "**N-17** Rob McCoy",
+   "label": "Rob McCoy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Pastor the host ties to Turning Point Faith, Wallnau and the Borderline shooter's family."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2580, C-2586, C-2587, C-2592, C-2596*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-40",
+   "header": "**N-40** Tyler Robinson",
+   "label": "Tyler Robinson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Accused; the host says no clear image of him on campus has been shown."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2632*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-46",
+   "header": "**N-46** Megyn Kelly",
+   "label": "Megyn Kelly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Pressed by Ben Shapiro on stage according to the host."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2604*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-66",
+   "header": "**N-66** Village Crazy Lady",
+   "label": "Village Crazy Lady",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host's X source Mel, credited for work on the faith-military constellation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2588*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-82",
+   "header": "**N-82** Brigitte Macron",
+   "label": "Brigitte Macron",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Topic the host says Elle Reeve pressed her about."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2639*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-97",
+   "header": "**N-97** Ben Shapiro",
+   "label": "Ben Shapiro",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of the host's account of the Megyn Kelly stage exchange and Charlie's texts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2604, C-2605*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-99",
+   "header": "**N-99** Alex Clark",
+   "label": "Alex Clark",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host says she accused her of lying about giving no interviews."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2637*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-205",
+   "header": "**N-205** Sean Feucht",
+   "label": "Sean Feucht",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named by the host as appearing in the NAR article."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2575*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-225",
+   "header": "**N-225** Stephen Paddock",
+   "label": "Stephen Paddock",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Las Vegas 2017 shooter per official account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2589*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-229",
+   "header": "**N-229** Alyssa Cordova",
+   "label": "Alyssa Cordova",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Person the host says Allie Beth Stuckey is working with."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2610*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-234",
+   "header": "**N-234** Elle Reeve",
+   "label": "Elle Reeve",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "CNN interviewer, transcribed Elle Reeve."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2639*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-451",
+   "header": "**N-451** Paul Havsgaard",
+   "label": "Paul Havsgaard",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named as a former megachurch pastor accused of trafficking children from Romania (transcribed Paul Havsgaard)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2598*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10000",
+   "header": "**N-10000** Turning Point USA",
+   "label": "Turning Point USA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Organization at the center of the faith, funding, security and DOGE claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2585, C-2586, C-2615, C-2616, C-2620, C-2622, C-2633, C-2634, C-2636*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10024",
+   "header": "**N-10024** Kirk Assassination Investigation Timeline",
+   "label": "Kirk Assassination Investigation Timeline",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing timeline topic reused."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2563, C-2612, C-2613*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10063",
+   "header": "**N-10063** Gaza",
+   "label": "Gaza",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Place referenced in the host's characterisation of Joel Berry."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2603*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10078",
+   "header": "**N-10078** TPUSA Financial Apparatus Investigation",
+   "label": "TPUSA Financial Apparatus Investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the finances claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2634, C-2636*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10110",
+   "header": "**N-10110** Tyler Robinson Evidence Gaps",
+   "label": "Tyler Robinson Evidence Gaps",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2632*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10132",
+   "header": "**N-10132** TPUSA DOGE Department / Financial Audit",
+   "label": "TPUSA DOGE Department / Financial Audit",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2633*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10149",
+   "header": "**N-10149** Hospital Routing Discrepancy",
+   "label": "Hospital Routing Discrepancy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2560, C-2561*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10196",
+   "header": "**N-10196** UVU Hospital Charlie Kirk Medical File Access Question",
+   "label": "UVU Hospital Charlie Kirk Medical File Access Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2561*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10209",
+   "header": "**N-10209** TPUSA Faith / Christian Zionist Infiltration Question",
+   "label": "TPUSA Faith / Christian Zionist Infiltration Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2584*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10210",
+   "header": "**N-10210** NAR (New Apostolic Reformation) Infiltration Question",
+   "label": "NAR (New Apostolic Reformation) Infiltration Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2573, C-2574, C-2575, C-2584*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10224",
+   "header": "**N-10224** UVU Event Approval Timeline Anomaly",
+   "label": "UVU Event Approval Timeline Anomaly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2616*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10231",
+   "header": "**N-10231** TPUSA / Candace Owens NDA and Blexit Question",
+   "label": "TPUSA / Candace Owens NDA and Blexit Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2610*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10237",
+   "header": "**N-10237** Shapiro Statement Accuracy Re: Owens' Accusations",
+   "label": "Shapiro Statement Accuracy Re: Owens' Accusations",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2604*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10251",
+   "header": "**N-10251** TPUSA Faith-Angle Investigation",
+   "label": "TPUSA Faith-Angle Investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2579*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10253",
+   "header": "**N-10253** Egyptian Military Plane Tracking Investigation",
+   "label": "Egyptian Military Plane Tracking Investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the Wednesday preview."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2619*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10319",
+   "header": "**N-10319** .30-06 Forensic Narrative Validity",
+   "label": ".30-06 Forensic Narrative Validity",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2614, C-2631*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10398",
+   "header": "**N-10398** Turning Point USA Faith Structure",
+   "label": "Turning Point USA Faith Structure",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2579, C-2585, C-2586, C-2587, C-2635*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10401",
+   "header": "**N-10401** Romania / Eastern Europe Trafficking Cluster",
+   "label": "Romania / Eastern Europe Trafficking Cluster",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2597, C-2598*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10406",
+   "header": "**N-10406** Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
+   "label": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2604*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10434",
+   "header": "**N-10434** Charlie Kirk DOGE Pre-Death Establishment",
+   "label": "Charlie Kirk DOGE Pre-Death Establishment",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2633*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10436",
+   "header": "**N-10436** TPUSA Faith Military Infiltration Claim",
+   "label": "TPUSA Faith Military Infiltration Claim",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2580, C-2581, C-2582, C-2588*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10447",
+   "header": "**N-10447** Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
+   "label": "Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2614*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10573",
+   "header": "**N-10573** Timpanogos Hospital Evidence Question",
+   "label": "Timpanogos Hospital Evidence Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2562, C-2563, C-2565*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10576",
+   "header": "**N-10576** Timpanogos Hospital Records / Chain of Custody",
+   "label": "Timpanogos Hospital Records / Chain of Custody",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2564*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10840",
+   "header": "**N-10840** UVU Ambulance Denial Discrepancy",
+   "label": "UVU Ambulance Denial Discrepancy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2615*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10887",
+   "header": "**N-10887** Las Vegas",
+   "label": "Las Vegas",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Place of the 2017 shooting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2589, C-2590, C-2591*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11064",
+   "header": "**N-11064** Ben Shapiro and Charlie Kirk Friendship Narrative",
+   "label": "Ben Shapiro and Charlie Kirk Friendship Narrative",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2605*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11099",
+   "header": "**N-11099** Candace Owens Australia Visa Review",
+   "label": "Candace Owens Australia Visa Review",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2601*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11147",
+   "header": "**N-11147** January 6 Federal Coordination Claim",
+   "label": "January 6 Federal Coordination Claim",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2566, C-2569, C-2573, C-2574, C-2575*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-795",
+   "header": "**N-795** Loren Cunningham",
+   "label": "Loren Cunningham",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Founder of Youth With A Mission; first named in the Wallnau clip at 00:13:31 in episode 29."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2578*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-796",
+   "header": "**N-796** Bill Bright",
+   "label": "Bill Bright",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Named in the Wallnau clip at 00",
+     "v": "13:31 in episode 29 as the other party to the 2000 conversation.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2578*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-797",
+   "header": "**N-797** Carl Wallnau",
+   "label": "Carl Wallnau",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Father of Lance Wallnau; first named by the host at 00:17:09 in episode 29."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2582*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11158",
+   "header": "**N-11158** Cult Accusation Against Candace Owens Audience",
+   "label": "Cult Accusation Against Candace Owens Audience",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "Keri Smith's and others' claims that the host's show uses cult tactics, and the host's rebuttal."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2625, C-2627, C-2628, C-2629*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11159",
+   "header": "**N-11159** Candace Owens CNN Interview and Interview Statements",
+   "label": "Candace Owens CNN Interview and Interview Statements",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "Dispute over whether the host gave interviews after Charlie Kirk's death and what the CNN interview with Elle Reeve covered."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2637, C-2638, C-2639*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "### Person Nodes",
+    ""
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-236",
+   "header": "**N-236** Steve Baker",
+   "label": "Steve Baker",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Reporter / editor credited with the five-year investigation identifying the alleged January 6 pipe-bomb dropper."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1367.1, C-2567*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-237",
+   "header": "**N-237** Glenn Beck",
+   "label": "Glenn Beck",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host of the broadcast where Steve Baker's pipe-bomb findings were aired and played in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1367.1, C-2567*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-238",
+   "header": "**N-238** Shauni Kerkhoff",
+   "label": "Shauni Kerkhoff",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Person identified by Steve Baker (as \"Kirkup\") and by CIA spokesperson Liz Lyons (as \"Kerkhoff\") in connection with the January 6 pipe bombs; spelling discrepancy is preserved."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1367.1, A-1368.1, C-2567, C-2570, N-10241*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-239",
+   "header": "**N-239** Liz Lyons",
+   "label": "Liz Lyons",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "CIA spokeswoman cited in the episode as the source of the statement on Capitol Police Campus Security employment."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1368.1, C-2570*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-240",
+   "header": "**N-240** Lance Wallnau",
+   "label": "Lance Wallnau",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "NAR preacher; proponent of the seven mountain mandate; alleged (via anonymous Turning Point sources) to have directed funds into Turning Point USA Faith."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1364.1, A-1365.1, C-2572, C-2576, N-10242*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-7",
+   "header": "**N-7** Frank Turek",
+   "label": "Frank Turek",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Christian apologist whose audio clip on NAR was played in the episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1366.1, C-2583*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-38",
+   "header": "**N-38** Seth Dillon",
+   "label": "Seth Dillon",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Babylon Bee principal whose tweet quoting Matthew 16:26 was read aloud in the episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1371.1, C-2599*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-241",
+   "header": "**N-241** Joel Berry",
+   "label": "Joel Berry",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Babylon Bee writer whose tweet criticizing Candace/Tucker was read aloud in the episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1372.1, C-2602*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-242",
+   "header": "**N-242** Frank McCormick",
+   "label": "Frank McCormick",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "X user who posted the AI-analysis claim challenging the authenticity of the Charlie Kirk text messages."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1369.1, C-2606*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-227",
+   "header": "**N-227** Allie Beth Stuckey",
+   "label": "Allie Beth Stuckey",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Commentator whose audio clip warning against asking questions without \"hard evidence\" was played in the episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1374.1, C-2611*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-243",
+   "header": "**N-243** Grok",
+   "label": "Grok",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "X platform AI whose public statement about Candace/TPUSA/Marcus Hale was read aloud in the episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1373.1, C-2617*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-244",
+   "header": "**N-244** Mark Levin",
+   "label": "Mark Levin",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Radio host whose on-air response declining Tucker Carlson's debate request was played in the episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1375.1, C-2621*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-22",
+   "header": "**N-22** Tucker Carlson",
+   "label": "Tucker Carlson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host identified as the sender of the debate-offer text message to Mark Levin and central subject of the Levin's on-air rebuttal."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1375.1, C-2621*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-245",
+   "header": "**N-245** Keri Smith",
+   "label": "Keri Smith",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host of the Deprogrammed podcast whose audio characterizing Candace Owens as exhibiting \"cult tactics\" and \"cluster B personality disorder behavior\" was played in the episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1376.1, C-2626*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "### Investigation Target Nodes",
+    ""
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10239",
+   "header": "**N-10239** Timpanogos Hospital Footage Seizure Verification",
+   "label": "Timpanogos Hospital Footage Seizure Verification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Persistent claim (host-relayed, tip-sourced) that federal agents seized hospital footage at Timpanogos on the day of the Kirk shooting; not independently corroborated in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1378.1, C-2559*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10240",
+   "header": "**N-10240** Borderline Bar Las Vegas Survivor Pattern",
+   "label": "Borderline Bar Las Vegas Survivor Pattern",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host-asserted pattern linking the November 2018 Borderline Bar & Grill shooting (with a Las Vegas survivor among the dead) to the prior 2017 Las Vegas shooting and to Rob McCoy's subsequent election as Thousand Oaks mayor."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1377.1, C-2595*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10241",
+   "header": "**N-10241** Shauni Rae Kerkhoff / Kerkhoff Identity Verification",
+   "label": "Shauni Rae Kerkhoff / Kerkhoff Identity Verification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Persistent discrepancy in the episode between the spelling \"Kirkup\" (Steve Baker, via Glenn Beck audio) and \"Kerkhoff\" (CIA spokesperson Liz Lyons); preservation target for cross-source verification."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1367.1, A-1368.1, C-2567, C-2570, N-238*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10242",
+   "header": "**N-10242** Seven Mountain Mandate / NAR Influence on TPUSA Faith",
+   "label": "Seven Mountain Mandate / NAR Influence on TPUSA Faith",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Persistent investigable claim that NAR figures (notably Lance Wallnau) influenced and funded Turning Point USA Faith operations, and that this represents a broader \"faith-military constellation\" with infiltration doctrine."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1364.1, A-1365.1, C-2572, C-2576, N-240*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11171",
+   "header": "**N-11171** Kirk \"Internet DOGE\" Money-Tracing Effort",
+   "label": "Kirk \"Internet DOGE\" Money-Tracing Effort",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host says Charlie established DOGE (transcribed \"DOAJ\") after realizing something was wrong with the money. Introduced here; ep54 calls it \"DOVE\"."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2633*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## V. Claim Register",
+    ""
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2572",
+   "header": "**C-2572** Lance Wallnau's November 6, 2020 Facebook Post Urged \"Stop the Steal\"",
+   "label": "Lance Wallnau's November 6, 2020 Facebook Post Urged \"Stop the Steal\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "A Facebook post by Lance Wallnau dated November 6, 2020 was read aloud in the episode and stated: \"We're going to expose the fraud and stop the steal. The Lord our God is with us, and we were built for this battle. Be strong and courageous.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1364.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-240"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10242"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve and verify the original Facebook post via archive (e.g., Wayback Machine) or screenshot."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2576",
+   "header": "**C-2576** Clip: Lance Wallnau Describes the Seven Mountain Mandate",
+   "label": "Clip: Lance Wallnau Describes the Seven Mountain Mandate",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:31–00:14:22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In an audio clip played on the episode, Lance Wallnau defined the seven mountain mandate as covering religion, education, family, government, media, art/entertainment, and business/economics, and described pursuing it either \"covert\" or \"overt.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1365.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-240"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10242"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the full source video to verify exact wording, context, and date."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2583",
+   "header": "**C-2583** Clip Presented as Turek Calls Word of Faith Hermeneutic Aberrant and Occult-Like",
+   "label": "Clip Presented as Turek Calls Word of Faith Hermeneutic Aberrant and Occult-Like",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:06–00:18:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In an audio clip played on the episode, presented by the host as Frank Turek, after the New Apostolic Reformation is named, a speaker describing the Word of Faith movement says its hermeneutic is \"aberrant\" and that its adherents do things \"more new agey or more even occult-like than they are Christian\"; the host introduces the clip by saying Turek acknowledged NAR was a cult, \"actually darker than a cult.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1366.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-7"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the full source audio/podcast to verify exact wording and full context."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2567",
+   "header": "**C-2567** Host Says Baker Identified Capitol Police Officer as Pipe-Bomb Dropper",
+   "label": "Host Says Baker Identified Capitol Police Officer as Pipe-Bomb Dropper",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:09–00:09:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the person responsible for dropping off the January 6 pipe bombs was revealed to be a 31-year-old woman and United States Capitol Police officer she names as Shauni Kerkhoff, credits reporter Steve Baker with the discovery, plays Glenn Beck interviewing Baker (who says a federal source responded \"She's one of us\"), and says it was a 5-year investigation involving forensic analysis."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1367.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-236, N-237, N-238"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10241"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify against federal charging documents, the Glenn Beck broadcast archive, and Steve Baker's contemporaneous reporting."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2570",
+   "header": "**C-2570** Liz Lyons (CIA) Stated Shauni Kerkhoff Worked in Capitol Police Campus Security",
+   "label": "Liz Lyons (CIA) Stated Shauni Kerkhoff Worked in Capitol Police Campus Security",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:32"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "CIA spokeswoman Liz Lyons, as relayed by the host, stated that Shauni Kerkhoff, \"the alleged person who dropped off these pipe bombs,\" worked in Capitol Police Campus Security; the host adds that she lives in Alexandria, Virginia."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1368.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-238, N-239"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10241"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the original CIA press statement or statement of record to verify wording and confirm whether \"Kerkhoff\" and \"Kirkup\" refer to the same individual."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2606",
+   "header": "**C-2606** Frank McCormick Claimed AI Analysis Showed Charlie Kirk Text Messages Were \"Digitally Fabricated\"",
+   "label": "Frank McCormick Claimed AI Analysis Showed Charlie Kirk Text Messages Were \"Digitally Fabricated\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:25–00:31:24"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Frank McCormick posted on X that AI analysis of bubble design, profile placement, header layout, font, spacing, and color balance of the Charlie Kirk text messages displayed by Candace Owens concluded the messages were \"digitally fabricated.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1369.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-242, N-3, N-1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the original X post and the underlying AI analysis to assess methodology and reliability."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2607",
+   "header": "**C-2607** Text Messages Displayed On Air as Allegedly From Charlie Kirk",
+   "label": "Text Messages Displayed On Air as Allegedly From Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:24–00:32:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Text messages displayed on air, presented by the host as authentic messages between Charlie Kirk and Candace Owens, included the passage: \"Iron sharpens iron. It's not a dominance partnership. Each hand washes the other.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1370.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Forensic examination of the displayed text metadata, corroborating testimony, and chain-of-custody verification."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2599",
+   "header": "**C-2599** Seth Dillon Tweeted Verse About Losing One's Soul",
+   "label": "Seth Dillon Tweeted Verse About Losing One's Soul",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the tweet the host shows, Seth Dillon (Babylon Bee) posted the verse \"what do you benefit if you gain the whole world but lose your own soul\"; the host says he tweeted it when her podcast hit number one globally."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1371.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-38, N-3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve and verify the original tweet on Seth Dillon's X account."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2602",
+   "header": "**C-2602** Joel Berry Tweeted That Candace/Tucker Gave the Right \"Demoralization, Division, Confusion, and Conflict\"",
+   "label": "Joel Berry Tweeted That Candace/Tucker Gave the Right \"Demoralization, Division, Confusion, and Conflict\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:29:06"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Joel Berry (Babylon Bee) tweeted that in the last year Candace and Tucker had given \"our side nothing but demoralization, division, confusion, and conflict,\" calling their impact \"devastating\" and \"pathetic.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1372.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-241, N-3, N-22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve and verify the original tweet on Joel Berry's X account."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2617",
+   "header": "**C-2617** Grok Stated Candace Owens Accused Turning Point USA of Orchestrating Kirk's Assassination",
+   "label": "Grok Stated Candace Owens Accused Turning Point USA of Orchestrating Kirk's Assassination",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:53–00:37:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Grok (X AI) issued a public statement read aloud in the episode claiming that \"Candace Owens accused Turning Point USA of Charlie Kirk assassination role\" and that she alleged TPUSA orchestrated the October 15, 2025 assassination via former volunteer Marcus Hale."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1373.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-243, N-3, N-1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the original Grok/X post and compare against Candace Owens' contemporaneous statements on the show."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2611",
+   "header": "**C-2611** Allie Beth Stuckey Said Implicating a Real Person in a Murder Plot Requires Hard Evidence",
+   "label": "Allie Beth Stuckey Said Implicating a Real Person in a Murder Plot Requires Hard Evidence",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:33:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In an audio clip played on the episode, Allie Beth Stuckey told people who say they are seeking truth and asking questions that they were \"outsourcing your critical thinking,\" and warned that implicating a real person in a murder plot required being \"100% sure\" and backed by \"hard evidence.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1374.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-227, N-3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the full source video to verify exact wording and full context."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2621",
+   "header": "**C-2621** Mark Levin Declined Tucker Carlson's Debate Request",
+   "label": "Mark Levin Declined Tucker Carlson's Debate Request",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:10–00:41:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In an audio clip played on the episode, Mark Levin responded to Tucker Carlson's debate offer with the text-message reply \"My family and I want nothing to do with you,\" and called Carlson a \"Nazi promoter\" and \"modern-day David Duke,\" stating he would \"rather debate a skunk than\" Carlson."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1375.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-22, N-244"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the full Mark Levin broadcast to verify exact wording and any additional context."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2626",
+   "header": "**C-2626** Keri Smith (Deprogrammed) Said Candace Owens Exhibits \"Cult Tactics\" and \"Cluster B Personality Disorder Behavior\"",
+   "label": "Keri Smith (Deprogrammed) Said Candace Owens Exhibits \"Cult Tactics\" and \"Cluster B Personality Disorder Behavior\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:50–00:46:29"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Keri Smith, host of the Deprogrammed podcast, in audio played on the episode, said she thinks Candace Owens is \"exhibiting several cult tactics\" and is using manipulative language and \"a lot of cluster B personality disorder behavior.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1376.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-245, N-3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the full Deprogrammed episode to verify exact wording and complete reasoning."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2595",
+   "header": "**C-2595** BBC Reported a Las Vegas Shooting Survivor Was Among the Dead at the Borderline Bar & Grill",
+   "label": "BBC Reported a Las Vegas Shooting Survivor Was Among the Dead at the Borderline Bar & Grill",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "A BBC headline referenced in the episode reported that a Las Vegas shooting survivor was among the dead at the Borderline Bar and Grill shooting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1377.1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10240"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the original BBC article to verify the headline, the identity of the survivor, and the broader reporting."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2559",
+   "header": "**C-2559** Feds Allegedly Seized Footage at Timpanogos Hospital on the Day of the Kirk Shooting",
+   "label": "Feds Allegedly Seized Footage at Timpanogos Hospital on the Day of the Kirk Shooting",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:01:46–00:03:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "According to tips the host says she received, federal agents seized footage at Timpanogos Hospital on the day of the Charlie Kirk shooting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1378.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10239"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify via FOIA requests, hospital records, contemporaneous reporting, or independent witness testimony."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2558",
+   "header": "**C-2558** Host Says Only Zionists Seem to Believe the Fed Story",
+   "label": "Host Says Only Zionists Seem to Believe the Fed Story",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:01:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says it is odd that the only people who seem to believe the Fed story are Zionists, and that their panic suggests she is getting closer to something big."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it's kind of weird how the only people that seem to believe the Fed story are Zionists"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "This is a sweeping group characterisation; it could only be tested by surveying who publicly endorsed the official account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2560",
+   "header": "**C-2560** Host Says Timpanogos Was Trauma Three While UV Hospital Was Trauma One",
+   "label": "Host Says Timpanogos Was Trauma Three While UV Hospital Was Trauma One",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:01:46"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Timpanogos Hospital, where Charlie Kirk was taken, was further away and less equipped than UV Hospital, which she describes as a trauma one center against Timpanogos as trauma three."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "UV was a trauma one, and Timpanogos was trauma three"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10149, N-10239"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the Utah trauma center designations for both hospitals and the distance from the UVU campus."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2561",
+   "header": "**C-2561** Host Says Others Told Her Charlie Was Definitely at UV Hospital",
+   "label": "Host Says Others Told Her Charlie Was Definitely at UV Hospital",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:01:46"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that after people found it strange that Charlie Kirk was taken to Timpanogos, she and others started hearing from other people that he was definitely at UV Hospital."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we started hearing from other people that he was definitely at UV Hospital"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10149, N-10196"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the people who told the host this and compare against UV Hospital and EMS records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2562",
+   "header": "**C-2562** Host Says Nobody Has Shown Charlie Arriving at Timpanogos Despite News Cameras",
+   "label": "Host Says Nobody Has Shown Charlie Arriving at Timpanogos Despite News Cameras",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says no one has produced footage of the vehicles pulling up at Timpanogos, even though news cameras, oddly from a New York news channel, were waiting outside."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "not a single person who captured them pulling up, nothing, despite the fact that there were news cameras outside waiting, oddly from like new a New York news channel"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10573"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the New York news crew present at Timpanogos and request its raw footage and logs."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2563",
+   "header": "**C-2563** Host Says Nothing Fixes the Time Charlie Arrived at the Hospital",
+   "label": "Host Says Nothing Fixes the Time Charlie Arrived at the Hospital",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says nothing publicly available lets her build onto her timeline the time at which Charlie arrived at the hospital."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we have not seen anything regarding that that we can build incompetently on our timeline that would let us know what time in particular Charlie arrived at the hospital"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10024, N-10573"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the ambulance or vehicle arrival log, hospital intake record and 911 timestamps for the Timpanogos arrival."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2564",
+   "header": "**C-2564** Host Says Feds Also Moved on Footage Outside the Hospital",
+   "label": "Host Says Feds Also Moved on Footage Outside the Hospital",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she feels something is amiss if the Feds moved to grab the footage inside the hospital and outside the hospital immediately."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the Feds moved to grab the footage inside of the hospital immediately and outside of the hospital immediately"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10239, N-10576"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2559"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask the hospital and any federal agency for evidence receipts and chain-of-custody records for exterior and interior video."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2565",
+   "header": "**C-2565** Host Asks for Footage of the Black SUV at the Hospital via Tip Line",
+   "label": "Host Asks for Footage of the Black SUV at the Hospital via Tip Line",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:10"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host asks anyone who has footage of a black SUV pulling up at the hospital to send it to moretips@candaceowens.com."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "If you maybe were somebody who has footage and saw that black SUV pull up at the hospital, please get that to us at moretips@candaceowens. com"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2910.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10573, N-10239"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check what, if anything, was later received and published in response to this request."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2566",
+   "header": "**C-2566** Host Says Fed Strategy Is to Put Out a Sloppy Narrative",
+   "label": "Host Says Fed Strategy Is to Put Out a Sloppy Narrative",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:43"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she is starting to wonder whether every major publicly traumatizing event was organized by the Feds, and that their usual strategy is to get out a sloppy narrative rather than blame themselves."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I'm starting to wonder if every major publicly traumatizing event may have actually just been organized by the Feds"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11147"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Speculative generalization; not testable as stated beyond individual events."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2568",
+   "header": "**C-2568** Baker Says His Federal Source Replied Holy F and She Is One of Us",
+   "label": "Baker Says His Federal Source Replied Holy F and She Is One of Us",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:56"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the Glenn Beck interview played on air, Steve Baker says he took what he found to a source in a top federal investigative agency, who after about two hours replied \"Holy F\" and then \"She's one of us.\" He says he pulled the thread two weeks earlier."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "After they looked at it for about 2 hours, the response that I got back was \"Holy F.\" And then the follow-up response was \"She's one of us.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1367.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-236, N-237, N-238"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10241"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2567"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask Baker or Blaze Media to identify the agency level and the date he first pulled the thread; seek documentary support."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2569",
+   "header": "**C-2569** Host Says Kirk Investigation May Sweep Up Same People as January 6",
+   "label": "Host Says Kirk Investigation May Sweep Up Same People as January 6",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says many people will get swept up in the Charlie Kirk investigation, perhaps the same people who will be swept up over January 6."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "A lot of people are going to get swept up in this investigation, perhaps the same people that are going to get swept up in the January 6th."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11147"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Predictive; track later charging, resignations or testimony tied to both matters."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2571",
+   "header": "**C-2571** Host Says Blaze Editor Was Stopped by Police at Kerkhoff Home",
+   "label": "Host Says Blaze Editor Was Stopped by Police at Kerkhoff Home",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:32"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Shauni Kerkhoff lives in Alexandria, Virginia and is apparently under the watch of law enforcement, because the Blaze News editor-in-chief drove to her house and was instantly stopped by local police before being let go."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The Blaze News editor-in-chief decided to pull up to her house to just kind of see if any action was happening at her home. And then he instantly got stopped by local police before they allowed him to leave."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1368.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-238"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10241"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask Blaze News whether its editor visited the address and whether a police contact was recorded; request the local police log."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2573",
+   "header": "**C-2573** Host Says Four of Six January 6 Permits Went to Charismatic Christian Groups",
+   "label": "Host Says Four of Six January 6 Permits Went to Charismatic Christian Groups",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says four of the six protest permits issued for January 6 were issued to independent charismatic Christian groups."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "four out of the six uh protest permits that were issued on January 6th were issued to independent charismatic Christian groups"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11147, N-10210"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the National Park Service permit list for January 6, 2021 and the applicants' affiliations."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2574",
+   "header": "**C-2574** Host Says Fifteen Pastors Surrounded Trump Before January 6 Saying the War Was Spiritual",
+   "label": "Host Says Fifteen Pastors Surrounded Trump Before January 6 Saying the War Was Spiritual",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says fifteen pastors and leaders surrounded Donald Trump at the White House before the January 6 rally and told him the war was now spiritual."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "15 of these pastors and leaders surrounded Trump at the White House leading up to the January 6th um Stop the Steal rally telling him that the war was now spiritual"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-5, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10210, N-11147"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find the White House visitor logs or published photos for the meeting and the attendee list."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2575",
+   "header": "**C-2575** Host Cites Article Saying NAR Drove January 6 and Naming Wallnau and Feucht",
+   "label": "Host Cites Article Saying NAR Drove January 6 and Naming Wallnau and Feucht",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads the title of an article saying the New Apostolic Reformation drove the January 6 riots and asking why the House Select Committee overlooked it, and says Lance Wallnau and Sean Feucht are named in it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "There's an article about that. The new apostolic reformation drove the January 6th riots. So, why was it overlooked by the House Select Committee?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2911.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-240, N-205"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10210, N-11147"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the publication and author of the article, confirm its title and whether Wallnau and Feucht are named."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2577",
+   "header": "**C-2577** Host Says Charlie Became Mesmerized by the Seven Mountain Mandate and Befriended Wallnau",
+   "label": "Host Says Charlie Became Mesmerized by the Seven Mountain Mandate and Befriended Wallnau",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie Kirk became very interested in, even mesmerized by, the Seven Mountain Mandate and became friends with Lance Wallnau."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I would say like he became mesmerized by the seven mountain mandate. He became friends with Lance Wallnau."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-240"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10242"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Look for public photos, posts or event appearances of Kirk with Wallnau and any Kirk remarks about the Seven Mountain Mandate."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2578",
+   "header": "**C-2578** Wallnau Clip Traces Mandate to a 2000 Talk with Loren Cunningham and Bill Bright",
+   "label": "Wallnau Clip Traces Mandate to a 2000 Talk with Loren Cunningham and Bill Bright",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip played on air, Lance Wallnau says the Seven Mountain Mandate began with a conversation in 2000 with Loren Cunningham, founder of Youth With A Mission, who described a conversation with Bill Bright in which each was told by the Lord that he had a message for the other."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it started with a conversation I had in the year 2000. I had been talking to Loren Cunningham, who's the founder of Youth With A Mission."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1365.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-240, N-795, N-796"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10242"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2576"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the original Wallnau video and compare with other tellings of the Cunningham and Bright story."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2579",
+   "header": "**C-2579** Host Says Turning Point Faith Keeps Coming Up Wherever She Investigates",
+   "label": "Host Says Turning Point Faith Keeps Coming Up Wherever She Investigates",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that everywhere she is investigating, Turning Point Faith keeps coming up."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Turning Point Faith, everywhere that I'm investigating, Turning Point Faith keeps coming up."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10398, N-10251"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "List the specific leads and sources the host has tied to Turning Point Faith across the series."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2580",
+   "header": "**C-2580** Host Says Many Mainstream Pastors Come from High-Ranking Military Families",
+   "label": "Host Says Many Mainstream Pastors Come from High-Ranking Military Families",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she notices that many mainstream pastors and preachers come from high-ranking military families, citing Frank Turek's Air Force background and Rob McCoy's naval background, which she links to psychological operations."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "a lot of these mainstream pastors and preachers actually come from high-ranking military families"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-7, N-17, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10436"
+    },
+    {
+     "k": "Supports",
+     "v": "C-1858"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check biographies of the named pastors against military service records and family history."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2581",
+   "header": "**C-2581** Host Says Wallnau Graduated from a Military Academy",
+   "label": "Host Says Wallnau Graduated from a Military Academy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Lance Wallnau graduated from a military academy."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Lance Wallnau, he's no different. He graduated from a military academy."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-240"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10436"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check Wallnau's published biography for the academy and graduation year."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2582",
+   "header": "**C-2582** Host Says Carl Wallnau Was an Air Force Major Who Served Under Patton",
+   "label": "Host Says Carl Wallnau Was an Air Force Major Who Served Under Patton",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Lance Wallnau's father Carl Wallnau was a major in the US Air Force who served under General Patton and later worked as a field engineer for Standard Oil installing liquid propane systems in places such as Haiti, Cuba and the Dominican Republic."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "His father, Carl Wallnau, was a major in the United States Air Force, okay? Wallnau served under General Patton. After the war, he then continued his adventures as a field engineer for Standard Oil"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-240, N-797"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10436"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate Carl Wallnau's service record or obituary and any Standard Oil employment record."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2584",
+   "header": "**C-2584** Host Says Turek Did Not Warn Charlie About NAR Infiltration",
+   "label": "Host Says Turek Did Not Warn Charlie About NAR Infiltration",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:06"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that after calling NAR a cult, Frank Turek did not warn Charlie Kirk as NAR people began to infiltrate Turning Point."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it didn't make him go warn Charlie about this in any way as these people began to infiltrate his organization"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1366.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-7, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10210, N-10209"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask Turek or Kirk's associates whether any warning was given; look for recorded conversations."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2585",
+   "header": "**C-2585** Host Relays Administration-Adjacent Person Asking When Turning Point Became Faith-Focused",
+   "label": "Host Relays Administration-Adjacent Person Asking When Turning Point Became Faith-Focused",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:04"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says a person extremely close to the current administration told her, after being at Charlie's memorial, that Turning Point used to be about free markets and capitalism and suddenly became faith, faith, faith, with pastors everywhere."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "She said, \"When did Turning Point become so faith-focused?\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10398, N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare Turning Point event agendas over time and identify when faith programming expanded."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2586",
+   "header": "**C-2586** Host Says Faith-Department Sources Say Wallnau Funded Turning Point Faith",
+   "label": "Host Says Faith-Department Sources Say Wallnau Funded Turning Point Faith",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:04"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Lance Wallnau was working with Rob McCoy, and that sources within Turning Point's faith department told her Wallnau was running the show behind the scenes through funding and put a ton of money into Turning Point USA Faith operations."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Sources within Turning Point's faith department tell me that Lance was running the show behind the scenes through funding."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-240, N-17, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10242, N-10398, N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain donor or ministry records, Turning Point Faith budgets, or testimony from the faith-department sources."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2587",
+   "header": "**C-2587** Host Says Wallnau Was Friends with McCoy, Toured with Turning Point Faith and Knew Charlie",
+   "label": "Host Says Wallnau Was Friends with McCoy, Toured with Turning Point Faith and Knew Charlie",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:37"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Wallnau is friends with Rob McCoy, eventually did tour stops with Turning Point Faith, and knew Charlie, who he said was his friend."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He's friends with Rob Rob McCoy, um and he eventually did tour stops with Turning Point Faith. And he knew Charlie. He said Charlie was his friend."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-240, N-17, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10398"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check tour announcements for Turning Point Faith stops featuring Wallnau and public statements by Wallnau about Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2588",
+   "header": "**C-2588** Host Says Mel on X Has Done Good Work on the Faith-Military Constellation",
+   "label": "Host Says Mel on X Has Done Good Work on the Faith-Military Constellation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:37"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Village Crazy Lady, Mel on X, has been doing great work on the faith-military constellation, which the host proposes calling the militant faith pipeline."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I told you guys about Mel on X, she's been doing great work on this, but you need to start investigating this faith mil- military constellation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-66, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10436"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review Mel's X threads and which claims in them the host relies on."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2589",
+   "header": "**C-2589** Host Says 2017 Las Vegas Shooting Killed 58 and the Official Story Was Lone Gunman Paddock",
+   "label": "Host Says 2017 Las Vegas Shooting Killed 58 and the Official Story Was Lone Gunman Paddock",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the October 1, 2017 Las Vegas shooting killed 58 people and injured more than 600, and that the official account was a lone shooter, Stephen Paddock."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "58 people were murdered. More than 600 others were injured. And they told us that it was just a lone shooter, Stephen Paddock"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-225"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10887"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare with the official casualty figures from the Las Vegas investigation record."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2590",
+   "header": "**C-2590** Host Says Conspiracy Theorists Had Ton of Evidence Las Vegas Was a Military Operation",
+   "label": "Host Says Conspiracy Theorists Had Ton of Evidence Las Vegas Was a Military Operation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says conspiracy theorists claimed the Las Vegas shooting was a military operation and that there was a ton of evidence to support it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Conspiracy theorists said it was a military operation and there was a ton of evidence to support that, okay?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10887"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The host cites no specific evidence here; ask which evidence she means."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2591",
+   "header": "**C-2591** Host Says About 40 Las Vegas Shooting Attendees Were at the Borderline Bar",
+   "label": "Host Says About 40 Las Vegas Shooting Attendees Were at the Borderline Bar",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that on November 7, 2018, about 40 people who had been at the Las Vegas shooting were at the Borderline bar in Thousand Oaks on the night of the shooting there."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Oddly, uh about 40 people who were at the Las Vegas shooting were all at the Borderline bar one night"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10240, N-10887"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check contemporaneous reporting on how many Las Vegas survivors were at the Borderline Bar that night."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2592",
+   "header": "**C-2592** Host Says the Borderline Shooter's Family Knows Rob McCoy",
+   "label": "Host Says the Borderline Shooter's Family Knows Rob McCoy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says a Marine's family knows Rob McCoy well and McCoy is friends with that Marine, and, in her words, that Marine's mother decided to storm into the Borderline bar and conduct a mass shooting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "a Marine who his family knows Rob McCoy well, Rob McCoy is friends with that Marine"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-17, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10240"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Look for McCoy's statements or local reporting on a connection to the shooter's family; the host's wording shifts between the Marine and his mother."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2593",
+   "header": "**C-2593** Host Says a Borderline Victim Was a 27-Year-Old Navy Veteran Who Survived Las Vegas",
+   "label": "Host Says a Borderline Victim Was a 27-Year-Old Navy Veteran Who Survived Las Vegas",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:29"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says one victim of the Borderline Bar shooting was a 27-year-old Navy veteran who had survived the Las Vegas shooting, and asks whether he was a victim or a target."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "a victim of that bar shooting was a 27-year-old Navy veteran who had survived the Las Vegas shooting"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1377.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10240"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm the victim's identity, age and service from 2018 press coverage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2594",
+   "header": "**C-2594** Host Relays Survivor Saying the Group Was Having a Las Vegas Reunion",
+   "label": "Host Relays Survivor Saying the Group Was Having a Las Vegas Reunion",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:29"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says one survivor said the group was meeting up for a second time in about a year in a sort of Las Vegas reunion, which is why they were all at the bar."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "one survivor said that the group of them were meeting up for a second time in about a year having, I guess, like a little Las Vegas reunion and that's why they were all there"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10240"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the survivor and the interview in which this was said."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2596",
+   "header": "**C-2596** Host Says McCoy Was Elected Mayor of Thousand Oaks a Month After the Borderline Shooting",
+   "label": "Host Says McCoy Was Elected Mayor of Thousand Oaks a Month After the Borderline Shooting",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:17"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that a month after the Borderline shooting Rob McCoy was elected mayor of Thousand Oaks and served for a year."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "a month after this, Rob McCoy then gets elected mayor of um of Thousand Oaks. He's mayor for a year."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-17"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10240"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check Thousand Oaks city council records for the date McCoy became mayor and his term."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2597",
+   "header": "**C-2597** Host Says She Posted Over the Weekend About Romanian Sex Trafficking Tied to a California Church",
+   "label": "Host Says She Posted Over the Weekend About Romanian Sex Trafficking Tied to a California Church",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:17"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she shared something over the weekend on her X feed about Romanian sex trafficking involving one of the big California churches."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I shared something over the weekend about Romanian sex trafficking on my on my X feed"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10401"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the host's X post from the weekend of November 8 to 9, 2025 and the church and sources it names."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2598",
+   "header": "**C-2598** Host Names Paul Havsgaard as a Former Megachurch Pastor Accused of Trafficking Children from Romania",
+   "label": "Host Names Paul Havsgaard as a Former Megachurch Pastor Accused of Trafficking Children from Romania",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:27:04"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says a former California megachurch pastor, Paul Havsgaard, was accused of trafficking children from Romania, and calls his missionary background an element worth noting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "there's been another megachurch pastor that was accused of trafficking children. Okay, of trafficking children from Romania."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-451"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10401"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2597"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve court filings or press reporting on the allegations against Havsgaard and check the host's account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2600",
+   "header": "**C-2600** Host Says Her Show Hit Number One Globally the Prior Week",
+   "label": "Host Says Her Show Hit Number One Globally the Prior Week",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her show hit number one globally the previous week, which triggered an all-out online attack."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "When my show hit number one globally last week, it was just an all-out virtual war."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2408"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check Podscribe or Spotify and Apple chart data for the week."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2601",
+   "header": "**C-2601** Host Says Critics Went After Her Sponsors and Got Her Banned from Australia",
+   "label": "Host Says Critics Went After Her Sponsors and Got Her Banned from Australia",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says critics shut her down, went after her sponsors, emailed people and got her banned from Australia."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "You went after my sponsors. You emailed people. You got me banned from Australia."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11099"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check Australian government records on her visa status and any lobbying that preceded it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2603",
+   "header": "**C-2603** Host Alleges Joel Berry Cheered Child Deaths and Church Bombings and Denied Gaza Christians Are Human",
+   "label": "Host Alleges Joel Berry Cheered Child Deaths and Church Bombings and Denied Gaza Christians Are Human",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:29:06"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she is never on the side of people who cheer on kids being killed and churches being bombed, and says Joel Berry insinuated that even the Christians in Gaza are not really human beings and are all supporting Hamas."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I am never on the side of people that cheer on kids being killed and uh churches being bombed and and insinuate as he did that even the Christians in Gaza should uh aren't really human beings"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1372.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-241"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10063"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the specific Berry posts the host is characterising and compare their wording."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2604",
+   "header": "**C-2604** Host Says Shapiro Lied to and Pressured Megyn Kelly on Stage",
+   "label": "Host Says Shapiro Lied to and Pressured Megyn Kelly on Stage",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:29:44"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that the prior week Ben Shapiro pressed Megyn Kelly on stage and, in her words, lied and tried to pressure her with the lie."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we watched Ben press Megan on stage. Very strange to see him do something like that, to see him just lie and try to pressure her with the lie"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-97, N-46, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10237, N-10406"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the video of the stage exchange and identify the statement the host calls a lie."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2605",
+   "header": "**C-2605** Host Says Her Screenshots Showed Charlie Felt Shapiro Had Prevented Him from Coming Up",
+   "label": "Host Says Her Screenshots Showed Charlie Felt Shapiro Had Prevented Him from Coming Up",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:29:44"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she showed screenshots of what Charlie said and told viewers that, as Charlie felt, Shapiro had kind of prevented him from coming up."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "showed you screenshots of what Charlie had said, said told you honestly that he had kind of prevented uh Charlie from coming up and that was certainly how Charlie felt"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1370.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-97, N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11064"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2515"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full text thread and compare with Shapiro's and Daily Wire's account of the relationship."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2608",
+   "header": "**C-2608** Host Says the Texts Were Pulled Live from Her Phone and Are Not Made Up",
+   "label": "Host Says the Texts Were Pulled Live from Her Phone and Are Not Made Up",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:24"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she looked up the messages on her phone live on air and that they are not made up, denying that she forged them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Just looked up on my phone. These are not made up text messages."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1370.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Contradicts",
+     "v": "C-2606"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Forensic review of the original device thread and its metadata would settle authenticity."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2609",
+   "header": "**C-2609** Host Says She Was Clear from the Start: No Fakeness and No Gayness",
+   "label": "Host Says She Was Clear from the Start: No Fakeness and No Gayness",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:32:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that at the beginning of the whole series she was clear it would have no fakeness and no gayness, and that people cannot drop a million dollars and rewrite history."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I was very clear at the beginning of this entire thing, no fakeness and no gayness."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Catchphrase framing; no independent test beyond the evidence she publishes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2610",
+   "header": "**C-2610** Host Says Allie Beth Stuckey Is Working with Alyssa Cordova",
+   "label": "Host Says Allie Beth Stuckey Is Working with Alyssa Cordova",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:32:54"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she is surprised that Allie Beth Stuckey is working with Alyssa Cordova."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I'm very surprised she's working with Alyssa Cordova"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-227, N-229, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10231"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check Stuckey's and Cordova's public collaborations and dates."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2612",
+   "header": "**C-2612** Host Says She Did the Work Herself and People Sent Her Material for the Timeline",
+   "label": "Host Says She Did the Work Herself and People Sent Her Material for the Timeline",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:48"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she doesn't think they asked Allie Stuckey for any assistance at all, that she did all the work, that people sent her material, and that they then put together a timeline."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I did all the work um and people sent me stuff, and then we put together a timeline."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-227, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10024"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the published timeline's sources with the tip submissions the host refers to."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2613",
+   "header": "**C-2613** Host Says People Praised Charlie Then Walked Away as He Bled Out",
+   "label": "Host Says People Praised Charlie Then Walked Away as He Bled Out",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:48"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the people she has been looking into have been caught lying, and that one described as amazing walked away from Charlie as he was bleeding out; the transcript does not name the person."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He was so amazing, but he walked away from Charlie as he was bleeding out."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10024"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify who the host means and match the statement to security and hospital timelines."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2614",
+   "header": "**C-2614** Host Says Necks Do Not Stop a .30-06 Bullet",
+   "label": "Host Says Necks Do Not Stop a .30-06 Bullet",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:35:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that in real life people's necks do not stop .30-06 bullets."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "real life Agatha Christie stuff, uh in real life, people's necks don't stop.30-06 bullets"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10319, N-10447"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the autopsy and forensic ballistics reports and expert statements on a .30-06 striking neck tissue."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2615",
+   "header": "**C-2615** Host Says a Multimillion-Dollar Security Detail Would Not Forget an Ambulance Behind You",
+   "label": "Host Says a Multimillion-Dollar Security Detail Would Not Forget an Ambulance Behind You",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:35:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that in real life a security detail costing millions of dollars would not leave you like a sitting duck and forget to have an ambulance behind you."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "when you spend millions of dollars on security on your security detail, they don't have you sitting like a sitting duck and forget to have an ambulance behind you"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10840, N-10000"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2363"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review Turning Point's security contract, event medical plan and UVU emergency-services approvals."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2616",
+   "header": "**C-2616** Host Says She Worked for Turning Point and Knows the Timeline Does Not Make Sense",
+   "label": "Host Says She Worked for Turning Point and Knows the Timeline Does Not Make Sense",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:35:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she worked for Turning Point USA and knows what does not make sense in the timeline of how this event came together."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I worked for Turning Point USA, and I know what does not make sense in terms of the timeline of how this event came together"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10224"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare her recollection of normal advance planning with the UVU event approval timeline."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2618",
+   "header": "**C-2618** Host Says Nothing in Grok's Account Is Real",
+   "label": "Host Says Nothing in Grok's Account Is Real",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says none of what Grok stated about her alleged accusations is real and that many lies are being made up about her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "none of this is real. Like, you guys are exhausting, not just Allie Stuckey"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1373.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-243, N-3"
+    },
+    {
+     "k": "Contradicts",
+     "v": "C-2617"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the Grok post with the host's actual statements across the series."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2619",
+   "header": "**C-2619** Host Says Wednesday's Episode Will Reveal Findings on the Egyptian Military",
+   "label": "Host Says Wednesday's Episode Will Reveal Findings on the Egyptian Military",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she will tell viewers on Wednesday what the team discovered about the Egyptian military, which she thinks will put more people on the run."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "when I tell you on Wednesday what we discovered about those Egyptian military I think some more people are going to be on the run"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10253"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the Wednesday, November 12, 2025 episode for the Egyptian aircraft findings."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2620",
+   "header": "**C-2620** Host Says Turning Point Said It Is Not Canceling Tucker Carlson",
+   "label": "Host Says Turning Point Said It Is Not Canceling Tucker Carlson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:20"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Turning Point USA said it is not canceling Tucker Carlson and that he is still speaking."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Turning Point USA, credit to them, said, \"We are not canceling Tucker Carlson.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-22, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find the Turning Point statement and the AmericaFest speaker lineup."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2622",
+   "header": "**C-2622** Levin Reads Tucker's Text Saying Turning Point Asked Him to Debate Levin in Scottsdale",
+   "label": "Levin Reads Tucker's Text Saying Turning Point Asked Him to Debate Levin in Scottsdale",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:10"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the audio played on air, Mark Levin reads a text he says Tucker Carlson sent at 10:16 a.m., saying Turning Point leadership has asked Carlson to debate Levin at their December event in Scottsdale."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The leadership at Turning Point has asked me to debate you at their event in Scottsdale in December."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1375.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-244, N-22"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2621"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the Turning Point event program for a Levin and Carlson debate and the text's authenticity."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2623",
+   "header": "**C-2623** Levin Says Tucker Attacked His Stepson Who Is Serving the Trump Administration",
+   "label": "Levin Says Tucker Attacked His Stepson Who Is Serving the Trump Administration",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:41:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the audio played on air, Mark Levin says Tucker Carlson attacked his stepson behind his back while the stepson was serving President Trump on his second tour, in safe rooms with ballistic missiles passing over his head."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "You stabbed him in the back while he's serving President Trump on his second tour, while he's in safe rooms"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1375.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-244, N-22, N-5"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the stepson and the Carlson remarks Levin refers to."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2624",
+   "header": "**C-2624** Host Calls Reactions a Full Zionist Crash Out Since Charlie Died",
+   "label": "Host Calls Reactions a Full Zionist Crash Out Since Charlie Died",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:42:47"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says this is a full Zionist crash out since Charlie died and that she feels they sent a real threat to the matrix they established."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "this is like a full Zionist crash out since Charlie died"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Sweeping group characterization; compare with the specific named actors she cited."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2625",
+   "header": "**C-2625** Host Says Keri Smith Claims Former Cult Mindset and Has Watched Ten Episodes",
+   "label": "Host Says Keri Smith Claims Former Cult Mindset and Has Watched Ten Episodes",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:03"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Keri Smith, host of Deprogrammed, says she was formerly of a cult mindset, is thus an expert, and has watched ten episodes of the host's show."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "she was formerly of a cult mindset and so she's an expert on this. And she has now watched 10 episodes of this show."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1376.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-245, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11158"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check Smith's Deprogrammed episode for her stated background and which episodes she says she watched."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2627",
+   "header": "**C-2627** Smith Says She Saw Charlie Kirk Get Shot in the Throat",
+   "label": "Smith Says She Saw Charlie Kirk Get Shot in the Throat",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:45:46"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the audio played on air, Keri Smith says that what happened to her was that she saw Charlie Kirk get shot in the throat."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "what happened to me was that I I saw Charlie Kirk get shot in the throat"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1376.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-245, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11158"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Place the statement in the Deprogrammed episode and what it says she watched."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2628",
+   "header": "**C-2628** Host Says Smith Listed About Seven Signs of a Cult, Including Forced Teaming",
+   "label": "Host Says Smith Listed About Seven Signs of a Cult, Including Forced Teaming",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:46:29"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Smith listed about seven signs that the host leads a cult, one of them forced teaming, and goes on to say Smith also cited repetition, sarcasm and the phrase we don't know, know, but we know."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And she listed all of the reasons, the signs that I was in a cult."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1376.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-245, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11158"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Watch the Deprogrammed episode and list each sign Smith gives."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2629",
+   "header": "**C-2629** Host Says Fed Operations Always Diagnose Dissenters Using Dark Triad Labels",
+   "label": "Host Says Fed Operations Always Diagnose Dissenters Using Dark Triad Labels",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:46:29"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that in any Fed operation, such as COVID, people who do not follow the federal narrative are always diagnosed with dark triad traits and told they are in a cult."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "if you go back any fed operation, COVID, whenever you don't follow the federal narrative, if you don't listen to the government, they always diagnose you"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11158"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Sweeping historical generalization; no specific instance given."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2630",
+   "header": "**C-2630** Host Says All Her Information Comes from the Tip Line",
+   "label": "Host Says All Her Information Comes from the Tip Line",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that she says we because all the information she has is thanks to the tip line, so everyone is in this together putting the pieces together to find who killed Charlie."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I say we because all the information I have is thanks to the tip line."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2912.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Audit the volume and sources of tip-line submissions and how they were used on the show."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2631",
+   "header": "**C-2631** Host Repeats That a .30-06 Stopped by Charlie's Neck Would Be a Miracle",
+   "label": "Host Repeats That a .30-06 Stopped by Charlie's Neck Would Be a Miracle",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:48:23"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that the government telling people to believe a .30-06 was stopped by Charlie's neck, because of a miracle, is asking them to ignore their senses."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "like a.30-06 got stopped by Charlie's neck because miracle"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10319"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2614"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Same as the earlier claim: ballistic and autopsy findings."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2632",
+   "header": "**C-2632** Host Says No Clear Picture of Tyler Robinson on Campus Has Been Shown",
+   "label": "Host Says No Clear Picture of Tyler Robinson on Campus Has Been Shown",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:53:52"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says they will not show a clear picture of Tyler Robinson on campus that day despite all the cameras, which would do a lot."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They won't show us a clear picture of Tyler Robinson on that day, despite all the cameras."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-40, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10110"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the court record and discovery for any clear image of Robinson on the UVU campus on September 10, 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2633",
+   "header": "**C-2633** Host Says Charlie Established DOGE After Realizing Something Was Wrong and Made Enemies",
+   "label": "Host Says Charlie Established DOGE After Realizing Something Was Wrong and Made Enemies",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:55:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she thinks Charlie raised his head and realized something was wrong with the money, which is why he established DOGE (transcribed \"DOAJ\"; C-2136 has the host calling it \"the internet DOGE\"), and that he made real enemies."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "when Charlie raised his head and realized something was wrong, and that's why he established DOAJ"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10434, N-10132, N-10000, N-11171"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2136"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the internal memo and staff accounts of the DOGE department's creation and mandate."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2634",
+   "header": "**C-2634** Host Says Charlie Suddenly Wondered Where the Money Was Coming From",
+   "label": "Host Says Charlie Suddenly Wondered Where the Money Was Coming From",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:55:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says it is not a small thing that Charlie suddenly was wondering where the money was coming from and where it was going."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "It's not a small thing that Charlie suddenly was wondering about where the money was coming from and where it was going to."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10078, N-10000"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2136"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find staff or donor testimony and communications showing Kirk raised funding questions."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2635",
+   "header": "**C-2635** Host Repeats That Wallnau Was Putting Money into Turning Point Faith",
+   "label": "Host Repeats That Wallnau Was Putting Money into Turning Point Faith",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:55:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says it does not make her feel good knowing Wallnau was putting money into Turning Point USA Faith, repeating her earlier source-based claim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "It doesn't make me feel good knowing that he was putting money into Turning Point USA Faith."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-240, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10242, N-10398"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2586"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Same as the earlier funding claim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2636",
+   "header": "**C-2636** Host Announces a Friday Guest on Turning Point's Finances",
+   "label": "Host Announces a Friday Guest on Turning Point's Finances",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:55:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says a guest will join later in the week to speak on Friday about Turning Point's finances."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we will be have having a guest join us that will speak on Friday about Turning Point's finances"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10078, N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the Friday, November 14, 2025 episode and guest."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2637",
+   "header": "**C-2637** Host Says Alex Clark Said She Lied About Interviews Because of a CNN Interview",
+   "label": "Host Says Alex Clark Said She Lied About Interviews Because of a CNN Interview",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:56:54"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Alex Clark accused her of lying about giving no interviews after Charlie's death because she spoke to CNN, and says the CNN interview was scheduled in advance for her book promotion and kept on September 27 or thereabouts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Alex Clark figured out she rumbled me that I spoke to CNN in a I had already scheduled CNN for my book promo, and we kept the interview on September 27th or something."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-99, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11159"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2538"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the CNN interview air date and the host's earlier statements about interviews."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2638",
+   "header": "**C-2638** Host Says She Did Not Offer a Single Interview After Charlie's Death",
+   "label": "Host Says She Did Not Offer a Single Interview After Charlie's Death",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:56:54"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she was in a true stage of grief and did not offer a single interview regarding Charlie."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I was in a true stage of grief. I didn't offer a single interview."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11159"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare against the interview dates and the CNN booking history."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2639",
+   "header": "**C-2639** Host Says Elle Reeve Never Mentioned Her Book and Pressed on Zionism and Brigitte Macron",
+   "label": "Host Says Elle Reeve Never Mentioned Her Book and Pressed on Zionism and Brigitte Macron",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:56:54"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that in the CNN interview Reeve did not mention her book at all and instead pressed her mostly on Zionism and Brigitte Macron."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Elle Reeve did not even get to my book at all"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-234, N-82, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11159"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Watch the full CNN interview and tally topics covered."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 6. Meme Register",
+    ""
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-8",
+   "header": "**M-8** (meme) Catch all the religious scandals",
+   "label": "(meme) Catch all the religious scandals",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:43:05"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I've long said that in terms of the names I get called in the media, I feel like I'm I'm playing Pokémon. I just got to catch every single ball."
+    },
+    {
+     "k": "Context",
+     "v": "CKA reuse of catch-them-all / Pokémon joke about accumulating smear labels (BoC M-8 pattern)."
+    },
+    {
+     "k": "Tags",
+     "v": "pokemon_joke, smear_labels"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-6",
+   "header": "**M-6** (meme) conspiracy theorist",
+   "label": "(meme) conspiracy theorist",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:21:31"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Conspiracy theorists said it was a military operation and there was a ton of evidence to support that, okay?"
+    },
+    {
+     "k": "Context",
+     "v": "Wave 3 MemeLink backfill: conspiracy theorist at 00:21:31 (audit missing_memelink)."
+    },
+    {
+     "k": "Tags",
+     "v": "reuse, memelink_backfill"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-25",
+   "header": "**M-25** (meme) Iron Sharpens Iron",
+   "label": "(meme) Iron Sharpens Iron",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:31:24"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Iron sharpens iron."
+    },
+    {
+     "k": "Context",
+     "v": "Wave 3 MemeLink backfill: Iron Sharpens Iron at 00:31:24 (audit missing_memelink)."
+    },
+    {
+     "k": "Tags",
+     "v": "reuse, memelink_backfill"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-12",
+   "header": "**M-12** (meme) Decentralized Intelligence Agency",
+   "label": "(meme) Decentralized Intelligence Agency",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:04:10"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "please get that to us at moretips@candaceowens. com"
+    },
+    {
+     "k": "Context",
+     "v": "Host asks for footage of the black SUV via the tip email."
+    },
+    {
+     "k": "Tags",
+     "v": "tip line, dia"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:47:16"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "all the information I have is thanks to the tip line"
+    },
+    {
+     "k": "Context",
+     "v": "Host credits the tip line for all her information."
+    },
+    {
+     "k": "Tags",
+     "v": "tip line, dia"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-66",
+   "header": "**M-66** (meme) Fed Slop",
+   "label": "(meme) Fed Slop",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:04:24"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "typically we're ready to take the Fed slop"
+    },
+    {
+     "k": "Context",
+     "v": "Host contrasts the usual acceptance of Fed slop with the left and right uniting this time."
+    },
+    {
+     "k": "Tags",
+     "v": "fed slop"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-47",
+   "header": "**M-47** (meme) Megachurches Look Funny",
+   "label": "(meme) Megachurches Look Funny",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:27:04"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "there is definitely something going on here with these megachurches and these mega pastors"
+    },
+    {
+     "k": "Context",
+     "v": "Host says something is going on with megachurches and mega pastors."
+    },
+    {
+     "k": "Tags",
+     "v": "megachurch"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-13",
+   "header": "**M-13** (meme) Fake and Gay",
+   "label": "(meme) Fake and Gay",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:32:35"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "no fakeness and no gayness"
+    },
+    {
+     "k": "Context",
+     "v": "Host recalls her rule for the series in answering the forged-texts charge."
+    },
+    {
+     "k": "Tags",
+     "v": "variant"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-147",
+   "header": "**M-147** (meme) Crash Out",
+   "label": "(meme) Crash Out",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:00:00"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Grok, literally the AI robot, crashed out."
+    },
+    {
+     "k": "Context",
+     "v": "Host opens by saying Grok crashed out over her investigation."
+    },
+    {
+     "k": "Tags",
+     "v": "crash out, grok"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:42:47"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "this is like a full Zionist crash out since Charlie died"
+    },
+    {
+     "k": "Context",
+     "v": "Host describes the reaction of critics as a full crash out."
+    },
+    {
+     "k": "Tags",
+     "v": "crash out"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-15",
+   "header": "**M-15** (meme) We Don't Know But We Know",
+   "label": "(meme) We Don't Know But We Know",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:46:29"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "we don't know, know, but we know"
+    },
+    {
+     "k": "Context",
+     "v": "Host relays the phrase Keri Smith calls cult language."
+    },
+    {
+     "k": "Tags",
+     "v": "slogan"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:48:23"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "We don't know no, but we know, okay?"
+    },
+    {
+     "k": "Context",
+     "v": "Host defends the slogan as the show's stance."
+    },
+    {
+     "k": "Tags",
+     "v": "slogan"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-18",
+   "header": "**M-18** (meme) Make Him a Sandwich",
+   "label": "(meme) Make Him a Sandwich",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:58:09"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "you can go to makehimasandwich. com"
+    },
+    {
+     "k": "Context",
+     "v": "Host plugs the book site after the Serbia signed-copy story."
+    },
+    {
+     "k": "Tags",
+     "v": "book plug"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-204",
+   "header": "**M-204** (meme) Charlie the Friendly Ghost",
+   "label": "(meme) Charlie the Friendly Ghost",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:35:35"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Charlie the friendly ghost"
+    },
+    {
+     "k": "Context",
+     "v": "Host says Allie Stuckey and many Christians wanted to turn Charlie into a ghost."
+    },
+    {
+     "k": "Tags",
+     "v": "ghost, stuckey"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-205",
+   "header": "**M-205** (meme) Cray-Cray",
+   "label": "(meme) Cray-Cray",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:52:17"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Zionists are being a little cray-cray, a lot of cray-cray, very cray-cray"
+    },
+    {
+     "k": "Context",
+     "v": "Host's escalating label for critics' behavior."
+    },
+    {
+     "k": "Tags",
+     "v": "cray-cray"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## VI. Optional Flags",
+    "",
+    "- **Name uncertainty (N-238 / N-10241):** The episode alternates between \"Shauni Rae Kerkhoff\" (Steve Baker / Glenn Beck audio) and \"Shauni Kerkhoff\" (CIA spokesperson Liz Lyons statement). Preserve both spellings exactly as cited and treat identity verification as an open target.",
+    "- **Tip-only artifact (A-1378):** The Timpanogos footage-seizure assertion (C-2559) rests entirely on an anonymous tip relayed by the host; no public document, screenshot, or independent corroboration is shown. Low confidence.",
+    "- **Verbally referenced but not displayed (A-1368, A-1377):** The Liz Lyons CIA statement and the BBC Borderline headline were referenced rather than directly displayed; wording was paraphrased by the host.",
+    "- **Host assertions lacking artifact anchors (not inscribed as claims):** Multiple substantive host statements in this episode lack artifact support and therefore fail the Claim Admission Test, including: (a) Lance Wallnau's father Carl Wallnau being a US Air Force major who served under General Patton; (b) the claim that Lance Wallnau privately directed large sums of money into Turning Point USA Faith (cited only to unnamed TP Faith sources); (d) the claim that four of six January 6 protest permits were issued to independent charismatic Christian groups; (e) the claim that Rob McCoy's mother \"storms\" the Borderline Bar (host-corrected herself mid-sentence to \"that Marine's mother\"); (f) the claim that Charlie Kirk had established \"DOAJ\"; (g) the claim that Kash Patel \"injected himself\" into the hospital events on the day of the shooting. These are recorded as framing premises or testimonial assertions for future verification but are not inscribed as evidence-backed claims.",
+    "- **Reading-aloud reliability (A-1369, A-1371, A-1372, A-1373):** X / Twitter posts and the Grok statement were quoted or paraphrased by the host; original post URLs and exact text were not displayed on screen in this transcript.",
+    "- **Possible transcription error (A-1365):** Transcript spells \"Jehovah Rofey\" – likely intended as \"Jehovah Rapha\"; preserved verbatim with flag.",
+    "- **Requires human verification (multiple):** The Steve Baker / Glenn Beck identification of \"Shauni Rae Kerkhoff\" should be cross-checked against federal court filings and Blaze News reporting to confirm spelling and charges.",
+    "",
+    "---",
+    "",
+    "**Episode 29 Ledger Summary (repeat)**",
+    "",
+    "- Artifact Families Introduced: A-1364, A-1365, A-1366, A-1367, A-1368, A-1369, A-1370, A-1371, A-1372, A-1373, A-1374, A-1375, A-1376, A-1377, A-1378",
+    "- New Person Nodes: N-236 – N-245",
+    "- New Investigation Target Nodes: N-10239 – N-10242",
+    "- Existing Nodes Reused: N-1 (Charlie Kirk)"
+   ]
+  }
+ ]
+}

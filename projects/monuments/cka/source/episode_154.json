@@ -1,0 +1,7641 @@
+{
+ "format": "cka-source/1",
+ "episode": 154,
+ "blocks": [
+  {
+   "kind": "text",
+   "lines": [
+    "## 1. Meta-Data",
+    "",
+    "- **Episode**: 154",
+    "- **Monument**: cka",
+    "- **CKA seq**: 154",
+    "- **YouTube id**: NNiCZk1cuzs",
+    "- **Candace Ep**: 389",
+    "- **Source**: Candace Owens YouTube",
+    "- **Video Timestamp Range**: 00:00:00–01:05:13",
+    "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
+    "- **Transcript SHA-256**: a4b004904bed5ceab067f894a05093601d086cf7f62b1dfdc6ccb961cbb2d709",
+    "",
+    "- **Episode Ledger Summary**:",
+    "  - Tip-minted Nodes (supplement_2026-10e): N-11314",
+    "  - Hole-minted Nodes (reintro-ep154): N-10872",
+    "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
+    "  - Claim Range: C-13292–C-13367",
+    "  - New Nodes Introduced: N-10841, N-10842, N-10843, N-10844, N-10846",
+    "  - Reused Nodes Appearing: N-2, N-14, N-22, N-159, N-25, N-10840, N-18, N-69, N-271, N-330, N-587, N-591, N-731, N-10000, N-10003, N-10012, N-10028, N-10071, N-10075, N-10533, N-11057, N-11147, N-11221, N-11246, N-11312, N-10845, N-10873, N-11313",
+    "",
+    "---",
+    "",
+    "# I. META-DATA",
+    "",
+    "- **Episode title:** \"Finally! Tucker Calls Out 'Rot' At TPUSA. Erika Kirk Forces Another High School Event. | Ep 389\"",
+    "- **Series title:** Candace Kirk Archive (CKA)",
+    "- **Episode number:** CKA Seq 154 / Monument Ep 154 / Batch 134",
+    "- **Channel / creator:** @RealCandaceO (Candace Owens)",
+    "- **Episode date:** 2026-09-18",
+    "- **Source used for analysis:** Transcript (yt-dlp-auto-android, cleaned with lexicon + paragraph merge); chapter timestamps from video structure",
+    "- **Transcript completeness status:** Complete",
+    "- **Analyst / agent:** Episode Analysis Agent",
+    "- **Analysis date:** 2026-09-18",
+    "",
+    "",
+    "- **Artifact Families Introduced:** A-2393, A-2394, A-2395, A-2396, A-2397, A-2398, A-2399, A-2400, A-2401, A-2402, A-2403, A-2404",
+    "- **Claim Range:** C-13293–C-13358",
+    "- **New Nodes Introduced:** N-10840, N-10841, N-10842, N-10843, N-10844, N-10845, N-10846",
+    "- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens), N-14 (Andrew Kolvet (variant spellings: Kolvet/Kovat/Kovatte)), N-22 (Tucker Carlson), N-159 (Blake Neff (variant: Nef) – actual ledger IDs to be verified against global ledger)",
+    "",
+    "---",
+    "",
+    "# II. EXECUTIVE SUMMARY",
+    "",
+    "This episode presents three principal evidentiary threads. First, the host re-examines the UVU September 10 event planning documents via an ABC News article dated November 18, 2025, which establishes that TPUSA's UVU chapter declined an on-site ambulance by selecting \"No\" on the EMS form question, contradicting TPUSA's more recent framing that the absence of an ambulance amounted to wrongful death by others. Second, a November 2019 text thread between Candace Owens and Andrew Kolvet is presented, in which Kolvet forwards a message allegedly from \"E\" (Erika Frantzve) describing a plan to seed a public feud between Charlie Kirk and Candace Owens; the host connects this 2019 thread to Kolvet's recent public statements about the same feud narrative. Third, a separate X/Twitter exchange between Candace Owens and Andrew Kolvet about a Nampa Christian School assembly attended by Erika Kirk is read aloud, with both sides' posts preserved as artifacts and the substantive contradictions (mandatory-vs-voluntary attendance, security rationale for non-marketing) recorded as claims.",
+    "",
+    "Additional evidentiary material includes Charlie Kirk's own audio describing the Club America vision (presented as possibly his final Aspen donors presentation), a Politico profile of Blake Neff paired with a Tucker Carlson audio clip criticizing Neff's \"make our peace with censorship\" framing, and a documented catalog of Empress Films productions (Ghislaine Maxwell, Marilyn Monroe, Jill Dando, Princess Diana, Depp v Heard, Gilgo Beach) tied to an August 28, 2025 call between Erika Kirk, Andrew Kolvet, and Empress Films executives (anchor for that call is host testimonial only). The episode advances the structural investigation by tightening the contradiction between TPUSA's earlier admissions and its later legal posture, and by introducing the 2019 text-thread provenance as a candidate artifact for cross-episode analysis.",
+    "",
+    "---",
+    "",
+    "# III. ARTIFACT REGISTER",
+    "",
+    "---",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2393",
+   "header": "**A-2393** ABC News UVU Article Bundle",
+   "label": "ABC News UVU Article Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2393.1",
+   "header": "**A-2393.1** ABC News article (Nov 18, 2025): \"Planned estimated 600 people would come to the event where Charlie Kirk was shot. Over 3,000 showed up.\"",
+   "label": "ABC News article (Nov 18, 2025): \"Planned estimated 600 people would come to the event where Charlie Kirk was shot. Over 3,000 showed up.\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:02:15"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13293, C-13295, C-13301, C-13356, N-2, N-14, N-10840*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2394",
+   "header": "**A-2394** 2019 Candace-Kolvet Text Thread Bundle",
+   "label": "2019 Candace-Kolvet Text Thread Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2394.1",
+   "header": "**A-2394.1** Text thread (Nov 12–13, 2019) between Candace Owens and Andrew Kolvet, including Kolvet's forwarded message attributed to \"E\" describing \"Operation Greyer X anonymous\" plan to seed a public feud between Charlie Kirk and Candace Owens.",
+   "label": "Text thread (Nov 12–13, 2019) between Candace Owens and Andrew Kolvet, including Kolvet's forwarded message attributed to \"E\" describing \"Operation Greyer X anonymous\" plan to seed a public feud between Charlie Kirk and Candace Owens.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:13:35"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13314, N-2, N-3, N-14, N-10842*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2395",
+   "header": "**A-2395** Vox Article Bundle (Kolvet Reference)",
+   "label": "Vox Article Bundle (Kolvet Reference)",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2395.1",
+   "header": "**A-2395.1** Vox article referenced by Andrew Kolvet in the 2019 thread as the source linking to the 4plebs thread.",
+   "label": "Vox article referenced by Andrew Kolvet in the 2019 thread as the source linking to the 4plebs thread.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:17:00"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13319, A-2394.1, A-2396.1, N-14, N-10842*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2396",
+   "header": "**A-2396** 4plebs Post Bundle",
+   "label": "4plebs Post Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2396.1",
+   "header": "**A-2396.1** 4plebs.com post titled \"Operation Greyer X anonymous\" – text describes plan to have \"greyers\" ask Charlie questions about Candace Owens and to \"fluff\" Candace's ego while framing her as driven out of TPUSA by Kirk fearing her.",
+   "label": "4plebs.com post titled \"Operation Greyer X anonymous\" – text describes plan to have \"greyers\" ask Charlie questions about Candace Owens and to \"fluff\" Candace's ego while framing her as driven out of TPUSA by Kirk fearing her.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:17:00"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13319, A-2394.1, A-2395.1, N-2, N-3, N-10842*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2397",
+   "header": "**A-2397** Charlie Kirk Club America Audio Clip Bundle",
+   "label": "Charlie Kirk Club America Audio Clip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2397.1",
+   "header": "**A-2397.1** Charlie Kirk audio describing the Club America vision, presented by host as \"what really might be his final presentation\" to Aspen donors.",
+   "label": "Charlie Kirk audio describing the Club America vision, presented by host as \"what really might be his final presentation\" to Aspen donors.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:30:10"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13328, N-2, N-10841*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2398",
+   "header": "**A-2398** TPUSA Nampa Christian School X Post Bundle",
+   "label": "TPUSA Nampa Christian School X Post Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2398.1",
+   "header": "**A-2398.1** TPUSA official X post: \"500 plus outstanding high school student attendees at the Turning Point USA Club America tour stop at Nampa Christian School this morning. Mrs. Erika Kirk delivered a powerful message to the generation of America First leaders, the future is bright.\"",
+   "label": "TPUSA official X post: \"500 plus outstanding high school student attendees at the Turning Point USA Club America tour stop at Nampa Christian School this morning. Mrs. Erika Kirk delivered a powerful message to the generation of America First leaders, the future is bright.\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:20:36"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13321, N-2, N-10841*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2399",
+   "header": "**A-2399** Student-Parent Text Messages Bundle (Nampa)",
+   "label": "Student-Parent Text Messages Bundle (Nampa)",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2399.1",
+   "header": "**A-2399.1** Text messages between a Nampa Christian School student and the student's parent during the Erika Kirk assembly: \"Okay, big Kirk is here and we can't leave the school and we're getting locked in the gym\"; parent reply: \"What the f?\"; student: \"Yeah, so if I don't make it out alive, it's been fun.\"",
+   "label": "Text messages between a Nampa Christian School student and the student's parent during the Erika Kirk assembly: \"Okay, big Kirk is here and we can't leave the school and we're getting locked in the gym\"; parent reply: \"What the f?\"; student: \"Yeah, so if I don't make it out alive, it's been fun.\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:20:36"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13320, N-2, N-10841*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2400",
+   "header": "**A-2400** Politico Blake Neff Profile Bundle",
+   "label": "Politico Blake Neff Profile Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2400.1",
+   "header": "**A-2400.1** Politico profile of Blake Neff: \"Blake Neff helped make stars of Charlie Kirk and Tucker Carlson. He's now trying to rein in what he unleashed.\"",
+   "label": "Politico profile of Blake Neff: \"Blake Neff helped make stars of Charlie Kirk and Tucker Carlson. He's now trying to rein in what he unleashed.\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:45:02"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13344, C-13351, N-1, N-159*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2400.2",
+   "header": "**A-2400.2** Politico excerpt (Ian Ward): \"maximalist position on free speech\" framing.",
+   "label": "Politico excerpt (Ian Ward): \"maximalist position on free speech\" framing.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:47:48"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13349, N-159*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2401",
+   "header": "**A-2401** Tucker Carlson Audio Clip Bundle (Blake Neff)",
+   "label": "Tucker Carlson Audio Clip Bundle (Blake Neff)",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2401.1",
+   "header": "**A-2401.1** Tucker Carlson audio calling out Blake Neff's free speech / \"make our peace with censorship\" framing, aired in response to the Politico profile.",
+   "label": "Tucker Carlson audio calling out Blake Neff's free speech / \"make our peace with censorship\" framing, aired in response to the Politico profile.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:45:02"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13352, N-1, N-22, N-159, N-10845*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2402",
+   "header": "**A-2402** Empress Films Productions Bundle",
+   "label": "Empress Films Productions Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2402.1",
+   "header": "**A-2402.1** Ghislaine Maxwell: Epstein's Shadow (Empress Films, 2021)",
+   "label": "Ghislaine Maxwell: Epstein's Shadow (Empress Films, 2021)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:38:28"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13336, N-10846*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2402.2",
+   "header": "**A-2402.2** The Mystery of Marilyn Monroe: The Unheard Tapes (Empress Films)",
+   "label": "The Mystery of Marilyn Monroe: The Unheard Tapes (Empress Films)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:40:00"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13336, N-10846*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2402.3",
+   "header": "**A-2402.3** Who Killed Jill Dando (Empress Films)",
+   "label": "Who Killed Jill Dando (Empress Films)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:41:05"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13336, N-10846*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2402.4",
+   "header": "**A-2402.4** Diana / Who Killed Diana (announced 2024)",
+   "label": "Diana / Who Killed Diana (announced 2024)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:41:30"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13336, N-10846*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2402.5",
+   "header": "**A-2402.5** Depp vs Heard (Empress Films)",
+   "label": "Depp vs Heard (Empress Films)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:42:00"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13336, N-10846*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2402.6",
+   "header": "**A-2402.6** Killing Grounds: Gilgo Beach Murders (Empress Films)",
+   "label": "Killing Grounds: Gilgo Beach Murders (Empress Films)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:42:30"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13336, N-10846*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2403",
+   "header": "**A-2403** X/Twitter Exchange Bundle (Nampa Christian School)",
+   "label": "X/Twitter Exchange Bundle (Nampa Christian School)",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2403.1",
+   "header": "**A-2403.1** Candace Owens X post: \"The students were forced to attend this event as a school assembly. They could not opt out. The parents were informed that they were not allowed to attend alongside them.\"",
+   "label": "Candace Owens X post: \"The students were forced to attend this event as a school assembly. They could not opt out. The parents were informed that they were not allowed to attend alongside them.\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:21:00"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13320, N-2, N-3, N-14, N-10841*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2403.2",
+   "header": "**A-2403.2** Andrew Kolvet X reply: \"Wrong again. Students were free to opt out. Three students did. So over 500 chose to attend. Nothing was forced.\"",
+   "label": "Andrew Kolvet X reply: \"Wrong again. Students were free to opt out. Three students did. So over 500 chose to attend. Nothing was forced.\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:24:37"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13324, N-14, N-10841*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2403.3",
+   "header": "**A-2403.3** Andrew Kolvet X reply: \"Yeah, we don't market the event publicly for security reasons. Thanks for all your help on that, by the way.\"",
+   "label": "Andrew Kolvet X reply: \"Yeah, we don't market the event publicly for security reasons. Thanks for all your help on that, by the way.\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:25:33"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13326, N-14, N-10843*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2403.4",
+   "header": "**A-2403.4** Andrew Kolvet X reply: \"Did you actually never attend a school assembly in high school? These are distinct from our regular chapter meetings.\"",
+   "label": "Andrew Kolvet X reply: \"Did you actually never attend a school assembly in high school? These are distinct from our regular chapter meetings.\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:27:30"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: N-14, N-10841*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2404",
+   "header": "**A-2404** YouTube Comments Bundle",
+   "label": "YouTube Comments Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2404.1",
+   "header": "**A-2404.1** @spilling the tea comment: \"Turning point USA suing UVU for failing Charlie and then they chose to have his one-year anniversary there. It's top-notch insanity.\"",
+   "label": "@spilling the tea comment: \"Turning point USA suing UVU for failing Charlie and then they chose to have his one-year anniversary there. It's top-notch insanity.\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:55:56"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13356, N-2, N-10840*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2404.2",
+   "header": "**A-2404.2** @Koko Rose comment: \"So there was footage readily available of Tyler Robinson from several years ago in a minor accident, but the footage of him turning himself in was deleted due to their retention policy.\"",
+   "label": "@Koko Rose comment: \"So there was footage readily available of Tyler Robinson from several years ago in a minor accident, but the footage of him turning himself in was deleted due to their retention policy.\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:56:57"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13358, N-1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2494",
+   "header": "**A-2494** CIA / DIA Merch Plug Bundle",
+   "label": "CIA / DIA Merch Plug Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2494.1",
+   "header": "**A-2494.1** On-air CIA hat / Candace Intelligence Agency merch plug (verbally referenced; treat as host-presented merch beat).",
+   "label": "On-air CIA hat / Candace Intelligence Agency merch plug (verbally referenced; treat as host-presented merch beat).",
+   "lines": [
+    {
+     "k": "Video Timestamp",
+     "v": "01:04:04"
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "...Okay, I'm accept that. Andrew, um, you can buy a CIA hats. It actually should be the decentralized intelligence agency. We got nothing to hide. I love the co..."
+    },
+    {
+     "k": "Confidence",
+     "v": "medium"
+    },
+    {
+     "raw": "*Related: C-13367, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3166",
+   "header": "**A-3166** Empress Films Staff Shirt Image Bundle",
+   "label": "Empress Films Staff Shirt Image Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3166.1",
+   "header": "**A-3166.1** Image of Empress Films staff, one wearing a shirt the host reads as \"slay the patriarchy\" and another reading \"Never gender\" (shown on screen but too small for the host to read; described, not clearly legible)",
+   "label": "Image of Empress Films staff, one wearing a shirt the host reads as \"slay the patriarchy\" and another reading \"Never gender\" (shown on screen but too small for the host to read; described, not clearly legible)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:41:05"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13340, N-10846, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3167",
+   "header": "**A-3167** Kirk Family Wrongful Death Filing Bundle",
+   "label": "Kirk Family Wrongful Death Filing Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3167.1",
+   "header": "**A-3167.1** Host verbal reference to a recent document filed by the Kirk family lawyer saying the decision not to have an ambulance on standby was negligent and amounted to wrongful death (not shown)",
+   "label": "Host verbal reference to a recent document filed by the Kirk family lawyer saying the decision not to have an ambulance on standby was negligent and amounted to wrongful death (not shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:08:52"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13305, C-13306, N-11314, N-10840*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3168",
+   "header": "**A-3168** Nampa Parents Newsweek Letter Bundle",
+   "label": "Nampa Parents Newsweek Letter Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3168.1",
+   "header": "**A-3168.1** Host verbal reference to a letter from Nampa parents in Newsweek that called the Erika Kirk school event \"secret\" (not shown)",
+   "label": "Host verbal reference to a letter from Nampa parents in Newsweek that called the Erika Kirk school event \"secret\" (not shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:20:36"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13322, N-11221, N-10841, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3169",
+   "header": "**A-3169** Candace on Leave Viewer Comment Bundle",
+   "label": "Candace on Leave Viewer Comment Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3169.1",
+   "header": "**A-3169.1** Viewer comment read aloud: \"Turning USA probably canled their Candacees on Leave party when they found out that Baron would be taking over the show.\"",
+   "label": "Viewer comment read aloud: \"Turning USA probably canled their Candacees on Leave party when they found out that Baron would be taking over the show.\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Turning USA probably canled their Candacees on Leave party when they found out that Baron would be taking over the show.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:55:56"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13357, N-330, N-3, N-11313*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "# IV. NODE REGISTER",
+    "",
+    "---",
+    ""
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-1",
+   "header": "**N-1** Charlie Kirk",
+   "label": "Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing; subject of biographical and vision claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(see ledger)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(see ledger)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(see ledger)"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-2397.1, A-2400.1, A-2401.1, A-2404.2, C-13328, C-13352, C-13358*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-14",
+   "header": "**N-14** Andrew Kolvet",
+   "label": "Andrew Kolvet",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing; PR figure under multiple artifact-anchored claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-2393.1, A-2394.1, A-2395.1, A-2403.2, A-2403.3, A-2403.4, C-13314, C-13324, C-13326, N-10841, N-10842, N-10844*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-22",
+   "header": "**N-22** Tucker Carlson",
+   "label": "Tucker Carlson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing; called out Blake Neff via audio artifact (A-2401.1)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-2401.1, C-13352*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-159",
+   "header": "**N-159** Blake Neff",
+   "label": "Blake Neff",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing; subject of Politico profile and Tucker Carlson criticism."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-2400.1, A-2400.2, A-2401.1, C-13344, C-13349, C-13352, C-13351, N-10845*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10840",
+   "header": "**N-10840** UVU Ambulance Denial Discrepancy",
+   "label": "UVU Ambulance Denial Discrepancy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Persistent contradiction between TPUSA's November 2025 admission (TPUSA UVU chapter declined ambulance) and TPUSA's later filing framing the absence as wrongful death by others. Reinforced by @spilling the TPUSA/anniversary observation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "3"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-2393.1, A-2404.1, C-13293, C-13295, C-13301, C-13356, N-2*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10841",
+   "header": "**N-10841** Nampa Christian School Opt-In Question",
+   "label": "Nampa Christian School Opt-In Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Discrepancy between TPUSA's claim that 500+ students voluntarily attended and parent/student reports that attendance was a school-mandated assembly, plus Andrew Kolvet's \"three opt-outs\" reply."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "6"
+    },
+    {
+     "k": "Claim Count",
+     "v": "4"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-2397.1, A-2398.1, A-2399.1, A-2403.1, A-2403.2, A-2403.4, C-13328, C-13320, C-13321, C-13324, N-2, N-14*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10842",
+   "header": "**N-10842** 2019 Text Thread Provenance Question",
+   "label": "2019 Text Thread Provenance Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Provenance question around the 4plebs post allegedly found by \"E\" (Erika Frantzve) and forwarded by Andrew Kolvet in November 2019, and the Vox article Kolvet cited as the path to that post."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "3"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-2394.1, A-2395.1, A-2396.1, C-13314, C-13319, N-2, N-3, N-14*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10843",
+   "header": "**N-10843** TPUSA No-Marketing Security Claim",
+   "label": "TPUSA No-Marketing Security Claim",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Contradiction between Andrew Kolvet's X-stated rationale (\"we don't market the event publicly for security reasons\") and TPUSA's prior public framing of Prove Me Wrong / Club America events as unticketed and open to public."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-2393.1, A-2403.3, C-13301, C-13326, N-14*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10844",
+   "header": "**N-10844** Empress Films / Erika Kirk Aug 2025 Call Question",
+   "label": "Empress Films / Erika Kirk Aug 2025 Call Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Open question about nature and purpose of August 28, 2025 call between Erika Kirk, Andrew Kolvet, and Empress Films executives (Emma Cooper, Eben Davidson), as raised by host with \"Baron Coleman.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1 (host testimonial only)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-2402.x, C-13334, N-2, N-14, N-10846*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10845",
+   "header": "**N-10845** Blake Neff Censorship Statement",
+   "label": "Blake Neff Censorship Statement",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Blake Neff's verbatim statement that \"we may have to make our peace with censorship\" per Politico profile, criticized by Tucker Carlson."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-2400.1, A-2401.1, C-13352, C-13351, N-1, N-22, N-159*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10846",
+   "header": "**N-10846** Empress Films (Entity)",
+   "label": "Empress Films (Entity)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Documentary company founded by Emma Cooper in 2020; production focus described as true crime / murder mystery; described by host as politically left-leaning."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "6 (productions)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-2402.1, A-2402.2, A-2402.3, A-2402.4, A-2402.5, A-2402.6, C-13335, C-13336, N-10844*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-25",
+   "header": "**N-25** Brian Cole Jr.",
+   "label": "Brian Cole Jr.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Person"
+    },
+    {
+     "raw": "Man federal authorities present as the January 6 pipe-bomb suspect. Host argues the confession was coerced."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13358*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-2",
+   "header": "**N-2** Erika Kirk",
+   "label": "Erika Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Widow and TPUSA CEO; in this episode the host recounts her alleged involvement in the 2019 text thread, the Nampa school event and the Empress Films call."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13308, C-13310, C-13312, C-13315, C-13322, C-13331, C-13332, C-13333, C-13340, C-13363, C-13364*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-3",
+   "header": "**N-3** Candace Owens",
+   "label": "Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host; speaks for herself throughout."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13292, C-13294, C-13296, C-13297, C-13300, C-13298, C-13299, C-13302, C-13303, C-13304, C-13305, C-13306, C-13307, C-13308, C-13309, C-13311, C-13312, C-13313, C-13315, C-13317, C-13316, C-13318, C-13322, C-13323, C-13325, C-13327, C-13329, C-13330, C-13331, C-13332, C-13333, C-13337, C-13338, C-13339, C-13340, C-13341, C-13353, C-13354, C-13355, C-13357, C-13361, C-13363, C-13364, C-13365*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-330",
+   "header": "**N-330** Baron Coleman",
+   "label": "Baron Coleman",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Baron Coleman; the host says he will take over her show while she is on leave."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13357*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-271",
+   "header": "**N-271** Jeff Long",
+   "label": "Jeff Long",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Utah Valley University police chief; quoted in the ABC article on attendance and officer numbers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13298*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-18",
+   "header": "**N-18** Andrew Wilson",
+   "label": "Andrew Wilson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Andrew Wilson; the host cites her debate with him as an example of TPUSA walking people into defamation claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13354*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-69",
+   "header": "**N-69** Kash Patel",
+   "label": "Kash Patel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Kash Patel; named in the host's sarcastic list of TPUSA 2.0 connections."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13327*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-591",
+   "header": "**N-591** Pete Hegseth",
+   "label": "Pete Hegseth",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Pete Hegseth; named in the host's sarcastic list of TPUSA 2.0 connections (transcribed \"Hegsmith\")."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13327*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-47",
+   "header": "**N-47** Ghislaine Maxwell",
+   "label": "Ghislaine Maxwell",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Ghislaine Maxwell; subject of an Empress Films documentary the host says critics found too soft."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13337*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-731",
+   "header": "**N-731** Stew Peters",
+   "label": "Stew Peters",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Stew Peters; the host says Blake Neff worked for him before the Charlie Kirk show job."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13342*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-40",
+   "header": "**N-40** Tyler Robinson",
+   "label": "Tyler Robinson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Charged suspect in the Kirk shooting; named in the host's remark about footage released by the same reporters as the Cole footage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13360, C-13362*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-587",
+   "header": "**N-587** Matt Tardio",
+   "label": "Matt Tardio",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Matt Tardio; the host says TPUSA welcomes him despite his conduct near ICE facilities."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13363*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10003",
+   "header": "**N-10003** Charlie-Candace Friendship Continuity",
+   "label": "Charlie-Candace Friendship Continuity",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13307, C-13308, C-13309, C-13311, C-13316, C-13364, C-13365*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10012",
+   "header": "**N-10012** Utah Valley University",
+   "label": "Utah Valley University",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing organization reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13294, C-13297, C-13300, C-13298, C-13299, C-13302*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10028",
+   "header": "**N-10028** Utah Valley University Campus",
+   "label": "Utah Valley University Campus",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing place reused for the host's report of the Fulton Library Quad suggestion."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13302*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10071",
+   "header": "**N-10071** ABC",
+   "label": "ABC",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing organization; ABC News published the November 18 report the host reads."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13294, C-13296, C-13300, C-13303, C-13304*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10075",
+   "header": "**N-10075** White House",
+   "label": "White House",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing place; the host says the Black Leadership Summit took place there in October 2019."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13309*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10000",
+   "header": "**N-10000** Turning Point USA",
+   "label": "Turning Point USA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing organization reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13300, C-13303, C-13304, C-13327, C-13353, C-13354, C-13355, C-13363*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10533",
+   "header": "**N-10533** Club America High School Pushback",
+   "label": "Club America High School Pushback",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13322, C-13323, C-13325, C-13329, C-13330*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10872",
+   "header": "**N-10872** Brian Cole Jr J6 Pipe-Bomb Patsy / Coerced Confession",
+   "label": "Brian Cole Jr J6 Pipe-Bomb Patsy / Coerced Confession",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13359, C-13360, C-13361, C-13362*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10873",
+   "header": "**N-10873** Scripps Media Bodycam Pattern (Robinson + Cole)",
+   "label": "Scripps Media Bodycam Pattern (Robinson + Cole)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13360, C-13362*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11147",
+   "header": "**N-11147** January 6 Federal Coordination Claim",
+   "label": "January 6 Federal Coordination Claim",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13361*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11221",
+   "header": "**N-11221** Newsweek",
+   "label": "Newsweek",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing organization; the host says parents' letter appeared there."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13322*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11246",
+   "header": "**N-11246** Proclaim Streetwear",
+   "label": "Proclaim Streetwear",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing organization reused for the host's mention of Erika's clothing brand (transcribed \"Proclaim 365\")."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13333*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11057",
+   "header": "**N-11057** Blake Neff Employment History Account",
+   "label": "Blake Neff Employment History Account",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13341, C-13342, C-13343*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11312",
+   "header": "**N-11312** Kolvet PR Role for Erika Kirk August 2025 Question",
+   "label": "Kolvet PR Role for Erika Kirk August 2025 Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The host's report, from people who worked with Andrew Kolvet, that TPUSA did not normally handle Erika Kirk's media outside TPUSA Faith events and her question why he was doing so in August 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13331, C-13332*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11313",
+   "header": "**N-11313** Candace Owens Leave and Baron Coleman Substitute Hosting",
+   "label": "Candace Owens Leave and Baron Coleman Substitute Hosting",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The host's statements that she is very pregnant and will be away about eight weeks, with Baron Coleman taking over the show."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13292, C-13357*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11314",
+   "header": "**N-11314** Kirk Family Wrongful Death Ambulance Allegation",
+   "label": "Kirk Family Wrongful Death Ambulance Allegation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The Kirk family lawyer's reported filing alleging that the absence of an ambulance on standby at UVU was negligent and amounted to wrongful death, which the host contrasts with TPUSA's 2025 statements to ABC."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13305, C-13306*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "# V. CLAIM REGISTER",
+    "",
+    "---",
+    ""
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13293",
+   "header": "**C-13293** Host Says TPUSA UVU Chapter Declined On-Site Ambulance",
+   "label": "Host Says TPUSA UVU Chapter Declined On-Site Ambulance",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:15"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says, citing an ABC News report, that TPUSA's UVU chapter declined an on-site ambulance by marking \"No\" on the EMS section of the school's online event form."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2393.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Contradicts",
+     "v": "C-13241"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10840"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain UVU event form records directly; cross-check against TPUSA's later framing in the wrongful-death filing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13295",
+   "header": "**C-13295** Per ABC News Report, UVU Attendance Estimate Progressed 200 to 600 to 1,500 to About 3,000",
+   "label": "Per ABC News Report, UVU Attendance Estimate Progressed 200 to 600 to 1,500 to About 3,000",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:06"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the ABC News report the host reads, the UVU event attendance was initially estimated at 200, revised to 600, then, per TPUSA, to 1,500 (in a later conversation the host says was undocumented), with actual attendance of about 3,000."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2393.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10840"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain UVU planning documents directly; verify timing of each revision; identify whether any \"1,500\" update exists in any retained form."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13301",
+   "header": "**C-13301** TPUSA Statement to ABC News Framed UVU Event as Open-to-Public / Unticketed Prove Me Wrong Format",
+   "label": "TPUSA Statement to ABC News Framed UVU Event as Open-to-Public / Unticketed Prove Me Wrong Format",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per a Turning Point USA official's statement to ABC News that the host reads, the UVU event was styled as open-to-public and unticketed, comparable to prior \"Prove Me Wrong\" campus events; the host adds that such events have no crowd control."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2393.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10840, N-10843"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify whether the same open-event rationale was applied to security/staffing decisions; compare to documented Prove Me Wrong events."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13314",
+   "header": "**C-13314** 2019 Text Thread Forwarded \"Operation Greyer X anonymous\" Plan",
+   "label": "2019 Text Thread Forwarded \"Operation Greyer X anonymous\" Plan",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "A November 12–13, 2019 text thread shows Andrew Kolvet forwarding to Candace Owens a message attributed to \"E\" describing a plan to seed a public feud between Charlie Kirk and Candace Owens (\"Operation Greyer X anonymous\")."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2394.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-3, N-14, N-1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10842"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Authenticate the text screenshot metadata; verify whether \"E\" was in fact Erika Frantzve at that time; cross-check against Kolvet's recent public statements on the same feud narrative."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13319",
+   "header": "**C-13319** 4plebs Post Mirrors The Forwarded \"Operation\" Plan",
+   "label": "4plebs Post Mirrors The Forwarded \"Operation\" Plan",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the 4plebs post the host shows, which Andrew Kolvet said Erika (\"E\") found and said was linked in a Vox article (the host says the article does not link to the post), the post set out the same Charlie/Candace feud-seeding narrative – ask \"gripers\" to put Charlie against Candace; \"fluff\" Candace's ego; frame Candace as driven out of TPUSA by Kirk fearing her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2395.1, A-2396.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-2, N-3, N-14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10842"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the 4plebs post URL and archived timestamp; verify content alignment; verify whether the Vox article actually linked to this post or only to the broader 4plebs forum."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13328",
+   "header": "**C-13328** Clip Has Charlie Kirk Describing Club America as Opt-In / Grassroots / Debate-Club Parallel",
+   "label": "Clip Has Charlie Kirk Describing Club America as Opt-In / Grassroots / Debate-Club Parallel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:10"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip the host plays of his presentation to Aspen donors, Charlie Kirk says the high school program is now called Club America, that 80 new full-time staff were hired to source high school students who want to start chapters and guide them through the process, and that he wants Club America to be built in like DECA or the debate club; the host calls this a grassroots vision."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2397.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10841"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain full audio/presentation recording; verify against any written strategic plans; cross-check against current TPUSA Club America implementation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13320",
+   "header": "**C-13320** Host Says Erika Kirk Spoke at Nampa Christian School Assembly Where Students Were Not Opt-In Participants",
+   "label": "Host Says Erika Kirk Spoke at Nampa Christian School Assembly Where Students Were Not Opt-In Participants",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk spoke at a Nampa Christian School assembly where students were not voluntary opt-in participants, citing parent emails she received and a student's text messages to a parent that she shows describing students unable to leave and \"locked in the gym.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2399.1, A-2403.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10841"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the school newsletter referenced by parents; verify assembly mandatory-attendance status; verify whether parental attendance was actually prohibited."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13321",
+   "header": "**C-13321** TPUSA Claimed 500+ Nampa Christian School Attendees",
+   "label": "TPUSA Claimed 500+ Nampa Christian School Attendees",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "TPUSA's X post claimed 500+ \"outstanding high school student attendees\" at the Nampa Christian School event as part of the Club America tour."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2398.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10841"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Cross-check TPUSA claim against school attendance records and parent reports."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13324",
+   "header": "**C-13324** Per Kolvet's X Reply, Three Students Opted Out of Nampa Assembly",
+   "label": "Per Kolvet's X Reply, Three Students Opted Out of Nampa Assembly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:37"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per Andrew Kolvet's reply on X that the host shows, three students opted out of the Nampa assembly and \"over 500 chose to attend\"; the host characterizes this as a technicality, saying Kolvet is implying nothing was forced."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2403.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10841"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify whether the cited \"opt-out\" mechanism applies to mandatory school assemblies; obtain school policy on opt-outs from assemblies."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13326",
+   "header": "**C-13326** Andrew Kolvet Cited Security Reasons For Not Marketing Event Publicly",
+   "label": "Andrew Kolvet Cited Security Reasons For Not Marketing Event Publicly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Andrew Kolvet replied on X that TPUSA does not market the events publicly for \"security reasons\" and thanked Candace for \"all your help on that.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2403.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10843"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Cross-check against TPUSA's prior statements on event security; verify whether a no-marketing policy applied to Nampa specifically or to all Club America high school stops."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13344",
+   "header": "**C-13344** Politico Published Profile Of Blake Neff",
+   "label": "Politico Published Profile Of Blake Neff",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:46:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per a Politico profile of Blake Neff by Ian Ward that the host shows, the article's subtitle is \"Blake Neff helped make stars of Charlie Kirk and Tucker Carlson. He's now trying to rein in what he unleashed.\" and its headline is \"Charlie Kirk's lieutenant has second thoughts.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2400.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-159, N-22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain full Politico article and publication date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13349",
+   "header": "**C-13349** Politico Profile Framed Blake Neff's Free Speech Position As \"Maximalist\"",
+   "label": "Politico Profile Framed Blake Neff's Free Speech Position As \"Maximalist\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:48"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip the host plays, Tucker Carlson says the Politico profile (author Ian Ward) framed Blake Neff's position as a \"maximalist position on free speech\" and notes this is the author's framing, not a Neff quote."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2400.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify direct attribution of the \"maximalist\" phrase to Ward vs Neff."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13352",
+   "header": "**C-13352** Clip Has Tucker Carlson Criticizing Blake Neff's \"Make Our Peace With Censorship\" Framing",
+   "label": "Clip Has Tucker Carlson Criticizing Blake Neff's \"Make Our Peace With Censorship\" Framing",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:49:47"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip the host plays, Tucker Carlson criticizes Blake Neff's framing that \"we may have to make our peace with censorship,\" reading from and rejecting the premise of the Politico profile."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2401.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-22, N-159"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10845"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the original Tucker Carlson platform/episode where this criticism aired; verify whether Carlson explicitly named Neff."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13351",
+   "header": "**C-13351** Blake Neff Verbatim Censorship Quote",
+   "label": "Blake Neff Verbatim Censorship Quote",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:49:42"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip the host plays, Tucker Carlson reads what he calls a verbatim quote from Blake Neff: \"Either we have to make our peace with censorship and explain how we're going to do that or we have to explain how we're going to combat this without censorship. Period. But we've got to confront it.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2400.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10845"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm full quote and attribution context in Politico article."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13335",
+   "header": "**C-13335** Host Says Empress Films Was Founded by Emma Cooper in 2020",
+   "label": "Host Says Empress Films Was Founded by Emma Cooper in 2020",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Empress Films is a documentary company founded by Emma Cooper in 2020, and that Cooper was previously global president of non-scripted television at Pulse Films and worked on the Netflix documentary \"The Disappearance of Madeleine McCann.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2402.1 (Ghislaine Maxwell: Epstein's Shadow, 2021, as company-inception product)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10846"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify corporate filings and Pulse Films tenure via public records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13336",
+   "header": "**C-13336** Host Says Empress Films' Production Focus Includes True Crime / Murder Mystery Content",
+   "label": "Host Says Empress Films' Production Focus Includes True Crime / Murder Mystery Content",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Empress Films' production catalog includes true crime / murder mystery documentaries: Ghislaine Maxwell (2021), Marilyn Monroe, Jill Dando, Princess Diana, Depp vs Heard, and Gilgo Beach murders."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2402.1, A-2402.2, A-2402.3, A-2402.4, A-2402.5, A-2402.6"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-47"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10846"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify each production's distribution platform, release date, and reception."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13334",
+   "header": "**C-13334** Host Says Erika Kirk and Andrew Kolvet Had an August 28, 2025 Call with Empress Films Executives",
+   "label": "Host Says Erika Kirk and Andrew Kolvet Had an August 28, 2025 Call with Empress Films Executives",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she learned that on August 28, 2025, Erika Kirk and Andrew Kolvet participated in a call with Empress Films executives, including executive producer Eben Davidson (LA office; ex-Paramount) and founder Emma Cooper, plus two unnamed producers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "Host testimonial confirmation only (sourced by host from \"people who worked with Andrew\"); no displayed documentary source in this episode."
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10844"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify and obtain direct confirmation from call participants or schedules; cross-check Empress Films project pipeline for Aug–Sep 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Optional Flag: Requires human verification – anchor is host testimony, not displayed artifact.*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13356",
+   "header": "**C-13356** Candace Concurs With @spilling the TPUSA/UVU Anniversary Observation",
+   "label": "Candace Concurs With @spilling the TPUSA/UVU Anniversary Observation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:55:56"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Candace concurs with the @spilling the tea observation that holding a Charlie Kirk one-year anniversary event at UVU is inconsistent with TPUSA's UVU-negligence claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2404.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10840"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify whether TPUSA scheduled an anniversary event at UVU; identify the venue."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13358",
+   "header": "**C-13358** Candace Concurs With @Koko Rose Tyler Robinson Footage Observation",
+   "label": "Candace Concurs With @Koko Rose Tyler Robinson Footage Observation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:56:57"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Candace concurs with the @Koko Rose observation that footage of Tyler Robinson's precinct turn-in was deleted under a \"retention policy\" while prior footage of him (years-old minor accident) was readily available; host adds that the same two Scripps News reporters also released old footage of Brian Cole Jr., the man blamed for the DC pipe bombs, being pulled over."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2404.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-25, N-40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain Utah news reporting on precinct footage handling; verify the Brian Cole Jr. footage attribution."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13366",
+   "header": "**C-13366** Host identifies show community as Decentralized Intelligence Agency",
+   "label": "Host identifies show community as Decentralized Intelligence Agency",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:04:04"
+    },
+    {
+     "k": "Claim",
+     "v": "While promoting merchandise, the host says the \"CIA\" hats should actually say \"decentralized intelligence agency\" because \"we got nothing to hide.\""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "...you can buy a CIA hats. It actually should be the decentralized intelligence agency. We got nothing to hide. I love the conspiracy girly muggy. That's actually kind of my favorite mug..."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13367",
+   "header": "**C-13367** CIA hat merch framed as Candace / Decentralized Intelligence Agency brand",
+   "label": "CIA hat merch framed as Candace / Decentralized Intelligence Agency brand",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:04:04"
+    },
+    {
+     "k": "Claim",
+     "v": "The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand."
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "...Okay, I'm accept that. Andrew, um, you can buy a CIA hats. It actually should be the decentralized intelligence agency. We got nothing to hide. I love the co..."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2494.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Confidence",
+     "v": "medium"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm on-screen merch graphic if available; reuse M-14 when exact Candace Intelligence Agency phrase airs."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13292",
+   "header": "**C-13292** Host Says She Is Very Pregnant",
+   "label": "Host Says She Is Very Pregnant",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:00:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says at the top of the episode that she is very pregnant."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "First and foremost, I'm I'm very pregnant, so I'm just feeling chubby."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11313"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Host's own statement; the planned leave is covered by the later comment claim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13294",
+   "header": "**C-13294** Host Says the UVU Event Form Was Filled Out on July 18",
+   "label": "Host Says the UVU Event Form Was Filled Out on July 18",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:15"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says, reading the ABC report, that the TPUSA chapter at UVU filled out the form to host the event in mid July, on July 18."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "TPUSA in mid July to be precise on July 18th uh filled out a form to host this event"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2393.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10012, N-10071, N-10840"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the UVU event request form and its submission metadata to confirm the date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13296",
+   "header": "**C-13296** Host Says Kirk's Last Prior Utah Visit Was April 2024 With 200 Attendees",
+   "label": "Host Says Kirk's Last Prior Utah Visit Was April 2024 With 200 Attendees",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:06"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says, citing ABC News, that Charlie Kirk's previous visit to Utah was in April 2024 at the University of Utah, where 200 people showed up, which she calls a reasonable basis for a 200 estimate."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the last time Charlie Kirk had been to Utah uh was in April of 2024 and he was at the University of Utah and they had 200 people show up."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2393.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10071, N-10840"
+    },
+    {
+     "k": "Supports",
+     "v": "C-13295"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the ABC News article and University of Utah April 2024 event attendance records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13297",
+   "header": "**C-13297** Host Says the Event Drew 3,000 Despite Being Barely Advertised",
+   "label": "Host Says the Event Drew 3,000 Despite Being Barely Advertised",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:06"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says 3,000 people showed up to the UVU event even though it was barely advertised."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "3,000 people show up for this event, which was barely advertised."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10012, N-10840"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review TPUSA and UVU promotion records for the September 10 event, including social posts and flyers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13300",
+   "header": "**C-13300** TPUSA Official Tells ABC the Form Was Submitted in Early July With 200 Plus Selected",
+   "label": "TPUSA Official Tells ABC the Form Was Submitted in Early July With 200 Plus Selected",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:23"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads a TPUSA official's statement to ABC News that on an online form submitted in early July a chapter member selected 200 plus as the maximum attendance."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "on an online form submitted in early July, a TPUSA UVU chapter member selected 200 plus as the max attendance option available on the school's online form."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2393.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10012, N-10071, N-10840"
+    },
+    {
+     "k": "Contradicts",
+     "v": "C-13294"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the early July and July 18 dates against the UVU form record and TPUSA's statement to ABC."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13298",
+   "header": "**C-13298** Chief Jeff Long Said Six Officers Worked UVU and Kirk Had His Own Security",
+   "label": "Chief Jeff Long Said Six Officers Worked UVU and Kirk Had His Own Security",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:04"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads that Chief Jeff Long told reporters there were probably over 3,000 people in attendance, that six officers worked the event and that Kirk had his own security team."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "noting that they had six officers working at the event and Kirk had his own security team."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2393.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-271, N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10012, N-10840"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the UVU police staffing plan and the press conference recording."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13299",
+   "header": "**C-13299** Host Says UVU Crowd Looked Like Adults Unlike Her Earlier UVU Event With Kirk",
+   "label": "Host Says UVU Crowd Looked Like Adults Unlike Her Earlier UVU Event With Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:04"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she noticed right away that the UVU crowd was adults, did not look like a typical TPUSA event, and that at the UVU event she did with Charlie the crowd was a majority of students."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And I noted right away it was a crowd of adults. This did not look to me like a typical Turning Point USA event."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10012"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare crowd footage from September 10 with footage of the host's earlier UVU event; seek attendee demographics."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13302",
+   "header": "**C-13302** Redacted UVU Sender Suggested Fulton Library Quad on August 21",
+   "label": "Redacted UVU Sender Suggested Fulton Library Quad on August 21",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads that an unnamed person with a UVU email address wrote on August 21 suggesting the group would be better placed at the Fulton Library Quad if it drew a large crowd, while the event stayed in the Student Center courtyard."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "someone with a UVU email address whose name was redacted by the school suggested that the event be held elsewhere on campus."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2393.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10012, N-10028"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the unredacted UVU email and the reply to learn who suggested the move and why it was not adopted."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13303",
+   "header": "**C-13303** TPUSA Official Says Two UVU Medical Personnel Were On Site but No Ambulance",
+   "label": "TPUSA Official Says Two UVU Medical Personnel Were On Site but No Ambulance",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads that a TPUSA official told ABC News two UVU emergency medical personnel were on site but not an ambulance."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "told ABC News that there were two UVU emergency medical personnel on site but not an ambulance."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2393.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10071, N-10840"
+    },
+    {
+     "k": "Supports",
+     "v": "C-13293"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask UVU for the identities and deployment of the two medical personnel and their incident log."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13304",
+   "header": "**C-13304** TPUSA Official Said 12 Security With a Full Medical Kit Explained No Ambulance",
+   "label": "TPUSA Official Said 12 Security With a Full Medical Kit Explained No Ambulance",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads the TPUSA official's statement that the safety team was staffed up to 12 security, up from the usual 8 to 9, of ex-military and law enforcement trained and equipped with a full emergency medical kit and field dressing expertise."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Because TPUSA's safety team staffed up for the event to 12 security on site, up from the usual 8 to9, a team comprised of ex-military and law enforcement personnel trained and equipped with a full emergency medical kit"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2393.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10071, N-10840"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the TPUSA security roster and equipment list for September 10 and compare to the reported 12."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13305",
+   "header": "**C-13305** Host Says TPUSA Now Says Its Security Was Not Equipped After Earlier Saying It Was",
+   "label": "Host Says TPUSA Now Says Its Security Was Not Equipped After Earlier Saying It Was",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:43"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says TPUSA in 2025 explained away the missing ambulance by saying its safety team was remarkably equipped, while in the current filing it is no longer equipped, and that TPUSA first owned the decision and now says others should have stopped it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Now all of a sudden this filing, they're no longer equipped."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3167.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11314, N-10840"
+    },
+    {
+     "k": "Supports",
+     "v": "C-13293"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the November 2025 ABC statement with the language of the current filing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13306",
+   "header": "**C-13306** Host Says Kirk Family Lawyer Filing Calls the Missing Ambulance Negligent",
+   "label": "Host Says Kirk Family Lawyer Filing Calls the Missing Ambulance Negligent",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:52"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Kirk family lawyer is filing a document stating the decision not to have an ambulance on standby was negligent and amounted to a wrongful death."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "now the Kirk family lawyer is filing a document that the decision not to have an ambulance on standby was negligent and amounted to a wrongful death."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3167.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11314, N-10840"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the filing and its date, defendants and the exact ambulance allegation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13307",
+   "header": "**C-13307** Host Says Kolvet Recently Claimed She and Charlie Were Not Friends Since 2018",
+   "label": "Host Says Kolvet Recently Claimed She and Charlie Were Not Friends Since 2018",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Andrew Kolvet has recently been trying to tell the public that Charlie Kirk and she were not friends since 2018."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Also recall that recently Andrew has been trying to spin to the public that Charlie and me were not friends since 2018."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10003"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate Kolvet's public statements on the end of the friendship and their dates."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13308",
+   "header": "**C-13308** Host Says Charlie and Erika Came to Her August 2019 Wedding",
+   "label": "Host Says Charlie and Erika Came to Her August 2019 Wedding",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie and Erika attended her wedding in August 2019, a year after 2018."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Charlie and Erika came to my wedding in August of 2019, which was a year beyond 2018."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10003"
+    },
+    {
+     "k": "Contradicts",
+     "v": "C-13307"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Wedding guest lists, photos and travel records for August 2019."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13309",
+   "header": "**C-13309** Host Says She and Charlie Hosted a Black Leadership Summit at the White House in October 2019",
+   "label": "Host Says She and Charlie Hosted a Black Leadership Summit at the White House in October 2019",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she and Charlie hosted the Black Leadership Summit together at the White House in October 2019 and spoke every day."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we hosted the Black Leadership Summit together, me and Charlie, in October of 2019 at the White House."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10003, N-10075"
+    },
+    {
+     "k": "Contradicts",
+     "v": "C-13307"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "White House event records and coverage of the October 2019 summit."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13311",
+   "header": "**C-13311** Host Says Charlie Called the Attacks Coordinated in November 2019",
+   "label": "Host Says Charlie Called the Attacks Coordinated in November 2019",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:18"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that in November 2019 she and Charlie noticed people trying to force one of them to make a statement about the other, and that Charlie texted her that it felt coordinated and he did not know who was behind it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it became very obvious to me and Charlie who were speaking daily that people were trying to force either me or him to make a statement about one another."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2394.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10003, N-10842"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Authenticate the November 2019 Charlie-Candace texts the host refers to."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13310",
+   "header": "**C-13310** Host Says Erika Frantzve Began Dating Charlie Fully in Public in 2019",
+   "label": "Host Says Erika Frantzve Began Dating Charlie Fully in Public in 2019",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says 2019 is when Charlie began dating Erika Frantzve fully in public."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "this is when he begins dating Erika Frantzve fully in public."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Public records and posts showing when Charlie and Erika's relationship became public."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13312",
+   "header": "**C-13312** Host Infers Kolvet Copied the Forwarded Message From Telegram",
+   "label": "Host Infers Kolvet Copied the Forwarded Message From Telegram",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the forwarded November 12, 2019 message shows its date and time European style, which she infers means Kolvet copied it from Telegram, and that she did not have Erika on Telegram or know who \"E\" was."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we are pretty confident that this means he's he copied it from Telegram."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2394.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10842"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Examine the screenshot's date format and any Telegram export from November 2019 for the forwarded message."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13313",
+   "header": "**C-13313** Kolvet Attributed the Forwarded Message to the Groypers' Walls",
+   "label": "Kolvet Attributed the Forwarded Message to the Groypers' Walls",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:26"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that when she asked who wrote the forwarded message about a public feud, Kolvet answered that the \"Graers\" wrote it on their walls and later said it was on their blogs."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He writes, \"The Graers on their walls.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2394.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10842"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full text thread and trace the original source of the message Kolvet forwarded."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13315",
+   "header": "**C-13315** Kolvet Said Charlie's Girlfriend Found the Message",
+   "label": "Kolvet Said Charlie's Girlfriend Found the Message",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that when she asked who sent it to him, Kolvet replied that Charlie's girlfriend found it and also found a second post."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And he says, \"Charlie's girlfriend found it.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2394.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10842"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm from the thread that \"Charlie's girlfriend\" is Erika Frantzve and how she came to the posts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13317",
+   "header": "**C-13317** Host Says Kolvet Gave No Source and Went Silent Until the Next Day",
+   "label": "Host Says Kolvet Gave No Source and Went Silent Until the Next Day",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that when she asked where the text came from, Kolvet said he was not sure and would find it, then did not reply until the next day."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "So I say where though and then he ghosts me."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2394.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10842"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the full thread timestamps for the gap between her question and his reply."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13316",
+   "header": "**C-13316** Host Says Kolvet Repeated in 2025 the Narrative He Had Called a Groyper Invention",
+   "label": "Host Says Kolvet Repeated in 2025 the Narrative He Had Called a Groyper Invention",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:20"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that in 2025 Kolvet repeated the narrative that Charlie feared Candace, which in 2019 he had told her and Charlie came from groyper blogs."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Fast forward to 2025 and Andrew Kolvet is going to repeat this narrative"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2394.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10003, N-10842"
+    },
+    {
+     "k": "Supports",
+     "v": "C-13307"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Match Kolvet's 2025 statements to the 2019 forwarded text wording."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13318",
+   "header": "**C-13318** Host Says the Vox Article Does Not Mention Her or Link the Post",
+   "label": "Host Says the Vox Article Does Not Mention Her or Link the Post",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Kolvet sent a Vox article posted that same day as the source of the blog, that she is not mentioned in the article, and that it links to the forum website but not to a post about Candace or Charlie."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I am not mentioned in the article at all. And the article does not link to this post."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2395.1, A-2396.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10842"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the Vox article from November 2019 and check every outbound link for the 4plebs thread."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13322",
+   "header": "**C-13322** Host Says the Nampa School Told Parents It Would Not Promote the Event and Parents Called It Secret",
+   "label": "Host Says the Nampa School Told Parents It Would Not Promote the Event and Parents Called It Secret",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the parents who told her about the event called it secret because the school, a middle and high school, told them in the weekly newsletter that neither it nor TPUSA would promote it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "they called it secret because the the high school told them"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3168.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11221, N-10533, N-10841"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the weekly newsletter and the school newsletter wording."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13323",
+   "header": "**C-13323** Host Alleges Mandated Assemblies Let TPUSA Inflate Attendance for Donors",
+   "label": "Host Alleges Mandated Assemblies Let TPUSA Inflate Attendance for Donors",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says, in her reply to Kolvet, that students were forced to attend an assembly they did not want to attend so that TPUSA could lie to donors about attendance numbers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "so that you could lie to donors about attendance numbers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2403.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10533, N-10841"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare TPUSA's donor-facing attendance figures with school attendance records for school assemblies."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13325",
+   "header": "**C-13325** Host Says Parents Were Told Neither TPUSA Nor the School Would Post About the Event",
+   "label": "Host Says Parents Were Told Neither TPUSA Nor the School Would Post About the Event",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:37"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she wrote to Kolvet that parents were told in the weekly newsletter that neither Turning Point USA nor the school would be posting about the event on socials."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "were told that neither Turning Point USA nor the school would be posting about it across their socials."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10533, N-10841"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the weekly newsletter and any TPUSA or school statements on promotion."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13327",
+   "header": "**C-13327** Host Lists TPUSA 2.0 Connections to Patel, Hegseth and the Executive Office",
+   "label": "Host Lists TPUSA 2.0 Connections to Patel, Hegseth and the Executive Office",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:29:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host, sarcastically voicing the new TPUSA 2.0 (\"We got power\"), says they know Kash Patel and Pete Hegseth, have the executive office on speed dial and have Air Force Two and Air Force One."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We know Kash Patel. We know Pete Hegsmith. We got We got the Exec office on speed dial."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-69, N-591, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify documented TPUSA contacts with the Patel FBI, Hegseth Pentagon and White House."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13329",
+   "header": "**C-13329** Kirk Said the Goal Was for Club America Attendance to Be Taken for Granted",
+   "label": "Kirk Said the Goal Was for Club America Attendance to Be Taken for Granted",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:10"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the Aspen clip, Charlie Kirk says the goal is full occupation, where the question is not whether a school has a Club America chapter but whether students are going to its meetings."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "What we are trying to do is try to have full occupation where it's not a question of, hey, do you have a Club America chapter?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2397.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10533"
+    },
+    {
+     "k": "Supports",
+     "v": "C-13328"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full Aspen audio and verify this passage against the recording."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13330",
+   "header": "**C-13330** Host Says Parents Asked Whether Money or a Donation Was Exchanged for the Event",
+   "label": "Host Says Parents Asked Whether Money or a Donation Was Exchanged for the Event",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:54"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says parents emailed her wondering whether they were paying for the event and whether a donation was accepted or money exchanged."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the parents were wondering, are we paying for this?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10533, N-10841"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Seek any donation or fee records tied to the Nampa Christian School visit."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13331",
+   "header": "**C-13331** Host Says Kolvet Should Not Have Been Doing PR for Erika in August 2025",
+   "label": "Host Says Kolvet Should Not Have Been Doing PR for Erika in August 2025",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:35:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says, citing people with direct knowledge, that Andrew Kolvet should not have been doing public relations for Erika Kirk in August 2025 outside her involvement with TPUSA Faith."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Andrew Kolvet should not have been doing public public relations for Erika Kirk in August of 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11312"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify TPUSA staff who can say who handled Erika's media in August 2025 and under what role."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13332",
+   "header": "**C-13332** Host Says TPUSA Only Handled Erika's Media for TPUSA Faith Events",
+   "label": "Host Says TPUSA Only Handled Erika's Media for TPUSA Faith Events",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:35:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that she is told that when Erika spoke at an event for TPUSA Faith the organization would handle her media and that it did not do so otherwise, and she adds \"allegedly\" because it comes from people who worked with Kolvet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I am told that in that capacity they would handle her media."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11312"
+    },
+    {
+     "k": "Supports",
+     "v": "C-13331"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Talk to former TPUSA communications staff about the media policy for Erika Kirk and TPUSA Faith."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13333",
+   "header": "**C-13333** Host Says Erika Started the Proclaim 365 Clothing Brand When She Met Charlie",
+   "label": "Host Says Erika Started the Proclaim 365 Clothing Brand When She Met Charlie",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika had a Christian clothing brand called Proclaim 365 that she started right when she met Charlie, and that the host cannot work out how it functions or whether it is profitable."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "called Proclaim 365, which by the way, that deserves an episode in and of itself because for the life of me, I cannot figure out how it functions or if it functions as a profitable business."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11246"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Business filings, sales and tax records for Proclaim 365 and its relation to Proclaim Streetwear."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13337",
+   "header": "**C-13337** Host Says the Empress Films Maxwell Documentary Was Criticized as Too Soft",
+   "label": "Host Says the Empress Films Maxwell Documentary Was Criticized as Too Soft",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says reviews of Empress Films' Ghislaine Maxwell documentary were mixed, with people criticizing it as too soft on Maxwell and one reviewer calling it a media puff piece."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Most notably, people were criticizing it for being too soft on Galain."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2402.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-47, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10846"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Collect the published reviews of Ghislaine Maxwell: Epstein's Shadow."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13338",
+   "header": "**C-13338** Variety Review Says Summers' Book Behind the Monroe Documentary Holds Monroe Was Not Murdered",
+   "label": "Variety Review Says Summers' Book Behind the Monroe Documentary Holds Monroe Was Not Murdered",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:40:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads a Variety review saying Anthony Summers, whose book is the basis of Empress Films' Marilyn Monroe documentary, explicitly states that Monroe was not murdered, and the host says the film takes the state's position."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "explicitly states that Monroe was not murdered."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2402.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10846"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the Variety review and verify the quotation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13339",
+   "header": "**C-13339** Host Describes the Jill Dando Case and Theories Behind Empress Films' Documentary",
+   "label": "Host Describes the Jill Dando Case and Theories Behind Empress Films' Documentary",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:41:05"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Empress Films directed Who Killed Jill Dando, about an unsolved 1990s murder of a UK journalist, and that people claim she was investigating a BBC pedophile network that included Jimmy Savile."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "many people who claim that she was actually investigating a pedophile network at the BBC, which included Jimmy Savile."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2402.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10846"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check Empress Films' Dando documentary credits and the sourcing of the theory."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13340",
+   "header": "**C-13340** Host Says Empress Films Staff Are Openly Left-Leaning",
+   "label": "Host Says Empress Films Staff Are Openly Left-Leaning",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:43:39"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Empress Films staff are proud feminists and pro-LGBTQ, that one employee wore a shirt like \"slay the patriarchy\" and that another shirt reads \"Never gender\" though she says she cannot see it well, which she says makes the company an odd match for Erika Kirk and Kolvet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "proud feminists at the Empress films."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3166.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-14, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10846, N-10844"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the source of the staff photo and confirm the shirt wording."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13341",
+   "header": "**C-13341** Host Says Tucker Carlson Made the Call That Got Blake Neff His Kirk Job",
+   "label": "Host Says Tucker Carlson Made the Call That Got Blake Neff His Kirk Job",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:45:02"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Tucker Carlson is the only reason Blake Neff got the job with Charlie Kirk, having made a phone call to help him after Neff had been floating around for years."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Tucker Carlson had a heart and makes a phone call to help Blake Neff get this job"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-22, N-159, N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11057"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask Carlson, Neff and TPUSA how Neff was hired and who recommended him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13342",
+   "header": "**C-13342** Host Says Neff Worked for Stew Peters Before the Kirk Job",
+   "label": "Host Says Neff Worked for Stew Peters Before the Kirk Job",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:45:02"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Blake Neff was working for Stew Peters before he got the Charlie Kirk show job."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He was actually working for Stew Peters and he calls in effectively a favor to get him this job with Charlie Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-731, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11057"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check Neff's employment history between leaving Fox and joining TPUSA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13343",
+   "header": "**C-13343** Host Says Neff Was Caught Up in an Earlier Racism Scandal Online",
+   "label": "Host Says Neff Was Caught Up in an Earlier Racism Scandal Online",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:45:02"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Blake Neff was involved in a racism scandal for being a total creep online before getting the Kirk show job."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Blake Knap was involved in this racism scandal for being a total creep online"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11057"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check contemporaneous reporting on the Neff scandal."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13345",
+   "header": "**C-13345** Host Reads Politico Subtitle Calling Neff \"Charlie Kirk's Lieutenant\"",
+   "label": "Host Reads Politico Subtitle Calling Neff \"Charlie Kirk's Lieutenant\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:46:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Politico called Blake Neff \"Charlie Kirk's lieutenant\" in a headline line saying the lieutenant has second thoughts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Charlie Kirk's lieutenant has second thoughts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2400.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10845"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the Politico article and compare its headline and subtitle with the host's quotation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13346",
+   "header": "**C-13346** Tucker Says in the Clip the \"Maximalist\" Framing Is the Politico Author's, Not Neff's",
+   "label": "Tucker Says in the Clip the \"Maximalist\" Framing Is the Politico Author's, Not Neff's",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:43"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the aired Tucker Carlson clip, Carlson says the \"maximalist position on free speech\" is the framing of Politico's author Ian Ward and not a Blake Neff quote."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "that's not a Blake Neff quote."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2400.2, A-2401.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-22, N-159"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10845"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the full Carlson segment and the Politico text to see where Ward wrote the phrase."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13347",
+   "header": "**C-13347** Tucker Says Free Speech Has No Maximalist Version and the Remedy Is Rebuttal",
+   "label": "Tucker Says Free Speech Has No Maximalist Version and the Remedy Is Rebuttal",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:43"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip, Carlson says there is no maximalist position on free speech any more than on pregnancy, and that the only thing to do about a conspiracy theory is to rebut it with a more compelling vision."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "there's no maximalist position on free speech anymore than there is on pregnancy."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2401.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-22"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10845"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the clip against the original Tucker Carlson broadcast."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13348",
+   "header": "**C-13348** Tucker Says People on the Right Online Become Paranoid Versions of What They Hate",
+   "label": "Tucker Says People on the Right Online Become Paranoid Versions of What They Hate",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:43"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip, Carlson says many on the right spend too much time on social media, read every attack on themselves, get more paranoid and become a version of the conspiracy nuts they claim to hate."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Probably because they spend way too much time on social media and they read every attack on themselves and they get more paranoid."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2401.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-22"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10845"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the clip against the original Tucker Carlson broadcast."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13350",
+   "header": "**C-13350** Carlson Reads a Neff Quote That the Right Got What It Wanted on Speech",
+   "label": "Carlson Reads a Neff Quote That the Right Got What It Wanted on Speech",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:49:15"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip, Carlson reads what he calls a verbatim Blake Neff quote that \"we got what we wanted on speech\" and that this means having to endure things that were tamped down before."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We got what we wanted on speech and that means we also have to endure a lot of things that were tamped down on before."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2400.1, A-2401.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-22, N-159"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10845"
+    },
+    {
+     "k": "Supports",
+     "v": "C-13351"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the full Neff quotation in the Politico profile."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13353",
+   "header": "**C-13353** Host Says Blake Neff and Kolvet Are Sending Legal Letters",
+   "label": "Host Says Blake Neff and Kolvet Are Sending Legal Letters",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:51:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Neff and Kolvet are sending out legal letters because they now believe speech needs to be fought, whereas Charlie's view was to answer speech with better speech."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They are either sending out legal letters like they believe now that speech needs to be fought"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-14, N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Supports",
+     "v": "C-6308"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Collect the legal letters sent to critics and identify who signed or sent them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13354",
+   "header": "**C-13354** Host Says TPUSA Walks People Into Defamation Claims, as in Her Debate With Andrew Wilson",
+   "label": "Host Says TPUSA Walks People Into Defamation Claims, as in Her Debate With Andrew Wilson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:52:03"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says TPUSA is trying to walk people into defamation claims, as she says was seen in her debate with Andrew Wilson, and platforms them on Charlie Kirk's show while keeping its hands clean."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They want def trying to walk people into defamation claims as you guys saw when I did my debate with Andrew Wilson."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-18, N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the debate record for the claims made and any link to TPUSA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13355",
+   "header": "**C-13355** Host Alleges TPUSA 2.0 Uses Calls, Hit Pieces and Lawsuits Against Critics",
+   "label": "Host Alleges TPUSA 2.0 Uses Calls, Hit Pieces and Lawsuits Against Critics",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:53:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host alleges that Turning Point USA 2.0 makes phone calls, has people publish hit pieces, spends money to have people attacked and launches lawsuits to shut people up."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "You'll make a person publish a hit piece. You've got money you can spend to have somebody attacked. You'll launch lawsuits to shut people up."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify specific hit pieces or lawsuits and whether TPUSA or its officers paid for or ordered them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13357",
+   "header": "**C-13357** Host Jokes TPUSA Was Excited She Would Be Gone About Eight Weeks",
+   "label": "Host Jokes TPUSA Was Excited She Would Be Gone About Eight Weeks",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:55:56"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Reading a viewer comment that says TPUSA probably cancelled its party on learning Baron Coleman would take over the show, the host jokes that TPUSA was excited because \"she's gone for like eight weeks.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They were probably so excited. Like she's gone for like eight weeks."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3169.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-330, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11313"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Host's own announcement; confirm leave dates and fill-in schedule from the show."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13359",
+   "header": "**C-13359** Host Says Cole's Parents Are Going on Tucker to Call It a Federal Operation",
+   "label": "Host Says Cole's Parents Are Going on Tucker to Call It a Federal Operation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:56:57"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Brian Cole's parents are speaking out and are going on Tucker Carlson to say the pipe-bomb case was a federal operation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And actually now Brian Cole's parents are speaking out. They're actually going on Tucker Carlson to say that it was a federal operation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-25, N-22"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10872"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find the Tucker Carlson interview with the Cole family and check what exactly they say."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13360",
+   "header": "**C-13360** Host Says Old Footage of Cole Being Pulled Over Was Released Immediately",
+   "label": "Host Says Old Footage of Cole Being Pulled Over Was Released Immediately",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:56:57"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that after the Cole family spoke out, \"they\" immediately released old footage of Brian Cole being pulled over, and that the same two Scripps News reporters released the Robinson footage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And what did they do? They immediately released old footage of Brian Cole being pulled over."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-25, N-40"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10872, N-10873"
+    },
+    {
+     "k": "Supports",
+     "v": "C-13358"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the reporters and release dates of the Cole traffic-stop footage and the Robinson footage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13361",
+   "header": "**C-13361** Host Asserts January 6 Was a Fed Operation",
+   "label": "Host Asserts January 6 Was a Fed Operation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:56:57"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host asserts that January 6 was a fed operation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "January 6th was a fed operation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11147, N-10872"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The host offers no evidence here; see January 6 federal coordination records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13362",
+   "header": "**C-13362** Host Speculates Authorities Keep Files on Certain Individuals to Pin Crimes on Later",
+   "label": "Host Speculates Authorities Keep Files on Certain Individuals to Pin Crimes on Later",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:57:59"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host speculates that authorities identify people who are slightly autistic, in certain groups or highly intelligent and keep them in a file in case the feds need to commit a crime and pin it on them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "they're keeping them in a file in case the feds need to commit a crime and pin it on them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10872, N-10873"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The host offers no documents; compare the retention practice for the Cole and Robinson footage with ordinary retention rules."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13363",
+   "header": "**C-13363** Host Says TPUSA Welcomes Matt Tardio Despite Him Chasing Women Near ICE Facilities",
+   "label": "Host Says TPUSA Welcomes Matt Tardio Despite Him Chasing Women Near ICE Facilities",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:58:57"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host, voicing TPUSA mockingly, says \"we don't care what you did\" to Matt Tardio and \"we'll have you on the show as long as you say something bad about Candace,\" while Erika has access to high schools and he was chasing young women down alleys in front of ICE facilities."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "while you are chasing young women down alleys in front of ICE facilities."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-587, N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the incident involving Tardio and ICE facilities and the TPUSA appearances referred to."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13364",
+   "header": "**C-13364** Host Says Erika Frantzve Told Them in 2019 the Attacks Were the Groypers",
+   "label": "Host Says Erika Frantzve Told Them in 2019 the Attacks Were the Groypers",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:02:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that at the time, with her and Charlie unable to explain the attacks, Erika Frantzve was an outside person saying it was the Groypers, and Kolvet said the Groypers made it up."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And then we have this outside person at the time, Erika Frantzve, being like, \"Oh, it's the Grapers.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2394.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-14, N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10003, N-10842"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the 2019 thread to see who first attributed the posts to the Groypers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13365",
+   "header": "**C-13365** Host Says Kolvet Cannot Both Claim the Friendship Ended in 2019 and Blame Groypers",
+   "label": "Host Says Kolvet Cannot Both Claim the Friendship Ended in 2019 and Blame Groypers",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:03:02"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Kolvet cannot have both the claim that she and Charlie stopped being friends in 2019 and the claim that the groypers made that up, and says she did not know Kolvet well in 2019."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Did Charlie and I stop being friends in 2019? Or do the Grapers make that up? It can't be both."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2394.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10003"
+    },
+    {
+     "k": "Contradicts",
+     "v": "C-13307"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare Kolvet's 2019 groyper explanation with his 2025 public statements."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "# XI. OPTIONAL FLAGS",
+    "",
+    "- **Name uncertainty (Kolvet):** Andrew appears in transcript under multiple spellings – \"Kolvet,\" \"Kovat,\" \"Kovatte,\" \"Kolvet\" (chapter heading). Primary spelling \"Kolvet\" used in this record. Actual ledger ID to be verified.",
+    "- **Name uncertainty (Erica/Erika):** Mixed spelling throughout transcript – title uses \"Erika,\" body uses both. \"Erica\" used to align with established ledger convention; flagged for verification.",
+    "- **Name uncertainty (Neff/Nef):** Mixed spelling in transcript. \"Neff\" used as primary.",
+    "- **Artifact verbally referenced but not shown:** Empress Films Instagram employee-shirt image (\"slay the patriarchy\") is described but not clearly displayed; Empress Films production catalog is verbally summarized rather than shown title-by-title.",
+    "- **Requires human verification:** C-13334 (Aug 28, 2025 Empress Films call) – anchor is host testimonial only.",
+    "- **Possible transcription error:** Caption source is \"yt-dlp-auto-android\"; minor captioning inaccuracies possible. Verbatim quotes (esp. Tucker Carlson audio A-2401.1, Charlie Kirk audio A-2397.1, Blake Neff quote C-13351) should be cross-checked against raw audio before downstream use.",
+    "- **Ledger ID assumption:** Existing-node IDs for N-1 through N-6 are inferred from protocol example and may not match actual global ledger values. Cross-reference required before downstream episode composition. Wave 1 resolved them: N-4 to N-14 (Andrew Kolvet), N-5 to N-22 (Tucker Carlson), N-6 to N-159 (Blake Neff).",
+    "- **Timestamp note:** Video timestamps are approximate, anchored to inline transcript markers; chapter timestamps from the source metadata also provided in the transcript header.",
+    "",
+    "## 6. Meme Register",
+    ""
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-12",
+   "header": "**M-12** (meme) Decentralized Intelligence Agency",
+   "label": "(meme) Decentralized Intelligence Agency",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "01:04:04"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "...you can buy a CIA hats. It actually should be the decentralized intelligence agency. We got nothing to hide. I love the conspiracy girly muggy. That's actually kind of my favorite mug..."
+    },
+    {
+     "k": "Context",
+     "v": "DIA / DCIA brand line from corrected transcript (CKA seq 154)."
+    },
+    {
+     "k": "Tags",
+     "v": "tips_network, brand_joke, transcript_backfill"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-21",
+   "header": "**M-21** (meme) Conspiracy Girly",
+   "label": "(meme) Conspiracy Girly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "01:04:04"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I love the conspiracy girly muggy."
+    },
+    {
+     "k": "Context",
+     "v": "Wave 3 MemeLink backfill: Conspiracy Girly at 01:04:04 (audit missing_memelink)."
+    },
+    {
+     "k": "Tags",
+     "v": "reuse, memelink_backfill"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-28",
+   "header": "**M-28** (meme) Christ is King",
+   "label": "(meme) Christ is King",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "01:03:02"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Christ is king."
+    },
+    {
+     "k": "Context",
+     "v": "Host's merch plug closing refrain before the final banter."
+    },
+    {
+     "k": "Tags",
+     "v": "sign-off, merch"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-294",
+   "header": "**M-294** (meme) Lie by Omission",
+   "label": "(meme) Lie by Omission",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:00:01"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "lying by severe omission"
+    },
+    {
+     "k": "Context",
+     "v": "Opening summary of her Twitter spat with Kolvet over the Idaho school event."
+    },
+    {
+     "k": "Tags",
+     "v": "kolvet, omission"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:20:36"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "lie by severe omission"
+    },
+    {
+     "k": "Context",
+     "v": "Host describes TPUSA's post about 500 attendees leaving out that it was a school assembly."
+    },
+    {
+     "k": "Tags",
+     "v": "kolvet, omission"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "01:04:04"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "lying by omission"
+    },
+    {
+     "k": "Context",
+     "v": "Closing banter addressed to Kolvet."
+    },
+    {
+     "k": "Tags",
+     "v": "kolvet, omission"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-295",
+   "header": "**M-295** (meme) Textbook Narcissistic Abuse",
+   "label": "(meme) Textbook Narcissistic Abuse",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:08:52"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "textbook narcissistic abuse"
+    },
+    {
+     "k": "Context",
+     "v": "Host characterizes TPUSA's shifting positions on the missing ambulance."
+    },
+    {
+     "k": "Tags",
+     "v": "tpusa, narcissism"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    }
+   ]
+  }
+ ]
+}

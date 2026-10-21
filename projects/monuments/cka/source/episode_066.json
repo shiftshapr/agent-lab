@@ -1,0 +1,7096 @@
+{
+ "format": "cka-source/1",
+ "episode": 66,
+ "blocks": [
+  {
+   "kind": "text",
+   "lines": [
+    "## 1. Meta-Data",
+    "",
+    "- **Episode**: 66",
+    "- **Monument**: cka",
+    "- **CKA seq**: 66",
+    "- **YouTube id**: Wjul6YV6izo",
+    "- **Candace Ep**: 299",
+    "- **Source**: Candace Owens YouTube",
+    "- **Video Timestamp Range**: 00:00:00–00:59:01",
+    "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
+    "- **Transcript SHA-256**: d6f25b223ac060e3fb4bd1a3b2ff9ed6020bdf9ce5285c402437d5a9666ec240",
+    "",
+    "- **Episode Ledger Summary**:",
+    "  - Hole-minted Nodes (reintro-ep066): N-10653",
+    "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
+    "  - Claim Range: C-5906–C-5978",
+    "  - (see registers)",
+    "",
+    "# Episode Analysis: Bride of Charlie – Monument Episode 66",
+    "",
+    "## I. Meta-Data",
+    "",
+    "- **Episode title:** AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299",
+    "- **Series title:** Candace Kirk Archive",
+    "- **Episode number:** Monument Ep 66 (Batch 46)",
+    "- **Channel / creator:** Candace Owens (@RealCandaceO)",
+    "- **Episode date:** 2026-01-30",
+    "- **Source used for analysis:** YouTube auto-captions cleaned with video context",
+    "- **Transcript completeness:** Auto captions cleaned (lexicon + paragraph merge); music cues dropped",
+    "- **Analyst / agent name:** Investigative Analysis Agent",
+    "- **Analysis date:** 2026-01-30",
+    "- **Video ID:** Wjul6YV6izo",
+    "- **Duration:** 59:01",
+    "",
+    "**Episode 66 Ledger Summary**",
+    "",
+    "- Artifact Families Introduced: A-1704, A-1705, A-1706, A-1707, A-1708, A-1709, A-1710, A-1711, A-1712, A-1713",
+    "  - New Nodes Introduced: N-512, N-513, N-514, N-515, N-516, N-517, N-518, N-10466, N-10468, N-10469",
+    "  - Reused Nodes Appearing: N-9, N-36, N-40, N-57, N-93, N-99, N-721, N-10000, N-10002, N-10015, N-10026, N-10059, N-10070, N-10209, N-10324, N-10439, N-10492, N-10869, N-10899, N-11014, N-11035, N-10467, N-11182, N-11183",
+    "- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)",
+    "",
+    "---",
+    "",
+    "## II. Executive Summary",
+    "",
+    "This episode advances the investigation along three evidentiary tracks. First, the host reads a Daily Mail article defending Erika Kirk against \"grief policing\" and quotes its two cited experts (Dr. Alan Wolfelt and Bidwell Smith), using the published text as an artifact anchor for the public defense framing around Erica's behavior.",
+    "",
+    "Second, the host introduces a new donor-targeting narrative supported by a first-person email from a Catholic attendee of the memorial and mass. The email, read aloud, supplies artifact-anchored details about Father Blank (the priest who flew with Erica to Utah, prayed at the hospital, and delivered the homily at the private funeral), including a 6:30am text mentioning \"Erika may be there too\" and a follow-up reply stating \"God's fingerprints are all over\" the donor's connection to Erica. A separately introduced TPUSA text references a $6 million memorial cost tied to a displaced \"lucrative RV show\" at Cardinal Stadium; the host claims she checked the Wayback Machine and found no such RV show on the calendar.",
+    "",
+    "Third, the host introduces a September 9 group-chat text attributed to Charlie Kirk quoting 1 Corinthians 16:9 (\"…there are many adversaries\"), and plays two on-air clips – a Frank Turek sermon excerpt calling the host's claims satanic, and Don Lemon video at a Minnesota church protest. Structural importance: this episode pivots from prior Zoom/audio coverage into donor-intelligence narrative and adds an artifact class (donor email + threaded texts) that maps alleged TPUSA fundraising conduct.",
+    "",
+    "---",
+    "",
+    "## III. Artifact Register",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1704",
+   "header": "**A-1704** Daily Mail Article Bundle",
+   "label": "Daily Mail Article Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1704.1",
+   "header": "**A-1704.1** Daily Mail article: \"The definitive truth about Erika Kirk's tears, the leather pants, and her new fortune as Candace Owens drops 'giggleing' phone call in wake of Charlie's death\"",
+   "label": "Daily Mail article: \"The definitive truth about Erika Kirk's tears, the leather pants, and her new fortune as Candace Owens drops 'giggleing' phone call in wake of Charlie's death\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:02:51–00:05:00"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5908, C-5909, N-2, N-512, N-513*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1705",
+   "header": "**A-1705** Erika Kirk Memorial Speech Audio Bundle",
+   "label": "Erika Kirk Memorial Speech Audio Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1705.1",
+   "header": "**A-1705.1** Audio excerpt of Erika Kirk's memorial speech directing audience to TPUSA.com, TPUSA Faith, and America Fest",
+   "label": "Audio excerpt of Erika Kirk's memorial speech directing audience to TPUSA.com, TPUSA Faith, and America Fest",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:10:38–00:11:54"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5916, C-5911, N-2, N-1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1706",
+   "header": "**A-1706** Catholic Donor Email Bundle",
+   "label": "Catholic Donor Email Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1706.1",
+   "header": "**A-1706.1** Email from Catholic attendee describing Father Blank interaction at memorial and Monday mass; includes quoted text messages from Father Blank (6:30am mass invite, follow-up \"God's fingerprints\" reply)",
+   "label": "Email from Catholic attendee describing Father Blank interaction at memorial and Monday mass; includes quoted text messages from Father Blank (6:30am mass invite, follow-up \"God's fingerprints\" reply)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:13:09–00:20:53"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5917, C-5947, C-5951, N-514, N-186, N-2*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1707",
+   "header": "**A-1707** Father Blank Mass-Invite Text Bundle",
+   "label": "Father Blank Mass-Invite Text Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1707.1",
+   "header": "**A-1707.1** Text from Father Blank to donor at 6:30am: \"Hope to see you at mass. Erika may be there too\"",
+   "label": "Text from Father Blank to donor at 6:30am: \"Hope to see you at mass. Erika may be there too\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:26:40"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5947, N-514, N-2, A-1706.1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1708",
+   "header": "**A-1708** Charlie Kirk September 9 Text Bundle",
+   "label": "Charlie Kirk September 9 Text Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1708.1",
+   "header": "**A-1708.1** Charlie Kirk group-chat text (with Erica and Father Blank), September 9: 1 Corinthians 16:9 – \"for a wide door for effective work has opened to me and there are many adversaries\"",
+   "label": "Charlie Kirk group-chat text (with Erica and Father Blank), September 9: 1 Corinthians 16:9 – \"for a wide door for effective work has opened to me and there are many adversaries\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:23:14"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5936, N-1, N-2, N-514*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1709",
+   "header": "**A-1709** TPUSA Donor-Introduction Text Bundle",
+   "label": "TPUSA Donor-Introduction Text Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1709.1",
+   "header": "**A-1709.1** Text from TPUSA \"Blank\" (Charlie travel companion / donor handler) introducing donor: mentions Erica's death threats, $6M memorial cost, Trump involvement securing Cardinal Stadium, displaced \"lucrative RV show\" revenue",
+   "label": "Text from TPUSA \"Blank\" (Charlie travel companion / donor handler) introducing donor: mentions Erica's death threats, $6M memorial cost, Trump involvement securing Cardinal Stadium, displaced \"lucrative RV show\" revenue",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:24:55"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5941, N-515, N-2, N-10466, N-10469*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1710",
+   "header": "**A-1710** Frank Turek Audio Clip Bundle",
+   "label": "Frank Turek Audio Clip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1710.1",
+   "header": "**A-1710.1** Frank Turek sermon/podcast clip: dismisses Candace's dream-based claims, asserts \"Satan is a murderer, a slanderer, an accuser, a liar, and somebody that brings confusion,\" applies this pattern to criticism of Erika Kirk",
+   "label": "Frank Turek sermon/podcast clip: dismisses Candace's dream-based claims, asserts \"Satan is a murderer, a slanderer, an accuser, a liar, and somebody that brings confusion,\" applies this pattern to criticism of Erika Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:38:28–00:40:25"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5959, N-7, N-2*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1711",
+   "header": "**A-1711** Don Lemon Protest Video Bundle",
+   "label": "Don Lemon Protest Video Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1711.1",
+   "header": "**A-1711.1** Video clip of Don Lemon at a Minnesota church protest questioning a pastor whose church is described as working with ICE",
+   "label": "Video clip of Don Lemon at a Minnesota church protest questioning a pastor whose church is described as working with ICE",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:47:00–00:48:30"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5964, N-516, N-85*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1712",
+   "header": "**A-1712** Wayback Machine Cardinal Stadium Bundle",
+   "label": "Wayback Machine Cardinal Stadium Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1712.1",
+   "header": "**A-1712.1** Wayback Machine screenshots (verbally referenced, not shown on air) allegedly showing no RV show on Cardinal Stadium calendar for the weekend of the Kirk memorial",
+   "label": "Wayback Machine screenshots (verbally referenced, not shown on air) allegedly showing no RV show on Cardinal Stadium calendar for the weekend of the Kirk memorial",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:26:12"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5944, N-10466, A-1709.1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1713",
+   "header": "**A-1713** Top-Fundraiser Outreach Texts Bundle",
+   "label": "Top-Fundraiser Outreach Texts Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1713.1",
+   "header": "**A-1713.1** Text exchange from TPUSA top fundraiser to donor: thanks her for dinner, requests call about the Mar-a-Lago gala, references wanting to \"set up time to visit and discuss further support\"",
+   "label": "Text exchange from TPUSA top fundraiser to donor: thanks her for dinner, requests call about the Mar-a-Lago gala, references wanting to \"set up time to visit and discuss further support\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:32:17–00:34:51"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5952, N-10467*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2928",
+   "header": "**A-2928** Decentralized Intelligence Agency Tip Line Bundle",
+   "label": "Decentralized Intelligence Agency Tip Line Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2928.1",
+   "header": "**A-2928.1** Host verbal reference to the more tips email address when asking for information on the Cardinal Stadium RV show (verbal call for tips)",
+   "label": "Host verbal reference to the more tips email address when asking for information on the Cardinal Stadium RV show (verbal call for tips)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Please email more tips. com. I need to know more about this little RV show.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:24:55"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5943, N-3, N-10466*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2929",
+   "header": "**A-2929** Viewer Comment About the TPUSA Hat Bundle",
+   "label": "Viewer Comment About the TPUSA Hat Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2929.1",
+   "header": "**A-2929.1** Viewer comment from Stephanie read aloud about receiving her TPUSA hat, with the host's follow-up that many other emailers are now receiving theirs",
+   "label": "Viewer comment from Stephanie read aloud about receiving her TPUSA hat, with the host's follow-up that many other emailers are now receiving theirs",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"I received my TPUSA hat today, lol. Most likely only because of the leaked call and the attention brought to the contract wording, if you will, regarding supplying the hats versus a plastic bracelet that said, \"We are Charlie Kirk.\"\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:54:09"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5972, C-5973, N-3, N-11014*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## IV. Node Register",
+    "",
+    ""
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-512",
+   "header": "**N-512** Dr. Alan Wolfelt",
+   "label": "Dr. Alan Wolfelt",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Colorado-based death educator and grief counselor quoted in the Daily Mail article as attributing public criticism of Erika Kirk to \"mourning avoidant, emotion phobic culture.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1704.1, C-5908*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-513",
+   "header": "**N-513** Bidwell Smith",
+   "label": "Bidwell Smith",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "LA grief therapist quoted in the Daily Mail article stating widows are \"uniquely grief policed\" and that \"grief is not a performance and survival is not a moral failure.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1704.1, C-5909*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-7",
+   "header": "**N-7** Frank Turek",
+   "label": "Frank Turek",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Cross-apologetics speaker referenced as a TPUSA-affiliated figure; the on-air clip shows him characterizing criticism of Erika Kirk as satanic pattern behavior."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1710.1, C-5959*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-186",
+   "header": "**N-186** Stacy Sheridan",
+   "label": "Stacy Sheridan",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "TPUSA figure identified by the host as the person who tapped the donor's shoulder in church and invited her to sit with Erica. Host states Sheridan's role is donor intelligence (\"smelling money\")."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1706.1, C-5917, N-2*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-514",
+   "header": "**N-514** Father Blank",
+   "label": "Father Blank",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Priest referenced in the donor's email and texts; flew with Erica to Utah, was present when she received notification of Charlie's death, said the homily at the private funeral on the Friday before the memorial, and texted the donor about mass on the Monday after."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1706.1, A-1707.1, A-1708.1, C-5917, C-5947, N-2*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-515",
+   "header": "**N-515** TPUSA \"Blank\"",
+   "label": "TPUSA \"Blank\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "TPUSA staffer described in donor-introduction text as having traveled with Charlie and handled major donors; introduced the donor into the post-memorial fundraising pipeline."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1709.1, C-5941, N-10467*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-516",
+   "header": "**N-516** Don Lemon",
+   "label": "Don Lemon",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Journalist shown in on-air clip at a Minnesota church protest; referenced in connection with his federal arrest by DOJ under Pam Bondi."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1711.1, C-5964, N-85*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-85",
+   "header": "**N-85** Pam Bondi",
+   "label": "Pam Bondi",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "US Attorney General named in connection with Don Lemon's arrest; host characterizes the prosecution as headline-grabbing theater."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: N-516, A-1711.1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-517",
+   "header": "**N-517** Kobe Bryant",
+   "label": "Kobe Bryant",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Referenced solely as a behavioral-comparison anchor for Erika Kirk (widow grief conduct at memorial); no artifact introduced."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: N-518, N-2*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-518",
+   "header": "**N-518** Vanessa Bryant",
+   "label": "Vanessa Bryant",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Referenced as the comparison figure for widow-grief conduct at Kobe's memorial (eulogy delivered one month later, no TPUSA-equivalent organizational pitch in speech)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: N-517, N-2*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-14",
+   "header": "**N-14** Andrew Kolvet",
+   "label": "Andrew Kolvet",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "TPUSA figure referenced by host in the comments section as the person alleged to have organized the Paramount Tactical orbit and to have texted Erica during the Alex Clark interview. Name spelling varies in transcript (\"Kovat\"/\"Kouvet\"/\"Covette\"/\"Coven\")."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: N-2, N-10467*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10466",
+   "header": "**N-10466** Cardinal Stadium RV Show Booking Question",
+   "label": "Cardinal Stadium RV Show Booking Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Persistent verification target",
+     "v": "was a lucrative RV show actually scheduled at Cardinal Stadium on the weekend of the Kirk memorial such that displaced revenue drove a $6M memorial cost?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1709.1, A-1712.1, C-5941, C-5944, N-10469*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10467",
+   "header": "**N-10467** TPUSA Donor Targeting Pattern Question",
+   "label": "TPUSA Donor Targeting Pattern Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Cross-episode investigation target",
+     "v": "did TPUSA personnel (Stacy Sheridan, TPUSA Blank, top fundraiser) systematically coordinate donor access through memorial events, mass attendance, and faith-channel rapport-building?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "3"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1706.1, A-1709.1, A-1713.1, C-5917, C-5952, N-186, N-515, N-14*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10468",
+   "header": "**N-10468** Father Blank September 10 Mass Cancellation Question",
+   "label": "Father Blank September 10 Mass Cancellation Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host verbal claim that Father Blank cancelled his regular mass on September 10 (the Monday morning the donor attended). No artifact presented in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: N-514, A-1706.1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10469",
+   "header": "**N-10469** $6 Million Memorial Cost Claim Verification Question",
+   "label": "$6 Million Memorial Cost Claim Verification Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Cross-reference target",
+     "v": "figure stated in TPUSA Blank's donor-introduction text and reiterated by host; tied to the RV show displacement claim (N-10466)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1709.1, C-5941, N-10466*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-1",
+   "header": "**N-1** Charlie Kirk",
+   "label": "Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Charlie Kirk; the host reports his Bible-verse texts, his mass attendance and Sheridan's donor hand-offs."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5914, C-5915, C-5923, C-5926, C-5931, C-5934, C-5935, C-5937, C-5939, C-5948, C-5968*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-2",
+   "header": "**N-2** Erika Kirk",
+   "label": "Erika Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Erika Kirk; the host and donor email describe her contact with the priest, donor and fundraisers, and the host questions her statements about Kolvet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5906, C-5910, C-5914, C-5915, C-5919, C-5923, C-5924, C-5925, C-5926, C-5934, C-5935, C-5940, C-5948, C-5949, C-5950, C-5953, C-5960, C-5969, C-5975, C-5976, C-5977*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-3",
+   "header": "**N-3** Candace Owens",
+   "label": "Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host; speaks for herself throughout."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-2928.1, A-2929.1, C-5906, C-5907, C-5912, C-5913, C-5914, C-5915, C-5918, C-5921, C-5928, C-5929, C-5932, C-5933, C-5935, C-5942, C-5943, C-5945, C-5946, C-5955, C-5958, C-5960, C-5961, C-5962, C-5966, C-5967, C-5968, C-5969, C-5970, C-5971, C-5972, C-5973, C-5975, C-5977, C-5978*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-9",
+   "header": "**N-9** Jeffrey Epstein",
+   "label": "Jeffrey Epstein",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Jeffrey Epstein; named in the host's remark about Pam Bondi."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5965*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-36",
+   "header": "**N-36** Benjamin Netanyahu",
+   "label": "Benjamin Netanyahu",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Benjamin Netanyahu; named in the host's remark about Hamas funding."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5967*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-40",
+   "header": "**N-40** Tyler Robinson",
+   "label": "Tyler Robinson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Tyler Robinson; the suspect whom Erika Kirk forgave on stage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5960*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-57",
+   "header": "**N-57** Patrick Bet-David",
+   "label": "Patrick Bet-David",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Patrick Bet-David; his podcast is the circle in which the donor networked."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5937*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-93",
+   "header": "**N-93** Alex Jones",
+   "label": "Alex Jones",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Alex Jones; the host says Kolvet organized his involvement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5970*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-99",
+   "header": "**N-99** Alex Clark",
+   "label": "Alex Clark",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Alex Clark; interviewer whose interview with Kolvet the donor and the host dispute."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5921, C-5975, C-5976*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-721",
+   "header": "**N-721** Rabbi Michael Barclay",
+   "label": "Rabbi Michael Barclay",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Rabbi Barclay (the transcript spells him Rabbi Barclay); the host says her debate with him and his interview shaped her view of Zionism."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5978*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10000",
+   "header": "**N-10000** Turning Point USA",
+   "label": "Turning Point USA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Turning Point USA; subject of the crisis PR, donor targeting and firing claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5906, C-5907, C-5915, C-5920, C-5929, C-5945, C-5950, C-5961, C-5962*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10002",
+   "header": "**N-10002** Charlie Kirk Death and Memorial",
+   "label": "Charlie Kirk Death and Memorial",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Charlie Kirk Death and Memorial; the setting for the donor's account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5914, C-5922, C-5938, C-5942, C-5945*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10015",
+   "header": "**N-10015** Mossad",
+   "label": "Mossad",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Mossad; named in the host's remark about CIA and Mossad training."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5966*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10026",
+   "header": "**N-10026** Israel",
+   "label": "Israel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Israel; context for the host's Zionism and Mar-a-Lago remarks."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5967, C-5978*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10059",
+   "header": "**N-10059** PBD Podcast",
+   "label": "PBD Podcast",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "PBD Podcast; the donor networked with people orbiting it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5937*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10070",
+   "header": "**N-10070** Daily Mail",
+   "label": "Daily Mail",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Daily Mail; publisher of the grief-policing article."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5910*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10209",
+   "header": "**N-10209** TPUSA Faith / Christian Zionist Infiltration Question",
+   "label": "TPUSA Faith / Christian Zionist Infiltration Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Existing topic reused",
+     "v": "TPUSA Faith / Christian Zionist infiltration question."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5954, C-5956*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10324",
+   "header": "**N-10324** Epstein Files Release Status",
+   "label": "Epstein Files Release Status",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Epstein Files Release Status; context for the host's Bondi remark."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5965*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10439",
+   "header": "**N-10439** TPUSA Termination Cause Investigation",
+   "label": "TPUSA Termination Cause Investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "TPUSA Termination Cause Investigation; reused for the firing claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5971*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10492",
+   "header": "**N-10492** TPUSA Post-Charlie Loyalty-Test Termination Pattern",
+   "label": "TPUSA Post-Charlie Loyalty-Test Termination Pattern",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "TPUSA Post-Charlie Loyalty-Test Termination Pattern; reused for the loyalty-test claim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5961*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10653",
+   "header": "**N-10653** Turning Point Geofencing / Show Faith by Works Link",
+   "label": "Turning Point Geofencing / Show Faith by Works Link",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Turning Point Geofencing / Show Faith by Works Link; reused for the memorial geofencing claim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5945*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10869",
+   "header": "**N-10869** Dominate 2.0 Mar-a-Lago “Big Hitters” Telegram Donor List",
+   "label": "Dominate 2.0 Mar-a-Lago “Big Hitters” Telegram Donor List",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Dominate 2.0 Mar-a-Lago Big Hitters Telegram Donor List; reused as the Mar-a-Lago gala context."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5954, C-5955*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10899",
+   "header": "**N-10899** Paramount Tactical",
+   "label": "Paramount Tactical",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Paramount Tactical; the host says it is part of TPUSA's paid orbit."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5907, C-5970*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11014",
+   "header": "**N-11014** TPUSA Post-Assassination Merchandise Revenue Claim",
+   "label": "TPUSA Post-Assassination Merchandise Revenue Claim",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "TPUSA Post-Assassination Merchandise Revenue Claim; reused for the hat claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-2929.1, C-5972, C-5973*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11035",
+   "header": "**N-11035** TPUSA Employee Purge and Leak Hunt",
+   "label": "TPUSA Employee Purge and Leak Hunt",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "TPUSA Employee Purge and Leak Hunt; reused for the firing claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5961, C-5971*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11182",
+   "header": "**N-11182** TPUSA Crisis PR Team",
+   "label": "TPUSA Crisis PR Team",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "raw": "The crisis PR team the host says Erika Kirk told her TPUSA hired because of Andrew Kolvet's mistakes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5906*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11183",
+   "header": "**N-11183** Kolvet Alex Clark Interview Account Dispute",
+   "label": "Kolvet Alex Clark Interview Account Dispute",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The dispute over Kolvet's interview with Alex Clark: the donor and the host call it untruthful, Erika Kirk allegedly said Kolvet went rogue, and a former staffer says he texted Erika during it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5921, C-5974, C-5975, C-5976*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## V. Claim Register",
+    ""
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5908",
+   "header": "**C-5908** Daily Mail article cites \"experts\" framing Kirk criticism as grief policing and sexism",
+   "label": "Daily Mail article cites \"experts\" framing Kirk criticism as grief policing and sexism",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:51"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The Daily Mail article presents grief experts who attribute criticism of Erika Kirk to \"grief policing,\" a \"mourning avoidant, emotion phobic culture,\" and sexism."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1704.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-512, N-513"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve full Daily Mail article text and verify quotes, attributions, and publication context."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5909",
+   "header": "**C-5909** Daily Mail Article Quotes Dr. Alan Wolfelt and Bidwell Smith Defending Kirk's Hyperfunctioning",
+   "label": "Daily Mail Article Quotes Dr. Alan Wolfelt and Bidwell Smith Defending Kirk's Hyperfunctioning",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:11"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the Daily Mail article the host reads, Dr. Alan Wolfelt characterizes criticism of Kirk as reflecting a \"mourning avoidant, emotion phobic culture\"; Bidwell Smith states \"widows are uniquely grief policed\" and that \"grief is not a performance and survival is not a moral failure.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1704.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-512, N-513"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm expert credentials, prior publication record, and any financial or organizational ties to TPUSA or Kirk-aligned entities."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5916",
+   "header": "**C-5916** Erika Kirk's Speech Beside Charlie's Chair Directs Audience to TPUSA-Affiliated Sign-Ups",
+   "label": "Erika Kirk's Speech Beside Charlie's Chair Directs Audience to TPUSA-Affiliated Sign-Ups",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip the host plays, within ~36–48 hours of Charlie Kirk's assassination (the host's estimate), Erika Kirk's speech directs listeners to TPUSA.com, TPUSA Faith, and America Fest sign-up."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1705.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-2"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain full memorial transcript and compare against TPUSA-comparable speeches given by other political widows to assess normality of organizational messaging density."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5911",
+   "header": "**C-5911** Host contrasts Vanessa Bryant's eulogy with Erika Kirk's memorial speech",
+   "label": "Host contrasts Vanessa Bryant's eulogy with Erika Kirk's memorial speech",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:32"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host asserts Vanessa Bryant's Kobe Bryant memorial speech (delivered ~one month after death) focused on personal anecdotes about Kobe and grief, while Erika Kirk's memorial speech, and her first speech beside Charlie's chair ~36–48 hours after his death, centered on Turning Point USA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1705.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-517, N-518, N-1"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain and compare the full transcripts of both memorial speeches against the host's characterization; note Vanessa Bryant speech is verbally referenced but not played or quoted in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5917",
+   "header": "**C-5917** Catholic donor reports interaction with Father Blank and Stacy Sheridan",
+   "label": "Catholic donor reports interaction with Father Blank and Stacy Sheridan",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "A Catholic donor emailed the host describing how she was seated next to Father Blank at the Kirk memorial; the priest was with Erika when she was notified of Charlie's death, prayed over Charlie, and delivered the homily at the private funeral. The host says the woman who tapped the donor's shoulder at the post-mass church and invited her to sit with Erika was Stacy Sheridan."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1706.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-186, N-514"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10467"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the email's metadata, the donor's identity, the priest's actual name and parish, and confirm the September mass timeline independently."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5947",
+   "header": "**C-5947** Per Text the Host Shows, Father Blank Told the Donor Erika May Be at Monday Morning Mass",
+   "label": "Per Text the Host Shows, Father Blank Told the Donor Erika May Be at Monday Morning Mass",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:26:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the donor's email and a text message the host shows, Father Blank texted the donor at 6:30am saying \"Hope to see you at mass\" and \"Erika may be there too.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1707.1, A-1706.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-514"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain phone records or screenshots of the actual text thread; verify whether \"may be there\" phrasing reflects typical priest communication or pre-coordinated signal."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5927",
+   "header": "**C-5927** Donor Tells Host She Gave Erika Kirk a Relic of St. Paul II",
+   "label": "Donor Tells Host She Gave Erika Kirk a Relic of St. Paul II",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In an email from a Catholic donor that the host reads, the donor says she had relics of St. Paul II that her mom wanted to give Erika Kirk, arranged for someone to fly them to her, and then gave them to Erika."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1706.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Cross-check donor's account with Erika Kirk's public acknowledgment of receiving relics."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5936",
+   "header": "**C-5936** Host Says Charlie Kirk Sent Group-Chat Text Quoting 1 Corinthians 16:9 on September 9",
+   "label": "Host Says Charlie Kirk Sent Group-Chat Text Quoting 1 Corinthians 16:9 on September 9",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per a group-chat text message screenshot that the host shows and says was supplied by a source, Charlie Kirk sent a text on September 9 to Erika and Father Blank quoting 1 Corinthians 16:9: \"for a wide door for effective work has opened to me and there are many adversaries.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1708.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-2, N-514"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain forensic verification of text message origin, timestamp, and sender device; identify the third group-chat participant's account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5941",
+   "header": "**C-5941** Text Introducing Donor to TPUSA Staffer Cites $6M Memorial Cost Tied to Displaced RV Show at Cardinal Stadium",
+   "label": "Text Introducing Donor to TPUSA Staffer Cites $6M Memorial Cost Tied to Displaced RV Show at Cardinal Stadium",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per a text message the host shows, a contact introducing the donor to TPUSA's \"Blank\" says Blank told them the memorial will cost approximately $6 million, that Trump apparently had to get personally involved to secure Cardinal Stadium, and that the high cost was driven by making up lost revenue from a \"large and lucrative RV show\" planned that weekend."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1709.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-515"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10466, N-10469"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify Cardinal Stadium event calendar for that weekend; cross-check White House or Trump campaign communications about venue booking; trace the TPUSA \"Blank\" staffer identity."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5951",
+   "header": "**C-5951** Father Blank responded to donor's thank-you note attributing connection to God",
+   "label": "Father Blank responded to donor's thank-you note attributing connection to God",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the message the host reads, Father Blank responded to the donor's thank-you message with: \"God's fingerprints are all over what is happening. There is no doubt that your presence to Erika was a God moment for both of you.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1706.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-514"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify text message metadata and check whether the priest used similar phrasing with other donors introduced through memorial attendance."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5944",
+   "header": "**C-5944** Host claims Wayback Machine review found no RV show at Cardinal Stadium",
+   "label": "Host claims Wayback Machine review found no RV show at Cardinal Stadium",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:29"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host states she checked the Wayback Machine and saved screenshots showing no RV show was on the Cardinal Stadium calendar for the memorial weekend."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1712.1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10466"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Host must release or publish the Wayback Machine screenshots to enable independent verification; alternative venue booking records should be subpoenaed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5952",
+   "header": "**C-5952** TPUSA top fundraiser pitched donor on Mar-a-Lago gala with ~$42M target",
+   "label": "TPUSA top fundraiser pitched donor on Mar-a-Lago gala with ~$42M target",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:32"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says another top TPUSA fundraiser, who delivered the relic, offered to visit the donor in the Chicago area, met her and her father, and invited her to the Mar-a-Lago gala where, she says, they were going to raise about $42 million; per a text the host reads, he then asked to call her about the gala."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1713.1, A-1706.1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10467"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the fundraiser; obtain the full text thread; cross-check Mar-a-Lago TPUSA gala fundraising figures against public 990 filings or TPUSA disclosures."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5959",
+   "header": "**C-5959** Frank Turek on-air clip attributes criticism of Kirk to satanic pattern behavior",
+   "label": "Frank Turek on-air clip attributes criticism of Kirk to satanic pattern behavior",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Frank Turek states in an on-air clip that criticism of Erika Kirk (described as slander, accusation, lies, confusion, without evidence) is what \"Satan does,\" and dismisses Candace Owens' dream-based claims as lacking supernatural confirmation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1710.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-7, N-3"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the original Frank Turek episode/podcast the clip is drawn from and verify edit context."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5964",
+   "header": "**C-5964** Host Says Don Lemon Video Shows Him Questioning ICE-Affiliated Pastor at Minnesota Church Protest",
+   "label": "Host Says Don Lemon Video Shows Him Questioning ICE-Affiliated Pastor at Minnesota Church Protest",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host plays a clip that she says shows Don Lemon on camera at a Minnesota church protest questioning one of the pastors of a church whose pastor, she says, works with ICE."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1711.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-516"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm the underlying church affiliation and ICE relationship; verify the federal charges basis for Don Lemon's subsequent arrest."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5906",
+   "header": "**C-5906** Host Says Erika Told Her TPUSA Hired a Crisis PR Team Because of Andrew's Mistakes",
+   "label": "Host Says Erika Told Her TPUSA Hired a Crisis PR Team Because of Andrew's Mistakes",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:01:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk told her that Turning Point USA hired a crisis PR team because Andrew Kolvet had made mistakes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I was told that actually by Erika that they hired a crisis PR team because you know Andrew had made all those mistakes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-14, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-11182"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the crisis PR firm and its engagement date through TPUSA filings, press reports or the host's sources; ask TPUSA to confirm or deny the hire."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5907",
+   "header": "**C-5907** Host Says TPUSA Pays an Orbit of People to Push Talking Points Including Paramount Tactical",
+   "label": "Host Says TPUSA Pays an Orbit of People to Push Talking Points Including Paramount Tactical",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:01:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Turning Point USA has enough money to pay an entire orbit of people to push its talking points, and names Paramount Tactical as one of them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Enough money to have not just a PR person, but then to have an entire orbit of people who are being paid to push their talking points like Paramount Tactical."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10899, N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Look for payment records, sponsorship disclosures or contract documents between TPUSA or its vendors and Paramount Tactical."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5910",
+   "header": "**C-5910** Daily Mail Article Has Dr. Wolfelt Calling Erika's Getting Dressed and Making Up a Survival Tactic",
+   "label": "Daily Mail Article Has Dr. Wolfelt Calling Erika's Getting Dressed and Making Up a Survival Tactic",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:59"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads from the Daily Mail article that Dr. Alan Wolfelt suspects Erika Kirk's insistence on getting up, getting dressed, putting on makeup and fighting for something she believes in daily is a classic emotional survival tactic."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Dr. Wolf similarly suspects that Kirk's insistence on getting up and getting dressed and putting on makeup and fighting for something she believes in every day is a classic emotional survival tactic."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1704.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-512, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10070"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5909"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the Daily Mail article and confirm the Wolft attribution and wording; confirm whether the quoted experts had any contact with Kirk or TPUSA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5912",
+   "header": "**C-5912** Host Says Vanessa Bryant Sued the Photo Leakers and the Helicopter Company",
+   "label": "Host Says Vanessa Bryant Sued the Photo Leakers and the Helicopter Company",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:32"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that Vanessa Bryant was suing everybody after Kobe Bryant's death, including people who released the photos and the helicopter company."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Vanessa was suing everybody. She was suing people who released the photos. She was suing the helicopter company"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-518, N-517, N-3"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5911"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check court dockets for Vanessa Bryant's suits over the crash photos and against the helicopter operator to confirm the host's description of her litigation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5913",
+   "header": "**C-5913** Host Says Vanessa Bryant Gave Her First Interview Four Months Later Accepting Kobe's Hall of Fame Induction",
+   "label": "Host Says Vanessa Bryant Gave Her First Interview Four Months Later Accepting Kobe's Hall of Fame Induction",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:08"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Vanessa Bryant gave her first interview four months after Kobe Bryant's death, in April, and that no one was invited into her home; she says it was tied to accepting Kobe's Hall of Fame induction."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "when she gave her first interview, just so you know, that wasn't until 4 months later in April, and they were not invited into her home."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-518, N-517, N-3"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5911"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the date and venue of Vanessa Bryant's first post-crash interview and the Hall of Fame induction coverage against the host's account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5914",
+   "header": "**C-5914** Host Says Erika's Speech Transcript Teaches Nothing About Charlie Beyond TPUSA",
+   "label": "Host Says Erika's Speech Transcript Teaches Nothing About Charlie Beyond TPUSA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:20"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that after reading the transcript of Erika Kirk's memorial speech she found that it taught nothing about Charlie Kirk other than Turning Point USA and what will happen going forward."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And you don't actually when you read the transcript learn anything about Charlie other than Turning Point USA and what's going to happen going forward."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10002"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5911"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full transcript of the memorial speech and count the personal references to Charlie Kirk against the organizational references."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5915",
+   "header": "**C-5915** Host Says Erika's First Speech Beside Charlie's Chair Also Pitched Help for TPUSA",
+   "label": "Host Says Erika's First Speech Beside Charlie's Chair Also Pitched Help for TPUSA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that even in the first speech Erika Kirk gave next to Charlie Kirk's chair she talked about Turning Point USA and what people can do for the organization."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Even in the first speech that she gave next to his chair, she talks about Turning Point USA and what we can do for the organization, right?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the transcript of Erika Kirk's first public speech beside Charlie's chair and check for the organizational calls to action the host describes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5918",
+   "header": "**C-5918** Host Says She Received the Catholic Donor Email in October and Filed It Away",
+   "label": "Host Says She Received the Catholic Donor Email in October and Filed It Away",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she received an email from a Catholic woman back in October, that it did not sit right with her spiritually, and that she flagged and filed it before revisiting it later."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I got an email from a woman, Catholic woman, back in October, and the email did not sit right with me spiritually."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1706.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10467"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the date of the original email in the host's inbox; compare with the host's later remark at 00:20:53 that she sent her reply back in October."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5919",
+   "header": "**C-5919** Email Says Erika Asked the Priest to Pray the Rosary at the Hospital",
+   "label": "Email Says Erika Asked the Priest to Pray the Rosary at the Hospital",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:05"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The donor's email, as read by the host, says Erika Kirk asked the priest to pray the rosary at the hospital and that he gave the homily at the private funeral the Friday before the memorial."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "She actually asked him to pray the rosary there at the hospital and he said the homaly at the private funeral the Friday before the memorial."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1706.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-514"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5917"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm with the hospital chaplaincy, the parish or Erika Kirk's team whether the priest was present at the hospital and officiated at the private funeral."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5920",
+   "header": "**C-5920** Email Says the Donor Had No Prior Involvement With TPUSA",
+   "label": "Email Says the Donor Had No Prior Involvement With TPUSA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:05"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The donor's email says she attended the memorial with zero personal or prior involvement or engagement with Turning Point USA or anyone from there."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I was at the memorial having zero personal or prior involvement or engagement with Turning Point USA or anyone from there."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1706.1"
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10467"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the donor's donation or event history with TPUSA; the host later says the donor is extraordinarily wealthy (00:21:52)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5921",
+   "header": "**C-5921** Email Says the Alex Clark Interview Made the Donor's Stomach Hurt for How Untruthful It Was",
+   "label": "Email Says the Alex Clark Interview Made the Donor's Stomach Hurt for How Untruthful It Was",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:57"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The donor's email says she paused the host's podcast when it played the Alex Clark interview because it made her stomach hurt how untruthful what they were saying was, and that this prompted her to write."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I had to pause it when you played Alex Clark's interview because it honestly made my stomach hurt how untruthful what they were saying was"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1706.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-99, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11183"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the Alex Clark interview the host played and the specific statements the donor found untruthful; compare with TPUSA's account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5922",
+   "header": "**C-5922** Email Says the Donor Sat About Eight Hours Beside the Priest in the Third Row",
+   "label": "Email Says the Donor Sat About Eight Hours Beside the Priest in the Third Row",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:57"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The donor's email says she spent about eight hours sitting with the priest in the third row from the stage, with empty seats around her, after inviting him to take an empty seat."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I spent a good eight hours sitting with Father Blank. I'm shy generally and was sitting with empty seats around me in the third row from the stage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1706.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-514"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10002"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the memorial seating chart and credential records for the third-row sections and who sat in them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5923",
+   "header": "**C-5923** Email Says the Priest Showed the Donor Messages From Charlie and Told Stories of Charlie at Mass",
+   "label": "Email Says the Priest Showed the Donor Messages From Charlie and Told Stories of Charlie at Mass",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:43"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The donor's email says the priest shared stories of Charlie attending mass and spending time with Erika and Charlie, and showed her messages from Charlie, while tears ran down his face."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Tears going down his face from his stories and messages from Charlie that he showed me."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1706.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-514, N-1, N-2"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask the donor for the messages the priest showed her and compare with the September 9 group-chat text shown at 00:23:14."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5924",
+   "header": "**C-5924** Email Says a Tall Bodyguard and a Middle-Aged Woman Sat With Erika at the Monday Mass",
+   "label": "Email Says a Tall Bodyguard and a Middle-Aged Woman Sat With Erika at the Monday Mass",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The donor's email says that at the Monday 8:30 a.m. mass, about six people attended, and afterward she noticed a tall bodyguard in the back along with Erika and a middle-aged woman sitting by her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I noticed a tall bodyguard in the back along with Erika and a middle-aged woman that was sitting by her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1706.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify Erika Kirk's security detail and companion that morning through the parish and the donor; check the Monday schedule."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5925",
+   "header": "**C-5925** Email Says the Woman Who Tapped the Donor Seemed to Be an Assistant Whose Role She Could Not Recall",
+   "label": "Email Says the Woman Who Tapped the Donor Seemed to Be an Assistant Whose Role She Could Not Recall",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The donor's email says a woman tapped her on the shoulder, that she believed it was an assistant and could not remember what she does, and asked whether she would like to join Erika."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "A minute or two later, as I was still in prayer, I had a tap on my shoulder by a woman. I believed it was an assistant."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1706.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-186"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10467"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5917"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask the donor to confirm in writing who tapped her and how she learned the woman's name, since the email as read does not name her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5926",
+   "header": "**C-5926** Email Says Erika Told the Donor Charlie Went to Mass There and the Priest Opened the Church for Him",
+   "label": "Email Says Erika Told the Donor Charlie Went to Mass There and the Priest Opened the Church for Him",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:06"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The donor's email says Erika Kirk told her that Charlie went to mass with her there and that Father Don would often open the church for him to pray and reflect without being disrupted, and that he was with her the entire time from Arizona to Utah in the hospital."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "She mentioned that Charlie went to mass with her there and that Father Don would open the church up for him there often when Charlie just wanted to pray and reflect without being disrupted"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1706.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-1, N-514"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check Charlie Kirk's mass attendance with the parish; the email reads Father Don while the host calls the priest Father Blank, so confirm the name."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5928",
+   "header": "**C-5928** Host Says Sheridan Would Only Approach Someone With a Boatload of Money",
+   "label": "Host Says Sheridan Would Only Approach Someone With a Boatload of Money",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she knew from who tapped the donor that Stacy Sheridan would only have done so if the woman writing had a boatload of money, and that she did not even need to look up the donor."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I knew that Stacy would have only done that if the girl who was writing me this email had a boatload of money."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1706.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-186, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10467"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask the donor to confirm Sheridan was the woman who tapped her; review Sheridan's role in TPUSA donor relations through staff accounts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5929",
+   "header": "**C-5929** Host Says TPUSA Had the Donor Clocked Before She Walked Into the Memorial",
+   "label": "Host Says TPUSA Had the Donor Clocked Before She Walked Into the Memorial",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she knew TPUSA had the donor clocked before she walked into the memorial."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I knew that they had that girl clocked before she walked into memorial."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1706.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10467, N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Look for pre-memorial donor lists or briefing notes; the donor's account of how she got in (00:23:14) is the test of whether she was pre-identified."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5930",
+   "header": "**C-5930** Host Says Sheridan's Job Is to Know Every Prospect's Net Worth Including Their Parents'",
+   "label": "Host Says Sheridan's Job Is to Know Every Prospect's Net Worth Including Their Parents'",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Stacy Sheridan's job is to know everything about a person before they are seated, including their net worth and their parents' net worth."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Stacy Sheridan's job literally is to know everything about that person, their net worth."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-186"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10467"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain Sheridan's job description and any donor-profile documents from former TPUSA staff; ask TPUSA to describe her role."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5931",
+   "header": "**C-5931** Host Says Sheridan Would Whisper Prospects' Wealth to Charlie, Which Is Why She Was Brought On",
+   "label": "Host Says Sheridan Would Whisper Prospects' Wealth to Charlie, Which Is Why She Was Brought On",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Sheridan would whisper in Charlie Kirk's ear about a person, after which Charlie would go have the conversation, and that this was the whole reason TPUSA brought her on."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "She would tell Charlie. She whisper in Charlie's ear."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-186, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10467"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask former TPUSA event staff to describe the donor hand-off routine at events; check the host's earlier references to this in ep 19 (C-1723)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5932",
+   "header": "**C-5932** Host Says She Told the Donor She Had Been Targeted and the Donor Had Already Concluded So",
+   "label": "Host Says She Told the Donor She Had Been Targeted and the Donor Had Already Concluded So",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she wrote to the donor that she assumed she had a lot of money and had been targeted, and that the donor replied she had already come to that conclusion."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I'm going to assume you have a lot of money, and it breaks my to tell you this, but you were targeted."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1706.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10467"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the host's reply and the donor's response in writing to confirm the donor's own conclusion."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5933",
+   "header": "**C-5933** Host Says the Donor's Family Is Extraordinarily Wealthy From a Sold Business and a Massive Business",
+   "label": "Host Says the Donor's Family Is Extraordinarily Wealthy From a Sold Business and a Massive Business",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:52"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the donor's father sold a huge business, the donor runs a massive business, and the family is extraordinarily wealthy."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "She runs a massive business. They are wealthy. Extraordinarily wealthy."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10467"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The donor is unnamed on air; verify her wealth through the host's sources without naming her publicly."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5934",
+   "header": "**C-5934** Host Says the Donor's Evidence Included a Text the Priest Had Shared With Her",
+   "label": "Host Says the Donor's Evidence Included a Text the Priest Had Shared With Her",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:52"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the donor supplied evidence in the form of a text message that the priest she sat next to had shared with her, from a group chat between the priest, Erika and Charlie on the morning of September 9."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "She even supplied evidence uh in the form of a text message that the priest that she was sitting next to had shared with her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1708.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-2, N-514"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5936"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the original screenshot or forward from the donor and verify its provenance and metadata."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5935",
+   "header": "**C-5935** Host Says Charlie's Texts to Her Typically Carried Verses of Encouragement",
+   "label": "Host Says Charlie's Texts to Her Typically Carried Verses of Encouragement",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:39"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she has many texts with Charlie Kirk and that they typically carried a Bible verse of encouragement relevant to whatever they were going through."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I have tons with Charlie. They were typically relevant to whatever we were going through, a verse of encouragement uh to keep going, to keep fighting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare with the host's earlier release of Charlie Kirk texts and any verse-bearing messages; Erika Kirk has said Charlie sent verses."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5937",
+   "header": "**C-5937** Host Says the Donor Was at a Marketing Conference Among People Orbiting PBD's Podcast When Charlie Was Shot",
+   "label": "Host Says the Donor Was at a Marketing Conference Among People Orbiting PBD's Podcast When Charlie Was Shot",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the donor was at a marketing conference with people orbiting PBD's podcast when Charlie Kirk was shot, and that the host does not consider that part relevant."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "It was it was a conference event with some people that were orbiting around like PBD's podcast."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1706.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-57, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10059"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the marketing conference and the attendees; ask the donor which contacts there introduced her to TPUSA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5938",
+   "header": "**C-5938** Host Says a Contact Hooked the Donor Up With Someone Who Could Get Her Into the Venue",
+   "label": "Host Says a Contact Hooked the Donor Up With Someone Who Could Get Her Into the Venue",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says a person at the conference hooked the donor up directly with somebody who could help get her into the memorial venue, which she asked about because people were waiting in the rain for tickets."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And that person then hooked her up directly with somebody that they said could help get her into the venue."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1706.1"
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10467, N-10002"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the donor's introduction text thread (A-1709.1 shows part of it) to identify the intermediary and the TPUSA contact."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5939",
+   "header": "**C-5939** Text Introduces the Donor to a TPUSA Staffer Who Traveled Everywhere With Charlie Handling Big Donors",
+   "label": "Text Introduces the Donor to a TPUSA Staffer Who Traveled Everywhere With Charlie Handling Big Donors",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:08"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "A text the host shows says the donor is being introduced to a TPUSA staffer who traveled everywhere with Charlie handling many of their big donors."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I'm going to introduce you via text to TPUSA's Blank who traveled everywhere with Charlie handling many of their big donors."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1709.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-515, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10467"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the TPUSA staffer and the sender of the text from the donor's screenshot; check the staffer's travel with Charlie."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5940",
+   "header": "**C-5940** Text Says Erika Is Getting More Death Threats and the Staffer Will Run Point on Funding the Memorial",
+   "label": "Text Says Erika Is Getting More Death Threats and the Staffer Will Run Point on Funding the Memorial",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:08"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The same text says Erika has been getting more death threats every day and that the staffer promised her he will run point on raising money to cover the memorial service."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Blank says that Erika has been getting more death threats every day. He's promised Erika that he will run point on raising money to cover the memorial service"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1709.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-515"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10469"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5941"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full text; check Erika Kirk's reported threat environment and who raised the memorial funds."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5942",
+   "header": "**C-5942** Host Says Questions Arose About How the White House Could Secure the Venue So Fast",
+   "label": "Host Says Questions Arose About How the White House Could Secure the Venue So Fast",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she has been told a couple of times that the White House got involved and secured the stadium, and that people asked how that was possible so quickly given the usual policies for booking such venues."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We've been told the story a couple of times now that the White House got involved and secured the venue and people started asking questions about how this was possible to turn around so quickly"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10466, N-10002"
+    },
+    {
+     "k": "Supports",
+     "v": "C-1155"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain stadium booking and White House correspondence on the memorial venue through records requests."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5943",
+   "header": "**C-5943** Host Asks Viewers With Knowledge of the RV Show to Email More Tips",
+   "label": "Host Asks Viewers With Knowledge of the RV Show to Email More Tips",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host asks viewers who know about the RV show, such as ticket holders who got a cancellation email, to email more tips."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Please email more tips. com. I need to know more about this little RV show."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2928.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10466"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Track whether tips about the RV show or cancellation emails are cited in later episodes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5945",
+   "header": "**C-5945** Host Says TPUSA Geofenced Everybody's Phones at the Memorial and Could Sell the Data",
+   "label": "Host Says TPUSA Geofenced Everybody's Phones at the Memorial and Could Sell the Data",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:26:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that TPUSA obviously made a ton of money, that they geofenced everybody's phones, and that she cannot imagine what selling that data would have been worth."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Obviously, we know they made a ton of money. They geofenced everybody's phones"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10653, N-10000, N-10002"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Look for TPUSA privacy policies, ticketing terms and any ad-tech or data-broker disclosures tied to the memorial geofence."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5946",
+   "header": "**C-5946** Host Says the Priest Also Cancelled His Mass on September 10",
+   "label": "Host Says the Priest Also Cancelled His Mass on September 10",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:26:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that, if she is correct, the priest also cancelled his mass on September 10, and later says she would like to know more."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "If I am correct, he also cancelled his mass on September 10th."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-514, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10468"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the parish bulletin and mass schedule; note the host dates the donor's Monday mass to September 10 though the memorial was on a Sunday, so confirm which date she means."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5948",
+   "header": "**C-5948** Host Says Erika Gave Stacy Sheridan Permission to Tap the Donor",
+   "label": "Host Says Erika Gave Stacy Sheridan Permission to Tap the Donor",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:10"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk told Stacy Sheridan to tap the donor's shoulder and gave her permission, and that a conversation took place between Erika and Sheridan about who the woman was, like conversations the host says she has seen between Charlie and Sheridan."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "What moved Stacy Sheridan to tap on this person's shoulder? Erika told her to do that. Erika gave her permission to do that."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1706.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-186, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10467"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5917"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask Sheridan and Erika Kirk's team whether the approach was requested; the host offers this as inference."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5949",
+   "header": "**C-5949** Host Says the Relic the Donor Gave Erika Was of St. Michael",
+   "label": "Host Says the Relic the Donor Gave Erika Was of St. Michael",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:29:22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the donor arranged to get a relic from St. Michael and got it to Erika, and that she herself got that same relic from a priest in Wyoming, in what she thinks was the first weeks of October."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "she organizes to get a relic um from St. Michael, the same actually same cave that sits behind me."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1706.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The email as read names relics of St. Paul II (C-5927) while the host names St. Michael; ask the donor which relic she delivered."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5950",
+   "header": "**C-5950** Host Says Another Top TPUSA Fundraiser Met the Donor at Mass and Said Erika Wanted Him to Follow Up",
+   "label": "Host Says Another Top TPUSA Fundraiser Met the Donor at Mass and Said Erika Wanted Him to Follow Up",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:24"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that on the next day at mass the donor did not get to speak to Erika because another top fundraiser at Turning Point USA met her there and said Erika wanted him to follow up with her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "another top fundraiser at Turning Point USA met her there and said, \"Hey, you know, um Erika wanted me to follow up with you.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1706.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10467, N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the fundraiser; compare with the later Chicago meeting text (A-1713.1)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5953",
+   "header": "**C-5953** Fundraiser's Text Says Erika Repeated How Much She Loved Meeting the Donor Again",
+   "label": "Fundraiser's Text Says Erika Repeated How Much She Loved Meeting the Donor Again",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:32:17"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads a fundraiser's text thanking the donor for organizing dinner and saying Erika repeated how much she loved meeting her again."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Erika repeated how much she loved meeting you again."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1713.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10467"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full text thread and ask Erika Kirk's team whether she spoke about the donor."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5954",
+   "header": "**C-5954** Host Says the Donor Reports Frank Turek Speaking at the Mar-a-Lago Gala",
+   "label": "Host Says the Donor Reports Frank Turek Speaking at the Mar-a-Lago Gala",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:33:02"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that, according to the donor, Dr. Frank Turek was on stage at the Mar-a-Lago TPUSA event, and that the host says he softened the message because the room was Jewish."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "you got Dr. Frank Turek and apparently, according to her, he's on stage and he's hitting he's hitting at the Judeo Judeo Judeo."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-7"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10869, N-10209"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the Mar-a-Lago event program and speaker list; ask the donor what Turek said on stage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5955",
+   "header": "**C-5955** Host Says Mar-a-Lago Is Where Meetings With Zionist Donors Take Place",
+   "label": "Host Says Mar-a-Lago Is Where Meetings With Zionist Donors Take Place",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:33:02"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Mar-a-Lago is like little Israel and is a place where a lot of meetings with Zionist donors take place."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it's where a lot of the meetings take place. The Zionist donors, you know, Prager, you doing a gala down there makes perfect sense."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10869"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Characterization by the host; no checkable fact beyond the Mar-a-Lago gala listed in N-10869."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5956",
+   "header": "**C-5956** Host Says the TPUSA Contact Put Off the Donor's Catholic Request as Future Plans",
+   "label": "Host Says the TPUSA Contact Put Off the Donor's Catholic Request as Future Plans",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:33:48"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that when the donor asked why TPUSA was not doing anything Catholic, the contact kicked the can down the road and said they were planning to do things in the future."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And he kind of kicks the can down the road and says, \"Oh, we're going to we're planning on doing stuff in the future.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1713.1"
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10209, N-10467"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check for any TPUSA Catholic outreach launched afterward and the donor's account of the exchange."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5957",
+   "header": "**C-5957** Host Reads Follow-Up Texts Asking the Donor for a Call in February",
+   "label": "Host Reads Follow-Up Texts Asking the Donor for a Call in February",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:33:48"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads follow-up texts from the TPUSA contact asking to set up time to visit and discuss further support and whether the donor was available the second or third week of February, and says the donor left him on red."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Are you available the second or third week of February?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1713.1"
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10467"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5952"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the texts with dates; confirm no donation was made."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5958",
+   "header": "**C-5958** Host Says the Donor Concluded She Had Been Targeted",
+   "label": "Host Says the Donor Concluded She Had Been Targeted",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:51"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the donor realized she was actually targeted and stopped responding to the fundraiser."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I think I was actually targeted. And she was targeted."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1706.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10467"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Test the targeting claim against TPUSA's donor-outreach procedures."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5960",
+   "header": "**C-5960** Host Says Erika's On-Stage Forgiveness Implies She Convicted Robinson",
+   "label": "Host Says Erika's On-Stage Forgiveness Implies She Convicted Robinson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:42:57"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that Erika Kirk, by saying on stage that she forgives Tyler Robinson, implied he is guilty and so effectively convicted him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "How about they convicted him when Erika said on stage, \"I forgive you. You're forgiving him.\" Which implies that he's guilty."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-40, N-3"
+    },
+    {
+     "k": "Supports",
+     "v": "C-1326"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the wording of Erika Kirk's memorial statement with the host's characterization."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5961",
+   "header": "**C-5961** Host Says TPUSA Fires Employees Without Cause Through Loyalty Tests Over Talking to Uber Drivers",
+   "label": "Host Says TPUSA Fires Employees Without Cause Through Loyalty Tests Over Talking to Uber Drivers",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:42:57"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says people at TPUSA are firing employees without cause through loyalty tests because they were talking to Uber drivers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "People that are firing employees without cause through some loyalty tests because they're talking to Uber drivers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11035, N-10492, N-10000"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5603"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the employees and the Uber driver incident through the host's sources and TPUSA termination records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5962",
+   "header": "**C-5962** Host Again Invites Frank Turek and TPUSA to Appear on Her Show",
+   "label": "Host Again Invites Frank Turek and TPUSA to Appear on Her Show",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:43:54"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she extends an invitation to Frank Turek and any of his TPUSA associates to come on her show for as long as they like."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I extend it to you and any of your homies at TPUSA to come on the show."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-7, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2732"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check whether Turek or TPUSA responds to the invitation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5963",
+   "header": "**C-5963** Host Says the Lemon Arrest Was Driven by Pam Bondi Wanting a Headline",
+   "label": "Host Says the Lemon Arrest Was Driven by Pam Bondi Wanting a Headline",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that Don Lemon's arrest was about Pam Bondi wanting a headline, and describes the DOJ action as theater."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "but objectively, him being put in prison because Pam Bondi wanted a headline."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1711.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-516, N-85"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the federal charging documents for the Lemon arrest to compare the stated basis with the host's description."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5965",
+   "header": "**C-5965** Host Says Pam Bondi Protected Jeffrey Epstein",
+   "label": "Host Says Pam Bondi Protected Jeffrey Epstein",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:29"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that Pam Bondi protected Jeffrey Epstein."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "You protected Jeffrey Epstein."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-85, N-9"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10324"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review Epstein files release records and DOJ statements."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5966",
+   "header": "**C-5966** Host Says the CIA and Mossad Train Radicals",
+   "label": "Host Says the CIA and Mossad Train Radicals",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:51:02"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that we now know the CIA and the Mossad trained radicals, citing Osama bin Laden and others as former CIA agents."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Obviously, um now we know the CIA and the Mossad trains, all of these radicals."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10015"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Characterization recorded as said; no specific document cited."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5967",
+   "header": "**C-5967** Host Says Netanyahu Funded Hamas",
+   "label": "Host Says Netanyahu Funded Hamas",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:51:02"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Benjamin Netanyahu funded Hamas and that Israel then exploited the attacks it funded."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I mean, who do you guys think funded Hamas? Ib Netanyahu did."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-36, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10026"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Characterization recorded as said; no specific document cited."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5968",
+   "header": "**C-5968** Host Says Charlie Was Not a Catholic",
+   "label": "Host Says Charlie Was Not a Catholic",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:52:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host responds to a viewer comment that Charlie was at a minimum Catholic by saying he was not a Catholic and says the story told to the donor about him praying in the church contains lies."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "That annoys me so much too about the amount of smoke that I had to deal with. He wasn't a Catholic"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The passage is partly garbled; check Charlie Kirk's stated denominational affiliation and compare with the donor-email account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5969",
+   "header": "**C-5969** Host Says Erika Told Her TPUSA Was Getting Rid of Kolvet and Replacing Him",
+   "label": "Host Says Erika Told Her TPUSA Was Getting Rid of Kolvet and Replacing Him",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:54:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that Erika Kirk told her TPUSA was getting rid of Andrew Kolvet and replacing him, after which she saw the two colluding."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "when I saw her and Andrew Kolvet colluding after she told me they were getting rid of Andrew Kolvet and replacing him"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-14, N-3"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5906"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask Erika Kirk's team whether a replacement for Kolvet was discussed; check Kolvet's role in later episodes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5970",
+   "header": "**C-5970** Host Says Kolvet Was the One Organizing Paramount Tactical and Alex Jones",
+   "label": "Host Says Kolvet Was the One Organizing Paramount Tactical and Alex Jones",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:54:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she realized Kolvet was the one organizing the Paramount Tactical and also the Alex Jones."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "and then I realized he's the one organizing the Paramount Tactical and Andrew and also the Alex Jones"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-93, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10899"
+    },
+    {
+     "k": "Supports",
+     "v": "C-4488, C-5675"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain communications between Kolvet, Paramount Tactical and Alex Jones; the host says she has confirmed the Alex Jones contact elsewhere."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5971",
+   "header": "**C-5971** Host Says People Fired for No Reason Confirmed It Was Andrew",
+   "label": "Host Says People Fired for No Reason Confirmed It Was Andrew",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:54:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she has now confirmed with people who were fired for no reason that it was Andrew Kolvet the whole time."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "which I've now confirmed with uh people that they fired for no reason that it was Andrew. It was Andrew Kolvet the whole time."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10439, N-11035"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The sentence is garbled; identify which firings the host means and ask the fired staff to confirm Kolvet's role."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5972",
+   "header": "**C-5972** Viewer Comment Says the TPUSA Hat Arrived After the Leaked Call and Contract-Wording Attention",
+   "label": "Viewer Comment Says the TPUSA Hat Arrived After the Leaked Call and Contract-Wording Attention",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:54:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "A viewer comment read by the host says she received her TPUSA hat today, most likely only because of the leaked call and the attention brought to the contract wording about hats versus a plastic bracelet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I received my TPUSA hat today, lol. Most likely only because of the leaked call and the attention brought to the contract wording"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2929.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11014"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the contract wording and the leaked call being referenced; compare with the host's merch coverage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5973",
+   "header": "**C-5973** Host Says Many Emailers Who Never Got Their Hat Are Now Receiving It",
+   "label": "Host Says Many Emailers Who Never Got Their Hat Are Now Receiving It",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:54:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she got a lot of emails from people who never received the hat and that they are suddenly receiving them now."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Yeah, I got a lot of emails that never even received the hat and now they are suddenly receiving them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2929.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11014"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask viewers for order dates and delivery dates."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5974",
+   "header": "**C-5974** Host Says the Donor Emailed After Seeing a Strange Lie From Kolvet About the Catholic Faith",
+   "label": "Host Says the Donor Emailed After Seeing a Strange Lie From Kolvet About the Catholic Faith",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:55:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the donor emailed her when she saw a strange lie coming from Andrew Kolvet about the Catholic faith."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "when she saw this strange lie coming from Andrew Coven about the Catholic faith"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1706.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11183"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the Kolvet statement about Catholic faith that the donor saw, probably in the Alex Clark interview."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5975",
+   "header": "**C-5975** Host Says Erika Told Her Kolvet Went Rogue in the Alex Clark Interview, Which the Host Calls Untrue",
+   "label": "Host Says Erika Told Her Kolvet Went Rogue in the Alex Clark Interview, Which the Host Calls Untrue",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:56:06"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk told her to her face that Kolvet went rogue in the Alex Clark interview and that this was not true."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Andrew Kolvet again went rogue in that interview with Alex Clark. Uh-uh. Not true. Try again."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-14, N-99, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11183"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the Alex Clark interview and the host's recording or notes of what Erika Kirk said about it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5976",
+   "header": "**C-5976** Host Says Kolvet Was Communicating With Erika During the Alex Clark Interview, Per a Former Staffer",
+   "label": "Host Says Kolvet Was Communicating With Erika During the Alex Clark Interview, Per a Former Staffer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:56:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Kolvet was texting Erika during the Alex Clark interview, according to a person who worked in his office and no longer does."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he was in communication with her during that interview, according to the person that worked in Andrew Kolvet's office that no longer does."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-2, N-99"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11183"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the former staffer and obtain any screenshot of the texts; ask Kolvet and Erika Kirk's team to confirm or deny."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5977",
+   "header": "**C-5977** Host Announces a Week Break With Two Profile Episodes on Erika's Background",
+   "label": "Host Announces a Week Break With Two Profile Episodes on Erika's Background",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:57:27"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says there is a one-week break coming the week after next and that she will prepare two profile episodes on Erika Kirk's background, separating fact from fiction."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we have a a week break coming up not next week the week after and during that week we'll we'll get things together and have two episodes just kind of a profile focus separating fact from fiction"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check later episodes for the promised profile episodes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5978",
+   "header": "**C-5978** Host Says Watching the Rabbi Barclay Interview Began the End of Her Support for Zionism",
+   "label": "Host Says Watching the Rabbi Barclay Interview Began the End of Her Support for Zionism",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:58:17"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that the Rabbi Barclay interview probably was part of the beginning of the end of her support for Zionism and that she now believes it is an objectively racist philosophy."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And that probably was part of the beginning of the end of my support for Zionism because I now believe that it is a objectively racist philosophy."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-721, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10026"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Personal position recorded as said; the interview is the Daily Wire debate the host mentions earlier."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 6. Meme Register",
+    ""
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-45",
+   "header": "**M-45** (meme) Spiritual Warfare",
+   "label": "(meme) Spiritual Warfare",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:39:28"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "then we've had slander, accusations, lies, and confusion? That's what spiritual warfare is, ladies and gentlemen. And for people who are slandering..."
+    },
+    {
+     "k": "Context",
+     "v": "Later reuse of Spiritual Warfare in CKA seq 66."
+    },
+    {
+     "k": "Tags",
+     "v": "faith, chat_elevate, frame, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-12",
+   "header": "**M-12** (meme) Decentralized Intelligence Agency",
+   "label": "(meme) Decentralized Intelligence Agency",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:24:55"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Please email more tips. com."
+    },
+    {
+     "k": "Context",
+     "v": "Host asks viewers who know about the Cardinal Stadium RV show to email tips."
+    },
+    {
+     "k": "Tags",
+     "v": "dia, tips, tip line"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-13",
+   "header": "**M-13** (meme) Fake and Gay",
+   "label": "(meme) Fake and Gay",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:47:29"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Everything, literally everything is fake and gay."
+    },
+    {
+     "k": "Context",
+     "v": "Host closes her Don Lemon and Pam Bondi segment by dismissing the DOJ theater as fake."
+    },
+    {
+     "k": "Tags",
+     "v": "fake and gay, doj"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-213",
+   "header": "**M-213** (meme) God Will Not Be Mocked",
+   "label": "(meme) God Will Not Be Mocked",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:34:51"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "God will not be mocked."
+    },
+    {
+     "k": "Context",
+     "v": "Host repeats the line after the donor-targeting story."
+    },
+    {
+     "k": "Tags",
+     "v": "faith, refrain"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:35:44"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Again, God will not be mocked."
+    },
+    {
+     "k": "Context",
+     "v": "Host repeats the line before the ad break."
+    },
+    {
+     "k": "Tags",
+     "v": "faith, refrain"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:51:02"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "It's just God will not be mocked."
+    },
+    {
+     "k": "Context",
+     "v": "Host repeats the line when reading viewer comments about pastors."
+    },
+    {
+     "k": "Tags",
+     "v": "faith, refrain"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-214",
+   "header": "**M-214** (meme) Shabbat Shalom, Daddy's Home",
+   "label": "(meme) Shabbat Shalom, Daddy's Home",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:33:02"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Shabbat shalom. Daddy's home."
+    },
+    {
+     "k": "Context",
+     "v": "Host mocks how she says TPUSA changes its message in a room with Jewish donors."
+    },
+    {
+     "k": "Tags",
+     "v": "mockery, mar-a-lago"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:33:48"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Shabbat shalom. Shabbat shalom at Mar-a-Lago"
+    },
+    {
+     "k": "Context",
+     "v": "Host repeats the mock greeting at the gala."
+    },
+    {
+     "k": "Tags",
+     "v": "mockery, mar-a-lago"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-215",
+   "header": "**M-215** (meme) Needs a Swirly",
+   "label": "(meme) Needs a Swirly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:47:29"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "He deserves a swirly and if you elect me dictator I will do it."
+    },
+    {
+     "k": "Context",
+     "v": "Host jokes that Don Lemon deserves a swirly."
+    },
+    {
+     "k": "Tags",
+     "v": "joke, lemon"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:47:29"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "They both kind of need a swirly."
+    },
+    {
+     "k": "Context",
+     "v": "Host extends the swirly joke to Pam Bondi."
+    },
+    {
+     "k": "Tags",
+     "v": "joke, bondi"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-216",
+   "header": "**M-216** (meme) I Told the Priest I Would Chill",
+   "label": "(meme) I Told the Priest I Would Chill",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:12:25"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I told the priest I would chill."
+    },
+    {
+     "k": "Context",
+     "v": "Host jokes about her new sweatshirt before telling the priest story."
+    },
+    {
+     "k": "Tags",
+     "v": "merch, joke"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:50:08"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I told the priest that I would chill."
+    },
+    {
+     "k": "Context",
+     "v": "Host repeats the sweatshirt joke while promoting merch."
+    },
+    {
+     "k": "Tags",
+     "v": "merch, joke"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## VI. Optional Flags",
+    "",
+    "- **Name uncertainty:** \"Andrew Kolvet\" / \"Kouvet\" / \"Covette\" / \"Coven\" – transcript shows multiple spellings for the same TPUSA figure (N-14). Requires human verification against correct spelling.",
+    "- **Artifact verbally referenced but not shown:** A-1712.1 (Wayback Machine screenshots for Cardinal Stadium RV show) – referenced verbally but not displayed on-screen. Marked Low confidence.",
+    "- **Artifact verbally referenced but not shown:** Vanessa Bryant's Kobe memorial speech is recommended for viewing by the host but never played, quoted, or displayed in the episode. Comparison claim C-5911 should be re-anchored if/when the speech artifact is produced.",
+    "- **Name redaction in source:** \"Father Blank\" and \"TPUSA Blank\" are host-applied redactions of the email author's original names; the actual names were blanked out before air and are not recoverable from this artifact alone.",
+    "- **Host claim without artifact anchor:** N-10468 (Father Blank's alleged cancellation of his regular September 10 mass) is asserted by the host without supporting artifact. Recommend verifying via parish bulletin, diocese calendar, or live-streamed mass archive.",
+    "- **Transcript ambiguity:** Host refers to \"Andrew Coven\" (in comment section) and \"Andrew Kouvet\" (in interview discussion); same person referenced by all variants.",
+    "- **Claim passed admission test with host-interpretation caveat:** C-5911 (Vanessa Bryant comparison) uses Kobe Bryant memorial speech as comparison anchor; speech itself is not artifact-presented in this episode. Investigative direction flags this for follow-up.",
+    "",
+    "---",
+    "",
+    "## VII. Output Quality Checklist",
+    "",
+    "- [x] Every claim has at least one artifact anchor",
+    "- [x] Every claim has at least one node",
+    "- [x] Every artifact has a Related line",
+    "- [x] Every node has a Related line",
+    "- [x] No episode-wide artifact bundle exists",
+    "- [x] People nodes use global people ledger (N-512+)",
+    "- [x] Non-person investigation targets use 1000+ series (N-10466+)",
+    "- [x] No speculative claims inscribed as evidence-backed",
+    "- [x] Names preserved exactly or uncertainty flagged",
+    "- [x] Formatting consistent across all registers"
+   ]
+  }
+ ]
+}

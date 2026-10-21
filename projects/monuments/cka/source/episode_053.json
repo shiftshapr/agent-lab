@@ -1,0 +1,8977 @@
+{
+ "format": "cka-source/1",
+ "episode": 53,
+ "blocks": [
+  {
+   "kind": "text",
+   "lines": [
+    "## 1. Meta-Data",
+    "",
+    "- **Episode**: 53",
+    "- **Monument**: cka",
+    "- **CKA seq**: 53",
+    "- **YouTube id**: zSKrxIUMNqw",
+    "- **Candace Ep**: 286",
+    "- **Source**: Candace Owens YouTube",
+    "- **Video Timestamp Range**: 00:00:00–00:59:35",
+    "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
+    "- **Transcript SHA-256**: af4744c44da3466f3376062abb7dec86912b17b312a767e95c3978bb41f3a9e8",
+    "",
+    "- **Episode Ledger Summary**:",
+    "  - Tip-minted Nodes (supplement_2026-10b): N-11118, N-11119, N-11120",
+    "  - Hole-minted Nodes (reintro-ep053): N-10422",
+    "  - Tip-minted Nodes (reintro-ep053): N-11034",
+    "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
+    "  - Claim Range: C-4632–C-4723",
+    "  - (see registers)",
+    "",
+    "# Episode Analysis – Monument Episode 53",
+    "",
+    "## I. Meta-Data",
+    "",
+    "- Episode Title: \"DEFCON 3: Ben Shapiro's Legacy Of No-Nos | Candace Ep 286\"",
+    "- Series Title: Bride of Charlie",
+    "- Episode Number: Monument Ep 53 · Batch 33",
+    "- Channel / Creator: Candace Owens (@RealCandaceO)",
+    "- Episode Date: 2026-01-07",
+    "- Source Used for Analysis: Transcript + video",
+    "- Transcript Completeness Status: Full transcript provided; YouTube captions cleaned with lexicon + paragraph merge. Music cues dropped. No invented words per header note.",
+    "- Analyst / Agent Name: Episode Analysis Agent",
+    "- Analysis Date: 2026-01-07",
+    "- Ledger Continuation Summary:",
+    "  - Artifact Families Introduced: A-1587, A-1588, A-1589, A-1590, A-1591, A-1592, A-1593, A-1594, A-1595",
+    "  - New Nodes Introduced: N-388, N-390, N-391, N-392, N-394, N-395, N-396, N-10386, N-10388, N-10390, N-10391",
+    "  - Reused Nodes Appearing: N-10387, N-2, N-27, N-82, N-266, N-270, N-366, N-375, N-484, N-10000, N-10004, N-10113, N-10268, N-10270, N-10316, N-10406, N-10416, N-10900, N-10385, N-11121, N-737, N-11116, N-11117, N-389, N-485, N-10389, N-10661, N-10925, N-393",
+    "  - Existing Nodes Reused: N-1 (Charlie Kirk), N-3 (Candace Owens), and other pre-existing nodes (referenced where contextually applicable – Ben Shapiro, Tyler Bowyer, Tucker Carlson, Megyn Kelly presumed to exist), N-11",
+    "",
+    "---",
+    "",
+    "## II. Executive Summary",
+    "",
+    "This episode presents new evidentiary material directed primarily at the relationship between Candace Owens and the Daily Wire, and secondarily at personnel within Turning Point USA / Turning Point Action. The principal artifacts include a first-person email from a woman named Maggie Wegner describing a Daily Wire audition targeting Candace Owens and Tucker Carlson following Ben Shapiro's Amfest speech; an AI video sample produced as the show's audition template; a text message exchange between Maggie and the Daily Wire producer in which she declines the role; an audio clip of Steve Bannon at Amfest describing Ben Shapiro's pattern of hostile takeovers of conservative organizations; Ben Shapiro's own March 13, 2016 resignation statement from Breitbart News; and a news article reporting the sentencing of Austin Smith, a former Turning Point Action leader, for petition signature fraud.",
+    "",
+    "The episode also reads text messages Candace says she received from Charlie Kirk describing an older Jewish man from Chicago who allegedly confirmed Charlie's premonitions of dying young and saving humanity. Two YouTube comments are read aloud (one French-channel comment on cattle depopulation; one English-channel comment on child sex trafficking).",
+    "",
+    "Structurally, the episode advances three investigative threads: (1) Ben Shapiro's alleged pattern of manufacturing scandals and hostile takeovers of conservative companies, including the Daily Wire's founding; (2) the Daily Wire's allegedly retaliatory conduct toward Candace Owens since her departure; (3) the personnel and financial irregularities within Turning Point USA / Turning Point Action as evidenced by Austin Smith's criminal case.",
+    "",
+    "---",
+    "",
+    "## III. Artifact Register",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1587",
+   "header": "**A-1587** Maggie Wegner Email Bundle",
+   "label": "Maggie Wegner Email Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1587.1",
+   "header": "**A-1587.1** Email from Maggie Wegner to Candace Owens describing Daily Wire audition approach",
+   "label": "Email from Maggie Wegner to Candace Owens describing Daily Wire audition approach",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:06:31–00:09:24"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4643, C-4645, C-4644, N-388, N-10385*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1588",
+   "header": "**A-1588** Maggie Wegner Text Message Bundle",
+   "label": "Maggie Wegner Text Message Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1588.1",
+   "header": "**A-1588.1** Text message from Maggie Wegner to Daily Wire producer declining the audition role",
+   "label": "Text message from Maggie Wegner to Daily Wire producer declining the audition role",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:11:04–00:12:10"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4653, N-388, N-10385*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1589",
+   "header": "**A-1589** AI Video Audition Sample Bundle",
+   "label": "AI Video Audition Sample Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1589.1",
+   "header": "**A-1589.1** AI-generated video sample for proposed Daily Wire show mocking Candace Owens",
+   "label": "AI-generated video sample for proposed Daily Wire show mocking Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:09:24–00:11:01"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4645, N-388, N-10385*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1590",
+   "header": "**A-1590** Ben Shapiro Breitbart Resignation Statement Bundle",
+   "label": "Ben Shapiro Breitbart Resignation Statement Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1590.1",
+   "header": "**A-1590.1** Ben Shapiro's public resignation statement from Breitbart News (read aloud)",
+   "label": "Ben Shapiro's public resignation statement from Breitbart News (read aloud)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:24:45–00:27:25"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4674, C-4676, N-390, N-391, N-392, N-393, N-394, N-10386, N-10391*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1591",
+   "header": "**A-1591** Steve Bannon Amfest Speech Clip Bundle",
+   "label": "Steve Bannon Amfest Speech Clip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1591.1",
+   "header": "**A-1591.1** Audio clip of Steve Bannon speaking at Amfest about Ben Shapiro",
+   "label": "Audio clip of Steve Bannon speaking at Amfest about Ben Shapiro",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:18:09–00:19:22"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4663, N-389, N-390, N-10386*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1592",
+   "header": "**A-1592** Austin Smith Sentencing Article Bundle",
+   "label": "Austin Smith Sentencing Article Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1592.1",
+   "header": "**A-1592.1** News article reporting sentencing of Austin Smith for petition signature fraud (content read aloud)",
+   "label": "News article reporting sentencing of Austin Smith for petition signature fraud (content read aloud)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:47:47–00:49:55"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4708, C-4710, N-395, N-10387, N-10390*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1593",
+   "header": "**A-1593** Charlie Kirk Text Message Bundle (Premonition Thread)",
+   "label": "Charlie Kirk Text Message Bundle (Premonition Thread)",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1593.1",
+   "header": "**A-1593.1** Text messages from Charlie Kirk describing older Jewish man (\"oracle\") and his visions of death",
+   "label": "Text messages from Charlie Kirk describing older Jewish man (\"oracle\") and his visions of death",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:44:48–00:45:58"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (exact date and identity of \"oracle\" figure not independently verified)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4702, N-1, N-396, N-10389*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1594",
+   "header": "**A-1594** YouTube French Channel Comment Bundle",
+   "label": "YouTube French Channel Comment Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1594.1",
+   "header": "**A-1594.1** Comment from French YouTube channel about cattle depopulation in France",
+   "label": "Comment from French YouTube channel about cattle depopulation in France",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:56:19–00:57:00"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (as displayed text)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: N-3 (host concurrence referenced)*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1595",
+   "header": "**A-1595** YouTube English Channel Comment Bundle",
+   "label": "YouTube English Channel Comment Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1595.1",
+   "header": "**A-1595.1** Top comment from previous episode's YouTube thread about child sex trafficking recurring in investigations",
+   "label": "Top comment from previous episode's YouTube thread about child sex trafficking recurring in investigations",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:57:41–00:58:32"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (as displayed text)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: N-3 (host concurrence referenced)*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2842",
+   "header": "**A-2842** Charlie Kirk Dream Messages Bundle",
+   "label": "Charlie Kirk Dream Messages Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2842.1",
+   "header": "**A-2842.1** Host verbal reference to many text messages with Charlie Kirk about his vivid dreams and expectation of dying young (not shown beyond the one message at 00:44:48)",
+   "label": "Host verbal reference to many text messages with Charlie Kirk about his vivid dreams and expectation of dying young (not shown beyond the one message at 00:44:48)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:40:17"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4698, C-4699, C-4700, N-1, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2843",
+   "header": "**A-2843** Charlie Kirk Early Security Text Bundle",
+   "label": "Charlie Kirk Early Security Text Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2843.1",
+   "header": "**A-2843.1** Host verbal reference to a text in which Charlie Kirk wrote he was not allowed to go anywhere without security (not shown)",
+   "label": "Host verbal reference to a text in which Charlie Kirk wrote he was not allowed to go anywhere without security (not shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:41:23"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4701, N-1, N-266, N-270, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2844",
+   "header": "**A-2844** Maggie Wegner Instagram Page Bundle",
+   "label": "Maggie Wegner Instagram Page Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2844.1",
+   "header": "**A-2844.1** Maggie Wegner's Instagram page shown on screen with the handle maggswegner",
+   "label": "Maggie Wegner's Instagram page shown on screen with the handle maggswegner",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"this is her Instagram page. It's maggswegner.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:54:47"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4715, N-3, N-388*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2845",
+   "header": "**A-2845** Crowd Tips Network Bundle",
+   "label": "Crowd Tips Network Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2845.1",
+   "header": "**A-2845.1** Host verbal reference to viewers' tips as a crowd effort she calls decentralizing intelligence (verbal call-out, no address given)",
+   "label": "Host verbal reference to viewers' tips as a crowd effort she calls decentralizing intelligence (verbal call-out, no address given)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:58:32"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4723, N-1, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## IV. Node Register",
+    "",
+    ""
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-388",
+   "header": "**N-388** Maggie Wegner",
+   "label": "Maggie Wegner",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Person who received a Daily Wire audition approach to host a show mocking Candace Owens and Tucker Carlson; declined the role. Provided email, text message, and AI video sample as artifacts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "3"
+    },
+    {
+     "k": "Claim Count",
+     "v": "4"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1587.1, A-1588.1, A-1589.1, C-4643, C-4645, C-4653, C-4644, N-10385*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-389",
+   "header": "**N-389** Steve Bannon",
+   "label": "Steve Bannon",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Former Breitbart chairman referenced via Amfest audio clip describing Ben Shapiro's pattern of attempted hostile takeovers of conservative organizations."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1591.1, C-4663, N-390, N-10386*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-390",
+   "header": "**N-390** Andrew Breitbart",
+   "label": "Andrew Breitbart",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Founder of Breitbart News; died March 1, 2012. Subject of Bannon's account and Shapiro's own resignation statement referencing mentorship and editor-at-large role."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1590.1, A-1591.1, C-4663, C-4676, N-389, N-10386, N-10391*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-391",
+   "header": "**N-391** Jamie Weinstein",
+   "label": "Jamie Weinstein",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named in host's recounting (not from artifact) as the alleged co-conspirator with Ben Shapiro in the Breitbart/Fields affair and identified as Michelle Fields' husband at the time. No displayed artifact anchors this; tracked here for potential cross-episode verification."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: N-392, N-10386, N-10391*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-392",
+   "header": "**N-392** Michelle Fields",
+   "label": "Michelle Fields",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Breitbart reporter who alleged assault by Corey Lewandowski; central figure in the 2016 Breitbart scandal referenced in Shapiro's resignation statement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1590.1, C-4674, N-391, N-393, N-10391*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-393",
+   "header": "**N-393** Corey Lewandowski",
+   "label": "Corey Lewandowski",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Former Trump campaign manager alleged to have assaulted Michelle Fields at a 2016 event; named in Shapiro's resignation statement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1590.1, C-4674, N-392, N-10391*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-394",
+   "header": "**N-394** Austin Smith",
+   "label": "Austin Smith",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Former Arizona state representative and Turning Point Action leader, age 30. Sentenced for petition signature fraud including forging a dead woman's signature."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1592.1, C-4708, C-4710, N-10387, N-10390*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-395",
+   "header": "**N-395** Michael Cormier",
+   "label": "Michael Cormier",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Forensic technician (age 61) referenced by host as involved in Andrew Breitbart's autopsy who allegedly died from \"military-grade arsenic poisoning.\" Claim presented via host recounting only; no artifact displayed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: N-390*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-396",
+   "header": "**N-396** Charlie Kirk's \"Oracle\" Figure",
+   "label": "Charlie Kirk's \"Oracle\" Figure",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Older Jewish man described in Charlie Kirk's text messages as someone Charlie visited for spiritual reasons regarding his premonitions of dying young. Identity not disclosed; described as having met Charlie through a gifted school in Chicago."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1593.1, C-4702, N-10389*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-46",
+   "header": "**N-46** Megyn Kelly",
+   "label": "Megyn Kelly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of host's claim that Ben Shapiro demanded her allegiance against Candace and Tucker Carlson, and has since been attacked by \"his stooges.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: N-10386*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-67",
+   "header": "**N-67** Mark Herman (director, Candace show)",
+   "label": "Mark Herman (director, Candace show)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here the host directs him to take the Daily Wire AI audition video full screen (\"Mark, we can actually take this full screen\"). Not the \"Mark Carlson\" named earlier in the episode. No claim anchor; registered for cross-episode continuity."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: None*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10385",
+   "header": "**N-10385** Daily Wire Show Targeting Candace Owens / Tucker Carlson",
+   "label": "Daily Wire Show Targeting Candace Owens / Tucker Carlson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigation target",
+     "v": "the proposed Daily Wire show whose audition involved an AI-generated video mocking Candace Owens, and whose casting process targeted young Christian women."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "3"
+    },
+    {
+     "k": "Claim Count",
+     "v": "4"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1587.1, A-1588.1, A-1589.1, C-4643, C-4645, C-4653, C-4644, N-388*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10386",
+   "header": "**N-10386** Ben Shapiro Hostile Takeover Pattern",
+   "label": "Ben Shapiro Hostile Takeover Pattern",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigation target",
+     "v": "persistent claim across the series that Ben Shapiro has attempted hostile takeovers of multiple conservative organizations (Breitbart, David Horowitz's organization, Turning Point) and that his founding of the Daily Wire was preceded by a manufactured scandal."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1590.1, A-1591.1, C-4674, C-4663, C-4676, N-389, N-390, N-391, N-392, N-393, N-46, N-10391*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10387",
+   "header": "**N-10387** Tyler Bowyer Investigation Question",
+   "label": "Tyler Bowyer Investigation Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigation target",
+     "v": "host's persistent claim that Tyler Bowyer staffed nearly everyone around Charlie Kirk and requires further investigation. This episode cites Austin Smith's criminal sentencing and an unnamed source's claim that Bowyer offered jobs in exchange for favors."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1592.1, N-394, N-10390, N-11*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10388",
+   "header": "**N-10388** Missing Money from Turning Point Action",
+   "label": "Missing Money from Turning Point Action",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigation target",
+     "v": "host's claim that \"a lot of money was missing from Turning Point Action,\" described as unconfirmed but with a \"strong lead.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: N-10387*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10389",
+   "header": "**N-10389** Charlie Kirk Premonition Dreams",
+   "label": "Charlie Kirk Premonition Dreams",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigation target",
+     "v": "persistent claim across the series that Charlie Kirk had extensive premonition dreams and text-message disclosures of dying young, and that an \"oracle\" figure confirmed these visions."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1593.1, C-4702, N-1, N-396*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10390",
+   "header": "**N-10390** Austin Smith / Turning Point Action Fraud Connection",
+   "label": "Austin Smith / Turning Point Action Fraud Connection",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigation target",
+     "v": "link between Austin Smith's signature fraud and his role at Turning Point Action, with host's broader implication that this reflects personnel and integrity issues inside Turning Point."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1592.1, C-4708, C-4710, N-394, N-10387*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10391",
+   "header": "**N-10391** Ben Shapiro Daily Wire Founding Narrative",
+   "label": "Ben Shapiro Daily Wire Founding Narrative",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigation target",
+     "v": "host's claim that the Daily Wire's launch in 2016 was preceded by a manufactured scandal involving Ben Shapiro, Jamie Weinstein, and Michelle Fields to undermine Breitbart News."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1590.1, N-390, N-391, N-392, N-393, N-10386*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11",
+   "header": "**N-11** Tyler Bowyer",
+   "label": "Tyler Bowyer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Person"
+    },
+    {
+     "raw": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: prose mention in episode*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-1",
+   "header": "**N-1** Charlie Kirk",
+   "label": "Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of the assassination; the host relays his dreams, his messages and the pressure on her about him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4635, C-4637, C-4638, C-4660, C-4661, C-4662, C-4665, C-4672, C-4685, C-4686, C-4697, C-4698, C-4699, C-4700, C-4701, C-4703, C-4704, C-4705, C-4706, C-4713, C-4714, C-4720, C-4723*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-2",
+   "header": "**N-2** Erika Kirk",
+   "label": "Erika Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named as opening Amfest just before Shapiro's speech."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4642*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-3",
+   "header": "**N-3** Candace Owens",
+   "label": "Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host; speaks for herself throughout."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4632, C-4633, C-4634, C-4636, C-4638, C-4640, C-4642, C-4647, C-4649, C-4650, C-4651, C-4652, C-4654, C-4655, C-4656, C-4657, C-4658, C-4660, C-4661, C-4665, C-4666, C-4672, C-4686, C-4687, C-4688, C-4689, C-4690, C-4691, C-4692, C-4693, C-4695, C-4696, C-4697, C-4698, C-4699, C-4700, C-4701, C-4703, C-4704, C-4706, C-4707, C-4712, C-4714, C-4715, C-4717, C-4718, C-4719, C-4720, C-4723*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-22",
+   "header": "**N-22** Tucker Carlson",
+   "label": "Tucker Carlson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Co-target of the Daily Wire show the host describes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4636, C-4640*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-27",
+   "header": "**N-27** Kanye West",
+   "label": "Kanye West",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host recounts his 2022 tweet and the pressure on her to condemn him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4632, C-4638, C-4688, C-4691, C-4692, C-4693, C-4694, C-4695, C-4696*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-82",
+   "header": "**N-82** Brigitte Macron",
+   "label": "Brigitte Macron",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host says she is suing people."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4719*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-97",
+   "header": "**N-97** Ben Shapiro",
+   "label": "Ben Shapiro",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Central target of the host's claims about takeovers, donor pressure and the Daily Wire show."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4637, C-4638, C-4639, C-4640, C-4641, C-4642, C-4649, C-4661, C-4662, C-4664, C-4665, C-4666, C-4672, C-4673, C-4675, C-4677, C-4680, C-4681, C-4682, C-4686, C-4687*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-193",
+   "header": "**N-193** David Horowitz",
+   "label": "David Horowitz",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named by Bannon and the host as a target of Shapiro."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4687*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-266",
+   "header": "**N-266** Brian Harpole",
+   "label": "Brian Harpole",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named with Dan Flood in the host's account of Charlie's early security."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4701*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-270",
+   "header": "**N-270** Dan Flood",
+   "label": "Dan Flood",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named with Brian Harpole in the host's account of Charlie's early security."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4701*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-366",
+   "header": "**N-366** Jeremy Boreing",
+   "label": "Jeremy Boreing",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Former Daily Wire CEO, named for the town hall and the Kanye conference room."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4655, C-4656, C-4695, C-4696*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-375",
+   "header": "**N-375** Ryan Reynolds",
+   "label": "Ryan Reynolds",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named in the host's reading of the Baldoni lawsuit."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4659*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-484",
+   "header": "**N-484** Blake Lively",
+   "label": "Blake Lively",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named in the host's reading of the Baldoni lawsuit."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4659*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-485",
+   "header": "**N-485** Justin Baldoni",
+   "label": "Justin Baldoni",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of the host's reading of his lawsuit."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4659*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-737",
+   "header": "**N-737** Michael Jackson",
+   "label": "Michael Jackson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of the Daily Wire episode the host cites as a firing reason."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4657*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10000",
+   "header": "**N-10000** Turning Point USA",
+   "label": "Turning Point USA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Organization at the center of the Bowyer, DOGE and missing-money claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4635, C-4665, C-4685, C-4700, C-4707, C-4711, C-4712, C-4713, C-4714*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10004",
+   "header": "**N-10004** Kanye Tweet About Candace Owens",
+   "label": "Kanye Tweet About Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4638*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10113",
+   "header": "**N-10113** Beehive Code / School Underground Premonition",
+   "label": "Beehive Code / School Underground Premonition",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the AI sample's bee lines."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4651*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10268",
+   "header": "**N-10268** AmFest Speaker Removal Pattern",
+   "label": "AmFest Speaker Removal Pattern",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the Amfest slot claim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4642*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10270",
+   "header": "**N-10270** Macron Defamation Lawsuit Delaware Venue Question",
+   "label": "Macron Defamation Lawsuit Delaware Venue Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the suing claim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4719*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10316",
+   "header": "**N-10316** France / Macron Couple Involvement in Kirk Assassination",
+   "label": "France / Macron Couple Involvement in Kirk Assassination",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the suing claim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4719*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10406",
+   "header": "**N-10406** Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
+   "label": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4640, C-4641*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10416",
+   "header": "**N-10416** Daily Wire Stalking Pattern",
+   "label": "Daily Wire Stalking Pattern",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4633, C-4647, C-4666, C-4689*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10422",
+   "header": "**N-10422** GATE / Gifted Education Program Investigation",
+   "label": "GATE / Gifted Education Program Investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the gifted school link."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4703*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10661",
+   "header": "**N-10661** Blake Lively / Justin Baldoni Lawsuit Outcome (Legal Matter – CASE_1 / LM-1000 placeholder)",
+   "label": "Blake Lively / Justin Baldoni Lawsuit Outcome (Legal Matter – CASE_1 / LM-1000 placeholder)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4659*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10900",
+   "header": "**N-10900** Daily Wire",
+   "label": "Daily Wire",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host's former employer."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4632, C-4633, C-4636, C-4642, C-4655, C-4656, C-4657, C-4666, C-4680, C-4681, C-4689, C-4693, C-4695, C-4696*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10925",
+   "header": "**N-10925** Turning Point Action",
+   "label": "Turning Point Action",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Campaign arm of TPUSA; Austin Smith's employer and the missing-money tip."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4634, C-4711, C-4712*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11116",
+   "header": "**N-11116** Candace Owens Daily Wire Firing Reasons",
+   "label": "Candace Owens Daily Wire Firing Reasons",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The reasons the host says Jeremy Boreing and the Daily Wire gave at the company town hall for firing her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4655, C-4656, C-4657*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11117",
+   "header": "**N-11117** Kanye Condemnation Pressure and Contract Cut",
+   "label": "Kanye Condemnation Pressure and Contract Cut",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The host's account of being pressured to condemn Kanye West after his 2022 tweet, her refusal and the change to her Daily Wire contract."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4688, C-4691, C-4692, C-4693, C-4694, C-4695, C-4696*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11118",
+   "header": "**N-11118** Shapiro Knowledge of Kirk Death Question",
+   "label": "Shapiro Knowledge of Kirk Death Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The host's stated belief that Ben Shapiro may know more than the public about Charlie Kirk's death and may expect to benefit from it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4661, C-4662*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11119",
+   "header": "**N-11119** Andrew Breitbart Death and Autopsy Inquiry",
+   "label": "Andrew Breitbart Death and Autopsy Inquiry",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The host's account of Andrew Breitbart's 2012 death, the autopsy and the death of a forensic technician, none of it shown."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4667, C-4668, C-4669, C-4670*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11034",
+   "header": "**N-11034** Charlie Kirk Early Security Arrangement",
+   "label": "Charlie Kirk Early Security Arrangement",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The host's account that Charlie Kirk wrote he was not allowed to go anywhere without security in TPUSA's early years."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4701*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11120",
+   "header": "**N-11120** Livestock Culling and Farmland Control Claim",
+   "label": "Livestock Culling and Farmland Control Claim",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The French cattle depopulation comment and the host's farmland and chicken feed remarks."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4716, C-4717, C-4718*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11121",
+   "header": "**N-11121** Hollywood Gang Claim",
+   "label": "Hollywood Gang Claim",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The host's claim that Hollywood was founded by gangs and may still be run by one, and her description of gang-like tactics against her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-4658, C-4690*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## V. Claim Register",
+    ""
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4643",
+   "header": "**C-4643** Maggie Wegner Auditioned for Daily Wire Solo Show Two Days After Ben Shapiro's Amfest Speech",
+   "label": "Maggie Wegner Auditioned for Daily Wire Solo Show Two Days After Ben Shapiro's Amfest Speech",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per an email from Maggie Wegner that the host reads, a Daily Wire producer contacted her about 2 days after Ben Shapiro's Amfest speech to audition her for a solo show presented as a comedy show making fun of the right and the left, with Candace Owens and Tucker Carlson brought up immediately."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1587.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-388, N-22, N-3, N-97"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10385"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the timeline of the Amfest speech and confirm the producer's identity (protected in this episode); obtain any additional documentation Maggie may have referenced."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4645",
+   "header": "**C-4645** Audition Script and AI Video Content Targeted Candace Owens",
+   "label": "Audition Script and AI Video Content Targeted Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per an email from Maggie Wegner that the host reads, the audition script and AI video were entirely about making fun of Candace Owens, and the producer said, \"So when Candace or Tucker says something crazy, we would want you to make fun of it.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1587.1, A-1589.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-388, N-3, N-22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10385"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain and verify the full audition script and AI video; confirm the producer's statements directly via call recordings referenced by Maggie."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4653",
+   "header": "**C-4653** Maggie Wegner Declined the Audition Role",
+   "label": "Maggie Wegner Declined the Audition Role",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:04"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per a text message the host shows, Maggie Wegner declined the Daily Wire audition role, texting the producer that making fun of Candace did not feel true to her beliefs."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1588.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-388"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10385"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the text message thread against phone records and identify the producer's account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4674",
+   "header": "**C-4674** Per Statement the Host Reads, Ben Shapiro Resigned From Breitbart News on March 13, 2016",
+   "label": "Per Statement the Host Reads, Ben Shapiro Resigned From Breitbart News on March 13, 2016",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the statement the host reads, Ben Shapiro publicly resigned from Breitbart News as of 9:00 PM Pacific, citing the company's handling of Michelle Fields' allegations that Corey Lewandowski assaulted her; the host dates the resignation to March 13, 2016."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1590.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-392, N-393, N-97"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10386, N-10391"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Cross-reference the resignation statement against contemporaneous Breitbart News coverage and internal communications."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4663",
+   "header": "**C-4663** Steve Bannon Publicly Described Ben Shapiro's Pattern of Attempted Hostile Takeovers",
+   "label": "Steve Bannon Publicly Described Ben Shapiro's Pattern of Attempted Hostile Takeovers",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Steve Bannon stated at Amfest that Ben Shapiro \"tried to take over Breitbart,\" \"tried to take over David Horowitz's [organization],\" and predicted he \"will make a move on Turning Point.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1591.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-389, N-193, N-97"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10386"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full Amfest Bannon speech and verify the complete context; cross-reference Bannon's prior public statements about Shapiro."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4708",
+   "header": "**C-4708** Article the Host Reads Says Austin Smith Was Scheduled to Be Sentenced Tuesday for Petition Signature Fraud",
+   "label": "Article the Host Reads Says Austin Smith Was Scheduled to Be Sentenced Tuesday for Petition Signature Fraud",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:48:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per a news article the host reads, Austin Smith, age 30, former Arizona state representative and Turning Point Action leader, was scheduled to be sentenced Tuesday for using nominating petitions that contained forged signatures, including forging a dead woman's signature, in a 2024 primary election bid."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1592.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-394"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10387, N-10390"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the court docket and judgment from the Arizona sentencing court; confirm Austin Smith's exact dates of employment at Turning Point Action."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4710",
+   "header": "**C-4710** Austin Smith Plead Guilty in Mid-November to Attempted Fraudulent Schemes and Practices",
+   "label": "Austin Smith Plead Guilty in Mid-November to Attempted Fraudulent Schemes and Practices",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:49:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per a news article the host reads, Austin Smith plead guilty in mid-November to charges of attempted fraudulent schemes and practices and illegal signing of election petitions."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1592.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-394"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10390"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the plea agreement and charging documents from the Arizona court."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4702",
+   "header": "**C-4702** Host Says Charlie Kirk's 'Oracle' Figure All But Confirmed His Premonition of Dying Young",
+   "label": "Host Says Charlie Kirk's 'Oracle' Figure All But Confirmed His Premonition of Dying Young",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:42:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie Kirk saw an older Jewish man from Chicago, matched with him, if memory serves, through a school for the gifted, who all but confirmed Charlie's visions that he would die young and told him his death would save humanity; she shows a text in which Charlie writes that the man says he is 'being shaped for a time to save humanity'."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1593.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3, N-396"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10389"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the original text message thread for verification; investigate the identity of the \"oracle\" figure and his connection to the gifted school."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4644",
+   "header": "**C-4644** Email the Host Reads Describes Daily Wire Producer as in \"Panic Mode\" During Casting",
+   "label": "Email the Host Reads Describes Daily Wire Producer as in \"Panic Mode\" During Casting",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per an email the host reads, the Daily Wire producer who contacted Maggie Wegner was in \"panic mode\" about casting the show, having only come up with the show concept the day before contacting her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1587.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-388"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10385"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the timeline of the show's conception against internal Daily Wire communications if obtainable."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4676",
+   "header": "**C-4676** Per Shapiro's Own Statement the Host Reads, He Joined Breitbart News Two Weeks Before Andrew Breitbart's Death",
+   "label": "Per Shapiro's Own Statement the Host Reads, He Joined Breitbart News Two Weeks Before Andrew Breitbart's Death",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:58"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per Ben Shapiro's own resignation statement that the host reads, he signed on with Breitbart News two weeks before Andrew Breitbart's death, which the host elsewhere dates to March 1, 2012."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1590.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-390, N-97"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10386, N-10391"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the exact date of Shapiro's hiring through Breitbart employment records or contemporaneous reporting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4721",
+   "header": "**C-4721** Host invokes decentralized intelligence (near-DIA framing)",
+   "label": "Host invokes decentralized intelligence (near-DIA framing)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:58:32"
+    },
+    {
+     "k": "Claim",
+     "v": "The host uses near-DIA wording (\"decentralized intelligence\") to describe crowd-sourced investigative capacity, without the full agency brand line in this beat."
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "...for this department and I can see this. All of us decentralizing intelligence and me just being willing to share what you guys are sharing with me is what is solving the mystery..."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4722",
+   "header": "**C-4722** Host elevates mommy sleuth crowd investigators",
+   "label": "Host elevates mommy sleuth crowd investigators",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:58:32"
+    },
+    {
+     "k": "Claim",
+     "v": "The host praises \"mommy sleuth(s)\" as amateur / parent investigators sending tips, framed as part of the crowd intelligence effort."
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "...this. Here's a text message chain. Um, here I'm a mommy sleuth and I have access to this. Oh, I work for this department and I can see this. All of us decentraliz..."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Cross-link M-16 Mommy Sleuth meme when register present; verify named contributor if identified."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4632",
+   "header": "**C-4632** Host Says Kanye Was Right in 2022 About Blackballing of Opponents",
+   "label": "Host Says Kanye Was Right in 2022 About Blackballing of Opponents",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:00:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Kanye West in 2022 said he would go \"deathcon 3\" on Jewish people, and that he was right about the blackballing of anyone who opposes a specific agenda."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And he told us that when he woke up, he was a little bit sleepy tonight, but when he woke up, he had plans cuz he was going to go deathcon 3 on Jewish people."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-27, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10900"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2715"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the original Kanye West tweet and its date to confirm the wording the host paraphrases."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4633",
+   "header": "**C-4633** Host Says She Has Fought the Daily Wire for Two Years and Public Knows Little",
+   "label": "Host Says She Has Fought the Daily Wire for Two Years and Public Knows Little",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:00:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she has spent two years effectively fighting the Daily Wire after leaving her job, and that 90 to 99 percent of what she has gone through is unknown to the public."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it's now been two years, two entire years of my life that I have been effectively fighting just to, you know, go on living against the Daily Wire after leaving a job."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10900, N-10416"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the host's account with the court filings and public statements in the Daily Wire dispute."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4634",
+   "header": "**C-4634** Host Says Tyler Bowyer Hired Austin Smith and Is the Lynchpin",
+   "label": "Host Says Tyler Bowyer Hired Austin Smith and Is the Lynchpin",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:01:03"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Austin Smith, the Turning Point Action former employee just sentenced in Arizona, was also hired by Tyler Bowyer, whom she calls the lynchpin."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Of course, he too was hired by Tyler Bowyer because I, as I have been telling you guys from the very beginning, Tyler Bowyer is the lynch pin."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-11, N-394, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10925, N-10387"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain Turning Point Action employment records for Austin Smith and who approved his hiring."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4635",
+   "header": "**C-4635** Host Says Bowyer Runs TPUSA and Staffed Nearly Everyone Around Charlie",
+   "label": "Host Says Bowyer Runs TPUSA and Staffed Nearly Everyone Around Charlie",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:01:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Tyler Bowyer has been running Turning Point USA and staffed nearly everyone who surrounded Charlie Kirk, and that he should be investigated more thoroughly."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He is the person who has been running Turning Point USA. He staffed nearly everyone that was surrounding Charlie and I think he needs to be investigated more thoroughly."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-11, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10387"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Map the hiring chain of Charlie Kirk's staff and security against Bowyer's role using TPUSA org charts and former staff accounts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4636",
+   "header": "**C-4636** Host Says She Scooped the Daily Wire Show the Day Before",
+   "label": "Host Says She Scooped the Daily Wire Show the Day Before",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that the previous day her show scooped a Daily Wire news show designed to mock her and Tucker Carlson, and that some Daily Wire fan accounts hoped it was fake."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "It was yesterday, just yesterday, that we scooped the Daily Wire's cringe news show designed quite literally with the intention to mock me and Tucker Carlson."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-22"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10385, N-10900"
+    },
+    {
+     "k": "Supports",
+     "v": "C-4615"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the previous episode's report with any Daily Wire announcement of the show."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4637",
+   "header": "**C-4637** Host Says Shapiro Was Not a Friend of Charlie Kirk",
+   "label": "Host Says Shapiro Was Not a Friend of Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:57"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Ben Shapiro was not a friend of Charlie Kirk and that Charlie Kirk's assassination has catalyzed a certain derangement in Shapiro."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Charlie Kirk's assassination has catalyzed a certain derangement in Ben Shapiro. Ben was not a friend of Charlie Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-97, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10386"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review public and private Shapiro-Kirk communications and joint appearances to test the host's characterisation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4638",
+   "header": "**C-4638** Host Says Shapiro Worked Behind the Scenes to Stop Charlie's and Her Rise",
+   "label": "Host Says Shapiro Worked Behind the Scenes to Stop Charlie's and Her Rise",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:57"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that once Shapiro saw Charlie Kirk as a threat, after the Kanye West tweet, he worked behind the scenes to complicate and stop Charlie's rise and hers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Ben got to work behind the scenes trying to complicate and stop Charlie's rise and my rise."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-97, N-1, N-3, N-27"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10386, N-10004"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify messages, donor contacts or witnesses showing Shapiro's behind-the-scenes efforts, which the host has not specified here."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4639",
+   "header": "**C-4639** Host Says Shapiro Pressures Christians Financially to Go After Other Christians",
+   "label": "Host Says Shapiro Pressures Christians Financially to Go After Other Christians",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:43"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Shapiro's strategy is to find Christians and pressure them, usually through financial means, to go after other Christians when he gets angry."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "his strategy is to find Christians and to pressure them usually through financial means to go after other Christians when he gets angry in particular."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1587.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-97"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10385, N-10386"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain further casting emails or payment offers like Maggie Wegner's to see whether a pattern exists."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4640",
+   "header": "**C-4640** Host Says Shapiro Demanded Megyn Kelly's Allegiance Against Her and Tucker",
+   "label": "Host Says Shapiro Demanded Megyn Kelly's Allegiance Against Her and Tucker",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:43"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that at the end of last year Shapiro stepped onto Megyn Kelly's tour stage and demanded her allegiance against the host and Tucker Carlson, and that Kelly did not submit."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Ben stepped onto Megyn Kelly stage while she was on tour and he demanded her allegiance against me and Tucker."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-97, N-46, N-22, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10406"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review video of Shapiro's appearance on Kelly's tour and Kelly's own account of what he asked of her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4641",
+   "header": "**C-4641** Host Says Shapiro Directs Attacks on Megyn Kelly Through Stooges",
+   "label": "Host Says Shapiro Directs Attacks on Megyn Kelly Through Stooges",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:43"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Megyn Kelly has been under attack by Shapiro's stooges since, and that Shapiro is directing the attacks from behind the scenes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "she has been under attack by his stooges since. Okay, Ben is directing that from behind the scenes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-97, N-46"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10406"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the accounts or outlets attacking Kelly and any evidence linking them to Shapiro; the host offers none here."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4642",
+   "header": "**C-4642** Host Says Shapiro Paid for a Prime Amfest Slot Right After Erika Kirk",
+   "label": "Host Says Shapiro Paid for a Prime Amfest Slot Right After Erika Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:59"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Shapiro paid money for a prime speaking slot at Amfest, taking the stage just after Erika Kirk opened, and used it to attack the host, Tucker Carlson and Megyn Kelly."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Ben quite literally paid money for a prime speaking spot speaking slot uh at Amfest hitting the stage just after Erika Kirk opening opened"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-97, N-2, N-3, N-46, N-22"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10268, N-10900"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the Amfest speaker schedule and any sponsorship or payment records for Shapiro's appearance."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4646",
+   "header": "**C-4646** Host Reads Maggie's Account That She Tried to Rewrite the Script and Could Not",
+   "label": "Host Reads Maggie's Account That She Tried to Rewrite the Script and Could Not",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads Maggie Wegner's email saying she tried to rewrite the audition script in a way true to her, could not, and was advised by someone whose name is blacked out to contact a second person, who told her not to send the audition tape."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I even tried to rewrite it in a way that was true to me, but I couldn't do it. It just felt like high school bullies."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1587.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-388"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10385"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify against the original, unredacted email and the people Maggie says advised her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4647",
+   "header": "**C-4647** Maggie Says She Was Told Not to Share the AI Video After the Host Said She Knew",
+   "label": "Maggie Says She Was Told Not to Share the AI Video After the Host Said She Knew",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads Maggie Wegner's email saying she was told not to share the AI video the day after the host announced on air that she knew about the planned show, and that she told the producer she had not leaked it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I was told not to share the AI video the day after you announced on your show that you knew about the show that they were planning to launch."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1587.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-388, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10385, N-10416"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Establish who told Maggie not to share the video and when, using the call receipts she says she supplied."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4648",
+   "header": "**C-4648** Maggie Says She Attached Proof of the Call and the Producer's Text",
+   "label": "Maggie Says She Attached Proof of the Call and the Producer's Text",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads Maggie Wegner's email saying she attached the AI video, the text she sent the producer, and proof of the call, plus photos from the studio showing the show filming."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Attached below is the AI video that they sent me and the text that I sent the producer and also proof of the call."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1587.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-388"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10385"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Request the attachments and call logs and check dates and metadata."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4649",
+   "header": "**C-4649** Host Says Ben Wanted the AI Video Sent Around Following Amfest",
+   "label": "Host Says Ben Wanted the AI Video Sent Around Following Amfest",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:24"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the AI video sample was sent to young women to see if they would audition and that Ben Shapiro wanted it sent around following Amfest."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "this is an AI video sample of the show that Ben wanted sent around following Amfest."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1589.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-97, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10385"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify who produced and distributed the AI sample and whether Shapiro directed it; the host gives no direct evidence of his role here."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4650",
+   "header": "**C-4650** AI Sample Is Hosted by a Character Named Gossy Gossworthy",
+   "label": "AI Sample Is Hosted by a Character Named Gossy Gossworthy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:24"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The AI sample shown by the host includes a character who welcomes viewers to \"The More You Know No\" and introduces herself as host \"Gossy Gossworthy\"."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Hey noowers, welcome back to The More You Know No. I'm your host Gossy Gossworthy."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1589.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10385"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the original video file to confirm the show title and character name as spoken."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4651",
+   "header": "**C-4651** Host Plays AI Sample Parodying the Bee Code Theory and Kyle Robinson",
+   "label": "Host Plays AI Sample Parodying the Bee Code Theory and Kyle Robinson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In an AI sample video the host plays, which she says was sent to young women to audition for a show, the lines include coded talk of bees and end by asking how Kyle Robinson could be the bee that stung, because bees die when they sting and he is alive."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Bees die when they sting. Kyle Robinson is alive. So, how could he be the bee that did the stinging?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1589.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10385, N-10113"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the AI sample's lines with the bee-code texts the host previously aired to see what is being parodied."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4652",
+   "header": "**C-4652** Host Says Maggie Did Not Get the Job After Refusing to Mock Her",
+   "label": "Host Says Maggie Did Not Get the Job After Refusing to Mock Her",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Maggie Wegner did not get the job because she went back to the producer and said it did not feel true to what she believed to make fun of Candace."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "she didn't get the job because she went back to them and she wrote and said, 'I feel uncomfortable doing this."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1588.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-388, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10385"
+    },
+    {
+     "k": "Supports",
+     "v": "C-4653"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm with Maggie Wegner that she was not offered the role and obtain the producer's reply."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4654",
+   "header": "**C-4654** Host Says the Casting Required Willingness to Attack Her",
+   "label": "Host Says the Casting Required Willingness to Attack Her",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:04"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Daily Wire's message to would-be hosts amounts to a star-making show offer on the condition that they attack Candace Owens, and that this is what they were casting for."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We can make you a star, but you have to be willing to attack Candace Owens. That's what we are casting for."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1587.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-388"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10385"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Seek additional casting emails or scripts from other candidates to test whether the condition was stated."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4655",
+   "header": "**C-4655** Host Says Boreing Cited Her Stance That Genocide Is Always Wrong as a Reason She Was Fired",
+   "label": "Host Says Boreing Cited Her Stance That Genocide Is Always Wrong as a Reason She Was Fired",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:59"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Jeremy Boreing, in the company town hall, named her public position that genocide is always wrong as a reason she was fired from the Daily Wire."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the clearly immoral and impractical stance that I publicly expressed that genocide is always wrong was revealed by Jeremy Boreing in that town hall as a reason why I was fired."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-366, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10900, N-11116"
+    },
+    {
+     "k": "Supports",
+     "v": "C-4381"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full town hall video and transcript and compare Boreing's stated reasons with the host's account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4656",
+   "header": "**C-4656** Host Says Boreing Also Cited Her View That Pornography Harms Men",
+   "label": "Host Says Boreing Also Cited Her View That Pornography Harms Men",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:59"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says then-CEO Jeremy Boreing gave her position that pornography is harming men as another reason for her firing at the companywide town hall."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "pornography is harming men. That was another reason that was expressed by then CEO Jeremy in the companywide town"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-366, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10900, N-11116"
+    },
+    {
+     "k": "Supports",
+     "v": "C-4381"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the town hall transcript and check what Boreing said about pornography."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4657",
+   "header": "**C-4657** Host Says Her Michael Jackson Hollywood-Gang Remark Was Another Firing Reason",
+   "label": "Host Says Her Michael Jackson Hollywood-Gang Remark Was Another Firing Reason",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:59"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says another reason given for her firing was that, while speaking about Michael Jackson in a Daily Wire episode, she insinuated it is plausible that Hollywood is being run by a gang."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I insinuated in an episode that I had done while I was at the Daily Wire when I was speaking about Michael Jackson that it's plausible that Hollywood is being run by a gang."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-737"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10900, N-11116"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the Daily Wire episode and obtain the town hall record of whether it was cited."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4658",
+   "header": "**C-4658** Host Says Hollywood Was Started by Gangs Including Jewish Mafiosos",
+   "label": "Host Says Hollywood Was Started by Gangs Including Jewish Mafiosos",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:23"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Hollywood was in fact started by gangs, including Jewish mafiosos and bootleggers, so it is not beyond possibility that it is still run by a gang."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Actually, factually speaking, Hollywood was started by gangs. Yes, there were Jewish mafiosos, bootleggers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11121"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check historians' accounts of organised crime involvement in early Hollywood against this sweeping characterisation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4659",
+   "header": "**C-4659** Host Says the Baldoni Lawsuit Showed a Hostile Takeover of His Movie Rights",
+   "label": "Host Says the Baldoni Lawsuit Showed a Hostile Takeover of His Movie Rights",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:23"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that after reading Justin Baldoni's lawsuit she concluded that Ryan Reynolds and Blake Lively were sent to get the rights to his movie, which she calls a hostile takeover."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Even Justin Baldoni actually when I read the lawsuit and I realized they were trying to stage a hostile takeover of the rights to his movie."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-485, N-484, N-375"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10661"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Read the Baldoni and Lively court filings and rulings to test the host's takeover reading."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4660",
+   "header": "**C-4660** Host Says Charlie Wanted Out of the Gang and Was Killed",
+   "label": "Host Says Charlie Wanted Out of the Gang and Was Killed",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that if there is an entertainment gang that she and Charlie Kirk unwittingly joined, she has been getting jumped out for two years, and that Charlie, who wanted out, was killed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He's dead now. What he wanted out, he was killed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10385"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "This is the host's inference; identify any statement by Charlie Kirk that he wanted to leave a group or arrangement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4661",
+   "header": "**C-4661** Host Says Shapiro May Know More Than the Public About Charlie's Death",
+   "label": "Host Says Shapiro May Know More Than the Public About Charlie's Death",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Shapiro's behaviour since the assassination leads her to believe he may know more than the public knows about Charlie Kirk's death, and that she feels this in her soul."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Ben Shapiro's behavior since Charlie Kirk's assassination leads me to believe that he may know more than the public knows about Charlie Kirk's death."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-97, N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11118"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The host offers no specific evidence here; seek any communications or meetings of Shapiro on or after September 10, 2025 (see also the lunch-meeting topic)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4662",
+   "header": "**C-4662** Host Says Shapiro Acts as if Charlie's Company Was Promised to Him",
+   "label": "Host Says Shapiro Acts as if Charlie's Company Was Promised to Him",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Shapiro is behaving as though Charlie's company was promised to him 3,000 years ago and that he assumed he would somehow benefit from Charlie's death."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He's behaving as though Charlie's company was promised to him 3,000 years ago. Okay? Like he assumed that he would somehow benefit off of his death."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-97, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11118, N-10386"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Look for concrete Shapiro actions toward TPUSA after September 10, 2025 (offers, donor outreach, statements) that support the host's reading."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4664",
+   "header": "**C-4664** Bannon Says in the Clip That He Ran Shapiro Out of Breitbart",
+   "label": "Bannon Says in the Clip That He Ran Shapiro Out of Breitbart",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the Amfest clip, Steve Bannon says Ben Shapiro tried to take over Breitbart and that he, Bannon, ran him out of there."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He tried to take over Breitbart and I ran him out of there."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1591.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-389, N-97"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10386"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare Bannon's statement with Shapiro's account that he resigned, and with contemporaneous Breitbart reporting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4665",
+   "header": "**C-4665** Bannon Says Shapiro Has Always Been Envious of Charlie Kirk",
+   "label": "Bannon Says Shapiro Has Always Been Envious of Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the Amfest clip, Steve Bannon says Shapiro will make a move on Turning Point because he has always been envious of Charlie Kirk, and the host calls it fact."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he will make a move on Turning Point because he's always been envious of Charlie Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1591.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-389, N-97, N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10386, N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full Amfest Bannon speech and any corroborating statements by those who knew Kirk and Shapiro."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4666",
+   "header": "**C-4666** Host Says Shapiro's Lawsuit Aimed to Bankrupt Her Company Before It Started",
+   "label": "Host Says Shapiro's Lawsuit Aimed to Bankrupt Her Company Before It Started",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Shapiro tried to take over many companies hostilely, including hers before it got started, and that the lawsuit after she was fired was meant to bankrupt them before they could start."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The lawsuit just going to bankrupt us before we could even get started."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-97, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10416, N-10900"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the pleadings in the Daily Wire litigation against the host and their dates."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4667",
+   "header": "**C-4667** Host Says Andrew Breitbart Died March 1, 2012 Aged 43 of an Apparent Heart Attack",
+   "label": "Host Says Andrew Breitbart Died March 1, 2012 Aged 43 of an Apparent Heart Attack",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Andrew Breitbart dropped dead on March 1, 2012 of an apparent heart attack at age 43, and calls it another mysterious political death."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "It was March 1st of 2012 when Andrew Breitbart dropped dead from an apparent heart attack."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-390"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11119"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the Los Angeles County coroner's report for Breitbart's death."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4668",
+   "header": "**C-4668** Host Says Breitbart Was Stepping on Toes and Claimed Information Before He Died",
+   "label": "Host Says Breitbart Was Stepping on Toes and Claimed Information Before He Died",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Andrew Breitbart was stepping on some toes and saying he had some information shortly before he died."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he's starting to step on some toes, saying he has some information. Next thing you know, he's dead."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-390"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11119"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify what information Breitbart said he had, using his public statements from early 2012."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4669",
+   "header": "**C-4669** Host Says a Forensic Technician on Breitbart's Autopsy Died of Arsenic Poisoning",
+   "label": "Host Says a Forensic Technician on Breitbart's Autopsy Died of Arsenic Poisoning",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says a forensic technician involved in Breitbart's autopsy, named Michael Cormier, aged 61, also died, from military-grade arsenic poisoning."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "a forensic technician that was involved with the autopsy also wound up dead from militarygrade arsenic poisoning."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-395, N-390"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11119"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Search for a death record, news report or coroner finding for Michael Cormier; no artifact was shown."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4670",
+   "header": "**C-4670** Host Says Cormier's Wife Disputes That He Poisoned Himself",
+   "label": "Host Says Cormier's Wife Disputes That He Poisoned Himself",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Michael Cormier's wife says he would not have poisoned himself with military arsenic."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And his wife says no, that's not what's he wouldn't just poison himself with military arsenic poisoning."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-395"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11119"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find any published statement by Cormier's family."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4671",
+   "header": "**C-4671** Host Says an Internal War Over Breitbart's Direction Followed His Death",
+   "label": "Host Says an Internal War Over Breitbart's Direction Followed His Death",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that after Breitbart died there was an internal war over the direction of the company, as Steve Bannon describes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "There was an internal war that waged about what the direction of this healthy conservative company would be."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-390, N-389"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10386"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review reporting on Breitbart News leadership disputes in 2012."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4672",
+   "header": "**C-4672** Host Says Breitbart Chiefs Told Her and Charlie the Daily Wire Founding Story",
+   "label": "Host Says Breitbart Chiefs Told Her and Charlie the Daily Wire Founding Story",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:15"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the story of how Shapiro started the Daily Wire on scandal was told directly to her and Charlie Kirk by chiefs at Breitbart at a corporate retreat in New Mexico."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "This story was directly told to me and Charlie Kirk. We were in New Mexico at a corporate retreat and we heard it straight from the chiefs at Breitbart."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3, N-97"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10391, N-10386"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask the host to name the Breitbart executives and the retreat; seek any other attendee of the New Mexico retreat."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4673",
+   "header": "**C-4673** Host Says Shapiro and Fields Both Left Breitbart on March 13, 2016",
+   "label": "Host Says Shapiro and Fields Both Left Breitbart on March 13, 2016",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:37"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that on March 13, 2016 Ben Shapiro and Michelle Fields both decided to leave Breitbart and made public statements."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "So on March 13th, 2016, Ben and Michelle Fields doubly decided that they were going to leave Breitbart"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1590.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-97, N-392"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10391"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check Fields's own resignation date and statement against March 13, 2016."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4675",
+   "header": "**C-4675** Shapiro Statement Says He Met Breitbart at 17 and Stayed His Friend",
+   "label": "Shapiro Statement Says He Met Breitbart at 17 and Stayed His Friend",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the resignation statement read by the host, Shapiro says he met Andrew Breitbart at 17 and remained his friend until his death."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I met Andrew when I was 17 years old and remained his friend until his tragic death."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1590.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-97, N-390"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10391"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify against Shapiro's published March 2016 resignation statement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4677",
+   "header": "**C-4677** Shapiro Statement Says Bannon's Breitbart Betrayed Andrew's Legacy",
+   "label": "Shapiro Statement Says Bannon's Breitbart Betrayed Andrew's Legacy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The statement as read says that, in Shapiro's opinion, Breitbart News under Steve Bannon's chairmanship put a stake through the heart of Andrew Breitbart's legacy, and that Bannon is a bully who sold out the mission to back Trump."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Indeed, Breitbart News under the chairmanship of Steve Bannon has put a stake through the heart of Andrew's legacy."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1590.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-97, N-389, N-390"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10391"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify against Shapiro's published March 2016 resignation statement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4678",
+   "header": "**C-4678** Shapiro Statement Says Fields's Account Was Backed by Tape, Witness and Video",
+   "label": "Shapiro Statement Says Fields's Account Was Backed by Tape, Witness and Video",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The statement as read says Michelle Fields's account of the incident with Corey Lewandowski was backed by audio tape, eyewitness testimony from Ben Terris of the Washington Post, bruises and a videotape."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "That story was backed by audio tape, eyewitness testimony from the Washington Post's Ben Terrace, physical bruises, and a videotape."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1590.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-392, N-393"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10391"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify against the published statement and the contemporaneous Washington Post reporting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4679",
+   "header": "**C-4679** Shapiro Statement Says Breitbart Ran a Conspiracy Theory That Fields Misidentified Lewandowski",
+   "label": "Shapiro Statement Says Breitbart Ran a Conspiracy Theory That Fields Misidentified Lewandowski",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:26:32"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The statement as read says Breitbart undermined Fields by running, as its lead story, a poorly evidenced theory that Fields and Terris had misidentified Lewandowski."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "they undermined Michelle completely by running a poorly evidence conspiracy theory as their lead story in which Michelle and Terrace had somehow misidentified Luwendowski."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1590.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-392, N-393"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10391"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the Breitbart News article from March 2016 and the dates it ran."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4680",
+   "header": "**C-4680** Host Says Shapiro Promoted the Daily Wire the Very Next Day and It Worked",
+   "label": "Host Says Shapiro Promoted the Daily Wire the Very Next Day and It Worked",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:26:32"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that the day after his resignation Shapiro promoted the Daily Wire and that people left Breitbart News to follow the Daily Wire."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And and the very next day, he then promotes the Daily Wire. And guess what? It worked."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1590.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-97"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10391, N-10900"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare Daily Wire traffic and launch announcements for March 2016."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4681",
+   "header": "**C-4681** Host Says Shapiro Had Quietly Built the Daily Wire Since Late 2015 Without Traction",
+   "label": "Host Says Shapiro Had Quietly Built the Daily Wire Since Late 2015 Without Traction",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:27:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host, relaying what Breitbart executives told her, says Shapiro had begun quietly building the Daily Wire at the end of 2015 but lacked traction, so a scandal was needed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "begun quietly building Daily Wire um at the end of 2015, but didn't have enough gumption behind it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-97"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10391, N-10900"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the Daily Wire's incorporation and launch dates and the executives' accounts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4682",
+   "header": "**C-4682** Host Says Shapiro and Jamie Weinstein Decided to Cook Up a Scandal",
+   "label": "Host Says Shapiro and Jamie Weinstein Decided to Cook Up a Scandal",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:27:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says, relaying Breitbart executives, that Shapiro and his best friend Jamie Weinstein decided to cook up a scandal around the Fields story to help the Daily Wire."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "So he and his best friend Jaime Weinstein decided to cook up a scandal."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-97, N-391"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10391, N-10386"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Seek firsthand evidence from the unnamed Breitbart executives or contemporaneous communications."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4683",
+   "header": "**C-4683** Host Says Jamie Weinstein Is Michelle Fields's Husband",
+   "label": "Host Says Jamie Weinstein Is Michelle Fields's Husband",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:27:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says it was told to her that Jamie Weinstein is Michelle Fields's husband."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the more relevant fact that was told to me is that Jaime Weinstein is Michelle Field's husband."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-391, N-392"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10391"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check public marriage and biographical records for Weinstein and Fields (they are widely reported to have been married)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4684",
+   "header": "**C-4684** Host Says Fields's Bruises Were Later Shown Not to Match Where Lewandowski Touched Her",
+   "label": "Host Says Fields's Bruises Were Later Shown Not to Match Where Lewandowski Touched Her",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says it was later proved, when the tape was released, that Fields's bruises were not where Lewandowski touched her, and that Breitbart never recovered from the scandal."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "which was later proved that her bruises could not have been from Cory Luwendowski because the bruises that she showed were not where Cory Luwendowski when the tape finally got released where he touched her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-392, N-393"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10391"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the released tape and the charges and outcome in the Lewandowski matter against the host's account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4685",
+   "header": "**C-4685** Host Says Neocons Are Staging a Hostile Takeover of Charlie's Legacy",
+   "label": "Host Says Neocons Are Staging a Hostile Takeover of Charlie's Legacy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that, as with Breitbart, neocons are staging a hostile takeover of the dead Charlie Kirk's legacy and brand at Turning Point USA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "neocons are staging a hostile takeover of his legacy and of his brand."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10386"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the specific appointments, donors or actions the host regards as a takeover."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4686",
+   "header": "**C-4686** Host Says Shapiro Used His Contact List to Have Donors Pressure Charlie",
+   "label": "Host Says Shapiro Used His Contact List to Have Donors Pressure Charlie",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:29:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Shapiro blackballed her through his contact list, having donors put pressure on Charlie Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the very person who blackalled me through his contact list having donors put pressure on Charlie Kirk because that's how he moves."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-97, N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10386"
+    },
+    {
+     "k": "Supports",
+     "v": "C-4400"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify donors who contacted Kirk or TPUSA about the host, and obtain any messages the host holds."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4687",
+   "header": "**C-4687** Host Says Shapiro Also Went After Horowitz's Freedom Center, Her and the Babylon Bee",
+   "label": "Host Says Shapiro Also Went After Horowitz's Freedom Center, Her and the Babylon Bee",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:29:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Shapiro's takeover pattern also covered David Horowitz's Freedom Center, the host's own business and the Babylon Bee."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He is telling you the truth about what happened with David Har, which is Freedom Center, me, the Babylon B."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-97, N-193, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10386"
+    },
+    {
+     "k": "Supports",
+     "v": "C-4663"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask Horowitz Freedom Center and Babylon Bee principals about any takeover attempts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4688",
+   "header": "**C-4688** Kanye Told the Host He Felt Finally Free After Burning Everything Down",
+   "label": "Kanye Told the Host He Felt Finally Free After Burning Everything Down",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:37"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Kanye West, after he burned everything to the ground, told her he felt like he was finally free, which she compares to leaving a gang."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I understand why Kanye after he burned everything to the ground said to me, \"I feel like I'm finally free.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-27, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11117"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Only the host can confirm the conversation; look for any public Kanye statement to that effect."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4689",
+   "header": "**C-4689** Host Describes Her Former Employer Pursuing Her in Court and Contacting Donors",
+   "label": "Host Describes Her Former Employer Pursuing Her in Court and Contacting Donors",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:46"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says an employer should not stalk someone for two years after they quit, following them, chasing them in the courtroom, trying to bankrupt them, calling people, reaching out to donors and interfering with sponsorships."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They shouldn't be following you, uh chasing you in the courtroom from every infraction, trying to bankrupt you, calling people, uh reaching out to donors, uh trying to stop business relationships getting in the way of sponsorships."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10416, N-10900"
+    },
+    {
+     "k": "Supports",
+     "v": "C-4389"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Document specific contacts to sponsors and donors with names, dates and the docket of each proceeding."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4690",
+   "header": "**C-4690** Host Says Mafia-Like Groups Try to Break People With Psychiatric Holds and Drugs",
+   "label": "Host Says Mafia-Like Groups Try to Break People With Psychiatric Holds and Drugs",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the people organised like a mafia against her aim to emotionally break victims, put them on a psychiatric hold like Britney Spears, get them on drugs and threaten to take their children."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "their goal is to emotionally break you, to make you uh psych 5150 you like they did to Britney, right?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11121"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "This is a sweeping characterisation; ask the host which of these tactics she says were used against her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4691",
+   "header": "**C-4691** Host Says Kanye's Deathcon 3 Tweet Cost Her Many Millions",
+   "label": "Host Says Kanye's Deathcon 3 Tweet Cost Her Many Millions",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Kanye West's Death Con 3 tweet cost her many millions of dollars."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "What I can tell you is that that tweet cost me many millions of dollars."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-27"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11117"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the host's Daily Wire contract terms before and after December 2022."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4692",
+   "header": "**C-4692** Host Says She Did Not Retweet or Like Kanye's Tweet",
+   "label": "Host Says She Did Not Retweet or Like Kanye's Tweet",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she was not with Kanye when he tweeted, did not retweet it and did not like it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I was not with Kanye when he tweeted it. I did not retweet Kanye. I did not like did not push a like when Kanye tweeted it"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-27"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11117"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the host's X activity from the time of the tweet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4693",
+   "header": "**C-4693** Host Says She Was Peer and Employer Pressured to Condemn Kanye",
+   "label": "Host Says She Was Peer and Employer Pressured to Condemn Kanye",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she was peer and employer pressured to put out a statement against Kanye West and was brought into a conference room after she had just signed a larger multi-year deal with the Daily Wire."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I sure as hell got peer pressured um and employer pressured to put out a statement against Kanye."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-27"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11117, N-10900"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Seek the other attendees of the conference room meeting and the contract documents."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4694",
+   "header": "**C-4694** Host Says Kanye Lost Adidas and Gap Contracts",
+   "label": "Host Says Kanye Lost Adidas and Gap Contracts",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Kanye West lost his Adidas and Gap contracts after the tweet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He lost his Adidas contract. He lost his Gap contract."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-27"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11117"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check news reports on Adidas ending its partnership and the Gap ending its partnership with Kanye West."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4695",
+   "header": "**C-4695** Host Says She Refused to Condemn Kanye and Was Yelled At",
+   "label": "Host Says She Refused to Condemn Kanye and Was Yelled At",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she refused to condemn Kanye West because she was not there and he is her friend, and that voices were raised at her in the conference room."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I said I'm not going to come out and condemn Kanye because I wasn't there."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-27"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11117, N-10900"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain contemporaneous accounts or notes from the meeting from Daily Wire staff."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4696",
+   "header": "**C-4696** Host Says Her Contract Was Changed to Pay Less After She Refused",
+   "label": "Host Says Her Contract Was Changed to Pay Less After She Refused",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:18"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that after she refused to condemn Kanye the Daily Wire said they would change the contract so she would be paid less than the original years, and she accepted losing the money."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we're going to change the contract and instead of being paid x amount of years, you are going to only get this."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-27"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11117, N-10900"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the original and amended contract terms; the host has not shown them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4697",
+   "header": "**C-4697** Host Says the Strategy Mocks Her for Dreaming Charlie Was Betrayed",
+   "label": "Host Says the Strategy Mocks Her for Dreaming Charlie Was Betrayed",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:40:17"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Daily Wire strategy seems to be mocking her for having a dream that Charlie Kirk was betrayed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "this whole strategy seems to be mocking me for having a dream that Charlie was betrayed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10389, N-10385"
+    },
+    {
+     "k": "Supports",
+     "v": "C-3534"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the show's content with the host's dream account to see what is being mocked."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4698",
+   "header": "**C-4698** Host Says She Has Many Messages With Charlie About His Vivid Dreams",
+   "label": "Host Says She Has Many Messages With Charlie About His Vivid Dreams",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:40:17"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she has many messages with Charlie Kirk about his dreams, that he believed them, and that he had such dreams since he was a kid."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "It's insane how many messages I have with Charlie Kirk about his dreams."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2842"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10389"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full thread of messages with Charlie Kirk about dreams."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4699",
+   "header": "**C-4699** Host Says She Consulted a Priest After Rereading Charlie's Messages",
+   "label": "Host Says She Consulted a Priest After Rereading Charlie's Messages",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:41:23"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she consulted a priest because she felt she needed spiritual guidance after rereading messages in which Charlie was convinced he would die young."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I did consult a priest. I felt like I needed spiritual guidance because I don't know everything."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2842"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10389"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the priest and what he advised; the host gives no name here."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4700",
+   "header": "**C-4700** Host Says Charlie Repeatedly Said He Would Die Young and TPUSA Would Be Involved",
+   "label": "Host Says Charlie Repeatedly Said He Would Die Young and TPUSA Would Be Involved",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:41:23"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie Kirk repeatedly told her in messages that he would die young and that Turning Point was going to be involved."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "just telling me that repeatedly he was going to die young and that Turning Point was going to be involved as I showed you."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2842"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10389, N-10000"
+    },
+    {
+     "k": "Supports",
+     "v": "C-4702"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the messages showing Kirk linking his expected death to Turning Point."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4701",
+   "header": "**C-4701** Host Says Charlie Texted That He Was Not Allowed Anywhere Without Security",
+   "label": "Host Says Charlie Texted That He Was Not Allowed Anywhere Without Security",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:41:23"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she found a message in which Charlie Kirk wrote that he was not allowed to go anywhere without security, at a time when Turning Point was in its infancy and lacked big money, and she links this in retrospect to security, which Dan Flood and Brian Harpole came out of."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Charlie writing to me ha like I'm not allowed to go anywhere without security"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2843"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1, N-270, N-266"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11034"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the text and its date, and identify who arranged Kirk's security in TPUSA's early years."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4703",
+   "header": "**C-4703** Host Dates the Oracle Conversation to Early 2018 Before the Kanye Tweet",
+   "label": "Host Dates the Oracle Conversation to Early 2018 Before the Kanye Tweet",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:43:37"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie's older Jewish contact from Chicago, whom Charlie called like the oracle, all but confirmed his death premonition, saying his death would save humanity, in early 2018 before the Kanye tweet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "This was in 2018, early 2018. Okay."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1593.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3, N-396"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10389, N-10422"
+    },
+    {
+     "k": "Supports",
+     "v": "C-4702"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the texts from early 2018 and any identification of the older man."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4704",
+   "header": "**C-4704** Host Says Charlie Felt Like a Time Traveler Who Had to Find Her",
+   "label": "Host Says Charlie Felt Like a Time Traveler Who Had to Find Her",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:43:37"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie told the older man he felt like a time traveler who had to come back and find her for some reason, and the man explained that we are all prisms of light, some meant to refract, and that Charlie and she were refracting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he was like a time traveler and he had to come back and he had to find me for some reason."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1593.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3, N-396"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10389"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the earlier message the host says she showed viewers and the one containing the prisms of light account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4705",
+   "header": "**C-4705** Text Message Reads: He Won't Tell You What He Saw, Just That I'm There and It's Bad",
+   "label": "Text Message Reads: He Won't Tell You What He Saw, Just That I'm There and It's Bad",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:48"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the text read by the host, Charlie wrote that the older man will not tell what he saw and has not told Charlie intentionally, just that Charlie is there and it is bad."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He won't tell you what he saw. He hasn't told me intentionally, just that I'm there and it's bad."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1593.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-396"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10389"
+    },
+    {
+     "k": "Supports",
+     "v": "C-4702"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the original text thread and date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4706",
+   "header": "**C-4706** Host Says Charlie Was Betrayed by People Closest to Him",
+   "label": "Host Says Charlie Was Betrayed by People Closest to Him",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:48"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she feels as strongly about her dream that Charlie was betrayed by people closest to him as Charlie did about believing he would die; she calls it a knowing, not a dream, \"like a prophecy\"."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I feel as strongly about the dream that I had that Charlie was betrayed by people closest to him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10389"
+    },
+    {
+     "k": "Supports",
+     "v": "C-3534"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The host offers no specific betrayal here; identify any documentary evidence that the people closest to Kirk acted against him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4707",
+   "header": "**C-4707** Host Says One Person Told Her on Record That Bowyer Offered Jobs for Favors",
+   "label": "Host Says One Person Told Her on Record That Bowyer Offered Jobs for Favors",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:47"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says one person told her on record that Tyler Bowyer would offer people a job at Turning Point USA if they did something for him, and that the person says he was offered a job by Bowyer; she adds the word allegedly."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "one person told me on record that he would also offer bribes to people like I'll get you a job at Turning Point USA if you do this for me."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-11, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10387, N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the source and obtain the written account and any messages showing a job offer tied to a favor."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4709",
+   "header": "**C-4709** Article Says Austin Smith Dropped His 2024 Re-election Bid and Resigned",
+   "label": "Article Says Austin Smith Dropped His 2024 Re-election Bid and Resigned",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:48:51"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The article as read says Austin Smith represented an Arizona House district in the Phoenix suburbs for one term, dropped his re-election bid in 2024 when questions arose about nominating petition signatures, and resigned then."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Smith represented an Arizona House district in the Phoenix suburbs for one term before dropping his re-election bid in 2024 when questions arose about signatures on his nominating petitions."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1592.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-394"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10390"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check Arizona legislature and secretary of state records for Smith's term and resignation date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4711",
+   "header": "**C-4711** Article Says Turning Point Action Is the Campaign Arm of TPUSA",
+   "label": "Article Says Turning Point Action Is the Campaign Arm of TPUSA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:49:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The article as read describes Turning Point Action as the campaign arm of Turning Point USA, which has become a major force in Arizona Republican politics, and the host says the fraud happened while Smith was at Turning Point Action."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "So this was happening while he was at TurningPoint Action, the campaign arm of Turning Point USA, which has become a major force in Arizona Republican politics."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1592.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-394"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10925, N-10000, N-10390"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the original article and confirm Smith's dates at Turning Point Action."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4712",
+   "header": "**C-4712** Host Says an Early Tip Said Money Was Missing From Turning Point Action",
+   "label": "Host Says an Early Tip Said Money Was Missing From Turning Point Action",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:49:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says one of the early tips from someone inside Turning Point USA was that a lot of money was missing from Turning Point Action, that she is working to confirm it and has another strong lead."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "One of the early tips that we got from somebody inside of Turning Point USA was that a lot of money was missing from Turning Point Action."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10925, N-10388, N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare Turning Point Action's FEC and IRS filings with the tipster's claim; the host says it is not yet confirmed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4713",
+   "header": "**C-4713** Host Says Charlie Was Establishing a DOGE at TPUSA",
+   "label": "Host Says Charlie Was Establishing a DOGE at TPUSA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:49:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that Charlie Kirk was establishing a DOGE, tying it to the missing-money tip."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And we know Charlie was establishing this Doge."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10388"
+    },
+    {
+     "k": "Supports",
+     "v": "C-3541"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the September 2025 internal memo and DOGE records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4714",
+   "header": "**C-4714** Host Says Charlie Found Something Out About His Organization Shortly Before Death",
+   "label": "Host Says Charlie Found Something Out About His Organization Shortly Before Death",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:50:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she thinks Charlie Kirk found something out about his organization very shortly before he died and that each day brings her closer to knowing what it was."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I think Charlie found something out about his organization very shortly before he died."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Supports",
+     "v": "C-3542"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify what Kirk learned in the days before September 10, 2025, via staff accounts and his communications."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4715",
+   "header": "**C-4715** Host Shows Maggie Wegner's Instagram Handle",
+   "label": "Host Shows Maggie Wegner's Instagram Handle",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:54:47"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host shows Maggie Wegner's Instagram page, gives the handle as maggswegner and encourages viewers to follow it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "this is her Instagram page. It's maggswegner."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2844"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-388, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10385"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm the handle on Instagram."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4716",
+   "header": "**C-4716** French Channel Comment Reports Cattle Culling for Lumpy Skin Disease",
+   "label": "French Channel Comment Reports Cattle Culling for Lumpy Skin Disease",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:56:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The comment as read says France is culling cattle herds, called cattle depopulation, supposedly to eliminate lumpy skin disease, which affects cattle but is not dangerous to humans, and the writer likens it to sacrifices."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Have you heard about the culling of cattle and herds called cattle depopulation here supposedly to eliminate lumpy skin disease"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1594.1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11120"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check French agriculture ministry announcements on lumpy skin disease culls."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4717",
+   "header": "**C-4717** Host Says Similar Cattle Actions Are Aimed at Taking Farmland",
+   "label": "Host Says Similar Cattle Actions Are Aimed at Taking Farmland",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:57:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says similar things are happening in the United States and that they want all the farmland, which is why farmers and ranchers are fighting the government."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They don't want us to be able to feed our families and that's why the the farmers, the ranchers, they're fighting the government right now."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1594.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11120"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the specific US actions and policies the host means."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4718",
+   "header": "**C-4718** Host Says Poisoned Chicken Feed Story Was Big Pharma, Maybe Purdue",
+   "label": "Host Says Poisoned Chicken Feed Story Was Big Pharma, Maybe Purdue",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:57:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says a story years ago about poisoned chicken feed that stopped hens laying involved a company she thinks may be Purdue, and that big pharma controls what the chickens eat."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "There was also a story years ago about how they had poisoned the chicken feed, which I totally believe that happened and all of these hens were not laying."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1594.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11120"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The host is unsure of the company; find the Daily Wire segment she says she covered."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4719",
+   "header": "**C-4719** Host Says Macron Is Suing People Over Crimes She Alleges From Before Transition",
+   "label": "Host Says Macron Is Suing People Over Crimes She Alleges From Before Transition",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:57:41"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Macron is suing people for knowing the truth about crimes that she committed when she was a man, and calls it dystopian."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Like Macron is suing people for knowing the truth about crimes that she committed when she was a man."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-82, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10270, N-10316"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The statement is the host's allegation about Brigitte Macron; refer to the Delaware filings and any evidence of the alleged crimes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4720",
+   "header": "**C-4720** Host Says Child Sex Trafficking Keeps Coming Up in the Kirk Story",
+   "label": "Host Says Child Sex Trafficking Keeps Coming Up in the Kirk Story",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:57:41"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says, responding to a top English comment, that the story has way too much child sex trafficking in it and that everyone is involved with the charity."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "There are This story has way too much child sex trafficking in it. Charlie Kirk story, me looking into different people."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1595.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask the host to identify the people and charity she means and any record of the alleged connection."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-4723",
+   "header": "**C-4723** Host Says Viewer Tips Are Solving the Mystery of September 10",
+   "label": "Host Says Viewer Tips Are Solving the Mystery of September 10",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:58:32"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says viewers' tips from all over the world, which she calls decentralizing intelligence, are what is solving the mystery of what happened to Charlie Kirk on September 10th."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "is what is solving the mystery of what happened to Charlie Kirk on September 10th."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2845"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Supports",
+     "v": "C-4721"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Catalogue which tips have been independently verified and which findings came from them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 6. Meme Register",
+    ""
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-35",
+   "header": "**M-35** (meme) Rabbit Hole",
+   "label": "(meme) Rabbit Hole",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:20:35"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "there. But enough about that because we're not going to go down that rabbit hole. There's no evidence of foul play ever, according to the media, ev..."
+    },
+    {
+     "k": "Context",
+     "v": "Later reuse of Rabbit Hole in CKA seq 53."
+    },
+    {
+     "k": "Tags",
+     "v": "media_insult, badge, research, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-12",
+   "header": "**M-12** (meme) Decentralized Intelligence Agency",
+   "label": "(meme) Decentralized Intelligence Agency",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:58:32"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "All of us decentralizing intelligence"
+    },
+    {
+     "k": "Context",
+     "v": "Host credits viewers' tips as crowd intelligence."
+    },
+    {
+     "k": "Tags",
+     "v": "dia, tips"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-16",
+   "header": "**M-16** (meme) Mommy Sleuth",
+   "label": "(meme) Mommy Sleuth",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:58:32"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "here I'm a mommy sleuth and I have access to this"
+    },
+    {
+     "k": "Context",
+     "v": "Host voices the tipster archetype as examples of crowd contributions."
+    },
+    {
+     "k": "Tags",
+     "v": "mommy sleuth"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-76",
+   "header": "**M-76** (meme) Genocide Is Always Wrong",
+   "label": "(meme) Genocide Is Always Wrong",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:13:59"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "genocide is always wrong"
+    },
+    {
+     "k": "Context",
+     "v": "Host cites Boreing naming this stance as a reason for her firing."
+    },
+    {
+     "k": "Tags",
+     "v": "genocide, daily wire"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-81",
+   "header": "**M-81** (meme) Bibi Net and Yahoo",
+   "label": "(meme) Bibi Net and Yahoo",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:37:16"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "how about you put out a statement against BBNet and Yahoo"
+    },
+    {
+     "k": "Context",
+     "v": "Host asks why no statement was demanded against Netanyahu."
+    },
+    {
+     "k": "Tags",
+     "v": "netanyahu"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-75",
+   "header": "**M-75** (meme) I'll Say Allegedly",
+   "label": "(meme) I'll Say Allegedly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:47:47"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I'll say allegedly, but I have been writing up this person"
+    },
+    {
+     "k": "Context",
+     "v": "Host hedges her claim about Bowyer's job offer."
+    },
+    {
+     "k": "Tags",
+     "v": "allegedly, hedge"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-51",
+   "header": "**M-51** (meme) Cringe",
+   "label": "(meme) Cringe",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:02:12"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "the Daily Wire's cringe news show"
+    },
+    {
+     "k": "Context",
+     "v": "Host calls the Daily Wire show cringe."
+    },
+    {
+     "k": "Tags",
+     "v": "cringe"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-31",
+   "header": "**M-31** (meme) Buckle Up",
+   "label": "(meme) Buckle Up",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:02:12"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "buckle up, boys and girls"
+    },
+    {
+     "k": "Context",
+     "v": "Host cue before the Daily Wire show segment."
+    },
+    {
+     "k": "Tags",
+     "v": "buckle up"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-18",
+   "header": "**M-18** (meme) Make Him a Sandwich",
+   "label": "(meme) Make Him a Sandwich",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:54:47"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Make Him a Sandwich and Blackout"
+    },
+    {
+     "k": "Context",
+     "v": "Host plugs the autographed book bundle."
+    },
+    {
+     "k": "Tags",
+     "v": "merch, book"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-178",
+   "header": "**M-178** (meme) Left a Gang",
+   "label": "(meme) Left a Gang",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:13:04"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Feels like I left a gang."
+    },
+    {
+     "k": "Context",
+     "v": "Host, via her cousin, compares leaving the Daily Wire to leaving a gang."
+    },
+    {
+     "k": "Tags",
+     "v": "gang, daily wire"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:16:14"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I have been getting jumped out for the last two years"
+    },
+    {
+     "k": "Context",
+     "v": "Host continues the gang image about the last two years."
+    },
+    {
+     "k": "Tags",
+     "v": "gang, jumped out"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-179",
+   "header": "**M-179** (meme) Formidable Friend",
+   "label": "(meme) Formidable Friend",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:39:18"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I'm a very formidable friend"
+    },
+    {
+     "k": "Context",
+     "v": "Host says what she told Boreing in the conference room."
+    },
+    {
+     "k": "Tags",
+     "v": "friend, loyalty"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:40:17"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I am a formidable friend"
+    },
+    {
+     "k": "Context",
+     "v": "Host reuses the line about Charlie and Kanye."
+    },
+    {
+     "k": "Tags",
+     "v": "friend, loyalty"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## VI. Optional Flags",
+    "",
+    "- **Name uncertainty – \"Maggie Wegner\" / \"Maggie Wegner\":** Episode displays spelling \"Wgner\" first via text on screen, then Candace spells it aloud as \"W-A-G-G-S ... W G NE R.\" Spelling anomaly flagged. The name as displayed in the text message screenshot (A-1588.1) reads \"maggswegner.\"",
+    "- **Artifact verbally referenced but not shown – Michael Cormier arsenic poisoning claim:** Host asserts forensic technician Michael Cormier died from \"military-grade arsenic poisoning\" following involvement in Andrew Breitbart's autopsy. No artifact displayed; only host recounting. Requires human verification.",
+    "- **Artifact verbally referenced but not shown – Jamie Weinstein / Michelle Fields husband relationship and alleged co-conspiracy:** Host asserts Weinstein was Fields' husband and co-conspirator with Shapiro in manufacturing the 2016 scandal. No artifact displayed; source described only as \"executives over at Breitbart News.\" Requires human verification.",
+    "- **Artifact verbally referenced but not shown – Charlie Kirk's giftedness school (\"X-Men school\"):** Host references a gifted school in Chicago through which Charlie met the \"oracle\" figure. No artifact displayed; no school identified by name. Requires human verification.",
+    "- **Name uncertainty – \"Charlie Kirk's oracle\":** Identity of the older Jewish man from Chicago is not disclosed. Name preserved exactly as described: \"oracle\"/\"oracle\" figure.",
+    "- **Timestamp uncertainty – Amfest speech date:** The Amfest speech referenced as occurring \"2 days\" before the producer's call is not dated precisely in the episode; year implied by context to be late 2025.",
+    "- **Transcript ambiguity – producer identity:** The Daily Wire producer who recruited Maggie Wegner is described as \"nothing but kind\" and Candace states she is protecting the producer's name. Producer identity remains unknown.",
+    "",
+    "---",
+    "",
+    "## VII. Output Quality Checklist Verification",
+    "",
+    "- [x] Every claim has at least one artifact anchor",
+    "- [x] Every claim has at least one node",
+    "- [x] Every artifact has a Related line",
+    "- [x] Every node has a Related line",
+    "- [x] No episode-wide artifact bundle exists",
+    "- [x] People nodes use the global people ledger (starting N-388)",
+    "- [x] Non-person investigation targets use the 1000 series (N-10385+)",
+    "- [x] No speculative claims were inscribed as evidence-backed claims",
+    "- [x] Names are preserved exactly or uncertainty is noted",
+    "- [x] Formatting is consistent with protocol"
+   ]
+  }
+ ]
+}

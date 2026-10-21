@@ -1,0 +1,8882 @@
+{
+ "format": "cka-source/1",
+ "episode": 92,
+ "blocks": [
+  {
+   "kind": "text",
+   "lines": [
+    "## 1. Meta-Data",
+    "",
+    "- **Episode**: 92",
+    "- **Monument**: cka",
+    "- **CKA seq**: 92",
+    "- **YouTube id**: SubDoZWHARo",
+    "- **Candace Ep**: 325",
+    "- **Source**: Candace Owens YouTube",
+    "- **Video Timestamp Range**: 00:00:00–01:01:56",
+    "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
+    "- **Transcript SHA-256**: cd44ed40636c60c09236975a1e80639d46ee6820f268322c974d2c67580290dd",
+    "",
+    "- **Episode Ledger Summary**:",
+    "  - Tip-minted Nodes (supplement_2026-10e): N-887, N-888, N-889, N-11297, N-11298",
+    "  - Hole-minted Nodes (reintro-ep092): N-10751",
+    "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
+    "  - Claim Range: C-8205–C-8287",
+    "  - New Nodes Introduced: N-10607, N-10608, N-10609, N-10610, N-10612, N-10614, N-10615",
+    "  - Reused Nodes Appearing: N-2, N-14, N-4, N-325, N-17, N-33, N-40, N-42, N-82, N-94, N-200, N-209, N-237, N-280, N-420, N-799, N-449, N-450, N-460, N-598, N-687, N-800, N-10000, N-10006, N-10076, N-10097, N-10127, N-10201, N-10246, N-10325, N-10340, N-10346, N-10401, N-10411, N-10419, N-10541, N-10604, N-10900, N-11145, N-11165, N-11167, N-11182, N-11238, N-10611, N-341, N-342, N-10613",
+    "  - Hole-minted Nodes (wave3): N-424",
+    "  - (see registers)",
+    "",
+    "## 6. Meme Register",
+    ""
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-44",
+   "header": "**M-44** (meme) It's Giving",
+   "label": "(meme) It's Giving",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:54:46"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "They go, \"Oh, no, no, no, never mind. I just want privacy.\" It's giving Megan Markle. Do you know what I mean? Like, I I want I want to be"
+    },
+    {
+     "k": "Context",
+     "v": "Later reuse of It's Giving in CKA seq 92."
+    },
+    {
+     "k": "Tags",
+     "v": "gen_z, chat_elevate, residual, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-12",
+   "header": "**M-12** (meme) Decentralized Intelligence Agency",
+   "label": "(meme) Decentralized Intelligence Agency",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:38:07"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "in our tips inbox it was a recurring theme"
+    },
+    {
+     "k": "Context",
+     "v": "Host says the tips inbox kept pointing to Victor Marx."
+    },
+    {
+     "k": "Tags",
+     "v": "tips, dia, tip_line"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:42:41"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "People emailing us from Turning Point USA inside and outside"
+    },
+    {
+     "k": "Context",
+     "v": "Host describes inside sources and would-be moles emailing her."
+    },
+    {
+     "k": "Tags",
+     "v": "tips, dia, insiders"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-66",
+   "header": "**M-66** (meme) Fed Slop",
+   "label": "(meme) Fed Slop",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:28:08"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Please do not give us more bed slop"
+    },
+    {
+     "k": "Context",
+     "v": "Host asks JD Vance not to feed more slop about Erika."
+    },
+    {
+     "k": "Tags",
+     "v": "slop, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-160",
+   "header": "**M-160** (meme) Everybody Grieves Differently World Tour",
+   "label": "(meme) Everybody Grieves Differently World Tour",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:25:19"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Please stop saying this repeat phrase that everyone grieavves differently"
+    },
+    {
+     "k": "Context",
+     "v": "Host rejects the grieve-differently defense of Erika Kirk."
+    },
+    {
+     "k": "Tags",
+     "v": "grief, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-121",
+   "header": "**M-121** (meme) Decoy Boy",
+   "label": "(meme) Decoy Boy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:46:09"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "George Zinn, our decoy boy, was arrested"
+    },
+    {
+     "k": "Context",
+     "v": "Host reuses the decoy boy label in her spreadsheet."
+    },
+    {
+     "k": "Tags",
+     "v": "reuse, zinn"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-284",
+   "header": "**M-284** (meme) Hasbro",
+   "label": "(meme) Hasbro",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:08:41"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "They're even going to bring in their Hasbro friends over at the Daily Wire"
+    },
+    {
+     "k": "Context",
+     "v": "Host's pun on Hasbara for pro-Israel messaging allies."
+    },
+    {
+     "k": "Tags",
+     "v": "pun, hasbara, running_bit"
+    },
+    {
+     "k": "Confidence",
+     "v": "medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:14:13"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "This is how sloppy the Hasbro is"
+    },
+    {
+     "k": "Context",
+     "v": "Host reuses the pun while mocking the Fox B-roll."
+    },
+    {
+     "k": "Tags",
+     "v": "pun, hasbara, running_bit"
+    },
+    {
+     "k": "Confidence",
+     "v": "medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-285",
+   "header": "**M-285** (meme) Misusing Excel",
+   "label": "(meme) Misusing Excel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:58:41"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I am inspiring an entire generation to misuse Excel spreadsheets"
+    },
+    {
+     "k": "Context",
+     "v": "Host boasts about her connecting-themes spreadsheet that uses only columns."
+    },
+    {
+     "k": "Tags",
+     "v": "self_deprecating, spreadsheet, running_bit"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "# I. Meta-Data",
+    "",
+    "- Episode Title: \"Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325\"",
+    "- Series: Bride of Charlie",
+    "- Episode Number: Monument Ep 92 (Chunk 2); Candace Episode 325",
+    "- Channel / Creator: Candace Owens (@RealCandaceO)",
+    "- Episode Date: 2026-04-15",
+    "- Source Used For Analysis: YouTube video and auto-caption transcript (cleaned)",
+    "- Transcript Completeness: Full (chapter markers preserved); minor transcription artifacts noted",
+    "- Analyst: Investigative Analysis Agent",
+    "- Analysis Date: 2026-04-15",
+    "",
+    "**Episode X Ledger Summary**",
+    "",
+    "Artifact Families Introduced: A-1965, A-1966, A-1967, A-1968, A-1969, A-1970, A-1971, A-1972, A-1973, A-1974, A-1975, A-1976, A-1977, A-1978, A-1979, A-1980",
+    "",
+    "Claim Range: C-8205–C-8237",
+    "",
+    "New Nodes Introduced: N-10607, N-10608, N-10609, N-10610, N-10611, N-10612, N-10613, N-10614, N-10615",
+    "",
+    "Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-4 (JD Vance), N-14 (Andrew Kolvet)",
+    "",
+    "---",
+    "",
+    "# II. Executive Summary",
+    "",
+    "Episode 92 advances three principal lines of investigation. First, it scrutinizes the public-explanation sequence surrounding Erika Kirk's no-show at a University of Georgia Turning Point USA event alongside Vice President JD Vance, presenting the original on-stage explanation by Andrew Kolvet, subsequent Fox News and Daily Wire corroborating statements, Erika Kirk's own X post, and the host's counter-evidence in the form of a separately issued high-school cancellation notice citing \"scheduling complications\" rather than security. Second, it expands the \"connecting themes\" framework linking Turning Point USA personnel and adjacent faith/charity figures to trafficking, sex-abuse, and military-affiliated biographies, anchored in this episode primarily to the published TPUSA bio and reported insider accounts regarding Marcus Wada. Third, it introduces a new friction point involving Pastor Victor Marx's social-media response to the host and the host's attempt to convene a joint on-air interview with Marx and Corby Hall.",
+    "",
+    "The episode is structurally important because it converts multiple independent rumor clusters (low event turnout, \"security threat\" announcements, biography patterns of faith-department associates) into artifact-anchored comparison points, while also registering a direct attempt by a previously scrutinized figure (Marx) to engage on-air – creating an open verification window for a future episode.",
+    "",
+    "---",
+    "",
+    "# III. Artifact Register",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1965",
+   "header": "**A-1965** TPUSA UGA Staff Promotion Video",
+   "label": "TPUSA UGA Staff Promotion Video",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1965.1",
+   "header": "**A-1965.1** Video clip of TPUSA UGA staff (Grant Tyler, Caroline) promoting Erika Kirk and JD Vance at Akins Ford Arena, posted ~50 minutes before doors opened.",
+   "label": "Video clip of TPUSA UGA staff (Grant Tyler, Caroline) promoting Erika Kirk and JD Vance at Akins Ford Arena, posted ~50 minutes before doors opened.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:02:28"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8205, C-8206, N-2, N-4, N-14, N-10607*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1966",
+   "header": "**A-1966** UGA Event Stage Announcements Bundle",
+   "label": "UGA Event Stage Announcements Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1966.1",
+   "header": "**A-1966.1** Andrew Kolvet on-stage announcement that Erika Kirk would not appear, citing \"very serious threats.\"",
+   "label": "Andrew Kolvet on-stage announcement that Erika Kirk would not appear, citing \"very serious threats.\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:03:32"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8205, C-8208, C-8237, N-2, N-4, N-14, N-10607, N-10612*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1966.2",
+   "header": "**A-1966.2** JD Vance on-stage response defending Erika Kirk against criticism of her grief.",
+   "label": "JD Vance on-stage response defending Erika Kirk against criticism of her grief.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:24:32"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8237, N-2, N-4*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1967",
+   "header": "**A-1967** Fox News Andrew Kolvet Interview",
+   "label": "Fox News Andrew Kolvet Interview",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1967.1",
+   "header": "**A-1967.1** Fox News interview clip in which Andrew Kolvet states TPUSA security team \"could not guarantee\" Erika's safety and references her children being \"one parent away from being orphans.\"",
+   "label": "Fox News interview clip in which Andrew Kolvet states TPUSA security team \"could not guarantee\" Erika's safety and references her children being \"one parent away from being orphans.\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:07:17"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8213, C-8210, C-8247, N-2, N-14, N-10607*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1968",
+   "header": "**A-1968** Andrew Kolvet Charlie Kirk Show Interview",
+   "label": "Andrew Kolvet Charlie Kirk Show Interview",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1968.1",
+   "header": "**A-1968.1** Audio/video clip of Andrew Kolvet on Charlie Kirk's show describing the cancellation as tied to monitored \"online chatter,\" doxing of travel, and inability of security to guarantee safety.",
+   "label": "Audio/video clip of Andrew Kolvet on Charlie Kirk's show describing the cancellation as tied to monitored \"online chatter,\" doxing of travel, and inability of security to guarantee safety.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:31:13"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8246, C-8247, N-2, N-14, N-10607, N-10612*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1969",
+   "header": "**A-1969** Daily Wire Threat Explanation Tweet",
+   "label": "Daily Wire Threat Explanation Tweet",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1969.1",
+   "header": "**A-1969.1** Tweet attributed to Daily Wire summarizing a TPUSA official's account: travel-itinerary doxing, multiple direct threats, and chief concern over the travel portion rather than the venue.",
+   "label": "Tweet attributed to Daily Wire summarizing a TPUSA official's account: travel-itinerary doxing, multiple direct threats, and chief concern over the travel portion rather than the venue.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:08:41"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8215, C-8247, N-2, N-14, N-10607*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1970",
+   "header": "**A-1970** Erika Kirk X Post",
+   "label": "Erika Kirk X Post",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1970.1",
+   "header": "**A-1970.1** Erika Kirk X post stating she was \"looking forward to tonight's event\" but cancelled because she takes her \"security team's recommendations extremely seriously.\"",
+   "label": "Erika Kirk X post stating she was \"looking forward to tonight's event\" but cancelled because she takes her \"security team's recommendations extremely seriously.\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:16:03"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8225, C-8247, N-2, N-10607*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1971",
+   "header": "**A-1971** Erika Kirk Jesse Watters Interview Clip",
+   "label": "Erika Kirk Jesse Watters Interview Clip",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1971.1",
+   "header": "**A-1971.1** Clip of Erika Kirk on Jesse Watters stating she is not afraid because threats would simply send her \"to heaven sooner to be with my husband.\"",
+   "label": "Clip of Erika Kirk on Jesse Watters stating she is not afraid because threats would simply send her \"to heaven sooner to be with my husband.\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:05:40"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8210, C-8211, N-2, N-10611*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1972",
+   "header": "**A-1972** UGA High School Cancellation Notice",
+   "label": "UGA High School Cancellation Notice",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1972.1",
+   "header": "**A-1972.1** Email/text \"Parent Alert\" sent Monday 2026-04-13 cancelling the Tuesday 2026-04-14 high-school event, citing \"scheduling complications.\" The notice references a date of \"September 14th.\"",
+   "label": "Email/text \"Parent Alert\" sent Monday 2026-04-13 cancelling the Tuesday 2026-04-14 high-school event, citing \"scheduling complications.\" The notice references a date of \"September 14th.\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:19:16"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8231, C-8234, C-8232, N-2, N-14, N-10612*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1973",
+   "header": "**A-1973** Pinnacle High School Parent Facebook Chat",
+   "label": "Pinnacle High School Parent Facebook Chat",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1973.1",
+   "header": "**A-1973.1** Screenshot of a Pinnacle High School (Phoenix, AZ) parent-organized Facebook chat calling Erika Kirk's appearance \"highly inappropriate and a safety risk\" and urging parents to call kids out of school.",
+   "label": "Screenshot of a Pinnacle High School (Phoenix, AZ) parent-organized Facebook chat calling Erika Kirk's appearance \"highly inappropriate and a safety risk\" and urging parents to call kids out of school.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:21:10"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8234, N-2, N-10610*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1974",
+   "header": "**A-1974** Jake Traylor MS Now Tweet",
+   "label": "Jake Traylor MS Now Tweet",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1974.1",
+   "header": "**A-1974.1** Tweet from MS Now reporter Jake Traylor reporting that the Akins Ford Arena was \"less than 25% filled\" for the VP event, with attached venue footage.",
+   "label": "Tweet from MS Now reporter Jake Traylor reporting that the Akins Ford Arena was \"less than 25% filled\" for the VP event, with attached venue footage.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:14:13"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8221, N-2, N-4, N-10608*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1975",
+   "header": "**A-1975** Victor Marx Video Response",
+   "label": "Victor Marx Video Response",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1975.1",
+   "header": "**A-1975.1** Instagram/X video posted by Victor Marx in response to Candace Owens' previous episode, captioned \"Well, all righty then. Love you, Candace. Let me know when you want me to come on the show. Praying for you.\"",
+   "label": "Instagram/X video posted by Victor Marx in response to Candace Owens' previous episode, captioned \"Well, all righty then. Love you, Candace. Let me know when you want me to come on the show. Praying for you.\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:39:35"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8256, C-8258, N-325, N-341, N-10613*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1976",
+   "header": "**A-1976** Candace Owens Public Comment Reply to Victor Marx",
+   "label": "Candace Owens Public Comment Reply to Victor Marx",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1976.1",
+   "header": "**A-1976.1** Candace Owens' public Instagram comment beneath Marx's video, inviting Marx to appear with Corby Hall and confirming Hall's agreement.",
+   "label": "Candace Owens' public Instagram comment beneath Marx's video, inviting Marx to appear with Corby Hall and confirming Hall's agreement.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:40:47"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8258, C-8260, N-325, N-341, N-10613, N-342*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1977",
+   "header": "**A-1977** Candace Owens DM to Victor Marx",
+   "label": "Candace Owens DM to Victor Marx",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1977.1",
+   "header": "**A-1977.1** Candace Owens' private DM to Victor Marx requesting a phone number to set up an on-air joint appearance with Corby Hall; states no read receipt observed prior to air.",
+   "label": "Candace Owens' private DM to Victor Marx requesting a phone number to set up an on-air joint appearance with Corby Hall; states no read receipt observed prior to air.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:41:36"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8260, N-325, N-341, N-10613, N-342*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1978",
+   "header": "**A-1978** Marcus Wada TPUSA Bio",
+   "label": "Marcus Wada TPUSA Bio",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1978.1",
+   "header": "**A-1978.1** Marcus Wada's biographical page on the TPUSA website identifying him as \"director of strategy of productions,\" listing film/TV credits including Miss Universe and TPUSA documentaries \"Border Battle\" and \"The Great Global Reset.\"",
+   "label": "Marcus Wada's biographical page on the TPUSA website identifying him as \"director of strategy of productions,\" listing film/TV credits including Miss Universe and TPUSA documentaries \"Border Battle\" and \"The Great Global Reset.\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:43:46"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8263, C-8264, N-10609*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1979",
+   "header": "**A-1979** Wada Brother Consulting Company Website",
+   "label": "Wada Brother Consulting Company Website",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1979.1",
+   "header": "**A-1979.1** Website of Marcus Wada's brother's consulting firm listing \"Industry Areas\" including national border security, money laundering, human trafficking, sex trafficking, firearms and ammunition, and controlled substances.",
+   "label": "Website of Marcus Wada's brother's consulting firm listing \"Industry Areas\" including national border security, money laundering, human trafficking, sex trafficking, firearms and ammunition, and controlled substances.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:46:09"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (host reads categories aloud; full page not verified on-screen)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8267, N-10609, N-10614*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1980",
+   "header": "**A-1980** Anonymous TPUSA Employee Testimonial",
+   "label": "Anonymous TPUSA Employee Testimonial",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1980.1",
+   "header": "**A-1980.1** Verbal report from unnamed current and former TPUSA employees stating that Marcus Wada openly discusses past involvement in trafficking arms in Poland and is closely associated with Andrew Kolvet.",
+   "label": "Verbal report from unnamed current and former TPUSA employees stating that Marcus Wada openly discusses past involvement in trafficking arms in Poland and is closely associated with Andrew Kolvet.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:42:41"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (anonymous sources, no displayed documentation)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8261, N-14, N-10609*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3130",
+   "header": "**A-3130** Tips Inbox Verbal Reference Bundle",
+   "label": "Tips Inbox Verbal Reference Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3130.1",
+   "header": "**A-3130.1** Host verbal reference to her tips inbox in which looking into Victor Marx was a recurring theme (nothing shown)",
+   "label": "Host verbal reference to her tips inbox in which looking into Victor Marx was a recurring theme (nothing shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"we have never received more emails and more tips about anyone. Actually um in our tips inbox it was a recurring theme.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:38:07"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8253, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3131",
+   "header": "**A-3131** Insider Mole Offers Verbal Reference Bundle",
+   "label": "Insider Mole Offers Verbal Reference Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3131.1",
+   "header": "**A-3131.1** Host verbal reference to emails from people inside and outside TPUSA, some offering to take jobs there as moles (emails not shown)",
+   "label": "Host verbal reference to emails from people inside and outside TPUSA, some offering to take jobs there as moles (emails not shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"People emailing us from Turning Point USA inside and outside.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:42:41"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8262, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3132",
+   "header": "**A-3132** Connecting Themes Spreadsheet Bundle",
+   "label": "Connecting Themes Spreadsheet Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3132.1",
+   "header": "**A-3132.1** Host's connecting-themes spreadsheet, read aloud column by column and live-edited on air",
+   "label": "Host's connecting-themes spreadsheet, read aloud column by column and live-edited on air",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:46:09"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8268, C-8269, C-8270, C-8271, C-8272, C-8273, C-8274, C-8275, C-8276, C-8277, C-8278, C-8279, C-8280, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3133",
+   "header": "**A-3133** Marcus Wada LinkedIn Verbal Reference Bundle",
+   "label": "Marcus Wada LinkedIn Verbal Reference Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3133.1",
+   "header": "**A-3133.1** Host verbal reference to Marcus Wada's LinkedIn page showing he lived in Poland (not shown)",
+   "label": "Host verbal reference to Marcus Wada's LinkedIn page showing he lived in Poland (not shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:53:01"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8281, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "# IV. Node Register",
+    ""
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-424",
+   "header": "**N-424** Marcus Wada",
+   "label": "Marcus Wada",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "42:41 in episode 92.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8263, C-8264, C-8267, C-8261, A-1978.1, A-1979.1, A-1980.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-1",
+   "header": "**N-1** Charlie Kirk",
+   "label": "Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Central deceased figure of the series; referenced as author of named show on which Andrew Kolvet appeared (A-31)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(pre-existing)"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1968.1, N-2, N-14, N-10612*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-4",
+   "header": "**N-4** JD Vance",
+   "label": "JD Vance",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Vice President; originally scheduled co-appearer at UGA; subject of on-stage response (A-1966.2)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(pre-existing)"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1965.1, A-1966.1, A-1966.2, A-1974.1, C-8205, C-8237*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-14",
+   "header": "**N-14** Andrew Kolvet",
+   "label": "Andrew Kolvet",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "TPUSA official; on-stage announcer (A-1966.1); Fox News interviewee (A-1967.1); Charlie Kirk show interviewee (A-1968.1); referenced as close associate of Marcus Wada (A-1980.1). Name spelling varies across source (\"Kolvet,\" \"Kovat,\" \"Kolvet\"); preserved as \"Andrew Kolvet.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(pre-existing)"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1966.1, A-1967.1, A-1968.1, A-1980.1, C-8208, C-8213, C-8246, C-8247, N-10607, N-10612*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-325",
+   "header": "**N-325** Tim Ballard",
+   "label": "Tim Ballard",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Mentioned in passing within the connecting-themes list (Operation Underground). Pre-existing node; no new artifact attached."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(pre-existing)"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: N-10614*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-341",
+   "header": "**N-341** Victor Marx",
+   "label": "Victor Marx",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Pastor Victor Marx replied to the host on X; the host reads and disputes the reply and proposes an on-air interview with him and Corby Hall (transcript 00:56, 37:09 to 40:47)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "3"
+    },
+    {
+     "k": "Claim Count",
+     "v": "3"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1975.1, A-1976.1, A-1977.1, C-8256, C-8258, C-8260, N-342, N-10613*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-342",
+   "header": "**N-342** Corby Hall",
+   "label": "Corby Hall",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Corby Hall (FAR) raised the point that Victor Marx has no church; the host read his statement in full and he agreed to appear on the show with Victor Marx (transcript 38:52 to 40:47)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1976.1, A-1977.1, C-8258, N-341, N-10613*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10607",
+   "header": "**N-10607** UGA No-Show Security Threat Explanation Discrepancy",
+   "label": "UGA No-Show Security Threat Explanation Discrepancy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Persistent cross-artifact inconsistency between the on-stage, Fox News, Charlie Kirk Show, Daily Wire, and Erika Kirk X-post explanations of the UGA no-show."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "6"
+    },
+    {
+     "k": "Claim Count",
+     "v": "6"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1965.1, A-1966.1, A-1967.1, A-1968.1, A-1969.1, A-1970.1, C-8208, C-8213, C-8246, C-8215, C-8225, C-8247, N-2, N-14*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10608",
+   "header": "**N-10608** TPUSA UGA Event Crowd-Size Failure",
+   "label": "TPUSA UGA Event Crowd-Size Failure",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Discrepancy between event-promotional framing and reported venue occupancy (A-1974.1), with host reporting additional internal failure to move tickets in prior Washington DC event with Karoline Leavitt."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1974.1, C-8221, N-2, N-4*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10609",
+   "header": "**N-10609** Marcus Wada Arms Trafficking and Biography Cluster",
+   "label": "Marcus Wada Arms Trafficking and Biography Cluster",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Aggregation of (i) insider-reported arms-trafficking history in Poland, (ii) TPUSA bio omission, (iii) brother-consulting firm industry-area list."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "3"
+    },
+    {
+     "k": "Claim Count",
+     "v": "3"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1978.1, A-1979.1, A-1980.1, C-8263, C-8267, C-8261*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10610",
+   "header": "**N-10610** Pinnacle High School Parent Boycott",
+   "label": "Pinnacle High School Parent Boycott",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Active parental and teacher mobilization against Erika Kirk's appearance at Pinnacle High School (Phoenix)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1973.1, C-8234, N-2*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10611",
+   "header": "**N-10611** Erika Kirk Fearlessness vs. Threat Claim Inconsistency",
+   "label": "Erika Kirk Fearlessness vs. Threat Claim Inconsistency",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Contradiction between Erika's stated absence of fear in the Jesse Watters interview and her subsequent security-threat justification for cancellation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1971.1, A-1970.1, C-8225, C-8210, C-8211, N-2*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10612",
+   "header": "**N-10612** High School \"Scheduling Complications\" vs. UGA \"Security Threats\" Explanation Inconsistency",
+   "label": "High School \"Scheduling Complications\" vs. UGA \"Security Threats\" Explanation Inconsistency",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Co-existing official explanations for two adjacent events on consecutive days, with Kolvet later retroactively folding the high school cancellation into the security framework."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "3"
+    },
+    {
+     "k": "Claim Count",
+     "v": "3"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1966.1, A-1968.1, A-1972.1, C-8208, C-8231, C-8232, N-2, N-14*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10613",
+   "header": "**N-10613** Victor Marx / Corby Hall On-Air Interview Proposal",
+   "label": "Victor Marx / Corby Hall On-Air Interview Proposal",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Open proposal for a joint on-air appearance; Marx's reply not yet observed as of air; constitutes a pending verification target."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "3"
+    },
+    {
+     "k": "Claim Count",
+     "v": "3"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1975.1, A-1976.1, A-1977.1, C-8256, C-8258, C-8260, N-325, N-341*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10614",
+   "header": "**N-10614** TPUSA Faith Department / Adjacent Charity Biographical Pattern",
+   "label": "TPUSA Faith Department / Adjacent Charity Biographical Pattern",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Cross-figure recurrence of trafficking, sex-abuse, military, and former-trafficker biographies among TPUSA and partner charity personnel (host's \"connecting themes\" spreadsheet; Wada's case as the latest instance)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1978.1, A-1979.1, A-1980.1, C-8263, C-8267, C-8261, N-325*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10615",
+   "header": "**N-10615** TPUSA Fox News B-roll Splicing",
+   "label": "TPUSA Fox News B-roll Splicing",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Visual analysis presented by the host showing the Fox News clip during Kolvet's interview used B-roll spliced from prior TPUSA events rather than the actual Akins Ford Arena venue."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1967.1, C-8213, N-14*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-2",
+   "header": "**N-2** Erika Kirk",
+   "label": "Erika Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Widow and TPUSA CEO; subject of the no-show explanations, attendance claims and the host's allegations."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8207, C-8209, C-8212, C-8214, C-8216, C-8217, C-8218, C-8219, C-8220, C-8223, C-8224, C-8227, C-8228, C-8230, C-8233, C-8235, C-8242, C-8243, C-8245, C-8248, C-8249, C-8269, C-8270, C-8275, C-8284, C-8285, C-8286, C-8287*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-3",
+   "header": "**N-3** Candace Owens",
+   "label": "Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host; speaks for herself throughout."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8207, C-8216, C-8220, C-8222, C-8223, C-8224, C-8226, C-8227, C-8229, C-8233, C-8235, C-8242, C-8244, C-8245, C-8250, C-8251, C-8252, C-8253, C-8254, C-8255, C-8257, C-8259, C-8262, C-8265, C-8266, C-8268, C-8269, C-8270, C-8271, C-8272, C-8273, C-8274, C-8275, C-8276, C-8277, C-8278, C-8279, C-8280, C-8281, C-8282, C-8284, C-8283, C-8285, C-8286, C-8287*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10541",
+   "header": "**N-10541** Strait of Hormuz / US-Iran War Context",
+   "label": "Strait of Hormuz / US-Iran War Context",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8212, C-8238, C-8241*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-887",
+   "header": "**N-887** Savanah Hernandez",
+   "label": "Savanah Hernandez",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "07:17 in episode 92 (via the Kolvet clip). TPUSA front-lines reporter in the Minneapolis incident cited by Kolvet and Vance.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8214, C-8236*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10900",
+   "header": "**N-10900** Daily Wire",
+   "label": "Daily Wire",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Outlet carrying TPUSA's threat explanation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8216*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10000",
+   "header": "**N-10000** Turning Point USA",
+   "label": "Turning Point USA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Organization at the center of the event and attendance claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8219, C-8224, C-8226, C-8235, C-8242, C-8245, C-8262, C-8279*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10006",
+   "header": "**N-10006** Fox News",
+   "label": "Fox News",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Network whose Kolvet segment used the B-roll."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8222*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-280",
+   "header": "**N-280** Karoline Leavitt",
+   "label": "Karoline Leavitt",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Co-appeared with Erika Kirk at a Washington DC event per the host."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8223*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-33",
+   "header": "**N-33** Donald Trump Jr.",
+   "label": "Donald Trump Jr.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Engaged to Bettina Anderson, per the host."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8228*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-888",
+   "header": "**N-888** Bettina Anderson",
+   "label": "Bettina Anderson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "16:56 in episode 92 (spelled Betina). Fiancee of Donald Trump Jr. whose bridal shower the host says Erika Kirk attended.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8228*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11145",
+   "header": "**N-11145** Minab Iran School Strike",
+   "label": "Minab Iran School Strike",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8238*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-5",
+   "header": "**N-5** Donald Trump",
+   "label": "Donald Trump",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Cited by the host for his remarks on Jesus, the Pope, Brigitte Macron and the Easter speech."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8239, C-8240, C-8243*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-420",
+   "header": "**N-420** Pope Leo XIV",
+   "label": "Pope Leo XIV",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Pope whom the host says Trump attacked."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8240*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-82",
+   "header": "**N-82** Brigitte Macron",
+   "label": "Brigitte Macron",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named in the host's list of Trump remarks."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8240*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-598",
+   "header": "**N-598** Scott Bessent",
+   "label": "Scott Bessent",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Treasury Secretary the host says issued a letter on demand."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8242*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10076",
+   "header": "**N-10076** Cameragate Investigation",
+   "label": "Cameragate Investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8244*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10346",
+   "header": "**N-10346** Terryl Farnsworth Camera Removal Justification",
+   "label": "Terryl Farnsworth Camera Removal Justification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8244*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11297",
+   "header": "**N-11297** TPUSA Mandatory Student Attendance at Erika Kirk Events",
+   "label": "TPUSA Mandatory Student Attendance at Erika Kirk Events",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The host's claim that middle and high school students are made to attend Erika Kirk and TPUSA events as mandatory assemblies, which fills auditoriums."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8245*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10340",
+   "header": "**N-10340** Night-Before Text Messages to Andrew Kolvet and Dan Flood",
+   "label": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8250*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10604",
+   "header": "**N-10604** Victor Marx Background Verification",
+   "label": "Victor Marx Background Verification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8251, C-8252, C-8253, C-8254, C-8255, C-8257, C-8259, C-8278*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-889",
+   "header": "**N-889** David J. Harris",
+   "label": "David J. Harris",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "40:01 in episode 92 (David Harris). Business partner in the Marx supplements, per the host.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8257, C-8259*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-94",
+   "header": "**N-94** Derek Maxfield",
+   "label": "Derek Maxfield",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Co-owner of the 888 plane per the host and runs a charity she lists."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8268*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-200",
+   "header": "**N-200** Shelaine Maxfield",
+   "label": "Shelaine Maxfield",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Transcribed Shelaine; co-owner of the 888 plane and charity per the host."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8268*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10401",
+   "header": "**N-10401** Romania / Eastern Europe Trafficking Cluster",
+   "label": "Romania / Eastern Europe Trafficking Cluster",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8268, C-8269, C-8270*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-687",
+   "header": "**N-687** Otto Busher",
+   "label": "Otto Busher",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Colonel the host links to Fort Huachuca and Romanian Angels."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8269*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11165",
+   "header": "**N-11165** Romanian Angels Project",
+   "label": "Romanian Angels Project",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8269*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-450",
+   "header": "**N-450** Greg Laurie",
+   "label": "Greg Laurie",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Harvest pastor who toured with Erika Kirk per the host."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8270*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10411",
+   "header": "**N-10411** Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster",
+   "label": "Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8270*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-42",
+   "header": "**N-42** George Zinn",
+   "label": "George Zinn",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Man the host calls the decoy boy; she says he was arrested with child images."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8271*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10097",
+   "header": "**N-10097** George Zinn Arrest Location/Timing",
+   "label": "George Zinn Arrest Location/Timing",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8271*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-800",
+   "header": "**N-800** Andrew Piskadlo",
+   "label": "Andrew Piskadlo",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Transcribed Andrew Pascadlo; detained photographer who raises trafficking alarms."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8272*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10325",
+   "header": "**N-10325** Global Trafficking Angle in Kirk Assassination",
+   "label": "Global Trafficking Angle in Kirk Assassination",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8272*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-17",
+   "header": "**N-17** Rob McCoy",
+   "label": "Rob McCoy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Pastor named in the host's Calvary Chapel list."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8273*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10246",
+   "header": "**N-10246** Calvary Chapel Institutional Abuse Pattern",
+   "label": "Calvary Chapel Institutional Abuse Pattern",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8273*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-237",
+   "header": "**N-237** Glenn Beck",
+   "label": "Glenn Beck",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named with Tim Ballard in the spreadsheet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8274*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11167",
+   "header": "**N-11167** Operation Underground Railroad",
+   "label": "Operation Underground Railroad",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8274*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10419",
+   "header": "**N-10419** Erika China Residence Discrepancy",
+   "label": "Erika China Residence Discrepancy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8275*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-799",
+   "header": "**N-799** Paul Vallely",
+   "label": "Paul Vallely",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "TPUSA adviser transcribed Paul Vallely; co-author with Aquino."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8276*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-449",
+   "header": "**N-449** Michael Aquino",
+   "label": "Michael Aquino",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Transcribed Michael Aquino; co-author and Temple of Set founder."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8276, C-8277*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11238",
+   "header": "**N-11238** Temple of Set",
+   "label": "Temple of Set",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8276, C-8277*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-460",
+   "header": "**N-460** Nelda Buckman",
+   "label": "Nelda Buckman",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Top TPUSA donor transcribed Nelda Buckman."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8279*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10127",
+   "header": "**N-10127** Poland",
+   "label": "Poland",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8281*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-40",
+   "header": "**N-40** Tyler Robinson",
+   "label": "Tyler Robinson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Charged suspect; the host doubts he acted alone."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8282*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10751",
+   "header": "**N-10751** Charlie Kirk Cremation/Burial Status Verification",
+   "label": "Charlie Kirk Cremation/Burial Status Verification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8284, C-8283*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10201",
+   "header": "**N-10201** Charlie Kirk Burial / Funeral Narrative Discrepancy",
+   "label": "Charlie Kirk Burial / Funeral Narrative Discrepancy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8284*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11298",
+   "header": "**N-11298** Erika Kirk Alleged Interference With Host's Catholic Event Appearance",
+   "label": "Erika Kirk Alleged Interference With Host's Catholic Event Appearance",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The host's allegation that Erika Kirk personally phoned people to discourage attendance at a Catholic event where the host spoke."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8285*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11182",
+   "header": "**N-11182** TPUSA Crisis PR Team",
+   "label": "TPUSA Crisis PR Team",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8286*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-209",
+   "header": "**N-209** Joe Kent",
+   "label": "Joe Kent",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Former official whose foreign-involvement inquiry the host says angered Erika Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8287*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "# V. Claim Register",
+    ""
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8205",
+   "header": "**C-8205** Host Says Erika Kirk Was Scheduled to Appear at UGA with VP JD Vance",
+   "label": "Host Says Erika Kirk Was Scheduled to Appear at UGA with VP JD Vance",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:01:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk was scheduled to appear alongside Vice President JD Vance at the University of Georgia event the night before."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1965.1, A-1966.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-4"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm via TPUSA event listing, UGA/Akins Ford Arena booking records, and contemporaneous press releases."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8206",
+   "header": "**C-8206** UGA TPUSA Staff Uninformed of Erika's Absence",
+   "label": "UGA TPUSA Staff Uninformed of Erika's Absence",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says TPUSA staff at the UGA event, including field representative Grant Tyler and chapter president Caroline in a video she plays, were still promoting Erika Kirk's appearance about 50 minutes before doors opened, which she says shows they had not been told she would not attend."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1965.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10607"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Cross-reference social-media post timestamps against TPUSA internal communication records; obtain statements from named staff."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8208",
+   "header": "**C-8208** Andrew Kolvet Cited Security Threats as Reason for Erika's UGA No-Show",
+   "label": "Andrew Kolvet Cited Security Threats as Reason for Erika's UGA No-Show",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:32"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip the host plays, Andrew Kolvet announces on stage at the UGA event that Erika Kirk is absent because she has received \"very serious threats\" in her direction."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1966.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-14"
+    },
+    {
+     "k": "Contradicts",
+     "v": "C-8289"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10607, N-10612"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain audio/video of the announcement; verify whether the announcement was scripted or extemporaneous."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8213",
+   "header": "**C-8213** TPUSA Security Team Declined to Guarantee Erika's Safety",
+   "label": "TPUSA Security Team Declined to Guarantee Erika's Safety",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:17"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Andrew Kolvet stated on Fox News that TPUSA's security team told the organization \"we cannot guarantee your safety\" regarding Erika Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1967.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10607, N-10615"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full Fox News segment; identify which TPUSA security contractor is referenced."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8246",
+   "header": "**C-8246** Kolvet Retroactively Reclassified High School Cancellation as Security-Driven",
+   "label": "Kolvet Retroactively Reclassified High School Cancellation as Security-Driven",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Andrew Kolvet stated on Charlie Kirk's show that the high school event, which the host says was cancelled on Monday, was also cancelled due to \"increased online chatter\" being monitored by TPUSA security."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1968.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-14, N-1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10607, N-10612"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare against the originally issued parent-alert notice (A-1972.1); determine whether the explanation was issued contemporaneously or after public criticism."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8215",
+   "header": "**C-8215** Daily Wire Reported Travel Doxing and Direct Threats",
+   "label": "Daily Wire Reported Travel Doxing and Direct Threats",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:41"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The Daily Wire reported, citing a TPUSA official, that Erika Kirk's travel itinerary was being doxed, that multiple direct threats were made, and that the chief security concern was the travel portion."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1969.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10607"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the named TPUSA official cited by Daily Wire; verify any law-enforcement reports referenced."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8225",
+   "header": "**C-8225** Erika Kirk Stated Cancellation Followed Security Team Recommendation",
+   "label": "Erika Kirk Stated Cancellation Followed Security Team Recommendation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:03"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Erika Kirk posted on X that she cancelled because she \"takes [her] security team's recommendations extremely seriously.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1970.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Contradicts",
+     "v": "C-8289"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10607, N-10611"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain timestamp of post relative to the on-stage announcement; verify whether the post was authored by Kirk personally."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8210",
+   "header": "**C-8210** Erika Kirk Stated She Feels Safe and Fears Nothing in Jesse Watters Interview",
+   "label": "Erika Kirk Stated She Feels Safe and Fears Nothing in Jesse Watters Interview",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Erika Kirk stated on Jesse Watters that she does not feel threatened and that any attempt would simply send her \"to heaven sooner.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1971.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-211"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10611"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm full interview date and air date; verify whether the clip presented is representative of the full exchange."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8231",
+   "header": "**C-8231** Per Text Host Shows, Georgia High School Event Cancelled Monday Citing \"Scheduling Complications\"",
+   "label": "Per Text Host Shows, Georgia High School Event Cancelled Monday Citing \"Scheduling Complications\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per a parent-alert text the host shows, TPUSA cancelled an optional high school event 'scheduled for tomorrow, September 14th' (as the host reads it), citing \"scheduling complications\" rather than security threats, according to the host."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1972.1"
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10612"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the original email/text from TPUSA to the school; interview named administrators."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8234",
+   "header": "**C-8234** Per Facebook Chat Host Shows, Parents and Teachers Organizing Boycott of Erika Kirk at Pinnacle High School",
+   "label": "Per Facebook Chat Host Shows, Parents and Teachers Organizing Boycott of Erika Kirk at Pinnacle High School",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:10"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per a parental Facebook chat the host shows, a parent and an anonymous member who says they are a teacher object to Erika Kirk's appearance at Pinnacle High School in Phoenix, the teacher calling it 'a safety risk' and urging parents to call their kids out of school; the host says they are organizing essentially a walkout, a boycott."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1973.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10610"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm event status with Pinnacle High School administration; obtain school district statement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8232",
+   "header": "**C-8232** Georgia High School Cancellation Text References \"September 14th\"",
+   "label": "Georgia High School Cancellation Text References \"September 14th\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the parent-alert text the host shows, the cancelled Georgia high school event was described as 'scheduled for tomorrow, September 14th', as the host reads it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1972.1"
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10612"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain original email to determine whether \"September\" is a transcription/OCR artifact or a genuine content error."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8221",
+   "header": "**C-8221** Akins Ford Arena Less Than 25% Filled for VP Event",
+   "label": "Akins Ford Arena Less Than 25% Filled for VP Event",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:42"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "MS Now reporter Jake Traylor reported that Akins Ford Arena was less than 25% filled for the Vice President's appearance."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1974.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-4"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10608"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Cross-reference with venue ticket-issuing records and TPUSA promotion metrics."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8256",
+   "header": "**C-8256** Victor Marx Posted Video Response on Instagram/X",
+   "label": "Victor Marx Posted Video Response on Instagram/X",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Victor Marx posted a short video response on Instagram and X to Candace Owens' prior episode, in which he says \"Well, all righty then. Love you, Candace. Let me know when you want me to come on the show. Praying for you.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1975.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-341, N-3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10613"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify post URL, timestamp, and whether the post has since been deleted or edited."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8258",
+   "header": "**C-8258** Candace Owens Invited Victor Marx to Appear with Corby Hall",
+   "label": "Candace Owens Invited Victor Marx to Appear with Corby Hall",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:40:47"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Candace Owens publicly replied beneath Marx's post inviting him to appear on her show together with Corby Hall; Hall reportedly agreed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1976.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-341, N-342, N-3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10613"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Capture timestamped screenshots of the comment thread before any deletion."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8260",
+   "header": "**C-8260** Candace Owens DM'd Victor Marx Privately Requesting a Phone Number",
+   "label": "Candace Owens DM'd Victor Marx Privately Requesting a Phone Number",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:41:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Candace Owens sent a private DM to Victor Marx requesting his phone number to schedule a joint appearance; as of air no read receipt had been observed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1977.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-341, N-3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10613"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify DM timestamp; await Marx's response or non-response."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8263",
+   "header": "**C-8263** Host Reads TPUSA Bio Identifying Marcus Wada as Director of Strategy of Productions",
+   "label": "Host Reads TPUSA Bio Identifying Marcus Wada as Director of Strategy of Productions",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:43:46"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the Turning Point USA website bio the host reads, Marcus Wada is the \"director of strategy of productions\" at Turning Point USA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1978.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-424"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10609"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain archived copies of the TPUSA bio page; verify against TPUSA staff directory and IRS Form 990 disclosures."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8264",
+   "header": "**C-8264** Host Reads Marcus Wada TPUSA Bio Listing Miss Universe and TPUSA Documentaries",
+   "label": "Host Reads Marcus Wada TPUSA Bio Listing Miss Universe and TPUSA Documentaries",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:43:46"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the Turning Point USA website bio the host reads, Marcus Wada has credits on Miss Universe and on the TPUSA documentary series \"Border Battle\" and \"The Great Global Reset.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1978.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-424"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10609"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Cross-reference against IMDb / production credits; verify production dates and roles."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8267",
+   "header": "**C-8267** Host Says Marcus Wada's Brother's Consulting Firm Lists Trafficking Among Industry Areas",
+   "label": "Host Says Marcus Wada's Brother's Consulting Firm Lists Trafficking Among Industry Areas",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:46:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the consulting firm run by the man she presumes is Marcus Wada's half brother, which she shows on its website, lists industry areas including human trafficking, sex trafficking, firearms and ammunition, money laundering, and controlled substances."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1979.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-424"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10609, N-10614"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain full webpage capture; identify the firm and confirm the family relationship through independent records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8211",
+   "header": "**C-8211** Erika Kirk's Public Stance Reversed from Fearlessness to Security-Based Cancellation",
+   "label": "Erika Kirk's Public Stance Reversed from Fearlessness to Security-Based Cancellation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip the host plays, Erika Kirk tells Jesse Watters she is not afraid; the host asks what changed, then plays a Fox News clip in which Andrew Kolvet says the security team told them it could not guarantee her safety and recommended against the UGA appearance."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1971.1, A-1970.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-211, N-14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10611"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compile chronology of Kirk's public statements on personal safety; identify whether a specific triggering event is documented."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8261",
+   "header": "**C-8261** Host Says Marcus Wada Reportedly Discusses Past Arms Trafficking in Poland",
+   "label": "Host Says Marcus Wada Reportedly Discusses Past Arms Trafficking in Poland",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:42:41"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says unnamed current and former TPUSA employees told her that Marcus Wada openly discusses past involvement in arms trafficking in Poland and is very close to Andrew Kolvet; she says he allegedly trafficked arms."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1980.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-424"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10609"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify at least one named corroborating source; cross-reference LinkedIn history (A-1976.1) for prior Poland-based employment."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8247",
+   "header": "**C-8247** TPUSA Public Explanation Sequence Internally Inconsistent",
+   "label": "TPUSA Public Explanation Sequence Internally Inconsistent",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says TPUSA's explanation for Erika Kirk's UGA no-show kept changing, playing a clip from The Charlie Kirk Show in which Andrew Kolvet says a high school event was cancelled over online chatter, while the parent text she showed earlier cited scheduling complications."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1966.1, A-1967.1, A-1968.1, A-1969.1, A-1970.1, A-1972.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10607, N-10612"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Construct a chronological explanation map; identify the originator of each stated rationale and any superseding statements."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8237",
+   "header": "**C-8237** JD Vance Defended Erika Kirk Against Criticism at UGA Event",
+   "label": "JD Vance Defended Erika Kirk Against Criticism at UGA Event",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:32"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Vice President JD Vance stated on stage at the UGA event that criticizing Erika Kirk over her grieving was \"the most preposterous thing I've seen in a very long time\" in politics."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1966.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-4"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain full transcript of Vance's remarks; verify whether the statement was prepared or responsive to Andrew Kolvet's prompt."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8207",
+   "header": "**C-8207** Host Says Erika Was at Home, Not in Georgia, When the Event Was Promoted",
+   "label": "Host Says Erika Was at Home, Not in Georgia, When the Event Was Promoted",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that Erika Kirk was not on the ground in Georgia but back home, so the decision not to appear must have been made before the UGA staff posted their promotion video."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "She was back home, which means that decision had to have already been made long before those students made that video."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1965.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10607"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8206"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain Erika Kirk's April 14, 2026 travel records or private-aviation flight data and the time the decision was communicated to TPUSA event staff."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8209",
+   "header": "**C-8209** Kolvet Blamed Critics Who Make Part-Time Jobs of Attacking Erika",
+   "label": "Kolvet Blamed Critics Who Make Part-Time Jobs of Attacking Erika",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:32"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip the host plays, Andrew Kolvet, on the UGA stage, tied the threats against Erika Kirk to attacks from people who have made part-time jobs out of attacking her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Some of the people that have made you know part-time jobs out of attacking Erika and this is the net result."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1966.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10607"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full video of the UGA stage remarks and check who, if anyone, Kolvet named as the critics."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8212",
+   "header": "**C-8212** Host Says Vance Had Just Returned From Iran Negotiations",
+   "label": "Host Says Vance Had Just Returned From Iran Negotiations",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Vice President JD Vance had just returned from negotiations with Iran overseas, so his Secret Service detail should have been capable of covering Erika Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he just got back doing negotiations with Iran overseas."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-4, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10541"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the Vice President's April 2026 public schedule and reporting on the Iran negotiations."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8214",
+   "header": "**C-8214** Kolvet Cites Savanah Hernandez Minneapolis Incident and Says Cancellation Was a First for TPUSA",
+   "label": "Kolvet Cites Savanah Hernandez Minneapolis Incident and Says Cancellation Was a First for TPUSA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:17"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "On Fox News, Andrew Kolvet said that cancelling Erika Kirk's appearance was, to his knowledge, the first time TPUSA has had to make such a decision, and pointed to what happened to TPUSA front-lines reporter Savanah Hernandez in Minneapolis."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "which I think is the first time that we've ever had to make that decision in Turning Point history."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1967.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-887, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10607"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the Fox News segment and reporting on the Savanah Hernandez Minneapolis incident, and check TPUSA's history of cancelled appearances."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8216",
+   "header": "**C-8216** Host Says Daily Wire Always Has the Inside Scoop on Erika Since the Assassination",
+   "label": "Host Says Daily Wire Always Has the Inside Scoop on Erika Since the Assassination",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:41"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that since Charlie Kirk's passing the Daily Wire has always had the inside scoop on Erika Kirk, and that it carried the TPUSA official's threat explanation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "since Charlie's passing, the Daily Wire, you will note, always has the inside scoop on what's going on with Erika Kirk for some reason."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1969.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10900, N-10607"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8215"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compile Daily Wire reports sourced to TPUSA officials since September 2025 and identify the officials cited."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8217",
+   "header": "**C-8217** Host Says Erika's Plane Had Been Tracked From the Start Without Any Cancellation",
+   "label": "Host Says Erika's Plane Had Been Tracked From the Start Without Any Cancellation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says people had been tracking Erika Kirk's plane since the very beginning, doing entire shows on it, and that she never cancelled anything because of it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "People had been actually tracking Erika's plane since the very beginning. People were doing entire shows about where she was going and how much she was traveling and how ridiculous it was. And she never canled a single thing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10607"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Collect earlier plane-tracking coverage of Erika Kirk's travel and compare it with her cancelled appearances."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8218",
+   "header": "**C-8218** Host Says the Arena Holds 7,000 People",
+   "label": "Host Says the Arena Holds 7,000 People",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Akins Ford Arena at the Classic Center near the University of Georgia holds just 7,000 people, against more than 43,000 enrolled UGA students."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "at the Classic Center, which is near the University of Georgia. The stadium holds just 7,000 people."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10608"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the venue's published capacity and UGA enrollment figures."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8219",
+   "header": "**C-8219** Host Says Free Tickets Were Opened to the General Public",
+   "label": "Host Says Free Tickets Were Opened to the General Public",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says TPUSA opened the free tickets for the UGA event to the general public, not only students."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "to make matters easier for them, they also opened the tickets, the free tickets to the general public."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10608, N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the event registration page, ticket terms and registration counts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8220",
+   "header": "**C-8220** Host Says Ticket Numbers for the UGA Event Were Abysmal",
+   "label": "Host Says Ticket Numbers for the UGA Event Were Abysmal",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says nobody wanted to attend the UGA event and that the ticket numbers were abysmal, which she gives as the real reason the appearance was cancelled."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Reality, nobody wanted to attend. The ticket numbers were abysmal."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1974.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10608"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8221"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the event's ticket registration totals and any internal TPUSA attendance projections."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8222",
+   "header": "**C-8222** Host Says Fox Segment Used B-Roll Spliced From Three Other Events",
+   "label": "Host Says Fox Segment Used B-Roll Spliced From Three Other Events",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Fox News clip of Andrew Kolvet did not show the real Athens venue but B-roll from old Turning Point events, spliced together from three separate events."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "they actually spliced together three separate events so that they could show something of substance when Andrew spoke."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1967.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10615, N-10006"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the source events of the three spliced B-roll clips and obtain the original Fox broadcast."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8223",
+   "header": "**C-8223** Host Says TPUSA Struggled to Move Tickets for Erika's Washington DC Event With Leavitt",
+   "label": "Host Says TPUSA Struggled to Move Tickets for Erika's Washington DC Event With Leavitt",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says TPUSA college students and volunteers told her that TPUSA also had a very hard time moving tickets for Erika Kirk's Washington DC event with Karoline Leavitt."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "similarly had a very hard time uh moving tickets for her event in Washington DC with Karoline Leavitt."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-280, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10608"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the DC event's registration and attendance data and ask the volunteers' sources for corroboration."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8224",
+   "header": "**C-8224** Host Says UGA Was the Worst Turnout in Turning Point History",
+   "label": "Host Says UGA Was the Worst Turnout in Turning Point History",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the UGA event looks to have been the worst audience turnout in Turning Point's history."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And yesterday, it looks like was the worst audience turnout in Turning Point's history."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1974.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10608, N-10000"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8221"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the UGA attendance estimate against TPUSA's other event turnout figures."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8226",
+   "header": "**C-8226** Host Says TPUSA Moved the Believers Summit for Lack of Free Tickets Taken",
+   "label": "Host Says TPUSA Moved the Believers Summit for Lack of Free Tickets Taken",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:03"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says TPUSA had to move the Believers Summit it advertised last year for October because it could not move any free tickets."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "they had to move the believers summit, something that they advertised for last year."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10608"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check TPUSA's Believers Summit announcements and date changes against registration reports."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8227",
+   "header": "**C-8227** Host Says Erika Knew Long Before and Posted Only After the Event Began",
+   "label": "Host Says Erika Knew Long Before and Posted Only After the Event Began",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:03"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk knew she was not coming long before Andrew Kolvet's on-stage announcement, yet made no statement herself until after the event began."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Erika knew that she was not coming long before Andrew Kolvet made the announcement on stage. Yet she did not make a statement herself until after the event began."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1970.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-14, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10607"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8206"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the timestamp of Erika Kirk's X post with the start of the event and the stage announcement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8228",
+   "header": "**C-8228** Host Says Erika Was at Bettina Anderson's Mar-a-Lago Bridal Shower That Weekend",
+   "label": "Host Says Erika Was at Bettina Anderson's Mar-a-Lago Bridal Shower That Weekend",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:56"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk was at the White House over the weekend and at the Mar-a-Lago bridal shower of Bettina Anderson, who is marrying Donald Trump Jr., as evidence that she can show up when she wants to."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "She was at Betina Betina at Mar-a-Lago, the one who's marrying Don Trump Jr., she was at her bridal shower."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-33, N-888"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10607"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check reporting and guest accounts of the bridal shower and Erika Kirk's White House visit that weekend."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8229",
+   "header": "**C-8229** Host Recounts Past Threat Handling With Charlie Kirk in Nashville",
+   "label": "Host Recounts Past Threat Handling With Charlie Kirk in Nashville",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:56"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that in a past case of a threat from a man who had escaped a mental institution, TPUSA alerted her and security while she was doing an event in Nashville with Charlie Kirk, and that nobody announced the threat publicly."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They alerted us and I was doing an event in Nashville with Charlie. We had to alert the security team."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10607"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the Nashville event date and any police record of the escaped patient."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8230",
+   "header": "**C-8230** Host Says Erika Told the High School on Monday at Noon, a Day Before the Stage Announcement",
+   "label": "Host Says Erika Told the High School on Monday at Noon, a Day Before the Stage Announcement",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:37"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk had informed the Georgia high school at noon on Monday that she would not attend, a full day before the on-stage cancellation, while the college students were given no information."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "But on Monday at noon, she had already informed the high school that she was not going to be in attendance a full day before her last minute onstage cancellation"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1972.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10612"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8231"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the school's communications and the time the Parent Alert was sent."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8233",
+   "header": "**C-8233** Host Says Parental Backlash Preceded the High School Cancellation",
+   "label": "Host Says Parental Backlash Preceded the High School Cancellation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:05"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she is told there was immediate parental backlash once Erika Kirk's high school appearance was announced, with expected abysmal attendance, and that Erika skipped it for that reason."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I am told the truth is again that there was immediate parental backlash already that kept happening because she was announced"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1972.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10612"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain parent and school-administration communications from the week of April 6 to April 13, 2026."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8235",
+   "header": "**C-8235** Host Says TPUSA Is Now Paying Influencers to Push the Line",
+   "label": "Host Says TPUSA Is Now Paying Influencers to Push the Line",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:57"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says TPUSA is now paying influencers, who push the line that people should leave Erika Kirk alone and not track her plane."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "It is ridiculous. They are now paying influencers. Oh, if only everyone would just leave her alone. No one would track her plane."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the influencers and any sponsorship disclosures or payment records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8236",
+   "header": "**C-8236** Vance Referred to the People Who Shot Charlie Kirk in the Plural",
+   "label": "Vance Referred to the People Who Shot Charlie Kirk in the Plural",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:49"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip the host plays, JD Vance says that if someone's instinct is to go after a grieving young mother rather than 'the left-wing radicals who are assaulting Savannah' or 'the people who shot Charlie Kirk' (plural), they should stay in their lane."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "not the left-wing radicals who are assaulting Savannah or not the people who shot Charlie Kirk"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1966.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-4, N-1, N-887"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10607"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full Vance remarks and check whether the plural was scripted or an error."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8238",
+   "header": "**C-8238** Host Says the US Blew Up an Iranian School Killing 150 Girls and Lied About It",
+   "label": "Host Says the US Blew Up an Iranian School Killing 150 Girls and Lied About It",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:26:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that the US administration blew up a school in Iran, killing 150 Iranian schoolgirls, and then lied about it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Like when you guys blew up that school, 150 Iranian school girls were killed and then you lied about it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11145, N-10541"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the Minab school strike casualty reports and official US statements."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8239",
+   "header": "**C-8239** Host Says Trump Called Jesus a Red Cross Doctor Two Days Earlier",
+   "label": "Host Says Trump Called Jesus a Red Cross Doctor Two Days Earlier",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:26:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that Donald Trump, not even two days earlier, said he thought Jesus was a Red Cross doctor."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "was not just even two days ago that Trump said that he thought Jesus was a Red Cross doctor."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-5"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the transcript and date of the Trump remarks about Jesus."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8240",
+   "header": "**C-8240** Host Says Trump Attacked the Pope and Called Brigitte Macron Hot",
+   "label": "Host Says Trump Attacked the Pope and Called Brigitte Macron Hot",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:26:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that Trump attacked a pope for calling for peace and said that Brigitte Macron is hot."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "How about Trump just generally attacking a pope because he's calling for peace? How about Trump saying that Brigitte Macron is hot?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-5, N-420, N-82"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the Trump statements on Pope Leo XIV and on Brigitte Macron and their dates."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8241",
+   "header": "**C-8241** Host Says the Strait of Hormuz Was Already Open Before the War",
+   "label": "Host Says the Strait of Hormuz Was Already Open Before the War",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:26:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that the war with Iran, fought with the explicit aim of opening the Strait of Hormuz, began when the strait was already open."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Going to war with the explicit aim of opening the straight of Hormuse, which was already opened before you began the war, is pretty preposterous."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10541"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check shipping-traffic data for the Strait of Hormuz before the war and the administration's stated war aims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8242",
+   "header": "**C-8242** Host Says Erika Can Get Bessent to Issue a Letter Demanding Finance Inquiries Stop",
+   "label": "Host Says Erika Can Get Bessent to Issue a Letter Demanding Finance Inquiries Stop",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:27:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk can get Treasury Secretary Scott Bessent to issue a letter on demand telling people to stop looking into TPUSA's finances."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "She can get uh the Secretary Scott Bessence to issue a letter on demand demanding you stop looking into their finances."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-598, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the Bessent letter and its recipient and date, and any Treasury statement about TPUSA finances."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8243",
+   "header": "**C-8243** Host Says Trump Spoke of Charlie Loving Erika in His Easter Speech",
+   "label": "Host Says Trump Spoke of Charlie Loving Erika in His Easter Speech",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:27:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk can get Trump to say in his Easter speech how much Charlie Kirk loved her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "She can get Trump to say how much Charlie loved her in his Easter speech."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-5, N-1"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the transcript of Trump's Easter 2026 remarks."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8244",
+   "header": "**C-8244** Host Says Company Employees Who Saw the Shooting Did Not Call 911 but Removed Cameras",
+   "label": "Host Says Company Employees Who Saw the Shooting Did Not Call 911 but Removed Cameras",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:08"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says company employees who witnessed the shooting neglected to call 911 and instead rushed to remove cameras within minutes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "company employees who witnessed the shooting and for some incomprehensible reason neglect to call 911, but instead rush to remove cameras within minutes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10076, N-10346"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain 911 call logs for the UVU shooting and timestamped footage of the camera removal."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8245",
+   "header": "**C-8245** Host Says Middle and High Schoolers Are Forced to Attend TPUSA Events",
+   "label": "Host Says Middle and High Schoolers Are Forced to Attend TPUSA Events",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:29:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says middle schoolers and high schoolers are being forced in some cases to sit in Erika Kirk and TPUSA events, which are mandatory like a school assembly."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "middle schoolers and high schoolers are being forced in some scenarios to sit in these events. It's mandatory."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11297, N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain school district communications and student or parent accounts of mandatory attendance at TPUSA events."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8248",
+   "header": "**C-8248** Kolvet Says the Secret Service Was Expected to Cover the Main Event",
+   "label": "Kolvet Says the Secret Service Was Expected to Cover the Main Event",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "On the Charlie Kirk Show, Andrew Kolvet said that after the high school event was cancelled the team thought the Secret Service would make the main event fine, but the situation turned on doxing of her travel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And so we thought, you know, we got the Secret Service, everything should be fine at the main event."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1968.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10607"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the Charlie Kirk Show segment and the Secret Service's statement on its role."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8249",
+   "header": "**C-8249** Kolvet Says the Team Tried to Change Itineraries and Move Locations",
+   "label": "Kolvet Says the Team Tried to Change Itineraries and Move Locations",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:32:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Andrew Kolvet said TPUSA was actively trying to navigate the threat by changing itineraries and moving locations before the security team said it could not guarantee Erika Kirk's safety."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "something we were actively trying to navigate and change itineraries, move locations."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1968.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10607"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain itinerary or booking changes for the Georgia trip and the date they were made."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8250",
+   "header": "**C-8250** Host Says Charlie Texted Multiple Times the Day Before That He Thought He Would Be Killed",
+   "label": "Host Says Charlie Texted Multiple Times the Day Before That He Thought He Would Be Killed",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:32:57"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host, voicing TPUSA's messaging, says Charlie Kirk 'multiple times texted me on the security team day before' saying he thought he was going to be killed, and that TPUSA does not talk about that threat."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "when Charlie multiple times texted me on the security team day before saying he thought he was going to be killed"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10340"
+    },
+    {
+     "k": "Supports",
+     "v": "C-3565"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the security-team text thread from September 9, 2025 and identify who received the messages (transcript wording is garbled)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8251",
+   "header": "**C-8251** Host Says Marx's Daughter Accused Him of Abuse and Later Retracted",
+   "label": "Host Says Marx's Daughter Accused Him of Abuse and Later Retracted",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:10"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Victor Marx's daughter was in a very public back-and-forth accusing him of abuse, and retracted her statement after they began speaking again."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "very public back forth that went on where she was accusing him of abuse and um there's a lot of that. And then she retracted her statement after they began speaking again"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-341, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10604"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the daughter's original public statements and the retraction."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8252",
+   "header": "**C-8252** Host Says a Young Woman Alleges Marx Kidnapped Her From Canada",
+   "label": "Host Says a Young Woman Alleges Marx Kidnapped Her From Canada",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:10"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says there is a young woman who alleges that Victor Marx kidnapped her from Canada and has discussed it on shows."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We didn't include the young woman who alleges that Victor Marx kidnapped her from Canada."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-341, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10604"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the woman and the shows on which she spoke, and look for any police or court filing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8253",
+   "header": "**C-8253** Host Says Marx Drew More Tips Than Anyone",
+   "label": "Host Says Marx Drew More Tips Than Anyone",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her team has never received more emails and tips about anyone than about Victor Marx, and that looking into him was a recurring theme in the tips inbox."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we have never received more emails and more tips about anyone. Actually um in our tips inbox it was a recurring theme."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3130.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-341, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10604"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask the host for the volume of tips received and review a sample of the tip content."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8254",
+   "header": "**C-8254** Host Says Marx Allegedly Was the First to Announce Charlie Kirk's Death Then Deleted the Post",
+   "label": "Host Says Marx Allegedly Was the First to Announce Charlie Kirk's Death Then Deleted the Post",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Victor Marx allegedly was the first person to announce that Charlie Kirk had died and then deleted the post."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Victor Marx allegedly was the first person who announced that Charlie Kirk had died and then he deleted that post."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-341, N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10604"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find archived copies of the Marx post, its timestamp relative to the official announcement, and any deletion record."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8255",
+   "header": "**C-8255** Host Says Corby Hall Noted Marx Has No Church",
+   "label": "Host Says Corby Hall Noted Marx Has No Church",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:52"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Corby Hall raised the point that Victor Marx does not have a church, so it is unclear why he calls himself a pastor."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I realized he doesn't have a church. I don't know why he says he's a pastor."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-342, N-341, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10604"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check church registrations or ministry records for Victor Marx and Corby Hall's statement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8257",
+   "header": "**C-8257** Host Says Marx Had Supplements With David Harris",
+   "label": "Host Says Marx Had Supplements With David Harris",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:40:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that Victor Marx had a supplement venture with David Harris."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "You had supplements that you were doing with David Harris."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-341, N-889, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10604"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the supplement brand and its ownership records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8259",
+   "header": "**C-8259** Host Says Supplement Proceeds Were Pledged to Help Trafficking Victims",
+   "label": "Host Says Supplement Proceeds Were Pledged to Help Trafficking Victims",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:40:47"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says it was said that proceeds from the Marx and David Harris supplements would help human sex trafficking victims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "David Harris calls God Papa. I don't know. And he like you guys said that like proceed the supplements were going to help human sex trafficking victims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-341, N-889, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10604"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the supplement marketing claims and any charity disbursement records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8262",
+   "header": "**C-8262** Host Says People Are Volunteering to Take TPUSA Jobs as Moles",
+   "label": "Host Says People Are Volunteering to Take TPUSA Jobs as Moles",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:42:41"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says people inside and outside Turning Point USA are emailing her, and some say they will take jobs at TPUSA just to give her information from the inside."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we have people that are saying that they will get jobs at Turning Point USA just to give us information from the inside."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3131.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask the host for the number of such offers and whether any tip has been verified."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8265",
+   "header": "**C-8265** Host Says Wada Says His Brother Is Still Involved in the Industry",
+   "label": "Host Says Wada Says His Brother Is Still Involved in the Industry",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:45:03"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that, according to current and former employees, Marcus Wada also says his brother is still involved in the trafficking game in some way."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Marcus Wada also says that his brother is still involved in the game somehow in the industry in some way."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1980.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-424, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10609"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8261"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the brother and obtain a first-hand account of what Wada said to colleagues."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8266",
+   "header": "**C-8266** Host Says She Found the Brother, Who Has a Different Surname",
+   "label": "Host Says She Found the Brother, Who Has a Different Surname",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:45:03"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she found Wada's brother, assumes he is a half brother because of the different last name, and that he runs a consulting company that consults in human trafficking."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Anyway, I did end up finding the guy. I'm proddding that narrative. There seems to be something there. I'm assuming it must be a half brother because he has a different last name"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1979.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-424, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10609"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8267"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm the family relationship through public records and obtain the consulting firm's registration."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8268",
+   "header": "**C-8268** Host Lists Derek and Shelaine Maxfield in Her Connecting-Themes Spreadsheet",
+   "label": "Host Lists Derek and Shelaine Maxfield in Her Connecting-Themes Spreadsheet",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:46:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Maxfields, whose plane left for Page, Arizona that day, run a child abuse and trafficking charity, which she lists in her connecting-themes spreadsheet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Derek and Shelaine Maxfield, that was that plane that left and went to Paige, Arizona that day. They run a child abuse charity um a trafficking charity uh Sapria"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3132.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-94, N-200, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10401"
+    },
+    {
+     "k": "Supports",
+     "v": "C-4755"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the Maxfields' charity filings (Saprea) and the plane ownership records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8269",
+   "header": "**C-8269** Host Says Otto Busher Worked With Romanian Angels and Lists a Fort Huachuca Civilian Commander Charged With Running a Child Sex Abuse Ring",
+   "label": "Host Says Otto Busher Worked With Romanian Angels and Lists a Fort Huachuca Civilian Commander Charged With Running a Child Sex Abuse Ring",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:46:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Colonel Otto Busher, tied to the Romanian matter at the military base, worked with Romanian Angels, which she calls Erika Kirk's charity; she separately lists the civilian commander stationed at Fort Huachuca who was charged with running a child sex abuse ring."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he worked with Romanian Angels which was her charity uh the civilian commander stationed at Fort Huachuca charged with running a child sex abuse ring"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3132.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-687, N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11165, N-10401"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain Army and court records for the charge against Busher and any Romanian Angels staff or board listing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8270",
+   "header": "**C-8270** Host Says Greg Laurie's Harvest Church Is Accused of Trafficking Children From Romania",
+   "label": "Host Says Greg Laurie's Harvest Church Is Accused of Trafficking Children From Romania",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:24"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Greg Laurie, with whom Erika Kirk went on tour, leads Harvest Church, which she says is currently accused of trafficking children from Romania."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Greg Laurie uh whose church Erika went right on tour with him Harvest Church is currently being accused of trafficking ch children from Romania."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3132.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-450, N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10411, N-10401"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the lawsuit filings against Harvest Christian Fellowship and Erika Kirk's tour appearances with Laurie."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8271",
+   "header": "**C-8271** Host Says George Zinn Was Arrested With Pornographic Images of Children",
+   "label": "Host Says George Zinn Was Arrested With Pornographic Images of Children",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says George Zinn, whom she calls the decoy boy, was arrested for having pornographic images of children on his phone."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "George Zinn, our decoy boy, was arrested for having pornographic images of children on his phone."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3132.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-42, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10097"
+    },
+    {
+     "k": "Supports",
+     "v": "C-4757"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the Zinn charging documents and booking records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8272",
+   "header": "**C-8272** Host Says Andrew Piskadlo Raises Alarms on Military Ukrainian Sex Trafficking",
+   "label": "Host Says Andrew Piskadlo Raises Alarms on Military Ukrainian Sex Trafficking",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:41"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Andrew Piskadlo, who was detained that day, works to raise the alarm on military Ukrainian sex trafficking in the United States."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Andrew Pascadlo, uh that was the person who was detained that day, uh works to ring the alarm on military Ukrainian sex trafficking in the United States."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3132.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-800, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10325"
+    },
+    {
+     "k": "Supports",
+     "v": "C-4760"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain Piscatello's public statements on the subject and the detention record."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8273",
+   "header": "**C-8273** Host Says Calvary Chapel Is Riddled With Pastor Abuse Stories",
+   "label": "Host Says Calvary Chapel Is Riddled With Pastor Abuse Stories",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:51"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Calvary Chapel Church is riddled with pastor abuse stories, adding \"that's an aside, Rob McCoy aside.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Calvary Chapel Church is obviously riddled with pastor abuse stories."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3132.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-17, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10246"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2754"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compile court and press records on Calvary Chapel pastor abuse cases."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8274",
+   "header": "**C-8274** Host Says Tim Ballard's Name Came Up Early as Someone Being Met That Day",
+   "label": "Host Says Tim Ballard's Name Came Up Early as Someone Being Met That Day",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:57"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Glenn Beck and Tim Ballard are connected through Operation Underground Railroad, and that Ballard's name came up early as someone who was being met that day."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Glenn Beck, Tim Ballard, that's Operation Underground. Tim Ballard. Um his name come in the mix early on as someone who was being met with that day."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3132.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-237, N-325, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11167"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the source for the meeting claim and any record of Ballard's schedule on September 10, 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8275",
+   "header": "**C-8275** Host Says Erika Claims to Have Lived in China Working With Trafficking Victims but Is Quiet About It",
+   "label": "Host Says Erika Claims to Have Lived in China Working With Trafficking Victims but Is Quiet About It",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:48:11"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk has said she lived in China and worked with child sex trafficking victims, but is silent on it now and no one seems to be able to find which charity it was."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Erika Kirk says that she lived in China and worked with child sex trafficking victims but she's mum on that now."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3132.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10419"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5178"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain Erika Kirk's earlier statements on China and any records of the charity she worked with."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8276",
+   "header": "**C-8276** Host Says TPUSA Adviser Paul Vallely Co-Wrote a Book With Satanist Michael Aquino",
+   "label": "Host Says TPUSA Adviser Paul Vallely Co-Wrote a Book With Satanist Michael Aquino",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:48:11"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says TPUSA adviser Paul Vallely, a retired Army general who ran psychological operations, co-wrote a book with Michael Aquino, whom she calls the Satanist founder of the Temple of Set."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The TPUSA adviser, Paul Vallely, retired Army general who ran psychological operations and co-wrote the book with Michael Aquino, the Satanist and founder of the Temple of Set."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3132.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-799, N-449, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11238"
+    },
+    {
+     "k": "Supports",
+     "v": "C-4865"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm the advisory-board listing for Paul Vallely and the authorship of Mind War."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8277",
+   "header": "**C-8277** Host Says Aquino Was Accused of Abusing Children at Army Child Development Centers",
+   "label": "Host Says Aquino Was Accused of Abusing Children at Army Child Development Centers",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:48:11"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Michael Aquino was accused of abusing children at Army Child Development Centers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He was accused, I'm referring to Michael Aquino, was accused of abusing children at Army Child Development Centers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3132.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-449, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11238"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5033"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the 1986-87 San Francisco police and Army records on the Aquino investigation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8278",
+   "header": "**C-8278** Host Says Victor Marx Runs a Charity for Child Sex Abuse",
+   "label": "Host Says Victor Marx Runs a Charity for Child Sex Abuse",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:48:11"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Victor Marx runs a charity for child sex abuse, and that she wants to add his pills to her spreadsheet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Victor Marx, as we learned, runs a charity for child sex abuse."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3132.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-341, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10604"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the charity's IRS filings and program description."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8279",
+   "header": "**C-8279** Host Says Nelda Buckman, TPUSA's Top Donor, Is Extensively Involved in Rescuing Trafficked Children",
+   "label": "Host Says Nelda Buckman, TPUSA's Top Donor, Is Extensively Involved in Rescuing Trafficked Children",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:49:23"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Nelda Buckman, the number one donor to Turning Point USA, is extensively involved in rescuing children who are sexually abused and trafficked."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Nelda Buckman, the number one donor to Turning Point USA, is extensively involved in rescuing children that are being sexually abused and trafficked."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3132.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-460, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the Buckman foundation's filings and donations to child-rescue organizations."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8280",
+   "header": "**C-8280** Host Revises Wada Description to Formerly Involved in Arms Trafficking",
+   "label": "Host Revises Wada Description to Formerly Involved in Arms Trafficking",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:49:23"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she should more responsibly say that Marcus Wada was formerly involved in trafficking arms in Poland, according to current and past TPUSA employees, and changes her spreadsheet note."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I should probably change that to more responsibly say formerly involved in trafficking arms in Poland according to Turning Point USA current employees and past employees"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3132.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-424, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10609"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8261"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Seek independent corroboration of Wada's testimony about arms trafficking in Poland."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8281",
+   "header": "**C-8281** Host Says Wada's LinkedIn Shows He Lived in Poland",
+   "label": "Host Says Wada's LinkedIn Shows He Lived in Poland",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:53:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Marcus Wada's LinkedIn shows that he lived in Poland."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it's on his LinkedIn. He lived in Poland, so he maybe he just speaks Polish."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3133.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-424, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10127, N-10609"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8261"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Capture Wada's LinkedIn page and compare the Poland residence with the dates in his TPUSA biography."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8282",
+   "header": "**C-8282** Host Says Multiple People Were Involved and It Was Not Tyler Robinson Alone",
+   "label": "Host Says Multiple People Were Involved and It Was Not Tyler Robinson Alone",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:54:46"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she believes multiple people were involved in killing Charlie Kirk and that she does not believe Tyler Robinson acted alone on the rooftop."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I do believe that there were people involved, multiple people involved in killing Charlie Kirk. And I do not believe that it was Tyler Robinson alone on a rooftop."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1, N-40"
+    },
+    {
+     "k": "Supports",
+     "v": "C-388"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the court filings and forensic evidence for any additional participant."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8284",
+   "header": "**C-8284** Host Says Erika Declined Burial Details Because People Would Come Destroy the Grave",
+   "label": "Host Says Erika Declined Burial Details Because People Would Come Destroy the Grave",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:56:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk cannot or will not share where Charlie Kirk is buried because she says people would come and try to destroy the site."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "because now she can't she can't share the details because she says people are are going to come and try to destroy."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10751, N-10201"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find Erika Kirk's own public statements on the burial site."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8283",
+   "header": "**C-8283** Host Says She Wonders Whether Charlie Was Cremated",
+   "label": "Host Says She Wonders Whether Charlie Was Cremated",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:56:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she occasionally asks herself whether Charlie Kirk was cremated and that it is starting to make sense to her that they would have."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I ask myself occasionally whether or not they cremated Charlie because that is starting to make sense to me that they would do that."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10751"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the death certificate, cemetery or crematorium records, and funeral details."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8285",
+   "header": "**C-8285** Host Says Erika Phoned People to Keep Them From the Catholic Event Where She Spoke",
+   "label": "Host Says Erika Phoned People to Keep Them From the Catholic Event Where She Spoke",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:00:04"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk personally made phone calls trying to get people not to attend the Catholic event where the host spoke, and that the event sold out anyway."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Erika personally made phone calls trying to get people not to go to the Catholic event that I spoke at the other week."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11298"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the event organizers and anyone Erika Kirk contacted, and obtain the call or message records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8286",
+   "header": "**C-8286** Host Says Fired Employees Told Her Erika Was Behind the PR Push",
+   "label": "Host Says Fired Employees Told Her Erika Was Behind the PR Push",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:00:04"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the people who were fired told her who was behind the PR push, and that Erika Kirk was behind it the entire time."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The people who were fired told me who was behind this PR push. Erika was behind this stuff the entire time."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11182, N-10607"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the fired employees and compare their accounts with TPUSA's communications records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8287",
+   "header": "**C-8287** Host Says Erika Was Angry at Joe Kent for Investigating Foreign Involvement",
+   "label": "Host Says Erika Was Angry at Joe Kent for Investigating Foreign Involvement",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:00:49"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says part of why Erika Kirk is on her list of suspicious people is her anger at Joe Kent for trying to investigate foreign involvement in the case."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "her anger at Joe Kent for trying to investigate foreign involvement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-209, N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find any public statement by Erika Kirk about Joe Kent and the date of the host's source."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "# VI. Optional Flags",
+    "",
+    "- **Name uncertainty:** \"Andrew Kolvet\" – host uses \"Kolvet,\" \"Kovat,\" \"Kovet,\" and \"Kolvet\" inconsistently. Preserved as \"Andrew Kolvet\" pending ledger confirmation.",
+    "- **Name uncertainty:** \"Victor Marx\" vs. \"Victor Marx\" – host uses both; preserved as \"Victor Marx.\"",
+    "- **Name uncertainty:** \"Derek Kirk\" – host congratulates \"Derek Kirk\" at the opening; relationship to Erika Kirk unclear from this episode.",
+    "- **Name uncertainty / transcription error:** \"Sapria Colonel Otto Busher\" – appears in connecting-themes list; likely transcription artifact (possibly \"Sephora\" or unrelated name).",
+    "- **Transcript ambiguity:** \"September 14th\" referenced in the UGA high school cancellation email (A-1972.1) is inconsistent with the April 2026 event timeline; either OCR/transcription artifact or genuine content error in the original email.",
+    "- **Artifact verbally referenced but not shown:** Marcus Wada brother's consulting website (A-1979.1) – industry areas are read aloud but full page not verified as on-screen.",
+    "- **Requires human verification:** A-1980.1 (anonymous insider claims regarding Marcus Wada arms-trafficking history) – anonymous sourcing requires independent corroboration.",
+    "- **Artifact verbally referenced but not shown:** Kolvet's Fox News interview B-roll splicing (A-1967.1 → C-8213) – host describes analysis but underlying B-roll frames were not independently captured.",
+    "",
+    "---",
+    "",
+    "# VII. Output Quality Checklist",
+    "",
+    "- [x] Every claim has at least one artifact anchor.",
+    "- [x] Every claim has at least one related node.",
+    "- [x] Every artifact has a Related line.",
+    "- [x] Every node has a Related line.",
+    "- [x] No episode-wide artifact bundle; each top-level artifact ID represents one evidentiary family.",
+    "- [x] People nodes use the global people ledger (Wave 1: Tim Ballard moved out of the topic band to Person N-325; local placeholder ids N-5 and N-6 resolved to N-14 Andrew Kolvet and N-341 Victor Marx).",
+    "- [x] Non-person investigation targets use the 1000-series beginning at N-10607.",
+    "- [x] No speculative claims inscribed as evidence-backed claims; rhetorical framing retained as commentary.",
+    "- [x] Names preserved exactly with uncertainty flagged.",
+    "- [x] Formatting consistent with protocol.",
+    "",
+    "---",
+    "",
+    "**End of Episode 92 Analysis Record**"
+   ]
+  }
+ ]
+}

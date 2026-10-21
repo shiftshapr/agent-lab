@@ -1,0 +1,8454 @@
+{
+ "format": "cka-source/1",
+ "episode": 24,
+ "blocks": [
+  {
+   "kind": "text",
+   "lines": [
+    "## 1. Meta-Data",
+    "",
+    "- **Episode**: 24",
+    "- **Monument**: cka",
+    "- **CKA seq**: 24",
+    "- **YouTube id**: K1tFD7FfoCU",
+    "- **Candace Ep**: 257",
+    "- **Source**: Candace Owens YouTube",
+    "- **Video Timestamp Range**: 00:00:00–00:50:28",
+    "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
+    "- **Transcript SHA-256**: b16f4980388370185d291129aae2198b32071168c9d782f7764725d6e49bf14e",
+    "",
+    "- **Episode Ledger Summary**:",
+    "  - Tip-minted Nodes (supplement_2026-10d): N-835, N-836, N-837, N-838, N-839, N-11223, N-11224, N-11225",
+    "  - Hole-minted Nodes (reintro-ep024): N-220, N-222, N-10236, N-10336, N-10337",
+    "  - Tip-minted Nodes (reintro-ep024): N-704, N-10917, N-11092, N-11107",
+    "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
+    "  - Claim Range: C-2178–C-2259",
+    "  - New Nodes Introduced: N-210, N-211, N-212, N-214, N-215, N-216, N-10216, N-10217",
+    "  - Reused Nodes Appearing: N-15, N-17, N-46, N-50, N-82, N-99, N-154, N-155, N-190, N-10006, N-10025, N-10033, N-10047, N-10077, N-10083, N-10104, N-10139, N-10148, N-10164, N-10167, N-10202, N-10206, N-10406, N-11099, N-377, N-709, N-10543, N-268",
+    "  - Tip-minted Nodes (wave2): N-10894, N-10895",
+    "  - (see registers), N-11",
+    "",
+    "# Meta-Data",
+    "",
+    "- Episode title: \"MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257\"",
+    "- Series title: Bride of Charlie (Candace Owens podcast)",
+    "- Episode number: Monument Ep 24 · Batch 4",
+    "- Channel / creator: Candace Owens (@RealCandaceO)",
+    "- Episode date: 2025-11-03",
+    "- Source used for analysis: Transcript (YouTube auto-captions cleaned with video context) and video reference",
+    "- Transcript completeness: Complete",
+    "- Analyst: Investigative Analysis Agent",
+    "- Analysis date: 2026",
+    "- Ledger continuation summary:",
+    "  - Artifact Families Introduced: A-1313, A-1314, A-1315, A-1316, A-1317, A-1318, A-1319, A-1320",
+    "  - New Nodes Introduced (people): N-210, N-211, N-212, N-214, N-215, N-216",
+    "  - New Nodes Introduced (entities): N-10216, N-10217",
+    "  - Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erika Kirk, N-3 Candace Owens, Ben Shapiro, Tucker Carlson, Lindsey Graham, Randy Fine, Nick Fuentes, Rob McCoy, Mikey McCoy/McColgan, Justin Streiff, Adam Lanza, Thomas Matthew Crooks, AIPAC",
+    "",
+    "# Executive Summary",
+    "",
+    "This episode focuses on three artifact-anchored clusters. First, audio artifacts from the Republican Jewish Coalition stage (Lindsey Graham, Randy Fine, and a poster reading \"Tucker Carlson is not Maga\") are read into the record. Second, two Ben Shapiro audio/video clips are played, the first quoting Candace Owens' prior statements on Tucker Carlson, the second asserting that Charlie Kirk labeled Nick Fuentes \"vermin.\" Candace counters with a 2018 Joe Rogan clip and a photo from Ben Shapiro's Sherman Oaks studio. Third, the Jerusalem Post / Israeli War Room reporting that Erika Kirk would accept a posthumous \"Pillars of Jerusalem Award\" is read aloud along with Andrew Kolvet's denial and Michael Starr's follow-up tweet acknowledging that the Israeli government press office \"wavered\" on the claim.",
+    "",
+    "Erika Kirk speaks via a preview clip from her upcoming Jesse Watters interview opposing a defense camera ban. Finally, Kash Patel's lengthy X defense of his girlfriend Alexis Wilkins is read in full, followed by viewer comments including Tom Paul's allegation that Tyler Robinson's ACT score (34, 99th percentile) and Thomas Matthew Crooks' SAT score follow a similar pattern to Adam Lanza.",
+    "",
+    "Structurally, this episode advances the Jerusalem Post / TPUSA award reporting discrepancy as a new investigative target and adds artifact-backed corroboration to the Erika Kirk leadership / transparency pressure node.",
+    "",
+    "# Artifact Register",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1313",
+   "header": "**A-1313** Republican Jewish Coalition Stage Bundle",
+   "label": "Republican Jewish Coalition Stage Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1313.1",
+   "header": "**A-1313.1** Lindsey Graham RJC Speech Clip (audio)",
+   "label": "Lindsey Graham RJC Speech Clip (audio)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:01:57"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2178, C-2179, N-Lindsey Graham*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1313.2",
+   "header": "**A-1313.2** Randy Fine RJC Speech Clip (audio)",
+   "label": "Randy Fine RJC Speech Clip (audio)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:04:07"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2182, N-Randy Fine, N-Tucker Carlson*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1313.3",
+   "header": "**A-1313.3** RJC Intern-Printed \"Tucker Carlson is not Maga\" Sign (stage prop, verbally described)",
+   "label": "RJC Intern-Printed \"Tucker Carlson is not Maga\" Sign (stage prop, verbally described)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:03:00"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (verbally referenced; not verified as shown)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: N-Randy Fine, N-Tucker Carlson*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1314",
+   "header": "**A-1314** Ben Shapiro Monologue Bundle",
+   "label": "Ben Shapiro Monologue Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1314.1",
+   "header": "**A-1314.1** Ben Shapiro \"Scripted Stab at Tucker Carlson\" Segment (video)",
+   "label": "Ben Shapiro \"Scripted Stab at Tucker Carlson\" Segment (video)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:10:00"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2205, C-2191, N-Ben Shapiro, N-Tucker Carlson, N-3 Candace Owens*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1314.2",
+   "header": "**A-1314.2** Ben Shapiro \"Nick Fuentes Vermin / Tucker Knifed Charlie\" Segment (video)",
+   "label": "Ben Shapiro \"Nick Fuentes Vermin / Tucker Knifed Charlie\" Segment (video)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:14:12"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2205, C-2206, N-Ben Shapiro, N-Nick Fuentes, N-1 Charlie Kirk*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1315",
+   "header": "**A-1315** Candace Owens Joe Rogan 2018 Bundle",
+   "label": "Candace Owens Joe Rogan 2018 Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1315.1",
+   "header": "**A-1315.1** Candace Owens \"Hall Monitor\" Joe Rogan Clip (video)",
+   "label": "Candace Owens \"Hall Monitor\" Joe Rogan Clip (video)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:16:02"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2210, N-3 Candace Owens, N-Ben Shapiro*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1316",
+   "header": "**A-1316** Candace & Charlie Kirk Photo Bundle",
+   "label": "Candace & Charlie Kirk Photo Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1316.1",
+   "header": "**A-1316.1** Photo of Candace Owens and Charlie Kirk Puffing Chests on Ben Shapiro's Sherman Oaks Set",
+   "label": "Photo of Candace Owens and Charlie Kirk Puffing Chests on Ben Shapiro's Sherman Oaks Set",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:18:19"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2212, N-1 Charlie Kirk, N-3 Candace Owens, N-Ben Shapiro*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1317",
+   "header": "**A-1317** TPUSA Posthumous Israel Award Reporting Bundle",
+   "label": "TPUSA Posthumous Israel Award Reporting Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1317.1",
+   "header": "**A-1317.1** Israeli War Room X Post Citing Jerusalem Post Article by Michael Starr",
+   "label": "Israeli War Room X Post Citing Jerusalem Post Article by Michael Starr",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:21:26"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2217, N-10895, N-10894, N-210, N-2, N-10216*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1317.2",
+   "header": "**A-1317.2** Andrew Kolvet X Reply Denying Knowledge of Award",
+   "label": "Andrew Kolvet X Reply Denying Knowledge of Award",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:22:13"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2218, N-14 Andrew Kolvet, N-2 Erika Kirk, N-10216*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1317.3",
+   "header": "**A-1317.3** Michael Starr X Follow-Up on Israeli Government Press Office \"Wavering\"",
+   "label": "Michael Starr X Follow-Up on Israeli Government Press Office \"Wavering\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:23:04"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2219, N-210, N-10895, N-10216*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1318",
+   "header": "**A-1318** Erika Kirk Jesse Watters Interview Preview Bundle",
+   "label": "Erika Kirk Jesse Watters Interview Preview Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1318.1",
+   "header": "**A-1318.1** Erika Kirk on Courtroom Camera Ban (Jesse Watters interview preview clip)",
+   "label": "Erika Kirk on Courtroom Camera Ban (Jesse Watters interview preview clip)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:30:31"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2230, N-2 Erika Kirk, N-211 Jesse Watters, N-10217*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1319",
+   "header": "**A-1319** Kash Patel X Defense Tweet Bundle",
+   "label": "Kash Patel X Defense Tweet Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1319.1",
+   "header": "**A-1319.1** Kash Patel X Post Defending Girlfriend Alexis Wilkins",
+   "label": "Kash Patel X Post Defending Girlfriend Alexis Wilkins",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:37:40"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2246, N-69 Kash Patel, N-212 Alexis Wilkins*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1320",
+   "header": "**A-1320** YouTube Comments Bundle",
+   "label": "YouTube Comments Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1320.1",
+   "header": "**A-1320.1** \"Maxi Dodo\" Comment Thanking Host (read aloud)",
+   "label": "\"Maxi Dodo\" Comment Thanking Host (read aloud)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:44:21"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: N-3 Candace Owens, N-1 Charlie Kirk*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1320.2",
+   "header": "**A-1320.2** \"Michael\" (Australia) Comment About Charlie's Name as Inspiration (read aloud)",
+   "label": "\"Michael\" (Australia) Comment About Charlie's Name as Inspiration (read aloud)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:44:21"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: N-1 Charlie Kirk, N-3 Candace Owens*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1320.3",
+   "header": "**A-1320.3** \"Stacy Massie\" Comment About Trolls in Chat (read aloud)",
+   "label": "\"Stacy Massie\" Comment About Trolls in Chat (read aloud)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:44:21"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: N-3 Candace Owens*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1320.4",
+   "header": "**A-1320.4** \"G-Man\" Comment Supporting Host (read aloud)",
+   "label": "\"G-Man\" Comment Supporting Host (read aloud)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:44:21"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: N-3 Candace Owens*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1320.5",
+   "header": "**A-1320.5** \"Tom Paul\" Comment Alleging Tyler Robinson ACT 34 (99th percentile), Crooks' SAT 99th percentile, and Adam Lanza Parallel (read aloud)",
+   "label": "\"Tom Paul\" Comment Alleging Tyler Robinson ACT 34 (99th percentile), Crooks' SAT 99th percentile, and Adam Lanza Parallel (read aloud)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:45:55"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (viewer comment; not independently verified)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2251, N-Tyler Robinson, N-Thomas Matthew Crooks, N-Adam Lanza*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1320.6",
+   "header": "**A-1320.6** \"Petal\" Comment Asking Host to Clarify Educational Credentials (read aloud)",
+   "label": "\"Petal\" Comment Asking Host to Clarify Educational Credentials (read aloud)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:46:55"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2254, N-3 Candace Owens*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1320.7",
+   "header": "**A-1320.7** \"TB\" Comment About Charlie Kirk and Free Speech (read aloud)",
+   "label": "\"TB\" Comment About Charlie Kirk and Free Speech (read aloud)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:47:40"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2256, N-1 Charlie Kirk, N-Nick Fuentes*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3012",
+   "header": "**A-3012** Shapiro Segment Excerpts of Host Bundle",
+   "label": "Shapiro Segment Excerpts of Host Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3012.1",
+   "header": "**A-3012.1** Clip montage of the host's earlier statements aired inside Ben Shapiro's segment (dinosaur bones, JFK and 9/11, pedophiles in power, Macron)",
+   "label": "Clip montage of the host's earlier statements aired inside Ben Shapiro's segment (dinosaur bones, JFK and 9/11, pedophiles in power, Macron)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:10:00"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2194, C-2195, C-2196, C-2197, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3013",
+   "header": "**A-3013** Kirk Owens Text Messages Bundle",
+   "label": "Kirk Owens Text Messages Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3013.1",
+   "header": "**A-3013.1** Host verbal reference to roughly 80 to 150 text messages from Charlie Kirk about Ben Shapiro and Tucker Carlson (not shown)",
+   "label": "Host verbal reference to roughly 80 to 150 text messages from Charlie Kirk about Ben Shapiro and Tucker Carlson (not shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:15:17"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2209, C-2211, C-2213, C-2250, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3014",
+   "header": "**A-3014** Bowyer Weekend Tweets Bundle",
+   "label": "Bowyer Weekend Tweets Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3014.1",
+   "header": "**A-3014.1** Host verbal reference to Tyler Bowyer's late-night weekend tweets at donors John and Irina Mappin (not shown)",
+   "label": "Host verbal reference to Tyler Bowyer's late-night weekend tweets at donors John and Irina Mappin (not shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:33:19"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2236, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3015",
+   "header": "**A-3015** Patel Post Fact Check Bundle",
+   "label": "Patel Post Fact Check Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3015.1",
+   "header": "**A-3015.1** Fact-check note on Kash Patel's X post, read aloud",
+   "label": "Fact-check note on Kash Patel's X post, read aloud",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:39:12"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2247, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3016",
+   "header": "**A-3016** Patel Prior Statements Clips Bundle",
+   "label": "Patel Prior Statements Clips Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3016.1",
+   "header": "**A-3016.1** Host verbal reference to earlier clips of Kash Patel calling the FBI corrupt and opposing taxpayer-funded personal trips (not shown)",
+   "label": "Host verbal reference to earlier clips of Kash Patel calling the FBI corrupt and opposing taxpayer-funded personal trips (not shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:36:16"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2245, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "# Node Register",
+    "",
+    ""
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-210",
+   "header": "**N-210** Michael Starr",
+   "label": "Michael Starr",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Journalist for the Jerusalem Post named as the writer of the article claiming Erika Kirk would accept a posthumous Pillars of Jerusalem Award on Charlie Kirk's behalf; later acknowledged on X that the Israeli government press office \"wavered\" on the claim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1317.1, A-1317.3, C-2217, C-2219, N-10894, N-10895, N-2, N-10216*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-14",
+   "header": "**N-14** Andrew Kolvet",
+   "label": "Andrew Kolvet",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "TPUSA spokesperson who publicly denied any knowledge of the reported posthumous Israel award in a post on X."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1317.2, C-2218, N-2, N-10216*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-211",
+   "header": "**N-211** Jesse Watters",
+   "label": "Jesse Watters",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host of the Fox News interview with Erika Kirk that is teased as upcoming at episode time. (Name preserved as transcript renders it.)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1318.1, C-2230, N-2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-212",
+   "header": "**N-212** Alexis Wilkins",
+   "label": "Alexis Wilkins",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Country music artist; the girlfriend whom Kash Patel publicly defended on X in the tweet read in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1319.1, C-2246, N-69*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-69",
+   "header": "**N-69** Kash Patel",
+   "label": "Kash Patel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Director of the FBI; subject of host commentary following the X defense tweet of his girlfriend and prior criticism over alleged use of FBI aircraft for personal travel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1319.1, C-2246, N-212*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-163",
+   "header": "**N-163** Matt Walsh",
+   "label": "Matt Walsh",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Daily Wire personality referenced (hearsay) by the host as the subject of an outreach to host Charlie Kirk's show after his death, conditioned on inviting Ben Shapiro."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: N-Ben Shapiro, N-1 Charlie Kirk*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-214",
+   "header": "**N-214** Douglas Murray",
+   "label": "Douglas Murray",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Listed by Jerusalem Post / Israeli War Room as a presenter of the reported Pillars of Jerusalem Award."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1317.1, C-2217, N-10216*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-215",
+   "header": "**N-215** Yael Eckstein",
+   "label": "Yael Eckstein",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Listed by Jerusalem Post / Israeli War Room as a presenter of the reported Pillars of Jerusalem Award."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1317.1, C-2217, N-10216*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-216",
+   "header": "**N-216** Jürgen Bühler",
+   "label": "Jürgen Bühler",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Listed as a presenter of the reported Pillars of Jerusalem Award (spelled \"Jürgen Bühler\" in Jerusalem Post reporting cited in episode)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1317.1, C-2217, N-10216*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10894",
+   "header": "**N-10894** Jerusalem Post",
+   "label": "Jerusalem Post",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "k": "Organization Kind",
+     "v": "media_outlet"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "News outlet whose reporting (by Michael Starr) was cited in the Israeli War Room X post asserting that Erika Kirk would accept the posthumous award."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1317.1, C-2217, N-210, N-10216*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10895",
+   "header": "**N-10895** Israeli War Room",
+   "label": "Israeli War Room",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "k": "Organization Kind",
+     "v": "media_outlet"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "X account that reposted the Jerusalem Post claim about the Pillars of Jerusalem Award."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1317.1, C-2217, N-10894, N-10216*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10216",
+   "header": "**N-10216** TPUSA Posthumous Israel Award Reporting Discrepancy",
+   "label": "TPUSA Posthumous Israel Award Reporting Discrepancy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Persistent discrepancy between Jerusalem Post / Israeli War Room reporting that Erika Kirk would accept a Pillars of Jerusalem Award on Charlie Kirk's behalf and Andrew Kolvet's on-record statement that TPUSA had not heard of the award and that the CEO was not scheduled to participate."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "3"
+    },
+    {
+     "k": "Claim Count",
+     "v": "3"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1317.1, A-1317.2, A-1317.3, C-2217, C-2218, C-2219, N-210, N-14, N-10894, N-10895, N-2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10217",
+   "header": "**N-10217** TPUSA Leadership Transparency Pressure (Post-Charlie)",
+   "label": "TPUSA Leadership Transparency Pressure (Post-Charlie)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Persistent pressure articulated in this episode on TPUSA leadership (CEO/chairman Erika Kirk; Tyler Bowyer; etc.) to publicly disclose what they can about Rob McCoy, Mikey McCoy/McColgan, Taryl, and the timeline of phone calls/texts surrounding Charlie Kirk's death."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2230, N-2, N-41, N-Rob McCoy, N-Mikey McCoy, N-11*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11",
+   "header": "**N-11** Tyler Bowyer",
+   "label": "Tyler Bowyer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Person"
+    },
+    {
+     "raw": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: prose mention in episode*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-1",
+   "header": "**N-1** Charlie Kirk",
+   "label": "Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Charlie Kirk; subject of the host's claims about his friendships, views and messages."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2187, C-2188, C-2189, C-2190, C-2207, C-2208, C-2209, C-2211, C-2213, C-2214, C-2215, C-2216, C-2220, C-2221, C-2222, C-2224, C-2225, C-2227, C-2229, C-2241, C-2250, C-2258*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-2",
+   "header": "**N-2** Erika Kirk",
+   "label": "Erika Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Erika Kirk; the host discusses her interview preview and TPUSA leadership role."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2222, C-2224, C-2225, C-2226, C-2228, C-2229, C-2231, C-2233, C-2239, C-2240*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-3",
+   "header": "**N-3** Candace Owens",
+   "label": "Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host; speaks for herself throughout."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2180, C-2181, C-2183, C-2184, C-2185, C-2186, C-2187, C-2188, C-2189, C-2190, C-2193, C-2194, C-2195, C-2196, C-2197, C-2198, C-2199, C-2200, C-2201, C-2202, C-2203, C-2208, C-2209, C-2211, C-2213, C-2214, C-2215, C-2216, C-2220, C-2221, C-2222, C-2223, C-2224, C-2225, C-2226, C-2227, C-2228, C-2232, C-2233, C-2234, C-2235, C-2236, C-2237, C-2238, C-2239, C-2240, C-2241, C-2242, C-2243, C-2244, C-2245, C-2247, C-2248, C-2249, C-2250, C-2252, C-2253, C-2255, C-2257, C-2258, C-2259*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-15",
+   "header": "**N-15** Justin Streiff",
+   "label": "Justin Streiff",
+   "lines": [
+    {
+     "raw": "Justin Streiff; transcribed as Stripe. The host thinks he was the CEO before Erika Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2233*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-17",
+   "header": "**N-17** Rob McCoy",
+   "label": "Rob McCoy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Rob McCoy; the host says he is lying."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2223, C-2234, C-2235*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-22",
+   "header": "**N-22** Tucker Carlson",
+   "label": "Tucker Carlson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Tucker Carlson; target of the RJC attacks and Shapiro's segment."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2181, C-2183, C-2184, C-2186, C-2187, C-2188, C-2192, C-2193, C-2204, C-2213, C-2221, C-2259*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-46",
+   "header": "**N-46** Megyn Kelly",
+   "label": "Megyn Kelly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Megyn Kelly; the host says Charlie opened up to her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2226, C-2227*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-50",
+   "header": "**N-50** Sigmund Freud",
+   "label": "Sigmund Freud",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Sigmund Freud; credited by the host with founding modern psychology."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2198*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-82",
+   "header": "**N-82** Brigitte Macron",
+   "label": "Brigitte Macron",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Brigitte Macron; the aired clip refers to Macron's spouse."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2196*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-97",
+   "header": "**N-97** Ben Shapiro",
+   "label": "Ben Shapiro",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Ben Shapiro; subject of the segment the host plays and rebuts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2192, C-2193, C-2194, C-2195, C-2197, C-2204, C-2207, C-2208, C-2211, C-2216*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-99",
+   "header": "**N-99** Alex Clark",
+   "label": "Alex Clark",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Alex Clark; the host says she lied about the Catholic matter."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2223*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-154",
+   "header": "**N-154** John Mappin",
+   "label": "John Mappin",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "John Mappin; donor the host says Bowyer targeted."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2236*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-155",
+   "header": "**N-155** Irina Mappin",
+   "label": "Irina Mappin",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Irina Mappin; donor the host says Bowyer targeted."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2236*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-190",
+   "header": "**N-190** Mikey McCoy",
+   "label": "Mikey McCoy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Mikey McCoy; transcribed as McColgan and McCoy."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2223, C-2234*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-201",
+   "header": "**N-201** Nick Fuentes",
+   "label": "Nick Fuentes",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Nick Fuentes; subject of the interview dispute."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2188, C-2189, C-2190, C-2192, C-2207, C-2258*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-220",
+   "header": "**N-220** Milo Yiannopoulos",
+   "label": "Milo Yiannopoulos",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Milo Yiannopoulos; his name is used as a verb for ending a career."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2211*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-222",
+   "header": "**N-222** Randy Fine",
+   "label": "Randy Fine",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Randy Fine; congressman the host criticizes for RJC remarks."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2180, C-2183, C-2185, C-2259*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-268",
+   "header": "**N-268** Joe Rogan",
+   "label": "Joe Rogan",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Joe Rogan; host of the 2018 appearance Shapiro objected to."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2211*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-377",
+   "header": "**N-377** Emmanuel Macron",
+   "label": "Emmanuel Macron",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Emmanuel Macron; subject of a claim in the aired clip."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2196*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-704",
+   "header": "**N-704** Sheldon Adelson",
+   "label": "Sheldon Adelson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Sheldon Adelson; founder of the gambling empire the host cites."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2199*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-709",
+   "header": "**N-709** Volodymyr Zelensky",
+   "label": "Volodymyr Zelensky",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Volodymyr Zelensky; listed in the aired clip."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2196*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10006",
+   "header": "**N-10006** Fox News",
+   "label": "Fox News",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Fox News; the host discusses Tucker's exit and the Watters interview."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2186, C-2225, C-2240*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10025",
+   "header": "**N-10025** Israel Lobby Pressure on Conservative Figures",
+   "label": "Israel Lobby Pressure on Conservative Figures",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Israel Lobby Pressure on Conservative Figures; topic reused."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2187, C-2220, C-2221*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10033",
+   "header": "**N-10033** Hamptons Donor Pressure Investigation",
+   "label": "Hamptons Donor Pressure Investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Hamptons Donor Pressure Investigation; topic reused."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2214*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10047",
+   "header": "**N-10047** Donor Intimidation of Charlie Kirk",
+   "label": "Donor Intimidation of Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Donor Intimidation of Charlie Kirk; topic reused."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2238*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10077",
+   "header": "**N-10077** Robinson-Lance Text Chain Authenticity",
+   "label": "Robinson-Lance Text Chain Authenticity",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Robinson-Lance Text Chain Authenticity; topic reused."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2242*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10083",
+   "header": "**N-10083** AIPAC",
+   "label": "AIPAC",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "AIPAC; the host says it dropped Fine."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2180*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10104",
+   "header": "**N-10104** Catholic Conversion Rumor",
+   "label": "Catholic Conversion Rumor",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Catholic Conversion Rumor; topic reused."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2223, C-2239*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10139",
+   "header": "**N-10139** Operation Mocking Pastor",
+   "label": "Operation Mocking Pastor",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Operation Mocking Pastor; topic reused."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2184*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10148",
+   "header": "**N-10148** Charlie Kirk Pre-Mortem Israel Position Claim",
+   "label": "Charlie Kirk Pre-Mortem Israel Position Claim",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Charlie Kirk Pre-Mortem Israel Position Claim; topic reused."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2220, C-2221, C-2224*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10164",
+   "header": "**N-10164** Charlie Kirk Catholic Trajectory Verification",
+   "label": "Charlie Kirk Catholic Trajectory Verification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Charlie Kirk Catholic Trajectory Verification; topic reused."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2223, C-2239*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10167",
+   "header": "**N-10167** Tyler Bowyer X Defense Pattern",
+   "label": "Tyler Bowyer X Defense Pattern",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Tyler Bowyer X Defense Pattern; topic reused."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2236*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10202",
+   "header": "**N-10202** FBI Charlie Kirk Investigation Handling (Kash Patel)",
+   "label": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "FBI Charlie Kirk Investigation Handling (Kash Patel); topic reused."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2241, C-2243, C-2247*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10206",
+   "header": "**N-10206** TPUSA Text Chain Authenticity Verification",
+   "label": "TPUSA Text Chain Authenticity Verification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "TPUSA Text Chain Authenticity Verification; topic reused."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2235, C-2250*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10236",
+   "header": "**N-10236** Megyn Kelly Tour Attendee Authenticity Question",
+   "label": "Megyn Kelly Tour Attendee Authenticity Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Megyn Kelly Tour Attendee Authenticity Question; topic reused."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2226*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10336",
+   "header": "**N-10336** Tyler Robinson First In-Person Court Appearance Details",
+   "label": "Tyler Robinson First In-Person Court Appearance Details",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Tyler Robinson First In-Person Court Appearance Details; topic reused."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2232*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10337",
+   "header": "**N-10337** Tyler Robinson Prosecution Evidence Base",
+   "label": "Tyler Robinson Prosecution Evidence Base",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Tyler Robinson Prosecution Evidence Base; topic reused."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2231*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10406",
+   "header": "**N-10406** Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
+   "label": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens; topic reused."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2227*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10543",
+   "header": "**N-10543** Charlie Kirk Legacy Control Dispute",
+   "label": "Charlie Kirk Legacy Control Dispute",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Charlie Kirk Legacy Control Dispute; topic reused."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2187, C-2188, C-2213*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10917",
+   "header": "**N-10917** Republican Jewish Coalition",
+   "label": "Republican Jewish Coalition",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Republican Jewish Coalition; event where the signs appeared."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2181, C-2183, C-2259*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11092",
+   "header": "**N-11092** Erika CEO Appointment Timing Explanation (DeGroote versus TPUSA PR Source)",
+   "label": "Erika CEO Appointment Timing Explanation (DeGroote versus TPUSA PR Source)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Erika CEO Appointment Timing Explanation; topic reused."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2233*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11099",
+   "header": "**N-11099** Candace Owens Australia Visa Review",
+   "label": "Candace Owens Australia Visa Review",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Candace Owens Australia Visa Review; topic reused."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2249*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11107",
+   "header": "**N-11107** Erika Kirk Interview Campaign Talking Points",
+   "label": "Erika Kirk Interview Campaign Talking Points",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Erika Kirk Interview Campaign Talking Points; topic reused."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2225, C-2240*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-835",
+   "header": "**N-835** Emma Goldman",
+   "label": "Emma Goldman",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "11:28 in episode 24. Historical anarchist the host credits with bringing feminism to America.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2198*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-836",
+   "header": "**N-836** Al Goldstein",
+   "label": "Al Goldstein",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "12:45 in episode 24. Pornography publisher the host quotes on why Jews are in pornography.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2201*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-837",
+   "header": "**N-837** Samuel Roth",
+   "label": "Samuel Roth",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "12:45 in episode 24. Publisher the host says fought in court for the decision making pornography free speech.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2202*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-838",
+   "header": "**N-838** Magnus Hirschfeld",
+   "label": "Magnus Hirschfeld",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "13:28 in episode 24. Sexologist the host credits as the origin of transgenderism.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2203*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-839",
+   "header": "**N-839** Adam Lanza",
+   "label": "Adam Lanza",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "45:55 in episode 24. Sandy Hook shooter the host cites in a pattern theory about standardized testing and government contact.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2253*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11223",
+   "header": "**N-11223** Sackler Family and Purdue Pharma",
+   "label": "Sackler Family and Purdue Pharma",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "raw": "Family and company the host names as owners of Purdue Pharma and architects of the opioid epidemic, with names on buildings in Tel Aviv."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2199, C-2200*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11224",
+   "header": "**N-11224** Cracker Barrel",
+   "label": "Cracker Barrel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "raw": "Restaurant chain the host cites as an example of customers forcing a reversal of a marketing change."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2237*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11225",
+   "header": "**N-11225** Sallie Mae",
+   "label": "Sallie Mae",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "raw": "Student lender the host says stopped funding her senior year around 2010."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2255, C-2257*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "# Claim Register",
+    ""
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2178",
+   "header": "**C-2178** Lindsey Graham RJC Statement on Anti-Israel Disqualification",
+   "label": "Lindsey Graham RJC Statement on Anti-Israel Disqualification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:01:57"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Lindsey Graham stated at the Republican Jewish Coalition that anti-Israel rhetoric is \"not the road to being elected as a Republican\" and that one \"can't even have an anti-Israel thought.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1313.1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full RJC transcript or video to confirm exact wording, context, and whether the statement was made in a public or closed session."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2182",
+   "header": "**C-2182** Randy Fine Calls Tucker Carlson \"Most Dangerous Anti-Semite\"",
+   "label": "Randy Fine Calls Tucker Carlson \"Most Dangerous Anti-Semite\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Randy Fine stated on stage at the Republican Jewish Coalition that \"Tucker Carlson is the most dangerous anti-Semite in America\" and accused him of taking on the mantle of \"leader of a modern-day Hitler youth.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1313.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-222, N-22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the full RJC recording for the complete quote and any surrounding context."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2179",
+   "header": "**C-2179** Host Characterizes Graham's RJC Statement as Hostile Messaging",
+   "label": "Host Characterizes Graham's RJC Statement as Hostile Messaging",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:01:57"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Host characterizes Lindsey Graham's RJC statement as \"great messaging\" sarcastically, asserting it constitutes hostile messaging directed at American voters who hold anti-Israel views."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1313.1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "This is host concurrence / interpretive stance; verification requires only that A-1313.1 captures the original statement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2205",
+   "header": "**C-2205** Ben Shapiro Accuses Tucker Carlson of Knifing Charlie Kirk",
+   "label": "Ben Shapiro Accuses Tucker Carlson of Knifing Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Ben Shapiro stated that Tucker Carlson \"knifes [friends] directly between the shoulder blades when convenient for him\" and specifically \"preys on the friendship he proclaims\" with Charlie Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1314.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-22, N-97"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify by reviewing Ben Shapiro's full segment; assess the framing in light of host's counter-evidence (Joe Rogan clip, photo, and claimed text messages)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2206",
+   "header": "**C-2206** Ben Shapiro Quotes Charlie Kirk Calling Nick Fuentes \"Vermin\"",
+   "label": "Ben Shapiro Quotes Charlie Kirk Calling Nick Fuentes \"Vermin\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Ben Shapiro stated that \"Charlie believed that Nick Fuentes was vermin. That's a direct quote.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1314.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-201, N-97"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the underlying Charlie Kirk statement Ben Shapiro cites to verify the attribution and original context."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2210",
+   "header": "**C-2210** Candace Owens \"Hall Monitor\" Joke on Joe Rogan (2018)",
+   "label": "Candace Owens \"Hall Monitor\" Joke on Joe Rogan (2018)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:02"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip from her 2018 Joe Rogan appearance that the host plays, Candace Owens says Ben Shapiro \"gets a little like hall monitor,\" compares him to someone \"writing you a pink slip,\" and calls him \"a gateway to Saturday school.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1315.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-97, N-268"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify by locating the full original Joe Rogan episode to confirm wording and date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2212",
+   "header": "**C-2212** Host Shows Photo of Charlie Kirk Puffing His Chest Beside Ben Shapiro",
+   "label": "Host Shows Photo of Charlie Kirk Puffing His Chest Beside Ben Shapiro",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host shows a photo she says was taken with Ben Shapiro when she and Charlie Kirk went on his show after a producer booked them in June 2018, at a location she thinks was in Sherman Oaks, California, and says Charlie puffed his chest out and stood extra tall in it so they would never forget triumphing over Ben Shapiro."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1316.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3, N-97"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify by locating the source image metadata (date, location, producer of the appearance)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2217",
+   "header": "**C-2217** Israeli War Room Reports Erika Kirk Will Accept Pillars of Jerusalem Award",
+   "label": "Israeli War Room Reports Erika Kirk Will Accept Pillars of Jerusalem Award",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:26"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The Israeli War Room X account posted that \"Miss Erika / Mrs. Erika Kirk will accept the award on her husband's behalf\" at Israel's 2025 Christian Media Summit, citing Jerusalem Post reporting by Michael Starr, with the Pillars of Jerusalem Award to be presented by Douglas Murray, Yael Eckstein, and Dr. Jürgen Bühler."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1317.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-2, N-210, N-214, N-215, N-216"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10216, N-10894, N-10895"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify by independently locating the original Jerusalem Post article by Michael Starr, the Israeli War Room X post, and the Christian Media Summit program to confirm whether the award and presenters are real and whether Erika Kirk is listed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2218",
+   "header": "**C-2218** Andrew Kolvet Denies Knowledge of Award",
+   "label": "Andrew Kolvet Denies Knowledge of Award",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "TPUSA spokesperson Andrew Kolvet posted on X that \"this is the first we're hearing of this\" regarding the reported Pillars of Jerusalem Award, and stated TPUSA had reached out to Michael Starr for a correction."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1317.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-210"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10216"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify by locating Kolbenschlag's original X post and any subsequent follow-up from TPUSA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2219",
+   "header": "**C-2219** Michael Starr Acknowledges Israeli Government Press Office \"Wavered\"",
+   "label": "Michael Starr Acknowledges Israeli Government Press Office \"Wavered\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:04"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Michael Starr posted on X that \"the Israeli government press office wavered on claims that Erika Kirk would be accepting [the posthumous award]\" after TPUSA said it was unaware of the award and that its CEO was not scheduled to participate."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1317.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-210, N-2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10216, N-10895"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the original Michael Starr X post and corroborate with any subsequent Jerusalem Post correction or retraction."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2230",
+   "header": "**C-2230** Erika Kirk Opposes Courtroom Camera Ban",
+   "label": "Erika Kirk Opposes Courtroom Camera Ban",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a preview clip of her Jesse Watters interview, Erika Kirk opposed the defense motion to ban cameras in the courtroom, stating \"We deserve to have cameras in there … Let everyone see what true evil is.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1318.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-211"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10217"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify by reviewing the full Jesse Watters interview once aired and any subsequent court filings on the camera question."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2246",
+   "header": "**C-2246** Kash Patel Posts X Defense of Girlfriend Alexis Wilkins",
+   "label": "Kash Patel Posts X Defense of Girlfriend Alexis Wilkins",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Kash Patel posted an extended X message defending his girlfriend Alexis Wilkins against criticism after it emerged he flew the FBI plane to see her in Nashville, asserting she is \"a true patriot\" and \"country music sensation.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1319.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-69, N-212"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify by locating Patel's original X post, and corroborate against any reporting or inspector general review of his use of FBI aircraft for personal travel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2251",
+   "header": "**C-2251** Tom Paul Alleges Tyler Robinson and Crooks Test Score Pattern",
+   "label": "Tom Paul Alleges Tyler Robinson and Crooks Test Score Pattern",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:45:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "A viewer comment the host reads, from Tom Paul, says Tyler Robinson's ACT score was 34, in the 99th percentile, and Thomas Matthew Crooks' SAT score was in the 99th percentile, and that this is not a coincidence, as if out of the same playbook."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1320.5"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-104, N-40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Independently confirm the test scores from public records; assess whether any reporting substantiates a \"playbook\" pattern."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2254",
+   "header": "**C-2254** Petal Requests Clarification on Candace's Degree",
+   "label": "Petal Requests Clarification on Candace's Degree",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:46:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "A viewer (Petal) commented asking Candace Owens to clarify whether she holds a degree, noting that some people claim she does not."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1320.6"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "No investigative direction required – viewer question is recorded as artifact."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2256",
+   "header": "**C-2256** TB Comments on Charlie Kirk's Open-Exchange Values",
+   "label": "TB Comments on Charlie Kirk's Open-Exchange Values",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "A viewer (TB) commented that being exposed to all perspectives with the right to respectfully disagree is what Charlie Kirk stood for, and that \"anyone who is divisive over this right is fake and gay\" (per the host's reported phrasing)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1320.7"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "No investigative direction required – viewer comment is recorded as artifact."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2191",
+   "header": "**C-2191** Host Characterizes Ben Shapiro Segment as Scripted Stab",
+   "label": "Host Characterizes Ben Shapiro Segment as Scripted Stab",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host characterizes Ben Shapiro's segment attacking Tucker Carlson as \"a very, dare I say, scripted stab\" with the \"same talking points\" as other Zionists."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1314.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-22, N-97"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "This is a host interpretive stance; verification is anchored to A-1314.1."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2180",
+   "header": "**C-2180** Host Says Randy Fine Called Palestinians Not Truly Human and AIPAC Dropped Him",
+   "label": "Host Says Randy Fine Called Palestinians Not Truly Human and AIPAC Dropped Him",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:01:57"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Randy Fine has said essentially that Palestinians are not truly human and that even AIPAC had to drop him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Randy Fine, just to be clear, he has been so disgusting in his rhetoric towards Palestinians, saying essentially that they're just not even truly humans. That even AIPAC had to drop him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-222, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10083"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate Fine's original statements and any AIPAC statement ending its support to confirm both parts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2181",
+   "header": "**C-2181** Host Says Interns Printed Red Tucker Is Not Maga Signs",
+   "label": "Host Says Interns Printed Red Tucker Is Not Maga Signs",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says interns were apparently sent to a print shop to print red signs reading \"Tucker Carlson is not Maga\" for the Republican Jewish Coalition event."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "It looks like they sent some poor interns down to FedEx or Kinko's or UPS to print out these totally organic red signs."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1313.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-22"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10917"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain event photos or video of the signs and identify who produced and distributed them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2183",
+   "header": "**C-2183** Host Says Signs Were Handed to Young Men to Wave While Fine Spoke",
+   "label": "Host Says Signs Were Handed to Young Men to Wave While Fine Spoke",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the printed signs were given to young men who were instructed to wave them on stage while Randy Fine spoke."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And they instructed them to wave the posters on stage while Randy Fine, of all people, spoke."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1313.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-222, N-22, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10917"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2181"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review RJC event footage for the sign holders and ask organizers who instructed them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2184",
+   "header": "**C-2184** Host Says Attacks on Tucker Were Instructed and Inorganic, Like Operation Mocking Pastor",
+   "label": "Host Says Attacks on Tucker Were Instructed and Inorganic, Like Operation Mocking Pastor",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the identical anti-Tucker messaging shows it is inorganic and compares it to Operation Mocking Pastor, saying it was clear the speakers were instructed to go after Tucker Carlson."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And they all say the same thing, which shows how inorganic it is. It's like Operation Mocking Pastor. And it was very clear that they were instructed to go after Tucker."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-22, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10139"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the wording of the anti-Tucker statements across speakers and identify any shared script or coordinating source."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2185",
+   "header": "**C-2185** Host Says Randy Fine Called Palestinians Subhuman and Laughed at a Dead Body",
+   "label": "Host Says Randy Fine Called Palestinians Subhuman and Laughed at a Dead Body",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Randy Fine came out with genocidal language against Palestinians, referred to them as subhuman, and laughed when he saw a dead body of a Palestinian."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "like Randy Fine just come right out with genocidal language against the Palestinians, uh referring to them as subhuman, laughing when he sees a dead body of a Palestinian."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-222, N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate Fine's posts or remarks calling Palestinians subhuman and any video of him laughing at a body."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2186",
+   "header": "**C-2186** Host Says Tucker Was Fired From Fox for Opposing the Ukraine War",
+   "label": "Host Says Tucker Was Fired From Fox for Opposing the Ukraine War",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:29"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Fox fired Tucker Carlson because he was speaking out against the Ukrainian war, which she says was not allowed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "That's also why they fired him from Fox because um he was speaking out against the Ukrainian war and that was not allowed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-22, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10006"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Fox News termination statements, court filings from the Dominion matter and reporting on the stated reason for Carlson's exit."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2187",
+   "header": "**C-2187** Host Says Same Individuals Were Squeezing Charlie Over Tucker Before His Death",
+   "label": "Host Says Same Individuals Were Squeezing Charlie Over Tucker Before His Death",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:29"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that, as she proved, the same individuals now attacking Tucker were squeezing Charlie Kirk leading up to the end of his life and wanted Tucker barred from the Turning Point USA stage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We all know, as I proved, that these same individuals were squeezing Charlie Kirk leading up to the end of his life."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-22, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10025, N-10543"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the donor and activist messages to Kirk about Tucker Carlson's speaking slot and identify the senders."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2188",
+   "header": "**C-2188** Host Says Critics Call Tucker Interviewing Fuentes a Betrayal of Charlie",
+   "label": "Host Says Critics Call Tucker Interviewing Fuentes a Betrayal of Charlie",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that Tucker Carlson interviewed Nick Fuentes, and that the same people who pressured Charlie Kirk now assert posthumously that the interview was a betrayal of Charlie and ended their friendship."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "they've now decided to besmirch Charlie's name by asserting that Tucker interviewing Nick Fuentes is a betrayal to Charlie."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-22, N-201, N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10543"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the specific statements asserting the Fuentes interview betrayed Kirk and their dates."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2189",
+   "header": "**C-2189** Host Says She Interviewed Fuentes in July and Charlie Never Objected",
+   "label": "Host Says She Interviewed Fuentes in July and Charlie Never Objected",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she interviewed Nick Fuentes shortly before Charlie died, discussed the interview with Charlie, and he never told her not to speak to Fuentes or called it a betrayal."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Before Charlie died, really kind of just before he died in July, I interviewed Nick Fuentes. And Charlie and I discussed the interview uh and never once did he tell me not to speak to Nick Fuentes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1, N-201"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the Owens–Kirk messages about the Fuentes interview and the interview date; the transcript's \"died in July\" appears garbled."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2190",
+   "header": "**C-2190** Host Says She Urged Charlie and Kolvet That Charlie Host and Debate Fuentes",
+   "label": "Host Says She Urged Charlie and Kolvet That Charlie Host and Debate Fuentes",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she separately told both Charlie and Andrew Kolvet that Charlie should host Nick Fuentes and debate him, that she tried to make it happen, and that Kolvet can confirm this."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I also had a long discussion with Andrew Kolvet that separately, telling them both that Charlie should host Nick Fuentes on his show and debate him. I tried to make that happen."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-14, N-1, N-201"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2189"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask Kolvet to confirm the conversation and look for related messages or scheduling attempts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2192",
+   "header": "**C-2192** Shapiro Says Tucker Is a Coward and Fuentes Correctly Said So",
+   "label": "Shapiro Says Tucker Is a Coward and Fuentes Correctly Said So",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the segment the host plays, Ben Shapiro says Tucker Carlson is a coward and that his relationship with Nick Fuentes begins with Fuentes correctly pointing that out."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Tucker Carlson, you see, is a coward. And here is where his relationship with Nick Fuentes begins."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1314.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-97, N-22, N-201"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review Shapiro's full segment for the exact wording and sourcing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2193",
+   "header": "**C-2193** Shapiro Says Tucker Gave Owens Ideological Laundering Services",
+   "label": "Shapiro Says Tucker Gave Owens Ideological Laundering Services",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the segment the host plays, Ben Shapiro says Tucker Carlson had Candace Owens on a few weeks earlier to treat her to his usual ideological laundering services."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Tucker Carlson a few weeks back had on Candace Owens to treat her to his usual ideological laundering services."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1314.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-97, N-22, N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review Shapiro's full segment to confirm the quote and its context."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2194",
+   "header": "**C-2194** Shapiro Segment Clip Has Owens Saying JFK and 9/11 Were Convenient for Israel",
+   "label": "Shapiro Segment Clip Has Owens Saying JFK and 9/11 Were Convenient for Israel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The clip of the host that Shapiro airs in his segment has her saying it was convenient for Israel that JFK got shot and convenient when the towers went down; the host does not dispute the clip's wording."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And then but it was just convenient for Israel that uh JFK got shot. It was just convenient, you guys. Totally convenient. It was convenient for Israel, by the way, when the towers went down."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3012.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-97"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the original episode from which Shapiro excerpted the clip."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2195",
+   "header": "**C-2195** Shapiro Segment Clip Has Owens Saying Pedophiles Are Intentionally in Power",
+   "label": "Shapiro Segment Clip Has Owens Saying Pedophiles Are Intentionally in Power",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:44"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The clip aired in Shapiro's segment has the host saying pedophiles are literally in power intentionally so they can be controlled, and that many were themselves raped as children."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I'm waking people up to the fact that pedophiles are in power. They're literally in power. And that is intentional because then they can be controlled while they are in power."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3012.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-97"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the original source episode of the excerpt and any support the host offered for it there."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2196",
+   "header": "**C-2196** Shapiro Segment Clip Has Owens Saying Macron Is Married to a Trans Man Who Molested Him",
+   "label": "Shapiro Segment Clip Has Owens Saying Macron Is Married to a Trans Man Who Molested Him",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:44"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The clip aired in Shapiro's segment has the host listing Trudeau, Obama, Zelensky and Macron as gay and saying Macron is married to a trans man who molested him as a child; she says afterward, \"fact check all true.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Emmanuel Macron, gay and married to a trans man who molested him when he was a child."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3012.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-377, N-709, N-82"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the original source episode; Macron legal filings and public records on the claims about Brigitte Macron."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2197",
+   "header": "**C-2197** Host Stands by Clips and Says to Blame Zionists if She Dies Mysteriously",
+   "label": "Host Stands by Clips and Says to Blame Zionists if She Dies Mysteriously",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Shapiro used out-of-context clips and that she stands by her perspectives, including that dinosaur bones are usually found by experts, and says that if she winds up dead in mysterious circumstances people should assume Zionists orchestrated it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And yes, if I wind up dead in mysterious circumstances, you should obviously assume it was orchestrated by Zionists."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3012.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-97"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the full original clips with Shapiro's excerpts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2198",
+   "header": "**C-2198** Host Says Emma Goldman and Freud Brought Feminism and Modern Psychology to America",
+   "label": "Host Says Emma Goldman and Freud Brought Feminism and Modern Psychology to America",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that feminism and modern psychology were brought to and fought for on American shores by people like Emma Goldman and Sigmund Freud."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "people like Emma Goldman on feminism. Sigmund Freud, the father of modern psychology."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-835, N-50"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Historical record on Goldman's and Freud's activities; this is the host's sweeping characterization of a group's role."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2199",
+   "header": "**C-2199** Host Says Adelson Gambling Empire and Sackler Pharmaceuticals Came From the Same Group",
+   "label": "Host Says Adelson Gambling Empire and Sackler Pharmaceuticals Came From the Same Group",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the gambling empire is where the Adelson empire wealth comes from and that many pharmaceuticals came from people like the Sackler family."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The gambling empire uh is where the Adelson empire wealth comes from. Uh as are many pharmaceuticals like the Sackler family."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-704"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11223"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Corporate and philanthropic records on the Adelson and Sackler fortunes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2200",
+   "header": "**C-2200** Host Says Sackler Names Are on Buildings in Tel Aviv",
+   "label": "Host Says Sackler Names Are on Buildings in Tel Aviv",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Sackler family have their names on buildings in Tel Aviv and that they are the owners of Purdue Pharma, the architects of the opioid epidemic."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "These people have their have their names on buildings in Tel Aviv. The owners of Purdue Pharma, the architects of the opioid epidemic."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11223"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Public records of Sackler-named buildings in Tel Aviv and Purdue Pharma ownership and litigation settlements."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2201",
+   "header": "**C-2201** Host Quotes Al Goldstein on Why Jews Are in Pornography",
+   "label": "Host Quotes Al Goldstein on Why Jews Are in Pornography",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host quotes Al Goldstein as having notoriously said the only reason Jews are in pornography is that they think Christ sucks and that pornography defiles Christian culture, and says Goldstein was right."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He's the one who notoriously said, \"The only reason that Jews are in pornography is that we think Christ sucks. Catholicism sucks."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-836"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the original Al Goldstein interview or publication containing the quoted words."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2202",
+   "header": "**C-2202** Host Says Samuel Roth Fought for Pornography Free-Speech Ruling",
+   "label": "Host Says Samuel Roth Fought for Pornography Free-Speech Ruling",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says pornography became considered free speech because Jewish individuals in America fought for that, naming Samuel Roth, who she says fought for the decision in court."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "That's because Jewish individuals in America fought for that. Samuel Roth, actually."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-837"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Court record of Roth v. United States and Roth's role in it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2203",
+   "header": "**C-2203** Host Says Magnus Hirschfeld Is the Origin of Transgenderism",
+   "label": "Host Says Magnus Hirschfeld Is the Origin of Transgenderism",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that if one traces where transgenderism came from, Magnus Hirschfeld was the doctor and sexologist behind it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Transgenderism, go back and and try to figure out where that came from. Magnus Hirschfeld was the doctor and the sexologist."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-838"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Historical record of Hirschfeld's work; this is the host's attribution of a modern movement to one person."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2204",
+   "header": "**C-2204** Shapiro Says Tucker Is the Most Virulent Super Spreader of Vile Ideas",
+   "label": "Shapiro Says Tucker Is the Most Virulent Super Spreader of Vile Ideas",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Ben Shapiro says there is no question Tucker Carlson has become the most virulent super spreader of vile ideas in America and that those who oppose such ideas have every right to call him that."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "There's no question that Tucker has become the most virulent super spreader of vile ideas in America."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1314.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-97, N-22"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review Shapiro's full segment for context."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2207",
+   "header": "**C-2207** Shapiro Says Fuentes Dedicated His Life to Destroying Charlie and TPUSA From Inside",
+   "label": "Shapiro Says Fuentes Dedicated His Life to Destroying Charlie and TPUSA From Inside",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Ben Shapiro says Charlie Kirk believed Nick Fuentes was vermin because Fuentes dedicated his life to destroying Charlie Kirk and TPUSA from the inside."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He believed that because Nick Fuentes dedicated his life to destroying Charlie Kirk and TPUSA from the inside."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1314.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-97, N-1, N-201"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find the underlying Kirk statements about Fuentes that Shapiro relies on."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2208",
+   "header": "**C-2208** Host Says Charlie and Shapiro Did Not Get Along Because Shapiro Hindered TPUSA Early",
+   "label": "Host Says Charlie and Shapiro Did Not Get Along Because Shapiro Hindered TPUSA Early",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie and Ben Shapiro did not get along because Charlie found out Ben was operating behind the scenes to stop him and hinder the growth of Turning Point USA in its early days."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Charlie and Ben Shapiro did not get along uh because Charlie found out that Ben was operating behind the scenes to uh stop him and sort of hinder the growth of Turning Point USA in our early days"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1, N-97"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the Kirk–Owens messages the host cites and ask Shapiro or TPUSA of that era to respond."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2209",
+   "header": "**C-2209** Host Says She Has 80 to 150 Texts From Charlie About Shapiro",
+   "label": "Host Says She Has 80 to 150 Texts From Charlie About Shapiro",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:17"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she has only about 80 to 150 text messages from Charlie to that effect, calls it a fact rather than a debate, and says she will gladly share them if challenged."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And I have only about 80 to 150 text messages from Charlie to that effect."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3013.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain and authenticate the messages; the host has not displayed them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2211",
+   "header": "**C-2211** Host Says Shapiro Told Charlie She Would Milo Her Career",
+   "label": "Host Says Shapiro Told Charlie She Would Milo Her Career",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that, according to her messages with Charlie, Ben told Charlie he was upset about her 2018 Joe Rogan joke and that she was going to Milo her career if Charlie did not get away from her, and that Charlie stuck with her despite Ben's urging."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "specifically Ben said to Charlie that he was upset about that and that he I, Candace, was going to Milo my career if Charlie didn't get away from me."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1315.1, A-3013.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1, N-97, N-220, N-268"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the Kirk–Owens messages that record Shapiro's conversation with Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2213",
+   "header": "**C-2213** Host Says Charlie Loved Tucker and Fought for Him on the TPUSA Stage",
+   "label": "Host Says Charlie Loved Tucker and Fought for Him on the TPUSA Stage",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that, from all her messages with Charlie, he loved, admired and respected Tucker Carlson and fought for Tucker to be on the Turning Point stage until his dying day."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And he fought for Tucker to be on the Turning Point stage until his dying day, literally."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3013.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1, N-22"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10543"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the Kirk messages and internal TPUSA scheduling records about Tucker's stage appearances."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2214",
+   "header": "**C-2214** Host Says Charlie's Vice Was Tying Success to Money and Snakes Entered Through It",
+   "label": "Host Says Charlie's Vice Was Tying Success to Money and Snakes Entered Through It",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:42"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie's vice was probably associating success and growth with money, and that this was probably the conduit through which snakes got into his company and donor base."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it is probably that he associated success and growth with money. And I believe that that is probably the conduit for the snakes that that got into his company got into you know the donor base whatever it is."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10033"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify who entered the company and donor base through fundraising and what the host means by snakes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2215",
+   "header": "**C-2215** Host Says Team Asked Matt Walsh to Host Charlie's Show",
+   "label": "Host Says Team Asked Matt Walsh to Host Charlie's Show",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:27"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that after Charlie's death people close to him, including donors, were touched by a Matt Walsh monologue, and the team reached out to ask Walsh to host Charlie Kirk's show so it could continue."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "So the team reached out to host Matt Walsh to ask Matt Walsh rather to host Charlie Kirk's show because they wanted to keep it going."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-163, N-1"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify who reached out to Walsh and when; ask Walsh or the Daily Wire to confirm."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2216",
+   "header": "**C-2216** Host Says Walsh Hosting Required Shapiro Also Being Invited and TPUSA Accepted",
+   "label": "Host Says Walsh Hosting Required Shapiro Also Being Invited and TPUSA Accepted",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:27"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that those who asked Walsh were told this was not allowed unless Ben Shapiro was also invited, and that Turning Point cordially accepted those posthumous terms."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And they were told that that was not allowed to happen unless Ben Shapiro was also invited."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-163, N-97, N-1"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify who set the condition and whether Shapiro appeared on the Charlie Kirk Show afterward."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2220",
+   "header": "**C-2220** Host Says Charlie Did Waver in His Support for Israel",
+   "label": "Host Says Charlie Did Waver in His Support for Israel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:04"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that, despite the effort to say he did not waver in his support, Charlie did waver, and that the public has been reading Charlie in his own words."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "how many talking heads you sent out to pretend that he didn't waver in his support. He did. He did."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10148, N-10025"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compile the Kirk messages and statements on Israel read on the show and confirm their authenticity."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2221",
+   "header": "**C-2221** Host Says Charlie Supported Israel Until Agent Smiths Pushed Him Over Tucker",
+   "label": "Host Says Charlie Supported Israel Until Agent Smiths Pushed Him Over Tucker",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:49"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie supported Israel throughout his entire career and then felt the \"agent Smiths\" coming in pressing him, ironically over Tucker, and says Charlie died fighting for his friendship with Tucker."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Yes, he supported Israel throughout his entire career and then he felt the agent Smiths coming in pressing him and pushing him ironically over Tucker."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1, N-22"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10148, N-10025"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the people the host calls the agent Smiths and the specific pressure on Kirk about Tucker."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2222",
+   "header": "**C-2222** Host Says Erika Has Not Sat for a Long Interview, Only the Memorial Speech",
+   "label": "Host Says Erika Has Not Sat for a Long Interview, Only the Memorial Speech",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:27:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk has not sat down for a long interview and that all the public has seen from her is the speech at the Charlie Kirk memorial event."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "She hasn't sat down for a long interview. All we have seen from Erika has been the speech at the memorial event for Charlie Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2, N-1"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check Erika Kirk's public interview record before 2025-11-03 against this statement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2223",
+   "header": "**C-2223** Host Lists Those She Targeted for Lying: Clark, Kolvet, Mikey McCoy, Rob McCoy",
+   "label": "Host Lists Those She Targeted for Lying: Clark, Kolvet, Mikey McCoy, Rob McCoy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:27:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she has reserved her investigation for people blatantly lying, citing Alex Clark for lying about the Catholic thing, then Andrew Kolvet, Mikey McCoy and Rob McCoy."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "That was my reason for going after Alex Clark. She lied about the Catholic thing. That was my reason for going after Andrew Kolvet, Mikey McCoy."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-99, N-14, N-190, N-17"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10104, N-10164"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Collect the host's prior episodes on each named person and the specific statements she calls lies."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2224",
+   "header": "**C-2224** Host Says Erika Has Not Claimed Charlie Loved Israel to His Dying Breath",
+   "label": "Host Says Erika Has Not Claimed Charlie Loved Israel to His Dying Breath",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:02"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk has not come out and said Charlie never had an issue with Israel in the end or that he loved Israel to his dying breath."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Did she come out and say Charlie never had an issue with Israel in the end. He loved Israel to his dying breath. She hasn't done that."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10148"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review Erika Kirk's public statements on Kirk's views on Israel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2225",
+   "header": "**C-2225** Host Says Charlie Loved Watters and Fox Gave Them the Most Play Time",
+   "label": "Host Says Charlie Loved Watters and Fox Gave Them the Most Play Time",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:02"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie loved Jesse Watters, that Watters gave them the most play time on Fox News in the beginning, and that Erika's Watters sit-down is dropping this week."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Jesse Watters gave us the most play time on Fox News back in the beginning."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1, N-2, N-211"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10006, N-11107"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Fox News appearance history of Charlie Kirk and Turning Point USA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2226",
+   "header": "**C-2226** Host Says Erika Is Slated to Join Megyn Kelly on Tour",
+   "label": "Host Says Erika Is Slated to Join Megyn Kelly on Tour",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:02"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says, hedging that listeners should not quote her, that she is pretty sure she saw it teased that Erika Kirk is slated to join Megyn Kelly on tour."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Erika also I think slated to join Megyn Kelly on tour. Don't quote me but I'm I'm pretty sure I saw that being teased."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2, N-46"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10236"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check Megyn Kelly's tour announcements for an Erika Kirk appearance."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2227",
+   "header": "**C-2227** Host Says Charlie Opened Up to Megyn Kelly About the Pressure He Was Under",
+   "label": "Host Says Charlie Opened Up to Megyn Kelly About the Pressure He Was Under",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie opened up to Megyn Kelly in the end and that Kelly told the truth about the pressure Charlie was under, for which she is still catching heat."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Charlie opened up to Megan in the end. Megan stood 10 toes down on telling the truth which is why I deeply respect her for doing this about the pressure that Charlie was under"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1, N-46"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10406"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review Megyn Kelly's accounts of her conversations with Kirk and ask her for any messages."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2228",
+   "header": "**C-2228** Host Says She Would Be Quiet if Erika Asked and Was Not Asked",
+   "label": "Host Says She Would Be Quiet if Erika Asked and Was Not Asked",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she said early on that if Erika Kirk asks her to be quiet she will be quiet, and that Erika did not ask her to be quiet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I said early on if Erika Kirk asks me to be quiet, I will be quiet. She didn't ask me to be quiet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the earlier episode where the host made the offer and any contact from Erika Kirk or her representatives."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2229",
+   "header": "**C-2229** Erika Says There Were Cameras All Over Her Husband When He Was Murdered",
+   "label": "Erika Says There Were Cameras All Over Her Husband When He Was Murdered",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:29:46"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the preview clip, Erika Kirk says there were cameras all over her husband when he was murdered, all over her friends and family mourning, and all over her analyzing her every move."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "There were cameras all over my husband when he was murdered. There have been cameras all over my friends and family mourning."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1318.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-1"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full Watters interview to confirm wording."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2231",
+   "header": "**C-2231** Erika Says She Has Seen What the Case Is Built On and There Is Nothing to Hide",
+   "label": "Erika Says She Has Seen What the Case Is Built On and There Is Nothing to Hide",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the preview clip, Erika Kirk says there is nothing to hide, that she knows this because she has seen what the case is built on."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Why not be transparent? There's nothing to hide. I know there's not cuz I've seen what the case is built on."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1318.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10337"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask Erika Kirk or prosecutors what material she was shown and when; compare with the court record."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2232",
+   "header": "**C-2232** Host Says Robinson Was Allowed to Appear Virtually Without Camera for Pre-Hearing Matters",
+   "label": "Host Says Robinson Was Allowed to Appear Virtually Without Camera for Pre-Hearing Matters",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says it is ridiculous to allow the defendant to appear virtually, not even on camera, for some pre-hearing matters."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "how ridiculous it is to allow him to to appear uh virtually, not even on camera uh for some pre-hearing matters."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-40"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10336"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Utah court docket entries on the defendant's remote appearances and camera orders."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2233",
+   "header": "**C-2233** Host Says She Would Have Installed an Interim CEO Below Justin Streiff",
+   "label": "Host Says She Would Have Installed an Interim CEO Below Justin Streiff",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Justin Streiff, she thinks, was the CEO and that she would have advised an interim CEO rather than Erika moving from widow to CEO and chairman."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Someone below Justin Streiff, I think was the CEO. I would have put in an interim CEO"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2, N-15"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11092"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "TPUSA announcements of leadership changes after September 2025 to confirm who held the CEO title before Erika Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2234",
+   "header": "**C-2234** Host Says Public Distrusts What Has Been Seen About the McCoys and the Taryl Video",
+   "label": "Host Says Public Distrusts What Has Been Seen About the McCoys and the Taryl Video",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:32:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says people do not like what they have seen about Mikey McCoy and Rob McCoy, their history and involvement, or the video of Taryl."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "People don't like the stuff that they've seen about Mikey McCoy. They don't like what they've seen about Rob McCoy."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-190, N-17"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10217"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the video of Taryl the host refers to and the McCoy materials in question."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2235",
+   "header": "**C-2235** Host Says People Doubt Message and Call Times and Says Rob McCoy Is Lying",
+   "label": "Host Says People Doubt Message and Call Times and Says Rob McCoy Is Lying",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:32:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says people do not believe what time text messages were sent or when the phone calls took place, and she states that Rob McCoy is lying."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They don't believe what time text messages were sent or when the phone calls took place. You know, Rob McCoy is lying."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-17"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10217, N-10206"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain carrier call and text logs for the relevant timeframe and compare to McCoy's account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2236",
+   "header": "**C-2236** Host Says Bowyer Late-Night Tweeted at Donors Including the Mappins",
+   "label": "Host Says Bowyer Late-Night Tweeted at Donors Including the Mappins",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:33:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Tyler Bowyer was late-night tweeting at donors over the weekend and that she thinks he directed his fire at John Mappin and Irina Mappin, and that someone called John Mappin a loser (the subject is unclear in the transcript)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Tyler Bowyer late-night tweeting at donors as he did over the weekend. I think he directed his fire at like John Mappin and Irina Mappin called John Mappin a loser."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3014.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-11, N-154, N-155"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10167"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate Bowyer's posts from the weekend of 2025-11-01 and confirm who called John Mappin a loser."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2237",
+   "header": "**C-2237** Host Says Cracker Barrel Reversed a Marketing Change After Customer Revolt",
+   "label": "Host Says Cracker Barrel Reversed a Marketing Change After Customer Revolt",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:33:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Cracker Barrel's top executives changed the marketing with highly paid advertisers, customers revolted, and the old man image was put back, using it to illustrate that the market is always right."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "So, maybe the top execs at Cracker Barrel thought it was brilliant to change the marketing and they brought in the highest-paid advertisers to do that and they thought it was sleek"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11224"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Cracker Barrel's 2025 logo and rebranding reversal announcements."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2238",
+   "header": "**C-2238** Host Says TPUSA Has Issued No Messaging on Whether Donors Were Removed",
+   "label": "Host Says TPUSA Has Issued No Messaging on Whether Donors Were Removed",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says there is no messaging from Turning Point about whether the donors in question were removed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We've got no messaging about whether those donors were removed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10217, N-10047"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask TPUSA whether any donors were removed and review its public statements."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2239",
+   "header": "**C-2239** Host Says the Catholic Topic Dance Did Not Come From Erika",
+   "label": "Host Says the Catholic Topic Dance Did Not Come From Erika",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the dance around the Catholic topic did not come from Erika Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Why are we getting this dance around the Catholic topic, which again, did not come from Erika, okay?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10104, N-10164"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Trace who first pushed the Catholic denial narrative among TPUSA-linked figures."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2240",
+   "header": "**C-2240** Host Says Erika's Watters Interview Premieres in Two Days on Fox News",
+   "label": "Host Says Erika's Watters Interview Premieres in Two Days on Fox News",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:35:20"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Erika Kirk interview with Jesse Watters is going to premiere in two days on Fox News."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Look forward to obviously watching the interview that is going to premiere in two days on Fox News with Jesse Watters."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2, N-211"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10006, N-11107"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Fox News airing schedule for the interview."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2241",
+   "header": "**C-2241** Host Says Charlie Was a Big Supporter of Kash Patel and Pushed for His FBI Role",
+   "label": "Host Says Charlie Was a Big Supporter of Kash Patel and Pushed for His FBI Role",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:35:29"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie Kirk was a big supporter of Kash Patel, had him on his show and really pushed for him to get the director of the FBI role."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Charlie Kirk was a big supporter of Kash Patel, had him on his show, really pushed for him to get the role that he is in, director of the FBI"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1, N-69"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10202"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Charlie Kirk Show episodes with Patel and public Kirk statements backing his nomination."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2242",
+   "header": "**C-2242** Host Says Case Messages Attributed to 20-Year-Old Gay Men Do Not Sound Gen Z",
+   "label": "Host Says Case Messages Attributed to 20-Year-Old Gay Men Do Not Sound Gen Z",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:35:29"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the case makes no sense, citing the impassioned messages attributed to 20-year-old gay men, which she says don't exactly sound Gen Z."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "from the impassioned um messages written by 20-year-old gay men, which don't exactly sound Gen Z"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10077"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the court exhibits of the text chain and have a forensic linguist assess them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2243",
+   "header": "**C-2243** Host Says Patel Flew His FBI Plane to Nashville to See Alexis Wilkins",
+   "label": "Host Says Patel Flew His FBI Plane to Nashville to See Alexis Wilkins",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Kash Patel, as she understands it, flew his FBI plane down to Nashville to see Alexis Wilkins and that the internet called it an inappropriate use of taxpayer funds."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I guess he flew down in his FBI plane to go see her down in Nashville."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-69, N-212"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10202"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Flight records and any FBI or inspector-general statement on Patel's travel to Nashville."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2244",
+   "header": "**C-2244** Host Says Patel Is Required to Fly the FBI Plane Wherever He Goes",
+   "label": "Host Says Patel Is Required to Fly the FBI Plane Wherever He Goes",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says it turns out the FBI director is required to fly on the FBI plane no matter where he goes, whether a personal or business event."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Now, it turns out that he is required uh to fly on the FBI plane no matter where he goes, whether it's a personal event or if it's a business event"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-69"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "FBI security policy for the director's air travel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2245",
+   "header": "**C-2245** Host Says Clips Show Patel Calling FBI Corrupt and Opposing Taxpayer-Funded Personal Trips",
+   "label": "Host Says Clips Show Patel Calling FBI Corrupt and Opposing Taxpayer-Funded Personal Trips",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says there are clips of Kash Patel calling the FBI corrupt before he joined it and saying taxpayers should not have to fund personal trips, making him a hypocrite."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "there are clips of Kash Patel uh calling the FBI corrupt before he was in the FBI and saying that taxpayer taxpayers shouldn't have to fund their personal trips."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3016.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-69"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the original Patel clips and their dates."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2247",
+   "header": "**C-2247** Twitter Fact Check Says Critics React to Patel Firing People Over Travel Funds",
+   "label": "Twitter Fact Check Says Critics React to Patel Firing People Over Travel Funds",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads a fact check on Patel's post saying people are not attacking his significant other but reacting to his firing of people who pointed out his use of government funds to travel to her shows."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "People are not attacking Kash Patel's significant other, but rather reacting to his firing of people who point out his usage of government funds to travel to her shows."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3015.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-69, N-212, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10202"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the fact-check note and reporting on any firings tied to Patel's travel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2248",
+   "header": "**C-2248** Host Says Patel Has Dated Alexis Wilkins for About a Year and a Half",
+   "label": "Host Says Patel Has Dated Alexis Wilkins for About a Year and a Half",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:54"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Kash Patel has only been dating Alexis Wilkins for about a year and a half and that she is not a country music sensation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He's only been dating her by the way for like a year and a half, okay?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-69, N-212"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Public reporting on when the relationship began and on Wilkins' music career."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2249",
+   "header": "**C-2249** Host Says She Is Banned From Australia",
+   "label": "Host Says She Is Banned From Australia",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she is banned from Australia."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I wish that I was not banned from Australia, but you know me."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11099"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Australian Department of Home Affairs visa decision documents on the host."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2250",
+   "header": "**C-2250** Host Says TPUSA Has Access to All of Charlie's Messages and Can Verify Hers",
+   "label": "Host Says TPUSA Has Access to All of Charlie's Messages and Can Verify Hers",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:45:18"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Turning Point USA has access to all of Charlie's messages and can tell you that the messages she shares are real, whether or not they are true."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Is it Turning Point USA has access to all of his messages? They can tell you that the messages are real, whether they're true or whether they're false."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3013.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10206"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2209"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask TPUSA to confirm or deny the authenticity of the messages the host has published."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2252",
+   "header": "**C-2252** Host Says Standardized Testing Flags Potential Problem People for the Government",
+   "label": "Host Says Standardized Testing Flags Potential Problem People for the Government",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:45:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she believes the reason for standardized testing is that it flags for the government people who could be a problem down the line."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I believe that is the reason for standardized test testing is that it flags for the government people that could be a problem down the line."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1320.5"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2251"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "No documentary support is offered; the host frames it as her belief."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2253",
+   "header": "**C-2253** Host Recounts Adam Lanza as Hacker Visited by FBI and Tied to Yale Program",
+   "label": "Host Recounts Adam Lanza as Hacker Visited by FBI and Tied to Yale Program",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:45:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that a Connecticut shooter, whom she thinks is Adam Lanza, hacked a government system, then the FBI came to his door and he was part of a Yale program."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He somehow hacked the government system, and then the FBI showed up at his door, and then he was a part of some Yale program. I think it's Adam Lanza that I'm thinking of."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1320.5"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-839"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2251"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Sandy Hook investigative records (Connecticut State Attorney report) on Lanza's education and any government contact; the host herself is unsure of the name."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2255",
+   "header": "**C-2255** Host Says Sallie Mae Stopped Funding Her Senior Year Around 2010",
+   "label": "Host Says Sallie Mae Stopped Funding Her Senior Year Around 2010",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:46:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Sallie Mae had a big collapse, probably in 2010 (she says not to quote her on the year), and told her she could not return for her senior year because it could no longer fund it, so she dropped out temporarily."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Sallie Mae had a big collapse, and they said you can't go back for your senior year because we can no longer fund you to go back for your senior year."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1320.6"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11225"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "University of Rhode Island and loan records for the host; the host hedges on the year."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2257",
+   "header": "**C-2257** Host Says She Re-Enrolled After Paying Loans and Holds Two Degrees",
+   "label": "Host Says She Re-Enrolled After Paying Loans and Holds Two Degrees",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that after paying down roughly $150,000 in student loans she re-enrolled to finish her last year and has two degrees."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Once I paid down my student loans, I re-enrolled to finish my last year. And so I have two degrees, actually."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1320.6"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11225"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Degree conferral records from the host's university."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2258",
+   "header": "**C-2258** Host Says Charlie Believed in Free Speech and Did Not Blink at Her Hosting Fuentes",
+   "label": "Host Says Charlie Believed in Free Speech and Did Not Blink at Her Hosting Fuentes",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie believed in free speech and did not even blink when she hosted Nick Fuentes, and that she would not have remained friends with him if he had called it a betrayal."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Charlie believed in free speech. He didn't even blink when I hosted Nick Fuentes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1320.7"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1, N-201"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2189"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the Kirk–Owens messages from the period of the Fuentes interview."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2259",
+   "header": "**C-2259** Host Says the Tucker Is Not MAGA Signs Were Donor-Printed",
+   "label": "Host Says the Tucker Is Not MAGA Signs Were Donor-Printed",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:48:20"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says it is not cool to hold up what she calls 'like some donor-printed signs' reading 'Tucker is not MAGA' and do a dance in front of Randy Fine."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "It's not cool to hold up like some donor-printed signs and do a dance in front of Randy Fine, \"Tucker is not MAGA.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1313.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-222, N-22"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10917"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2181"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the donor or organization that printed the signs; the host presents no evidence beyond assertion here."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "# Optional Flags",
+    "",
+    "- Name uncertainty: \"Jesse Watters\" appears verbatim in the transcript; the Fox News host's standard spelling is \"Jesse Watters.\" Preserved as transcript renders.",
+    "- Name uncertainty: \"Andrew Kolvet\" mentioned in the body of the podcast and \"Andrew Kolvet\" mentioned as TPUSA spokesperson – unclear whether the same person. Inscribed node uses Kolbenschlag form to match the X handle cited.",
+    "- Name uncertainty: \"Jürgen Bühler\" – preserved verbatim from the Israeli War Room / Jerusalem Post citation; commonly appears as \"Juergen Bühler.\"",
+    "- Artifact verbally referenced but not confirmed visually shown: A-1313.3 (RJC stage poster); host describes the sign but the transcript does not show it as a displayed image. Confidence Level: Medium.",
+    "- Transcript ambiguity: Candace's recount of Charlie Kirk's \"Milo\" remark, the photo at Ben Shapiro's set, and the alleged behind-the-scenes text messages from Charlie are NOT presented as artifacts in this episode; the host refers to messages she has but does not display them. Related claims (about Charlie-Ben relations, Ben's alleged \"Milo\" remark, Candace's 80–150 text messages) are therefore NOT inscribed as claims.",
+    "- Requires human verification: The Tyler Robinson ACT 34 figure (C-2251 / A-1320.5) originates from a viewer comment; no court filing, news report, or record is presented in this episode.",
+    "",
+    "## 6. Meme Register",
+    ""
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-13",
+   "header": "**M-13** (meme) Fake and Gay",
+   "label": "(meme) Fake and Gay",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:01:09"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "So obviously, a major theme of this podcast is that everything truly is fake and gay."
+    },
+    {
+     "k": "Context",
+     "v": "Host declares Fake and Gay a major show theme."
+    },
+    {
+     "k": "Tags",
+     "v": "catchphrase, show_theme"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:47:40"
+    },
+    {
+     "k": "Speaker",
+     "v": ""
+    },
+    {
+     "k": "Quote",
+     "v": "So anyone who is divisive over this right is, as Candace says it, fake and gay.\" Yeah, Charlie believed in free speech."
+    },
+    {
+     "k": "Context",
+     "v": "Wave 3 MemeLink backfill: Fake and Gay at 00:47:40 (audit missing_memelink)."
+    },
+    {
+     "k": "Tags",
+     "v": "reuse, memelink_backfill"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-77",
+   "header": "**M-77** (meme) Operation Mocking Pastor",
+   "label": "(meme) Operation Mocking Pastor",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:05:30"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "It's like Operation Mocking Pastor."
+    },
+    {
+     "k": "Context",
+     "v": "Host compares the identical anti-Tucker attacks to the alleged pastor influence operation."
+    },
+    {
+     "k": "Tags",
+     "v": "reuse, operation_mocking_pastor"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-42",
+   "header": "**M-42** (meme) Scripted",
+   "label": "(meme) Scripted",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:00:00"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "almost as though it's scripted."
+    },
+    {
+     "k": "Context",
+     "v": "Host says Ben Shapiro's remarks match what every Zionist said in the prior 48 hours."
+    },
+    {
+     "k": "Tags",
+     "v": "reuse, scripted"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:09:20"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "he took a very, dare I say, scripted stab at Tucker Carlson."
+    },
+    {
+     "k": "Context",
+     "v": "Host frames Shapiro's segment as scripted."
+    },
+    {
+     "k": "Tags",
+     "v": "reuse, scripted"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-26",
+   "header": "**M-26** (meme) Gaslight",
+   "label": "(meme) Gaslight",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:23:04"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "when they get caught they then gaslight and pretend that they didn't get caught with their hands in the cookie jar"
+    },
+    {
+     "k": "Context",
+     "v": "Host says Israel gaslights after being caught over the Jerusalem Post award claim."
+    },
+    {
+     "k": "Tags",
+     "v": "reuse, gaslight"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-248",
+   "header": "**M-248** (meme) The Market Is Always Right",
+   "label": "(meme) The Market Is Always Right",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:33:19"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "The market's always right."
+    },
+    {
+     "k": "Context",
+     "v": "Host repeats her husband's saying to argue the public does not trust TPUSA donors or the official story."
+    },
+    {
+     "k": "Tags",
+     "v": "running_bit, new"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:36:16"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "The market is always right, okay?"
+    },
+    {
+     "k": "Context",
+     "v": "Host applies the saying to the internet's reaction to Kash Patel's flight."
+    },
+    {
+     "k": "Tags",
+     "v": "running_bit, new"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    }
+   ]
+  }
+ ]
+}

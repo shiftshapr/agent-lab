@@ -1,0 +1,8154 @@
+{
+ "format": "cka-source/1",
+ "episode": 145,
+ "blocks": [
+  {
+   "kind": "text",
+   "lines": [
+    "## 1. Meta-Data",
+    "",
+    "- **Episode**: 145",
+    "- **Monument**: cka",
+    "- **CKA seq**: 145",
+    "- **YouTube id**: JrhGEm8MGRY",
+    "- **Candace Ep**: 380",
+    "- **Source**: Candace Owens YouTube",
+    "- **Video Timestamp Range**: 00:00:00–00:52:04",
+    "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
+    "- **Transcript SHA-256**: 23bb408e2b2afb32cf5df1e5348b130e6dfd95e02867b817907272ad2bf41bed",
+    "",
+    "- **Episode Ledger Summary**:",
+    "  - Tip-minted Nodes (supplement_2026-10f): N-927, N-928, N-11363",
+    "  - Hole-minted Nodes (reintro-ep145): N-281, N-10885",
+    "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
+    "  - Claim Range: C-12448–C-12532",
+    "  - Reused Nodes Appearing: N-10814, N-10815, N-10816, N-18, N-22, N-30, N-58, N-118, N-154, N-155, N-178, N-190, N-375, N-486, N-659, N-870, N-926, N-10000, N-10024, N-10026, N-10235, N-10386, N-10661, N-10888, N-10900, N-11191, N-11195, N-11262",
+    " - New Nodes Introduced: N-10814, N-10815, N-10816",
+    " - Reused Nodes Appearing: none (Wave 2: local ids removed), N-484",
+    " - (see registers)",
+    "",
+    "---",
+    "",
+    "# Episode 145 – Analysis Record",
+    "",
+    "## I. Meta-Data",
+    "",
+    "- **Episode Title:** \"We're Back! And You'll NEVER GUESS Who I Ran Into In Iceland. | Ep 380\"",
+    "- **Series Title:** Bride of Charlie",
+    "- **Episode Number:** 145 (CKA) / 380 (host numbering)",
+    "- **Channel / Creator:** Candace Owens (@RealCandaceO)",
+    "- **Episode Date:** 2026-08-31",
+    "- **Source Used for Analysis:** YouTube captions (yt-dlp-auto-tv_embedded), cleaned with video context; transcript-cleaned",
+    "- **Transcript Completeness Status:** Complete for spoken content; music cues dropped; no invented words",
+    "- **Analyst / Agent Name:** Investigative Analysis Agent (Episode Analysis Protocol)",
+    "- **Analysis Date:** 2026-08-31",
+    "- **Ledger Continuation Summary:** See header at end of record",
+    "",
+    "## II. Executive Summary",
+    "",
+    "The episode opens with the host recounting a personal 7th-anniversary fishing trip to Iceland, during which she unexpectedly encountered Justin Baldoni and his family at the airport. The encounter is presented as the emotional closure of the host's prior investigative work on the Lively v. Baldoni litigation and is grounded by an on-screen photograph. The host then transitions into a lengthy historical reflection on the support she received from John and Irina Mappin following the Charlie Kirk assassination, reading aloud an extended excerpt from their October 6, 2025 article, \"Candace Owens, Charlie Kirk, and the Pursuit of Truth.\"",
+    "",
+    "The second half of the episode advances a new investigative thesis: that a coordinated state-level messaging operation – involving the Department of War (Pentagon), the State Department (specifically Under Secretary Sarah Rogers), Turning Point USA figures (Blake Neff, Andrew Kolvet), and financier Bill Ackman – is being directed against the host's investigation into the Charlie Kirk assassination. The host anchors this claim to a chain of read-aloud or displayed artifacts: Jennica Pounds / Data Republican's X thread and her subsequent admission of Special Government Employee (SGE) status at the Department of War; Blake Neff's confirmation post about Sarah Rogers; Andrew Kolvet's endorsement of Data Republican; and Bill Ackman's amplification of Data Republican's content. The NCRI report \"Permission to Kill\" is also referenced.",
+    "",
+    "The structural importance of the episode lies in its consolidation of public statements from named individuals into a single artifact-anchored narrative about coordinated institutional action against the host's investigation, and its public framing of those statements as themselves constituting the propaganda operation. The Lively v. Baldoni CCRD filing is also read aloud in a brief excerpt.",
+    "",
+    "## III. Artifact Register",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2310",
+   "header": "**A-2310** Iceland Airport Encounter Photo Bundle",
+   "label": "Iceland Airport Encounter Photo Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2310.1",
+   "header": "**A-2310.1** Photograph of the host with Justin Baldoni, his wife, and two children at an Iceland airport",
+   "label": "Photograph of the host with Justin Baldoni, his wife, and two children at an Iceland airport",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:13:27"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12466, C-12467*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2311",
+   "header": "**A-2311** John & Irina Mappin Article Bundle",
+   "label": "John & Irina Mappin Article Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2311.1",
+   "header": "**A-2311.1** \"Candace Owens, Charlie Kirk, and the Pursuit of Truth\" – October 6, 2025 article by John and Irina Mappin; host read aloud extended excerpt",
+   "label": "\"Candace Owens, Charlie Kirk, and the Pursuit of Truth\" – October 6, 2025 article by John and Irina Mappin; host read aloud extended excerpt",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:07:38–00:08:27"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12461, C-12462, N-1, N-2*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2312",
+   "header": "**A-2312** NCRI Report Bundle",
+   "label": "NCRI Report Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2312.1",
+   "header": "**A-2312.1** NCRI (Network Contagion Research Institute) report titled \"Permission to Kill\" characterizing the host as a \"digital assassin\"; verbally referenced by host",
+   "label": "NCRI (Network Contagion Research Institute) report titled \"Permission to Kill\" characterizing the host as a \"digital assassin\"; verbally referenced by host",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:28:26"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "k": "Flag",
+     "v": "Artifact verbally referenced but not displayed"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12488, C-12489, C-12490, N-10815*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2313",
+   "header": "**A-2313** Data Republican X Thread Bundle",
+   "label": "Data Republican X Thread Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2313.1",
+   "header": "**A-2313.1** X thread by Jennica Pounds (@DataRepublican) alleging the host creates a \"permission structure\" for violence against Erika Kirk; shown on screen",
+   "label": "X thread by Jennica Pounds (@DataRepublican) alleging the host creates a \"permission structure\" for violence against Erika Kirk; shown on screen",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:30:13–00:31:33"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12495, C-12498, C-12499*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2314",
+   "header": "**A-2314** Jennica Pounds SGE Admission Bundle",
+   "label": "Jennica Pounds SGE Admission Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2314.1",
+   "header": "**A-2314.1** X post by Jennica Pounds stating \"I began working as a special government employee for the Department of War in July to serve the country in a more hands-on way\"; host read aloud",
+   "label": "X post by Jennica Pounds stating \"I began working as a special government employee for the Department of War in July to serve the country in a more hands-on way\"; host read aloud",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:34:07–00:34:53"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12507, C-12509, N-10814*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2315",
+   "header": "**A-2315** Blake Neff Sarah Rogers Post Bundle",
+   "label": "Blake Neff Sarah Rogers Post Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2315.1",
+   "header": "**A-2315.1** X post by Blake Neff reading \"My friend Sarah Rogers is one of Charlie's favorite Trump nominees. She was finally confirmed a week ago and sworn in last Friday as the Under Secretary for Public Diplomacy at the State Department\"; host read aloud",
+   "label": "X post by Blake Neff reading \"My friend Sarah Rogers is one of Charlie's favorite Trump nominees. She was finally confirmed a week ago and sworn in last Friday as the Under Secretary for Public Diplomacy at the State Department\"; host read aloud",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:33:25"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12504, C-12505, N-10814*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2316",
+   "header": "**A-2316** Bill Ackman Data Republican Promotion Bundle",
+   "label": "Bill Ackman Data Republican Promotion Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2316.1",
+   "header": "**A-2316.1** Bill Ackman X post promoting Data Republican content: \"An important read on Charlie Kirk and Candace Owens\"; verbally referenced by host",
+   "label": "Bill Ackman X post promoting Data Republican content: \"An important read on Charlie Kirk and Candace Owens\"; verbally referenced by host",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:31:33"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "k": "Flag",
+     "v": "Artifact verbally referenced; precise post identification not specified"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12499, N-10814*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2317",
+   "header": "**A-2317** Andrew Kolvet Data Republican Endorsement Bundle",
+   "label": "Andrew Kolvet Data Republican Endorsement Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2317.1",
+   "header": "**A-2317.1** X post by Andrew Kolvet reading \"Thank you, Data Republican for doing this. This thread exposes how Candace and her ilk have created the requisite permission structure for some lunatic to try and kill Erika\"; host read aloud",
+   "label": "X post by Andrew Kolvet reading \"Thank you, Data Republican for doing this. This thread exposes how Candace and her ilk have created the requisite permission structure for some lunatic to try and kill Erika\"; host read aloud",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:31:33"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12498, N-10814*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2318",
+   "header": "**A-2318** TPUSA Tour Announcement Bundle",
+   "label": "TPUSA Tour Announcement Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2318.1",
+   "header": "**A-2318.1** Turning Point USA public announcement of \"Love It or Leave It\" tour featuring Daily Wire personalities (Michael Knowles, Brandon Tatum, Alex Clark, Ben Shapiro, Matt \"Nuclear\"); verbally referenced by host",
+   "label": "Turning Point USA public announcement of \"Love It or Leave It\" tour featuring Daily Wire personalities (Michael Knowles, Brandon Tatum, Alex Clark, Ben Shapiro, Matt \"Nuclear\"); verbally referenced by host",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:37:33"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "k": "Flag",
+     "v": "Artifact verbally referenced; specific announcement post not displayed"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12516*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2319",
+   "header": "**A-2319** Lively v. Baldoni CCRD Filing Excerpt Bundle",
+   "label": "Lively v. Baldoni CCRD Filing Excerpt Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2319.1",
+   "header": "**A-2319.1** Excerpt from the California Civil Rights Department (CCRD) complaint filing in Lively v. Baldoni, reading \"To add insult to injury, Mr. Heath approached Ms. Lively and her assistant on set and started playing a video of a fully nude woman with her legs spread apart. Ms. Lively thought that he was showing her pornography and stopped him\"; host read aloud",
+   "label": "Excerpt from the California Civil Rights Department (CCRD) complaint filing in Lively v. Baldoni, reading \"To add insult to injury, Mr. Heath approached Ms. Lively and her assistant on set and started playing a video of a fully nude woman with her legs spread apart. Ms. Lively thought that he was showing her pornography and stopped him\"; host read aloud",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:17:34–00:18:39"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12474, C-12475*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3255",
+   "header": "**A-3255** Host October 27 War Statement Bundle",
+   "label": "Host October 27 War Statement Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3255.1",
+   "header": "**A-3255.1** Host verbal reference to, and apparent replay of, her October 27, 2025 statement \"I want war with all of you\"",
+   "label": "Host verbal reference to, and apparent replay of, her October 27, 2025 statement \"I want war with all of you\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"I want war with all of you.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:00:50"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12450*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3256",
+   "header": "**A-3256** Iceland Salmon Photo Bundle",
+   "label": "Iceland Salmon Photo Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3256.1",
+   "header": "**A-3256.1** Photograph of the host's first Atlantic salmon, shown on screen",
+   "label": "Photograph of the host's first Atlantic salmon, shown on screen",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:03:10"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12452*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3257",
+   "header": "**A-3257** Sponsor Read Bundle",
+   "label": "Sponsor Read Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3257.1",
+   "header": "**A-3257.1** Host sponsor read for Pre-Born",
+   "label": "Host sponsor read for Pre-Born",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Every tax-deductible gift is used to rescue babies and share the hope of Jesus Christ with their mothers.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:25:04"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12483, C-12484*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3258",
+   "header": "**A-3258** Jennica Pounds Photo Bundle",
+   "label": "Jennica Pounds Photo Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3258.1",
+   "header": "**A-3258.1** Photograph of Jennica Pounds shown on screen",
+   "label": "Photograph of Jennica Pounds shown on screen",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:29:30"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12493*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3259",
+   "header": "**A-3259** Sarah Rogers and Blake Neff Photo Bundle",
+   "label": "Sarah Rogers and Blake Neff Photo Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3259.1",
+   "header": "**A-3259.1** Photograph of Sarah Rogers and Blake Neff shown on screen",
+   "label": "Photograph of Sarah Rogers and Blake Neff shown on screen",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:33:15"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12503*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3260",
+   "header": "**A-3260** Tax Network USA Sponsor Read Bundle",
+   "label": "Tax Network USA Sponsor Read Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3260.1",
+   "header": "**A-3260.1** Host sponsor read for Tax Network USA",
+   "label": "Host sponsor read for Tax Network USA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:40:51"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12523*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3261",
+   "header": "**A-3261** Decentralized Intelligence Agency Tip Line Bundle",
+   "label": "Decentralized Intelligence Agency Tip Line Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3261.1",
+   "header": "**A-3261.1** Host verbal reference to the tip email address moretips@candaceowens.com",
+   "label": "Host verbal reference to the tip email address moretips@candaceowens.com",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"please do email us moretips@candaceowens. com.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:44:50"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12525*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3261.2",
+   "header": "**A-3261.2** Host verbal call for State Department whistleblowers to email tips",
+   "label": "Host verbal call for State Department whistleblowers to email tips",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Please do email us.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:45:12"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12526*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## IV. Node Register",
+    "",
+    "### People Nodes",
+    ""
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10814",
+   "header": "**N-10814** Pentagon–State Department–TPUSA Coordinated Messaging Operation",
+   "label": "Pentagon–State Department–TPUSA Coordinated Messaging Operation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Persistent thesis, anchored across multiple artifacts in this episode, asserting that the Department of War, the State Department (via Under Secretary Sarah Rogers), Turning Point USA allies (Blake Neff, Andrew Kolvet), and financier Bill Ackman are jointly executing a messaging operation against the host's investigation into the Charlie Kirk assassination."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "6"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-2313.1, A-2314.1, A-2315.1, A-2316.1, A-2317.1, C-12498, C-12499, C-12507, C-12501, C-12512*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10815",
+   "header": "**N-10815** NCRI Report Provenance and Authorship",
+   "label": "NCRI Report Provenance and Authorship",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Persistent question regarding the authorship, funding, and institutional backing of the NCRI \"Permission to Kill\" report; host asserts it was authored by Kairos company, the former PR firm of Andrew Kolvet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "3"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-2312.1, C-12488, C-12489, C-12490*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10816",
+   "header": "**N-10816** Charlie Kirk September 9, 2025 Text Messages",
+   "label": "Charlie Kirk September 9, 2025 Text Messages",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host asserts (without artifact) that Charlie Kirk texted multiple people on September 9, 2025 stating he wanted the host back in his life. No artifact shown in this episode; requires independent verification."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: N-1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "### Existing Nodes Reused",
+    "",
+    "- N-1 Charlie Kirk",
+    "- N-2 Erika Kirk (host uses \"Erika\" spelling in this episode)",
+    "- N-3 Candace Owens",
+    ""
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-1",
+   "header": "**N-1** Charlie Kirk",
+   "label": "Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of the assassination; the host reports his past statements, dreams and alleged messages."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12449, C-12453, C-12454, C-12455, C-12458, C-12463, C-12464, C-12465, C-12513, C-12518, C-12521, C-12522, C-12528, C-12529, C-12532*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-2",
+   "header": "**N-2** Erika Kirk",
+   "label": "Erika Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Widow and TPUSA CEO; the host places her first sighting of Charlie in May 2018."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12455, C-12456, C-12463, C-12497*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-3",
+   "header": "**N-3** Candace Owens",
+   "label": "Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host; speaks for herself throughout."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12448, C-12449, C-12450, C-12451, C-12452, C-12453, C-12457, C-12458, C-12459, C-12460, C-12463, C-12464, C-12465, C-12468, C-12469, C-12478, C-12480, C-12479, C-12481, C-12485, C-12486, C-12487, C-12497, C-12513, C-12514, C-12515, C-12524, C-12525, C-12526, C-12528, C-12529, C-12532*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-14",
+   "header": "**N-14** Andrew Kolvet",
+   "label": "Andrew Kolvet",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "TPUSA spokesperson; the host says he instantly retweeted the Pounds thread."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12496*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-18",
+   "header": "**N-18** Andrew Wilson",
+   "label": "Andrew Wilson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Debater the host says TPUSA uses as an attack dog."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12485, C-12527*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-22",
+   "header": "**N-22** Tucker Carlson",
+   "label": "Tucker Carlson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Tucker Carlson; the host says he is not on the tour speaker list."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12530*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-30",
+   "header": "**N-30** George (Candace's husband)",
+   "label": "George (Candace's husband)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host's husband; anniversary and London meeting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12452, C-12453, C-12465*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-37",
+   "header": "**N-37** Bill Ackman",
+   "label": "Bill Ackman",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Billionaire who promoted Data Republican; the host speculates on funding."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12500, C-12511*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-40",
+   "header": "**N-40** Tyler Robinson",
+   "label": "Tyler Robinson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Defendant whose preliminary hearing week the host references."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12486*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-58",
+   "header": "**N-58** Brandon Tatum",
+   "label": "Brandon Tatum",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Speaker who has traditionally toured with TPUSA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12517*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-97",
+   "header": "**N-97** Ben Shapiro",
+   "label": "Ben Shapiro",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Daily Wire figure the host says wants to take over TPUSA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12517, C-12518, C-12530*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-99",
+   "header": "**N-99** Alex Clark",
+   "label": "Alex Clark",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Alex Clark; on the new tour lineup."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12517*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-101",
+   "header": "**N-101** Michael Knowles",
+   "label": "Michael Knowles",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Michael Knowles; long-time TPUSA tour speaker."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12517*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-118",
+   "header": "**N-118** Elon Musk",
+   "label": "Elon Musk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Elon Musk; the host says he promoted Pounds in 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12494*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-154",
+   "header": "**N-154** John Mappin",
+   "label": "John Mappin",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "John Mappin; friend and supporter of the host, relayed the black propaganda description."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12453, C-12454, C-12455, C-12456, C-12459, C-12460*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-155",
+   "header": "**N-155** Irina Mappin",
+   "label": "Irina Mappin",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Irina Mappin; friend and supporter of the host."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12453, C-12454, C-12455, C-12456, C-12460*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-159",
+   "header": "**N-159** Blake Neff",
+   "label": "Blake Neff",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Blake Neff; the host says he is close friends with Sarah Rogers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12503, C-12506*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-178",
+   "header": "**N-178** Jared Kushner",
+   "label": "Jared Kushner",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Jared Kushner; the host says he was in Iceland weeks before her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12448*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-190",
+   "header": "**N-190** Mikey McCoy",
+   "label": "Mikey McCoy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Mikey McCoy; the host says the Mappins know him very well."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12456*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-281",
+   "header": "**N-281** Jennica Pounds",
+   "label": "Jennica Pounds",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Jennica Pounds (Data Republican); the host details her background, thread and SGE status."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12492, C-12493, C-12494, C-12496, C-12497, C-12500, C-12502, C-12508, C-12510, C-12511*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-375",
+   "header": "**N-375** Ryan Reynolds",
+   "label": "Ryan Reynolds",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Ryan Reynolds; host's account of the Deadpool reshoot and pressure on Baldoni."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12472, C-12477*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-484",
+   "header": "**N-484** Blake Lively",
+   "label": "Blake Lively",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Blake Lively; host's account of the Baldoni litigation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12469, C-12470, C-12471, C-12472, C-12473, C-12476*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-485",
+   "header": "**N-485** Justin Baldoni",
+   "label": "Justin Baldoni",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Justin Baldoni; host's airport encounter and account of the litigation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12468, C-12470, C-12471, C-12472, C-12476, C-12477, C-12480, C-12479, C-12481, C-12482*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-486",
+   "header": "**N-486** Taylor Swift",
+   "label": "Taylor Swift",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Taylor Swift; referenced in the Baldoni litigation account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12473, C-12482*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-659",
+   "header": "**N-659** Ivanka Trump",
+   "label": "Ivanka Trump",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Ivanka Trump; the host says she was in Iceland weeks earlier."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12448*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-870",
+   "header": "**N-870** Britney Spears",
+   "label": "Britney Spears",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Britney Spears; the host's comparison for media-driven breakdown."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12457*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10000",
+   "header": "**N-10000** Turning Point USA",
+   "label": "Turning Point USA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12454, C-12487, C-12506, C-12514, C-12517, C-12520, C-12521, C-12522, C-12527, C-12530, C-12531*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10024",
+   "header": "**N-10024** Kirk Assassination Investigation Timeline",
+   "label": "Kirk Assassination Investigation Timeline",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12515, C-12525*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10026",
+   "header": "**N-10026** Israel",
+   "label": "Israel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12455*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10235",
+   "header": "**N-10235** Erika–Charlie 2018 Israel Airport Meeting Question",
+   "label": "Erika–Charlie 2018 Israel Airport Meeting Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12463*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10386",
+   "header": "**N-10386** Ben Shapiro Hostile Takeover Pattern",
+   "label": "Ben Shapiro Hostile Takeover Pattern",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12518*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10661",
+   "header": "**N-10661** Blake Lively / Justin Baldoni Lawsuit Outcome (Legal Matter – CASE_1 / LM-1000 placeholder)",
+   "label": "Blake Lively / Justin Baldoni Lawsuit Outcome (Legal Matter – CASE_1 / LM-1000 placeholder)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12468, C-12470, C-12471, C-12472, C-12482*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10885",
+   "header": "**N-10885** Jennica Pounds DoD Special Government Employee Thread",
+   "label": "Jennica Pounds DoD Special Government Employee Thread",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12508*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10888",
+   "header": "**N-10888** Department of War",
+   "label": "Department of War",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12449, C-12450, C-12508*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10900",
+   "header": "**N-10900** Daily Wire",
+   "label": "Daily Wire",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12518, C-12519, C-12520, C-12521*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11191",
+   "header": "**N-11191** Pre-Born",
+   "label": "Pre-Born",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12483, C-12484*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11195",
+   "header": "**N-11195** Department of War Information War Allegation",
+   "label": "Department of War Information War Allegation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12449, C-12485*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11262",
+   "header": "**N-11262** Andrew Wilson TPUSA Debate Training Engagement",
+   "label": "Andrew Wilson TPUSA Debate Training Engagement",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12527*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-926",
+   "header": "**N-926** Rabbi Shmuley Boteach",
+   "label": "Rabbi Shmuley Boteach",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "00:01 in episode 145 (as \"Rabbi Shmuley\").",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12448, C-12451*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11363",
+   "header": "**N-11363** Tax Network USA",
+   "label": "Tax Network USA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "raw": "Tax-resolution firm advertised in the sponsor read at 00:40:51 in episode 145."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12523*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-927",
+   "header": "**N-927** Dan Steiner",
+   "label": "Dan Steiner",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "25:04 in episode 145. President of Pre-Born, per the sponsor read.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12483, C-12484*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-928",
+   "header": "**N-928** Sarah Rogers",
+   "label": "Sarah Rogers",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "32:35 in episode 145. Under Secretary for Public Diplomacy at the State Department, whom the host says leaked to Jennica Pounds.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12502, C-12503, C-12506*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## V. Claim Register",
+    ""
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12461",
+   "header": "**C-12461** Mappin Article Characterizes Charlie Kirk's Death as Politically Consequential Assassination",
+   "label": "Mappin Article Characterizes Charlie Kirk's Death as Politically Consequential Assassination",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the Mappins' October 6 article the host reads, Charlie Kirk's execution is \"an assassination with potentially far-reaching political consequences for America and the world,\" the crime scene was \"apparently completely destroyed in days,\" and convicting someone while doubt remains would be \"anathema to all the teachings of Christ.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2311.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-154, N-155, N-1"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full October 6, 2025 article from its original publication venue; verify the quoted passages against the source."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12462",
+   "header": "**C-12462** Host Concurs with Mappin Article's Characterization",
+   "label": "Host Concurs with Mappin Article's Characterization",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:27"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host calls the Mappins' article \"so powerful to reflect on and to reread.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2311.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-154, N-155"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the host's subsequent public statements to the Mappin article's framework for consistency."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12466",
+   "header": "**C-12466** Host Encountered Justin Baldoni at Iceland Airport",
+   "label": "Host Encountered Justin Baldoni at Iceland Airport",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:27"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she encountered Justin Baldoni, his wife, and two children at an Iceland airport while he was on a layover from Sweden; she shows an on-screen photograph of the encounter."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2310.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-485"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Independent corroboration of the encounter is achievable via flight manifests or third-party witnesses."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12467",
+   "header": "**C-12467** Justin Baldoni Was on Layover from Sweden During Encounter",
+   "label": "Justin Baldoni Was on Layover from Sweden During Encounter",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:02"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Justin Baldoni was on a layover from Sweden, where his wife is from, when she saw him at the Iceland airport."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2310.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-485"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify via flight records or independent statements from Baldoni or his representatives."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12488",
+   "header": "**C-12488** NCRI Report Titled \"Permission to Kill\" Characterized Host as \"Digital Assassin\"",
+   "label": "NCRI Report Titled \"Permission to Kill\" Characterized Host as \"Digital Assassin\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:26"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says an NCRI-issued report called \"Permission to Kill\" referred to her as a \"digital assassin,\" and that the surrounding narrative said her investigation was akin to getting Erika Kirk killed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2312.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10815"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full NCRI report; verify authorship, publication date, and exact wording."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12489",
+   "header": "**C-12489** Host Says NCRI Is Led by Andrew Kolvet's Former PR-Firm Partner",
+   "label": "Host Says NCRI Is Led by Andrew Kolvet's Former PR-Firm Partner",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:26"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says NCRI, which issued the report, is led by Andrew Kolvet's former partner in a PR firm, Kairos company."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2312.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10815"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify Kairos company's involvement in NCRI; verify Kolvet's prior or current relationship with Kairos."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12490",
+   "header": "**C-12490** NCRI Report Released During Week of Tyler Robinson Preliminary Hearing",
+   "label": "NCRI Report Released During Week of Tyler Robinson Preliminary Hearing",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:26"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the NCRI report was dropped on the first day of Tyler Robinson's preliminary hearing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2312.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-40"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10815"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the NCRI report publication date to the court docket for the Robinson preliminary hearing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12495",
+   "header": "**C-12495** Data Republican Posted X Thread Arguing Host's Audience Will Eventually Want to Kill Erika Kirk",
+   "label": "Data Republican Posted X Thread Arguing Host's Audience Will Eventually Want to Kill Erika Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Jennica Pounds (@DataRepublican) posted an X thread showing the host and her audience 'in their own words' and arguing that people will eventually want to kill Erika Kirk, which Andrew Kolvet boosted."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2313.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-281, N-2, N-3, N-14"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the full X thread directly from the platform; verify quoted content and amplification chain."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12498",
+   "header": "**C-12498** Andrew Kolvet Publicly Endorsed Data Republican's Allegations Against Host",
+   "label": "Andrew Kolvet Publicly Endorsed Data Republican's Allegations Against Host",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per Andrew Kolvet's post the host shows, Kolvet thanked Data Republican and wrote that her thread \"exposes how Candace and her ilk have created the requisite permission structure for some lunatic to try and kill Erika.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2317.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-281, N-3, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10814"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the original Kolvet post; verify timestamp and current status (deleted vs. live)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12499",
+   "header": "**C-12499** Bill Ackman Promoted Data Republican's Content",
+   "label": "Bill Ackman Promoted Data Republican's Content",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per Bill Ackman's post the host shows, Ackman promoted Data Republican's thread three days later as \"an important read on Charlie Kirk and Candace Owens.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2316.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-37, N-281, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10814"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the specific Bill Ackman post; verify date and quoted text."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12507",
+   "header": "**C-12507** Jennica Pounds Admitted Working as Special Government Employee for Department of War Since July",
+   "label": "Jennica Pounds Admitted Working as Special Government Employee for Department of War Since July",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per Jennica Pounds's post the host reads, Pounds wrote, \"I began working as a special government employee for the Department of War in July to serve the country in a more hands-on way.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2314.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-281"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10814"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the original X post; cross-reference against Department of Defense / Department of War SGE disclosures."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12509",
+   "header": "**C-12509** Jennica Pounds' Pentagon Press Credentials Expired in June",
+   "label": "Jennica Pounds' Pentagon Press Credentials Expired in June",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:29"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per a post the host reads, Jennica Pounds wrote that her Pentagon press credentials expired in June, that she did not seek to renew them, and that she no longer attends briefings as a journalist; the host adds this is because she is a Pentagon special government employee."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2314.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-281"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10814"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the full quoted X post; verify against Pentagon press credential records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12504",
+   "header": "**C-12504** Blake Neff Publicly Described Sarah Rogers as \"One of Charlie's Favorite Trump Nominees\"",
+   "label": "Blake Neff Publicly Described Sarah Rogers as \"One of Charlie's Favorite Trump Nominees\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:33:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per Blake Neff's post the host shows, Neff wrote \"My friend Sarah Rogers is one of Charlie's favorite Trump nominees\" and that she had been sworn in as Under Secretary for Public Diplomacy."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2315.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-928, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the Blake Neff post directly; verify quoted text."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12505",
+   "header": "**C-12505** Sarah Rogers Confirmed and Sworn In as Under Secretary for Public Diplomacy",
+   "label": "Sarah Rogers Confirmed and Sworn In as Under Secretary for Public Diplomacy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:33:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per Blake Neff's post the host reads, Sarah Rogers was confirmed a week earlier and sworn in the previous Friday as Under Secretary for Public Diplomacy at the State Department."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2315.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-928, N-159"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Cross-reference Senate confirmation records and State Department announcement archives."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12501",
+   "header": "**C-12501** Sarah Rogers Allegedly Leaked Information to Jennica Pounds",
+   "label": "Sarah Rogers Allegedly Leaked Information to Jennica Pounds",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:32:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Jennica Pounds got paranoid that leaked documents were a setup to charge her with a crime, and then revealed that Sarah Rogers, Under Secretary at the State Department, was leaking to her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2314.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-281, N-928"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10814"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the original Data Republican post in which the leak disclosure occurred; request comment from Sarah Rogers or the State Department."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12516",
+   "header": "**C-12516** Host Says TPUSA Announced \"Love It or Leave It\" Tour Featuring Daily Wire Personalities",
+   "label": "Host Says TPUSA Announced \"Love It or Leave It\" Tour Featuring Daily Wire Personalities",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Turning Point USA announced a tour titled \"Love It or Leave It\" featuring Michael Knowles, Brandon Tatum, Alex Clark, Ben Shapiro, and a Daily Wire personality she calls \"Mat Nuclear.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2318.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-101, N-58, N-99, N-97"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve TPUSA's official tour announcement; verify lineup and dates."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12474",
+   "header": "**C-12474** Per CCRD Filing Host Reads, Lively Accused Jamie Heath of Showing Pornography on Set",
+   "label": "Per CCRD Filing Host Reads, Lively Accused Jamie Heath of Showing Pornography on Set",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the CCRD filing by Blake Lively that the host reads, Jamie Heath approached Lively on set and began playing a video of a \"fully nude woman with her legs spread apart,\" which Lively thought was pornography."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2319.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-484"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full CCRD filing; verify the quoted passage in original context."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12475",
+   "header": "**C-12475** Filing Later Clarified the Video Was a Birthing Video",
+   "label": "Filing Later Clarified the Video Was a Birthing Video",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Host asserts that further into the same filing, the video in question was identified as a birthing video shown to Lively to prepare her for a birthing scene."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2319.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-484"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify by reading the full CCRD filing; compare to subsequent court filings."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12512",
+   "header": "**C-12512** Host Asserts Coordinated Propaganda Operation Across State Department, Department of War, TPUSA Allies, and Bill Ackman",
+   "label": "Host Asserts Coordinated Propaganda Operation Across State Department, Department of War, TPUSA Allies, and Bill Ackman",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:35:22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the narrative against her investigation into the Charlie Kirk assassination is, as she puts it, backed by the State Department (Sarah Rogers), the Department of War (Jennica Pounds), Blake Neff and Andrew Kolvet allies, and she guesses Bill Ackman may be funding Pounds."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2313.1, A-2314.1, A-2315.1, A-2316.1, A-2317.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-1, N-37, N-159, N-928, N-281"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10814"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Independently verify each component of the coordination claim; obtain responses from named individuals or their representatives; review FOIA disclosures for SGE activity at the Department of War."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12448",
+   "header": "**C-12448** Host Says Rabbi Shmuley, Ivanka and Jared Kushner Were in Iceland Weeks Before Her Trip",
+   "label": "Host Says Rabbi Shmuley, Ivanka and Jared Kushner Were in Iceland Weeks Before Her Trip",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:00:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she saw Rabbi Shmuley, Ivanka Trump and Jared Kushner were in Iceland a couple of weeks before her own trip."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I saw Rumpelstiltskin, known to some people as Rabbi Shmuley, up in Iceland as well as Ivanka and Jared Kushner just before we were going to go, a couple of weeks before"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-926, N-659, N-178, N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Public posts, photos or Icelandic press placing Shmuley Boteach, Ivanka Trump and Jared Kushner in Iceland in the weeks before the episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12449",
+   "header": "**C-12449** Host Says the Department of War Has People on Payroll Attacking Her Investigation",
+   "label": "Host Says the Department of War Has People on Payroll Attacking Her Investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:00:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says it was revealed that the Department of War has people on payroll who are attacking her for her investigation into Charlie Kirk's assassination, and says the administration took her \"I want war with all of you\" line literally."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it was revealed that the Department of War has people on payroll that are attacking me for my investigation into Charlie Kirk's assassination"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10888, N-10814, N-11195"
+    },
+    {
+     "k": "Supports",
+     "v": "C-12512"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Department of War payroll, personal-services contract and special government employee records for the individuals the host names later in the episode; any official statement from the department."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12450",
+   "header": "**C-12450** Host Recalls Saying \"I Want War With All of You\" on October 27",
+   "label": "Host Recalls Saying \"I Want War With All of You\" on October 27",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:00:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that on October 27 of last year she said, explicitly, \"I want war with all of you,\" and ties it to the Department of War revelation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Remember way back when on October 27th of last year, when I said this? So, allow me to be very explicit, okay? I want war with all of you."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3255.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10888"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the October 27, 2025 episode and confirm the exact wording and context of the \"I want war with all of you\" statement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12451",
+   "header": "**C-12451** Host Says Icelanders Effectively Chased Rabbi Shmuley Out Weeks Earlier",
+   "label": "Host Says Icelanders Effectively Chased Rabbi Shmuley Out Weeks Earlier",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Iceland had effectively chased Rabbi Shmuley out of the country weeks before her trip, and praises the person who told him to get out."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I was especially excited after they effectively chased Rabbi Shmuley out weeks earlier."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-926, N-3"
+    },
+    {
+     "k": "Supports",
+     "v": "C-12006"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The Iceland video of the confrontation with Shmuley Boteach and Icelandic news coverage of his visit and departure."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12452",
+   "header": "**C-12452** Host Says Trip Was for Her Seventh Anniversary and Produced Her First Atlantic Salmon",
+   "label": "Host Says Trip Was for Her Seventh Anniversary and Produced Her First Atlantic Salmon",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:10"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Iceland fishing trip fell on her seventh wedding anniversary (the day of the episode) and that she caught her first Atlantic salmon on the fly, shown in a photograph."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Today is actually our 7-year anniversary. So, it was in fact a special occasion"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3256.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-30"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The host's own social posts from the trip; the 2019 wedding date as a check on the seventh anniversary."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12453",
+   "header": "**C-12453** Host Says She Met Her Husband at a 2018 London Event Hosted by the Mappins",
+   "label": "Host Says She Met Her Husband at a 2018 London Event Hosted by the Mappins",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:04"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she met her husband George at an event in London hosted by John and Irina Mappin in 2018 where she and Charlie Kirk were on stage, after George phoned the Mappins to ask to attend."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I met my husband rather serendipitously at an event hosted in London. I was with Charlie."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1, N-30, N-154, N-155"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Event listing or press for the May 2018 London appearance by Kirk and Owens hosted by the Mappins; Turning Point UK records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12454",
+   "header": "**C-12454** Host Says Mappin Introductions Launched Turning Point USA Financially",
+   "label": "Host Says Mappin Introductions Launched Turning Point USA Financially",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says John and Irina Mappin helped bring Charlie Kirk and Turning Point USA to the next level by making introductions that launched the organization into a different financial stratosphere."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They helped to bring Charlie and Turning Point USA to the next level by making introductions for Charlie that I would say launched the organization into a different stratosphere financially."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-154, N-155, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Donor and introduction records for TPUSA in the Mappins' circle; the Mappins' own accounts of whom they introduced to Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12455",
+   "header": "**C-12455** Host Says Charlie, Erika and the Mappins Traveled to Israel Together",
+   "label": "Host Says Charlie, Erika and the Mappins Traveled to Israel Together",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie Kirk and Erika Kirk went to Israel together with John and Irina Mappin, who she says invited them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the four of them went to Israel. Charlie and Erika and John and Arina went to Israel. They were invited by them to go."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-2, N-154, N-155"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10026"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Date and itinerary of the trip; Mappin or Kirk social posts, photographs or press about it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12456",
+   "header": "**C-12456** Host Says the Mappins Know Erika Kirk and Mikey McCoy Very Well",
+   "label": "Host Says the Mappins Know Erika Kirk and Mikey McCoy Very Well",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Mappins know or knew Erika Kirk very well and know Mikey McCoy very well, and adore him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Uh they also know Mikey McCoy very well. They adore Mikey actually."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-154, N-155, N-190, N-2"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask the Mappins to describe their relationship with Mikey McCoy and Erika Kirk; any joint events or correspondence."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12457",
+   "header": "**C-12457** Host Alleges an Intentional Effort to Drive Her to Insanity",
+   "label": "Host Alleges an Intentional Effort to Drive Her to Insanity",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:49"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that on reflection she believes there was a very obvious and intentional effort to drive her to the point of insanity, comparing it to the media cycle that broke Britney Spears in 2007."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "there was a very obvious and intentional effort to drive me to the point of insanity"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-870"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Examples of coordinated media or influencer pressure on the host after September 2025; any documented funding or coordination behind it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12458",
+   "header": "**C-12458** Host Alleges Charlie's Supposed Friends Lied About His Beliefs and Her Friendship With Him",
+   "label": "Host Alleges Charlie's Supposed Friends Lied About His Beliefs and Her Friendship With Him",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:49"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says people she thought were Charlie's friends lied about what he believed and who his friends were, and tried to gaslight her into believing she was not actually his friend."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "watch the people that she thought were his friends lie about what he believed, who his friends were, then attempt to gaslight me into believing that I wasn't actually friends with him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The specific public statements by TPUSA figures about Kirk's friendships and beliefs; the host's message history with Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12459",
+   "header": "**C-12459** Host Says John Mappin Called the Campaign Against Her a Black Propaganda Campaign",
+   "label": "Host Says John Mappin Called the Campaign Against Her a Black Propaganda Campaign",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:44"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says John Mappin told her the campaign against her was a black propaganda campaign, psychological in nature, and that he did not know why it was happening to her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "John described to me was a black propaganda campaign."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-154, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10814"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask John Mappin to confirm the conversation and wording; compare with his published Mappin letter."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12460",
+   "header": "**C-12460** Host Says Donors Privately Told Her They Found the Narrative Weird",
+   "label": "Host Says Donors Privately Told Her They Found the Narrative Weird",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:44"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says donors have come to her in private and spoken about what they believed to be weird, while the Mappins were exceptional in questioning the narrative openly."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "donors have come to me in private and spoken about what they believed to be weird"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-154, N-155"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the donors willing to confirm on the record; compare with the Mappin letter's claim that donors privately agree but fear speaking."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12463",
+   "header": "**C-12463** Host Says Erika First Laid Eyes on Charlie in the Same Weeks as the 2018 London Event",
+   "label": "Host Says Erika First Laid Eyes on Charlie in the Same Weeks as the 2018 London Event",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:27"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her London event with the Mappins happened in the same few weeks that Erika first laid eyes on Charlie."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "All of this happening by the way in the same few weeks that Erika first lays eyes on Charlie."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10235"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Date of the Erika Kirk and Charlie Kirk first meeting versus the date of the London event (May 2018); each side's own accounts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12464",
+   "header": "**C-12464** Host Says Charlie Was Having Dreams About His Death in May 2018",
+   "label": "Host Says Charlie Was Having Dreams About His Death in May 2018",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:27"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that in May 2018 Charlie Kirk was having dreams about his death."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Charlie's having dreams about his death. It was a crazy time of May of 2018"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The host's texts or notes from 2018 with Kirk about the dreams; Kirk's own public remarks about them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12465",
+   "header": "**C-12465** Host Says She Became Engaged 18 Days After Meeting Her Husband",
+   "label": "Host Says She Became Engaged 18 Days After Meeting Her Husband",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:51"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her meeting with her husband at the Kirk event was followed by an 18-day engagement that people still do not accept."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "followed by an 18-day engagement that people still do not accept"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-30, N-1"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The host's earlier accounts of the engagement timeline."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12468",
+   "header": "**C-12468** Host Says She Had Never Met or Contacted Baldoni Before the Iceland Encounter",
+   "label": "Host Says She Had Never Met or Contacted Baldoni Before the Iceland Encounter",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:29"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she had never met or spoken to Justin Baldoni or his wife and had never tried to reach out to them before the Iceland encounter, and got involved in the case because of what she read in the lawsuit."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I've never met Justin. I've never spoken to him or his wife. I've never even tried to reach out to them even once."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2310.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-485"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10661"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Baldoni and his representatives on prior contact; any prior communications between his team and the host's team."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12469",
+   "header": "**C-12469** Host Says a Colleague Called Blake Lively Her Least Favorite Person to Work With",
+   "label": "Host Says a Colleague Called Blake Lively Her Least Favorite Person to Work With",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:29"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that when she interned at Glamour, a person she worked for who worked on Blake Lively's cover shoot told her Lively was awful and her least favorite person to work with."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "she said Blake Lively was awful. It was like her least favorite person to work with."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-484"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the Glamour staffer and ask for confirmation; this is second-hand and unverified."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12470",
+   "header": "**C-12470** Host Says Baldoni Bought the Book Rights Through His Own Studio and Cast Lively",
+   "label": "Host Says Baldoni Bought the Book Rights Through His Own Studio and Cast Lively",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:29"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Justin Baldoni read the book series, bought the rights to make a film using his own movie studio as a passion project, and cast Blake Lively as the lead."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "purchased the rights to create a film about the books using his movie studio"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-485, N-484"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10661"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Rights purchase and production records for the film adaptation as filed in the litigation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12471",
+   "header": "**C-12471** Host Says Lively Fancied Herself the Writer and Edited the Scripts",
+   "label": "Host Says Lively Fancied Herself the Writer and Edited the Scripts",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:24"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that despite being cast as lead, Blake Lively saw herself in her own head as the writer and sought to edit the scripts, as learned through the host's investigative series."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Blake Lively sort of in her own head fancied herself as the writer. She sought to sort of edit the scripts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-484, N-485"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10661"
+    },
+    {
+     "k": "Supports",
+     "v": "C-4659"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The litigation exhibits on script and edit control; contemporaneous emails and text messages cited in the court record."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12472",
+   "header": "**C-12472** Host Says Lively and Reynolds Used a New York Times Hit Piece to Pressure Baldoni",
+   "label": "Host Says Lively and Reynolds Used a New York Times Hit Piece to Pressure Baldoni",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Lively side had the media power to push a New York Times hit piece, and that the threat was that they would ruin Baldoni's life unless he handed over the rights to the movie."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the New York Times just drops a hit piece and they're like, we will just me too you."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-484, N-485, N-375"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10661"
+    },
+    {
+     "k": "Supports",
+     "v": "C-4659"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The court record on the timing of the New York Times article and any demands made of Baldoni's side."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12473",
+   "header": "**C-12473** Host Says Lively Implicitly Threatened to Release Her Dragons Including Taylor Swift",
+   "label": "Host Says Lively Implicitly Threatened to Release Her Dragons Including Taylor Swift",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:44"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that in Blake Lively's implicit threat, if she did not get what she wanted she would release her dragons, with Taylor Swift as one of them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Taylor Swift is there that she doesn't get what she wants, she's going to release her dragons."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-484, N-486"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The message in the litigation record that the host paraphrases; the exact wording and sender."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12476",
+   "header": "**C-12476** Host Says Baldoni Was Made to Sit in the Basement During the Premiere of His Own Movie",
+   "label": "Host Says Baldoni Was Made to Sit in the Basement During the Premiere of His Own Movie",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Justin Baldoni was made to sit in the basement during the premiere of his own movie because Blake Lively said so and did not want to see him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "and them making Justin Baldoni sit in the basement during the premiere of his own movie because Blake said so and she didn't want to see him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-485, N-484"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8894"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Premiere seating accounts and the sources the host relies on; statements from attendees."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12477",
+   "header": "**C-12477** Host Says Reynolds Reshot Deadpool Scenes With a Baldoni-Based Character Called Nicepool",
+   "label": "Host Says Reynolds Reshot Deadpool Scenes With a Baldoni-Based Character Called Nicepool",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:39"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Ryan Reynolds reshot Deadpool scenes to include a character meant to be Justin Baldoni called Nicepool, and had the character killed with hundreds of bullets until his head exploded."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Ryan Reynolds then reshooting the scenes of Deadpool, incorporating a character that was supposed to be Justin Baldoni called Nicepool"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-375, N-485"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8890"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The released film and reshoot reporting; studio or crew statements on the character's origin."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12478",
+   "header": "**C-12478** Host Credits Steph With the Deets and Marcos of the Be Better Company for Reading the Filings",
+   "label": "Host Credits Steph With the Deets and Marcos of the Be Better Company for Reading the Filings",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:29"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says YouTubers Steph with the Deets and Marcos of the Be Better Company read every filing in the Baldoni case on their own time."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Steph with the deets, um Marcos of the Be Better Company, people who sank into every filing on their own time"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The channels' own content on the filings."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12480",
+   "header": "**C-12480** Host Says Baldoni Told Her He Never Watched the Deadpool Movie or Scene",
+   "label": "Host Says Baldoni Told Her He Never Watched the Deadpool Movie or Scene",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:04"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Justin Baldoni told her he never even watched the Deadpool movie or the Nicepool scene."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he told me he never even watched the Deadpool movie or the scene"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-485, N-3"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8890"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Baldoni's own statements on the film; this is a private conversation reported by the host."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12479",
+   "header": "**C-12479** Host Says Baldoni and His Wife Said They Came Close to Rock Bottom",
+   "label": "Host Says Baldoni and His Wife Said They Came Close to Rock Bottom",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:29"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Baldoni and his wife told her how grateful they were and how close they had come to hitting rock bottom before people began reading the filings."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "how close they were to hitting rock bottom"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-485, N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Baldoni's own public statements; this is a private conversation reported by the host."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12481",
+   "header": "**C-12481** Host Says Baldoni Told Her He Does Not Drink Kombucha",
+   "label": "Host Says Baldoni Told Her He Does Not Drink Kombucha",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Justin Baldoni told her he does not actually drink kombucha, which she refuses to accept."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He doesn't actually drink kombucha. He's not a big kombucha drinker."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-485, N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Baldoni's public statements about kombucha; this is a private conversation reported by the host."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12482",
+   "header": "**C-12482** Host Says Baldoni Was Up Against the New York Times, WME and the Most Powerful PR People",
+   "label": "Host Says Baldoni Was Up Against the New York Times, WME and the Most Powerful PR People",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Baldoni was up against an established power including the New York Times, WME, top PR people and the most famous woman in the world, who she says may or may not have been part of a peer pressure campaign."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he was up against an established power. I mean, it was the New York Times. It was WME."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-485, N-486"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10661"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Litigation and press records identifying the PR and agency actors and any role attributed to Taylor Swift."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12483",
+   "header": "**C-12483** Host Reads Pre-Born Claim That 50,000 Babies Were Saved This Year",
+   "label": "Host Reads Pre-Born Claim That 50,000 Babies Were Saved This Year",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:04"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the sponsor read, the host says Pre-Born president Dan Steiner reports that more than 50,000 babies have been saved from abortion so far this year and more than 8,000 women decided to follow Christ."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "more than 50,000 babies have been saved from abortion"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3257.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-927"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11191"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pre-Born's own reporting; this is a sponsor claim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12484",
+   "header": "**C-12484** Host Reads Pre-Born Cost Figures for Ultrasounds",
+   "label": "Host Reads Pre-Born Cost Figures for Ultrasounds",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:04"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the sponsor read, the host says it costs $28 to provide one ultrasound and $15,000 to place an ultrasound machine in a pregnancy clinic."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "It costs just $28 to provide one life-saving ultrasound and $15,000 can place an ultrasound machine in a pregnancy clinic"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3257.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-927"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11191"
+    },
+    {
+     "k": "Supports",
+     "v": "C-3302"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pre-Born's published cost figures."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12485",
+   "header": "**C-12485** Host Says the Campaign Against Her Looks Well Funded and Military",
+   "label": "Host Says the Campaign Against Her Looks Well Funded and Military",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:27:32"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the wave of accounts pulling people away from the investigation looks like a very well-funded campaign, almost a military campaign like a psychological operation, and that she does not know where Andrew Wilson and similar accounts get their money."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We had suggested this that this looks like a very well-funded campaign. I almost would say it looks like a military campaign like a psychological operation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-18, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11195, N-10814"
+    },
+    {
+     "k": "Supports",
+     "v": "C-12512"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Funding and contract records for the accounts the host names; the Department of War contracts and SGE appointments referenced later in the episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12486",
+   "header": "**C-12486** Host Says She Was in Spain During the Week of the Robinson Preliminary Hearing",
+   "label": "Host Says She Was in Spain During the Week of the Robinson Preliminary Hearing",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:27:32"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she was in Spain for two weeks off for the summer during the week of Tyler Robinson's preliminary hearing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "particularly during the week of Tyler Robinson's preliminary hearing, I was in Spain, okay? I took 2 weeks off for the summer"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-40"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The preliminary hearing dates in the Robinson docket against the host's travel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12487",
+   "header": "**C-12487** Host Says a Media Assault Was Executed Against Her on Behalf of Turning Point USA",
+   "label": "Host Says a Media Assault Was Executed Against Her on Behalf of Turning Point USA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:27:32"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says during that week there was a full-blown media assault executed against her on behalf of Turning Point USA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "there was a full-blown media assault that was executed against me on behalf of Turning Point USA"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Supports",
+     "v": "C-12512"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Catalogue of TPUSA-aligned posts, articles and reports aimed at the host in the week of the hearing and any shared authorship or funding."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12491",
+   "header": "**C-12491** Host Calls NCRI a Team of Zionists",
+   "label": "Host Calls NCRI a Team of Zionists",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:26"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host characterizes the NCRI as just a team of Zionists."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "It's just a team of Zionists."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2312.1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10815"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "NCRI's own leadership, funders and mission statements; the characterization is an unsupported group generalization."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12492",
+   "header": "**C-12492** Host Says Jennica Pounds Mysteriously Expanded on the NCRI Report",
+   "label": "Host Says Jennica Pounds Mysteriously Expanded on the NCRI Report",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:26"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the NCRI report was mysteriously expanded upon by Jennica Pounds, who she says posted a thread right after the report was released."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "this report on the first day. And then we have this report being mysteriously expanded upon by a woman named Jennica Pounds"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2313.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-281"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10815"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Timestamps of the NCRI report and Pounds' thread, and any contact between the two."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12493",
+   "header": "**C-12493** Host Says Jennica Pounds Is a Utah Software Engineer",
+   "label": "Host Says Jennica Pounds Is a Utah Software Engineer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:29:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Jennica Pounds is a Utah software engineer, and shows a photograph of her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Jennica Pounds is a Utah software engineer"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3258.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-281"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pounds' public profile and employment history; Utah residence records are not needed beyond her own statements."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12494",
+   "header": "**C-12494** Host Says Elon Musk Promoted Jennica Pounds in 2025",
+   "label": "Host Says Elon Musk Promoted Jennica Pounds in 2025",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:29:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Elon Musk promoted Jennica Pounds in 2025, which raised her profile as Data Republican on X."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Elon Musk promotes her in 2025"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-281, N-118"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Musk's 2025 posts about Data Republican."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12496",
+   "header": "**C-12496** Host Says Kolvet Instantly Retweeted Pounds' Thread",
+   "label": "Host Says Kolvet Instantly Retweeted Pounds' Thread",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Pounds' thread was instantly retweeted by Andrew Kolvet, and that he is not as uninvolved as he appears."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the narrative that was seeded. Instantly retweeted by Andrew Kolvet. You're supposed to think he has nothing to do with this, right?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2313.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-281"
+    },
+    {
+     "k": "Supports",
+     "v": "C-12498"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Timestamps for the Pounds thread and Kolvet's repost; any direct messages between them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12497",
+   "header": "**C-12497** Host Says Pounds' Thread Included Posts From Audience Members and Theories About the 30-06",
+   "label": "Host Says Pounds' Thread Included Posts From Audience Members and Theories About the 30-06",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Pounds' long thread showed examples of the host's audience threatening Erika Kirk and went deep into the 30-06 rifle theories, and speculates those accounts could work for the Pentagon."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "So you can see how long this thread is, how deep she went into the 30-06 stuff"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2313.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-281, N-2, N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The full thread: which accounts it quotes, whether any are verifiable threats, and whether any are linked to the Pentagon."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12500",
+   "header": "**C-12500** Host Says Ackman Promoted Data Republican Three Days After the Thread",
+   "label": "Host Says Ackman Promoted Data Republican Three Days After the Thread",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Bill Ackman promoted Data Republican's work about three days after the thread was posted."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "oh actually 3 days later, um Bill Ackman promotes Data Republican."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2316.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-37, N-281"
+    },
+    {
+     "k": "Supports",
+     "v": "C-12499"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Post dates for the Pounds thread and Ackman's repost."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12502",
+   "header": "**C-12502** Host Says Pounds Feared She Was Being Set Up With Leaked Documents",
+   "label": "Host Says Pounds Feared She Was Being Set Up With Leaked Documents",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:32:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Pounds got paranoid that documents State Department official Sarah Rogers was leaking to her were meant to set her up so she could be charged with a crime, and in doing so revealed the leak."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "she thought that she was being set up. That they were leaking her documents so that they could charge her with a crime."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-281, N-928"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10814"
+    },
+    {
+     "k": "Supports",
+     "v": "C-12501"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pounds' original post and any later edits or deletions; State Department comment."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12503",
+   "header": "**C-12503** Host Says Sarah Rogers Is Besties With Blake Neff",
+   "label": "Host Says Sarah Rogers Is Besties With Blake Neff",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:32:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Sarah Rogers is close friends with Blake Neff, and shows a picture of the two of them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Sarah Rogers just happens to be besties with Blake Neff."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3259.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-928, N-159"
+    },
+    {
+     "k": "Supports",
+     "v": "C-12504"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Neff's own post calling her his friend, and the photograph shown; their public association."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12506",
+   "header": "**C-12506** Host Concludes Turning Point USA Is Working With the State Department",
+   "label": "Host Concludes Turning Point USA Is Working With the State Department",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:33:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host concludes, from Blake Neff's post about Sarah Rogers, that Turning Point USA is working with the State Department."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "So, now we realize that Turning Point USA is working with the State Department."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2315.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-928"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10814"
+    },
+    {
+     "k": "Supports",
+     "v": "C-12512"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Any official contact between TPUSA and the State Department; FOIA to State Public Diplomacy for communications with TPUSA staff."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12508",
+   "header": "**C-12508** Host Says Pounds Was an SGE During the Very Week Of the Attack on Her",
+   "label": "Host Says Pounds Was an SGE During the Very Week Of the Attack on Her",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Pounds had been working for the Pentagon since July and was a special government employee during the very week the campaign against the host started."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The very week that they came after me, she was working as a special government employee."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2314.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-281"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10885, N-10888"
+    },
+    {
+     "k": "Supports",
+     "v": "C-12507"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pounds' appointment letter and SGE service dates against the dates of the NCRI report and her thread."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12510",
+   "header": "**C-12510** Host Says Pounds Set Up an Institute and Urges Looking Into Its Funding",
+   "label": "Host Says Pounds Set Up an Institute and Urges Looking Into Its Funding",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Pounds also set up an institute for herself and says somebody should look into who is funding her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Apparently, she also set up an institute for herself, so somebody should look into who's funding her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-281"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Incorporation and tax filings for the institute."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12511",
+   "header": "**C-12511** Host Speculates Bill Ackman May Be Funding Pounds",
+   "label": "Host Speculates Bill Ackman May Be Funding Pounds",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host guesses that Bill Ackman may be cutting a check somewhere in the background for Pounds; this is speculation, not an asserted fact."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "make a guess that Bill Ackman maybe is cutting a check somewhere somehow in the background of this"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-37, N-281"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Donor and funding disclosures for any Pounds-linked institute; no evidence is offered in the episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12513",
+   "header": "**C-12513** Host Says She Knew From the Moment Charlie Was Shot That He Was Betrayed",
+   "label": "Host Says She Knew From the Moment Charlie Was Shot That He Was Betrayed",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:39"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that from the moment Charlie was shot she knew he had been betrayed, and that the people who betrayed him would not get away with it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "from the moment that Charlie was shot, um I knew that he was betrayed"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The host's earliest posts and messages from September 10 and 11, 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12514",
+   "header": "**C-12514** Host Promises Explosive Reveals This Week Showing TPUSA Has Explaining to Do",
+   "label": "Host Promises Explosive Reveals This Week Showing TPUSA Has Explaining to Do",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:39"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she has explosive things to reveal for the rest of the week showing that Turning Point USA has some explaining to do."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I have explosive things to reveal to you for the rest of the week, which is going to reveal that Turning Point USA has some explaining to do."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The episodes aired in the following week (episodes 146 onward) to see what was revealed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12515",
+   "header": "**C-12515** Host Says Everybody's Alibis Are In and Cannot Be Changed",
+   "label": "Host Says Everybody's Alibis Are In and Cannot Be Changed",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:39"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says everybody's alibis for September 10 are now in and cannot be changed, so the story will have to become more ridiculous."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Everybody's alibis are in. Can't change them now, right?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10024"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The compiled September 10 alibis from TPUSA staff and any later changes to them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12517",
+   "header": "**C-12517** Host Says Knowles and Tatum Have Traditionally Toured With Turning Point USA",
+   "label": "Host Says Knowles and Tatum Have Traditionally Toured With Turning Point USA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Michael Knowles and Brandon Tatum have traditionally toured with Turning Point USA, while Alex Clark and Ben Shapiro are new on the lineup."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Michael Knowles, obviously. Um Brandon Tatum, they have traditionally toured with Turning Point USA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2318.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-101, N-58, N-99, N-97"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Past TPUSA tour lineups."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12518",
+   "header": "**C-12518** Host Says Shapiro Wants to Take Over Turning Point USA",
+   "label": "Host Says Shapiro Wants to Take Over Turning Point USA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the effort to explain that Ben Shapiro was friends with Charlie Kirk now makes sense because Shapiro wants the company, and that he wants to pick up Charlie's mic."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he wants to pick up that bloody mic, and he by golly, he's going to do it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2318.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-97, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10386, N-10900"
+    },
+    {
+     "k": "Supports",
+     "v": "C-7412"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Shapiro statements about TPUSA and the tour; TPUSA leadership discussions about Shapiro."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12519",
+   "header": "**C-12519** Host Says a Daily Wire Hire Was Arrested in Florida for Threats Against a Daycare",
+   "label": "Host Says a Daily Wire Hire Was Arrested in Florida for Threats Against a Daycare",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that, allegedly, the Daily Wire's Mat Nuclear was arrested in Florida for making terrorist threats against a daycare, and that there is a news article about it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "there's a whole news article you can look up about his arrest back in Florida"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10900"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the person correctly (the transcript name may be wrong) and check the Florida arrest article; treat as unverified allegation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12520",
+   "header": "**C-12520** Host Says the Same Daily Wire Hire Is Going on Tour With TPUSA as a Debater",
+   "label": "Host Says the Same Daily Wire Hire Is Going on Tour With TPUSA as a Debater",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:06"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Daily Wire's Mat Nuclear is now on tour with Turning Point USA as a debater."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Now he's on tour with Turning Point USA cuz he's going to be a debater."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2318.1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10900"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The official tour lineup and the debater roster."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12521",
+   "header": "**C-12521** Host Says It Is Outrageous That TPUSA Would Partner With Charlie's Enemies",
+   "label": "Host Says It Is Outrageous That TPUSA Would Partner With Charlie's Enemies",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:06"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says people are rightfully outraged that TPUSA would partner with Charlie Kirk's enemies."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "People are rightfully outraged that they would partner with his enemies."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10900"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Kirk's own statements about the Daily Wire and Shapiro; TPUSA's announcement of the tour partnership."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12522",
+   "header": "**C-12522** Host Predicts a New Organization Will Rise to Take TPUSA's Place",
+   "label": "Host Predicts a New Organization Will Rise to Take TPUSA's Place",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:54"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host predicts that an organization will rise to take Turning Point USA's place and says she thinks Charlie would have wanted that."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "an organization is going to rise take its place"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Any new organization launched by former TPUSA staff or donors in the following months."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12523",
+   "header": "**C-12523** Host Reads Tax Network USA Claim It Has Resolved Over $1 Billion in Tax Debt",
+   "label": "Host Reads Tax Network USA Claim It Has Resolved Over $1 Billion in Tax Debt",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:40:51"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the sponsor read, the host says Tax Network USA has been helping taxpayers for more than 15 years and its team has resolved over $1 billion in tax debt."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "their team has resolved over $1 billion in tax debt"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3260.1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11363"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The company's own figures; this is a sponsor claim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12524",
+   "header": "**C-12524** Host Says Her Maternity Leave Is About Six Weeks Away",
+   "label": "Host Says Her Maternity Leave Is About Six Weeks Away",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:43:43"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she is in the countdown before maternity leave and viewers have her for the next six weeks."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we are in the countdown before I go on maternity leave, but you've got me for the next 6 weeks"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Supports",
+     "v": "C-11905"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The host's later announcements and the show schedule in October 2026."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12525",
+   "header": "**C-12525** Host Asks Viewers With Another Piece of the Puzzle to Email Tips",
+   "label": "Host Asks Viewers With Another Piece of the Puzzle to Email Tips",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host asks viewers with another piece of the puzzle to email moretips@candaceowens.com."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "if you do have another piece of the puzzle, please do email us moretips@candaceowens. com."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3261.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10024"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Tip volume and any tips acted on in later episodes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12526",
+   "header": "**C-12526** Host Invites State Department Insiders and Whistleblowers to Contact Her",
+   "label": "Host Invites State Department Insiders and Whistleblowers to Contact Her",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:45:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host invites anyone working inside the State Department to tell her things, calling them whistleblowers, and says she is interested in many angles."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Maybe you work inside the State Department and would like to tell us some stuff. Whistleblower, I don't know how it works."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3261.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10814"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Any State Department tipsters reported in later episodes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12527",
+   "header": "**C-12527** Host Says TPUSA Is Using Andrew Wilson as an Attack Dog",
+   "label": "Host Says TPUSA Is Using Andrew Wilson as an Attack Dog",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:45:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she loves that Turning Point USA is using Andrew Wilson as their attack dog, which she says reveals to parents what the organization is."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I love that they're using him as their dog though, as their attack dog though"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-18"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11262, N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Wilson's engagement terms and any payments by TPUSA; related to the debate training engagement node."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12528",
+   "header": "**C-12528** Host Says Charlie Texted Multiple People on September 9 That He Wanted Her Back",
+   "label": "Host Says Charlie Texted Multiple People on September 9 That He Wanted Her Back",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:46:15"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie Kirk texted multiple people on September 9 saying he wanted her back, that they will never tell the truth about it, and that she knows for a fact it is true."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "to know that he had texted multiple people on September 9th saying that he wanted me back. They will never tell the truth about that. I know for a fact it's true."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10816"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the recipients' September 9, 2025 messages; the host does not name the recipients in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12529",
+   "header": "**C-12529** Host Says Charlie Started to See Those People Differently in His Last Year",
+   "label": "Host Says Charlie Started to See Those People Differently in His Last Year",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:46:15"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that after October 7 she and Charlie discussed how radical and unrelenting certain people were, and that she believes he started to see them differently, a little after she did."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I think he started to see those people in a different way, how radical they were and how um unrelenting they would be to destroy anyone who didn't go along with the narrative."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Message and call records between the host and Kirk after October 7, 2023; the host does not say who the people are."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12530",
+   "header": "**C-12530** Host Says Tucker Carlson Is Not Slated to Speak at the Tour but Ben Shapiro Is",
+   "label": "Host Says Tucker Carlson Is Not Slated to Speak at the Tour but Ben Shapiro Is",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:48:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Tucker Carlson is not slated to speak at the Turning Point USA tour, while Ben Shapiro is."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Tucker Carlson is not slated to speak, Ben Shapiro is."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2318.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-22, N-97"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The official speaker list and any statement about Carlson's invitation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12531",
+   "header": "**C-12531** Host Alleges Tour Speakers Are Being Paid to Appear",
+   "label": "Host Alleges Tour Speakers Are Being Paid to Appear",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:48:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host alleges that speakers are being paid to come and speak to pretend that TPUSA has taken over the youth movement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "pay them to come here and speak to pretend like you've taken over the youth movement"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Speaker contracts and fees for the tour; none are shown in the episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-12532",
+   "header": "**C-12532** Host Says She Won a Fishing Weekend With a 38 lb Salmon and Recalls a Photo With Charlie",
+   "label": "Host Says She Won a Fishing Weekend With a 38 lb Salmon and Recalls a Photo With Charlie",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:49:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she and Charlie fished in British Columbia, refers to a photograph she thinks she showed earlier of them holding a large salmon, and says she won the weekend for the heaviest salmon at 38 lbs and the heaviest halibut at 200 lbs."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I won the weekend for the heaviest salmon. It was 38 lbs."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The photograph and event records; this is background colour."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 6. Meme Register",
+    ""
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-12",
+   "header": "**M-12** (meme) Decentralized Intelligence Agency",
+   "label": "(meme) Decentralized Intelligence Agency",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:44:50"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "please do email us moretips@candaceowens. com."
+    },
+    {
+     "k": "Context",
+     "v": "Host asks for more tips by email."
+    },
+    {
+     "k": "Tags",
+     "v": "tips, DIA"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:45:12"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Maybe you work inside the State Department and would like to tell us some stuff."
+    },
+    {
+     "k": "Context",
+     "v": "Host invites State Department whistleblowers to send tips."
+    },
+    {
+     "k": "Tags",
+     "v": "tips, DIA, State Department"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-26",
+   "header": "**M-26** (meme) Gaslight",
+   "label": "(meme) Gaslight",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:05:49"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "then attempt to gaslight me into believing that I wasn't actually friends with him"
+    },
+    {
+     "k": "Context",
+     "v": "Host says Charlie's supposed friends tried to gaslight her about their friendship."
+    },
+    {
+     "k": "Tags",
+     "v": "Charlie Kirk, friendship"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-29",
+   "header": "**M-29** (meme) You Can't Make This Up",
+   "label": "(meme) You Can't Make This Up",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:13:27"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "You could not make this up."
+    },
+    {
+     "k": "Context",
+     "v": "Host marvels at running into Baldoni in Iceland."
+    },
+    {
+     "k": "Tags",
+     "v": "Baldoni, Iceland"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-54",
+   "header": "**M-54** (meme) Psyop",
+   "label": "(meme) Psyop",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:27:32"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "it looks like a military campaign like a psychological operation"
+    },
+    {
+     "k": "Context",
+     "v": "Host calls the campaign against her a psychological operation."
+    },
+    {
+     "k": "Tags",
+     "v": "Department of War, campaign"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-71",
+   "header": "**M-71** (meme) Where Were You on 9/10",
+   "label": "(meme) Where Were You on 9/10",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:35:45"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Where was Jennica Pounds on September 10th?"
+    },
+    {
+     "k": "Context",
+     "v": "Host asks where Pounds was on September 10."
+    },
+    {
+     "k": "Tags",
+     "v": "Jennica Pounds, September 10"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-75",
+   "header": "**M-75** (meme) I'll Say Allegedly",
+   "label": "(meme) I'll Say Allegedly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:38:16"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Also, allegedly, I'll say allegedly"
+    },
+    {
+     "k": "Context",
+     "v": "Host hedges before the arrest allegation."
+    },
+    {
+     "k": "Tags",
+     "v": "allegation, hedge"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-79",
+   "header": "**M-79** (meme) Pass the Sniff Test",
+   "label": "(meme) Pass the Sniff Test",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:14:29"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "It wasn't passing the sniff test."
+    },
+    {
+     "k": "Context",
+     "v": "Host explains why she looked into the Baldoni lawsuit."
+    },
+    {
+     "k": "Tags",
+     "v": "Baldoni, lawsuit"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-80",
+   "header": "**M-80** (meme) Jog Your Memory",
+   "label": "(meme) Jog Your Memory",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:04:53"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Uh now to jog your memory beyond that"
+    },
+    {
+     "k": "Context",
+     "v": "Host recalls the Mappins' earlier role."
+    },
+    {
+     "k": "Tags",
+     "v": "Mappins"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-83",
+   "header": "**M-83** (meme) Lo and Behold",
+   "label": "(meme) Lo and Behold",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:30:13"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "And lo and behold, we have Jennica Pounds, Data Republican, has kind of hit the map."
+    },
+    {
+     "k": "Context",
+     "v": "Host introduces Pounds' rise."
+    },
+    {
+     "k": "Tags",
+     "v": "Jennica Pounds"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-107",
+   "header": "**M-107** (meme) Stop Anti-Candaceism",
+   "label": "(meme) Stop Anti-Candaceism",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:50:19"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "You can also purchase a stand this cup to stop anti-Candacism."
+    },
+    {
+     "k": "Context",
+     "v": "Host plugs the stand-cup merch against anti-Candacism."
+    },
+    {
+     "k": "Tags",
+     "v": "merch"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-109",
+   "header": "**M-109** (meme) Ivanka the Explorer",
+   "label": "(meme) Ivanka the Explorer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:00:01"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I was worried that maybe Ivanka had swam and discovered another island"
+    },
+    {
+     "k": "Context",
+     "v": "Host jokes Ivanka may have swum to discover another island in Iceland."
+    },
+    {
+     "k": "Tags",
+     "v": "Ivanka Trump, Iceland"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-115",
+   "header": "**M-115** (meme) Punt the Chihuahua",
+   "label": "(meme) Punt the Chihuahua",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:37:33"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "we're kind of getting the Chihuahua, Alex Clark, and Ben Shapiro"
+    },
+    {
+     "k": "Context",
+     "v": "Host calls Alex Clark the Chihuahua when describing the tour lineup."
+    },
+    {
+     "k": "Tags",
+     "v": "Alex Clark, tour"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-144",
+   "header": "**M-144** (meme) The Preggo",
+   "label": "(meme) The Preggo",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:12:37"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I'm fat and pregnant and I'm tired"
+    },
+    {
+     "k": "Context",
+     "v": "Host jokes about her pregnancy while waiting to board."
+    },
+    {
+     "k": "Tags",
+     "v": "pregnancy"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-154",
+   "header": "**M-154** (meme) Second Favorite Shirt",
+   "label": "(meme) Second Favorite Shirt",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:50:19"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "you can buy your second favorite shirt"
+    },
+    {
+     "k": "Context",
+     "v": "Host plugs merch and her second favorite shirt."
+    },
+    {
+     "k": "Tags",
+     "v": "merch"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-197",
+   "header": "**M-197** (meme) Your Terms Are Unacceptable",
+   "label": "(meme) Your Terms Are Unacceptable",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:23:25"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I would not accept that bit of truth in this story."
+    },
+    {
+     "k": "Context",
+     "v": "Host refuses Baldoni's claim that he does not drink kombucha."
+    },
+    {
+     "k": "Tags",
+     "v": "Baldoni, kombucha"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## VI. Optional Flags",
+    "",
+    "- **Name uncertainty:** Host uses the name \"Mat Nuclear\" for a Daily Wire personality; legal name not provided. May be a stage name, nickname, or transcription artifact.",
+    "- **Artifact verbally referenced but not shown (A-2312.1, A-2316.1, A-2318.1):** The NCRI report, the Bill Ackman promotion, and the TPUSA tour announcement are described by the host but not visibly displayed in the available source.",
+    "- **Possible transcription error:** Host uses both \"Erica\" and \"Erika\" when referring to Erika Kirk; preserved as \"Erika\" per this episode's transcript; existing node is N-2 Erika Kirk.",
+    "- **Claim failed admission test:** Host assertion that \"he had texted multiple people on September 9th saying that he wanted me back\" is recorded as investigation target N-10816 but not as an artifact-anchored claim in this episode.",
+    "",
+    "---",
+    "",
+    "## Episode 145 Ledger Summary",
+    "",
+    "Artifact Families Introduced: A-2310, A-2311, A-2312, A-2313, A-2314, A-2315, A-2316, A-2317, A-2318, A-2319",
+    "",
+    "Claim Range: C-12461–C-12512",
+    "",
+    "New Nodes Introduced:",
+    "N-10814, N-10815, N-10816",
+    "",
+    "Existing Nodes Reused: N-1, N-2, N-3",
+    "",
+    "---"
+   ]
+  }
+ ]
+}

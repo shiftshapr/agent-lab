@@ -1,0 +1,7426 @@
+{
+ "format": "cka-source/1",
+ "episode": 62,
+ "blocks": [
+  {
+   "kind": "text",
+   "lines": [
+    "## 1. Meta-Data",
+    "",
+    "- **Episode**: 62",
+    "- **Monument**: cka",
+    "- **CKA seq**: 62",
+    "- **YouTube id**: gG4ZoYUjUc8",
+    "- **Candace Ep**: 295",
+    "- **Source**: Candace Owens YouTube",
+    "- **Video Timestamp Range**: 00:00:00–00:46:29",
+    "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
+    "- **Transcript SHA-256**: 24dc527071bb4996347a4421cf2c9457ed4da7b0f003289f3d1967ed8acdf2bd",
+    "",
+    "- **Episode Ledger Summary**:",
+    "  - Tip-minted Nodes (supplement_2026-10c): N-11176, N-11177, N-11178, N-11179, N-11181",
+    "  - Hole-minted Nodes (reintro-ep062): N-10869",
+    "  - Tip-minted Nodes (reintro-ep062): N-767, N-10984",
+    "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
+    "  - Claim Range: C-5523–C-5599",
+    "  - New Nodes Introduced: N-488, N-490, N-491, N-493, N-494, N-10438, N-10439, N-10440, N-10441, N-10442",
+    "  - Reused Nodes Appearing: N-2, N-11, N-489, N-9, N-82, N-10000, N-10007, N-10015, N-10023, N-10026, N-10047, N-10063, N-10197, N-10209, N-10268, N-10320, N-10344, N-10398, N-10436, N-11035, N-11097, N-11080, N-11084, N-11180",
+    "  - (see registers)",
+    "",
+    "# Episode Analysis: Monument Ep 62",
+    "",
+    "",
+    "## 2. Executive Summary",
+    "",
+    "Episode 62 advances the Bride of Charlie series along three investigative axes: (1) donor pressure on Charlie Kirk, anchored by a full read-aloud of a text message Charlie received from a self-identified Christian Zionist donor, with on-air confirmation of its authenticity by Jaco Booyens and Erika Kirk; (2) the Lori Frantzve / Larry Guinta business network, specifically a 2017 Arizona LLC called Desert Spirit Tech formed on a Tohono O'odham reservation address with Lyle and Shelly Reams, where Lyle Reams carries a 1998 indictment for sexual conduct with a minor under 15 that was dismissed without prejudice in 1999; and (3) the ongoing Turning Point USA employee terminations, anchored by an on-air audio recording of a termination meeting in which an employee is repeatedly told only that the organization is \"going in a different direction\" after working 80–90 hour weeks. A 2018 Tyler Bowyer tweet asserting TPUSA runs \"like a military op\" with personnel from that background is displayed and used to re-anchor prior host claims about military infiltration.",
+    "",
+    "The episode's structural importance lies in coupling first-person testimonials with primary documents (court records, LLC filings, social media posts, termination audio) on the same evidentiary surface, while continuing the Lori Frantzve business-entity thread opened in earlier episodes.",
+    "",
+    "---",
+    "",
+    "## 3. Artifact Register",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1669",
+   "header": "**A-1669** Christian Zionist Donor Text Message Bundle",
+   "label": "Christian Zionist Donor Text Message Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1669.1",
+   "header": "**A-1669.1** Text message received by Charlie Kirk from female Christian Zionist donor",
+   "label": "Text message received by Charlie Kirk from female Christian Zionist donor",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:07:27–00:09:18"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (host states Jaco Booyens and Erika Kirk confirmed authenticity)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5534, C-5535, N-2, N-488, N-10438*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1670",
+   "header": "**A-1670** Lyle Reams Legal Records Bundle",
+   "label": "Lyle Reams Legal Records Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1670.1",
+   "header": "**A-1670.1** 1998 Indictment: State v. Lyle Reams – Sexual conduct with minor under 15",
+   "label": "1998 Indictment: State v. Lyle Reams – Sexual conduct with minor under 15",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:12:31"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (host displays case on screen)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5547, N-490, N-10438*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1670.2",
+   "header": "**A-1670.2** 1999 Dismissal Without Prejudice – victim had given victim impact statement",
+   "label": "1999 Dismissal Without Prejudice – victim had given victim impact statement",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:12:31"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5548, N-490*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1671",
+   "header": "**A-1671** Desert Spirit Tek LLC Filing Bundle",
+   "label": "Desert Spirit Tek LLC Filing Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1671.1",
+   "header": "**A-1671.1** Arizona LLC formation documents – Desert Spirit Tek LLC, filed 2017, Sacaton, AZ",
+   "label": "Arizona LLC formation documents – Desert Spirit Tek LLC, filed 2017, Sacaton, AZ",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:13:25–00:14:19"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (filing document displayed)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5550, N-489, N-387, N-490, N-491, N-10440, N-10442*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1671.2",
+   "header": "**A-1671.2** Arizona Chinese News public notice for Desert Spirit Tek LLC (signed Dec 1, 2017; state-received Dec 6, 2017)",
+   "label": "Arizona Chinese News public notice for Desert Spirit Tek LLC (signed Dec 1, 2017; state-received Dec 6, 2017)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:16:12–00:17:52"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (notarized filing displayed)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5557, N-489, N-387, N-10440*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1672",
+   "header": "**A-1672** Generation Seven Farms Reference Bundle",
+   "label": "Generation Seven Farms Reference Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1672.1",
+   "header": "**A-1672.1** Business registration – Generation Seven Farms, 21 Rose and Thobi, Sacaton, AZ (Lyle and Shelly Reams)",
+   "label": "Business registration – Generation Seven Farms, 21 Rose and Thobi, Sacaton, AZ (Lyle and Shelly Reams)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:15:08"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5550, N-490, N-491, N-10442*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1673",
+   "header": "**A-1673** Tyler Bowyer X/Twitter Post Bundle",
+   "label": "Tyler Bowyer X/Twitter Post Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1673.1",
+   "header": "**A-1673.1** Tyler Bowyer post dated September 25, 2018 – \"We run everything like a military op. All of our people are from that background.\"",
+   "label": "Tyler Bowyer post dated September 25, 2018 – \"We run everything like a military op. All of our people are from that background.\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:21:30"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (host displays tweet)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5563, N-41, N-11*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1674",
+   "header": "**A-1674** TPUSA Termination Audio Recording Bundle",
+   "label": "TPUSA Termination Audio Recording Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1674.1",
+   "header": "**A-1674.1** Audio recording of TPUSA termination meeting between terminated employee and \"Frank\" (general counsel)",
+   "label": "Audio recording of TPUSA termination meeting between terminated employee and \"Frank\" (general counsel)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:26:45–00:30:41"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (audio played on air; recording captured by employee)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5578, C-5579, C-5582, N-14, N-494, N-10439*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1675",
+   "header": "**A-1675** First-Person TPUSA Employee Testimonial Bundle",
+   "label": "First-Person TPUSA Employee Testimonial Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1675.1",
+   "header": "**A-1675.1** First-person account: Andrew Kolvet office confrontation regarding Uber-driver conversation about Erika Kirk",
+   "label": "First-person account: Andrew Kolvet office confrontation regarding Uber-driver conversation about Erika Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:22:28–00:24:21"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (host-relayed first-person account)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5568, N-14, N-493, N-10439*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1675.2",
+   "header": "**A-1675.2** First-person account: Marina Minas Zoom-call incident and general counsel home visit for computer retrieval",
+   "label": "First-person account: Marina Minas Zoom-call incident and general counsel home visit for computer retrieval",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:32:06–00:34:39"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (host-relayed first-person account)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5586, N-493, N-494, N-10439*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2925",
+   "header": "**A-2925** Tucker Carlson July 2025 Speech Clip Bundle",
+   "label": "Tucker Carlson July 2025 Speech Clip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2925.1",
+   "header": "**A-2925.1** Clip of Tucker Carlson's July speech played by the host (Epstein's wealth and foreign-government connections)",
+   "label": "Clip of Tucker Carlson's July speech played by the host (Epstein's wealth and foreign-government connections)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"How does a guy go from being a math teacher at the Dalton School in the late '70s with no college degree to having multiple airplanes, a private island, and the largest residential house in Manhattan?\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:02:13"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5527, N-22, N-9*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2925.2",
+   "header": "**A-2925.2** Continuation of the Carlson clip (Mossad and blackmail questions)",
+   "label": "Continuation of the Carlson clip (Mossad and blackmail questions)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Were you working on behalf of Mossad? Were you running a blackmail operation on behalf of foreign government?\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:04:45"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5528, N-22, N-9*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2926",
+   "header": "**A-2926** Charlie Kirk September 9 AmFest Invitation Text Bundle",
+   "label": "Charlie Kirk September 9 AmFest Invitation Text Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2926.1",
+   "header": "**A-2926.1** Host verbal reference to a September 9, 2025 text from Charlie Kirk to a smaller pool of TPUSA employees saying he wanted to invite her to AmFest (not shown)",
+   "label": "Host verbal reference to a September 9, 2025 text from Charlie Kirk to a smaller pool of TPUSA employees saying he wanted to invite her to AmFest (not shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:05:37"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5529, N-1, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2927",
+   "header": "**A-2927** Decentralized Intelligence Agency Tip Line Bundle",
+   "label": "Decentralized Intelligence Agency Tip Line Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2927.1",
+   "header": "**A-2927.1** Host verbal reference to the tip email address moretips@candaceowens.com (call for the 2017 Chinese News notice and information on the tech companies)",
+   "label": "Host verbal reference to the tip email address moretips@candaceowens.com (call for the 2017 Chinese News notice and information on the tech companies)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"please email me at moretips@candaceowens. com\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:16:59"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5560, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 4. Node Register",
+    ""
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-1",
+   "header": "**N-1** Charlie Kirk",
+   "label": "Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of the text-message threat and the referenced 2025-09-09 text regarding AmFest invitation to Candace Owens."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1669.1, C-5534, N-2, N-10438*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-488",
+   "header": "**N-488** Jaco Booyens",
+   "label": "Jaco Booyens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Referenced by host as confirming authenticity of A-1669.1."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1669.1, C-5535*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-489",
+   "header": "**N-489** Lori Frantzve",
+   "label": "Lori Frantzve",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Erika Kirk's mother; 20% stakeholder of record in Desert Spirit Tek LLC; co-filer of Euro Tech in Cincinnati, Ohio."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1671.1, A-1671.2, C-5550, N-387, N-2, N-10440, N-10441*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-387",
+   "header": "**N-387** Larry Guinta",
+   "label": "Larry Guinta",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Erika Kirk's stepfather; listed as stakeholder and registered agent of Desert Spirit Tek LLC."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1671.1, A-1671.2, C-5550, N-489, N-10440*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-490",
+   "header": "**N-490** Lyle Reams",
+   "label": "Lyle Reams",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Self-identified (per host) as Tohono O'odham Nation member; 1998 indictee for sexual conduct with minor under 15; co-filer of Desert Spirit Tek LLC."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "3"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1670.1, A-1670.2, A-1671.1, A-1672.1, C-5547, C-5548, C-5550, N-491, N-10440*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-491",
+   "header": "**N-491** Shelly Reams",
+   "label": "Shelly Reams",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Lyle Reams's wife; co-filer of Desert Spirit Tek LLC and Generation Seven Farms."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1671.1, A-1672.1, C-5550, N-490*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-14",
+   "header": "**N-14** Andrew Kolvet",
+   "label": "Andrew Kolvet",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "TPUSA figure who confronted employee regarding Uber-driver conversation per A-1675.1."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1674.1, A-1675.1, C-5578, C-5568, N-10439*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-493",
+   "header": "**N-493** Marina Minas",
+   "label": "Marina Minas",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named by host as employee involved in Uber-driver conversation and as participant in the fake-Zoom termination setup per A-1675.2."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1675.1, A-1675.2, C-5568, C-5586, N-10439*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-494",
+   "header": "**N-494** \"Frank\" (TPUSA General Counsel)",
+   "label": "\"Frank\" (TPUSA General Counsel)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named in termination recording A-1674.1; also referenced in A-1675.2 as general counsel who conducted home-visit termination."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1674.1, A-1675.2, C-5578, C-5586, N-10439*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10438",
+   "header": "**N-10438** Identity of Christian Zionist Donor (Unverified)",
+   "label": "Identity of Christian Zionist Donor (Unverified)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Persistent unresolved target",
+     "v": "the host states Turning Point USA has not named the sender of A-1669.1."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1669.1, C-5534, N-1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10439",
+   "header": "**N-10439** TPUSA Termination Cause Investigation",
+   "label": "TPUSA Termination Cause Investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Persistent unresolved target",
+     "v": "the actual cause(s) of the TPUSA terminations referenced in A-1674.1, A-1675.1, A-1675.2."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "3"
+    },
+    {
+     "k": "Claim Count",
+     "v": "4"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1674.1, A-1675.1, A-1675.2, C-5578, C-5579, C-5582, C-5568, C-5586, N-2, N-14, N-493, N-494*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10440",
+   "header": "**N-10440** Desert Spirit Tek LLC Business Purpose Question",
+   "label": "Desert Spirit Tek LLC Business Purpose Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Persistent unresolved target",
+     "v": "stated business activity of Desert Spirit Tek LLC."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1671.1, A-1671.2, C-5550, C-5557, N-489, N-387, N-490*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10441",
+   "header": "**N-10441** Euro Tech / Cincinnati Business Investigation",
+   "label": "Euro Tech / Cincinnati Business Investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Persistent unresolved target",
+     "v": "the \"Euro Tech\" company Lori Frantzve formed in Cincinnati, Ohio; host indicates it has not been fully examined yet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: N-489*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10442",
+   "header": "**N-10442** Sacaton \"Rose and Thobi\" Address Verification",
+   "label": "Sacaton \"Rose and Thobi\" Address Verification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Persistent unresolved target",
+     "v": "whether 26 Rose and Thobi (Desert Spirit Tech) and 21 Rose and Thobi (Generation Seven Farms) correspond to actual physical addresses."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1671.1, A-1672.1, C-5550, N-489, N-490, N-491*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11",
+   "header": "**N-11** Tyler Bowyer",
+   "label": "Tyler Bowyer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Person"
+    },
+    {
+     "raw": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5563*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-2",
+   "header": "**N-2** Erika Kirk",
+   "label": "Erika Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Widow and TPUSA CEO; subject of the employees' accounts, the Frantzve family business thread and the host's planned episodes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5545, C-5574, C-5575, C-5593, C-5594, C-5599*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-3",
+   "header": "**N-3** Candace Owens",
+   "label": "Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host; speaks for herself throughout."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5523, C-5524, C-5525, C-5529, C-5530, C-5531, C-5532, C-5533, C-5536, C-5539, C-5540, C-5541, C-5542, C-5543, C-5544, C-5551, C-5552, C-5554, C-5556, C-5558, C-5559, C-5560, C-5561, C-5562, C-5564, C-5567, C-5569, C-5570, C-5572, C-5577, C-5585, C-5588, C-5590, C-5591, C-5592, C-5593, C-5595, C-5596, C-5597, C-5598, C-5599*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-9",
+   "header": "**N-9** Jeffrey Epstein",
+   "label": "Jeffrey Epstein",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of Carlson's remarks in the played clip and of the host's assertions about protection."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5527, C-5528, C-5541*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-22",
+   "header": "**N-22** Tucker Carlson",
+   "label": "Tucker Carlson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Speaker in the played July clip; the donor's text names him with the host as platformed anti-Semites."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5526, C-5527, C-5528, C-5530, C-5536*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-82",
+   "header": "**N-82** Brigitte Macron",
+   "label": "Brigitte Macron",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Referenced via a viewer's comparison to the host's Brigitte Macron series."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5593*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-767",
+   "header": "**N-767** Michele Bachmann",
+   "label": "Michele Bachmann",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Michele Bachmann; named in the donor text as booed at the Tampa event (the transcript spells it Michele)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5537*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10000",
+   "header": "**N-10000** Turning Point USA",
+   "label": "Turning Point USA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Organization whose firings, finances and legal letters the host discusses."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5524, C-5531, C-5532, C-5542, C-5543, C-5564, C-5565, C-5572, C-5573, C-5574, C-5596, C-5597, C-5598, C-5599*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10007",
+   "header": "**N-10007** Republican National Committee (RNC)",
+   "label": "Republican National Committee (RNC)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Organization the host compares TPUSA to."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5596*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10015",
+   "header": "**N-10015** Mossad",
+   "label": "Mossad",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named in Carlson's played question about Epstein."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5528*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10023",
+   "header": "**N-10023** Epstein Israeli Intelligence Asset Allegation",
+   "label": "Epstein Israeli Intelligence Asset Allegation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5527, C-5528, C-5541*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10026",
+   "header": "**N-10026** Israel",
+   "label": "Israel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Place; recurring subject of the donor text and the host's remarks."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5530, C-5540, C-5541*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10047",
+   "header": "**N-10047** Donor Intimidation of Charlie Kirk",
+   "label": "Donor Intimidation of Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5525, C-5531, C-5539*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10063",
+   "header": "**N-10063** Gaza",
+   "label": "Gaza",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Place named in the host's remark."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5540*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10197",
+   "header": "**N-10197** TPUSA Military-Personnel Network",
+   "label": "TPUSA Military-Personnel Network",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the Bowyer tweet claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5566, C-5567*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10209",
+   "header": "**N-10209** TPUSA Faith / Christian Zionist Infiltration Question",
+   "label": "TPUSA Faith / Christian Zionist Infiltration Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5525, C-5595*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10268",
+   "header": "**N-10268** AmFest Speaker Removal Pattern",
+   "label": "AmFest Speaker Removal Pattern",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the AmFest invitation claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5529, C-5530*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10320",
+   "header": "**N-10320** Charlie Kirk's Pre-Death Messages (Night Before Assassination)",
+   "label": "Charlie Kirk's Pre-Death Messages (Night Before Assassination)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the September 9 AmFest text claim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5529*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10344",
+   "header": "**N-10344** Candace Owens Security Arrangement",
+   "label": "Candace Owens Security Arrangement",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the host's security remark."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5592*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10398",
+   "header": "**N-10398** Turning Point USA Faith Structure",
+   "label": "Turning Point USA Faith Structure",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the faith-pivot claim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5595*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10436",
+   "header": "**N-10436** TPUSA Faith Military Infiltration Claim",
+   "label": "TPUSA Faith Military Infiltration Claim",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the legal-letter and Bowyer tweet claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5564, C-5567*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10869",
+   "header": "**N-10869** Dominate 2.0 Mar-a-Lago “Big Hitters” Telegram Donor List",
+   "label": "Dominate 2.0 Mar-a-Lago “Big Hitters” Telegram Donor List",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the Mar-a-Lago donor event reference."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5572*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10984",
+   "header": "**N-10984** U.S. Department of Justice",
+   "label": "U.S. Department of Justice",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Organization the host links to Lori Frantzve's 2017 defense work."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5552*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11035",
+   "header": "**N-11035** TPUSA Employee Purge and Leak Hunt",
+   "label": "TPUSA Employee Purge and Leak Hunt",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5590*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11080",
+   "header": "**N-11080** Student Action Summit July 2025 (Tampa)",
+   "label": "Student Action Summit July 2025 (Tampa)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the SAS and Tampa event claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5526, C-5537*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11084",
+   "header": "**N-11084** TPUSA Leak Hunt and Employee Firings",
+   "label": "TPUSA Leak Hunt and Employee Firings",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5523, C-5543, C-5569, C-5575, C-5585, C-5599*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11097",
+   "header": "**N-11097** TPUSA Post-Assassination Fundraising Claim",
+   "label": "TPUSA Post-Assassination Fundraising Claim",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the 250 million dollar claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5524, C-5573, C-5598*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11176",
+   "header": "**N-11176** Arizona Chinese News",
+   "label": "Arizona Chinese News",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "raw": "Obscure Phoenix Chinese-language publication used for the 2017 Desert Spirit Tek LLC public notice; the host says it was founded in April 1990."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5558, C-5559, C-5560*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11177",
+   "header": "**N-11177** Sacaton, Arizona",
+   "label": "Sacaton, Arizona",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Place"
+    },
+    {
+     "raw": "Town on a Native American reservation where Desert Spirit Tek LLC was filed in 2017 and where the Reems business is listed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5551, C-5552, C-5554*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11178",
+   "header": "**N-11178** Tohono O'odham Nation",
+   "label": "Tohono O'odham Nation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "raw": "Native American nation the host says Lyle Reams is ostensibly part of."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5546*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11179",
+   "header": "**N-11179** Generation Seven Farms",
+   "label": "Generation Seven Farms",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "raw": "Business owned by Lyle and Shelly Reams, listed at 21 Rose and Thobi, Sacaton, Arizona, per the host."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5555*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11180",
+   "header": "**N-11180** TPUSA Cease and Desist Letter to Candace Owens",
+   "label": "TPUSA Cease and Desist Letter to Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The legal letter(s) TPUSA sent the host in January 2026, which she says partly cited her statement that military men infiltrated TPUSA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5532, C-5564, C-5597*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11181",
+   "header": "**N-11181** Magisterium AI",
+   "label": "Magisterium AI",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "raw": "Catholic AI answer engine advertised in a sponsor read."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5562*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 5. Claim Register",
+    ""
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5534",
+   "header": "**C-5534** Charlie Kirk received a text-message pressure campaign from a self-identified Christian Zionist donor",
+   "label": "Charlie Kirk received a text-message pressure campaign from a self-identified Christian Zionist donor",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:27"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie Kirk received a text message from a female Christian Zionist donor, which she reads, asking why he would platform Candace Owens and Tucker Carlson, telling him he was \"in violation of the Ninth Commandment\" by bearing false witness against \"your brother, Judah,\" and warning that those who \"curse Israel\" will be cursed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1669.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-22, N-3, N-1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10438"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the original device or screenshot of the message; identify the sender through metadata or corroborating testimony; determine whether Turning Point USA has internal records of this message."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5535",
+   "header": "**C-5535** Host Says Jaco Booyens and Erika Kirk Can Confirm the Text Message Is Real",
+   "label": "Host Says Jaco Booyens and Erika Kirk Can Confirm the Text Message Is Real",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:27"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Host states that Jaco Booyens and Erika Kirk can confirm the text message to Charlie Kirk is real."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1669.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-2, N-488"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain on-record confirmation from Jaco Booyens and/or Erika Kirk independent of the host."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5547",
+   "header": "**C-5547** Host Says Lyle Reams Was Indicted in 1998 for Sexual Conduct with a Minor Under 15",
+   "label": "Host Says Lyle Reams Was Indicted in 1998 for Sexual Conduct with a Minor Under 15",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Lyle Reams was indicted in 1998 for sexual conduct with a minor under the age of 15, and that he was approximately 41 at the time."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1670.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-490"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pull certified court records from the relevant Arizona county (likely Pinal or Maricopa) to confirm indictment, charges, age of complainant, and disposition details."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5548",
+   "header": "**C-5548** Host Says the Lyle Reams Case Was Dismissed Without Prejudice in 1999 After the Victim Gave a Victim Impact Statement",
+   "label": "Host Says the Lyle Reams Case Was Dismissed Without Prejudice in 1999 After the Victim Gave a Victim Impact Statement",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the case against Lyle Reams made its way through the court system for approximately a year and a half, during which the young victim gave a victim impact statement, before being dismissed without prejudice in 1999."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1670.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-490"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify dismissal-without-prejudice status in court records; check statute of limitations to determine whether refiling remains a legal possibility."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5550",
+   "header": "**C-5550** Per Host's Documents, Frantzve, Guinta, and the Reamses Co-Filed Desert Spirit Tek LLC in Sacaton, Arizona in 2017",
+   "label": "Per Host's Documents, Frantzve, Guinta, and the Reamses Co-Filed Desert Spirit Tek LLC in Sacaton, Arizona in 2017",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the formation documents the host shows, in 2017 Lori Frantzve (listed as \"Lorin Frantzve\"), Larry Guinta, Lyle Reams, and Shelly Reams filed to open a business called Desert Spirit Tek LLC in Sacaton, Arizona, with Frantzve listed as a 20% stakeholder and Guinta as registered agent."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1671.1, A-1672.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-387, N-489, N-490, N-491"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10440, N-10442"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pull the certified Arizona Corporation Commission filing for Desert Spirit Tek LLC; identify the actual place of business and any annual reports or amendments."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5557",
+   "header": "**C-5557** Per Host's Filing, Desert Spirit Tek LLC's Statutory Public Notice Was Published in the Arizona Chinese News",
+   "label": "Per Host's Filing, Desert Spirit Tek LLC's Statutory Public Notice Was Published in the Arizona Chinese News",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the filing the host shows, Larry Guinta, Lori Frantzve and their partners issued the statutory public notice for Desert Spirit Tek LLC in the Arizona Chinese News, signed December 1, 2017 and received by the state December 6, 2017."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1671.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-387, N-489"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10440"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the original publication or archival copy of the Arizona Chinese News issue carrying the notice to confirm the stated business activity description."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5563",
+   "header": "**C-5563** Per a 2018 Tweet the Host Reads, Tyler Bowyer Said TPUSA Runs Everything \"Like a Military Op\"",
+   "label": "Per a 2018 Tweet the Host Reads, Tyler Bowyer Said TPUSA Runs Everything \"Like a Military Op\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per a September 25, 2018 tweet from Tyler Bowyer that the host reads, Bowyer wrote that \"we run everything like a military op\" and that \"all of our people are from that background.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1673.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-11"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the original post from X/Twitter (including any deletions or edits) and identify which \"background\" Bowyer was referencing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5578",
+   "header": "**C-5578** In a Recording the Host Plays, a Fired TPUSA Employee Is Told Only That TPUSA Is \"Going in a Different Direction\"",
+   "label": "In a Recording the Host Plays, a Fired TPUSA Employee Is Told Only That TPUSA Is \"Going in a Different Direction\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:26:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a recording the host plays, a fired TPUSA employee who says she worked 80–90 hour weeks through AmFest and after Charlie Kirk's assassination is told by general counsel \"Frank\" only that the organization is \"going in a different direction with the team.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1674.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-494, N-1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10439"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the termination documentation referenced in the audio (\"email with social security and links\" plus year-end bonus in final paycheck); identify the employee and obtain their signed release or separation agreement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5579",
+   "header": "**C-5579** The terminated employee had worked 80–90 hour weeks immediately prior to termination",
+   "label": "The terminated employee had worked 80–90 hour weeks immediately prior to termination",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:27:24"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The terminated employee stated in the recorded termination meeting with general counsel \"Frank\" that she had worked \"80, 90-hour weeks plus for AmFest\" without direction or explanation upon return."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1674.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-494"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10439"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Cross-check time-tracking or HR records to verify hours worked."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5582",
+   "header": "**C-5582** The terminated employee reported never having received any prior negative performance review",
+   "label": "The terminated employee reported never having received any prior negative performance review",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:48"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The terminated employee told general counsel \"Frank\" she had \"never had one bad review from Dylan\" and \"never had one issue with the company.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1674.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-494"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10439"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain HR personnel file to confirm or refute the absence of any prior negative review."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5568",
+   "header": "**C-5568** An Andrew Kolvet-led office confrontation was triggered by an Uber-driver's reported conversation",
+   "label": "An Andrew Kolvet-led office confrontation was triggered by an Uber-driver's reported conversation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Andrew Kolvet brought a TPUSA employee into an office to question them about a conversation the CMO had with an Uber driver, in which the driver said his daughter knew someone at TPUSA who \"maybe ... doesn't like stuff that's going on at the company.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1675.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-493"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10439"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the CMO named and obtain any internal investigation notes; verify whether the Uber driver conversation actually occurred."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5586",
+   "header": "**C-5586** A part-time TPUSA employee was terminated at her home by the general counsel during a fake Zoom meeting, with her work computer retrieved",
+   "label": "A part-time TPUSA employee was terminated at her home by the general counsel during a fake Zoom meeting, with her work computer retrieved",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:32:06"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host alleges that a part-time TPUSA employee (unnamed) was put into a fake Zoom meeting, received non-stop calls from an unrecognized number, and on answering was told by the general counsel that he was outside her home, that she was fired, and to surrender her work computer (with a warning that deletions would be detected). The host names Marina Minas separately as someone involved in the firings; Minas is not the employee in this account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1675.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-493, N-494"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10439"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the part-time employee and obtain on-record confirmation and contemporaneous communications (texts, voicemails) of the home-visit termination; Marina Minas (N-493) is discussed in C-5587."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5523",
+   "header": "**C-5523** Host says Arizona is an at-will employment state",
+   "label": "Host says Arizona is an at-will employment state",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:00:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Arizona is an at-will employment state in which employers can fire employees for any reason, and that doing so is not illegal."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Arizona, you should know, is an at-will employment state. What that means is that employers can fire you for any reason at all."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11084"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check Arizona employment law and the terms of each terminated employee's contract or separation agreement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5524",
+   "header": "**C-5524** Host says TPUSA took in 250 million dollars off the assassination",
+   "label": "Host says TPUSA took in 250 million dollars off the assassination",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:00:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Turning Point USA took in 250 million dollars off the back of its founder's assassination while its employees were working overtime."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the company rakes in 250 million dollars off the back of its founder's assassination and employees are working overtime to help make that happen"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-11097"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain TPUSA and Turning Point Action financial filings and donation reports for September 2025 onward to confirm or refute the 250 million dollar figure."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5525",
+   "header": "**C-5525** Host says Charlie was threatened financially by Jewish and Christian Zionist donors",
+   "label": "Host says Charlie was threatened financially by Jewish and Christian Zionist donors",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:01:18"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie Kirk was threatened a lot, financially, and not only by Jewish donors but also by Christian Zionist donors."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Charlie was threatened. He was threatened a lot, I would say, threatened financially. And I want to be clear, it wasn't just by Jewish donors, but also by Christian Zionist donors."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10047, N-10209"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2122"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the donors and the communications (texts, emails, call logs) in which funding was threatened to Charlie Kirk in 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5526",
+   "header": "**C-5526** Host says Charlie stepped out of line by hosting Tucker Carlson at the July SAS event",
+   "label": "Host says Charlie stepped out of line by hosting Tucker Carlson at the July SAS event",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:01:18"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that in July Charlie Kirk 'stepped out of line' because he hosted Tucker Carlson at TPUSA's SAS event."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "In July, we know that's when things went sideways for Charlie Kirk, right? He stepped out of line because he hosted Tucker Carlson at their SAS event in July."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-22"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11080"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2121"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the July 2025 Student Action Summit schedule and later donor communications with the timing of the reported donor backlash."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5527",
+   "header": "**C-5527** Clip: Tucker Carlson says Epstein's wealth is unexplained and he had direct connections to a foreign government",
+   "label": "Clip: Tucker Carlson says Epstein's wealth is unexplained and he had direct connections to a foreign government",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip of Tucker Carlson's July speech played by the host, Carlson asks how Jeffrey Epstein went from a Dalton School math teacher with no college degree to owning airplanes, a private island and the largest residential house in Manhattan, and says it is obvious Epstein had direct connections to a foreign government."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "How does a guy go from being a math teacher at the Dalton School in the late '70s with no college degree to having multiple airplanes, a private island, and the largest residential house in Manhattan?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2925.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-22, N-9"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10023"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2121"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find the full video of Carlson's July 2025 speech and verify the quoted passage and the biographical facts about Epstein."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5528",
+   "header": "**C-5528** Clip: Tucker Carlson asks whether Epstein worked for Mossad and ran a blackmail operation",
+   "label": "Clip: Tucker Carlson asks whether Epstein worked for Mossad and ran a blackmail operation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the played clip, Tucker Carlson says people online ask whether Epstein was working on behalf of Mossad and running a blackmail operation for a foreign government, and mentions the former Israeli prime minister living in Epstein's house."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Were you working on behalf of Mossad? Were you running a blackmail operation on behalf of foreign government?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2925.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-22, N-9"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10015, N-10023"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2121"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find the full video of the speech; check which former Israeli prime minister Carlson referred to and the documentation of that residence."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5529",
+   "header": "**C-5529** Host says Charlie texted on Sept 9 to a small group that he wanted to invite her to AmFest",
+   "label": "Host says Charlie texted on Sept 9 to a small group that he wanted to invite her to AmFest",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:37"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she can confirm that on September 9, amongst a smaller pool of TPUSA employees, Charlie Kirk sent a text the day before he died saying he wanted to invite her to AmFest."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "on September 9th, amongst a smaller pool of TPUSA employees, Charlie sent a text saying, the day before he died, that he wanted to invite me to AmFest"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2926.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10320, N-10268"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2046"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the September 9, 2025 text thread and its recipient list from one of the employees on it; compare with the earlier-shown text about inviting her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5530",
+   "header": "**C-5530** Host says the AmFest invitation was blocked because of Tucker's speech",
+   "label": "Host says the AmFest invitation was blocked because of Tucker's speech",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:37"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the AmFest invitation 'wasn't allowed to happen' because Tucker Carlson's speech was, in her words, 'disobedient to Israel's aims'."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Yeah, no. That wasn't allowed to happen because this Tucker speech wasn't allowed to happen. That speech was disobedient, disobedient to Israel's aims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-22, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10268, N-10026"
+    },
+    {
+     "k": "Supports",
+     "v": "C-3163, C-2791"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify who decided against the invitation and when, through AmFest speaker-planning records and the staff on the September 9 text."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5531",
+   "header": "**C-5531** Host says Charlie's closest TPUSA friends are silent on the donor pressure",
+   "label": "Host says Charlie's closest TPUSA friends are silent on the donor pressure",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the donor-pressure information is coming from her and not from Charlie's closest friends at Turning Point USA, who claim to want the truth out but do not address the pressure Charlie was under in the months before his assassination."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Not from Charlie's closest friends over at Turning Point USA who report to care about what happened to him, report to want the truth to get out"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10047"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare TPUSA leadership's public statements on donor pressure with the donor communications the host has displayed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5532",
+   "header": "**C-5532** Host says TPUSA does not send legal letters to people who are pro-Israel",
+   "label": "Host says TPUSA does not send legal letters to people who are pro-Israel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Turning Point USA has plenty to say about her but will not send legal letters to anyone who is pro-Israel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They're not going to send any legal letters over to anybody that is pro-Israel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11180, N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Survey TPUSA's publicly known legal demands and cease-and-desist letters to see to whom they were addressed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5533",
+   "header": "**C-5533** Host says she re-sent the donor text through her team to hide its source",
+   "label": "Host says she re-sent the donor text through her team to hide its source",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she copy-pasted the donor's message and sent it to her team and back so that where and who the message came from is not obvious, and that it is a real message."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I have copy and pasted this message and sent it to my team and sent it back because I want to make sure that where and who this message came from is not obvious, but this is a real message."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1669.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10438"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5535"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Independent confirmation of the message's authenticity from a recipient or from Charlie Kirk's phone records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5536",
+   "header": "**C-5536** Donor text calls Candace and Tucker anti-Semites and accuses Charlie of threatening Jews and Christians",
+   "label": "Donor text calls Candace and Tucker anti-Semites and accuses Charlie of threatening Jews and Christians",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:27"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "As read by the host, the donor's message asks why Charlie Kirk would platform 'anti-Semites like Candace and Tucker' and says he threatened Jews and Christians with his 30 million followers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "All of the people that trusted you, Jews and Christians, including me, why would you platform anti-Semites like Candace and Tucker?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1669.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3, N-22"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10438"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5534"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the original message and metadata to identify the sender and confirm the wording."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5537",
+   "header": "**C-5537** Donor text says the TPUSA Tampa event was a disaster and Bachmann was booed with about 10 percent walking out",
+   "label": "Donor text says the TPUSA Tampa event was a disaster and Bachmann was booed with about 10 percent walking out",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "As read by the host, the donor's message says the TPUSA Tampa event was a disaster, that Michele Bachmann was booed and that about 10 percent walked out on her when she talked about standing with Israel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Your TPUSA Tampa event was a disaster. Michele Bachmann was booed and about 10% walked out on her when she talked about standing with Israel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1669.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-767"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11080, N-10438"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check video and attendee accounts of Michele Bachmann's July 2025 Tampa appearance for booing and walkouts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5538",
+   "header": "**C-5538** Donor text warns that God will lift his hand from Charlie and wipe out the descendants of Edom",
+   "label": "Donor text warns that God will lift his hand from Charlie and wipe out the descendants of Edom",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "As read by the host, the donor's message warns Charlie that God 'is going to lift his hand from you', that those who curse Israel will be cursed (Genesis 12:3, Obadiah), and that in the last days God will wipe out the descendants of Edom."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "You have accomplished so much by the all by the hand of the almighty, but he is going to lift his hand from you."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1669.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10438"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the original message to confirm the wording of the scriptural warnings."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5539",
+   "header": "**C-5539** Host says Charlie felt threatened by the donor message",
+   "label": "Host says Charlie felt threatened by the donor message",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:18"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie Kirk 'wasn't chill' with the donor message and did feel threatened by it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "No, he wasn't chill with that. He did feel threatened by that."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1669.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10438, N-10047"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find Charlie's replies to the donor, or accounts from people he spoke to about the message."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5540",
+   "header": "**C-5540** Host says Israel has effectively turned Gaza into a parking lot",
+   "label": "Host says Israel has effectively turned Gaza into a parking lot",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:18"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Israel has 'effectively' turned Gaza into a parking lot."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They've effectively have turned Gaza into a parking lot."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10063, N-10026"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare with satellite damage assessments and UN reports on Gaza."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5541",
+   "header": "**C-5541** Host says Epstein was protected because he worked on behalf of Israel in a blackmail operation",
+   "label": "Host says Epstein was protected because he worked on behalf of Israel in a blackmail operation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Jeffrey Epstein is being protected because he acted on behalf of Israel in a blackmail operation, and that 'everybody knows that including Gen Z'."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And he is being protected because he did that on behalf of Israel. He did that for Israel. Blackmail operation for Israel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-9, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10023, N-10026"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Assess the documentary record on any Epstein intelligence ties, including released Epstein files."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5542",
+   "header": "**C-5542** Host says Turning Point has not named the sender of the donor message",
+   "label": "Host says Turning Point has not named the sender of the donor message",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says it is becoming increasingly difficult to imagine how Turning Point is not naming and shaming the sender of the Christian Zionist message to Charlie, and challenges TPUSA to say who sent it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "It is becoming increasingly difficult to imagine how Turning Point is not naming and shaming these people. I give them an opportunity here."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1669.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10438"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask TPUSA directly whether it has identified the sender and whether it has any record of the message."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5543",
+   "header": "**C-5543** Host says TPUSA is lining up employees and firing them for no reason",
+   "label": "Host says TPUSA is lining up employees and firing them for no reason",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Turning Point USA is lining up employees and firing them for literally no reason, and that she has proof of it later in the episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "You're lining up employees and firing them for literally no reason. We have proof of that later."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-11084"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5511"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain termination records, headcount data and employee accounts to establish who was let go, when, and on what stated grounds."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5544",
+   "header": "**C-5544** Host says a tip adds Frantzve and Guinta to her list of people tied to adults accused of sexual contact with minors",
+   "label": "Host says a tip adds Frantzve and Guinta to her list of people tied to adults accused of sexual contact with minors",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says a tip about Lori Frantzve and Larry Guinta extends the column on her Excel sheet listing adults, across her investigations, who were credibly accused or convicted of sexual contact with minors, in this case through the Reems business partnership rather than directly."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we received a very interesting tip which unfortunately means that our established column that we built on our Excel sheet"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-489, N-387"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10440"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask the host to publish the list and the tip; verify each entry against court records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5545",
+   "header": "**C-5545** Host Says Guinta Is Erika's Stepfather and That He and Frantzve Repeatedly Formed Businesses with Lyle and Shelly Reams",
+   "label": "Host Says Guinta Is Erika's Stepfather and That He and Frantzve Repeatedly Formed Businesses with Lyle and Shelly Reams",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Larry Lawrence Guinta is Erika Kirk's stepfather and that he and Lori Frantzve are a repeat business partnership with the couple Shelly and Lyle Reams, meaning they have formed businesses with them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And they have a repeat business partner, a repeat business couple Shelly and Lyle Reams meaning they form businesses with these people."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-489, N-387, N-490, N-491, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10440"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Search state corporation records for every entity listing Frantzve, Guinta, Lyle Reams or Shelly Reams as members or agents."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5546",
+   "header": "**C-5546** Host Says Lyle Reams Is Ostensibly a Member of the Tohono O'odham Nation",
+   "label": "Host Says Lyle Reams Is Ostensibly a Member of the Tohono O'odham Nation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Lyle Reams is ostensibly Native American and part of the Tohono O'odham Nation, and says she may be saying the name wrong."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Now Lyle Reams ostensibly is Native American a part of the and excuse me if I'm saying this wrong Tohono O'odham Nation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-490"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11178"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify tribal enrollment through the Nation or through court records identifying Reems."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5549",
+   "header": "**C-5549** Host Says Reams's Case Was Apparently No Bar to Frantzve and Guinta Doing Business with Him",
+   "label": "Host Says Reams's Case Was Apparently No Bar to Frantzve and Guinta Doing Business with Him",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the background about Lyle Reams was apparently not a bar to entry for Lori Frantzve and Larry Guinta to pursue a business with him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it was apparently not a bar to entry for Lori and Larry to pursue a business with Lyle"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1670.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-490, N-489, N-387"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10440"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask Frantzve and Guinta whether they knew of the 1998 case when they formed the LLC."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5551",
+   "header": "**C-5551** Host says Sacaton has 3,254 residents, 40 percent children and 95 percent Native American",
+   "label": "Host says Sacaton has 3,254 residents, 40 percent children and 95 percent Native American",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Sacaton, Arizona has a population of 3,254, of whom 40 percent are children and 95 percent Native American."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Sacaton for reference has a population today of just 3,254 people. 40% of those people are children. 95% are yeah, Native American."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11177"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare with US Census figures for Sacaton, Arizona."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5552",
+   "header": "**C-5552** Host says Lori Frantzve was doing defense work for the Department of Justice in 2017 and moved to Arizona for it",
+   "label": "Host says Lori Frantzve was doing defense work for the Department of Justice in 2017 and moved to Arizona for it",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that in 2017, when the LLC was filed, Lori Frantzve was doing defense work for the Department of Justice, and that this is what she moved to Arizona for."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Remember this is at a time when Lori is doing defense work for the Department of Justice. That's what she moved to Arizona for."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1671.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-489, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10984, N-11177"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify Frantzve's employer or contractor status in 2017 and the date she moved to Arizona."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5553",
+   "header": "**C-5553** Host says the filing spells Frantzve's first name Lorin, unlike her other business documents",
+   "label": "Host says the filing spells Frantzve's first name Lorin, unlike her other business documents",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the formation documents for Desert Spirit Tek LLC give Lori Frantzve's name as 'Lorin' rather than 'Lori' as in other business documents."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Her name here is now Lorin l o r i n rather than Lori which is other business documents."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1671.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-489"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10440"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pull the filing from the Arizona Corporation Commission and compare the name with her other filings."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5554",
+   "header": "**C-5554** Host Says the Listed Place of Business, 26 Rose and Thobi, Does Not Appear to Exist",
+   "label": "Host Says the Listed Place of Business, 26 Rose and Thobi, Does Not Appear to Exist",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the place of business listed in the Desert Spirit Tek filing is 26 Rose and Thobi, which does not appear to exist because Rose and Thobi is an intersection of two streets, and offers to correct this if wrong."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Well, that address does not appear to exist. Rose and Thobi is an an intersection."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1671.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10442, N-11177"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check Pinal County and Gila River Indian Community address records and the Arizona Corporation Commission filing for the listed address."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5555",
+   "header": "**C-5555** Host Says Generation Seven Farms Is Owned by Lyle and Shelly Reams at 21 Rose and Thobi, Which She Cannot Find on a Map",
+   "label": "Host Says Generation Seven Farms Is Owned by Lyle and Shelly Reams at 21 Rose and Thobi, Which She Cannot Find on a Map",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:08"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Generation Seven Farms, owned by Lyle Reams and his wife Shelly, lists its address as 21 Rose and Thobi, which should be next door to Lori Frantzve and Larry Guinta's Desert Spirit Tek, and that she cannot find that address on a map either."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "which is called Generation Seven Farms. In theory it should be right next door to Lori and Larry's Spirit Tech as its address is 21 Rose and Thobi."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1672.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-490, N-491, N-489, N-387"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11179, N-10442"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5550"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain Generation Seven Farms' registration and any tribal business licence, and map its address."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5556",
+   "header": "**C-5556** Host Says LLCs Must Publish a Notice Describing Their Intended Business",
+   "label": "Host Says LLCs Must Publish a Notice Describing Their Intended Business",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:08"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that, she thinks in every state though maybe not all, when you form an LLC you are required to publicize it in a local newspaper with a general description of your intended business operations, and that the filing alone does not show what Desert Spirit Tek does."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "when you form an LLC, you have to then publicize that you are doing so in a local newspaper and provide a general description of your intended business operations."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1671.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10440"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm the Arizona LLC publication requirement (A.R.S. 29-3201 and related) and what the notice must contain."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5558",
+   "header": "**C-5558** Host says the Arizona Chinese News is a state-recognized but obscure publication not accessible to non-Mandarin speakers",
+   "label": "Host says the Arizona Chinese News is a state-recognized but obscure publication not accessible to non-Mandarin speakers",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:59"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Arizona Chinese News is recognized by the state as an optional publication for meeting the notice requirement but is obscure and not accessible to non-Mandarin speakers, making a 2017 notice hard to source."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "It's recognized by the state as an optional publication to meet the requirement but as far as publications go, it's a bit obscure."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1671.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11176, N-10440"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the Arizona Corporation Commission's list of approved publications and obtain the 2017 issue from the publisher."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5559",
+   "header": "**C-5559** Host says the Chinese News Agency was founded in Phoenix in April 1990",
+   "label": "Host says the Chinese News Agency was founded in Phoenix in April 1990",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:59"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that, per its website, the Chinese News Agency was founded in Phoenix, Arizona in April 1990 with a mission to create a cultural space for overseas Chinese and serve the Chinese community."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "For reference per their website, the the Chinese News Agency was founded in Phoenix, Arizona in April of 1990."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11176"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the publisher's website and Arizona incorporation records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5560",
+   "header": "**C-5560** Host asks viewers to email tips with the 2017 notice or what the tech companies do",
+   "label": "Host asks viewers to email tips with the 2017 notice or what the tech companies do",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:59"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host asks viewers who find the 2017 notice or know what the Desert Tek, Easy Tech and Euro Tech companies do to email her at moretips@candaceowens.com."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "please email me at moretips@candaceowens. com cuz I would like to know what this tech easy tech desert tech euro tech all of these tech companies do exactly"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2927.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10440, N-11176"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the tips received at the address and verify each against filings."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5561",
+   "header": "**C-5561** Host says another shady character was involved when Frantzve formed Euro Tech in Cincinnati",
+   "label": "Host says another shady character was involved when Frantzve formed Euro Tech in Cincinnati",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:52"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that when Lori Frantzve formed Euro Tech there was another shady character involved in Cincinnati, Ohio, that this seems to be a common theme and that she will look into it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "back when Lori Frantzve formed Euro Tech, there was another shady character involved back in Cincinnati, Ohio."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-489, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10441"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pull Ohio Secretary of State records for Euro Tech and identify all co-filers; the host does not name the person."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5562",
+   "header": "**C-5562** Sponsor read: Magisterium AI says its answers cite original sources from Pontifical University material",
+   "label": "Sponsor read: Magisterium AI says its answers cite original sources from Pontifical University material",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:41"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a sponsor read, the host says Magisterium AI backs every answer with original sources and clickable citations, draws on exclusive digitized work inside the Pontifical Universities in Rome, and is the number one Catholic answer engine in the world."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Magisterium AI actually brings the receipts meaning every single answer is backed by original sources, citations that you can click and verify for yourself."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11181"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Sponsor claim; check Magisterium AI's published documentation for its sources and the 'number one' ranking."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5564",
+   "header": "**C-5564** Host says she received a legal letter in part for saying military men infiltrated TPUSA",
+   "label": "Host says she received a legal letter in part for saying military men infiltrated TPUSA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that the day before she told viewers she had received a legal letter in part for noting that a bunch of military men seem to have infiltrated Turning Point USA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I received a legal letter in part for noting that a bunch of military men seem to have infiltrated Turning Point USA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11180, N-10436, N-10000"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5453, C-5431"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the text of the letter and compare its listed statements with the host's earlier episodes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5565",
+   "header": "**C-5565** Host describes Tyler Bowyer as the former CEO",
+   "label": "Host describes Tyler Bowyer as the former CEO",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host describes Tyler Bowyer as 'the former CEO' when introducing his 2018 tweet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "this is a fun tweet that somebody pulled up from Tyler Bowyer, the former CEO. He wrote this um September 25th, 2018."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1673.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-11"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Establish Bowyer's titles and dates at Turning Point USA and Turning Point Action; the host does not say which organization."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5566",
+   "header": "**C-5566** Bowyer tweet says the team can only do as much as campus police allow and works with police or private security",
+   "label": "Bowyer tweet says the team can only do as much as campus police allow and works with police or private security",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads Bowyer's September 25, 2018 tweet beginning 'We do have a team', saying the team can only do as much as police on campus will allow and also works with police or private security at a given venue."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We can only do as much as police on campus will allow and also working with police or private security in a given venue."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1673.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-11"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10197"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5563"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the tweet and its thread to see the question it answered."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5567",
+   "header": "**C-5567** Host says the Bowyer tweet shows she told the truth about military men in TPUSA",
+   "label": "Host says the Bowyer tweet shows she told the truth about military men in TPUSA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "After reading the 2018 Bowyer tweet, the host says 'So, I told the truth', treating it as confirming her statement that military men are in Turning Point USA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Oh. So, I told the truth. Okay, great. Just wanted to make sure."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1673.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-11"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10436, N-10197"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5563"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Determine whether 'that background' in the tweet means military service, and how many TPUSA staff have it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5569",
+   "header": "**C-5569** Host says she still cannot find what caused the firings",
+   "label": "Host says she still cannot find what caused the firings",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she still does not understand what caused the firings and cannot get to the root of what happened."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "So, I still don't understand what caused it. I can't get to the root of what happened."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10439, N-11084"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain direct statements from TPUSA or from the fired staff on the reasons given."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5570",
+   "header": "**C-5570** Host says the employee questioned about the Uber story denied knowing anything",
+   "label": "Host says the employee questioned about the Uber story denied knowing anything",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the employee brought in by Andrew Kolvet over the Uber conversation said they had no idea what he was talking about, and that it was completely untrue, as if the story had been fictionalized."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the employee was like, \"I have literally have no idea what you're talking about.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1675.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10439"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5568"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the employee and the CMO and confirm with them whether the Uber conversation took place."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5571",
+   "header": "**C-5571** Host says another employee was called in by the general counsel expecting a raise or bonus",
+   "label": "Host says another employee was called in by the general counsel expecting a raise or bonus",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says another former employee was hauled into an office by the general counsel and thought they were being called in to get a raise or a bonus."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "gets hauled into the office by the general counsel, thinks that they are being brought in because they're going to get a raise or a bonus"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1674.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-494"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10439"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the employee and confirm with them the sequence of the meeting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5572",
+   "header": "**C-5572** Host says staff worked nonstop on the memorial, AmFest and a Mar-a-Lago donor event but got no raises or bonuses",
+   "label": "Host says staff worked nonstop on the memorial, AmFest and a Mar-a-Lago donor event but got no raises or bonuses",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says TPUSA staff have been working nonstop on Charlie's memorial service, AmFest and a huge donor event at Mar-a-Lago, and that no one is getting raises or bonuses."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They had AmFest. They had a huge donor thing at Mar-a-Lago."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10869"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm the Mar-a-Lago donor event and staff compensation through employee accounts and payroll data."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5573",
+   "header": "**C-5573** Host says an employee source says TPUSA has brought in 250 million dollars since the assassination",
+   "label": "Host says an employee source says TPUSA has brought in 250 million dollars since the assassination",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that, according to this employee, Turning Point USA has brought in 250 million dollars since Charlie Kirk's assassination."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "yet, according to this person, Turning Point USA has brought in $250 million since Charlie's assassination."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11097, N-10000"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5524"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the source's basis for the figure and match it against TPUSA financial filings."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5574",
+   "header": "**C-5574** Host relays that employees feel the one-big-family image is public presentation and Erika does not know their names",
+   "label": "Host relays that employees feel the one-big-family image is public presentation and Erika does not know their names",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host relays an employee's account that the company presents as one big family outwardly, but many employees feel that is only a public presentation, that Erika Kirk does not even know their names and that only a handful of people have access to her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "That Erika doesn't even know their names. That only a couple a handful of people even have access to her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1675.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Interview current and former TPUSA staff about access to Erika Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5575",
+   "header": "**C-5575** Host says the Uber-story employee invited Kolvet to ask for her opinion about Erika and was then fired",
+   "label": "Host says the Uber-story employee invited Kolvet to ask for her opinion about Erika and was then fired",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that the employee questioned over the Uber conversation told Andrew Kolvet that if he wanted her actual opinion about Erika he could just ask, and was then fired."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "if you want to know my actual opinion about Erika, you can just ask me."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1675.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10439, N-11084"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5568"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm with the employee the dates and what Kolvet said in the meeting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5576",
+   "header": "**C-5576** Host says security was outside during the firing and the employee started recording on her phone",
+   "label": "Host says security was outside during the firing and the employee started recording on her phone",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says an employee called in expecting a raise was told she was fired, was given no explanation beyond 'We're going in a different direction', was told security was outside and to leave, and hit record on her phone."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "You don't get to have an explanation. Security's outside. Leave."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1674.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-494"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10439"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5578"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full recording and identify the employee and the date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5577",
+   "header": "**C-5577** Host says she never spoke to the recorded employee",
+   "label": "Host says she never spoke to the recorded employee",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she never spoke to this employee, may at most have seen her at an event, and does not think the firing is related to her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I never spoke to this employee once. Never anything at all."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1674.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10439"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The transcript is ambiguous about the following words 'One of my sources'; ask the host whether the employee is a source."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5580",
+   "header": "**C-5580** Recording: Frank says a year-end bonus and pay details will follow by email and in the final paycheck",
+   "label": "Recording: Frank says a year-end bonus and pay details will follow by email and in the final paycheck",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:27:24"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the played recording, the man the employee calls Frank tells the employee he will email documents with her details and links, and that she will receive her year-end performance bonus in her paycheck."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And you will receive your your year-end bonus for your performance for the year."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1674.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-494"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10439"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the employee's separation paperwork and final paycheck to confirm the bonus."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5581",
+   "header": "**C-5581** Recording: employee asks to speak with Dylan or Justin and is refused",
+   "label": "Recording: employee asks to speak with Dylan or Justin and is refused",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:27:24"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the played recording, the employee asks whether she can speak with Dylan or Justin or anyone about the termination and is told no."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "So, do I get to have a conversation with Dylan? Do I get to have a talk conversation with Justin or anybody or Nope. No."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1674.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-494"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10439"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify Dylan and Justin; the recording gives no surnames."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5583",
+   "header": "**C-5583** Recording: employee recalls Frank earlier saying she would be first to be screwed over if she did not get a job",
+   "label": "Recording: employee recalls Frank earlier saying she would be first to be screwed over if she did not get a job",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:03"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the played recording, the employee tells Frank that in a past office conversation about 'that whole GC situation' he said, in her words, that if she did not get that job she would be the first to be screwed over."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "if you don't get that job you're going to be the first I think to be screwed over"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1674.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-494"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10439"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask the employee what 'that whole GC situation' and the job refer to, and corroborate with others in the office."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5584",
+   "header": "**C-5584** Recording: Frank says he speaks only for the organization",
+   "label": "Recording: Frank says he speaks only for the organization",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:41"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the played recording, when pressed on who made the decision, Frank says he only speaks for the organization and that 'different direction' is the explanation he will provide."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I only speak for the organization."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1674.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-494"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10439"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify who decided on the termination and how it was documented."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5585",
+   "header": "**C-5585** Host says the firings are legal but immoral",
+   "label": "Host says the firings are legal but immoral",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:18"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that what Turning Point is doing is legal but also immoral, and that firing the employee was not illegal."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "what Turning Point is doing is legal, but it's also immoral."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11084"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the separation terms and any non-disparagement clauses."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5587",
+   "header": "**C-5587** Host names Marina Minas as the Uber chick whose name keeps coming up in the firings",
+   "label": "Host names Marina Minas as the Uber chick whose name keeps coming up in the firings",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:32:06"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Marina Minas is 'the Uber chick', that she appears to be involved in a lot of the firings and that her name keeps coming up."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Marina Minas, this is the the Uber chick."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1675.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-493"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10439"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5568"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm Marina Minas's role at TPUSA and her connection to the Uber conversation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5588",
+   "header": "**C-5588** Host says another part-time employee was fired through a fake Zoom meeting",
+   "label": "Host says another part-time employee was fired through a fake Zoom meeting",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:32:06"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says another person set up a fake Zoom meeting for a part-time employee, and that the host will say 'allegedly'."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "This employee is part-time. It kind of set up this fake Zoom meeting"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1675.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10439"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the employee and who arranged the Zoom meeting; the host's wording is unclear about who it was set up by."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5589",
+   "header": "**C-5589** Host says the part-time employee was alone at home with her kids when the general counsel arrived",
+   "label": "Host says the part-time employee was alone at home with her kids when the general counsel arrived",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:33:10"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the employee was home alone with her kids, with no husband there, and complied when the general counsel demanded entry and her work computer."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "She's home with her kids alone with her kids. There's no she doesn't have her husband there, nothing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1675.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-494"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10439"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5586"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm directly with the employee."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5590",
+   "header": "**C-5590** Host infers TPUSA thought it would find something on the employees' computers",
+   "label": "Host infers TPUSA thought it would find something on the employees' computers",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:33:10"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her sense is that TPUSA thought it would find something, that there is some sort of paranoia going on, and that it may have hoped to grab the tech and find something."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "My sense when I hear that story is they thought they were going to find something."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1675.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11035, N-10439"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5511"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask TPUSA what monitoring software it installed and whether any investigation of leaks was carried out."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5591",
+   "header": "**C-5591** Host says she never spoke to the employee fired at her home",
+   "label": "Host says she never spoke to the employee fired at her home",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:33:54"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she never once spoke to that person, even through a third party."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Again, same exact situation. I had never once spoken to that person, not through a third party, nothing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1675.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10439"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm with the employee."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5592",
+   "header": "**C-5592** Host says she changed her own security after the assassination and told them it was about her",
+   "label": "Host says she changed her own security after the assassination and told them it was about her",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that after Charlie's assassination she made changes on the security front, told her security team 'this is me, you've done nothing wrong', and that they understood."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we definitely obviously went through some changes on the security front which makes sense"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10344"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Context only; no verification beyond the host's account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5593",
+   "header": "**C-5593** Host says she is working on a couple of documented episodes about Erika Kirk",
+   "label": "Host says she is working on a couple of documented episodes about Erika Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:40:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she wants to do a couple of episodes, perhaps not a series, dedicated to who Erika Kirk is, backed by facts and documents, and that they have been in the works in the background."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I do want to do perhaps not entire series, but a couple of episodes dedicated to that, which we have been working on in the background"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-82"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check subsequent episodes for the promised Erika Kirk documentation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5594",
+   "header": "**C-5594** Viewer comment read on air says Erika never says Jesus Christ",
+   "label": "Viewer comment read on air says Erika never says Jesus Christ",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:41:39"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads a viewer comment (Rosario) saying Erika Kirk never says Jesus Christ, only the Lord or God."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Reminds me of how Erika never says Jesus Christ. She just can't say it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Search Erika Kirk's public speeches for her use of the name Jesus Christ."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5595",
+   "header": "**C-5595** Host says TPUSA has dramatically changed and is now pretending to be a faith organization",
+   "label": "Host says TPUSA has dramatically changed and is now pretending to be a faith organization",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:42:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that Charlie Kirk's TPUSA originally centered on free markets and capitalism, and that it then dramatically changed so that the organization now appears to be pretending to be a faith organization."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it then dramatically changed, and it seems like they are now pretending to be a faith organization"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10398, N-10209"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2771"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare TPUSA's mission statements and event programming before and after September 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5596",
+   "header": "**C-5596** Host says TPUSA is becoming the new RNC with a faith bent after Charlie's death",
+   "label": "Host says TPUSA is becoming the new RNC with a faith bent after Charlie's death",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:43:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie wanted to become the new RNC, as the RNC took in millions with no effect on the youth, and that after his assassination TPUSA seems to be becoming the new RNC but with a faith bent."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "now it seems like, in the wake of his assassination, it's becoming the new RNC, but with a faith bent."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10007, N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Opinion; compare TPUSA's post-September 2025 political spending and programming."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5597",
+   "header": "**C-5597** Host says the legal letters are about the fear of being replaced",
+   "label": "Host says the legal letters are about the fear of being replaced",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she thinks the legal letters are really about TPUSA knowing something will rise to take its place, and that one cannot sue one's way into relevancy or public favor."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I think that's really what these legal letters are about. You You cannot, however, sue your way into relevancy."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11180, N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Opinion; compare with the letter's stated purposes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5598",
+   "header": "**C-5598** Host says TPUSA raked in 250 million dollars in a couple of weeks",
+   "label": "Host says TPUSA raked in 250 million dollars in a couple of weeks",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says it is a difficult hill to climb for TPUSA to say it is being hurt by her videos when it raked in 250 million dollars in a couple of weeks, adding \"Maybe it's not.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "you raked in 250 million dollars in a couple of weeks."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11097, N-10000"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5524, C-5573"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the underlying financial statements for the period."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5599",
+   "header": "**C-5599** Host says TPUSA is getting rid of a bunch of people on its payroll and may question new hires' allegiance to Erika",
+   "label": "Host says TPUSA is getting rid of a bunch of people on its payroll and may question new hires' allegiance to Erika",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says TPUSA is getting rid of a bunch of people on its payroll and, she guesses, will bring in new people who will be questioned about their allegiance to Erika."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "especially as you're now getting rid of a bunch of people on your payroll."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11084, N-10000"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5511"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain TPUSA headcount and hiring data for late 2025 to early 2026."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 6. Meme Register",
+    ""
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-9",
+   "header": "**M-9** (meme) Maricopa County corruption",
+   "label": "(meme) Maricopa County corruption",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:44:30"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Maricopa County is one of the most corrupt counties in in the nation"
+    },
+    {
+     "k": "Context",
+     "v": "Host reprises Maricopa corruption refrain while discussing TPUSA legal posture."
+    },
+    {
+     "k": "Tags",
+     "v": "arizona_politics, sarcasm"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-57",
+   "header": "**M-57** (meme) Paranoid Schizo",
+   "label": "(meme) Paranoid Schizo",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:32:06"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "We're a little paranoid schizo right now and we just don't know who to trust."
+    },
+    {
+     "k": "Context",
+     "v": "Host owns collective paranoia after trust collapses."
+    },
+    {
+     "k": "Tags",
+     "v": "self_aware, comedy, distrust"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-12",
+   "header": "**M-12** (meme) Decentralized Intelligence Agency",
+   "label": "(meme) Decentralized Intelligence Agency",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:16:59"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "please email me at moretips@candaceowens. com"
+    },
+    {
+     "k": "Context",
+     "v": "Host asks viewers to email tips about the 2017 Desert Spirit Tech public notice and the tech companies."
+    },
+    {
+     "k": "Tags",
+     "v": "tip_line, dia"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-18",
+   "header": "**M-18** (meme) Make Him a Sandwich",
+   "label": "(meme) Make Him a Sandwich",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:39:10"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "It is the hard copies of Make Him a Sandwich and Blackout, both hand-signed by me."
+    },
+    {
+     "k": "Context",
+     "v": "Host plugs the autographed book bundle on her merch site."
+    },
+    {
+     "k": "Tags",
+     "v": "merch, plug"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-75",
+   "header": "**M-75** (meme) I'll Say Allegedly",
+   "label": "(meme) I'll Say Allegedly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:32:06"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I'm going to say allegedly, but this is what happened. Allegedly, her phone's ringing non-stop non-stop."
+    },
+    {
+     "k": "Context",
+     "v": "Host hedges while relaying the fired employee's fake Zoom account."
+    },
+    {
+     "k": "Tags",
+     "v": "hedge, legal_caution"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    }
+   ]
+  }
+ ]
+}

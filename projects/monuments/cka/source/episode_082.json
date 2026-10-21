@@ -1,0 +1,7636 @@
+{
+ "format": "cka-source/1",
+ "episode": 82,
+ "blocks": [
+  {
+   "kind": "text",
+   "lines": [
+    "## 1. Meta-Data",
+    "",
+    "- **Episode**: 82",
+    "- **Monument**: cka",
+    "- **CKA seq**: 82",
+    "- **YouTube id**: SgVcnx4Oh30",
+    "- **Candace Ep**: 315",
+    "- **Source**: Candace Owens YouTube",
+    "- **Video Timestamp Range**: 00:00:00–01:01:52",
+    "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
+    "- **Transcript SHA-256**: 11b9571e5a76ba6e7d757602ee3753595b7175b02db0aab97660730731ff688c",
+    "",
+    "- **Episode Ledger Summary**:",
+    "  - Tip-minted Nodes (supplement_2026-10c): N-805, N-806, N-807, N-11189, N-11190",
+    "  - Hole-minted Nodes (reintro-ep082): N-213, N-10621, N-10649, N-10866",
+    "  - Tip-minted Nodes (reintro-ep082): N-11149",
+    "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
+    "  - Reused Nodes Appearing: N-5, N-11, N-15, N-39, N-40, N-69, N-97, N-217, N-496, N-550, N-10094, N-10149, N-10324, N-10337, N-10355, N-10360, N-10386, N-10387, N-10546, N-10548, N-10551, N-11012, N-10554, N-689, N-10701",
+    "  - Claim Range: C-7344–C-7417",
+    " - (see registers)",
+    "",
+    "# Episode Analysis: Monument Ep 82 – \"REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315\"",
+    "",
+    "---",
+    "",
+    "## I. Meta-Data",
+    "",
+    "- Episode Title: REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315",
+    "- Series Title: Bride of Charlie / Candace investigation",
+    "- Episode Number: Monument Ep 82 (Batch Ep 62; Candace Ep 315)",
+    "- Channel / Creator: Candace Owens (@RealCandaceO)",
+    "- Episode Date: 2026-03-24",
+    "- Source Used for Analysis: Video + cleaned auto-captions (yt-dlp-auto:tv_embedded)",
+    "- Transcript Completeness Status: Complete (music cues dropped, lexicon-cleaned)",
+    "- Analyst / Agent Name: Investigative Analysis Agent",
+    "- Analysis Date: 2026-03-24",
+    "- Ledger Continuation Summary:",
+    " - Artifact Families Introduced: A-1886, A-1887, A-1888, A-1889, A-1890, A-1891, A-1892, A-1893, A-1894",
+    " - New Nodes Introduced: N-10553, N-10555, N-10556, N-10557, N-10558, N-10559",
+    " - Reused Nodes Appearing: none (Wave 2: local ids removed)",
+    " - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)",
+    "",
+    "---",
+    "",
+    "## II. Executive Summary",
+    "",
+    "This episode presents a new artifact-anchored data point regarding Erika Kirk's whereabouts on September 10, 2025: an unverified source claim that she was inside the offices of Hopkinson Aircrafts – a luxury aircraft brokerage in Scottsdale – when she received the call informing her of Charlie Kirk's death. The host and her team describe Hopkinson as occupying a separate unmarked building that shares Atlantic Aviation's address (14600 North Aircraft Drive) but accepts mail at Atlantic's office. The episode develops two investigative threads: (1) Wi-Fi analysis of the alleged \"Barbara\" plane (N8724A), which the host claims she confirmed by phone call has Wi-Fi, thereby complicating Andrew Kolvet's claimed plane blackout; and (2) the timing of Andrew Kolvet's 3:26 PM MST text message (\"Sorry, on the plane. This just loaded\") against ADSB Exchange data showing Charlie's plane descending below 7,500 ft near Provo at the same minute. The episode also introduces Andrew Kolvet's admitted hosting of the first hour of Charlie Kirk Live Show on September 10 as a potential alibi, and presents a critical reading of Nick Shirley's background and his booking on that episode. The latter half addresses Joe Kent's Shellenberger interview and Blake Neff / Andrew Kolvet's on-air reaction characterizing truthful testimony as \"betrayal.\" The episode's evidentiary contribution is primarily the Hopkinson location claim, the Wi-Fi phone confirmation, and the ADSB-time correlation to Andrew Kolvet's 3:26 PM message.",
+    "",
+    "---",
+    "",
+    "## III. Artifact Register",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1886",
+   "header": "**A-1886** Hopkinson Aircrafts Location Bundle",
+   "label": "Hopkinson Aircrafts Location Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1886.1",
+   "header": "**A-1886.1** Hopkinson Aircrafts public website – \"Luxury Aircraft Sales, Premier Aircraft Sales, over 60 years, three generations of elevated expertise\"",
+   "label": "Hopkinson Aircrafts public website – \"Luxury Aircraft Sales, Premier Aircraft Sales, over 60 years, three generations of elevated expertise\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:15:43"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (shown on screen)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7356, C-7352, N-10555*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1886.2",
+   "header": "**A-1886.2** Satellite / map imagery of 14600 North Aircraft Drive, Scottsdale – showing Hopkinson Aircrafts, Atlantic Aviation, and Ross Aviation at the same address",
+   "label": "Satellite / map imagery of 14600 North Aircraft Drive, Scottsdale – showing Hopkinson Aircrafts, Atlantic Aviation, and Ross Aviation at the same address",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:13:52–00:14:51"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (mapping data; visual reference)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7356, N-10555*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1886.3",
+   "header": "**A-1886.3** Caller confirmation (host's anonymous outreach to Atlantic Aviation / Hopkinson) that Hopkinson Aircrafts is in a separate building that uses Atlantic Aviation's mailing address",
+   "label": "Caller confirmation (host's anonymous outreach to Atlantic Aviation / Hopkinson) that Hopkinson Aircrafts is in a separate building that uses Atlantic Aviation's mailing address",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:13:06"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (single anonymous call; not independently verified)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7356, N-10555*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1887",
+   "header": "**A-1887** Plane Documentation Bundle",
+   "label": "Plane Documentation Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1887.1",
+   "header": "**A-1887.1** Image of Hawker Beechcraft (the \"Barbara plane,\" tail N8724A) – small jet, identified by host as the alleged Santa Barbara–to–Provo flight at 3:19 PM MST",
+   "label": "Image of Hawker Beechcraft (the \"Barbara plane,\" tail N8724A) – small jet, identified by host as the alleged Santa Barbara–to–Provo flight at 3:19 PM MST",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:18:58"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (aircraft type image shown)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7361, N-10557*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1887.2",
+   "header": "**A-1887.2** Phone call confirmation from charter company handling N8724A: \"All of our planes have Wi-Fi\"",
+   "label": "Phone call confirmation from charter company handling N8724A: \"All of our planes have Wi-Fi\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:19:39"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (single phone call, not recorded)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7361, C-7363, N-10557*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1887.3",
+   "header": "**A-1887.3** 2020 charter listing for the alleged \"Yrefy\" plane (Santa Barbara → Scottsdale leg) – listing amenities including belted lavatory, cabin power outlets, 5'7\" cabin height, refreshment center, and \"satellite phone\"; Wi-Fi not marketed",
+   "label": "2020 charter listing for the alleged \"Yrefy\" plane (Santa Barbara → Scottsdale leg) – listing amenities including belted lavatory, cabin power outlets, 5'7\" cabin height, refreshment center, and \"satellite phone\"; Wi-Fi not marketed",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:25:37"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (historical listing)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7371, N-10557*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1888",
+   "header": "**A-1888** ADSB Exchange Flight Data Bundle",
+   "label": "ADSB Exchange Flight Data Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1888.1",
+   "header": "**A-1888.1** ADSB Exchange screenshot showing Charlie Kirk's plane below 7,500 ft near Provo at 3:26 PM MST on September 10, 2025",
+   "label": "ADSB Exchange screenshot showing Charlie Kirk's plane below 7,500 ft near Provo at 3:26 PM MST on September 10, 2025",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:24:05"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (public flight tracking data)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7369, C-7365*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1889",
+   "header": "**A-1889** Text Message Exchange Bundle (Andrew Kolvet / Aubrey / Justin)",
+   "label": "Text Message Exchange Bundle (Andrew Kolvet / Aubrey / Justin)",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1889.1",
+   "header": "**A-1889.1** Text message from Andrew Kolvet at 3:26 PM MST: \"Sorry, on the plane. This just loaded.\"",
+   "label": "Text message from Andrew Kolvet at 3:26 PM MST: \"Sorry, on the plane. This just loaded.\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:22:10"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (read on air)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7365, C-7369*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1889.2",
+   "header": "**A-1889.2** Text thread reference – Justin to Aubrey at 4:18 PM MST: Andrew must be \"on the ground\" before responding",
+   "label": "Text thread reference – Justin to Aubrey at 4:18 PM MST: Andrew must be \"on the ground\" before responding",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:20:35"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (read on air)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7363*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1890",
+   "header": "**A-1890** Charlie Kirk Live Show Clip Bundle (September 10, 2025)",
+   "label": "Charlie Kirk Live Show Clip Bundle (September 10, 2025)",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1890.1",
+   "header": "**A-1890.1** Andrew Kolvet clip (interview with Ross Douthat, New York Times) explaining he guest-hosted the first hour of Charlie Kirk Live Show on September 10, 2025; references Charlie texting him about polygamy/monogamy ~33 minutes before the shooting",
+   "label": "Andrew Kolvet clip (interview with Ross Douthat, New York Times) explaining he guest-hosted the first hour of Charlie Kirk Live Show on September 10, 2025; references Charlie texting him about polygamy/monogamy ~33 minutes before the shooting",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:31:34"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (audio clip)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7376, C-7377, N-10556*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1890.2",
+   "header": "**A-1890.2** Andrew Kolvet introducing Nick Shirley on Charlie Kirk Live Show, describing Shirley's footage as \"incredible\"",
+   "label": "Andrew Kolvet introducing Nick Shirley on Charlie Kirk Live Show, describing Shirley's footage as \"incredible\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:35:00"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (audio clip)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7382, N-10556*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1891",
+   "header": "**A-1891** Nick Shirley Background Bundle",
+   "label": "Nick Shirley Background Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1891.1",
+   "header": "**A-1891.1** Nick Shirley self-introduction clip – 23-year-old independent YouTube journalist covering migrant crisis, fentanyl crisis, Chicago gang ride-alongs",
+   "label": "Nick Shirley self-introduction clip – 23-year-old independent YouTube journalist covering migrant crisis, fentanyl crisis, Chicago gang ride-alongs",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:35:50"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (audio clip)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: N-10556, N-10559*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1891.2",
+   "header": "**A-1891.2** Nick Shirley claim: infiltrated Comando Vermelho (one of Rio's largest gangs) and befriended soldiers \"through the course of 2 days\"",
+   "label": "Nick Shirley claim: infiltrated Comando Vermelho (one of Rio's largest gangs) and befriended soldiers \"through the course of 2 days\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:36:47"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (claim stated on audio)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7382, N-10559*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1892",
+   "header": "**A-1892** Joe Kent Shellenberger Interview Bundle",
+   "label": "Joe Kent Shellenberger Interview Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1892.1",
+   "header": "**A-1892.1** Joe Kent interview (Michael Shellenberger, referenced) – Kent acknowledges he could be called by Tyler Robinson's defense team to testify that federal investigators did not thoroughly pursue other leads; says \"the truth doesn't play offense or defense. It's just the truth.\"",
+   "label": "Joe Kent interview (Michael Shellenberger, referenced) – Kent acknowledges he could be called by Tyler Robinson's defense team to testify that federal investigators did not thoroughly pursue other leads; says \"the truth doesn't play offense or defense. It's just the truth.\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:43:38"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (audio clip referenced)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7394*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1893",
+   "header": "**A-1893** Blake Neff / Andrew Kolvet Response Bundle",
+   "label": "Blake Neff / Andrew Kolvet Response Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1893.1",
+   "header": "**A-1893.1** Blake Neff / Andrew Kolvet on-air response – characterizes Joe Kent potentially testifying truthfully as a \"betrayal\"; asserts evidence against Tyler Robinson is \"overwhelming\" and a \"mountain\"; references May evidentiary hearing",
+   "label": "Blake Neff / Andrew Kolvet on-air response – characterizes Joe Kent potentially testifying truthfully as a \"betrayal\"; asserts evidence against Tyler Robinson is \"overwhelming\" and a \"mountain\"; references May evidentiary hearing",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:45:31"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (audio clip)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7401*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1894",
+   "header": "**A-1894** N40JD Plane Information Bundle",
+   "label": "N40JD Plane Information Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1894.1",
+   "header": "**A-1894.1** N40JD plane data – registered to Jason Knupp (host identifies as chief commander of Naval Surface Force Atlantic); departed Scottsdale approximately 1 hour after Charlie Kirk shot; landed Provo at 2:29 PM MST",
+   "label": "N40JD plane data – registered to Jason Knupp (host identifies as chief commander of Naval Surface Force Atlantic); departed Scottsdale approximately 1 hour after Charlie Kirk shot; landed Provo at 2:29 PM MST",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:39:16"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (registration data shown; host's identification of Knupp's role requires verification)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7389, N-10558*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2938",
+   "header": "**A-2938** Baron Coleman Crash-Out Clip Bundle",
+   "label": "Baron Coleman Crash-Out Clip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2938.1",
+   "header": "**A-2938.1** Clip of Baron Coleman's opening statement played by the host",
+   "label": "Clip of Baron Coleman's opening statement played by the host",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:05:47"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7346, C-7347, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2939",
+   "header": "**A-2939** Kolvet Telegram Correspondence Bundle",
+   "label": "Kolvet Telegram Correspondence Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2939.1",
+   "header": "**A-2939.1** Host verbal reference to Andrew Kolvet's Telegram messages and call with Aubrey before he went dark (not shown)",
+   "label": "Host verbal reference to Andrew Kolvet's Telegram messages and call with Aubrey before he went dark (not shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:22:10"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7366, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2940",
+   "header": "**A-2940** Charlie Plane Passenger Tip Request Bundle",
+   "label": "Charlie Plane Passenger Tip Request Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2940.1",
+   "header": "**A-2940.1** Host verbal call for former passengers of Charlie's G5 to email the show",
+   "label": "Host verbal call for former passengers of Charlie's G5 to email the show",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"please email us\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:25:37"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7374, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2941",
+   "header": "**A-2941** Nick Shirley Confirmation Request Bundle",
+   "label": "Nick Shirley Confirmation Request Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2941.1",
+   "header": "**A-2941.1** Host verbal reference to her X message asking Nick Shirley to confirm the show was live (not shown)",
+   "label": "Host verbal reference to her X message asking Nick Shirley to confirm the show was live (not shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:38:12"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7385, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2942",
+   "header": "**A-2942** Decentralized Intelligence Agency Tip Line Bundle",
+   "label": "Decentralized Intelligence Agency Tip Line Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2942.1",
+   "header": "**A-2942.1** Host verbal reference to the tip email address moretips@candaceowens.com",
+   "label": "Host verbal reference to the tip email address moretips@candaceowens.com",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"please email us at moretips@candaceowens. com.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:38:12"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7386, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2943",
+   "header": "**A-2943** Updated Plane List Bundle",
+   "label": "Updated Plane List Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2943.1",
+   "header": "**A-2943.1** On-screen updated list of the planes discussed, with arrival times",
+   "label": "On-screen updated list of the planes discussed, with arrival times",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:38:35"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7388, C-7390, C-7391, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2944",
+   "header": "**A-2944** Viewer Comments Bundle",
+   "label": "Viewer Comments Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2944.1",
+   "header": "**A-2944.1** Viewer comment from Elaine on Joe Kent's service",
+   "label": "Viewer comment from Elaine on Joe Kent's service",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:53:12"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7407, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2944.2",
+   "header": "**A-2944.2** Viewer comment from BC about interviewing Pat Buchanan",
+   "label": "Viewer comment from BC about interviewing Pat Buchanan",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:58:49"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7413, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2944.3",
+   "header": "**A-2944.3** Viewer comment from Anna about a donor calling Erika",
+   "label": "Viewer comment from Anna about a donor calling Erika",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:59:32"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7414, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## IV. Node Register",
+    ""
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10553",
+   "header": "**N-10553** Erika Kirk 9/10 Location Investigation",
+   "label": "Erika Kirk 9/10 Location Investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Persistent investigative question of where Erika Kirk physically was on September 10, 2025 between the shooting and her arrival in Utah. This episode introduces Hopkinson Aircrafts as the claimed location."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1886.1, A-1886.2, A-1886.3, C-7352, N-2, N-10555*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10554",
+   "header": "**N-10554** Andrew Kolvet 9/10 Flight Itinerary",
+   "label": "Andrew Kolvet 9/10 Flight Itinerary",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Persistent question of Andrew Kolvet's actual flight path on September 10. Episode develops 3:26 PM MST timing correlation against ADSB data and Wi-Fi analysis of Barbara plane."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "4"
+    },
+    {
+     "k": "Claim Count",
+     "v": "4"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1887.1, A-1887.2, A-1887.3, A-1888.1, A-1889.1, A-1889.2, C-7361, C-7369, C-7365, C-7363, C-7371*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10555",
+   "header": "**N-10555** Hopkinson Aircrafts Business Verification",
+   "label": "Hopkinson Aircrafts Business Verification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Question of whether Hopkinson Aircrafts is a functioning aircraft brokerage as advertised, given its unmarked separate building, shared Atlantic Aviation address, and unusual occupancy profile."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "3"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1886.1, A-1886.2, A-1886.3, C-7352, C-7356*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10556",
+   "header": "**N-10556** Charlie Kirk Live Show 9/10 Liveness Verification",
+   "label": "Charlie Kirk Live Show 9/10 Liveness Verification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Question of whether Andrew Kolvet's first-hour hosting of Charlie Kirk Live Show on 9/10 was performed live, given his prior history of faking a live show from the White House (per host's prior reporting). Host seeking written confirmation from Nick Shirley."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1890.1, A-1890.2, A-1891.1, C-7376*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10557",
+   "header": "**N-10557** Barbara Plane (N8724A) Operations",
+   "label": "Barbara Plane (N8724A) Operations",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The Hawker Beechcraft alleged by Erika Kirk as the plane Andrew Kolvet took at 3:19 PM MST Santa Barbara → Provo. Episode anchors Wi-Fi availability via charter company phone call."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1887.1, A-1887.2, C-7361, C-7363*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10558",
+   "header": "**N-10558** N40JD Plane Passenger Manifest",
+   "label": "N40JD Plane Passenger Manifest",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Plane owned by Jason Knupp that landed at Provo at 2:29 PM MST (per host) – passenger manifest not confirmed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1894.1, C-7389, N-2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10559",
+   "header": "**N-10559** Nick Shirley Background Verification",
+   "label": "Nick Shirley Background Verification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Question of Nick Shirley's claimed credentials, including the 48-hour Comando Vermelho infiltration claim and his access/sourcing profile."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1891.2, C-7382*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-1",
+   "header": "**N-1** Charlie Kirk",
+   "label": "Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of the assassination; discussed in the Kolvet clip, plane and weapon claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7362, C-7372, C-7374, C-7375, C-7378, C-7379, C-7390, C-7396, C-7411, C-7414*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-2",
+   "header": "**N-2** Erika Kirk",
+   "label": "Erika Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Widow and TPUSA CEO; the host questions her 9/10 whereabouts and accounts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7345, C-7346, C-7349, C-7350, C-7351, C-7353, C-7357, C-7358, C-7359, C-7388, C-7390, C-7391, C-7392, C-7406, C-7410, C-7412, C-7414, C-7416, C-7417*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-3",
+   "header": "**N-3** Candace Owens",
+   "label": "Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host; speaks for herself throughout."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7345, C-7348, C-7349, C-7350, C-7351, C-7353, C-7354, C-7355, C-7357, C-7358, C-7359, C-7360, C-7362, C-7364, C-7366, C-7368, C-7370, C-7372, C-7373, C-7374, C-7375, C-7379, C-7380, C-7381, C-7383, C-7384, C-7385, C-7386, C-7388, C-7390, C-7391, C-7392, C-7393, C-7395, C-7402, C-7403, C-7404, C-7405, C-7406, C-7407, C-7408, C-7409, C-7410, C-7411, C-7412, C-7413, C-7414, C-7415, C-7416, C-7417*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-5",
+   "header": "**N-5** Donald Trump",
+   "label": "Donald Trump",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "President; the host describes his mocking of Joe Kent."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7393*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11",
+   "header": "**N-11** Tyler Bowyer",
+   "label": "Tyler Bowyer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "TPUSA figure the host believes flew with Erika Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7388*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-14",
+   "header": "**N-14** Andrew Kolvet",
+   "label": "Andrew Kolvet",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "TPUSA spokesperson; subject of the flight, blackout and live-show claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7358, C-7359, C-7360, C-7362, C-7364, C-7366, C-7370, C-7375, C-7378, C-7379, C-7380, C-7381, C-7390, C-7391, C-7392, C-7396, C-7397, C-7398, C-7406, C-7412, C-7414*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-15",
+   "header": "**N-15** Justin Streiff",
+   "label": "Justin Streiff",
+   "lines": [
+    {
+     "raw": "TPUSA COO, rendered Justin in the text thread; told Aubrey it was up to Andrew."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7362*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-39",
+   "header": "**N-39** Dave Smith",
+   "label": "Dave Smith",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Comedian the host says urged her to interview Pat Buchanan."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7413*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-40",
+   "header": "**N-40** Tyler Robinson",
+   "label": "Tyler Robinson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Accused in the Charlie Kirk shooting; subject of the surrender and weapon claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7395, C-7396, C-7397, C-7398, C-7399, C-7400, C-7402, C-7403, C-7404, C-7405*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-69",
+   "header": "**N-69** Kash Patel",
+   "label": "Kash Patel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "FBI director; named in the host's account of Kolvet's alleged faked live show and in the Kent claim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7380, C-7409*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-97",
+   "header": "**N-97** Ben Shapiro",
+   "label": "Ben Shapiro",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Daily Wire host; the host says Charlie Kirk could not stand him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7375, C-7411, C-7412*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-159",
+   "header": "**N-159** Blake Neff",
+   "label": "Blake Neff",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "TPUSA figure in the clip about Joe Kent and the evidence against Tyler Robinson."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7396, C-7397, C-7398, C-7399, C-7400, C-7408, C-7410*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-209",
+   "header": "**N-209** Joe Kent",
+   "label": "Joe Kent",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Former counterterrorism official whose Shellenberger interview is discussed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7393, C-7395, C-7400, C-7407, C-7409, C-7416*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-213",
+   "header": "**N-213** Nick Shirley",
+   "label": "Nick Shirley",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Independent YouTuber interviewed by Kolvet on 9/10."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7381, C-7383, C-7384, C-7385*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-217",
+   "header": "**N-217** Elizabeth McCoy",
+   "label": "Elizabeth McCoy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Wrote a post the host says confirms Erika learned of Charlie's death before the Provo flight (transcribed Elizabeth McCoy)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7353*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-330",
+   "header": "**N-330** Baron Coleman",
+   "label": "Baron Coleman",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Co-investigator and podcaster whose clip the host plays."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7345, C-7346, C-7347, C-7358, C-7370*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-496",
+   "header": "**N-496** Doug DeGroote",
+   "label": "Doug DeGroote",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "TPUSA board member the host guesses was the donor (transcribed Doug De Root)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7415*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-550",
+   "header": "**N-550** Aubrey Laitsch",
+   "label": "Aubrey Laitsch",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Former TPUSA PR manager in the text thread with Justin and Andrew."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7362, C-7366*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-689",
+   "header": "**N-689** Laura Ingraham",
+   "label": "Laura Ingraham",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Fox host whose show Andrew Kolvet is said to have discussed with Aubrey."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7366*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10094",
+   "header": "**N-10094** LDS Church",
+   "label": "LDS Church",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Church the host says Nick Shirley belongs to."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7384*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10149",
+   "header": "**N-10149** Hospital Routing Discrepancy",
+   "label": "Hospital Routing Discrepancy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7392*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10324",
+   "header": "**N-10324** Epstein Files Release Status",
+   "label": "Epstein Files Release Status",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7380*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10337",
+   "header": "**N-10337** Tyler Robinson Prosecution Evidence Base",
+   "label": "Tyler Robinson Prosecution Evidence Base",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7396*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10355",
+   "header": "**N-10355** Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute",
+   "label": "Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7409*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10360",
+   "header": "**N-10360** Gun Discovery Procedure Question",
+   "label": "Gun Discovery Procedure Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7404*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10386",
+   "header": "**N-10386** Ben Shapiro Hostile Takeover Pattern",
+   "label": "Ben Shapiro Hostile Takeover Pattern",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7411, C-7412*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10387",
+   "header": "**N-10387** Tyler Bowyer Investigation Question",
+   "label": "Tyler Bowyer Investigation Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7388*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10546",
+   "header": "**N-10546** Joe Kent Resignation Aftermath Pattern",
+   "label": "Joe Kent Resignation Aftermath Pattern",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7393, C-7395, C-7400, C-7407*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10548",
+   "header": "**N-10548** Tarmac Hug Account Discrepancy",
+   "label": "Tarmac Hug Account Discrepancy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7392*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10551",
+   "header": "**N-10551** Joe Kent Leak Accusation Chain",
+   "label": "Joe Kent Leak Accusation Chain",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7416*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10621",
+   "header": "**N-10621** Gun Firing Evidence Verification",
+   "label": "Gun Firing Evidence Verification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7403, C-7404*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10649",
+   "header": "**N-10649** Candace-Erika December 15 Private Meeting Revelations",
+   "label": "Candace-Erika December 15 Private Meeting Revelations",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7406, C-7410*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10701",
+   "header": "**N-10701** Andrew Kolvet EEOB Presence / Kash Patel Connection",
+   "label": "Andrew Kolvet EEOB Presence / Kash Patel Connection",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7380*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10866",
+   "header": "**N-10866** Night-of Assassination Aloe Yoga Outfit Directive",
+   "label": "Night-of Assassination Aloe Yoga Outfit Directive",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7346*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11012",
+   "header": "**N-11012** Tyler Robinson Surrender Narrative Dispute",
+   "label": "Tyler Robinson Surrender Narrative Dispute",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7397, C-7398, C-7402*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11149",
+   "header": "**N-11149** Tyler Robinson Preliminary Hearing and Motion to Dismiss",
+   "label": "Tyler Robinson Preliminary Hearing and Motion to Dismiss",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7399, C-7405*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-805",
+   "header": "**N-805** Ross Douthat",
+   "label": "Ross Douthat",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "30:36 in episode 82. New York Times reporter who interviewed Andrew Kolvet about the 9/10 show.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7375, C-7378*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-806",
+   "header": "**N-806** Michael Shellenberger",
+   "label": "Michael Shellenberger",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "43:38 in episode 82. Interviewer of Joe Kent.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7395*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-807",
+   "header": "**N-807** Pat Buchanan",
+   "label": "Pat Buchanan",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "58:49 in episode 82 (from a viewer comment). Commentator the host says coined Israel's amen corner.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7413*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11189",
+   "header": "**N-11189** Atlantic Aviation FBO Network",
+   "label": "Atlantic Aviation FBO Network",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "11:21 in episode 82. Scottsdale private terminal (FBO) at 14600 North Aircraft Drive that the host says receives Hopkinson's mail.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7355*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11190",
+   "header": "**N-11190** Comando Vermelho",
+   "label": "Comando Vermelho",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "k": "First named at 00",
+     "v": "35:50 in episode 82 by Nick Shirley. Rio de Janeiro gang he says he gained access to.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7383*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## V. Claim Register",
+    ""
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7352",
+   "header": "**C-7352** Host Says Erika Kirk Was Allegedly Inside Hopkinson Aircrafts Office When Notified of Charlie Kirk's Death",
+   "label": "Host Says Erika Kirk Was Allegedly Inside Hopkinson Aircrafts Office When Notified of Charlie Kirk's Death",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per information the host says she happened upon (she says \"allegedly\"), Erika Kirk was at the office of Hopkinson Aircrafts in Scottsdale on September 10, 2025 when she received the news that Charlie Kirk was dead."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1886.1, A-1886.2, A-1886.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10553, N-10555"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain direct documentary confirmation (call logs, eyewitnesses, building entry records) corroborating Erika Kirk's presence at Hopkinson Aircrafts on 9/10."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7356",
+   "header": "**C-7356** Hopkinson Aircrafts occupies a separate unmarked building using Atlantic Aviation's mailing address",
+   "label": "Hopkinson Aircrafts occupies a separate unmarked building using Atlantic Aviation's mailing address",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:06"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the host's anonymous outreach to Atlantic Aviation, Hopkinson Aircrafts is located in a standalone building separate from the Atlantic FBO terminal at 14600 North Aircraft Drive, Scottsdale, but Atlantic receives all Hopkinson mail."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1886.2, A-1886.3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10555"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Conduct independent site visit or obtain satellite/aerial confirmation of a separate building; verify postal/mail arrangement through public records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7361",
+   "header": "**C-7361** Barbara plane (N8724A) charter operator states all their planes have Wi-Fi",
+   "label": "Barbara plane (N8724A) charter operator states all their planes have Wi-Fi",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:39"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that when she called on the morning of March 24, 2026, the charter company handling the Hawker Beechcraft N8724A told her, \"All of our planes have Wi-Fi.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1887.2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10557"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain written confirmation from the charter operator; corroborate via independent review of charter marketing materials."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7369",
+   "header": "**C-7369** Host Says ADSB Exchange Shows Charlie Kirk's Plane Below 7,500 ft Approaching Provo at 3:26 PM MST on September 10, 2025",
+   "label": "Host Says ADSB Exchange Shows Charlie Kirk's Plane Below 7,500 ft Approaching Provo at 3:26 PM MST on September 10, 2025",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:05"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says ADSB Exchange data shows Charlie Kirk's plane at 3:26 PM MST descending below 7,500 feet, minutes from touching down at Provo."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1888.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10554"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pull and archive ADSB Exchange historical data for N-number of Charlie's plane on 9/10/2025 between 15:00–16:00 MST."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7365",
+   "header": "**C-7365** Andrew Kolvet texted \"Sorry, on the plane. This just loaded\" at 3:26 PM MST",
+   "label": "Andrew Kolvet texted \"Sorry, on the plane. This just loaded\" at 3:26 PM MST",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:10"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the text chain the host describes, Andrew Kolvet sent a message at 3:26 PM MST (as the host adjusts it) on September 10, 2025 stating \"Sorry, on the plane. This just loaded,\" referencing a 1:30 PM MST message he had not previously answered."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1889.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10554"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the original text record with carrier timestamp metadata to confirm the 3:26 PM MST time."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7363",
+   "header": "**C-7363** Host Says Text Thread Shows Kolvet Was on a Plane Without Wi-Fi and Streiff Told Aubrey at 4:18 PM to Wait Until He Was on the Ground",
+   "label": "Host Says Text Thread Shows Kolvet Was on a Plane Without Wi-Fi and Streiff Told Aubrey at 4:18 PM to Wait Until He Was on the Ground",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says a text thread with Justin and Aubrey shows Andrew Kolvet could not respond to messages because he was on a plane without Wi-Fi, and that Justin told Aubrey at 4:18 PM MST that she must wait until Andrew is \"on the ground.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1889.1, A-1889.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-15, N-550"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10554, N-10557"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain full text thread with carrier-verified timestamps; reconcile against ADSB data for the plane Andrew was on."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7389",
+   "header": "**C-7389** N40JD plane departed Scottsdale approximately one hour after Charlie Kirk was shot and landed at Provo at 2:29 PM MST",
+   "label": "N40JD plane departed Scottsdale approximately one hour after Charlie Kirk was shot and landed at Provo at 2:29 PM MST",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the host, the N40JD plane, owned by Jason Knupp (who the host says appears to be the chief commander of Naval Surface Force Atlantic), departed Scottsdale about one hour after the shooting and landed at Provo at 2:29 PM MST."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1894.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10558"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm Jason Knupp's military role via official Navy / public records; pull ADSB data for N40JD on 9/10; investigate passenger manifest."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7376",
+   "header": "**C-7376** Andrew Kolvet guest-hosted the first hour of Charlie Kirk Live Show on September 10, 2025",
+   "label": "Andrew Kolvet guest-hosted the first hour of Charlie Kirk Live Show on September 10, 2025",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Andrew Kolvet stated in an interview with Ross Douthat (New York Times) that he guest-hosted the first hour of Charlie Kirk Live Show on September 10, 2025, because Charlie was focusing on the tour."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1890.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-1, N-805"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10556"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the show aired live (not pre-recorded) by obtaining written confirmation from guest Nick Shirley, YouTube upload timestamps, and production records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7382",
+   "header": "**C-7382** Nick Shirley claims to have infiltrated Comando Vermelho in 48 hours",
+   "label": "Nick Shirley claims to have infiltrated Comando Vermelho in 48 hours",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:15"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip the host plays, Nick Shirley says that over the course of two days he got access to Comando Vermelho, one of Rio de Janeiro's largest gangs, and befriended soldiers so dangerous they cannot leave the favela."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1891.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-213"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10559"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the Comando Vermelho footage, dates, and circumstances of Shirley's claimed access; check corroborating reporting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7394",
+   "header": "**C-7394** Joe Kent acknowledged federal investigators did not thoroughly pursue other leads",
+   "label": "Joe Kent acknowledged federal investigators did not thoroughly pursue other leads",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:43:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Joe Kent stated in an interview with, she believes, Michael Shellenberger that federal investigators did not thoroughly pursue other leads in the Charlie Kirk case."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1892.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-209, N-806"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full Shellenberger-Kent interview; cross-reference Kent's stated investigation recommendations against DOJ / FBI disclosures."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7401",
+   "header": "**C-7401** Andrew Kolvet Says Officials Offering Defense Testimony Produces a Dramatic Level of Betrayal",
+   "label": "Andrew Kolvet Says Officials Offering Defense Testimony Produces a Dramatic Level of Betrayal",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:20"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip the host plays, Andrew Kolvet says government officials are saying on the record they are willing to testify on behalf of the defense to get Tyler Robinson off the hook, and that the level of betrayal he currently feels is dramatic."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1893.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain full clip with timestamps; document exact wording for evidentiary comparison against later statements."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7371",
+   "header": "**C-7371** The \"Yrefy\" plane's 2020 charter listing does not market Wi-Fi as an amenity",
+   "label": "The \"Yrefy\" plane's 2020 charter listing does not market Wi-Fi as an amenity",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the 2020 charter listing the host shows for the plane she identifies as the alleged Santa Barbara → Scottsdale leg (\"Yrefy\"), its amenities include a belted lavatory, cabin power outlets, a refreshment center and a satellite phone, but not Wi-Fi."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1887.3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10554"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain current charter operator records to verify whether the aircraft has been retrofitted with Wi-Fi since 2020."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7377",
+   "header": "**C-7377** Andrew Kolvet Says Charlie Kirk Was Not Super Pleased About a Booking the Day Before September 10",
+   "label": "Andrew Kolvet Says Charlie Kirk Was Not Super Pleased About a Booking the Day Before September 10",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Andrew Kolvet stated in his Ross Douthat interview that Charlie Kirk was \"not super pleased\" about an interview booking Kolvet had made the day before September 10, and that Charlie then said he was tired and wanted to focus on the tour, so Kolvet would guest host."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1890.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-1, N-805"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10556"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the specific guest booked for September 9 interview; cross-check against show archives."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7387",
+   "header": "**C-7387** Host Says Erika Named the Yrefy Plane, Which She Believes Kolvet Took From Santa Barbara to Scottsdale",
+   "label": "Host Says Erika Named the Yrefy Plane, Which She Believes Kolvet Took From Santa Barbara to Scottsdale",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host refers to the Yrefy plane: she says Erika Kirk told her about it (the Yrefy CEO), and she believes Andrew Kolvet took it from Santa Barbara to Scottsdale."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1887.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10554"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify whether \"Yrefy\" is a transcript rendering of a specific aircraft name (e.g., \"WiRefi Air\") or a phonetic rendering by Erika Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Optional Flag: Transcript ambiguity – possible transcription error of aircraft operator name.*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7344",
+   "header": "**C-7344** Baron Coleman clip characterizes TPUSA's selective-response strategy as \"Gish gallop\" and bad-faith debating",
+   "label": "Baron Coleman clip characterizes TPUSA's selective-response strategy as \"Gish gallop\" and bad-faith debating",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:02"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip the host plays, Baron Coleman describes a tactic of fixating on one minor point and declaring victory as bad-faith debating, saying it resembles quibbling and cherry-picking and is like Gish gallop but different because the gotcha victory is surgical; the host applies this to TPUSA's responses."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1889.1 (host's read-aloud transcript); however no on-screen clip artifact is registered – flagged."
+    },
+    {
+     "k": "Mentions",
+     "v": "N-330"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the Baron Coleman clip is preserved as a discrete artifact; clarify node for Baron Coleman."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Optional Flag: Artifact verbally referenced but not formally captured as bundle – Baron Coleman clip should be its own artifact family.*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7367",
+   "header": "**C-7367** Host Says Marina Told Aubrey Andrew Was Unavailable and to Write the Statement",
+   "label": "Host Says Marina Told Aubrey Andrew Was Unavailable and to Write the Statement",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Marina told Aubrey that Andrew Kolvet was not available and that Aubrey had to write the statement about Charlie's death, and that Andrew was unavailable when it went out."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1889.2 (text thread)"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-1, N-550, N-493"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10554"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full text thread; identify timestamp when TPUSA's public statement went out."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7345",
+   "header": "**C-7345** Host says the released audio claimed to be Erika Kirk was not Erika and its releaser was wrong",
+   "label": "Host says the released audio claimed to be Erika Kirk was not Erika and its releaser was wrong",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:41"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says someone unrelated to her investigation or to Baron Coleman released an audio clip claiming it was Erika Kirk, that it was not Erika Kirk, and that the releaser was \"extraordinarily\" wrong."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "somebody released it, claimed it was Erika Kirk. And was it Erika Kirk? No. Was the person who released that wrong? Yes, extraordinarily so."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2, N-330"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the released audio clip, who first posted it and the evidence that the voice was or was not Erika Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7346",
+   "header": "**C-7346** Coleman clip says Erika's side answered only the Alo jumpsuit question",
+   "label": "Coleman clip says Erika's side answered only the Alo jumpsuit question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:47"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip the host plays, Baron Coleman says that when real questions are raised TPUSA ignores them, but when someone asks whether Erika Kirk was buying a jumpsuit at Alo, the other side chose to come in and answer."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "That's when you choose to come in and answer the accusations? Are you serious?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2938.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-330, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10866"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the Alo jumpsuit exchange and any TPUSA or Erika Kirk response to it; compare with responses to the Santa Barbara departure allegation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7347",
+   "header": "**C-7347** Coleman says he did three shows alleging a Santa Barbara departure before the shooting and got silence",
+   "label": "Coleman says he did three shows alleging a Santa Barbara departure before the shooting and got silence",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:26"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip, Baron Coleman says he did three shows accusing the other side of leaving Santa Barbara before Charlie Kirk was shot, and that the other side stayed \"dead silent\"."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "But I do three shows accusing you of leaving Santa Barbara before Charlie got shot or banged or whatever happened to him? And you're just dead silent?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2938.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-330"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10554"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review Coleman's three shows and check whether TPUSA, Andrew Kolvet or Erika Kirk publicly addressed the Santa Barbara departure allegation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7348",
+   "header": "**C-7348** Host says she cannot reveal how she got the Hopkinson information",
+   "label": "Host says she cannot reveal how she got the Hopkinson information",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:15"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she cannot reveal how she came across the Hopkinson information and that there is no way for her to protect the source if she did."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I simply cannot reveal to you how I came across this information. In other words, what I'm saying to be is there's no way for me to protect the source."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10555"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Because the source is withheld, corroborate through independent records (Hopkinson staff, FBO logs) rather than the source."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7349",
+   "header": "**C-7349** Host says no one has come forward to say they saw Erika on 9/10",
+   "label": "Host says no one has come forward to say they saw Erika on 9/10",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:15"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says nobody has come forward to say they saw Erika Kirk on the day of the assassination in the very public places she claims to have been."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Nobody's come forward at least to say that they saw Erika on the day of the assassination in the places, the very public places that she claims to be."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10553"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Canvass for witnesses, CCTV and phone records at each location Erika Kirk has said she visited on September 10, 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7350",
+   "header": "**C-7350** Host says there were no witnesses to Erika's alleged collapse in a parking lot",
+   "label": "Host says there were no witnesses to Erika's alleged collapse in a parking lot",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:56"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk has said she collapsed in a parking lot while with her mother getting treatment, that there were curiously no witnesses, that the host does not know whether an ambulance was called, and that Erika does not like to speak about it and gives no details."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "she collapsed in a parking lot after her mother uh help she was with her mother getting treatment and she collapsed in a parking lot. Curiously, no witnesses."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10553"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the clinic or hospital and parking lot, request security footage and any 911 or ambulance record for September 10, 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7351",
+   "header": "**C-7351** Host says Erika raced to the airport with an entourage including a priest and no one saw it",
+   "label": "Host says Erika raced to the airport with an entourage including a priest and no one saw it",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:49"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk went to the airport with an entourage that included a priest, and that no witnesses have come forward from busy Scottsdale private terminals."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Then we know that at some point she had to have raced to the airport with an entourage, an entourage which included a priest."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10553"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the priest and entourage members and obtain terminal sign-in, ramp or CCTV records from Scottsdale FBOs."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7353",
+   "header": "**C-7353** Host says Erika and Elizabeth McCoy confirmed Erika got the news right before flying to Provo",
+   "label": "Host says Erika and Elizabeth McCoy confirmed Erika got the news right before flying to Provo",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk told her to her face, and Elizabeth McCoy wrote a long post confirming, that Erika got the news of Charlie's death by phone from the doctor right before they flew to Provo."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Erika told me to my face, also Elizabeth McCoy wrote a long post and she confirmed this um that Erika got the news right before they flew to Provo."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2, N-217"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10553"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate Elizabeth McCoy's post and the date and wording of Erika Kirk's own account of where she took the doctor's call."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7354",
+   "header": "**C-7354** Host says Hopkinson Aircrafts is a luxury aircraft brokerage with locations in Canada and Scottsdale",
+   "label": "Host says Hopkinson Aircrafts is a luxury aircraft brokerage with locations in Canada and Scottsdale",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Hopkinson Aircrafts is a luxury aircraft brokerage with locations in Canada and Scottsdale, and that its listed Scottsdale address is 14600 North Aircraft Drive."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it's a a luxury aircraft brokerage. Like where you go to buy planes. They're brokers for planes. Uh they have locations in Canada and in Scottsdale."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1886.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10555"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check Hopkinson's business registration, Arizona and Canadian corporate filings and the address it publishes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7355",
+   "header": "**C-7355** Host says the Hopkinson address is shared with Atlantic Aviation and Ross Aviation",
+   "label": "Host says the Hopkinson address is shared with Atlantic Aviation and Ross Aviation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Scottsdale address 14600 North Aircraft Drive is the Atlantic Aviation private terminal and that the map also lists Hopkinson Aircraft Sales and Ross Aviation there."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Hopkinson Aircraft Sales uh also with Atlantic Aviation and then also this Ross Aviation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1886.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10555, N-11189"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the tenants and building footprints at 14600 N Aircraft Drive through Scottsdale Airport leasing and county parcel records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7357",
+   "header": "**C-7357** Host says Erika said \"I effing knew it\" when Charlie was shot",
+   "label": "Host says Erika said \"I effing knew it\" when Charlie was shot",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:52"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk said, when Charlie was shot, \"I effing knew it\", and that this was the sentence that came out of her mouth."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Even though she did actually say when he got shot, I effing knew it. That was the sentence that came out of her mouth."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10553"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify where and to whom Erika Kirk said this and whether any recording or witness account exists."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7358",
+   "header": "**C-7358** Host says she believes Andrew Kolvet took two flights on 9/10, neither the 3:19 p.m. flight",
+   "label": "Host says she believes Andrew Kolvet took two flights on 9/10, neither the 3:19 p.m. flight",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she and Baron Coleman believe Andrew Kolvet first flew from Santa Barbara to Scottsdale and then from Scottsdale to Provo, and that neither flight was the later 3:19 p.m. flight Erika told her he was aboard."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we believe that neither of those flights are the alleged much later 3:19 p. m. Mountain Standard Time flight that Erika told me that he was aboard"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-14, N-2, N-330"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10554"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain FAA/ADSB records for Santa Barbara and Scottsdale departures on September 10, 2025 and manifests or charter invoices for each leg."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7359",
+   "header": "**C-7359** Host says Andrew never claimed to be on tail N8724A and that Erika made that claim to her face",
+   "label": "Host says Andrew never claimed to be on tail N8724A and that Erika made that claim to her face",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Andrew Kolvet has never said he took the 3:19 Santa Barbara flight, tail number N8724A, and that Erika Kirk made that claim to the host's face."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Andrew himself has never said that he took the 3:19 Santa Barbara flight, tail number N8724A. Erika made that claim to my face."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1887.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-14, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10557"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare Erika Kirk's account to the host with any on-record statement by Andrew Kolvet naming the plane he took."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7360",
+   "header": "**C-7360** Host says Andrew described his plane as massive, which does not fit a Hawker Beechcraft",
+   "label": "Host says Andrew described his plane as massive, which does not fit a Hawker Beechcraft",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Andrew Kolvet described a plane as a \"massive plane\" to her multiple times and, she thinks, said publicly on a show that he had this massive plane to himself, and that a Hawker Beechcraft would not be called massive."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Andrew described a plane as a massive plane to me multiple times. He also, I think, said it publicly on a show he had this massive plane to himself"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1887.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-14"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10557"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find Kolvet's public statement describing a massive plane to himself and match it to a tail number."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7362",
+   "header": "**C-7362** Host says Justin told Aubrey it was up to Andrew whether to confirm the death email",
+   "label": "Host says Justin told Aubrey it was up to Andrew whether to confirm the death email",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:39"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that in a text chain Aubrey asked whether she should confirm or deny the company email saying Charlie Kirk was dead, and Justin replied that it was up to Andrew, who did not answer."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And Justin jumps in on the text it and he says that uh, \"It's up to Andrew.\" And Andrew doesn't answer"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1889.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-550, N-15, N-14, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10554"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full Aubrey/Justin thread with carrier timestamps and the company-wide email it refers to."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7364",
+   "header": "**C-7364** Host says Andrew's later message said his internet came back on, not that he was on a plane",
+   "label": "Host says Andrew's later message said his internet came back on, not that he was on a plane",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that when Andrew Kolvet came back online he said \"My internet just came back on\" rather than that he was on a plane or had just gotten service."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He says, \"My internet just came back on.\" Different from I'm on a plane or I just got service."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-14"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10554"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the original message with its timestamp and compare its wording with the 3:26 p.m. \"on the plane\" message."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7366",
+   "header": "**C-7366** Host says Andrew answered Aubrey on a separate Telegram channel before going dark, narrowing the blackout to 1:47",
+   "label": "Host says Andrew answered Aubrey on a separate Telegram channel before going dark, narrowing the blackout to 1:47",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:10"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Andrew Kolvet answered Aubrey on a separate Telegram channel about the press and Laura Ingraham's show and called her before going dark, so she moves the start of his dark period from 1:30 to 1:47 p.m."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we learned that he did answer Aubrey um, on a separate Telegram channel uh, before he went dark. He answered her about the press, about Laura Ingraham's show. He called her, too."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2939.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-14, N-550, N-689"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10554"
+    },
+    {
+     "k": "Revises",
+     "v": "C-7296"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the Telegram messages and call log between Aubrey and Andrew Kolvet for the afternoon of September 10, 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7368",
+   "header": "**C-7368** Host says planes begin receiving all messages at once when low enough to land",
+   "label": "Host says planes begin receiving all messages at once when low enough to land",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:03"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that when a plane gets low enough, a phone suddenly receives all its queued messages at once, so a \"just loaded\" message fits a plane coming in to land."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "when your plane gets low enough, you suddenly start to receive all of your messages at once."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10554"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Test with an aviation connectivity expert whether messages arrive at a given altitude or only on a Wi-Fi or cell link."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7370",
+   "header": "**C-7370** Host says Andrew took two flights that day and neither had Wi-Fi",
+   "label": "Host says Andrew took two flights that day and neither had Wi-Fi",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:05"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that, relying on the text thread, Andrew Kolvet took two flights that day, neither equipped with Wi-Fi, which she says is why he was out of pocket."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Andrew Kolvet that took two flights that day. And neither of those flights were equipped with Wi-Fi. And that's why he was out of pocket."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1888.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-14"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10554, N-10557"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Establish the tail numbers and Wi-Fi equipment of each plane Kolvet flew on September 10, 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7372",
+   "header": "**C-7372** Host says Charlie's G5 is Wi-Fi capable but she doubts he used it",
+   "label": "Host says Charlie's G5 is Wi-Fi capable but she doubts he used it",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:37"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie Kirk's plane was a G5 that definitely has Wi-Fi capability, but that she does not know whether it was active and highly doubts Charlie ran it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it was a G5. It definitely has Wi-Fi capabilities, therefore, but I don't know, nor do I believe that Charlie would have ever used that"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1888.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10554"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask the aircraft owner or operator whether the G5 had a Wi-Fi subscription active on September 10, 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7373",
+   "header": "**C-7373** Host gives cost figures for jet Wi-Fi and says two billionaire owners she knows do not use it",
+   "label": "Host gives cost figures for jet Wi-Fi and says two billionaire owners she knows do not use it",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:37"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says installing Wi-Fi aboard a jet costs about $300,000 plus roughly $30,000 to $50,000 per month, and that she knows two billionaires who own Wi-Fi-capable planes and do not use it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "It costs, just so you understand, $300,000 just to install Wi-Fi aboard a jet. And then you're looking at an approximate uh, 30 to 50,000 dollars a month to run it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10554"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check published price ranges for business-jet satellite Wi-Fi installation and monthly service."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7374",
+   "header": "**C-7374** Host asks anyone who flew with Charlie on that plane to email the show",
+   "label": "Host asks anyone who flew with Charlie on that plane to email the show",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:37"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host asks anyone who may have flown with Charlie on the G5 to email the show, saying she does not know whether it had Wi-Fi."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Somebody may have flown with Charlie on that plane. If If so, please email us."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2940.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10554"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core, DIA"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the tips inbox for responses from past passengers about the G5's Wi-Fi."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7375",
+   "header": "**C-7375** Host says the interview Charlie resented the day before was with Ben Shapiro",
+   "label": "Host says the interview Charlie resented the day before was with Ben Shapiro",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Andrew Kolvet's clip effectively admits that Charlie Kirk could not stand Ben Shapiro and was annoyed at having to interview him the day before because Kolvet had booked him, though Kolvet does not name Shapiro."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He's going to effectively admit that Charlie couldn't stand Ben Shapiro uh and was annoyed that he had to interview him the day before because Andrew's the one that booked him"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1890.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1, N-14, N-97"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10556"
+    },
+    {
+     "k": "Supports",
+     "v": "C-7377"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the guest interviewed on September 9, 2025 and confirm from the show archive whether it was Ben Shapiro."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7378",
+   "header": "**C-7378** Kolvet says there was a pre-record for hour two and Charlie texted him monogamy talking points",
+   "label": "Kolvet says there was a pre-record for hour two and Charlie texted him monogamy talking points",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip, Andrew Kolvet says the show had a pre-record for hour two and that Charlie Kirk was texting him on his way, going over talking points on polygamy and monogamy because he was going to Utah."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we had a pre-record for hour two, actually. So, it it's probably too in the weeds, but he's texting me on his way and he's going over talking points about polygamy"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1890.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10556"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain Kolvet's text thread with Charlie Kirk for the morning of September 10, 2025 and the hour-two pre-record."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7379",
+   "header": "**C-7379** Kolvet says Charlie's texts came about 33 minutes before he was killed",
+   "label": "Kolvet says Charlie's texts came about 33 minutes before he was killed",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:32:29"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip, Andrew Kolvet says Charlie's texts about monogamy came, he thinks, about 33 minutes before Charlie was killed; the host then says she will fact-check whether monogamy was discussed on that episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And that was about uh I think I had it it was like 33 minutes before he was killed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1890.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-14, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10556"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare message timestamps with the 12:23 p.m. shooting time and review whether the hour-two content addressed monogamy."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7380",
+   "header": "**C-7380** Host alleges Kolvet pretended to be live on the Charlie Kirk Show while at the White House",
+   "label": "Host alleges Kolvet pretended to be live on the Charlie Kirk Show while at the White House",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:33:27"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her White House sources reported that Andrew Kolvet was at the White House near Kash Patel's office the day before the Epstein files were released while claiming to be live in Arizona interviewing Patel, and that she is not saying this proves a faked 9/10 show, only that she wants to confirm it was live."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Andrew visited the White House the day before the Epstein files were released, but he pretended that he was in Arizona live on the Charlie Kirk Show interviewing Kash Patel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-14, N-69"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10701, N-10324, N-10556"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain White House visitor logs and the broadcast file for the Patel interview and compare its timestamp and location data."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7381",
+   "header": "**C-7381** Host says Nick Shirley later went viral over Somali day care fraud",
+   "label": "Host says Nick Shirley later went viral over Somali day care fraud",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Nick Shirley was 23 and not yet viral when Andrew Kolvet interviewed him on September 10, and that weeks later he went viral for discovering fraud in Somali day care centers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "In the weeks afterward, he goes really viral for discovering fraud in Somalian day care."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1891.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-213, N-14"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10559"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm Shirley's age and the date of the day care video relative to September 10, 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7383",
+   "header": "**C-7383** Host says she does not believe Shirley infiltrated a Rio gang in 48 hours",
+   "label": "Host says she does not believe Shirley infiltrated a Rio gang in 48 hours",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:47"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she does not believe Nick Shirley infiltrated Comando Vermelho in 48 hours and that it did not happen as he told it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I just I don't like stupid. That did not happen, okay? That did not just happen."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1891.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-213"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10559, N-11190"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the Brazil favela footage, dates and any local reporting about Shirley's access."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7384",
+   "header": "**C-7384** Host says Nick Shirley is an LDS Church member from Utah",
+   "label": "Host says Nick Shirley is an LDS Church member from Utah",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Nick Shirley is a member of the LDS Church and is from Utah."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the LDS Church. And he also happens to be from Utah."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-213"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10094, N-10559"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm Shirley's home state and religious affiliation from his own statements."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7385",
+   "header": "**C-7385** Host says she asked Nick Shirley to confirm in writing that the 9/10 show was live",
+   "label": "Host says she asked Nick Shirley to confirm in writing that the 9/10 show was live",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she messaged Nick Shirley on X that morning asking him to confirm he did a live interview in the 9:00 to 10:00 a.m. Pacific hour on September 10, and that she had not yet heard back."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I have not yet heard back from him. I sent it this morning, so it might take him some time to see my message on X."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2941.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-213"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10556"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check whether Shirley responded publicly or privately and compare with the show's upload and live-stream records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7386",
+   "header": "**C-7386** Host asks viewers to email moretips@candaceowens.com",
+   "label": "Host asks viewers to email moretips@candaceowens.com",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host asks anyone with information about the live show to email moretips@candaceowens.com."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "If you have any information regarding this, please email us at moretips@candaceowens. com."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2942.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10556"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core, DIA"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the tip line for responses about the September 10 live show."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7388",
+   "header": "**C-7388** Host says she believes Erika flew with Tyler Bowyer and a second person says he was in Utah earlier",
+   "label": "Host says she believes Erika flew with Tyler Bowyer and a second person says he was in Utah earlier",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she believes Erika Kirk flew with Tyler Bowyer, that another person told her Bowyer was in Utah earlier that day for a meeting, and that she has not confirmed it with a first-person account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I do believe Erika Kirk flew with Tyler Bowyer. And another person told us Tyler Bowyer was in earlier that day and had taken a meeting in Utah"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2943.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2, N-11"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10387"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain Bowyer's travel records and a first-person account of his September 10 location."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7390",
+   "header": "**C-7390** Host says the messages suggest Andrew flew alone on Charlie's plane",
+   "label": "Host says the messages suggest Andrew flew alone on Charlie's plane",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:40:05"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she does not buy the alleged passenger list and that there is enough evidence to suggest Andrew Kolvet flew alone on Charlie Kirk's plane."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "enough evidence to at least suggest um suggest that Andrew Kolvet flew on that plane alone"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2943.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-14, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10554"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the manifest for Charlie Kirk's plane for September 10, 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7391",
+   "header": "**C-7391** Host says the Santa Barbara plane landed in Provo at 4:36 p.m., too late for Andrew's account",
+   "label": "Host says the Santa Barbara plane landed in Provo at 4:36 p.m., too late for Andrew's account",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:40:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Santa Barbara plane lands in Provo at 4:36 p.m., which she calls way too late, and that she does not believe Andrew waited three hours for a jet when the company has its own jets."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "this one is going to land into Provo at 4:36 p. m. Way too late."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2943.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-14"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10557, N-10554"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pull ADSB arrival data for the Santa Barbara-to-Provo flight and compare with Erika Kirk's account of when Andrew arrived."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7392",
+   "header": "**C-7392** Host recalls Andrew went to the hospital's front entrance and Erika to a private back door",
+   "label": "Host recalls Andrew went to the hospital's front entrance and Erika to a private back door",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:41:39"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her understanding is that after the tarmac hug Andrew Kolvet went into the hospital through the front and Erika Kirk through a private back door, and that Andrew's wife was not mentioned as being with him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Andrew went to the front and Erika went through some private back door entrance."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-14, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10149, N-10548"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the sources of the host's entrance account with hospital staff and security accounts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7393",
+   "header": "**C-7393** Host says Trump mocked Joe Kent over remarrying",
+   "label": "Host says Trump mocked Joe Kent over remarrying",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:42:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Donald Trump mocked Joe Kent's remarriage by saying he married pretty quickly, and that Kent in fact married again five years later and had two young children."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "by saying, \"Oh, he he married pretty quickly pretty quickly.\" He married 5 years later."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-5, N-209"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10546"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the Trump remark and the date of Kent's remarriage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7395",
+   "header": "**C-7395** Host says Kent told Shellenberger his goal was to tell the truth even if called by the defense",
+   "label": "Host says Kent told Shellenberger his goal was to tell the truth even if called by the defense",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:43:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Joe Kent was interviewed by Michael Shellenberger (she is not sure she has the name right) and, asked whether his statements could result in his being called to testify by Tyler Robinson's defense team, answered that it was not his goal and that his goal was just to tell the truth."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And of course Joe Kent says, \"That wasn't my goal. My goal was just to tell the truth.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1892.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-209, N-806, N-40"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10546"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full Shellenberger interview and compare Kent's wording."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7396",
+   "header": "**C-7396** Neff and Kolvet say the murder weapon was owned by Tyler Robinson's family and has his DNA",
+   "label": "Neff and Kolvet say the murder weapon was owned by Tyler Robinson's family and has his DNA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:45:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip, Blake Neff and Andrew Kolvet say a murder weapon was found near the shooting site, owned by Tyler Robinson's family and given to him by his grandfather, of the caliber used, with his DNA all over it and the casings."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "There is a murder weapon that was found near the site of the shooting. It was owned by Tyler Robinson's family."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1893.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-14, N-40, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10337"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the lab reports on DNA, caliber and casings from the case file."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7397",
+   "header": "**C-7397** Neff and Kolvet say Robinson's parents recognized the photo and helped him surrender",
+   "label": "Neff and Kolvet say Robinson's parents recognized the photo and helped him surrender",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:45:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip, the speakers say Tyler Robinson's parents recognized the released photo, a family friend sat with him, he admitted it and they got him to drive up to Orem to turn himself in."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Tyler Robinson's parents see that photo and think, \"That looks like Tyler.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1893.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-14, N-40"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11012"
+    },
+    {
+     "k": "Contradicts",
+     "v": "C-3999"
+    },
+    {
+     "k": "Supports",
+     "v": "C-3227"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the sheriff's, family friend and parents' accounts of the surrender."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7398",
+   "header": "**C-7398** Neff says digital confessions exist and the parents have never called the surrender a lie",
+   "label": "Neff says digital confessions exist and the parents have never called the surrender a lie",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:46:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip, a speaker says there are digital confessions and that Robinson's parents have never said the surrender account is a lie."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "There's digital confessions, but also his parents are out there. They have never stepped forward and said this is a lie."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1893.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-14, N-40"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11012"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the charging documents describing the digital messages and any parental statements."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7399",
+   "header": "**C-7399** Kolvet Says More Evidence Will Be Presented at the May Evidentiary Hearing",
+   "label": "Kolvet Says More Evidence Will Be Presented at the May Evidentiary Hearing",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:46:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip, Andrew Kolvet says even more evidence will be presented in May at the evidentiary hearing, that it is a mountain, and that he is told prosecutors have Robinson dead to rights."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "there is going to be even more evidence that is presented to the public in May at the evidentiary hearing, okay?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1893.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-40"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11149"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the May hearing exhibits with what Neff described."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7400",
+   "header": "**C-7400** Kolvet Says Officials Are Telling Journalists They Would Testify for the Defense",
+   "label": "Kolvet Says Officials Are Telling Journalists They Would Testify for the Defense",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:46:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip, Andrew Kolvet says government officials are now saying on the record to journalists that they are willing to testify on behalf of the defense."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "you have government officials that are now saying on the record to journalists they are willing to testify on behalf of the defense"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1893.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-40, N-209"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10546"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify which officials have said this on the record and to which journalists."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7402",
+   "header": "**C-7402** Host says Tyler Robinson has not been arraigned and the surrender tape was lost",
+   "label": "Host says Tyler Robinson has not been arraigned and the surrender tape was lost",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Tyler Robinson has not been arraigned or pled guilty and that officials lost the tape of when he turned himself in."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He hasn't even been arraigned yet. He hasn't even pled guilty. They keep telling us he he confessed, but they lost the tape of when he turned himself in."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1893.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-40"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11012"
+    },
+    {
+     "k": "Supports",
+     "v": "C-4003, C-4293"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the court docket for arraignment status and request the surrender recording."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7403",
+   "header": "**C-7403** Host says prosecutors cannot prove the rifle was fired and bomb dogs did not find it",
+   "label": "Host says prosecutors cannot prove the rifle was fired and bomb dogs did not find it",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the part Neff and Kolvet leave out is that they cannot prove the weapon was fired and that the bomb dogs could not find it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The part they're not telling you is that they cannot prove that weapon was fired. They can't prove it was fired. The bomb dogs could not find the weapon."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1893.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-159, N-14, N-40"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10621"
+    },
+    {
+     "k": "Supports",
+     "v": "C-4284"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the ATF and lab findings on whether the rifle was fired and the bomb dog search records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7404",
+   "header": "**C-7404** Host says the feds pointed rookie cops to the gun after the bomb dogs failed",
+   "label": "Host says the feds pointed rookie cops to the gun after the bomb dogs failed",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:48:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says federal agents pointed rookie cops to where the bomb dogs failed and had them find the gun."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He touched this gun that the feds then pointed to where the bomb dogs failed and put some rookie cops and said, \"Look over there. We didn't just drop that there.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-40"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10621, N-10360"
+    },
+    {
+     "k": "Supports",
+     "v": "C-4549"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the officers' reports on who found the rifle and what directions they were given."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7405",
+   "header": "**C-7405** Host says Robinson tried and failed to get a prosecutor dropped",
+   "label": "Host says Robinson tried and failed to get a prosecutor dropped",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:48:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Tyler Robinson tried but failed to have one of the prosecutors removed from his case."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He failed, but tried to get one of the prosecutors dropped."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-40"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11149"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the docket for the motion to disqualify a prosecutor and the ruling."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7406",
+   "header": "**C-7406** Host says Erika told her in December she had no more evidence than the public, while Andrew now says there is a lot",
+   "label": "Host says Erika told her in December she had no more evidence than the public, while Andrew now says there is a lot",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:52:41"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk told her she had no more evidence than the public, and that Andrew Kolvet now says they have since found so much evidence."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Erika told me that she had no more evidence than the public had."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1893.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2, N-14"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10649"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare Erika Kirk's statements in the December meeting with later statements by TPUSA about new evidence."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7407",
+   "header": "**C-7407** Viewer comment says Kent was deployed 11 times and lost his wife to an IED",
+   "label": "Viewer comment says Kent was deployed 11 times and lost his wife to an IED",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:53:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads a viewer comment from Elaine saying Joe Kent was deployed 11 times and lost his wife to an IED explosion."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "She writes, \"Imagine being called a coward after you've been deployed 11 times, lost your wife to an IED explosion,"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2944.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-209"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10546"
+    },
+    {
+     "k": "Supports",
+     "v": "C-7159"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify Kent's deployments and his wife's death from military records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7408",
+   "header": "**C-7408** Host invites Blake Neff to come on her show",
+   "label": "Host invites Blake Neff to come on her show",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:54:26"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host invites Blake Neff to come on her show to present his evidence, saying she has made the offer before."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Come do that, Blake. Take me up on my offer, Blake."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-159"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Track whether Neff responds or appears."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7409",
+   "header": "**C-7409** Host says Kash Patel stopped Joe Kent",
+   "label": "Host says Kash Patel stopped Joe Kent",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:54:26"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Kash Patel stopped Joe Kent and that TPUSA figures are angry at Kent rather than Patel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "at the very least that Kash Patel stopped Joe Kent."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-69, N-209"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10355"
+    },
+    {
+     "k": "Supports",
+     "v": "C-7247"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare with Kent's own account of the NCTC investigation being halted."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7410",
+   "header": "**C-7410** Host dates her meeting with Erika to December 15 and doubts new evidence has been found since",
+   "label": "Host dates her meeting with Erika to December 15 and doubts new evidence has been found since",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:55:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she met with Erika on December 15th and does not believe TPUSA has found since then the evidence it says it has."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I don't believe that they have suddenly, since I met with Erika on December 15th, found all of this evidence"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10649"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Document the date of the meeting and any evidence TPUSA later publishes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7411",
+   "header": "**C-7411** Host says Charlie Kirk could not stand Ben Shapiro",
+   "label": "Host says Charlie Kirk could not stand Ben Shapiro",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:58:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says it is the worst kept secret that Charlie Kirk could not stand Ben Shapiro."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Worst kept secret in the history of the world is that Charlie Kirk couldn't stand Ben."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1, N-97"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10386"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Look for Charlie Kirk's public and private statements about Shapiro."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7412",
+   "header": "**C-7412** Host says TPUSA was going to let Ben Shapiro take over",
+   "label": "Host says TPUSA was going to let Ben Shapiro take over",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:58:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Andrew Kolvet's account shows Charlie Kirk was very upset about the interview, and that they were just going to let Ben take over Turning Point \"or something,\" with Erika letting him open."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They were just going to let Ben take over Turning Point or something."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-14, N-1, N-97, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10386"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Clarify which event or agreement the host means."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7413",
+   "header": "**C-7413** Host says Pat Buchanan coined Israel's amen corner",
+   "label": "Host says Pat Buchanan coined Israel's amen corner",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:58:49"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Pat Buchanan coined the phrase Israel's amen corner in the early 1990s."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He coined the phrase Israel's amen corner in the early 90s."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2944.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-807"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the first appearance of the phrase in print."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7414",
+   "header": "**C-7414** Viewer comment says a donor called Erika right after the shooting and chose her to replace Charlie",
+   "label": "Viewer comment says a donor called Erika right after the shooting and chose her to replace Charlie",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:59:32"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads a comment from Anna that days after Charlie was killed one of the TPUSA guys, Blake Neff or Andrew Kolvet, said a large donor called Erika right after the shooting, asked if she knew everything about TPUSA, and chose her to replace Charlie."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "a large donor called Erika right after Charlie Kirk was shot and asked if she knew everything about Turning Point USA and she said yes and he decided that she would replace him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2944.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2, N-159, N-14, N-1"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find the original statement by a TPUSA spokesperson in the days after September 10 and the donor identity."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7415",
+   "header": "**C-7415** Host guesses the donor was Doug DeGroote",
+   "label": "Host guesses the donor was Doug DeGroote",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:59:32"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host guesses the donor was Doug DeGroote, whom she says sits on the TPUSA board and is a donor, while saying she does not know."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "My guess would be off the bat Doug De Root on the um he's on the board and I think he's a donor."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-496"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check board and donor records and the call log for Erika Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7416",
+   "header": "**C-7416** Host says critics claim Joe Kent was trying to set up Erika",
+   "label": "Host says critics claim Joe Kent was trying to set up Erika",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:00:42"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says TPUSA-aligned critics suggest that Joe Kent was trying to set up Erika, which she finds laughable."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Which by the way makes me laugh even more when they suggest that Joe Kent was trying to set up Erika."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-209, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10551"
+    },
+    {
+     "k": "Supports",
+     "v": "C-7261"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Document which critics made the claim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7417",
+   "header": "**C-7417** Host says the Zoom call, emojis and merch changed her view of Erika",
+   "label": "Host says the Zoom call, emojis and merch changed her view of Erika",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:00:42"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she did not think Erika Kirk guilty until the emojis, the Zoom call and the merch hats, and wishes she could go back to that earlier view."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Now I got giggly ooh emojis, Zoom call and uh merch with hats and it just it just I wish I could go back."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify which emoji messages, Zoom call and merch the host means."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 6. Meme Register",
+    ""
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-52",
+   "header": "**M-52** (meme) Patsy",
+   "label": "(meme) Patsy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:57:13"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "go. Seven Sheets writes, \"Why is TPUSA rushing to convict an obvious patsy, mere participant, rather than trying to answer the questions that Canda..."
+    },
+    {
+     "k": "Context",
+     "v": "Later reuse of Patsy in CKA seq 82."
+    },
+    {
+     "k": "Tags",
+     "v": "fall_guy, case, host_charge, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-12",
+   "header": "**M-12** (meme) Decentralized Intelligence Agency",
+   "label": "(meme) Decentralized Intelligence Agency",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:25:37"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "please email us"
+    },
+    {
+     "k": "Context",
+     "v": "Host asks anyone who flew with Charlie on the plane to email the show."
+    },
+    {
+     "k": "Tags",
+     "v": "tips, dia"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:38:12"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "please email us at moretips@candaceowens. com"
+    },
+    {
+     "k": "Context",
+     "v": "Host asks viewers with information about the live show to email the tip line."
+    },
+    {
+     "k": "Tags",
+     "v": "tips, dia, tip_line"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-75",
+   "header": "**M-75** (meme) I'll Say Allegedly",
+   "label": "(meme) I'll Say Allegedly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:09:34"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I will say allegedly, say allegedly here"
+    },
+    {
+     "k": "Context",
+     "v": "Host hedges before relaying the Hopkinson tip."
+    },
+    {
+     "k": "Tags",
+     "v": "hedge, tip"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-183",
+   "header": "**M-183** (meme) Overwhelming",
+   "label": "(meme) Overwhelming",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:50:07"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I am so overwhelmed that we're going to have to go to break"
+    },
+    {
+     "k": "Context",
+     "v": "Host mocks Neff and Kolvet's repeated use of overwhelming evidence."
+    },
+    {
+     "k": "Tags",
+     "v": "mockery, neff, kolvet"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-222",
+   "header": "**M-222** (meme) Weed Whacker",
+   "label": "(meme) Weed Whacker",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:32:29"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I just want to get a weed whacker and go through them all"
+    },
+    {
+     "k": "Context",
+     "v": "Host riffs on Kolvet saying the details were too in the weeds."
+    },
+    {
+     "k": "Tags",
+     "v": "running_bit, kolvet"
+    },
+    {
+     "k": "Confidence",
+     "v": "medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-223",
+   "header": "**M-223** (meme) Buy That for Blake",
+   "label": "(meme) Buy That for Blake",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:55:59"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Buy that for Blake. Buy that for Blake."
+    },
+    {
+     "k": "Context",
+     "v": "Host jokes viewers should buy Shabbat Shalom merchandise for Blake Neff."
+    },
+    {
+     "k": "Tags",
+     "v": "merch, neff"
+    },
+    {
+     "k": "Confidence",
+     "v": "medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## VI. Optional Flags",
+    "",
+    "- **Name uncertainty**: Andrew Kolvet's surname is rendered inconsistently throughout the transcript – \"Kolvet,\" \"Kolvert,\" \"Colvin,\" \"Colvert,\" \"Kolvet.\" Most stable form from chapter title: \"Kolvet.\" Flag preserved across all references.",
+    "",
+    "- **Possible transcription error**: \"Yrefy\" / \"Yrefy\" / \"wife Reef air\" appear to refer to the same entity; transcript rendering is ambiguous. Inscribed as a claim but flagged.",
+    "",
+    "- **Artifact verbally referenced but not shown**: The Baron Coleman clip (played but not registered as its own artifact bundle) should be captured in a future episode as a discrete artifact family.",
+    "",
+    "- **Baron Coleman Person Node missing**: The episode repeatedly references Baron Coleman as a co-investigator with his own podcast; a person node should be created for him in a subsequent ledger update (not created here to avoid mis-numbering, but flagged for cross-episode reconciliation).",
+    "",
+    "- **Hopkinson source protection**: The host explicitly states the source for the Hopkinson location claim cannot be revealed. Verification path requires indirect documentary confirmation rather than source interview.",
+    "",
+    "- **Single-call verification**: The Wi-Fi phone confirmation for the Barbara plane (A-1887.2) rests on a single unrecorded phone call. Recommend independent corroboration.",
+    "",
+    "- **Jason Knupp identification**: The host identifies Jason Knupp as \"chief commander of Naval Surface Force Atlantic.\" This is a military rank/title identification that requires independent verification through official Navy / DOD sources before inscription at higher confidence.",
+    "",
+    "---",
+    "",
+    "## VII. Episode Ledger Summary",
+    "",
+    "Artifact Families Introduced:",
+    "- A-1886 (Hopkinson Aircrafts Location Bundle)",
+    "- A-1887 (Plane Documentation Bundle)",
+    "- A-1888 (ADSB Exchange Flight Data Bundle)",
+    "- A-1889 (Text Message Exchange Bundle)",
+    "- A-1890 (Charlie Kirk Live Show Clip Bundle)",
+    "- A-1891 (Nick Shirley Background Bundle)",
+    "- A-1892 (Joe Kent Shellenberger Interview Bundle)",
+    "- A-1893 (Blake Neff / Andrew Kolvet Response Bundle)",
+    "- A-1894 (N40JD Plane Information Bundle)",
+    "",
+    "Claim Range: C-7352 – C-7367",
+    "",
+    "New Nodes Introduced:",
+    "N-10553, N-10554, N-10555, N-10556, N-10557, N-10558, N-10559",
+    "",
+    "Existing Nodes Reused:",
+    "N-1 (Charlie Kirk), (Mike Mitchell Public Record Anomaly), (Brooksby Suicide Narrative Discrepancy), (Robinson Apartment Staging Allegation), (Phil Lyman Proximity and Behavior Investigation), (UVU Campus Familiarity Question), (Phil Lyman Location Discrepancy)",
+    "- N-2 (Erika Kirk)",
+    "",
+    "Cross-Episode Reconciliation Required:",
+    "- Person node for Baron Coleman should be created in a future update",
+    "- Andrew Kolvet, Blake Neff, Joe Kent are likely existing nodes from prior episodes; their IDs need to be merged if prior episodes used different IDs."
+   ]
+  }
+ ]
+}

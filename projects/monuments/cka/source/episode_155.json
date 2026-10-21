@@ -1,0 +1,7674 @@
+{
+ "format": "cka-source/1",
+ "episode": 155,
+ "blocks": [
+  {
+   "kind": "text",
+   "lines": [
+    "## 1. Meta-Data",
+    "",
+    "- **Episode**: 155",
+    "- **Monument**: cka",
+    "- **CKA seq**: 155",
+    "- **YouTube id**: 6XfDqKTdFKg",
+    "- **Candace Ep**: 391",
+    "- **Source**: Candace Owens YouTube",
+    "- **Video Timestamp Range**: 00:00:00–00:56:09",
+    "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
+    "- **Transcript SHA-256**: 62ace5f4c4f18929f51b3252c3a6d15650b04715f45dfdc7d6bfb067b8b9d7ce",
+    "",
+    "- **Episode Ledger Summary**:",
+    "  - Tip-minted Nodes (supplement_2026-10e): N-898, N-900, N-11315, N-11316",
+    "  - Claim Range: C-13368–C-13444",
+    "  - Reused Nodes Appearing: N-10850, N-10849, N-14, N-54, N-94, N-200, N-244, N-366, N-579, N-834, N-861, N-897, N-10011, N-10012, N-10019, N-10032, N-10040, N-10051, N-10168, N-10343, N-10416, N-10447, N-10900, N-10974, N-11149, N-11168, N-899",
+    " - New Nodes Introduced: N-10847, N-10848",
+    " - Reused Nodes Appearing: none (Wave 2: local ids removed), N-860",
+    "",
+    "# Episode Analysis – Bride of Charlie 155",
+    "",
+    "## I. Meta-Data",
+    "",
+    "- Episode title: BREAKING! Blake Neff Grants Interview To Gay Podcaster. More NEW Footage From 9/10… | Ep 391",
+    "- Series title: Bride of Charlie (Candace Owens / CKA)",
+    "- Episode number: CKA 155 / Monument Ep 155 / Batch Ep 135",
+    "- Channel / creator: @RealCandaceO (Candace Owens)",
+    "- Episode date: 2026-09-22",
+    "- Source used for analysis: YouTube captions (yt-dlp-manual-android) + video context",
+    "- Transcript completeness status: Complete; cleaned (lexicon + paragraph merge); music cues dropped; no invented words",
+    "- Analyst: Investigative Analysis Agent (Episode Analysis Protocol)",
+    "- Analysis date: 2026-09-22",
+    "",
+    "",
+    "",
+    "- Artifact Families Introduced: A-2405, A-2406, A-2407, A-2408, A-2409, A-2410, A-2411, A-2412, A-2413, A-2414, A-2415",
+    "- New Nodes Introduced (people): none (Wave 2: local ids removed)",
+    "- New Nodes Introduced (investigation targets): N-10847, N-10848, N-10849, N-10850",
+    "- Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erika Kirk, N-3 Candace Owens, N-? Tyler Robinson, N-? David Hull, N-? Agent Mortensson, N-? Officer Goforth, N-? Miss Noble, N-? Lance (Robinson's boyfriend), N-? Tucker Carlson, N-? Mikey McCoy, N-? Brett Cooper, N-? Frank Turek, N-? Andrew Kolvit (transcript variant: \"Kulevit\")",
+    "",
+    "---",
+    "",
+    "## II. Executive Summary",
+    "",
+    "The episode advances two parallel threads. The first extends the host's ongoing scrutiny of the Sept 10 prosecution narrative by introducing footage artifacts displayed in the episode (parking garage stills depicting the \"Maroon Boy\" vehicle sitting at the top level for ~8 minutes, and TMZ timestamped 8:07 AM footage showing Robinson already parked off campus) and by formally logging the host's stated correction that prior-episode timeline data was sourced from the Sept 15 search warrant rather than Agent Hull's preliminary-hearing testimony. The second thread is the introduction of a new adversarial podcast pairing (Blake Neff / Jeremy Boreing), anchored by their promotional photo, their pre-release promo clip, a separate Bobby Sausalito prediction clip played and endorsed as \"almost spot on\" by the host, and a Jeremy Boreing X post read on air. Two additional clusters are introduced: Woodbury Building / Baugh family / N88 plane framing (host-stated research only, no displayed artifact) and a midterm-electability commentary cluster anchored by four read-aloud X posts and a JD Vance video clip. Structurally, the episode's evidentiary center of mass is the Neff/Boreing interview material; investigative structural importance lies in the new Sept 10 footage and the formally logged warrant-vs-testimony narrative shift.",
+    "",
+    "---",
+    "",
+    "## III. Artifact Register",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2405",
+   "header": "**A-2405** Blake Neff & Jeremy Boreing Promotional Photo Bundle",
+   "label": "Blake Neff & Jeremy Boreing Promotional Photo Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2405.1",
+   "header": "**A-2405.1** Promotional photo of Blake Neff and Jeremy Boreing (with a dog in the center) promoting their joint sitdown",
+   "label": "Promotional photo of Blake Neff and Jeremy Boreing (with a dog in the center) promoting their joint sitdown",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:00:46"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13368*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2406",
+   "header": "**A-2406** Bobby Sausalito Prediction Audio Bundle",
+   "label": "Bobby Sausalito Prediction Audio Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2406.1",
+   "header": "**A-2406.1** Audio clip of Bobby Sausalito delivering pre-release predictions about the Neff/Boreing podcast, played on air",
+   "label": "Audio clip of Bobby Sausalito delivering pre-release predictions about the Neff/Boreing podcast, played on air",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:33:23–00:36:12"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13418, C-13421*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2407",
+   "header": "**A-2407** Blake Neff Podcast Promo Clip Bundle",
+   "label": "Blake Neff Podcast Promo Clip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2407.1",
+   "header": "**A-2407.1** Promo clip distributed by the Neff/Boreing podcast, containing on-camera statements by Neff about Candace Owens, Tucker Carlson, Erika Kirk, and Turning Point USA",
+   "label": "Promo clip distributed by the Neff/Boreing podcast, containing on-camera statements by Neff about Candace Owens, Tucker Carlson, Erika Kirk, and Turning Point USA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:36:51–00:37:44"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13368, C-13425, C-13426, C-13427*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2408",
+   "header": "**A-2408** Jeremy Boreing X Post Bundle",
+   "label": "Jeremy Boreing X Post Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2408.1",
+   "header": "**A-2408.1** X post by Jeremy Boreing asserting that Candace Owens does things \"largely on purpose\" and \"all Candace cares about is fame and money\"",
+   "label": "X post by Jeremy Boreing asserting that Candace Owens does things \"largely on purpose\" and \"all Candace cares about is fame and money\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:31:47–00:32:21"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13417*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2409",
+   "header": "**A-2409** Laura Loomer X Post Bundle",
+   "label": "Laura Loomer X Post Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2409.1",
+   "header": "**A-2409.1** X post by Laura Loomer stating that the Save America Act will not pass before midterms and projecting poor GOP electoral prospects",
+   "label": "X post by Laura Loomer stating that the Save America Act will not pass before midterms and projecting poor GOP electoral prospects",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:42:43"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13434*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2410",
+   "header": "**A-2410** Jamie Mitchell X Post Bundle",
+   "label": "Jamie Mitchell X Post Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2410.1",
+   "header": "**A-2410.1** X post by Jamie Mitchell stating the GOP is \"genuinely useless\" and that Democrats are projected to sweep the midterms",
+   "label": "X post by Jamie Mitchell stating the GOP is \"genuinely useless\" and that Democrats are projected to sweep the midterms",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:42:43"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13436*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2411",
+   "header": "**A-2411** Libs of TikTok X Post Bundle",
+   "label": "Libs of TikTok X Post Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2411.1",
+   "header": "**A-2411.1** X post by Libs of TikTok stating that prediction markets project Democrats at a 59% chance to sweep both chambers of Congress",
+   "label": "X post by Libs of TikTok stating that prediction markets project Democrats at a 59% chance to sweep both chambers of Congress",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:44:50"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13439*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2412",
+   "header": "**A-2412** JD Vance Video Clip Bundle",
+   "label": "JD Vance Video Clip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2412.1",
+   "header": "**A-2412.1** Video clip of JD Vance asking voters to \"give us another chance\" and citing tax cuts, border security, and H-1B reform",
+   "label": "Video clip of JD Vance asking voters to \"give us another chance\" and citing tax cuts, border security, and H-1B reform",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:46:45"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13440*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2413",
+   "header": "**A-2413** Sept 10 UVU Campus Surveillance Footage Bundle",
+   "label": "Sept 10 UVU Campus Surveillance Footage Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2413.1",
+   "header": "**A-2413.1** Parking garage stills showing the \"Maroon Boy\" vehicle parked at the top level of the UVU parking structure for approximately eight minutes, with a punched-in frame showing the subject's head disappearing downward",
+   "label": "Parking garage stills showing the \"Maroon Boy\" vehicle parked at the top level of the UVU parking structure for approximately eight minutes, with a punched-in frame showing the subject's head disappearing downward",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:11:33–00:13:00"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13384, N-10847, N-10848, N-10850*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2413.2",
+   "header": "**A-2413.2** TMZ surveillance footage timestamped 8:07 AM showing Tyler Robinson walking toward the UVU campus (already parked off campus)",
+   "label": "TMZ surveillance footage timestamped 8:07 AM showing Tyler Robinson walking toward the UVU campus (already parked off campus)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:14:44"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13388*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2413.3",
+   "header": "**A-2413.3** Admin (\"admissions\") lot footage of the second grey Dodge Challenger (operated by the figure code-named \"Waluigi\") making multiple parking attempts in an empty lot – referenced from prior-episode display",
+   "label": "Admin (\"admissions\") lot footage of the second grey Dodge Challenger (operated by the figure code-named \"Waluigi\") making multiple parking attempts in an empty lot – referenced from prior-episode display",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:01:52–00:03:41"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "k": "Optional Flag",
+     "v": "Artifact verbally referenced but not shown in this episode"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13370, C-13371, N-10847, N-10850*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2414",
+   "header": "**A-2414** Sept 15 UVU Search Warrant Narrative Bundle",
+   "label": "Sept 15 UVU Search Warrant Narrative Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2414.1",
+   "header": "**A-2414.1** Narrative portion of the September 15 search warrant (Agent Mortensson), stating that Robinson's Challenger entered the UVU parking structure at ~8:28 AM and that Robinson visited a wooded area between 8:28 AM and 9:24 AM – not displayed in this episode; described by host",
+   "label": "Narrative portion of the September 15 search warrant (Agent Mortensson), stating that Robinson's Challenger entered the UVU parking structure at ~8:28 AM and that Robinson visited a wooded area between 8:28 AM and 9:24 AM – not displayed in this episode; described by host",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:18:34–00:19:42"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "k": "Optional Flag",
+     "v": "Artifact verbally referenced but not shown in this episode"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13399, C-13401, N-10848*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2415",
+   "header": "**A-2415** Agent David Hull Preliminary Hearing Testimony Bundle",
+   "label": "Agent David Hull Preliminary Hearing Testimony Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2415.1",
+   "header": "**A-2415.1** Lead SBI Agent David Hull's preliminary hearing testimony, presenting a revised campus timeline in which the \"Maroon Boy\" interacts with a TPUSA rep, departs, and returns on foot, omitting the 8-minute top-of-structure stop – not displayed in this episode; described by host",
+   "label": "Lead SBI Agent David Hull's preliminary hearing testimony, presenting a revised campus timeline in which the \"Maroon Boy\" interacts with a TPUSA rep, departs, and returns on foot, omitting the 8-minute top-of-structure stop – not displayed in this episode; described by host",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:19:42–00:21:12"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "k": "Optional Flag",
+     "v": "Artifact verbally referenced but not shown in this episode"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13401, N-10848*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2495",
+   "header": "**A-2495** CIA / DIA Merch Plug Bundle",
+   "label": "CIA / DIA Merch Plug Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2495.1",
+   "header": "**A-2495.1** On-air CIA hat / Candace Intelligence Agency merch plug (verbally referenced; treat as host-presented merch beat).",
+   "label": "On-air CIA hat / Candace Intelligence Agency merch plug (verbally referenced; treat as host-presented merch beat).",
+   "lines": [
+    {
+     "k": "Video Timestamp",
+     "v": "00:54:47"
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "...buy a Santa Cup. You can buy a mug. You can buy a CIA hat. We are the Decentralized Intelligence Agency. And we have a lot in store. Some stuff I am, of cour..."
+    },
+    {
+     "k": "Confidence",
+     "v": "medium"
+    },
+    {
+     "raw": "*Related: C-13443, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3170",
+   "header": "**A-3170** Boreing Show Defamation Clips Bundle",
+   "label": "Boreing Show Defamation Clips Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3170.1",
+   "header": "**A-3170.1** Separate-episode clip from Jeremy Boreing's show, played on air, in which a speaker says the host committed the worst public defamation in American history",
+   "label": "Separate-episode clip from Jeremy Boreing's show, played on air, in which a speaker says the host committed the worst public defamation in American history",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:37:44"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13431, N-3, N-366*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3170.2",
+   "header": "**A-3170.2** Second Boreing-show clip, played on air, in which a speaker discusses the malice standard and says the host has crossed those lines",
+   "label": "Second Boreing-show clip, played on air, in which a speaker discusses the malice standard and says the host has crossed those lines",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:39:07"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13432, N-3, N-366*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3171",
+   "header": "**A-3171** Cemetery Follow-Up Tip Request Bundle",
+   "label": "Cemetery Follow-Up Tip Request Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3171.1",
+   "header": "**A-3171.1** Host verbal reference to the tip address moretips@candaceowens.com in a call for cemetery and Dairy Queen follow-up (transcribed \"more tips@canniswowens. com\")",
+   "label": "Host verbal reference to the tip address moretips@candaceowens.com in a call for cemetery and Dairy Queen follow-up (transcribed \"more tips@canniswowens. com\")",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Please email us more tips@canniswowens. com.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:16:38"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13392, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3172",
+   "header": "**A-3172** Woodbury Building Tip Request Bundle",
+   "label": "Woodbury Building Tip Request Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3172.1",
+   "header": "**A-3172.1** Host verbal reference to the tip address moretips@candaceowens.com in a call for Woodbury building witnesses (transcribed \"more tips@candis. com\")",
+   "label": "Host verbal reference to the tip address moretips@candaceowens.com in a call for Woodbury building witnesses (transcribed \"more tips@candis. com\")",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"reach back out to us at more tips@candis. com.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:25:06"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13414, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3173",
+   "header": "**A-3173** Host Woodbury Building and Baugh Research Bundle",
+   "label": "Host Woodbury Building and Baugh Research Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3173.1",
+   "header": "**A-3173.1** Host verbal description of her own notes and lookup about the Woodbury building, the Maxfield and Baugh plane ownership and the Baugh UVU donation (no source document shown on screen)",
+   "label": "Host verbal description of her own notes and lookup about the Woodbury building, the Maxfield and Baugh plane ownership and the Baugh UVU donation (no source document shown on screen)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:22:51-00:26:14"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13408, C-13409, C-13410, C-13411, C-13412, C-13413, N-3, N-10849*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## IV. Node Register",
+    ""
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10847",
+   "header": "**N-10847** \"Waluigi\" Unknown Driver",
+   "label": "\"Waluigi\" Unknown Driver",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Code name assigned by the host to the unidentified operator of the second grey Dodge Challenger observed in the UVU admin/admissions lot; distinguished from the \"Maroon Boy.\" Height and clothing shape stated as identifying traits; identity not established."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "3"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-2413.1, A-2413.3, C-13370, C-13371, C-13384, N-10850*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10848",
+   "header": "**N-10848** Sept 15 Search Warrant vs Preliminary Hearing Narrative Shift",
+   "label": "Sept 15 Search Warrant vs Preliminary Hearing Narrative Shift",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Persistent inconsistency between the Sept 15 search warrant narrative (Robinson visits wooded area 8:28–9:24 AM; visits parking-garage top first) and Agent Hull's preliminary-hearing testimony (omits top-of-structure stop; rearranges on-campus activity order)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-2414.1, A-2415.1, C-13399, C-13401, N-? David Hull, N-? Agent Mortensson*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10849",
+   "header": "**N-10849** Woodbury Building / Baugh Family / N88 Plane Connection Question",
+   "label": "Woodbury Building / Baugh Family / N88 Plane Connection Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Investigative target concerning the relationships between (a) the Baugh family's $5M UVU donation, (b) the Woodbury Business Building, (c) the Baughs' partial ownership of the N88 plane alongside Shelaine and Derek Maxfield, and (d) the placement of the Baugh entrepreneurship program in the Woodbury building. No displayed source artifact in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related:*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10850",
+   "header": "**N-10850** Two Grey Dodge Challengers Discrepancy",
+   "label": "Two Grey Dodge Challengers Discrepancy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Persistent question concerning the simultaneous presence of two grey Dodge Challengers on UVU campus within ~20 minutes of one another on Sept 10, with the host assigning separate code names to the operators (\"Maroon Boy\" / \"Waluigi\") and stating no unified prosecution narrative accounts for both vehicles."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "3"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-2413.1, A-2413.3, C-13370, C-13371, C-13384, N-10847*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-1",
+   "header": "**N-1** Charlie Kirk",
+   "label": "Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of the assassination; the host states her agenda around his killing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13369, C-13372, C-13373, C-13374, C-13375, C-13376, C-13377, C-13378, C-13379, C-13380, C-13381, C-13383, C-13385, C-13387, C-13386, C-13389, C-13390, C-13391, C-13392, C-13393, C-13394, C-13395, C-13396, C-13397, C-13398, C-13400, C-13402, C-13403, C-13404, C-13405, C-13406, C-13407, C-13408, C-13409, C-13410, C-13411, C-13412, C-13413, C-13414, C-13415, C-13416, C-13419, C-13420, C-13422, C-13423, C-13424, C-13428, C-13429, C-13430, C-13431, C-13432, C-13441*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-2",
+   "header": "**N-2** Erika Kirk",
+   "label": "Erika Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Widow and TPUSA CEO named in the Boreing-show defamation clips."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13369, C-13410, C-13411, C-13415, C-13423, C-13429, C-13431, C-13432, C-13435*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-3",
+   "header": "**N-3** Candace Owens",
+   "label": "Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host; speaks for herself throughout."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13369, C-13372, C-13373, C-13374, C-13375, C-13376, C-13377, C-13378, C-13379, C-13380, C-13381, C-13383, C-13385, C-13387, C-13386, C-13389, C-13390, C-13391, C-13392, C-13393, C-13394, C-13395, C-13396, C-13397, C-13398, C-13400, C-13402, C-13403, C-13404, C-13405, C-13406, C-13407, C-13408, C-13409, C-13410, C-13411, C-13412, C-13413, C-13414, C-13415, C-13416, C-13420, C-13422, C-13423, C-13424, C-13428, C-13429, C-13430, C-13431, C-13432, C-13433, C-13435, C-13437, C-13438, C-13441, C-13444*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-14",
+   "header": "**N-14** Andrew Kolvet",
+   "label": "Andrew Kolvet",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "TPUSA spokesperson named in the defamation clip as 'Andrew Kulvit'."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13431*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-22",
+   "header": "**N-22** Tucker Carlson",
+   "label": "Tucker Carlson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named in the Neff and Boreing promo material and the host's discussion of their podcast."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13369, C-13415, C-13429*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-40",
+   "header": "**N-40** Tyler Robinson",
+   "label": "Tyler Robinson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Accused; subject of the campus timeline analysis."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13372, C-13379, C-13387, C-13386, C-13390, C-13391, C-13393, C-13394, C-13395, C-13400, C-13402, C-13403, C-13404, C-13405*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-54",
+   "header": "**N-54** Lance Twiggs",
+   "label": "Lance Twiggs",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Robinson's partner; the host speculates he drove Robinson's car."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13393*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-60",
+   "header": "**N-60** Laura Loomer",
+   "label": "Laura Loomer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Her midterm post and alleged slur are discussed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13438*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-94",
+   "header": "**N-94** Derek Maxfield",
+   "label": "Derek Maxfield",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Co-owner of the N88 plane who issued a statement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13410, C-13411*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-159",
+   "header": "**N-159** Blake Neff",
+   "label": "Blake Neff",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Co-host of the podcast with Boreing; speaker in the promo clip."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13369, C-13419, C-13428, C-13429*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-190",
+   "header": "**N-190** Mikey McCoy",
+   "label": "Mikey McCoy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "TPUSA figure named in the defamation clips."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13431, C-13432*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-200",
+   "header": "**N-200** Shelaine Maxfield",
+   "label": "Shelaine Maxfield",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Co-owner of the N88 plane ('Shelaine' in the transcript); Saprea figure."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13410, C-13411*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-244",
+   "header": "**N-244** Mark Levin",
+   "label": "Mark Levin",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named by the host as demanding speech censorship."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13435*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-366",
+   "header": "**N-366** Jeremy Boreing",
+   "label": "Jeremy Boreing",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Former Daily Wire CEO ('Jeremy Boreing' in the transcript); the host's account of his podcast, posts and lawsuits."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13369, C-13415, C-13416, C-13420, C-13422, C-13423, C-13424, C-13430, C-13431, C-13444*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-860",
+   "header": "**N-860** David Hull",
+   "label": "David Hull",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "SBI agent whose preliminary hearing testimony the host analyzes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13376, C-13377, C-13379, C-13383, C-13403, C-13404*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-579",
+   "header": "**N-579** Thomas Massie",
+   "label": "Thomas Massie",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Congressman the host says critics attacked and removed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13437*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-834",
+   "header": "**N-834** Casey Baugh",
+   "label": "Casey Baugh",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Alleged UVU donor and partial owner of the N88 plane."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13412, C-13413*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-861",
+   "header": "**N-861** Officer Goforth",
+   "label": "Officer Goforth",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Officer the host says was approached by the Dodge Challenger after midnight."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13381*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10011",
+   "header": "**N-10011** TMZ",
+   "label": "TMZ",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13387*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10012",
+   "header": "**N-10012** Utah Valley University",
+   "label": "Utah Valley University",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13396, C-13408, C-13411, C-13412, C-13413*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10019",
+   "header": "**N-10019** Robinson Outfit Change Discrepancy",
+   "label": "Robinson Outfit Change Discrepancy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13394, C-13395, C-13400, C-13402, C-13405*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10032",
+   "header": "**N-10032** Decoy Boy Operation Analysis",
+   "label": "Decoy Boy Operation Analysis",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13386, C-13389*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10040",
+   "header": "**N-10040** Robinson On-Campus Linger Timeline",
+   "label": "Robinson On-Campus Linger Timeline",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13375, C-13376, C-13385, C-13387*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10051",
+   "header": "**N-10051** Dairy Queen 6:38 Photo Verification",
+   "label": "Dairy Queen 6:38 Photo Verification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13390, C-13392*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10168",
+   "header": "**N-10168** Maroon Shirt Person Identification (Lance Twiggs Hypothesis)",
+   "label": "Maroon Shirt Person Identification (Lance Twiggs Hypothesis)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13393*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10343",
+   "header": "**N-10343** Tyler Robinson Rooftop Access Timeline",
+   "label": "Tyler Robinson Rooftop Access Timeline",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13394, C-13400*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10416",
+   "header": "**N-10416** Daily Wire Stalking Pattern",
+   "label": "Daily Wire Stalking Pattern",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13415, C-13416, C-13422*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10447",
+   "header": "**N-10447** Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
+   "label": "Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13407*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10900",
+   "header": "**N-10900** Daily Wire",
+   "label": "Daily Wire",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13415, C-13420, C-13424, C-13430, C-13431, C-13432*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10974",
+   "header": "**N-10974** PETN Explosive",
+   "label": "PETN Explosive",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13407*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11149",
+   "header": "**N-11149** Tyler Robinson Preliminary Hearing and Motion to Dismiss",
+   "label": "Tyler Robinson Preliminary Hearing and Motion to Dismiss",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13376*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11168",
+   "header": "**N-11168** Saprea",
+   "label": "Saprea",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13410*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-898",
+   "header": "**N-898** Agent Mortensson",
+   "label": "Agent Mortensson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "18:34 in episode 155. Investigator whose review of UVU security video the September 15 warrant describes.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Aliases",
+     "v": "Mortensson"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13402*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-899",
+   "header": "**N-899** Miss Noble",
+   "label": "Miss Noble",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "07:25 in episode 155. Neighbor who with her husband reported a Dodge Challenger driven by a bald person with two others in the back seat.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Aliases",
+     "v": "Miss Noble"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13397, C-13406*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-897",
+   "header": "**N-897** Bobby Sausalito",
+   "label": "Bobby Sausalito",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "00:46 in episode 155. Comedian and political commentator whose pre-release predictions about the Neff and Boreing podcast the host plays.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Aliases",
+     "v": "Bobby Sausalito; Bobby Sauce"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13419, C-13420, C-13422*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-900",
+   "header": "**N-900** Chelsea Baugh",
+   "label": "Chelsea Baugh",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "25:06 in episode 155. Named with Casey Baugh as a UVU donor and partial owner of the N88 plane.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Aliases",
+     "v": "Chelsea Baugh"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13412, C-13413*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11315",
+   "header": "**N-11315** Pre-Event Morning Meeting at UVU Hypothesis",
+   "label": "Pre-Event Morning Meeting at UVU Hypothesis",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The host's suggestion that a morning meeting may have taken place at UVU ahead of the September 10 event."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13396*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11316",
+   "header": "**N-11316** 2026 Midterm Outlook and Conservative Infighting Commentary",
+   "label": "2026 Midterm Outlook and Conservative Infighting Commentary",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The host's commentary on prediction-market odds, X posts and critics of the party in the run-up to the 2026 midterms."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13433, C-13435, C-13437, C-13438*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## V. Claim Register",
+    ""
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13368",
+   "header": "**C-13368** Neff/Boreing Joint Podcast Announced via Promotional Materials",
+   "label": "Neff/Boreing Joint Podcast Announced via Promotional Materials",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Blake Neff and Jeremy Boreing consciously selected a photo to promote their upcoming sitdown, which she says will undoubtedly be about her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2405.1, A-2407.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-366"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full released episode and compare its content against Sausalito's pre-release predictions and the host's commentary."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13418",
+   "header": "**C-13418** Sausalito Predicted Podcast Content Pre-Release",
+   "label": "Sausalito Predicted Podcast Content Pre-Release",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:33:23–00:36:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Bobby Sausalito predicted, prior to release, that the Neff/Boreing podcast would primarily consist of criticism of Candace Owens and Tucker Carlson, defense of TPUSA figures (Erika Kirk, Mikey McCoy, Frank Turek), and calls for lawsuits/jail time against the host."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2406.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-897, N-159, N-366, N-22, N-3, N-190, N-2, N-7"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare Sausalito's specific predictions against the released episode segment-by-segment."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13421",
+   "header": "**C-13421** Host Concurs Sausalito's Predictions Were \"Almost Spot On\"",
+   "label": "Host Concurs Sausalito's Predictions Were \"Almost Spot On\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Bobby Sausalito's pre-release predictions were \"almost spot on,\" except that he was wrong that Boreing is doing it for money."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2406.1, A-2407.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-897, N-366"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Document the host's specific concurrence with each item of Sausalito's prediction list once the full episode is available."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13425",
+   "header": "**C-13425** Neff Characterized Candace Owens as \"Malicious, Hateful, Dishonest, Destructive\"",
+   "label": "Neff Characterized Candace Owens as \"Malicious, Hateful, Dishonest, Destructive\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:51–00:37:44"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the Neff/Boreing promo clip, Blake Neff stated that Candace Owens is a \"malicious, hateful, dishonest, destructive actor in American life.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2407.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-159"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain full Neff/Boreing episode to confirm statement context and surrounding statements."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13426",
+   "header": "**C-13426** Neff Stated Candace Wants Kirk's Killer to \"Get Away With It\"",
+   "label": "Neff Stated Candace Wants Kirk's Killer to \"Get Away With It\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:51–00:37:44"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the Neff/Boreing promo clip, Blake Neff stated that Candace Owens \"wants the person who killed Charlie to get away with it.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2407.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-159, N-1, N-366"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify exact quote and context in the full Neff/Boreing episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13427",
+   "header": "**C-13427** Neff Asserted Tucker Carlson \"Extended Maximum Grace\" to Candace",
+   "label": "Neff Asserted Tucker Carlson \"Extended Maximum Grace\" to Candace",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:51–00:37:44"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the Neff/Boreing promo clip, Blake Neff stated that Tucker Carlson \"has extended maximum grace to Candace Owens.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2407.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-22, N-3, N-159, N-366"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify exact quote and context in the full Neff/Boreing episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13417",
+   "header": "**C-13417** Boreing X Post Claimed Owens Acts for Fame",
+   "label": "Boreing X Post Claimed Owens Acts for Fame",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:47–00:32:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Jeremy Boreing posted on X that Candace Owens \"does this largely on purpose\" and that \"all Candace cares about is fame and money. Nothing is beneath her.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2408.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-366, N-3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the original post via web archive to confirm exact wording and timestamp."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13434",
+   "header": "**C-13434** Loomer X Post Claimed Save America Act Would Not Pass Before Midterms",
+   "label": "Loomer X Post Claimed Save America Act Would Not Pass Before Midterms",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:41:43"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Laura Loomer posted on X that the Save America Act would not pass before midterms and projected poor GOP midterm outcomes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2409.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-60"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the original post via web archive to confirm exact wording and timestamp."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13436",
+   "header": "**C-13436** Mitchell X Post Characterized GOP as \"Genuinely Useless\"",
+   "label": "Mitchell X Post Characterized GOP as \"Genuinely Useless\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:42:43"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Jamie Mitchell posted on X that \"The GOP is genuinely useless\" and that Democrats were projected to sweep the midterms."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2410.1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the original post via web archive to confirm exact wording and timestamp."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13439",
+   "header": "**C-13439** Libs of TikTok X Post Cited 59% Democrat Sweep Projection",
+   "label": "Libs of TikTok X Post Cited 59% Democrat Sweep Projection",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads a Libs of TikTok post saying prediction markets project Democrats at a 59% chance of sweeping both chambers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2411.1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the original post via web archive to confirm exact wording, timestamp, and the specific prediction market referenced."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13440",
+   "header": "**C-13440** Vance Clip Asked Voters for \"Another Chance\" Citing Policy Achievements",
+   "label": "Vance Clip Asked Voters for \"Another Chance\" Citing Policy Achievements",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:45:57"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip the host plays, JD Vance asks voters to \"give us another chance\" and lists tax cuts (overtime, Social Security, tips), success on the border and immigration, and H-1B reform as accomplishments."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2412.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-4"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the original venue/date of the Vance clip to anchor sourcing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13370",
+   "header": "**C-13370** Host Says Two Grey Dodge Challengers Arrived on UVU Campus Within About 20 Minutes of One Another",
+   "label": "Host Says Two Grey Dodge Challengers Arrived on UVU Campus Within About 20 Minutes of One Another",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:01:52–00:05:41"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says footage shows two separate grey Dodge Challengers arriving on the UVU campus within approximately 20 minutes of each other on Sept 10, both remaining on campus for roughly an hour and a half before departing near-simultaneously."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2413.3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10847, N-10850"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain parking-garage entry/exit logs and timestamped surveillance footage to independently verify the arrivals of two distinct grey Challengers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13371",
+   "header": "**C-13371** Host Says \"Waluigi\" Vehicle Driver Made Multiple Parking Attempts in Empty Lot",
+   "label": "Host Says \"Waluigi\" Vehicle Driver Made Multiple Parking Attempts in Empty Lot",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:31–00:03:41"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the footage shows the driver of the second grey Dodge Challenger (code-named \"Waluigi\") making over three to four parking attempts in the empty admin/admissions lot before parking."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2413.3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10847, N-10850"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the original admin-lot surveillance footage to verify the number of attempts and any identifying characteristics of the driver."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13384",
+   "header": "**C-13384** Host Says \"Maroon Boy\" Vehicle Parked at Top of UVU Structure for About 8 Minutes Before Relocating",
+   "label": "Host Says \"Maroon Boy\" Vehicle Parked at Top of UVU Structure for About 8 Minutes Before Relocating",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:33–00:13:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the footage shows the grey Dodge Challenger associated with the \"Maroon Boy\" being driven to the top level of the UVU parking structure and remaining stationary there for approximately eight minutes, after which the subject relocated the vehicle to a lower level."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2413.1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10847, N-10850"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full top-of-structure surveillance footage to verify the eight-minute duration and any subject activity during that window."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13388",
+   "header": "**C-13388** Host Says TMZ Footage at 8:07 AM Shows Robinson Already Parked Off Campus",
+   "label": "Host Says TMZ Footage at 8:07 AM Shows Robinson Already Parked Off Campus",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:44"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says TMZ footage timestamped 8:07 AM on Sept 10 shows Tyler Robinson walking toward the UVU campus, and that this indicates he was already parked off campus at that time."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2413.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the original TMZ footage with intact timestamps and any associated location metadata to independently confirm the timestamp and subject identification."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13399",
+   "header": "**C-13399** Sept 15 Warrant Narrative Stated 8:28 AM Entry and 8:28–9:24 AM Wooded-Area Visit",
+   "label": "Sept 15 Warrant Narrative Stated 8:28 AM Entry and 8:28–9:24 AM Wooded-Area Visit",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:34–00:19:42"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The September 15 search warrant narrative (attributed to Agent Mortensson's review of UVU security video) stated that Robinson's Challenger entered the UVU parking structure at approximately 8:28 AM, that Robinson then visited a wooded area near where the rifle was later discovered, and that Robinson left the structure at approximately 9:32 AM."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2414.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-898, N-40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10848"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the actual Sept 15 search warrant filing to verify the quoted language and its full surrounding narrative."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13401",
+   "header": "**C-13401** Host Alleges Hull Preliminary Hearing Testimony Omitted the 8-Minute Top-of-Structure Stop and Revised the On-Campus Timeline",
+   "label": "Host Alleges Hull Preliminary Hearing Testimony Omitted the 8-Minute Top-of-Structure Stop and Revised the On-Campus Timeline",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:42–00:21:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host alleges that Agent David Hull's preliminary hearing testimony presented a campus timeline in which the \"Maroon Boy\" interacts with a TPUSA representative, departs, and returns on foot, omitting the approximately 8-minute top-of-structure stop and the 8:28-9:24 AM wooded-area visit described in the Sept 15 warrant she reads."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2414.1, A-2415.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-860"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10848"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the preliminary hearing transcript and audio/video to verify the specific omissions and re-orderings between the warrant narrative and Hull's testimony."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13382",
+   "header": "**C-13382** Miss Noble Testimony Described Dodge Challenger with Bald Driver and Two Backseat Occupants",
+   "label": "Miss Noble Testimony Described Dodge Challenger with Bald Driver and Two Backseat Occupants",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says neighbor Miss Noble and her husband saw a Dodge Challenger parked in their neighborhood shortly after Officer Goforth's sighting, and that Miss Noble claims it was being driven by a bald person with two people in the back seat."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "(no displayed artifact in this episode; assertion referenced from prior reporting)"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-899, N-861"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10850"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain Miss Noble's interview transcript, witness statement, or sworn testimony to verify exact wording and to determine whether the Dodge Challenger identification was confirmed via plate or visual match."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Optional Flag",
+     "v": "Claim failed admission test (Artifact Anchor) – claim retained with explicit flag for missing artifact; verify against source records before further inscription."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13442",
+   "header": "**C-13442** Host identifies show community as Decentralized Intelligence Agency",
+   "label": "Host identifies show community as Decentralized Intelligence Agency",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:54:47"
+    },
+    {
+     "k": "Claim",
+     "v": "The host, while plugging merch, says \"We are the Decentralized Intelligence Agency.\""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "...can buy a mug. You can buy a CIA hat. We are the Decentralized Intelligence Agency. And we have a lot in store. Some stuff I am, of course, saving. I got lawsuits going on and lawsui..."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13443",
+   "header": "**C-13443** CIA hat merch framed as Candace / Decentralized Intelligence Agency brand",
+   "label": "CIA hat merch framed as Candace / Decentralized Intelligence Agency brand",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:54:47"
+    },
+    {
+     "k": "Claim",
+     "v": "The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand."
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "...buy a Santa Cup. You can buy a mug. You can buy a CIA hat. We are the Decentralized Intelligence Agency. And we have a lot in store. Some stuff I am, of cour..."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2495.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Confidence",
+     "v": "medium"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm on-screen merch graphic if available; reuse M-14 when exact Candace Intelligence Agency phrase airs."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13369",
+   "header": "**C-13369** Host Says Tucker Carlson Urged Looking at the Neff–Boreing Photo",
+   "label": "Host Says Tucker Carlson Urged Looking at the Neff–Boreing Photo",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:00:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Tucker Carlson commented on the Blake Neff and Jeremy Boreing promotional photo by saying to just look at the photo."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Tucker Carlson said, just look at the photo."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2405.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-22, N-159, N-366, N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate Carlson's original post or remark about the photo and confirm his wording and date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13372",
+   "header": "**C-13372** Host Says Viewers Report the Towed Challenger Body Differs From the Admin-Lot Challenger",
+   "label": "Host Says Viewers Report the Towed Challenger Body Differs From the Admin-Lot Challenger",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says car-knowledgeable viewers emailed that the body of the Dodge Challenger that was towed and identified as Tyler Robinson's differs from the Dodge Challenger shown in the administrative lot."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "there is a difference in the body on the Dodge Challenger uh which was towed and has since been identified as Tyler Robinson's Dodge Challenger"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2413.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-40, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10850"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the towed vehicle's make, year, trim and body photographs with the admin-lot footage frames, ideally with an independent automotive identification."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13373",
+   "header": "**C-13373** Host Says the Second Challenger's Driver Has Exceptionally Tall Legs",
+   "label": "Host Says the Second Challenger's Driver Has Exceptionally Tall Legs",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:41"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the person operating the second Dodge Challenger, whom she names Waluigi, has exceptionally tall legs and a body shape she uses as an identifying trait."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And he has exceptionally tall legs and he looks to me like he's shaped like Waluigi."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2413.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10847, N-10850"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Measure the driver's proportions in the admin-lot footage against known heights of persons of interest, if the original footage is released."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13374",
+   "header": "**C-13374** Host Says the Two Challenger Drivers Are Not the Same Person",
+   "label": "Host Says the Two Challenger Drivers Are Not the Same Person",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:41"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she is not claiming the two Challengers are the same car and that she does not think the person who gets out of the admin-lot Challenger is the person in the parking garage at the same time; Challenger one is tied to the garage and Challenger two to the admissions lot."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We do not think that the person who gets out of this car is the same person that is in the garage at the same time."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2413.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10847, N-10850"
+    },
+    {
+     "k": "Supports",
+     "v": "C-13370"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain simultaneous timestamps from the garage and admin-lot cameras to show whether both subjects were on camera at the same moment."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13375",
+   "header": "**C-13375** Host Says Nobody Knows What Either Driver Did for About an Hour and a Half",
+   "label": "Host Says Nobody Knows What Either Driver Did for About an Hour and a Half",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:04"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that she and her team have no idea what either Maroon Boy or Waluigi did during roughly an hour and a half on campus, and that no narrative has been provided for that time."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we have actually no idea what either of these two people did for an approximate hour and a half on campus"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10850, N-10040"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Request the full UVU campus camera archive for 8:30 to 10:00 a.m. covering both vehicles and their occupants."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13376",
+   "header": "**C-13376** Host Says the Hearing's Only Account of Maroon Boy Is Asking a TPUSA Employee About the Event",
+   "label": "Host Says the Hearing's Only Account of Maroon Boy Is Asking a TPUSA Employee About the Event",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:11"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that from the preliminary hearing the only thing known about Maroon Boy is that he parked, went up to a Turning Point USA employee and asked whether this was where the event would be held."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "All we got from the pre preliminary hearing is that Maroon Boy parked went up to a Turning Point USA employee and asked her if this is where the event was going to be held."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10040, N-11149"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Read the preliminary hearing transcript for Hull's testimony on the TPUSA representative exchange and identify the employee asked."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13377",
+   "header": "**C-13377** Host Says Her Timeline Error Came From Mixing Warrant Data With Hull's Testimony",
+   "label": "Host Says Her Timeline Error Came From Mixing Warrant Data With Hull's Testimony",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:41"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says yesterday's timeline wrongly showed Maroon Boy visiting a wooded area during that window because her producer entered data from the September 15 search warrants while she used Agent David Hull's preliminary hearing testimony."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Yesterday, we wrongly showed you on the timeline um that this was during a time where he then went and visited a wooded area off campus."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2414.1, A-2415.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-860"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10848"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the show's published timeline against both the September 15 warrant narrative and the hearing transcript to document which source supplied each entry."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13378",
+   "header": "**C-13378** Host Says Maroon Boy and Waluigi Left Campus Around the Same Time",
+   "label": "Host Says Maroon Boy and Waluigi Left Campus Around the Same Time",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:41"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Maroon Boy left campus in the Dodge Challenger at 9:33 a.m., around the same time Waluigi left, with the second departure placed about 17 minutes later at about 9:50."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he's going to leave 17 minutes later at about 9 9:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2413.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10847, N-10850"
+    },
+    {
+     "k": "Supports",
+     "v": "C-13370"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pull garage exit and admin-lot exit camera timestamps for both vehicles to confirm the near-simultaneous departures."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13379",
+   "header": "**C-13379** Host Says Hull Never Suggested the Challenger Was Tracked Off Campus",
+   "label": "Host Says Hull Never Suggested the Challenger Was Tracked Off Campus",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the only Challenger footage the prosecution shows runs from about 8:30 to 9:33 a.m., and that Agent Hull does not suggest investigators tracked Maroon Boy's Challenger off campus or saw him change outfits."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Agent Hull doesn't even so much as try to suggest that they tracked Maroon Boy Dodge Challenger off campus."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2415.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-860, N-40, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10850"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the hearing transcript for any testimony on tracking the Challenger after 9:33 a.m. and for any off-campus license-plate-reader hits."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13380",
+   "header": "**C-13380** Host Says No Photo or Video Shows an Identifiable Challenger Parked Off Campus",
+   "label": "Host Says No Photo or Video Shows an Identifiable Challenger Parked Off Campus",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the prosecution has presented no photos or videos of an identifiable Dodge Challenger parked off campus, so linking the garage car to the person who later returned in a black shirt is assumption."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "There are no photos or videos of an identifiable Dodge Challenger parked off campus."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10850"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Search discovery and neighborhood camera releases for any frame of the Challenger parked near campus on September 10."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13381",
+   "header": "**C-13381** Host Says Officer Goforth's Encounter With the Challenger Has No Indicated Bodycam",
+   "label": "Host Says Officer Goforth's Encounter With the Challenger Has No Indicated Bodycam",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:42"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that the Dodge Challenger which \"we were told\" returned after midnight and pulled up to Officer Goforth for a conversation was not accompanied by any indication from them that Goforth had body cam footage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They've never indicated that he had on body cam footage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-861, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10850"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Request Goforth's bodycam and dispatch records for the after-midnight contact and confirm whether any recording exists."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13383",
+   "header": "**C-13383** Host Says Hull's Narration Sometimes Conflicted With the Footage Shown",
+   "label": "Host Says Hull's Narration Sometimes Conflicted With the Footage Shown",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Hull's testimony over the footage \"registered to me as remarkably rehearsed\" and fast-paced, like an auctioneer, and that at times what he said and what viewers saw were in conflict."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "at times we went back and realized those two things were in conflict with one another"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2415.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-860, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10848"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare Hull's narration line by line with the released footage and note each point where the spoken description and the video disagree."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13385",
+   "header": "**C-13385** Host Says Zoomed Garage Footage Shows the Subject's Head Dropping Once",
+   "label": "Host Says Zoomed Garage Footage Shows the Subject's Head Dropping Once",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that when she zooms in on the eight minutes at the top of the parking structure she sees only one moment when the subject's head goes down, which she suggests may be him picking up something near his feet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "there's only one time where I observe what and I'm going to show you that what looks to me like he's I don't know maybe picking up something down by his feet"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2413.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10850, N-10040"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full eight-minute top-level garage footage at native resolution for independent frame review."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13387",
+   "header": "**C-13387** Host Says the TMZ Footage Was Omitted From the Prosecution Presentation",
+   "label": "Host Says the TMZ Footage Was Omitted From the Prosecution Presentation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:20"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the TMZ footage showing Robinson earlier, already parked off campus at 8:07 a.m., was for some reason omitted from the prosecution's presentation and not raised in court."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The TMZ footage, which they, for some reason, omitted, actually shows him earlier."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2413.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-40, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10011, N-10040"
+    },
+    {
+     "k": "Supports",
+     "v": "C-13388"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the preliminary hearing exhibit list and Hull's testimony for any use of the TMZ 8:07 a.m. footage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13386",
+   "header": "**C-13386** Host Theorizes the Garage Stop Was Staged to Capture the Challenger on Camera",
+   "label": "Host Theorizes the Garage Stop Was Staged to Capture the Challenger on Camera",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host speculates that the top-of-garage episode was done because the Dodge Challenger needed to be captured on camera at a specific pre-planned time, and says there is no reason Robinson could not have parked off campus all day."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "they needed that crucial footage of the Dodge Challenger captured onto camera at a specific pre-planned time"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2413.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-40, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10032, N-10850"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Establish who selected the parking structure and arrival time, using Robinson's phone location data and campus gate or parking records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13389",
+   "header": "**C-13389** Host Says the Maroon Boy Was a Decoy Whose Job Was to Be Filmed",
+   "label": "Host Says the Maroon Boy Was a Decoy Whose Job Was to Be Filmed",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:44"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the car was meant to be seen and that the decoy boy's job was to make sure the Challenger was captured on camera throughout the parking structure."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "That was the decoy boy's literal job was to make sure that this car gets captured on camera throughout the parking structure."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2413.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10032, N-10850"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify who drove the Challenger into the structure and test the decoy theory against Robinson's phone, purchase and message records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13390",
+   "header": "**C-13390** Host Says Her Show Broke the Dairy Queen Sighting and the Cemetery Clothes Story",
+   "label": "Host Says Her Show Broke the Dairy Queen Sighting and the Cemetery Clothes Story",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her show broke the story that Tyler Robinson was seen at a Dairy Queen and that he was reportedly throwing out clothes in a nearby cemetery, a story she says has never been formally addressed or denied."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we broke the story that Tyler Robinson was seen at the Dairy Queen and what was communicated was that he was throwing out clothes in the cemetery nearby"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-40, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10051"
+    },
+    {
+     "k": "Supports",
+     "v": "C-12441"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Search the cemetery and nearby trash receptacles for records of recovered clothing and obtain Dairy Queen camera footage and receipts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13391",
+   "header": "**C-13391** Host Says Robinson May Be Guilty of Tampering but Not the Killing",
+   "label": "Host Says Robinson May Be Guilty of Tampering but Not the Killing",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she has always maintained that Robinson played a role and was around campus, that she does not believe he had anything to do with the actual killing of Charlie Kirk, and that he could be guilty of tampering with evidence."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I do not believe he had anything to do with the actual killing of Charlie Kirk, but I reckon that he could be guilty of uh tampering with evidence."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-40, N-1, N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the host's tampering theory against the charging documents and any evidence-tampering counts or investigative reports."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13392",
+   "header": "**C-13392** Host Asks Viewers for Cemetery Follow-Up Tips at the moretips Address",
+   "label": "Host Asks Viewers for Cemetery Follow-Up Tips at the moretips Address",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host asks viewers who know more about the cemetery or the Dairy Queen story, including police officers, to email tips to the moretips address for a cemetery follow-up."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Please email us more tips@canniswowens. com."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3171.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10051"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core, DIA"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Record tip volume and any follow-up in later episodes where the host cites emailed tips."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13393",
+   "header": "**C-13393** Host Says Robinson's Car Was Possibly Driven by His Boyfriend Lance",
+   "label": "Host Says Robinson's Car Was Possibly Driven by His Boyfriend Lance",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she believes Robinson's car was used around campus, possibly driven by his boyfriend Lance, and that she does not buy the story that Lance slept through the entire day."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "possibly driven by his boyfriend, Lance."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-40, N-54, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10168"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Match Lance Twiggs' phone location and activity records on September 10 against the campus vehicle footage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13394",
+   "header": "**C-13394** Host Does Not Believe Robinson Changed Into the Black Flag Shirt",
+   "label": "Host Does Not Believe Robinson Changed Into the Black Flag Shirt",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she does not believe Robinson ever changed on September 10 into a black long-sleeve shirt with an American flag, and does not believe he was on the rooftop."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I do not believe a Tyler Robinson ever changed on September 10th into a black long sleeve shirt shirt featuring an American flag."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-40, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10019, N-10343"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Request the clothing evidence inventory and chain of custody for the black flag shirt and compare it to footage of the person who returned to campus."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13395",
+   "header": "**C-13395** Host Says Converse Sneakers Are Not Enough Evidence",
+   "label": "Host Says Converse Sneakers Are Not Enough Evidence",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Converse sneakers are not convincing enough evidence to put anyone to death and that multiple students could have worn them that day."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I certainly do not believe that the Converse sneakers are convincing enough evidence to put somebody to death."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-40, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10019"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the footwear evidence report and any survey of other Converse-wearing individuals on campus footage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13396",
+   "header": "**C-13396** Host Says a Morning Meeting at UVU Is Plausible Before the Planned Assassination",
+   "label": "Host Says a Morning Meeting at UVU Is Plausible Before the Planned Assassination",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:54"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says it is plausible that a morning meeting took place at UVU ahead of what she calls a very carefully planned assassination."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I think there could have been a morning meeting that happened at UVU ahead of what was in my opinion a very carefully planned assassination."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11315, N-10012"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain UVU room reservations, access logs and calendars for the morning of September 10 to see whether any meeting occurred."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13397",
+   "header": "**C-13397** Host Believes Miss Noble Told the Truth About a Bald Man and Two Others in a Challenger",
+   "label": "Host Believes Miss Noble Told the Truth About a Bald Man and Two Others in a Challenger",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:03"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she thinks Miss Noble and her husband were telling the truth when they said they saw a bald man and two other people in a Dodge Challenger early on September 11."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I think Miss Noble, uh, the neighbor and her husband were telling the truth when she said that she saw a bald man and two other people in a Dodge Challenger"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-899, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10850"
+    },
+    {
+     "k": "Supports",
+     "v": "C-13382"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain Miss Noble's statement, 911 or tip-line record and the neighborhood surveillance referenced in the warrants."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13398",
+   "header": "**C-13398** Host Suspects the Occupants Were Driving a Rental Car",
+   "label": "Host Suspects the Occupants Were Driving a Rental Car",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:20"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she suspects the people in that Dodge Challenger were driving a rental car, and that her best evidence is that no one, least of all the feds, can keep a story straight."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I suspect that those people were driving a rental car"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10850"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check rental agency records for grey Dodge Challengers rented around Salt Lake and Utah counties for September 9 to 11."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13400",
+   "header": "**C-13400** Host Says Early Accounts of Clothes on the Roof and Screwdriver Placement Changed",
+   "label": "Host Says Early Accounts of Clothes on the Roof and Screwdriver Placement Changed",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says early reports were that the killer changed clothes on the rooftop and that the screwdriver was found with the gun in the woods, and that both accounts were later changed so that nobody was changing on the roof and the screwdriver was on the roof."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Clothes in the rooftop, that the screwdriver was found with the gun in the woods, not on the rooftop. That got changed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-40, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10019, N-10343"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Collect the dated early law-enforcement statements and later filings on clothing change location and screwdriver recovery location."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13402",
+   "header": "**C-13402** Host Reads Warrant Description of Robinson's Clothing in the Garage Video",
+   "label": "Host Reads Warrant Description of Robinson's Clothing in the Garage Video",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:42"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads the September 15 warrant narrative as saying the video shows Robinson wearing a ball cap, a red t-shirt, light colored shorts and Converse style tennis shoes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "In the video, Robinson is seen wearing a ball cap, a red t-shirt, light colored shorts, and Converse style tennis shoes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2414.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-40, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10848, N-10019"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the filed September 15 warrant affidavit to verify the clothing description and compare it with the maroon-shirt reporting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13403",
+   "header": "**C-13403** Host Says Hull's Hearing Account Has Robinson Eating at Chick-fil-A Before the Wooded Area",
+   "label": "Host Says Hull's Hearing Account Has Robinson Eating at Chick-fil-A Before the Wooded Area",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:42"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Hull's preliminary hearing account has Maroon Boy return on foot at 10:09 a.m., go to Chick-fil-A, sit down and eat, and then walk around campus to the wooded area where the gun was eventually found."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And he heads to Chick-fil-A, sits down, he eats Chick-fil-A, and then he goes to walk around campus to the wooded area where the gun will eventually be found."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2415.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-860, N-40, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10848"
+    },
+    {
+     "k": "Supports",
+     "v": "C-12039"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the hearing transcript and any Chick-fil-A transaction or camera records for the 10:09 a.m. to 11:00 a.m. window."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13404",
+   "header": "**C-13404** Host Says Hull's Account Has Robinson Sending a Wordle Score at 11:28 Then Changing Clothes",
+   "label": "Host Says Hull's Account Has Robinson Sending a Wordle Score at 11:28 Then Changing Clothes",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Hull's account has Robinson leaving campus around 11:00 a.m., playing Wordle off campus, sending the score to friends at 11:28 and then changing back into his clothes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He plays Wordle off campus, sends that score to his friends at 11:28 and then he changes back into his clothes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2415.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-860, N-40, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10848"
+    },
+    {
+     "k": "Supports",
+     "v": "C-12041"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the 11:28 message metadata and device location against the claimed off-campus timeline."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13405",
+   "header": "**C-13405** Host Says There Is No Evidence He Changed Back Into the Black Flag Shirt",
+   "label": "Host Says There Is No Evidence He Changed Back Into the Black Flag Shirt",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the account that Robinson changed into the black shirt with an American flag again and put on jeans has no evidence behind it and asks viewers to use imagination."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And then he changes into that black shirt with an American flag again. Use your imagination. We have no evidence of that."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2415.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-40, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10019, N-10848"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Request any camera footage of Robinson's vehicle or person off campus between 11:00 a.m. and the return to campus."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13406",
+   "header": "**C-13406** Host Says the Time of the Challenger at Miss Noble's House Changed Across Three Warrants",
+   "label": "Host Says the Time of the Challenger at Miss Noble's House Changed Across Three Warrants",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that after Miss Noble called in, the time the Dodge Challenger was in front of her house was adjusted three times across three different warrants despite being on surveillance."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "That time gets adjusted three times across three different warrants."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-899, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10848, N-10850"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the Challenger-at-Noble-house time in each of the three warrants and the surveillance footage timestamp."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13407",
+   "header": "**C-13407** Host Says Kirk Was Likely Not Shot by a .30-06 and an Explosive Is More Likely",
+   "label": "Host Says Kirk Was Likely Not Shot by a .30-06 and an Explosive Is More Likely",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie Kirk did not have a neck of steel, that a .300 round would have passed through it, that he simply was not shot by a .300 and potentially was not shot at all, and that she thinks an explosive is much more likely."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Actually, we can just assert that he simply was not shot by a 300 6. He potentially was not even shot at all."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10447, N-10974"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the autopsy report, ballistics and explosives-residue analysis, and the wound description from the treating surgeon."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13408",
+   "header": "**C-13408** Host Recounts Early Reports of Activity on Top of the Woodbury Building",
+   "label": "Host Recounts Early Reports of Activity on Top of the Woodbury Building",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:51"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says many people early on kept saying they thought they saw things happening on top of the Woodbury building, which she says is where admissions would be."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "There was a lot of people who early on kept saying that they thought that they saw things happening on top of the Woodberry built building."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3173.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10849, N-10012"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Collect named eyewitness accounts and any photographs or video of the Woodbury building roof from September 10."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13409",
+   "header": "**C-13409** Host Says a Man in a Medical Coat Was Arrested Photographing the Woodbury Building",
+   "label": "Host Says a Man in a Medical Coat Was Arrested Photographing the Woodbury Building",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:51"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says a person was arrested the very next day taking photos outside the Woodbury building, wearing a medical coat because that is what he wore for work, and that nobody talks about it anymore."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "There was also that person that was arrested who was taking photos outside of the Woodbury building that nobody really talks about anymore uh the very next day who was wearing a medical coat"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3173.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10849"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the arrest through UVU police or Orem and Provo booking records for September 11 and the stated charge."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13410",
+   "header": "**C-13410** Host Recalls the Maxfields Had to Issue a Statement About the N88 Plane",
+   "label": "Host Recalls the Maxfields Had to Issue a Statement About the N88 Plane",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that in the early hours people noticed a plane that used to be owned in Romania, the N88 plane owned by Derek Maxfield and Shelaine Maxfield, and that they had to come out and give a statement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "It was their plane. They had to come out and give a statement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3173.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-94, N-200, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11168, N-10849"
+    },
+    {
+     "k": "Supports",
+     "v": "C-4755"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the Maxfield statement text and FAA registration history for the N88 aircraft including the Romania registration."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13411",
+   "header": "**C-13411** Host Says the Maxfields Shared Ownership of the Plane With a Family That Gave UVU $5 Million",
+   "label": "Host Says the Maxfields Shared Ownership of the Plane With a Family That Gave UVU $5 Million",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Maxfields shared ownership of the plane with a couple whose name she first renders as Baum or Bomb, who had given $5 million to UVU and operated their business program."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "they actually shared ownership of that plane uh with a couple last name B Aum Bomb who had given $5 million to UVU"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3173.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-94, N-200, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10849, N-10012"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2002"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check FAA registration and any LLC ownership filings for the aircraft to confirm co-owners."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13412",
+   "header": "**C-13412** Host Says Chelsea and Casey Baugh Donated $5 Million to UVU",
+   "label": "Host Says Chelsea and Casey Baugh Donated $5 Million to UVU",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:06"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host corrects the name to Chelsea and Casey Baugh and says they donated $5 million to UVU at the end of the year going into 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Chelsea and Casey Ba B A U G H donated $5 million to UVU."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3173.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-834, N-900, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10849, N-10012"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the donation amount, date and recipient through UVU foundation announcements and gift agreements."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13413",
+   "header": "**C-13413** Host Says the Baughs' Entrepreneurship Institute Was in the Woodbury Building and They Part-Owned the Plane",
+   "label": "Host Says the Baughs' Entrepreneurship Institute Was in the Woodbury Building and They Part-Owned the Plane",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:06"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Baughs have an entrepreneurship institute that was located in the Woodbury building and were partial owners of the plane, while stressing that this does not mean anything by itself and is only a thread to pull."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "they have an entrepreneurship institute that was located in the Woodbury building and they were partial owners of that plane"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3173.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-834, N-900, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10849, N-10012"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2003"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm the institute's naming and location in UVU records and the Baughs' status in the aircraft ownership records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13414",
+   "header": "**C-13414** Host Asks Woodbury Building Witnesses to Email moretips",
+   "label": "Host Asks Woodbury Building Witnesses to Email moretips",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:06"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host asks students and others who said they saw things in or around the Woodbury building to reach back out to her at the moretips address."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "reach back out to us at more tips@candis. com."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3172.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10849"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core, DIA"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Record tip volume and any follow-up in later episodes where the host cites emailed tips."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13415",
+   "header": "**C-13415** Host Says Boreing Books Guests to Oppose Whatever Topic She Covers",
+   "label": "Host Says Boreing Books Guests to Oppose Whatever Topic She Covers",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that whatever topic she covers, Jeremy Boreing then hosts someone to discuss it and takes the opposite position, and that his show's thumbnails are largely about her and Tucker Carlson."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He will then host someone to talk about the topic I'm covering and u take a position on it that is opposite of mine and call me a demon."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-366, N-3, N-22"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10416, N-10900"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Tabulate Boreing's show topics and guests against the host's show dates for a quantitative comparison."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13416",
+   "header": "**C-13416** Host Says Boreing Built a Diagnosis From Her Saying Selfesteem on a Live Show",
+   "label": "Host Says Boreing Built a Diagnosis From Her Saying Selfesteem on a Live Show",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:06"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Boreing pulled a live-show moment where she sounded like she said selfesteem instead of self esteem and created a diagnosis that she did it to be famous."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "apparently it sounded like I said selfesteem as opposed to self esteem. And so he pulls this second on the show and creates a diagnosis for me."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2408.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-366, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10416"
+    },
+    {
+     "k": "Supports",
+     "v": "C-13417"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate Boreing's original post and the live-show clip it references to confirm the connection."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13419",
+   "header": "**C-13419** Sausalito Says Charlie Called Neff His Secret Weapon",
+   "label": "Sausalito Says Charlie Called Neff His Secret Weapon",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:33:23"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip the host plays, Bobby Sausalito says there is a reason Charlie called Blake Neff his secret weapon, joking that a weapon is supposed to damage the other person and not yourself."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "So, there's a reason Charlie called him his secret weapon."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2406.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-897, N-1, N-159"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find any Kirk statement in which he called Neff a secret weapon, with date and context."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13420",
+   "header": "**C-13420** Sausalito Predicts Boreing Is Securing the Bag From Turning Point",
+   "label": "Sausalito Predicts Boreing Is Securing the Bag From Turning Point",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:35:43"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip the host plays, Sausalito predicts that Boreing wants to continue getting paid by Turning Point, so he needs to run cover for everything they say and rebrand their speakers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Jeremy wants to get paid by Turning Point."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2406.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-897, N-366"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10900"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Seek any contract, sponsorship or payment record between Boreing's company and Turning Point USA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13422",
+   "header": "**C-13422** Host Says Sausalito Got Only the Motive Wrong, Saying Boreing Is Not Doing It for Money",
+   "label": "Host Says Sausalito Got Only the Motive Wrong, Saying Boreing Is Not Doing It for Money",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that the only thing Sausalito got wrong is that Boreing is not doing it for money, and that Boreing is a deranged man stalking her instead."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The only thing that he got wrong in that assessment is that he's not doing it for money."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2406.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-897, N-366, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10416"
+    },
+    {
+     "k": "Contradicts",
+     "v": "C-13420"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare Boreing's podcast sponsorship and TPUSA ties against the host's stalking characterization."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13423",
+   "header": "**C-13423** Host Says Charlie and Boreing Never Liked Each Other",
+   "label": "Host Says Charlie and Boreing Never Liked Each Other",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie Kirk never liked Boreing and Boreing never liked Charlie, and that Boreing does not care about Erika Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Charlie never liked him. He never liked Charlie."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-366, N-2, N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Look for dated communications or public statements between Kirk and Boreing that show their relationship."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13424",
+   "header": "**C-13424** Host Says She Is the Employee Boreing Fired",
+   "label": "Host Says She Is the Employee Boreing Fired",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that she is the employee Boreing fired but that he cannot let go, and that she occupies his every thought."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I am the employee that he fired, but he cannot let go."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-366, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10900"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Reconcile with the host's other accounts of how she left the Daily Wire and the termination or separation paperwork."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13428",
+   "header": "**C-13428** Promo Clip Speaker Says He Has Never Said YouTube Should Ban Candace",
+   "label": "Promo Clip Speaker Says He Has Never Said YouTube Should Ban Candace",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:51"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the Neff and Boreing promo clip, a speaker says he supports maximal free speech and has never once said YouTube should ban Candace."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I have never once said YouTube should ban Candace."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2407.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-366, N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the speaker's prior public statements about platform bans of the host to test the statement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13429",
+   "header": "**C-13429** Promo Clip Speaker Says He Asked Tucker Privately to Have His Brother Stop Pushing Candace",
+   "label": "Promo Clip Speaker Says He Asked Tucker Privately to Have His Brother Stop Pushing Candace",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:44"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the promo clip, a speaker says his last communication with Tucker was a private request to ask Tucker's brother to stop pushing this Candace stuff."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The last communication I had with Tucker was Tucker, just privately, can you ask your brother to just stop pushing this Candace stuff?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2407.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-22, N-3, N-159"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask the speaker for the date and medium of that private exchange and for the text or email."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13430",
+   "header": "**C-13430** Host Says Boreing Sued Her Privately for Years",
+   "label": "Host Says Boreing Sued Her Privately for Years",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:44"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Boreing sued her privately for years throughout court and now, being tired or having no means to sue her since he was forced out of the Daily Wire, brings people on and talks about how she should be sued."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "But the calls to sue me, like he sued me privately for years throughout court."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-366, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10900"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the Daily Wire v. Owens case numbers and filings on the court docket."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13431",
+   "header": "**C-13431** Clip From Another Boreing Episode Says the Host Committed the Worst Public Defamation",
+   "label": "Clip From Another Boreing Episode Says the Host Committed the Worst Public Defamation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:44"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a separate-episode clip the host attributes to Boreing's show, a speaker says Candace Owens has engaged in the worst act of public defamation probably in American history, listing Erika, TPUSA, Mikey McCoy, Andrew Kolvet, Israel, France, Egyptian Airlines and the Macrons."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Candace Owens has engaged in the worst act of public defamation probably in American history."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3170.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2, N-190, N-14, N-366"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10900"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the episode and speaker of the clip and any pending defamation filings naming those parties."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13432",
+   "header": "**C-13432** Clip Speaker Says Candace Has Crossed the Malice and Reckless Disregard Lines",
+   "label": "Clip Speaker Says Candace Has Crossed the Malice and Reckless Disregard Lines",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the second Boreing-show clip, a speaker says defamation of a public figure requires malice and reckless disregard for the truth and that certainly Candace has crossed all those lines."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "andor I'm not sure which, but certainly Candace has crossed all those lines."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3170.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10900"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the cited statements against the actual malice standard in any filed complaint."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13433",
+   "header": "**C-13433** Host Cites Polymarket Odds of a Democratic Sweep at a Record High",
+   "label": "Host Cites Polymarket Odds of a Democratic Sweep at a Record High",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:40:52"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Polymarket dropped odds showing Democrats surging to a record high, with the chance of sweeping both chambers in the 2026 midterms soaring."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Poly Market basically dropped odds and said that Democrats are surging to record high."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2411.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11316"
+    },
+    {
+     "k": "Supports",
+     "v": "C-13439"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the Polymarket midterm contract's price history around the date of this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13435",
+   "header": "**C-13435** Host Says Mark Levin and Others Demand Speech Censorship and State Lawsuits",
+   "label": "Host Says Mark Levin and Others Demand Speech Censorship and State Lawsuits",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:42:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says speech censorship is being platformed and demanded by people such as Mark Levin and a person she names as Andrew Type, and that they want the state involved in lawsuits."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Uh speech censorship that's being platformed, demanded by people like Mark Levin, Andrew Type, people that are asking for the state to get involved um in lawsuits."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-244, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11316"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find Levin's and the second named person's statements calling for state action or lawsuits against the host."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13437",
+   "header": "**C-13437** Host Says GOP Critics Attacked Thomas Massie and Got Him Out",
+   "label": "Host Says GOP Critics Attacked Thomas Massie and Got Him Out",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:42:43"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says GOP figures attacked Thomas Massie and got him out of there."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "You attack Thomas Massie. Got him out of there."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-579, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11316"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check Massie's primary result and outside spending against him as documented in FEC filings."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13438",
+   "header": "**C-13438** Host Says Laura Loomer Called Her a Slur",
+   "label": "Host Says Laura Loomer Called Her a Slur",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Laura Loomer referred to her as a ghetto black followed by an expletive, and questions what that would do for black voter turnout."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "like um Laura Loomer referring to me as a ghetto black"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-60, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11316"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the original Loomer post using the post archive and confirm wording and date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13441",
+   "header": "**C-13441** Host States Her Agenda Is to Find Who Killed Kirk and Why Those Close to Him Lie",
+   "label": "Host States Her Agenda Is to Find Who Killed Kirk and Why Those Close to Him Lie",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:50:06"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her agenda is to find out who killed Charlie Kirk and why people close to him are lying about everything."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I'd like to find out who killed Charlie Kirk and why people that are close to him are lying about everything."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Track which specific statements by people close to Kirk the host identifies as lies across later episodes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13444",
+   "header": "**C-13444** Host Says She Has Lawsuits Going On and Pending",
+   "label": "Host Says She Has Lawsuits Going On and Pending",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:54:47"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she has lawsuits going on and lawsuits pending, and that if Jeremy gets his way somebody else will sue her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I got lawsuits going on and lawsuits pending."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-366"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the active and pending suits involving the host on court dockets."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 6. Meme Register",
+    ""
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-12",
+   "header": "**M-12** (meme) Decentralized Intelligence Agency",
+   "label": "(meme) Decentralized Intelligence Agency",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:54:47"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "...can buy a mug. You can buy a CIA hat. We are the Decentralized Intelligence Agency. And we have a lot in store. Some stuff I am, of course, saving. I got lawsuits going on and lawsui..."
+    },
+    {
+     "k": "Context",
+     "v": "DIA / DCIA brand line from corrected transcript (CKA seq 155)."
+    },
+    {
+     "k": "Tags",
+     "v": "tips_network, brand_joke, transcript_backfill"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:16:38"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Please email us more tips@canniswowens. com."
+    },
+    {
+     "k": "Context",
+     "v": "Host asks for cemetery and Dairy Queen follow-up tips."
+    },
+    {
+     "k": "Tags",
+     "v": "tips_network, tip_line"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:25:06"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "reach back out to us at more tips@candis. com."
+    },
+    {
+     "k": "Context",
+     "v": "Host asks Woodbury building witnesses to send tips."
+    },
+    {
+     "k": "Tags",
+     "v": "tips_network, tip_line"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-13",
+   "header": "**M-13** (meme) Fake and Gay",
+   "label": "(meme) Fake and Gay",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:00:46"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I never thought that we would see fake and gay so beautifully demonstrated in the wild like that."
+    },
+    {
+     "k": "Context",
+     "v": "Host applies the catchphrase to the Neff and Boreing promotional photo."
+    },
+    {
+     "k": "Tags",
+     "v": "fake and gay, neff, boreing"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-147",
+   "header": "**M-147** (meme) Crash Out",
+   "label": "(meme) Crash Out",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:40:52"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "People are crashing out because it's now getting close to midterms"
+    },
+    {
+     "k": "Context",
+     "v": "Host describes conservative influencers melting down over midterm odds."
+    },
+    {
+     "k": "Tags",
+     "v": "crash out, midterms"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-154",
+   "header": "**M-154** (meme) Second Favorite Shirt",
+   "label": "(meme) Second Favorite Shirt",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:00:01"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Yo, you should have worn your second favorite sneakers."
+    },
+    {
+     "k": "Context",
+     "v": "Host jokes about the Converse sneakers commenter."
+    },
+    {
+     "k": "Tags",
+     "v": "converse, second favorite"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:54:47"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "You guys can buy your second favorite shirt."
+    },
+    {
+     "k": "Context",
+     "v": "Host pitches merch with the Converse joke."
+    },
+    {
+     "k": "Tags",
+     "v": "merch, second favorite"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-190",
+   "header": "**M-190** (meme) Superman Neck",
+   "label": "(meme) Superman Neck",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:22:12"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Charlie Kirk, I regret to inform you, did not have a neck of steel."
+    },
+    {
+     "k": "Context",
+     "v": "Host rejects the claim that Kirk's neck stopped a .300 round."
+    },
+    {
+     "k": "Tags",
+     "v": "neck, ballistics"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-199",
+   "header": "**M-199** (meme) Are We Still Talking About the Midterms",
+   "label": "(meme) Are We Still Talking About the Midterms",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:52:51"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Are we still talking about the midterms?"
+    },
+    {
+     "k": "Context",
+     "v": "Host reacts to a viewer comment mocking midterm talk."
+    },
+    {
+     "k": "Tags",
+     "v": "midterms, viewer comment"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-235",
+   "header": "**M-235** (meme) Maroon Boys",
+   "label": "(meme) Maroon Boys",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:03:41"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Dodge Challenger number one we know is connected to the maroon boy who is moving throughout the parking garage structure."
+    },
+    {
+     "k": "Context",
+     "v": "Host uses the singular nickname for the garage Challenger's occupant."
+    },
+    {
+     "k": "Tags",
+     "v": "maroon boy, challenger"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-296",
+   "header": "**M-296** (meme) Waluigi",
+   "label": "(meme) Waluigi",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:03:41"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "We're going to actually um name the person who is operating the second Dodge Challenger, Waluigi"
+    },
+    {
+     "k": "Context",
+     "v": "Host gives the second Challenger's driver a code name."
+    },
+    {
+     "k": "Tags",
+     "v": "code name, challenger"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-297",
+   "header": "**M-297** (meme) Austin Powers Parking",
+   "label": "(meme) Austin Powers Parking",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:01:52"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "he's coming at us like Austin Powers."
+    },
+    {
+     "k": "Context",
+     "v": "Host compares the admin-lot driver's repeated parking attempts to a movie gag."
+    },
+    {
+     "k": "Tags",
+     "v": "austin powers, parking"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-298",
+   "header": "**M-298** (meme) Most Vile Person of the Year",
+   "label": "(meme) Most Vile Person of the Year",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:45:33"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I'm just going to sit here and be vile most per most vile person of the year."
+    },
+    {
+     "k": "Context",
+     "v": "Host refuses to urge voting, adopting a critic's insult."
+    },
+    {
+     "k": "Tags",
+     "v": "vile, midterms"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## VI. Optional Flags",
+    "",
+    "- **Name uncertainty:** Transcript renders the podcaster's name inconsistently – \"Blake Neff\" in the show title and at 36:51; \"Blake Neff\" elsewhere in the transcript body (e.g., 00:46, 29:12, 33:23, 40:52); \"Blake Snuff\" appears as Bobby Sausalito's pronunciation/joke (33:23). Title spelling \"Neff\" used here pending verification.",
+    "- **Name uncertainty:** \"Erika Kirk\" appears as \"Erika Kirk\" at multiple points (e.g., 31:12, 36:12). Both spellings preserved where appearing.",
+    "- **Name uncertainty:** \"Officer Goforth\" appears with varying spacing/capitalization (sometimes \"Goforth\"). Preserved as transcribed.",
+    "- **Name uncertainty:** \"Andrew Kolvit\" appears as \"Andrew Kulevit\" / \"Kulvit\" at varying points. Preserved as transcribed.",
+    "- **Artifact verbally referenced but not shown:** A-2413.3 (Waluigi admin-lot footage), A-2414.1 (Sept 15 search warrant), A-2415.1 (Hull preliminary-hearing testimony) – none displayed in this episode; described by host.",
+    "- **Claim failed admission test:** C-13382 (Miss Noble testimony) retained with explicit anchor-test flag and verification direction; the claim depends on prior-episode reporting rather than a displayed artifact in this episode.",
+    "- **Host-stated research without displayed source artifact:** The Baugh family / UVU donation / N88 plane / Woodbury Building cluster is presented by the host from her own research/notes without a specific displayed source. Nodes,, and N-10849 are inscribed for tracking, but no claim is inscribed on the basis of this material until an artifact anchor is introduced.",
+    "- **Transcript ambiguity:** Timestamps for the X posts (A-2408.1, A-2409.1, A-2410.1, A-2411.1) and the JD Vance clip (A-2412.1) are described as \"approximate, prior to broadcast\" – original posting/publication dates not stated on air.",
+    "- **Transcript ambiguity:** The preliminary-hearing date for Hull's testimony (A-2415.1) is not specified in the transcript; a year-range date (\"2025\") is recorded as a placeholder.",
+    "- **Requires human verification:** Spelling normalization for \"Blake Neff,\" \"Erica/Erika Kirk,\" and \"Officer Goforth/Goforth\" against authoritative sources."
+   ]
+  }
+ ]
+}
