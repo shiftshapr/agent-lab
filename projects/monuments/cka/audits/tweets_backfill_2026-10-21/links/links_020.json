@@ -1,0 +1,920 @@
+[
+ {
+  "id": "2045269754819018919",
+  "nodes": [
+   "N-579"
+  ]
+ },
+ {
+  "id": "2045307741678284848",
+  "claims": [
+   "C-8405",
+   "C-8406"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-2",
+   "N-10626",
+   "N-10125"
+  ]
+ },
+ {
+  "id": "2045309185320010066",
+  "claims": [
+   "C-8408",
+   "C-8399",
+   "C-8394",
+   "C-8386",
+   "C-8407"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-2",
+   "N-69",
+   "N-5",
+   "N-10014",
+   "N-10975",
+   "N-40",
+   "N-10623"
+  ]
+ },
+ {
+  "id": "2045309295244243264",
+  "claims": [
+   "C-8408",
+   "C-8399",
+   "C-8394",
+   "C-8386",
+   "C-8407"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-2",
+   "N-69",
+   "N-5",
+   "N-10014",
+   "N-10975",
+   "N-40",
+   "N-10623"
+  ]
+ },
+ {
+  "id": "2045313489871196341",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2045496879761273093",
+  "nodes": [
+   "N-97"
+  ]
+ },
+ {
+  "id": "2045514081042362733",
+  "nodes": [
+   "N-631"
+  ]
+ },
+ {
+  "id": "2045592038200983799",
+  "nodes": [
+   "N-60"
+  ]
+ },
+ {
+  "id": "2045593015226409191",
+  "nodes": [
+   "N-60"
+  ]
+ },
+ {
+  "id": "2045596122685510079",
+  "claims": [
+   "C-8442",
+   "C-8438"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-60",
+   "N-10628",
+   "N-10630"
+  ]
+ },
+ {
+  "id": "2045598085707907190",
+  "claims": [
+   "C-8442",
+   "C-8438"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-60",
+   "N-10628",
+   "N-10630"
+  ]
+ },
+ {
+  "id": "2045649460236079206",
+  "claims": [
+   "C-8618",
+   "C-8681"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-60"
+  ],
+  "note": "Denies dual citizenship claim; lawsuit-claim point echoes C-8681."
+ },
+ {
+  "id": "2045654478880194957",
+  "claims": [
+   "C-8553",
+   "C-8618",
+   "C-8464"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-60"
+  ]
+ },
+ {
+  "id": "2045658502442471441",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2045659174558708160",
+  "nodes": [
+   "N-49",
+   "N-60",
+   "N-1",
+   "N-2",
+   "N-10000",
+   "N-10539"
+  ]
+ },
+ {
+  "id": "2045661703933665701",
+  "claims": [
+   "C-8623",
+   "C-8618"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-60"
+  ]
+ },
+ {
+  "id": "2045663876918706340",
+  "nodes": [
+   "N-60"
+  ]
+ },
+ {
+  "id": "2045669501111349679",
+  "claims": [
+   "C-8462",
+   "C-8464"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-60",
+   "N-914",
+   "N-22"
+  ]
+ },
+ {
+  "id": "2045679521290989855",
+  "nodes": [
+   "N-420"
+  ]
+ },
+ {
+  "id": "2045852703411130614",
+  "nodes": [
+   "N-10564"
+  ]
+ },
+ {
+  "id": "2045854801989161220",
+  "unlinked": "personal"
+ },
+ {
+  "id": "2045855000136462364",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2045870245001207917",
+  "claims": [
+   "C-8490",
+   "C-8379",
+   "C-8386"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-261",
+   "N-1",
+   "N-10014",
+   "N-10061",
+   "N-10085"
+  ]
+ },
+ {
+  "id": "2045876481818079333",
+  "claims": [
+   "C-8617",
+   "C-9036"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-195",
+   "N-2",
+   "N-14",
+   "N-10447",
+   "N-10323"
+  ]
+ },
+ {
+  "id": "2045878382345289927",
+  "claims": [
+   "C-8617",
+   "C-9036",
+   "C-8692",
+   "C-8613",
+   "C-9035"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-2",
+   "N-14",
+   "N-195",
+   "N-10447",
+   "N-10341",
+   "N-11109",
+   "N-10323"
+  ]
+ },
+ {
+  "id": "2045880511806026172",
+  "claims": [
+   "C-8349"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-10572",
+   "N-10975"
+  ],
+  "note": "Bullet jacket fragment not a match; ATF summary says could not be identified or excluded."
+ },
+ {
+  "id": "2045881093786607770",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "2045883874991907283",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "2045888128511029355",
+  "nodes": [
+   "N-643",
+   "N-10967",
+   "N-10063",
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2045912925802467359",
+  "nodes": [
+   "N-5"
+  ]
+ },
+ {
+  "id": "2045924497430085970",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2045932842568266195",
+  "unlinked": "personal"
+ },
+ {
+  "id": "2045949549202559347",
+  "unlinked": "personal"
+ },
+ {
+  "id": "2045953641438126571",
+  "nodes": [
+   "N-60"
+  ]
+ },
+ {
+  "id": "2045960545270895059",
+  "claims": [
+   "C-8343",
+   "C-8344",
+   "C-8350",
+   "C-8386",
+   "C-8347"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-40",
+   "N-1",
+   "N-10975",
+   "N-10014",
+   "N-9",
+   "N-85",
+   "N-10110"
+  ]
+ },
+ {
+  "id": "2045961451970474311",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "2045973323431952579",
+  "unlinked": "off_topic"
+ },
+ {
+  "id": "2046009985495118119",
+  "claims": [
+   "C-8460"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-60",
+   "N-220",
+   "N-915"
+  ]
+ },
+ {
+  "id": "2046010678863946161",
+  "claims": [
+   "C-8455",
+   "C-8460",
+   "C-8473"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-60",
+   "N-220",
+   "N-915",
+   "N-10629"
+  ]
+ },
+ {
+  "id": "2046016030477033519",
+  "nodes": [
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2046037780891873436",
+  "claims": [
+   "C-8463",
+   "C-8619",
+   "C-8440",
+   "C-8439",
+   "C-8446"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-60",
+   "N-30",
+   "N-220",
+   "N-10630",
+   "N-5"
+  ]
+ },
+ {
+  "id": "2046039739783135511",
+  "nodes": [
+   "N-60",
+   "N-5",
+   "N-599",
+   "N-10628",
+   "N-10630"
+  ]
+ },
+ {
+  "id": "2046040491142074572",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2046040886438473866",
+  "claims": [
+   "C-8473"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-60"
+  ],
+  "note": "Accounts Loomer allegedly operates; host names @titoamboy."
+ },
+ {
+  "id": "2046042209712013444",
+  "claims": [
+   "C-8473"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-60"
+  ],
+  "note": "Accounts Loomer allegedly operates; host names @titoamboy."
+ },
+ {
+  "id": "2046043490023252163",
+  "claims": [
+   "C-8473"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-60"
+  ],
+  "note": "Accounts Loomer allegedly operates; host names @titoamboy."
+ },
+ {
+  "id": "2046045831065669939",
+  "claims": [
+   "C-8473"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-60"
+  ],
+  "note": "Accounts Loomer allegedly operates; host names @titoamboy."
+ },
+ {
+  "id": "2046046659642085757",
+  "nodes": [
+   "N-60"
+  ]
+ },
+ {
+  "id": "2046052418853679473",
+  "claims": [
+   "C-8473"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-60"
+  ],
+  "note": "Accounts Loomer allegedly operates; host names @titoamboy."
+ },
+ {
+  "id": "2046054114828701736",
+  "nodes": [
+   "N-60"
+  ]
+ },
+ {
+  "id": "2046055756915417430",
+  "nodes": [
+   "N-60"
+  ]
+ },
+ {
+  "id": "2046059919913230732",
+  "nodes": [
+   "N-60",
+   "N-22",
+   "N-497"
+  ]
+ },
+ {
+  "id": "2046062210284216775",
+  "nodes": [
+   "N-60",
+   "N-1"
+  ]
+ },
+ {
+  "id": "2046063652751425850",
+  "claims": [
+   "C-8438"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-60",
+   "N-10630"
+  ]
+ },
+ {
+  "id": "2046064281297273072",
+  "nodes": [
+   "N-60",
+   "N-244"
+  ]
+ },
+ {
+  "id": "2046064590627156467",
+  "claims": [
+   "C-8473"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-60"
+  ],
+  "note": "Accounts Loomer allegedly operates; host names @titoamboy."
+ },
+ {
+  "id": "2046191539341164669",
+  "nodes": [
+   "N-60"
+  ]
+ },
+ {
+  "id": "2046210400903938225",
+  "nodes": [
+   "N-60",
+   "N-377"
+  ]
+ },
+ {
+  "id": "2046211967094829435",
+  "nodes": [
+   "N-60"
+  ]
+ },
+ {
+  "id": "2046245823999070538",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "2046273038887330133",
+  "claims": [
+   "C-8449"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-60",
+   "N-10629"
+  ]
+ },
+ {
+  "id": "2046289153315446859",
+  "claims": [
+   "C-8463"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-60",
+   "N-30"
+  ]
+ },
+ {
+  "id": "2046289373822586932",
+  "claims": [
+   "C-8450",
+   "C-8452",
+   "C-8451"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-60",
+   "N-426",
+   "N-10629"
+  ]
+ },
+ {
+  "id": "2046290058563801544",
+  "claims": [
+   "C-8463"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-60",
+   "N-30"
+  ]
+ },
+ {
+  "id": "2046312720279155079",
+  "claims": [
+   "C-8467",
+   "C-8470",
+   "C-8471",
+   "C-8468"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-60",
+   "N-30"
+  ]
+ },
+ {
+  "id": "2046315633101492560",
+  "nodes": [
+   "N-60"
+  ]
+ },
+ {
+  "id": "2046331389386055776",
+  "claims": [
+   "C-8366",
+   "C-8378",
+   "C-8417",
+   "C-8421"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-40",
+   "N-6",
+   "N-5",
+   "N-2",
+   "N-10632",
+   "N-10627"
+  ],
+  "note": "Ep94 promo: grandfather audio, Trump, Arizona (Pinnacle) high school revolt."
+ },
+ {
+  "id": "2046358370420953550",
+  "nodes": [
+   "N-10956",
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2046391728312098996",
+  "claims": [
+   "C-8366",
+   "C-8378",
+   "C-8376"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-40",
+   "N-6",
+   "N-10632"
+  ],
+  "note": "Clip of the grandfather audio played in ep94."
+ },
+ {
+  "id": "2046407516641235347",
+  "claims": [
+   "C-8522",
+   "C-8521",
+   "C-8523"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-159",
+   "N-40"
+  ]
+ },
+ {
+  "id": "2046585500350226581",
+  "claims": [
+   "C-8531",
+   "C-8442",
+   "C-8444"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-60",
+   "N-5",
+   "N-10628"
+  ]
+ },
+ {
+  "id": "2046586554009681966",
+  "claims": [
+   "C-8462"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-60",
+   "N-914"
+  ]
+ },
+ {
+  "id": "2046699862620516388",
+  "claims": [
+   "C-8493",
+   "C-8507",
+   "C-8510",
+   "C-8521"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-563",
+   "N-1",
+   "N-489",
+   "N-159",
+   "N-10908",
+   "N-10907"
+  ],
+  "note": "Ep95 promo: back-camera footage, Lori Frantzve gun company, Blake Neff."
+ },
+ {
+  "id": "2046804127523450948",
+  "nodes": [
+   "N-38",
+   "N-1",
+   "N-22"
+  ]
+ },
+ {
+  "id": "2046805202078998819",
+  "nodes": [
+   "N-38",
+   "N-2",
+   "N-1",
+   "N-10345"
+  ]
+ },
+ {
+  "id": "2046812953802871104",
+  "nodes": [
+   "N-1",
+   "N-10048"
+  ]
+ },
+ {
+  "id": "2047059356672241706",
+  "claims": [
+   "C-8169"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-342",
+   "N-341",
+   "N-10601"
+  ],
+  "note": "Promo for Corby Hall sit-down; same 50,000 guns allegation as ep91 statement."
+ },
+ {
+  "id": "2047066163515994326",
+  "nodes": [
+   "N-60"
+  ]
+ },
+ {
+  "id": "2047109861725663570",
+  "nodes": [
+   "N-10000",
+   "N-2",
+   "N-4"
+  ]
+ },
+ {
+  "id": "2047110200914772008",
+  "claims": [
+   "C-8220",
+   "C-8292",
+   "C-8289",
+   "C-8290",
+   "C-8208"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10000",
+   "N-2",
+   "N-4",
+   "N-14",
+   "N-10617"
+  ]
+ },
+ {
+  "id": "2047112068558717067",
+  "nodes": [
+   "N-10000",
+   "N-1"
+  ]
+ },
+ {
+  "id": "2047112729161556446",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2047286491253014756",
+  "nodes": [
+   "N-553",
+   "N-341",
+   "N-342"
+  ]
+ },
+ {
+  "id": "2047327778740019577",
+  "nodes": [
+   "N-60"
+  ]
+ },
+ {
+  "id": "2047329117473792270",
+  "nodes": [
+   "N-10000",
+   "N-4"
+  ]
+ },
+ {
+  "id": "2047340953745158611",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2047438069700464865",
+  "claims": [
+   "C-8565"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-60",
+   "N-131",
+   "N-5"
+  ]
+ },
+ {
+  "id": "2047440253942734955",
+  "unlinked": "personal"
+ },
+ {
+  "id": "2047442442324959669",
+  "claims": [
+   "C-8150",
+   "C-8149"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-342",
+   "N-341",
+   "N-11048"
+  ]
+ },
+ {
+  "id": "2047444702245294097",
+  "unlinked": "promotion"
+ },
+ {
+  "id": "2047798844591620591",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2047799702301671917",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2049462799626043687",
+  "unlinked": "personal"
+ },
+ {
+  "id": "2049488040301588488",
+  "unlinked": "personal"
+ },
+ {
+  "id": "2049530057970917399",
+  "claims": [
+   "C-8585",
+   "C-8635",
+   "C-8596",
+   "C-8611"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-2",
+   "N-10639",
+   "N-10647"
+  ]
+ },
+ {
+  "id": "2049530979685912822",
+  "nodes": [
+   "N-2",
+   "N-10639"
+  ]
+ },
+ {
+  "id": "2049541985510277307",
+  "unlinked": "personal"
+ },
+ {
+  "id": "2049547492786602061",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "2049547899525103618",
+  "claims": [
+   "C-8598",
+   "C-8635"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-3",
+   "N-2",
+   "N-10647"
+  ]
+ },
+ {
+  "id": "2049548300563407067",
+  "claims": [
+   "C-8598",
+   "C-8635"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-3",
+   "N-2",
+   "N-1",
+   "N-10647"
+  ]
+ }
+]

@@ -1,0 +1,885 @@
+[
+ {
+  "id": "2027598101196738621",
+  "claims": [],
+  "nodes": [
+   "N-1",
+   "N-2",
+   "N-11013",
+   "N-10415"
+  ],
+  "note": "Charlie told a Trinity Church pastor he expected to be killed; no matching claim."
+ },
+ {
+  "id": "2027740756132216930",
+  "claims": [],
+  "nodes": [
+   "N-244",
+   "N-97",
+   "N-1",
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2027774035615006958",
+  "claims": [],
+  "nodes": [
+   "N-1",
+   "N-10539"
+  ]
+ },
+ {
+  "id": "2027776063942603192",
+  "claims": [
+   "C-7129",
+   "C-6784"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-10026",
+   "N-10177"
+  ]
+ },
+ {
+  "id": "2027786924061008167",
+  "claims": [
+   "C-6817"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10026",
+   "N-9"
+  ],
+  "note": "Retweet: Iran war is distraction from Epstein cover-up."
+ },
+ {
+  "id": "2027794531463094429",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "2027807142686683203",
+  "claims": [
+   "C-6817"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-9"
+  ],
+  "note": "Names the operation Epstein Fury, as on air."
+ },
+ {
+  "id": "2027810218466275697",
+  "claims": [],
+  "nodes": [
+   "N-49",
+   "N-9",
+   "N-10888"
+  ]
+ },
+ {
+  "id": "2027830452627579354",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2027831041646326246",
+  "claims": [
+   "C-6783",
+   "C-6784",
+   "C-7089"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-36",
+   "N-1",
+   "N-10539"
+  ]
+ },
+ {
+  "id": "2027838899301527985",
+  "claims": [],
+  "nodes": [
+   "N-755",
+   "N-1",
+   "N-452",
+   "N-10539"
+  ]
+ },
+ {
+  "id": "2027900157694452046",
+  "claims": [],
+  "nodes": [
+   "N-1",
+   "N-3",
+   "N-10000",
+   "N-10539",
+   "N-10543"
+  ]
+ },
+ {
+  "id": "2027907353618583919",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "2028254102719782917",
+  "claims": [],
+  "nodes": [
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2028254710441095321",
+  "claims": [],
+  "nodes": [
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2028582404768563682",
+  "claims": [
+   "C-6782",
+   "C-7111"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-3",
+   "N-36"
+  ],
+  "note": "Retweet of her claim that Netanyahu demanded Iran regime change."
+ },
+ {
+  "id": "2028587549019533451",
+  "claims": [],
+  "nodes": [
+   "N-1",
+   "N-159",
+   "N-190",
+   "N-2",
+   "N-10000"
+  ],
+  "note": "Episode 4 promo; claim says Neff and McCoy said Charlie would back Iran war."
+ },
+ {
+  "id": "2028588181549928798",
+  "claims": [],
+  "nodes": [
+   "N-1",
+   "N-159",
+   "N-190",
+   "N-2",
+   "N-10000"
+  ],
+  "note": "Episode 4 promo; claim says Neff and McCoy said Charlie would back Iran war."
+ },
+ {
+  "id": "2028626917939654884",
+  "claims": [
+   "C-6797"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10015",
+   "N-36",
+   "N-10026",
+   "N-11042"
+  ],
+  "note": "Israeli false flags incl. Lavon Affair; partial overlap with on-air claim."
+ },
+ {
+  "id": "2028634599358677454",
+  "claims": [
+   "C-6910"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-159",
+   "N-2",
+   "N-1"
+  ],
+  "note": "Refers to Erika's Shabbat Shalom promotion."
+ },
+ {
+  "id": "2028635268178231607",
+  "claims": [],
+  "nodes": [
+   "N-159"
+  ]
+ },
+ {
+  "id": "2028669934184603671",
+  "claims": [],
+  "nodes": [
+   "N-2",
+   "N-15",
+   "N-14",
+   "N-99",
+   "N-30",
+   "N-10350",
+   "N-10104",
+   "N-11183"
+  ]
+ },
+ {
+  "id": "2028698950782329195",
+  "claims": [
+   "C-6797"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10015",
+   "N-36",
+   "N-10026",
+   "N-11042"
+  ],
+  "note": "Israeli false flags incl. Lavon Affair; partial overlap with on-air claim."
+ },
+ {
+  "id": "2028860782889320887",
+  "claims": [],
+  "nodes": [
+   "N-60"
+  ]
+ },
+ {
+  "id": "2028872514768716187",
+  "unlinked": "off_topic"
+ },
+ {
+  "id": "2028873089920962988",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2028953520523665858",
+  "claims": [],
+  "nodes": [
+   "N-2",
+   "N-489",
+   "N-11",
+   "N-10395"
+  ],
+  "note": "Episode 5 promo."
+ },
+ {
+  "id": "2029017527087419858",
+  "claims": [],
+  "nodes": [
+   "N-22",
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2029018051627069508",
+  "claims": [],
+  "nodes": [
+   "N-22"
+  ]
+ },
+ {
+  "id": "2029058930257674341",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "2029184902399221848",
+  "claims": [
+   "C-7184"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-49",
+   "N-10000",
+   "N-1",
+   "N-2",
+   "N-10539",
+   "N-10543"
+  ],
+  "note": "Retweet: TPUSA under Erika betraying Charlie's anti-Iran-war stance."
+ },
+ {
+  "id": "2029202840355258702",
+  "claims": [
+   "C-7133",
+   "C-7072"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-11295"
+  ]
+ },
+ {
+  "id": "2029204095567909297",
+  "claims": [],
+  "nodes": [
+   "N-22",
+   "N-244"
+  ]
+ },
+ {
+  "id": "2029206429282750937",
+  "claims": [],
+  "nodes": [
+   "N-11042"
+  ],
+  "note": "Target of quote unknown; 9/11 accusation."
+ },
+ {
+  "id": "2029207663939031446",
+  "claims": [],
+  "nodes": [
+   "N-330",
+   "N-1"
+  ]
+ },
+ {
+  "id": "2029209412057886844",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2029314182332465627",
+  "claims": [],
+  "nodes": [
+   "N-2",
+   "N-10401"
+  ],
+  "note": "Episode 5 promo."
+ },
+ {
+  "id": "2029341389641683167",
+  "claims": [],
+  "nodes": [
+   "N-97",
+   "N-39",
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2029343109188923652",
+  "claims": [
+   "C-7132"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-97",
+   "N-204"
+  ]
+ },
+ {
+  "id": "2029352554988019837",
+  "claims": [],
+  "nodes": [
+   "N-46",
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2029371377564688448",
+  "unlinked": "personal"
+ },
+ {
+  "id": "2029402025612435940",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2029406674830639524",
+  "claims": [],
+  "nodes": [
+   "N-366"
+  ]
+ },
+ {
+  "id": "2029411348388393075",
+  "claims": [],
+  "nodes": [
+   "N-36"
+  ]
+ },
+ {
+  "id": "2029553368541073680",
+  "claims": [],
+  "nodes": [
+   "N-22",
+   "N-11359",
+   "N-50",
+   "N-204"
+  ]
+ },
+ {
+  "id": "2029554812954513915",
+  "claims": [],
+  "nodes": [
+   "N-11359",
+   "N-843",
+   "N-50",
+   "N-862"
+  ]
+ },
+ {
+  "id": "2029556179420995601",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2029557756114387111",
+  "claims": [
+   "C-6723"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-11130",
+   "N-11129"
+  ]
+ },
+ {
+  "id": "2029579493984092539",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2029580600638677256",
+  "claims": [],
+  "nodes": [
+   "N-22",
+   "N-722"
+  ]
+ },
+ {
+  "id": "2029589449911210309",
+  "unlinked": "off_topic"
+ },
+ {
+  "id": "2029589951210271020",
+  "unlinked": "off_topic"
+ },
+ {
+  "id": "2029591135585243271",
+  "claims": [],
+  "nodes": [
+   "N-97",
+   "N-2",
+   "N-3",
+   "N-11026"
+  ]
+ },
+ {
+  "id": "2029592044109263055",
+  "claims": [],
+  "nodes": [
+   "N-97",
+   "N-2",
+   "N-3",
+   "N-11026"
+  ]
+ },
+ {
+  "id": "2029595458671136871",
+  "claims": [
+   "C-7056",
+   "C-7057"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-366",
+   "N-97",
+   "N-10900",
+   "N-3"
+  ]
+ },
+ {
+  "id": "2029597458440007923",
+  "claims": [],
+  "nodes": [
+   "N-603",
+   "N-366",
+   "N-97",
+   "N-10900"
+  ]
+ },
+ {
+  "id": "2029629906070487515",
+  "claims": [],
+  "nodes": [
+   "N-366",
+   "N-10900",
+   "N-603"
+  ]
+ },
+ {
+  "id": "2029638387443921351",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2029642570003779695",
+  "claims": [],
+  "nodes": [
+   "N-366"
+  ]
+ },
+ {
+  "id": "2029643091041243490",
+  "claims": [],
+  "nodes": [
+   "N-366",
+   "N-97",
+   "N-221",
+   "N-101",
+   "N-10900",
+   "N-10416",
+   "N-11244"
+  ]
+ },
+ {
+  "id": "2029649844839542834",
+  "claims": [],
+  "nodes": [
+   "N-366",
+   "N-97",
+   "N-10900"
+  ]
+ },
+ {
+  "id": "2029650672627466744",
+  "claims": [],
+  "nodes": [
+   "N-366"
+  ]
+ },
+ {
+  "id": "2029689440109580600",
+  "claims": [],
+  "nodes": [
+   "N-2",
+   "N-1",
+   "N-10000",
+   "N-11044",
+   "N-10374"
+  ],
+  "note": "Episode promo."
+ },
+ {
+  "id": "2029716664082661816",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2029744233691648170",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2029753789092073908",
+  "claims": [],
+  "nodes": [
+   "N-366",
+   "N-10900",
+   "N-211",
+   "N-10006"
+  ]
+ },
+ {
+  "id": "2029754762418130999",
+  "claims": [],
+  "nodes": [
+   "N-366"
+  ]
+ },
+ {
+  "id": "2029757012234412466",
+  "claims": [],
+  "nodes": [
+   "N-11359",
+   "N-178",
+   "N-5"
+  ]
+ },
+ {
+  "id": "2029759944027783313",
+  "claims": [],
+  "nodes": [
+   "N-46"
+  ]
+ },
+ {
+  "id": "2029760692538970202",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2029764265419129150",
+  "claims": [
+   "C-7057"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-366",
+   "N-221",
+   "N-10900",
+   "N-11040",
+   "N-11244"
+  ]
+ },
+ {
+  "id": "2029768104679534708",
+  "claims": [],
+  "nodes": [
+   "N-366",
+   "N-221",
+   "N-10416"
+  ]
+ },
+ {
+  "id": "2029775983515984363",
+  "claims": [],
+  "nodes": [
+   "N-1"
+  ]
+ },
+ {
+  "id": "2029784188245688427",
+  "claims": [],
+  "nodes": [
+   "N-46",
+   "N-244",
+   "N-97",
+   "N-452",
+   "N-298",
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2029785688053334262",
+  "claims": [],
+  "nodes": [
+   "N-366",
+   "N-27",
+   "N-11117"
+  ]
+ },
+ {
+  "id": "2029915844113805721",
+  "claims": [],
+  "nodes": [
+   "N-6",
+   "N-3",
+   "N-1"
+  ]
+ },
+ {
+  "id": "2029916455886622977",
+  "claims": [
+   "C-6784",
+   "C-7129"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1"
+  ],
+  "note": "Charlie Kirk killed as obstacle to the Iran war."
+ },
+ {
+  "id": "2029929842213339475",
+  "claims": [
+   "C-7138",
+   "C-6704",
+   "C-6799"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-5",
+   "N-10026",
+   "N-11128"
+  ],
+  "note": "The conscientious-objection post that Ackman attacked, per the on-air claims."
+ },
+ {
+  "id": "2029962677540229607",
+  "claims": [],
+  "nodes": [
+   "N-22"
+  ]
+ },
+ {
+  "id": "2029965751239479557",
+  "claims": [],
+  "nodes": [
+   "N-22"
+  ]
+ },
+ {
+  "id": "2029971003829367255",
+  "claims": [],
+  "nodes": [
+   "N-60"
+  ]
+ },
+ {
+  "id": "2029971542436622721",
+  "claims": [],
+  "nodes": [
+   "N-10895"
+  ]
+ },
+ {
+  "id": "2029990665887641605",
+  "claims": [],
+  "nodes": [
+   "N-570"
+  ]
+ },
+ {
+  "id": "2030010817593155784",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "2030012027796656637",
+  "claims": [
+   "C-7068"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-11033",
+   "N-10001",
+   "N-11126",
+   "N-50"
+  ]
+ },
+ {
+  "id": "2030012229261689131",
+  "claims": [
+   "C-7068"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-11033",
+   "N-10001",
+   "N-11126",
+   "N-50"
+  ]
+ },
+ {
+  "id": "2030021736968646805",
+  "claims": [],
+  "nodes": [
+   "N-5"
+  ]
+ },
+ {
+  "id": "2030089090083737936",
+  "claims": [],
+  "nodes": [
+   "N-49",
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2030275295001878808",
+  "claims": [
+   "C-7138",
+   "C-6704",
+   "C-6799"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-5",
+   "N-10026",
+   "N-11128"
+  ],
+  "note": "The conscientious-objection post that Ackman attacked, per the on-air claims."
+ },
+ {
+  "id": "2030277322901803083",
+  "claims": [],
+  "nodes": [
+   "N-553"
+  ]
+ },
+ {
+  "id": "2030279113559175175",
+  "claims": [
+   "C-7138",
+   "C-6704"
+  ],
+  "relation": "same_allegation",
+  "nodes": [],
+  "note": "Reiterates call not to serve; claims record her objection remark."
+ },
+ {
+  "id": "2030279658801950997",
+  "claims": [
+   "C-6784",
+   "C-7129",
+   "C-7146"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1"
+  ]
+ },
+ {
+  "id": "2030280231441891499",
+  "claims": [
+   "C-7138",
+   "C-6704"
+  ],
+  "relation": "same_allegation",
+  "nodes": [],
+  "note": "Reiterates call not to serve; claims record her objection remark."
+ },
+ {
+  "id": "2030292977076109401",
+  "claims": [
+   "C-6799",
+   "C-7138",
+   "C-6704"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-37",
+   "N-1",
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2030372573725290782",
+  "claims": [],
+  "nodes": [
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2030453459971891569",
+  "claims": [],
+  "nodes": [
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2030454453933838569",
+  "claims": [],
+  "nodes": [
+   "N-889",
+   "N-2"
+  ]
+ },
+ {
+  "id": "2030454735996690624",
+  "claims": [
+   "C-6704",
+   "C-7138",
+   "C-6799"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-49",
+   "N-37",
+   "N-3"
+  ]
+ },
+ {
+  "id": "2030483617583882647",
+  "claims": [],
+  "nodes": [
+   "N-330",
+   "N-10000",
+   "N-11",
+   "N-10167"
+  ]
+ },
+ {
+  "id": "2030724748804538602",
+  "unlinked": "retweet_no_comment"
+ }
+]

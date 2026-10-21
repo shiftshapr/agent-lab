@@ -1,0 +1,922 @@
+[
+ {
+  "id": "1983328053519688164",
+  "claims": [
+   "C-1966",
+   "C-2113"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-69",
+   "N-209",
+   "N-329",
+   "N-1",
+   "N-10355",
+   "N-10202"
+  ]
+ },
+ {
+  "id": "1983343258475606137",
+  "claims": [],
+  "nodes": [
+   "N-176",
+   "N-10183"
+  ],
+  "note": "Asks whether a company is the Erikson Boyd firm tied on air to medical examiner Deirdre Amaro."
+ },
+ {
+  "id": "1983344608575897701",
+  "claims": [],
+  "nodes": [
+   "N-69",
+   "N-10968",
+   "N-10014",
+   "N-10202",
+   "N-10355"
+  ]
+ },
+ {
+  "id": "1983553263426547772",
+  "claims": [],
+  "nodes": [
+   "N-1"
+  ]
+ },
+ {
+  "id": "1983556478394093613",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1983633702577139878",
+  "claims": [
+   "C-1947",
+   "C-1985"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-5",
+   "N-1",
+   "N-10000",
+   "N-10200",
+   "N-10353"
+  ],
+  "note": "Show teaser for the episode airing these claims."
+ },
+ {
+  "id": "1983635088027037914",
+  "claims": [],
+  "nodes": [
+   "N-10026"
+  ]
+ },
+ {
+  "id": "1983659366835482932",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "1983663626541265334",
+  "claims": [
+   "C-2629"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-9"
+  ]
+ },
+ {
+  "id": "1983667037588398253",
+  "claims": [
+   "C-1963"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-5",
+   "N-754",
+   "N-1"
+  ]
+ },
+ {
+  "id": "1983670635651068394",
+  "unlinked": "personal"
+ },
+ {
+  "id": "1983686663739207936",
+  "claims": [
+   "C-2032",
+   "C-2063"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-39",
+   "N-55",
+   "N-10070",
+   "N-22",
+   "N-1"
+  ]
+ },
+ {
+  "id": "1983687415396196674",
+  "claims": [
+   "C-2032",
+   "C-2034",
+   "C-1773"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-55",
+   "N-10070",
+   "N-22",
+   "N-1"
+  ]
+ },
+ {
+  "id": "1983735747783065853",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1983909109922672661",
+  "unlinked": "promotion"
+ },
+ {
+  "id": "1983912519128216006",
+  "claims": [],
+  "nodes": [
+   "N-39",
+   "N-55"
+  ]
+ },
+ {
+  "id": "1983913454994923739",
+  "claims": [
+   "C-2053",
+   "C-2034",
+   "C-2032"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-55",
+   "N-11221",
+   "N-1"
+  ]
+ },
+ {
+  "id": "1983981535465488609",
+  "claims": [
+   "C-2396"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10026"
+  ]
+ },
+ {
+  "id": "1983995690557841910",
+  "claims": [
+   "C-2021",
+   "C-2022",
+   "C-2015"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-69",
+   "N-10074",
+   "N-10204",
+   "N-10253",
+   "N-1"
+  ]
+ },
+ {
+  "id": "1984027511618171131",
+  "claims": [],
+  "nodes": [
+   "N-199",
+   "N-10026"
+  ]
+ },
+ {
+  "id": "1984111064611725536",
+  "claims": [
+   "C-1789",
+   "C-2056"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-199"
+  ]
+ },
+ {
+  "id": "1984113568363491612",
+  "claims": [],
+  "nodes": [
+   "N-1",
+   "N-22"
+  ]
+ },
+ {
+  "id": "1984360522989650260",
+  "claims": [
+   "C-2175"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-10000",
+   "N-10209"
+  ],
+  "note": "Show teaser; infiltration claim aired that day."
+ },
+ {
+  "id": "1984386358006485037",
+  "claims": [],
+  "nodes": [
+   "N-188",
+   "N-10000"
+  ]
+ },
+ {
+  "id": "1984434544133509347",
+  "claims": [],
+  "nodes": [
+   "N-10026"
+  ]
+ },
+ {
+  "id": "1984446969515762039",
+  "claims": [],
+  "nodes": [
+   "N-199",
+   "N-10063"
+  ],
+  "note": "Promotion of the Finkelstein interview."
+ },
+ {
+  "id": "1984450995728916817",
+  "claims": [],
+  "nodes": [
+   "N-10026"
+  ]
+ },
+ {
+  "id": "1984471685806870826",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "1984656574292336675",
+  "claims": [],
+  "nodes": [
+   "N-199",
+   "N-9"
+  ]
+ },
+ {
+  "id": "1984665129468735849",
+  "claims": [],
+  "nodes": [
+   "N-199"
+  ]
+ },
+ {
+  "id": "1984666106569900231",
+  "claims": [],
+  "nodes": [
+   "N-1",
+   "N-190",
+   "N-10211"
+  ]
+ },
+ {
+  "id": "1984690820658733273",
+  "claims": [],
+  "nodes": [
+   "N-1"
+  ]
+ },
+ {
+  "id": "1984999697480667585",
+  "claims": [],
+  "nodes": [
+   "N-37",
+   "N-1",
+   "N-608",
+   "N-10673",
+   "N-10027",
+   "N-10026"
+  ]
+ },
+ {
+  "id": "1985059688963088847",
+  "claims": [
+   "C-2246",
+   "C-2292",
+   "C-2699"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-69",
+   "N-212",
+   "N-10014"
+  ]
+ },
+ {
+  "id": "1985088491391258838",
+  "claims": [],
+  "nodes": [
+   "N-46",
+   "N-10406"
+  ]
+ },
+ {
+  "id": "1985155439051296932",
+  "claims": [],
+  "nodes": [
+   "N-2",
+   "N-10216"
+  ],
+  "note": "Quotes the report Kolvet disputed (Erika to accept Israeli award)."
+ },
+ {
+  "id": "1985155862046872009",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1985156379221405832",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1985163731060568372",
+  "claims": [],
+  "nodes": [
+   "N-222"
+  ],
+  "note": "Quotes the RJC Randy Fine sign-waving clip."
+ },
+ {
+  "id": "1985164116168765683",
+  "claims": [],
+  "nodes": [
+   "N-22"
+  ]
+ },
+ {
+  "id": "1985164582394941520",
+  "claims": [],
+  "nodes": [
+   "N-222"
+  ],
+  "note": "Self-retweet of 1985163731060568372."
+ },
+ {
+  "id": "1985168110043734388",
+  "claims": [
+   "C-2181"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-222",
+   "N-22"
+  ]
+ },
+ {
+  "id": "1985168416127250805",
+  "claims": [
+   "C-2181"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-222",
+   "N-22"
+  ]
+ },
+ {
+  "id": "1985168716762693796",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1985187465800360409",
+  "claims": [],
+  "nodes": [
+   "N-10248"
+  ]
+ },
+ {
+  "id": "1985188892518252598",
+  "claims": [
+   "C-2243",
+   "C-2246",
+   "C-1966"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-49",
+   "N-69",
+   "N-212",
+   "N-10014",
+   "N-10355"
+  ]
+ },
+ {
+  "id": "1985346648227086578",
+  "claims": [],
+  "nodes": [
+   "N-5",
+   "N-1"
+  ]
+ },
+ {
+  "id": "1985369683629912078",
+  "claims": [
+   "C-2218"
+  ],
+  "relation": "shown_on_air",
+  "nodes": [
+   "N-14",
+   "N-10894",
+   "N-2",
+   "N-10216"
+  ]
+ },
+ {
+  "id": "1985379465245954253",
+  "claims": [
+   "C-2219"
+  ],
+  "relation": "contradicts",
+  "nodes": [
+   "N-10894",
+   "N-10216",
+   "N-2"
+  ],
+  "note": "Disputes Starr's word 'wavered': says the press office lied."
+ },
+ {
+  "id": "1985383239049953357",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1985421670174081402",
+  "claims": [],
+  "nodes": [
+   "N-22",
+   "N-97"
+  ]
+ },
+ {
+  "id": "1985443531469607296",
+  "claims": [],
+  "nodes": [
+   "N-97",
+   "N-22"
+  ]
+ },
+ {
+  "id": "1985444097230852263",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1985453559328944246",
+  "claims": [
+   "C-2246"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-97",
+   "N-22",
+   "N-2",
+   "N-69",
+   "N-212"
+  ],
+  "note": "Show teaser."
+ },
+ {
+  "id": "1985526238539137102",
+  "claims": [],
+  "nodes": [
+   "N-1"
+  ]
+ },
+ {
+  "id": "1985693101684335093",
+  "claims": [
+   "C-2213"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-22"
+  ]
+ },
+ {
+  "id": "1985739716960956603",
+  "claims": [],
+  "nodes": [
+   "N-201",
+   "N-163"
+  ]
+ },
+ {
+  "id": "1985740267740082577",
+  "claims": [],
+  "nodes": [
+   "N-201"
+  ]
+ },
+ {
+  "id": "1985759226896007384",
+  "claims": [],
+  "nodes": [
+   "N-1"
+  ]
+ },
+ {
+  "id": "1985816250518282642",
+  "claims": [
+   "C-2295"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-69",
+   "N-1",
+   "N-10026",
+   "N-10222"
+  ],
+  "note": "Show teaser; Israel referred to as country the size of New Jersey."
+ },
+ {
+  "id": "1985816371653922960",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1985844499739001064",
+  "claims": [
+   "C-2344"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-221"
+  ]
+ },
+ {
+  "id": "1985860425490088400",
+  "claims": [
+   "C-2345"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-22",
+   "N-221",
+   "N-10026"
+  ]
+ },
+ {
+  "id": "1985864155300081847",
+  "claims": [
+   "C-2295",
+   "C-2405"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-188",
+   "N-69",
+   "N-10222",
+   "N-10012",
+   "N-1",
+   "N-10026"
+  ]
+ },
+ {
+  "id": "1985868228732862823",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1985874593329156302",
+  "claims": [],
+  "nodes": [
+   "N-118"
+  ]
+ },
+ {
+  "id": "1985877443945615537",
+  "claims": [
+   "C-2295"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10222",
+   "N-10012",
+   "N-1"
+  ]
+ },
+ {
+  "id": "1985915671042277599",
+  "claims": [],
+  "nodes": [
+   "N-10209"
+  ]
+ },
+ {
+  "id": "1986089942921916606",
+  "claims": [
+   "C-2329"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-22"
+  ]
+ },
+ {
+  "id": "1986090556645064946",
+  "claims": [],
+  "nodes": [
+   "N-1",
+   "N-22"
+  ]
+ },
+ {
+  "id": "1986091231894487349",
+  "claims": [],
+  "nodes": [
+   "N-1"
+  ]
+ },
+ {
+  "id": "1986100200448950288",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1986100579811377445",
+  "claims": [
+   "C-2437"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10232"
+  ],
+  "note": "Likely the clearer green-hoodie image she says she posted; inferred from timing."
+ },
+ {
+  "id": "1986103772523687967",
+  "claims": [
+   "C-2295",
+   "C-2405",
+   "C-2406"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10222",
+   "N-10012",
+   "N-1",
+   "N-69",
+   "N-10068",
+   "N-10026"
+  ]
+ },
+ {
+  "id": "1986153404956352860",
+  "claims": [],
+  "nodes": [
+   "N-10012",
+   "N-1",
+   "N-10224",
+   "N-130"
+  ]
+ },
+ {
+  "id": "1986159855803961801",
+  "claims": [],
+  "nodes": [
+   "N-10012",
+   "N-1",
+   "N-10224"
+  ]
+ },
+ {
+  "id": "1986160069927428360",
+  "claims": [],
+  "nodes": [
+   "N-1",
+   "N-10000",
+   "N-10002"
+  ]
+ },
+ {
+  "id": "1986182002446303621",
+  "claims": [
+   "C-2343",
+   "C-2432",
+   "C-2296"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-9",
+   "N-1",
+   "N-10319"
+  ]
+ },
+ {
+  "id": "1986183023625179597",
+  "claims": [
+   "C-2365",
+   "C-2367",
+   "C-2331"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-223",
+   "N-37",
+   "N-1",
+   "N-221",
+   "N-11226"
+  ],
+  "note": "Show teaser."
+ },
+ {
+  "id": "1986209921193697774",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1986215891982544997",
+  "claims": [],
+  "nodes": [
+   "N-9",
+   "N-1",
+   "N-10026"
+  ]
+ },
+ {
+  "id": "1986217082460004773",
+  "claims": [
+   "C-2432",
+   "C-2296"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-85",
+   "N-222",
+   "N-10319"
+  ]
+ },
+ {
+  "id": "1986218411488149783",
+  "claims": [],
+  "nodes": [
+   "N-1",
+   "N-223"
+  ]
+ },
+ {
+  "id": "1986232672281059833",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1986232836978839976",
+  "claims": [
+   "C-2387"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-2",
+   "N-211"
+  ]
+ },
+ {
+  "id": "1986234387864690979",
+  "claims": [],
+  "nodes": [
+   "N-3"
+  ]
+ },
+ {
+  "id": "1986277773372014931",
+  "claims": [],
+  "nodes": [
+   "N-201"
+  ]
+ },
+ {
+  "id": "1986441033605951597",
+  "claims": [
+   "C-2408"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-27",
+   "N-3"
+  ]
+ },
+ {
+  "id": "1986442068319724002",
+  "claims": [
+   "C-2413"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-3"
+  ]
+ },
+ {
+  "id": "1986442728478056957",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1986443738831274001",
+  "claims": [
+   "C-2407",
+   "C-2481"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-875",
+   "N-377",
+   "N-82"
+  ]
+ },
+ {
+  "id": "1986446524251803831",
+  "claims": [
+   "C-2444",
+   "C-2446",
+   "C-2322"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-227",
+   "N-10012",
+   "N-10224",
+   "N-10000"
+  ]
+ },
+ {
+  "id": "1986448953563308403",
+  "claims": [
+   "C-2281",
+   "C-2285",
+   "C-2427"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-227",
+   "N-2",
+   "N-1",
+   "N-10230",
+   "N-10224",
+   "N-10012",
+   "N-10000"
+  ]
+ },
+ {
+  "id": "1986450856175141304",
+  "claims": [
+   "C-2319",
+   "C-2450"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-10000"
+  ]
+ },
+ {
+  "id": "1986452882879574518",
+  "unlinked": "promotion"
+ },
+ {
+  "id": "1986462238199214516",
+  "claims": [],
+  "nodes": [
+   "N-189",
+   "N-1",
+   "N-5"
+  ]
+ },
+ {
+  "id": "1986463244731515083",
+  "claims": [],
+  "nodes": [
+   "N-1"
+  ]
+ },
+ {
+  "id": "1986465827189858400",
+  "claims": [
+   "C-2412",
+   "C-2411"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-11099",
+   "N-82",
+   "N-377"
+  ]
+ },
+ {
+  "id": "1986467366818001224",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1986467834138951755",
+  "unlinked": "retweet_no_comment"
+ }
+]

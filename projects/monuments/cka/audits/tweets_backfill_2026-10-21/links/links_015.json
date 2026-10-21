@@ -1,0 +1,948 @@
+[
+ {
+  "id": "2030727109887332642",
+  "unlinked": "off_topic",
+  "note": "Scottsdale PD trafficking bust; no archive node."
+ },
+ {
+  "id": "2030727461730648493",
+  "unlinked": "off_topic"
+ },
+ {
+  "id": "2030774147039527114",
+  "unlinked": "off_topic"
+ },
+ {
+  "id": "2030977162228973758",
+  "claims": [],
+  "nodes": [
+   "N-46",
+   "N-1"
+  ],
+  "note": "Megyn Kelly RT; 'he' is Charlie Kirk (killed ~5 months after quoted post)."
+ },
+ {
+  "id": "2030990008388047231",
+  "claims": [],
+  "nodes": [
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2031006376949059955",
+  "claims": [
+   "C-6706"
+  ],
+  "relation": "shown_on_air",
+  "nodes": [
+   "N-22"
+  ],
+  "note": "Tucker post displayed on ep 75."
+ },
+ {
+  "id": "2031051515729789206",
+  "claims": [
+   "C-6704"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10026"
+  ],
+  "note": "RT urging not to join the military to die for Israel."
+ },
+ {
+  "id": "2031107549370458147",
+  "claims": [
+   "C-6784",
+   "C-6783",
+   "C-6799",
+   "C-6765"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-5",
+   "N-1",
+   "N-10026",
+   "N-11128"
+  ],
+  "note": "Ep 75 rundown."
+ },
+ {
+  "id": "2031138293903978741",
+  "unlinked": "off_topic",
+  "note": "General self-description; no specific node."
+ },
+ {
+  "id": "2031182580364546282",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2031204951515398257",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2031210816171643292",
+  "claims": [],
+  "nodes": [
+   "N-154",
+   "N-3",
+   "N-11131"
+  ]
+ },
+ {
+  "id": "2031376432627077520",
+  "claims": [
+   "C-6734",
+   "C-6821",
+   "C-6708"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-11129",
+   "N-324",
+   "N-570",
+   "N-224"
+  ]
+ },
+ {
+  "id": "2031378186253087090",
+  "claims": [
+   "C-6822"
+  ],
+  "relation": "same_allegation",
+  "nodes": [],
+  "note": "Occult traditions passed down in families for centuries."
+ },
+ {
+  "id": "2031381750346100845",
+  "claims": [
+   "C-6905",
+   "C-6967"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-204",
+   "N-1",
+   "N-10025",
+   "N-10047"
+  ]
+ },
+ {
+  "id": "2031382400622801344",
+  "claims": [],
+  "nodes": [
+   "N-10015",
+   "N-11042"
+  ]
+ },
+ {
+  "id": "2031385075862872426",
+  "claims": [
+   "C-6810",
+   "C-6811"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-2",
+   "N-10929"
+  ]
+ },
+ {
+  "id": "2031421685358829703",
+  "claims": [],
+  "nodes": [
+   "N-3",
+   "N-10929"
+  ]
+ },
+ {
+  "id": "2031434147525177405",
+  "claims": [
+   "C-6810"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-5",
+   "N-2",
+   "N-10929"
+  ]
+ },
+ {
+  "id": "2031472977129148765",
+  "claims": [
+   "C-6860",
+   "C-6857",
+   "C-6863",
+   "C-6861"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-2",
+   "N-9",
+   "N-10519",
+   "N-10532"
+  ],
+  "note": "Ep 76 rundown."
+ },
+ {
+  "id": "2031474842696855871",
+  "claims": [
+   "C-6899"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-159"
+  ],
+  "note": "Asks why segment was cut from the stream."
+ },
+ {
+  "id": "2031475171794534477",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2031498377448272204",
+  "claims": [],
+  "nodes": [
+   "N-553",
+   "N-22"
+  ]
+ },
+ {
+  "id": "2031499131579973809",
+  "unlinked": "off_topic"
+ },
+ {
+  "id": "2031499638520398037",
+  "claims": [
+   "C-6899"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-159"
+  ],
+  "note": "Clarifies: removed from Twitter stream only, not Rumble."
+ },
+ {
+  "id": "2031544920821964960",
+  "claims": [],
+  "nodes": [
+   "N-3"
+  ]
+ },
+ {
+  "id": "2031546295958081798",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2031745697851072543",
+  "unlinked": "off_topic",
+  "note": "Dispute with David Icke; no node."
+ },
+ {
+  "id": "2031746068853973206",
+  "unlinked": "off_topic"
+ },
+ {
+  "id": "2031748287342989469",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "2031832247230177512",
+  "claims": [
+   "C-6912",
+   "C-6860",
+   "C-6857"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-2",
+   "N-9",
+   "N-10519",
+   "N-10532"
+  ]
+ },
+ {
+  "id": "2031878258623393902",
+  "claims": [
+   "C-7112",
+   "C-6786"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-39",
+   "N-5",
+   "N-11145"
+  ]
+ },
+ {
+  "id": "2031878867254726714",
+  "claims": [
+   "C-6982",
+   "C-6980"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-178",
+   "N-584",
+   "N-585",
+   "N-586"
+  ]
+ },
+ {
+  "id": "2031879640978006437",
+  "claims": [
+   "C-6983",
+   "C-6981",
+   "C-6982",
+   "C-6980",
+   "C-6985"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-178",
+   "N-659",
+   "N-5",
+   "N-584",
+   "N-585",
+   "N-586",
+   "N-69",
+   "N-579",
+   "N-9",
+   "N-11343"
+  ]
+ },
+ {
+  "id": "2031892870290985273",
+  "claims": [
+   "C-6971",
+   "C-6914",
+   "C-6992",
+   "C-6993",
+   "C-6825"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-2",
+   "N-9",
+   "N-568",
+   "N-14",
+   "N-69",
+   "N-1",
+   "N-10519",
+   "N-11292",
+   "N-11390",
+   "N-10701"
+  ]
+ },
+ {
+  "id": "2031893257597186096",
+  "claims": [
+   "C-6983",
+   "C-6991"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-5",
+   "N-9",
+   "N-584",
+   "N-585",
+   "N-586",
+   "N-11343"
+  ],
+  "note": "'Real estate buddies' = Alexander brothers per thread context."
+ },
+ {
+  "id": "2031923795871604796",
+  "claims": [],
+  "nodes": [
+   "N-10026",
+   "N-11042"
+  ]
+ },
+ {
+  "id": "2031928350839882172",
+  "claims": [],
+  "nodes": [
+   "N-10083",
+   "N-648",
+   "N-49",
+   "N-5",
+   "N-10081"
+  ]
+ },
+ {
+  "id": "2032067410476614055",
+  "claims": [],
+  "nodes": [
+   "N-22",
+   "N-10541"
+  ]
+ },
+ {
+  "id": "2032068241338593324",
+  "claims": [
+   "C-6990",
+   "C-6989",
+   "C-7149"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-178",
+   "N-5",
+   "N-10063"
+  ]
+ },
+ {
+  "id": "2032108064543821985",
+  "claims": [],
+  "nodes": [
+   "N-489",
+   "N-387",
+   "N-2"
+  ]
+ },
+ {
+  "id": "2032108457554313663",
+  "claims": [
+   "C-7146",
+   "C-7149",
+   "C-6782"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10026",
+   "N-5",
+   "N-178",
+   "N-36"
+  ]
+ },
+ {
+  "id": "2032147296029155764",
+  "claims": [],
+  "nodes": [
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2032183482990965231",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "2032184098832220359",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2032194588367114589",
+  "claims": [
+   "C-7024",
+   "C-7031",
+   "C-7037",
+   "C-7017",
+   "C-7016"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-9"
+  ],
+  "note": "Ep 78 rundown (typo version)."
+ },
+ {
+  "id": "2032195813380624866",
+  "claims": [
+   "C-7024",
+   "C-7031",
+   "C-7037",
+   "C-7017",
+   "C-7016"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-9"
+  ],
+  "note": "Ep 78 rundown."
+ },
+ {
+  "id": "2032196009242050698",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2032227178834780335",
+  "claims": [],
+  "nodes": [
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2032237537259929936",
+  "claims": [],
+  "nodes": [
+   "N-14"
+  ]
+ },
+ {
+  "id": "2032242788511748337",
+  "claims": [
+   "C-7101"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-46",
+   "N-97",
+   "N-2",
+   "N-3",
+   "N-22",
+   "N-1",
+   "N-10406"
+  ],
+  "note": "Kelly says Shapiro attacked her on stage at the TP event."
+ },
+ {
+  "id": "2032246933239275978",
+  "claims": [
+   "C-7084",
+   "C-7077",
+   "C-7081",
+   "C-7099",
+   "C-7100"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-97",
+   "N-1",
+   "N-10000",
+   "N-11064",
+   "N-10543"
+  ]
+ },
+ {
+  "id": "2032248630308917481",
+  "claims": [],
+  "nodes": [
+   "N-97",
+   "N-1",
+   "N-10543"
+  ]
+ },
+ {
+  "id": "2032252935988498769",
+  "claims": [],
+  "nodes": [
+   "N-1",
+   "N-10543"
+  ]
+ },
+ {
+  "id": "2032258104180543681",
+  "claims": [],
+  "nodes": [
+   "N-1",
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2032297929541632337",
+  "claims": [],
+  "nodes": [
+   "N-154"
+  ]
+ },
+ {
+  "id": "2032298272912523710",
+  "claims": [],
+  "nodes": [
+   "N-553",
+   "N-11188"
+  ]
+ },
+ {
+  "id": "2032309376988377343",
+  "claims": [],
+  "nodes": [
+   "N-49",
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2032309777687081403",
+  "claims": [],
+  "nodes": [
+   "N-10063"
+  ]
+ },
+ {
+  "id": "2032310881787277663",
+  "claims": [],
+  "nodes": [
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2032311481283313942",
+  "claims": [],
+  "nodes": [
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2032312384711258114",
+  "claims": [],
+  "nodes": [
+   "N-3",
+   "N-1"
+  ]
+ },
+ {
+  "id": "2032454879092891789",
+  "claims": [],
+  "nodes": [
+   "N-1"
+  ]
+ },
+ {
+  "id": "2032461761895358636",
+  "claims": [],
+  "nodes": [
+   "N-9"
+  ]
+ },
+ {
+  "id": "2032468132598587606",
+  "claims": [],
+  "nodes": [
+   "N-11033",
+   "N-10401"
+  ]
+ },
+ {
+  "id": "2032468702654853536",
+  "claims": [],
+  "nodes": [
+   "N-11033",
+   "N-10113"
+  ]
+ },
+ {
+  "id": "2032470433996353672",
+  "claims": [],
+  "nodes": [
+   "N-11033"
+  ],
+  "note": "Continues Project Monarch thread: pull children from schools."
+ },
+ {
+  "id": "2032471834537443402",
+  "claims": [],
+  "nodes": [
+   "N-11033"
+  ],
+  "note": "Thread context: school shootings tied to child trafficking."
+ },
+ {
+  "id": "2032472274079555920",
+  "claims": [],
+  "nodes": [
+   "N-11033",
+   "N-10401"
+  ]
+ },
+ {
+  "id": "2032476899637645319",
+  "claims": [
+   "C-7102",
+   "C-7082",
+   "C-7077"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-97",
+   "N-1",
+   "N-2",
+   "N-10000",
+   "N-10900",
+   "N-11064"
+  ]
+ },
+ {
+  "id": "2032477724510449995",
+  "claims": [],
+  "nodes": [
+   "N-97",
+   "N-1",
+   "N-10543"
+  ]
+ },
+ {
+  "id": "2032478075322061026",
+  "claims": [],
+  "nodes": [
+   "N-97",
+   "N-1",
+   "N-10047"
+  ]
+ },
+ {
+  "id": "2032480989696471188",
+  "claims": [],
+  "nodes": [
+   "N-579"
+  ]
+ },
+ {
+  "id": "2032483368445571546",
+  "claims": [
+   "C-6905",
+   "C-7085",
+   "C-7086",
+   "C-7099"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-97",
+   "N-10000",
+   "N-10106"
+  ]
+ },
+ {
+  "id": "2032484160070098955",
+  "claims": [
+   "C-7099",
+   "C-7084",
+   "C-6905"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-97",
+   "N-10900",
+   "N-10047"
+  ]
+ },
+ {
+  "id": "2032484644814205369",
+  "claims": [],
+  "nodes": [
+   "N-1"
+  ]
+ },
+ {
+  "id": "2032492924039033154",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2032493681140265066",
+  "claims": [],
+  "nodes": [
+   "N-1"
+  ]
+ },
+ {
+  "id": "2032509730288009484",
+  "claims": [],
+  "nodes": [
+   "N-22",
+   "N-553",
+   "N-36",
+   "N-772",
+   "N-11188"
+  ]
+ },
+ {
+  "id": "2032510934103593422",
+  "claims": [],
+  "nodes": [
+   "N-579",
+   "N-553",
+   "N-11188"
+  ]
+ },
+ {
+  "id": "2032548644029702366",
+  "claims": [
+   "C-7104",
+   "C-7105"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-97",
+   "N-101",
+   "N-2"
+  ]
+ },
+ {
+  "id": "2032549254489575893",
+  "claims": [],
+  "nodes": [
+   "N-1",
+   "N-97",
+   "N-101"
+  ]
+ },
+ {
+  "id": "2032550075524685997",
+  "claims": [
+   "C-7104",
+   "C-7105"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-97",
+   "N-101",
+   "N-2"
+  ]
+ },
+ {
+  "id": "2032595070998728886",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2032620031767355849",
+  "claims": [
+   "C-7118",
+   "C-7217",
+   "C-7119"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-36",
+   "N-10544",
+   "N-10541"
+  ]
+ },
+ {
+  "id": "2032634219726331969",
+  "claims": [],
+  "nodes": [
+   "N-154",
+   "N-1"
+  ]
+ },
+ {
+  "id": "2032675473470202276",
+  "claims": [],
+  "nodes": [
+   "N-36",
+   "N-10544"
+  ]
+ },
+ {
+  "id": "2032790260325720077",
+  "claims": [],
+  "nodes": [
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2032856772826796370",
+  "claims": [],
+  "nodes": [
+   "N-642",
+   "N-36",
+   "N-10544"
+  ]
+ },
+ {
+  "id": "2032880912287858838",
+  "claims": [
+   "C-7213",
+   "C-7345",
+   "C-6971",
+   "C-6914"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-2",
+   "N-568",
+   "N-9",
+   "N-10519",
+   "N-11292"
+  ]
+ },
+ {
+  "id": "2032887103336423919",
+  "claims": [],
+  "nodes": [
+   "N-606",
+   "N-97",
+   "N-1",
+   "N-55",
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2032903636549063093",
+  "claims": [
+   "C-7068"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-50"
+  ]
+ },
+ {
+  "id": "2032904590560039157",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "2032905298696864046",
+  "claims": [
+   "C-7086"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-97",
+   "N-11064"
+  ]
+ },
+ {
+  "id": "2032905665069388101",
+  "claims": [
+   "C-7101",
+   "C-7074"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-97",
+   "N-46",
+   "N-22",
+   "N-1",
+   "N-11064",
+   "N-10406"
+  ]
+ },
+ {
+  "id": "2032924670471651812",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2032926389502947832",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2032926796035866788",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2032927537215713747",
+  "claims": [
+   "C-7077",
+   "C-7099",
+   "C-6905"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-97",
+   "N-1",
+   "N-10000",
+   "N-10047",
+   "N-10543"
+  ]
+ },
+ {
+  "id": "2032932345624268920",
+  "unlinked": "personal"
+ }
+]

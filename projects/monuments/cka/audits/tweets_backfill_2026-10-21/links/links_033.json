@@ -1,0 +1,868 @@
+[
+ {
+  "id": "2101478093487558888",
+  "unlinked": "promotion"
+ },
+ {
+  "id": "2102153126551904578",
+  "claims": [
+   "C-13370",
+   "C-13374",
+   "C-13320",
+   "C-13322"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-40",
+   "N-2",
+   "N-159",
+   "N-14",
+   "N-10850",
+   "N-10841"
+  ],
+  "note": "Show promo: two-Challenger footage and Nampa Christian School parents."
+ },
+ {
+  "id": "2102183894518841803",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2102199181561749642",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "2102204561960173619",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2102246172026974599",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "2102247036976251222",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "2102248329233006707",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2102393728409162024",
+  "nodes": [
+   "N-9",
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2102394979536540131",
+  "nodes": [
+   "N-1",
+   "N-22",
+   "N-46",
+   "N-3"
+  ]
+ },
+ {
+  "id": "2102515693333983559",
+  "claims": [
+   "C-13368",
+   "C-13369"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-159",
+   "N-5",
+   "N-11316"
+  ],
+  "note": "Show promo: Neff interview promo photo."
+ },
+ {
+  "id": "2102553964256387213",
+  "nodes": [
+   "N-246"
+  ]
+ },
+ {
+  "id": "2102584174125199721",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2102748608944627865",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2102753166521491741",
+  "claims": [
+   "C-13504",
+   "C-13507"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-2",
+   "N-1",
+   "N-18",
+   "N-10000",
+   "N-10477",
+   "N-10473"
+  ]
+ },
+ {
+  "id": "2102779634815234550",
+  "nodes": [
+   "N-18",
+   "N-2",
+   "N-40",
+   "N-10000"
+  ]
+ },
+ {
+  "id": "2102808941977604500",
+  "claims": [
+   "C-13384",
+   "C-13386"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-40",
+   "N-10791"
+  ],
+  "note": "Retweet: Challenger waited 8 minutes on garage rooftop."
+ },
+ {
+  "id": "2102871166457352213",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2102873227257397367",
+  "claims": [
+   "C-13640",
+   "C-13639"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-226",
+   "N-11081",
+   "N-3"
+  ]
+ },
+ {
+  "id": "2102882102819590288",
+  "claims": [
+   "C-13504",
+   "C-13462",
+   "C-13467"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-2",
+   "N-1",
+   "N-40",
+   "N-10850",
+   "N-10851"
+  ],
+  "note": "Show promo."
+ },
+ {
+  "id": "2102904160090014015",
+  "claims": [
+   "C-13503"
+  ],
+  "relation": "shown_on_air",
+  "nodes": [
+   "N-159"
+  ],
+  "note": "Retweet of Wear Forbidden video the host says covers the Neff interview; airing not confirmed."
+ },
+ {
+  "id": "2102934055126007858",
+  "nodes": [
+   "N-2"
+  ]
+ },
+ {
+  "id": "2102936901002907974",
+  "nodes": [
+   "N-18",
+   "N-2",
+   "N-1"
+  ]
+ },
+ {
+  "id": "2102937498326344167",
+  "nodes": [
+   "N-2",
+   "N-10000"
+  ]
+ },
+ {
+  "id": "2102938092625670306",
+  "nodes": [
+   "N-2"
+  ]
+ },
+ {
+  "id": "2102938820454850893",
+  "nodes": [
+   "N-2"
+  ]
+ },
+ {
+  "id": "2102947986972332315",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2102953195387441275",
+  "nodes": [
+   "N-1"
+  ]
+ },
+ {
+  "id": "2102958473449287967",
+  "claims": [
+   "C-13504"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-2",
+   "N-18",
+   "N-1",
+   "N-10505"
+  ]
+ },
+ {
+  "id": "2102959765319983383",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "2102966547874721968",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2103106523450966109",
+  "nodes": [
+   "N-11316"
+  ]
+ },
+ {
+  "id": "2103109338328186896",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2103121824196522368",
+  "claims": [
+   "C-13462",
+   "C-13461",
+   "C-13467"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-40",
+   "N-10006",
+   "N-10851",
+   "N-10709"
+  ],
+  "note": "Retweet: garage Challenger exhaust differs from towed car."
+ },
+ {
+  "id": "2103122625379574237",
+  "claims": [
+   "C-13467",
+   "C-13477"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10851"
+  ]
+ },
+ {
+  "id": "2103262356914512305",
+  "claims": [
+   "C-13462",
+   "C-13468",
+   "C-13457"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-40",
+   "N-10851",
+   "N-10051",
+   "N-10381",
+   "N-11316"
+  ],
+  "note": "Show promo."
+ },
+ {
+  "id": "2103473517438042594",
+  "claims": [
+   "C-13518"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10888",
+   "N-11195",
+   "N-3"
+  ]
+ },
+ {
+  "id": "2103505992352973188",
+  "nodes": [
+   "N-5",
+   "N-11316"
+  ]
+ },
+ {
+  "id": "2103512131610296640",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "2103524243078021561",
+  "unlinked": "promotion"
+ },
+ {
+  "id": "2103544739635114387",
+  "claims": [
+   "C-13532",
+   "C-13534",
+   "C-13533"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10000",
+   "N-10839",
+   "N-10675"
+  ]
+ },
+ {
+  "id": "2103545553900425393",
+  "claims": [
+   "C-13522",
+   "C-13521",
+   "C-13629"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10888",
+   "N-10000",
+   "N-2",
+   "N-10839",
+   "N-10859"
+  ]
+ },
+ {
+  "id": "2103545680065450338",
+  "claims": [
+   "C-13575"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-266",
+   "N-10651"
+  ]
+ },
+ {
+  "id": "2103573884083519646",
+  "nodes": [
+   "N-10000",
+   "N-1"
+  ]
+ },
+ {
+  "id": "2103615483144474870",
+  "nodes": [
+   "N-2"
+  ]
+ },
+ {
+  "id": "2103615687323476355",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2103617243598713007",
+  "unlinked": "promotion"
+ },
+ {
+  "id": "2103617485614538780",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2103626747736465853",
+  "claims": [
+   "C-13532",
+   "C-13534",
+   "C-13533"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10000",
+   "N-10675"
+  ]
+ },
+ {
+  "id": "2103629100489322998",
+  "claims": [
+   "C-13532",
+   "C-13566",
+   "C-13528",
+   "C-13580",
+   "C-13522"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10000",
+   "N-10012",
+   "N-8",
+   "N-97",
+   "N-271",
+   "N-10675",
+   "N-10839"
+  ],
+  "note": "Retweet of review summary."
+ },
+ {
+  "id": "2103650499828355500",
+  "nodes": [
+   "N-1"
+  ]
+ },
+ {
+  "id": "2103940533098025067",
+  "nodes": [
+   "N-159",
+   "N-1",
+   "N-3",
+   "N-10089"
+  ]
+ },
+ {
+  "id": "2103967416518909955",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "2103969308984447020",
+  "nodes": [
+   "N-10000"
+  ]
+ },
+ {
+  "id": "2104228085407085008",
+  "claims": [
+   "C-13580",
+   "C-13582",
+   "C-13686",
+   "C-13575",
+   "C-13522"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-266",
+   "N-270",
+   "N-271",
+   "N-224",
+   "N-10000",
+   "N-10012",
+   "N-10839",
+   "N-10862",
+   "N-10356",
+   "N-10859"
+  ]
+ },
+ {
+  "id": "2104339342042988611",
+  "nodes": [
+   "N-10"
+  ]
+ },
+ {
+  "id": "2104612168255590782",
+  "nodes": [
+   "N-10006",
+   "N-10000",
+   "N-10839"
+  ]
+ },
+ {
+  "id": "2104616332604100619",
+  "claims": [
+   "C-13688",
+   "C-13689"
+  ],
+  "relation": "same_allegation",
+  "note": "Dismisses the secret-military-location / foreign reconnaissance story."
+ },
+ {
+  "id": "2104628177025048637",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "2104637121659036005",
+  "nodes": [
+   "N-10014",
+   "N-10070",
+   "N-3"
+  ]
+ },
+ {
+  "id": "2104691067228659976",
+  "claims": [
+   "C-13729",
+   "C-13713"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10000",
+   "N-10839"
+  ]
+ },
+ {
+  "id": "2104697557129547939",
+  "nodes": [
+   "N-707",
+   "N-1",
+   "N-10048"
+  ]
+ },
+ {
+  "id": "2104697965117837490",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2104702248966357230",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2104732665354043568",
+  "claims": [
+   "C-13853",
+   "C-13858",
+   "C-13861",
+   "C-13855"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-266",
+   "N-1",
+   "N-10874",
+   "N-10062",
+   "N-10839"
+  ]
+ },
+ {
+  "id": "2104740317295464732",
+  "claims": [
+   "C-13698",
+   "C-13692",
+   "C-13701"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10867",
+   "N-9"
+  ]
+ },
+ {
+  "id": "2104753858467516811",
+  "nodes": [
+   "N-366"
+  ],
+  "note": "Reply addressed to Boreing and Baron Coleman; \"he\" read as Boreing."
+ },
+ {
+  "id": "2104759697593295171",
+  "claims": [
+   "C-13565",
+   "C-13858"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10839"
+  ]
+ },
+ {
+  "id": "2104938076241809533",
+  "claims": [
+   "C-13671",
+   "C-13675",
+   "C-13683",
+   "C-13645",
+   "C-13668"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-2",
+   "N-1",
+   "N-13",
+   "N-10000",
+   "N-10864",
+   "N-10943",
+   "N-10983",
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2104942766409003141",
+  "claims": [
+   "C-13648"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-2",
+   "N-10864"
+  ]
+ },
+ {
+  "id": "2104956450464202934",
+  "claims": [
+   "C-13650",
+   "C-13683",
+   "C-13645"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-2",
+   "N-13",
+   "N-10864"
+  ]
+ },
+ {
+  "id": "2104991678431907849",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2104996246289072537",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "2105053004919431243",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2105054356030755304",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "2105065517211881569",
+  "claims": [
+   "C-13826",
+   "C-13645",
+   "C-13522"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-2",
+   "N-10864",
+   "N-10839",
+   "N-10859"
+  ]
+ },
+ {
+  "id": "2105065979999105515",
+  "unlinked": "promotion"
+ },
+ {
+  "id": "2105087089410752518",
+  "nodes": [
+   "N-2"
+  ],
+  "note": "Implicit reference to questioning widows; Erika Kirk not named."
+ },
+ {
+  "id": "2105087921703596065",
+  "nodes": [
+   "N-10064"
+  ]
+ },
+ {
+  "id": "2105089428310138887",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "2105093703933055002",
+  "nodes": [
+   "N-10867",
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2105295421916471644",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2105387718012551629",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2105409956534976883",
+  "claims": [
+   "C-13645",
+   "C-13692",
+   "C-13667"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-2",
+   "N-10864",
+   "N-10000",
+   "N-10867"
+  ],
+  "note": "Show promo."
+ },
+ {
+  "id": "2105451961143181406",
+  "claims": [
+   "C-13812",
+   "C-13814"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-579",
+   "N-69",
+   "N-378",
+   "N-25",
+   "N-10872"
+  ],
+  "note": "Retweet of Massie."
+ },
+ {
+  "id": "2105453752841036119",
+  "claims": [
+   "C-13705"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-154",
+   "N-155",
+   "N-10868"
+  ],
+  "note": "Retweet praising the archive-date timeline."
+ },
+ {
+  "id": "2105466815736598569",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2105651183159214584",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "2105666549759528991",
+  "claims": [
+   "C-13647",
+   "C-13654",
+   "C-13650"
+  ],
+  "relation": "same_allegation",
+  "note": "Parody in Erika Kirk voice echoing Vanity Fair profile details."
+ },
+ {
+  "id": "2105672274682794078",
+  "claims": [
+   "C-13654"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-606"
+  ],
+  "note": "Parody echoing profile quote."
+ },
+ {
+  "id": "2105675509833040243",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "2105704247203426745",
+  "nodes": [
+   "N-159"
+  ]
+ },
+ {
+  "id": "2105715972695007553",
+  "nodes": [
+   "N-9"
+  ]
+ },
+ {
+  "id": "2105716407073730914",
+  "nodes": [
+   "N-1",
+   "N-10839",
+   "N-10000"
+  ]
+ },
+ {
+  "id": "2105772285625880822",
+  "claims": [
+   "C-13722",
+   "C-13755",
+   "C-13814",
+   "C-13817"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-2",
+   "N-25",
+   "N-40",
+   "N-9",
+   "N-10014",
+   "N-10870",
+   "N-10872",
+   "N-10873"
+  ],
+  "note": "Show promo."
+ },
+ {
+  "id": "2105967800418283660",
+  "claims": [
+   "C-13817"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-25",
+   "N-40",
+   "N-10873"
+  ],
+  "note": "Retweet."
+ },
+ {
+  "id": "2106132211107823760",
+  "claims": [
+   "C-13692",
+   "C-13697"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-731",
+   "N-10131",
+   "N-10868",
+   "N-10867"
+  ]
+ },
+ {
+  "id": "2106133450982137865",
+  "nodes": [
+   "N-1"
+  ]
+ },
+ {
+  "id": "2106139500405493796",
+  "claims": [
+   "C-13845",
+   "C-13837"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10876"
+  ]
+ },
+ {
+  "id": "2106139736796479973",
+  "claims": [
+   "C-13845",
+   "C-13837"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10876"
+  ]
+ }
+]

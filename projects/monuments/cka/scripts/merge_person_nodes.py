@@ -25,7 +25,7 @@ from pathlib import Path
 CKA = Path(__file__).resolve().parents[1]
 MONUMENTS = CKA.parent
 INCLUDE_DIRS = ["drafts", "inscription", "canonical", "config", "companion"]
-INCLUDE_FILES = [MONUMENTS / "scripts" / "hostile_hard_gates.py"]
+INCLUDE_FILES = [MONUMENTS / "scripts" / "hostile_hard_gates.py", CKA / "tweets" / "links.jsonl"]
 TEXT_SUFFIXES = {".md", ".json", ".csv", ".txt", ".jsonl", ".py"}
 TOKEN_RE = re.compile(r"(?<![0-9A-Za-z\-])N-(\d+)(?!\d)")
 TOPIC_MIN = 10000
@@ -128,7 +128,7 @@ def main() -> int:
 
     # 4. everything else: token remap only
     files = [f for d in INCLUDE_DIRS if d not in ("drafts", "inscription") for f in (CKA / d).rglob("*")
-             if f.is_file() and f.suffix in TEXT_SUFFIXES and f != npath] + INCLUDE_FILES
+             if f.is_file() and f.suffix in TEXT_SUFFIXES and f != npath] + [f for f in INCLUDE_FILES if f.exists()]
     for f in files:
         t = f.read_text(encoding="utf-8")
         t2 = TOKEN_RE.sub(lambda m: f"N-{shift(int(m.group(1)))}", t)

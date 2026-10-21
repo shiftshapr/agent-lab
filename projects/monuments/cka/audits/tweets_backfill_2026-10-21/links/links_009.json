@@ -1,0 +1,822 @@
+[
+ {
+  "id": "2003299554649939982",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2003301238004416648",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2003302675832578444",
+  "claims": [
+   "C-4514",
+   "C-4558",
+   "C-4467"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-93",
+   "N-266",
+   "N-363",
+   "N-11338",
+   "N-10643",
+   "N-10370"
+  ],
+  "note": "Harpole flights no alibi for 7:30am meeting end; she texted Harpole, no response."
+ },
+ {
+  "id": "2003303102296752516",
+  "claims": [
+   "C-4637"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-97",
+   "N-1",
+   "N-10048"
+  ]
+ },
+ {
+  "id": "2003304511746769315",
+  "claims": [],
+  "nodes": [
+   "N-93",
+   "N-266",
+   "N-11338",
+   "N-10643",
+   "N-10370"
+  ],
+  "note": "Disputes Alex Jones post on Harpole flights; meeting concluded 7:30am."
+ },
+ {
+  "id": "2003533514889920931",
+  "claims": [],
+  "nodes": [
+   "N-50"
+  ]
+ },
+ {
+  "id": "2003560637666898321",
+  "claims": [
+   "C-4477",
+   "C-4547",
+   "C-4482"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-361",
+   "N-319",
+   "N-11338",
+   "N-10327",
+   "N-10370",
+   "N-10375"
+  ],
+  "note": "Releases the military police incident report for Mitch on 9/9."
+ },
+ {
+  "id": "2003561491883270403",
+  "claims": [],
+  "nodes": [
+   "N-10352"
+  ],
+  "note": "Describes receiving the tip email after prayer; context is the Fort Huachuca story."
+ },
+ {
+  "id": "2003562359848337869",
+  "claims": [],
+  "nodes": [
+   "N-1",
+   "N-10048"
+  ]
+ },
+ {
+  "id": "2003564231271338222",
+  "claims": [
+   "C-4476"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-361",
+   "N-11338"
+  ],
+  "note": "Critics moved from 'he never served' to conceding service."
+ },
+ {
+  "id": "2003595872194748546",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2003605429851685270",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2003855989381185601",
+  "claims": [],
+  "nodes": [
+   "N-731",
+   "N-11338",
+   "N-10352"
+  ]
+ },
+ {
+  "id": "2003945907457610259",
+  "claims": [],
+  "nodes": [
+   "N-1"
+  ]
+ },
+ {
+  "id": "2004038961271103614",
+  "unlinked": "personal"
+ },
+ {
+  "id": "2004559853440881119",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "2004579017156853977",
+  "claims": [],
+  "nodes": [
+   "N-50",
+   "N-843",
+   "N-55"
+  ]
+ },
+ {
+  "id": "2004582127955026222",
+  "claims": [],
+  "nodes": [
+   "N-50",
+   "N-11130"
+  ]
+ },
+ {
+  "id": "2004606329550409819",
+  "claims": [],
+  "nodes": [
+   "N-10026",
+   "N-10900",
+   "N-10131",
+   "N-10000",
+   "N-93",
+   "N-10083",
+   "N-11324"
+  ]
+ },
+ {
+  "id": "2004606630684680543",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2004651292291928075",
+  "claims": [],
+  "nodes": [
+   "N-22",
+   "N-1",
+   "N-10082",
+   "N-10671"
+  ],
+  "note": "Truncated draft of the RCH 702 post."
+ },
+ {
+  "id": "2004651667984171015",
+  "claims": [],
+  "nodes": [
+   "N-22",
+   "N-1",
+   "N-10082",
+   "N-10671"
+  ],
+  "note": "Truncated draft of the RCH 702 post."
+ },
+ {
+  "id": "2004654323343785999",
+  "claims": [],
+  "nodes": [
+   "N-1",
+   "N-22",
+   "N-10082",
+   "N-433",
+   "N-10671",
+   "N-11338",
+   "N-11283",
+   "N-361"
+  ]
+ },
+ {
+  "id": "2004701028852400223",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "2004713273485324668",
+  "claims": [],
+  "nodes": [
+   "N-93",
+   "N-10671"
+  ]
+ },
+ {
+  "id": "2004716260651626639",
+  "claims": [],
+  "nodes": [
+   "N-10026",
+   "N-22",
+   "N-10081"
+  ]
+ },
+ {
+  "id": "2004716820800872478",
+  "claims": [],
+  "nodes": [
+   "N-10026",
+   "N-10081"
+  ]
+ },
+ {
+  "id": "2004718048016777334",
+  "claims": [],
+  "nodes": [
+   "N-36",
+   "N-11103"
+  ]
+ },
+ {
+  "id": "2004718778161266688",
+  "claims": [],
+  "nodes": [
+   "N-10026"
+  ],
+  "note": "Christian Zionism in America; no dedicated node."
+ },
+ {
+  "id": "2004740372916797902",
+  "claims": [
+   "C-4483",
+   "C-4489",
+   "C-4484"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-14",
+   "N-2",
+   "N-1",
+   "N-11338",
+   "N-10380"
+  ]
+ },
+ {
+  "id": "2004743000287523296",
+  "claims": [
+   "C-4487",
+   "C-4444",
+   "C-4484"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-14",
+   "N-2",
+   "N-11338",
+   "N-10378"
+  ]
+ },
+ {
+  "id": "2004746698904555824",
+  "claims": [
+   "C-4487"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10000",
+   "N-361",
+   "N-2",
+   "N-14",
+   "N-11338",
+   "N-10378",
+   "N-10417"
+  ]
+ },
+ {
+  "id": "2004754162576502933",
+  "claims": [],
+  "nodes": [
+   "N-14",
+   "N-2",
+   "N-11338",
+   "N-10000"
+  ]
+ },
+ {
+  "id": "2004754642450960459",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2004993694362206595",
+  "claims": [],
+  "nodes": [
+   "N-10900",
+   "N-10451"
+  ]
+ },
+ {
+  "id": "2004994336464011337",
+  "claims": [],
+  "nodes": [
+   "N-10451"
+  ],
+  "note": "Continues the USS Liberty / 'Nazi youth' thread."
+ },
+ {
+  "id": "2004995245440991649",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "2004996870666682668",
+  "claims": [
+   "C-4476",
+   "C-4482"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-361",
+   "N-266",
+   "N-11338",
+   "N-10373"
+  ]
+ },
+ {
+  "id": "2004997743861706755",
+  "claims": [
+   "C-4514",
+   "C-4558",
+   "C-4482"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-266",
+   "N-361",
+   "N-10373"
+  ]
+ },
+ {
+  "id": "2004998022594494690",
+  "unlinked": "promotion"
+ },
+ {
+  "id": "2004998438367424742",
+  "claims": [],
+  "nodes": [
+   "N-361",
+   "N-10375"
+  ]
+ },
+ {
+  "id": "2004999093312262232",
+  "claims": [],
+  "nodes": [
+   "N-10327"
+  ],
+  "note": "Incident report: critics conceded it is real, now dispute timing."
+ },
+ {
+  "id": "2005005072015741337",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2005006255623180756",
+  "claims": [
+   "C-4501"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-14"
+  ]
+ },
+ {
+  "id": "2005006603708498287",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "2005313122068988022",
+  "claims": [
+   "C-4479"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-361",
+   "N-11338"
+  ]
+ },
+ {
+  "id": "2005320748110655618",
+  "claims": [
+   "C-4476",
+   "C-4478"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-361",
+   "N-11338",
+   "N-10327"
+  ]
+ },
+ {
+  "id": "2005323209579835711",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2005323371505188904",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2005348659219845596",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2005349418640527424",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2005349768869106113",
+  "claims": [],
+  "nodes": [
+   "N-11338",
+   "N-10352"
+  ]
+ },
+ {
+  "id": "2005350073425957062",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2005352166614257670",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2005352621239107697",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2005358043450548457",
+  "claims": [
+   "C-4562"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-363",
+   "N-10371",
+   "N-361"
+  ],
+  "note": "Deleted; Amodei misses first two roll calls. Later revised (see C-4563)."
+ },
+ {
+  "id": "2005362255857430533",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2005363352655274337",
+  "claims": [],
+  "nodes": [
+   "N-363",
+   "N-10371"
+  ],
+  "note": "Will delete and update the Amodei roll-call post if she missed his earlier appearance."
+ },
+ {
+  "id": "2005371755540484399",
+  "claims": [
+   "C-4467",
+   "C-4466",
+   "C-4562",
+   "C-4563",
+   "C-4558"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-266",
+   "N-2",
+   "N-363",
+   "N-364",
+   "N-14",
+   "N-361",
+   "N-93",
+   "N-10373",
+   "N-10380",
+   "N-10371",
+   "N-10372"
+  ]
+ },
+ {
+  "id": "2005374045668377052",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2005379012915548198",
+  "claims": [
+   "C-4483"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10899",
+   "N-14",
+   "N-1",
+   "N-2",
+   "N-10380"
+  ],
+  "note": "Says Kolvet's texts concerned the 8th (Fox News hit with Laura Ingraham)."
+ },
+ {
+  "id": "2005385274042311035",
+  "claims": [],
+  "nodes": [
+   "N-361",
+   "N-11023"
+  ]
+ },
+ {
+  "id": "2005414985745440839",
+  "claims": [],
+  "nodes": [
+   "N-93"
+  ]
+ },
+ {
+  "id": "2005428108372123946",
+  "claims": [],
+  "nodes": [
+   "N-66",
+   "N-11338"
+  ]
+ },
+ {
+  "id": "2005429121984430304",
+  "claims": [],
+  "nodes": [
+   "N-361",
+   "N-10899"
+  ]
+ },
+ {
+  "id": "2005460019614212447",
+  "claims": [
+   "C-4589"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-382",
+   "N-261"
+  ]
+ },
+ {
+  "id": "2005651855188398357",
+  "claims": [],
+  "nodes": [
+   "N-93",
+   "N-30"
+  ]
+ },
+ {
+  "id": "2005653867196043751",
+  "claims": [],
+  "nodes": [
+   "N-30",
+   "N-1",
+   "N-10126"
+  ]
+ },
+ {
+  "id": "2005655413501387089",
+  "claims": [],
+  "nodes": [
+   "N-154",
+   "N-30",
+   "N-712",
+   "N-1"
+  ]
+ },
+ {
+  "id": "2005656228178059275",
+  "claims": [],
+  "nodes": [
+   "N-30",
+   "N-1"
+  ]
+ },
+ {
+  "id": "2005669147850760564",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2005673473218093345",
+  "claims": [],
+  "nodes": [
+   "N-30",
+   "N-1",
+   "N-154",
+   "N-10126"
+  ],
+  "note": "Truncated draft of the next post."
+ },
+ {
+  "id": "2005674130985623793",
+  "claims": [],
+  "nodes": [
+   "N-30",
+   "N-1",
+   "N-154",
+   "N-155",
+   "N-712",
+   "N-10126"
+  ]
+ },
+ {
+  "id": "2005675984159154649",
+  "claims": [],
+  "nodes": [
+   "N-30",
+   "N-201"
+  ]
+ },
+ {
+  "id": "2005678570811826477",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2005686764556411370",
+  "claims": [],
+  "nodes": [
+   "N-30",
+   "N-154",
+   "N-155",
+   "N-82",
+   "N-377",
+   "N-647"
+  ]
+ },
+ {
+  "id": "2005687029888327999",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2005697747836624973",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2005700103861125163",
+  "claims": [],
+  "nodes": [
+   "N-154",
+   "N-155",
+   "N-30",
+   "N-1"
+  ]
+ },
+ {
+  "id": "2005707782566142120",
+  "claims": [],
+  "nodes": [
+   "N-712",
+   "N-30",
+   "N-201",
+   "N-154",
+   "N-155"
+  ]
+ },
+ {
+  "id": "2005708765367263552",
+  "claims": [],
+  "nodes": [
+   "N-712"
+  ]
+ },
+ {
+  "id": "2005711209736331546",
+  "claims": [],
+  "nodes": [
+   "N-30"
+  ]
+ },
+ {
+  "id": "2005723330922336736",
+  "claims": [],
+  "nodes": [
+   "N-201",
+   "N-154",
+   "N-155",
+   "N-30",
+   "N-10126"
+  ]
+ },
+ {
+  "id": "2005724449816076538",
+  "claims": [],
+  "nodes": [
+   "N-154",
+   "N-30",
+   "N-201"
+  ]
+ },
+ {
+  "id": "2005726811590680889",
+  "claims": [],
+  "nodes": [
+   "N-201",
+   "N-30",
+   "N-154",
+   "N-155"
+  ]
+ },
+ {
+  "id": "2005729265061617791",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "2005743168738976235",
+  "claims": [],
+  "nodes": [
+   "N-11338",
+   "N-10352"
+  ],
+  "note": "Announces an X Space on Fort Huachuca."
+ },
+ {
+  "id": "2005743762052612115",
+  "claims": [],
+  "nodes": [
+   "N-1",
+   "N-10655"
+  ]
+ },
+ {
+  "id": "2005743930466316489",
+  "unlinked": "promotion"
+ },
+ {
+  "id": "2005776631852646875",
+  "unlinked": "promotion"
+ },
+ {
+  "id": "2005806153222017069",
+  "claims": [],
+  "nodes": [
+   "N-201"
+  ]
+ },
+ {
+  "id": "2005806917118222528",
+  "claims": [],
+  "nodes": [
+   "N-30",
+   "N-201"
+  ]
+ },
+ {
+  "id": "2005814534276108478",
+  "unlinked": "promotion"
+ },
+ {
+  "id": "2005838926741741832",
+  "claims": [],
+  "nodes": [
+   "N-159"
+  ]
+ },
+ {
+  "id": "2005852507013009731",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "2005852761993204133",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2005862431784886500",
+  "claims": [],
+  "nodes": [
+   "N-201",
+   "N-243",
+   "N-154",
+   "N-155"
+  ]
+ },
+ {
+  "id": "2006071093035966762",
+  "claims": [],
+  "nodes": [
+   "N-364",
+   "N-10372"
+  ]
+ },
+ {
+  "id": "2006071308145287502",
+  "claims": [],
+  "nodes": [
+   "N-364",
+   "N-10372"
+  ]
+ },
+ {
+  "id": "2006072009005097292",
+  "unlinked": "reply_chatter"
+ }
+]

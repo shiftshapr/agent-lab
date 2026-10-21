@@ -61,6 +61,7 @@ def main() -> int:
         ("preflight self-test", [py, str(MON / "scripts" / "dia_preflight.py"), "--self-test"]),
         ("hostile hard gates", [py, str(MON / "scripts" / "hostile_hard_gates.py"), "--monument", "cka"]),
         ("claim timestamps", [py, str(CKA / "scripts" / "check_claim_timestamps.py")]),
+        ("tweet links", [py, str(CKA / "scripts" / "tweets" / "merge_links.py"), "--check"]),
     ]
     if a.pytest:
         gates.append(("pytest", [py, "-m", "pytest", "-q", str(MON / "scripts")]))
