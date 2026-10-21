@@ -2783,6 +2783,7 @@ Transcript Snippet: also on August 4th, a fake MySpace account is archived for m
 Anchored Artifacts: A-2469.1
 Mentions: N-3
 Related Nodes: N-10789, N-10788
+Revises: C-13706
 Investigative Direction: Check Wayback Machine capture dates for the MySpace profile and who requested archiving.
 
 ---

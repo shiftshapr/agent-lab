@@ -1704,6 +1704,7 @@ Mentions: N-190, N-217
 Related Nodes: N-10185
 Supports: C-4104
 Tags: relevance:core
+Revises: C-3030
 Investigative Direction: Obtain Mikey McCoy's call log for the minutes after the shot.
 
 ---

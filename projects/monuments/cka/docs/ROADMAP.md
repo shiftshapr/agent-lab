@@ -76,9 +76,9 @@ The full execution plan from here to a verified, published and promoted archive.
 
 | # | Task | Done when |
 |---|---|---|
-| 5.1 | For each person and topic, walk the claims in airing order and link real `Revises`, `Contradicts` and `Qualifies` across episodes (the host vs. herself) | each pair is in the ledger with both clips |
+| 5.1 | ✅ 2026-10-21 first pass (`audits/phase5_host_vs_herself_2026-10-21/`): 1,458 candidate pairs judged, 35 confirmed links added (31 Revises, 4 Qualifies). For each person and topic, walk the claims in airing order and link real `Revises`, `Contradicts` and `Qualifies` across episodes (the host vs. herself) | each pair is in the ledger with both clips |
 | 5.2 | Cross-source contradictions: the host vs. the court record and the flight data (Tier 1), and the host vs. other speakers (commentators, speaker-to-speaker) | linked; record conflicts set `contradicted-by-record` |
-| 5.3 | "Then vs. now" ledger export: a reviewable list of pairs with both clips, dates and the delta | Daveed reviews the top pairs that promotion will lead with, plus a random sample |
+| 5.3 | ✅ 2026-10-21 export (`ledger/then_vs_now.md`; 282 links, 87 host vs herself), awaiting Daveed's review. "Then vs. now" ledger export: a reviewable list of pairs with both clips, dates and the delta | Daveed reviews the top pairs that promotion will lead with, plus a random sample |
 
 ## Phase 6 — Adversarial re-audit
 **Owner:** Bill D and Transit · **Gate:** Daveed rules on the findings

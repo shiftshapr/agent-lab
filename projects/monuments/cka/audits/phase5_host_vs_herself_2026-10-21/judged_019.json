@@ -1,0 +1,454 @@
+[
+ {
+  "later": "C-13765",
+  "earlier": "C-9644",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13766",
+  "earlier": "C-9647",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13766",
+  "earlier": "C-9640",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13767",
+  "earlier": "C-12489",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-13767",
+  "earlier": "C-4735",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-13771",
+  "earlier": "C-6359",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13771",
+  "earlier": "C-5005",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13773",
+  "earlier": "C-13597",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13773",
+  "earlier": "C-9882",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-13774",
+  "earlier": "C-2279",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13774",
+  "earlier": "C-3442",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13775",
+  "earlier": "C-13599",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13776",
+  "earlier": "C-13600",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13778",
+  "earlier": "C-9660",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13778",
+  "earlier": "C-9890",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13784",
+  "earlier": "C-9665",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13784",
+  "earlier": "C-3268",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13785",
+  "earlier": "C-3447",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-13785",
+  "earlier": "C-13607",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13791",
+  "earlier": "C-3455",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13791",
+  "earlier": "C-4813",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-13792",
+  "earlier": "C-13614",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13792",
+  "earlier": "C-2134",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13794",
+  "earlier": "C-13706",
+  "relation": "revises",
+  "delta": "Earlier: fake MySpace page first archived August 5, 2025. Later: archived on August 4.",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13802",
+  "earlier": "C-9665",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13802",
+  "earlier": "C-3457",
+  "relation": "supports",
+  "confidence": "low"
+ },
+ {
+  "later": "C-13803",
+  "earlier": "C-13617",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13805",
+  "earlier": "C-4241",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13843",
+  "earlier": "C-570",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-13844",
+  "earlier": "C-8338",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13878",
+  "earlier": "C-5965",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-13933",
+  "earlier": "C-12191",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13974",
+  "earlier": "C-12778",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-13988",
+  "earlier": "C-13901",
+  "relation": "revises",
+  "delta": "Earlier: site runner named Mat Servius. Later: she says that name was wrong (Servius not a Latvian surname).",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13988",
+  "earlier": "C-13912",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-14017",
+  "earlier": "C-3854",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-14028",
+  "earlier": "C-13568",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-14059",
+  "earlier": "C-11075",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-14059",
+  "earlier": "C-11800",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-14074",
+  "earlier": "C-12686",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-14075",
+  "earlier": "C-12686",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-14076",
+  "earlier": "C-12686",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-14081",
+  "earlier": "C-12686",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-14082",
+  "earlier": "C-12686",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-14090",
+  "earlier": "C-12891",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-14128",
+  "earlier": "C-7028",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-14128",
+  "earlier": "C-7029",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-14130",
+  "earlier": "C-13861",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-14137",
+  "earlier": "C-13960",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-14137",
+  "earlier": "C-9538",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-14164",
+  "earlier": "C-11075",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-14164",
+  "earlier": "C-12666",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-14198",
+  "earlier": "C-7824",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-14198",
+  "earlier": "C-7827",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-14203",
+  "earlier": "C-14130",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-14206",
+  "earlier": "C-3306",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-14233",
+  "earlier": "C-14151",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-14235",
+  "earlier": "C-14161",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-14236",
+  "earlier": "C-14151",
+  "relation": "supports",
+  "confidence": "low"
+ },
+ {
+  "later": "C-14246",
+  "earlier": "C-14168",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-14255",
+  "earlier": "C-13623",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-14261",
+  "earlier": "C-12628",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-14264",
+  "earlier": "C-10437",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-14264",
+  "earlier": "C-10438",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-14269",
+  "earlier": "C-10108",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-14270",
+  "earlier": "C-13878",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-14272",
+  "earlier": "C-8846",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-14272",
+  "earlier": "C-8849",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-14272",
+  "earlier": "C-51",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-14273",
+  "earlier": "C-10501",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-14273",
+  "earlier": "C-3576",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-14274",
+  "earlier": "C-6162",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-14274",
+  "earlier": "C-6869",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-14281",
+  "earlier": "C-14206",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-14299",
+  "earlier": "C-8768",
+  "relation": "supports",
+  "confidence": "medium"
+ }
+]

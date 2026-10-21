@@ -1596,6 +1596,7 @@ Anchored Artifacts: A-1539.1
 Mentions: N-190
 
 
+Revises: C-2676
 Investigative Direction: Verify against official identity records.
 
 ---
@@ -2619,6 +2620,7 @@ Mentions: N-190, N-159, N-2, N-3
 Related Nodes: N-10214
 Supports: C-4101, C-4105
 Tags: relevance:core
+Revises: C-3030
 Investigative Direction: Align Mikey's and Neff's logs to the second against the shot time.
 
 ---

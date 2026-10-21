@@ -2995,6 +2995,9 @@
       "investigative_direction": "Verify against official identity records.",
       "mentions_person_refs": [
         "N-190"
+      ],
+      "revises_claim_refs": [
+        "C-2676"
       ]
     },
     {
@@ -4421,6 +4424,9 @@
         "N-159",
         "N-2",
         "N-3"
+      ],
+      "revises_claim_refs": [
+        "C-3030"
       ]
     },
     {

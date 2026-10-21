@@ -1,0 +1,454 @@
+[
+ {
+  "later": "C-9659",
+  "earlier": "C-2279",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9659",
+  "earlier": "C-3442",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9665",
+  "earlier": "C-3268",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9665",
+  "earlier": "C-3444",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9667",
+  "earlier": "C-3447",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9668",
+  "earlier": "C-3445",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9668",
+  "earlier": "C-3270",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9669",
+  "earlier": "C-3448",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9684",
+  "earlier": "C-7238",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9720",
+  "earlier": "C-3602",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9720",
+  "earlier": "C-5812",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9728",
+  "earlier": "C-8053",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9732",
+  "earlier": "C-7215",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9732",
+  "earlier": "C-5040",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9742",
+  "earlier": "C-6694",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9747",
+  "earlier": "C-9684",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9747",
+  "earlier": "C-9319",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9750",
+  "earlier": "C-8526",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9775",
+  "earlier": "C-8581",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9776",
+  "earlier": "C-8195",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9776",
+  "earlier": "C-8270",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9778",
+  "earlier": "C-6127",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9778",
+  "earlier": "C-8306",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9790",
+  "earlier": "C-9275",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9791",
+  "earlier": "C-9550",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9795",
+  "earlier": "C-9489",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9811",
+  "earlier": "C-9661",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9820",
+  "earlier": "C-9801",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9842",
+  "earlier": "C-1416",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9842",
+  "earlier": "C-8531",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9865",
+  "earlier": "C-9554",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9865",
+  "earlier": "C-6338",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9865",
+  "earlier": "C-7869",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9865",
+  "earlier": "C-9555",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9865",
+  "earlier": "C-8925",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9881",
+  "earlier": "C-6333",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9881",
+  "earlier": "C-3037",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9882",
+  "earlier": "C-3037",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9886",
+  "earlier": "C-9658",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9887",
+  "earlier": "C-78",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9887",
+  "earlier": "C-7605",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9889",
+  "earlier": "C-2279",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9889",
+  "earlier": "C-3442",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9890",
+  "earlier": "C-7746",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9890",
+  "earlier": "C-7614",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9891",
+  "earlier": "C-9661",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9896",
+  "earlier": "C-9667",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9896",
+  "earlier": "C-3447",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9904",
+  "earlier": "C-3192",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9904",
+  "earlier": "C-79",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9905",
+  "earlier": "C-5838",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9905",
+  "earlier": "C-6396",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9908",
+  "earlier": "C-5688",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9908",
+  "earlier": "C-7701",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9912",
+  "earlier": "C-9864",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9913",
+  "earlier": "C-9556",
+  "relation": "revises",
+  "delta": "Earlier: plane left Fort Huachuca Sept 9 and landed El Paso at 1:31 p.m. local. Later: same plane arrived El Paso at 1:20 p.m. local.",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9915",
+  "earlier": "C-9865",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9915",
+  "earlier": "C-6338",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9930",
+  "earlier": "C-3030",
+  "relation": "revises",
+  "delta": "Earlier: Neff's account confirms Mikey McCoy called Erika Kirk first. Later: Mikey called his wife (Elizabeth) instead, and no one called 911.",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9930",
+  "earlier": "C-6196",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9931",
+  "earlier": "C-6748",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9931",
+  "earlier": "C-8358",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9954",
+  "earlier": "C-9876",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9963",
+  "earlier": "C-9340",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9972",
+  "earlier": "C-9901",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9972",
+  "earlier": "C-9900",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10001",
+  "earlier": "C-6449",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10004",
+  "earlier": "C-3936",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10004",
+  "earlier": "C-8383",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10005",
+  "earlier": "C-8384",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10006",
+  "earlier": "C-8350",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10006",
+  "earlier": "C-755",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10007",
+  "earlier": "C-7711",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10010",
+  "earlier": "C-9930",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10010",
+  "earlier": "C-6196",
+  "relation": "supports",
+  "confidence": "high"
+ }
+]

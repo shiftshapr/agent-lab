@@ -1,0 +1,453 @@
+[
+ {
+  "later": "C-6853",
+  "earlier": "C-4911",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6853",
+  "earlier": "C-4909",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-6864",
+  "earlier": "C-6484",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6869",
+  "earlier": "C-6162",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6869",
+  "earlier": "C-5987",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-6889",
+  "earlier": "C-6061",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-6909",
+  "earlier": "C-3535",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-6928",
+  "earlier": "C-6479",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6928",
+  "earlier": "C-6478",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6936",
+  "earlier": "C-6738",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6948",
+  "earlier": "C-2950",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6979",
+  "earlier": "C-6870",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6979",
+  "earlier": "C-6868",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-6992",
+  "earlier": "C-6833",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7042",
+  "earlier": "C-6444",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-7077",
+  "earlier": "C-2514",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7079",
+  "earlier": "C-2289",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7086",
+  "earlier": "C-4397",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7089",
+  "earlier": "C-6360",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7100",
+  "earlier": "C-7042",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7102",
+  "earlier": "C-5774",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7117",
+  "earlier": "C-5987",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7117",
+  "earlier": "C-6162",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7118",
+  "earlier": "C-4496",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7175",
+  "earlier": "C-6127",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7176",
+  "earlier": "C-6127",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-7188",
+  "earlier": "C-6996",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7189",
+  "earlier": "C-6996",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-7216",
+  "earlier": "C-6981",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7230",
+  "earlier": "C-7119",
+  "relation": "revises",
+  "delta": "Earlier: she thinks Netanyahu is dead, but does not know. Later: does not know if he is dead, thinks he may be injured instead.",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-7238",
+  "earlier": "C-6453",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7241",
+  "earlier": "C-7131",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7242",
+  "earlier": "C-3304",
+  "relation": "supports",
+  "confidence": "low"
+ },
+ {
+  "later": "C-7281",
+  "earlier": "C-6426",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7284",
+  "earlier": "C-6200",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7284",
+  "earlier": "C-5702",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7287",
+  "earlier": "C-5418",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-7298",
+  "earlier": "C-6492",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7340",
+  "earlier": "C-7175",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-7360",
+  "earlier": "C-7283",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7362",
+  "earlier": "C-7312",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7364",
+  "earlier": "C-7314",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7367",
+  "earlier": "C-7306",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7387",
+  "earlier": "C-7321",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7387",
+  "earlier": "C-7323",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-7392",
+  "earlier": "C-5413",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7402",
+  "earlier": "C-3999",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-7406",
+  "earlier": "C-7292",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7409",
+  "earlier": "C-7185",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7409",
+  "earlier": "C-7253",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-7419",
+  "earlier": "C-7385",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-7422",
+  "earlier": "C-1857",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7422",
+  "earlier": "C-1856",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7424",
+  "earlier": "C-6286",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7432",
+  "earlier": "C-6196",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7435",
+  "earlier": "C-4103",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7439",
+  "earlier": "C-6196",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7454",
+  "earlier": "C-6196",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7472",
+  "earlier": "C-2700",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7472",
+  "earlier": "C-2243",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7473",
+  "earlier": "C-2700",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7474",
+  "earlier": "C-2701",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7481",
+  "earlier": "C-7175",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7481",
+  "earlier": "C-6127",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7482",
+  "earlier": "C-7175",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-7482",
+  "earlier": "C-6127",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-7488",
+  "earlier": "C-7175",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-7488",
+  "earlier": "C-6127",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-7490",
+  "earlier": "C-6771",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7515",
+  "earlier": "C-7358",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7525",
+  "earlier": "C-7306",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7525",
+  "earlier": "C-7305",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7530",
+  "earlier": "C-5706",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-7532",
+  "earlier": "C-6106",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-7545",
+  "earlier": "C-4465",
+  "relation": "supports",
+  "confidence": "medium"
+ }
+]

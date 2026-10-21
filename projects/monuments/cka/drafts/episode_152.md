@@ -1693,6 +1693,7 @@ Transcript Snippet: the screwdriver was proven really doesn't tell us that it's 
 Anchored Artifacts: 
 Mentions: N-40
 Tags: relevance:core
+Revises: C-11690
 Investigative Direction: Obtain the lab reports and hearing testimony on DNA found on the screwdriver.
 
 ---

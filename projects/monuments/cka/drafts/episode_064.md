@@ -1453,6 +1453,7 @@ Anchored Artifacts:
 Mentions: N-14, N-2
 Related Nodes: N-10502
 Tags: relevance:core
+Qualifies: C-5411
 Investigative Direction: Reconcile Erika Kirk's September 10 movements with flight arrival times at Provo.
 
 ---

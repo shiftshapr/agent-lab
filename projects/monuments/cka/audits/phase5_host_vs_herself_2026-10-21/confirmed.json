@@ -1,0 +1,464 @@
+[
+ {
+  "n": 1,
+  "decision": "reject",
+  "relation": "none",
+  "delta": "",
+  "note": "Ep20 says Amaro is 'also someone that in my dream Charlie told me I should look into' - the dream is an added source, the emailed tip is not withdrawn. Same claim reinforced."
+ },
+ {
+  "n": 2,
+  "decision": "reject",
+  "relation": "none",
+  "delta": "",
+  "note": "Same as #1: ep20 'also' adds the dream alongside the tip; no change to the tip or to Amaro's identity."
+ },
+ {
+  "n": 3,
+  "decision": "reject",
+  "relation": "none",
+  "delta": "",
+  "note": "Same as #1: dream is an additional source ('also'), not a replacement for the emailed tip."
+ },
+ {
+  "n": 4,
+  "decision": "reject",
+  "relation": "none",
+  "delta": "",
+  "note": "Same as #1: dream is an additional source ('also'), not a replacement for the emailed tip."
+ },
+ {
+  "n": 5,
+  "decision": "reject",
+  "relation": "none",
+  "delta": "",
+  "note": "Ep15 says the photo ran Sept 18 and was shot 'latest, 1 week after'; ep27 'a couple days after' is loose rhetoric, compatible. 'Outside' matches the outdoor memorial vigil in ep15."
+ },
+ {
+  "n": 6,
+  "decision": "reject",
+  "relation": "none",
+  "delta": "",
+  "note": "Ep23 (3:22) already concedes 'I made the mistake of thinking it had departed in the afternoon'. Ep33 repeats the same admission; no change between the two."
+ },
+ {
+  "n": 7,
+  "decision": "accept",
+  "relation": "revises",
+  "delta": "Earlier: SUBTT's longest stay on the July trip was in Wilmington. Later (explicit correction): only one night in Wilmington; longest stretch was in Nebraska.",
+  "note": ""
+ },
+ {
+  "n": 8,
+  "decision": "accept",
+  "relation": "revises",
+  "delta": "Earlier: Brigitte Macron opened Paris Design Week on September 3, 2025. Later: on (she believes) September 4.",
+  "note": "Ep36 also has Zelensky's visit on Sept 3; ep38 puts it on 9/4. Not framed as a correction."
+ },
+ {
+  "n": 9,
+  "decision": "reject",
+  "relation": "none",
+  "delta": "",
+  "note": "Earlier is a relayed source email whose own chain is WSFS -> Wilmington Trust (du Pont, 'French-American'). Ep39 'owned by the Wilmington Trust' restates that chain; not a change, and earlier is another speaker."
+ },
+ {
+  "n": 10,
+  "decision": "accept",
+  "relation": "qualifies",
+  "delta": "Earlier: Rob McCoy told the lie that Mikey called his dad first. Later: accepts Mikey's account that his dad was confused; 'maybe Rob McCoy was confused'.",
+  "note": "In the same breath ep46 still says 'Rob McCoy lied', then 'Maybe Rob McCoy was confused'."
+ },
+ {
+  "n": 11,
+  "decision": "accept",
+  "relation": "revises",
+  "delta": "Earlier: inside source says Michael is not his first name but a middle name. Later: his real first name is Michael; Mikey is not a middle-name substitute.",
+  "note": ""
+ },
+ {
+  "n": 12,
+  "decision": "accept",
+  "relation": "revises",
+  "delta": "Earlier: Neff's account confirms Mikey called Erika first, before Neff called his mother. Later: call logs show Mikey added Erika only after Neff's call with his mother ended.",
+  "note": "Ep47 bases it on call logs 'if call logs are to be believed above human testimony'."
+ },
+ {
+  "n": 13,
+  "decision": "accept",
+  "relation": "revises",
+  "delta": "Earlier: presses whether the TPUSA donor Pierre is Pierre Dupont, as sources suggested. Later: she believes the donor is Pierre Falcone, not Dupont.",
+  "note": ""
+ },
+ {
+  "n": 14,
+  "decision": "reject",
+  "relation": "none",
+  "delta": "",
+  "note": "'Soviet studies' vs 'Russian studies' is synonymous wording for the same degree; not a substantive change."
+ },
+ {
+  "n": 15,
+  "decision": "accept",
+  "relation": "qualifies",
+  "delta": "Earlier: Erika waited an hour on the tarmac, stated flatly. Later: conditioned on Kolvet's account ('if Andrew is to be believed').",
+  "note": ""
+ },
+ {
+  "n": 16,
+  "decision": "reject",
+  "relation": "none",
+  "delta": "",
+  "note": "Ep67 (Feb 2026) aside 'she's giving Trump $200 million' is a sarcastic present-tense remark, plausibly a different/newer donation; ep20 $100M is the 2024 West Bank deal. Not shown to be the same donation. The '(earlier episode gave $100M)' note is the extractor's, not hers."
+ },
+ {
+  "n": 17,
+  "decision": "accept",
+  "relation": "revises",
+  "delta": "Earlier: Neff's account confirms Mikey McCoy called Erika first. Later: Mikey called Elizabeth McCoy first.",
+  "note": ""
+ },
+ {
+  "n": 18,
+  "decision": "accept",
+  "relation": "revises",
+  "delta": "Earlier: she thinks Netanyahu is dead, but does not know. Later: does not know if he is dead, thinks he may be injured instead.",
+  "note": ""
+ },
+ {
+  "n": 19,
+  "decision": "accept",
+  "relation": "qualifies",
+  "delta": "Earlier: Robinson didn't fire the shot (evidence overwhelming). Later: 99.9% certain he did not shoot from a rooftop by himself; she visibly steps back from 'did not shoot'.",
+  "note": "Ep85 starts 'did not shoot', corrects herself to '99.9% certain... did not shoot Charlie Kirk from a rooftop by himself', but also says 'Tyler Robinson did not do this'."
+ },
+ {
+  "n": 20,
+  "decision": "reject",
+  "relation": "none",
+  "delta": "",
+  "note": "Ep89 $100M (announced ~July 2024) matches ep20; ep67 $200M is a separate sarcastic aside about ongoing giving. Not the same donation."
+ },
+ {
+  "n": 21,
+  "decision": "reject",
+  "relation": "none",
+  "delta": "",
+  "note": "Ep92 'Trump said he thought Jesus was a Red Cross doctor' is a mocking paraphrase of the same Trump explanation she ridiculed in ep90, not a factual claim that changes."
+ },
+ {
+  "n": 22,
+  "decision": "accept",
+  "relation": "revises",
+  "delta": "Earlier: the US bombed 200 schoolgirls in Iran. Later: the same strike killed 150 schoolgirls.",
+  "note": "Ep92 (26:19) also says 150."
+ },
+ {
+  "n": 23,
+  "decision": "accept",
+  "relation": "revises",
+  "delta": "Earlier: Daily Wire quietly got rid of its sports dept Crain & Co. Later: she was wrong; Crain & Co opted to leave on its own.",
+  "note": ""
+ },
+ {
+  "n": 24,
+  "decision": "accept",
+  "relation": "revises",
+  "delta": "Earlier: Marx never replied to her Instagram message or follow-up. Later: Marx finally replied while she was in Italy.",
+  "note": "New development (he replied later), not an error in the earlier claim."
+ },
+ {
+  "n": 25,
+  "decision": "accept",
+  "relation": "revises",
+  "delta": "Earlier: WHCD shooting at 8:36 p.m. Eastern. Later: shooting happened at 8:39 p.m. Eastern.",
+  "note": ""
+ },
+ {
+  "n": 26,
+  "decision": "accept",
+  "relation": "revises",
+  "delta": "Earlier: brother-in-law Kenneth tried to shoot Marx in 2003 (after first saying 2023). Later: it happened in 2023.",
+  "note": "Ep91 said '2023' then '2003' for the shooting; ep107 settles on 2023."
+ },
+ {
+  "n": 27,
+  "decision": "accept",
+  "relation": "revises",
+  "delta": "Earlier: plane left Fort Huachuca Sept 9 and landed El Paso at 1:31 p.m. local. Later: same plane arrived El Paso at 1:20 p.m. local.",
+  "note": ""
+ },
+ {
+  "n": 28,
+  "decision": "reject",
+  "relation": "none",
+  "delta": "",
+  "note": "Ep115 'He called his wife' (instead of 911) is about not calling 911, not about who was called first. The Erika-first revision is captured by #12 and #17."
+ },
+ {
+  "n": 29,
+  "decision": "reject",
+  "relation": "none",
+  "delta": "",
+  "note": "Ep97 'like 2 minutes after' and ep117 'seconds after' are both loose, rhetorical estimates of the same claim (premature announcement); not a real revision."
+ },
+ {
+  "n": 30,
+  "decision": "reject",
+  "relation": "none",
+  "delta": "",
+  "note": "'Police' vs 'feds' is loose wording for the same claim (no GSR test on Robinson); not a substantive change."
+ },
+ {
+  "n": 31,
+  "decision": "reject",
+  "relation": "none",
+  "delta": "",
+  "note": "Same as #14: Soviet studies vs Russian studies is synonymous; ep117 adds detail (2 years in Russia, Ukraine) = supports."
+ },
+ {
+  "n": 32,
+  "decision": "reject",
+  "relation": "none",
+  "delta": "",
+  "note": "Ep117 still asserts it emphatically ('I cannot stress enough'); citing his emails as the source does not narrow it. Supports. Ep76 had already sourced it to Epstein himself."
+ },
+ {
+  "n": 33,
+  "decision": "reject",
+  "relation": "none",
+  "delta": "",
+  "note": "Ep76 already sources it to Epstein ('He himself is saying'); ep117 repeats with the same source. Supports, not qualifies."
+ },
+ {
+  "n": 34,
+  "decision": "accept",
+  "relation": "revises",
+  "delta": "Earlier: Trump was 50% owner of Miss America with NBC Universal when Erika was crowned. Later: Trump co-owned Miss Universe with NBC Universal.",
+  "note": ""
+ },
+ {
+  "n": 35,
+  "decision": "reject",
+  "relation": "none",
+  "delta": "",
+  "note": "Same as #30: police vs feds is loose wording for the same no-GSR claim."
+ },
+ {
+  "n": 36,
+  "decision": "reject",
+  "relation": "none",
+  "delta": "",
+  "note": "Ep78 already hedged: viewers sent a building that 'could potentially match'. Ep120 'not able to confirm' is the same position. Supports."
+ },
+ {
+  "n": 37,
+  "decision": "reject",
+  "relation": "none",
+  "delta": "",
+  "note": "Earlier is a relayed tipster quote, not her own claim. Also compatible: Kates co-founded Next Model Management; Brunel founded Next Model Corp."
+ },
+ {
+  "n": 38,
+  "decision": "accept",
+  "relation": "revises",
+  "delta": "Earlier: Nicole Rothstein called Erika's cousin. Later: she does not seem to be Erika's blood cousin ('cousin' in quotation marks).",
+  "note": ""
+ },
+ {
+  "n": 39,
+  "decision": "reject",
+  "relation": "none",
+  "delta": "",
+  "note": "President vs 'established by' Lynn de Rothschild is loose restatement; ep122 frames it as 'which we had already showed you' - same claim, no intended change."
+ },
+ {
+  "n": 40,
+  "decision": "reject",
+  "relation": "none",
+  "delta": "",
+  "note": "Ep123 'Rick was holding Brian' is a slip in a comment-reading aside (Brian was packing gauze); she plainly meant Charlie. Not a change of position."
+ },
+ {
+  "n": 41,
+  "decision": "reject",
+  "relation": "none",
+  "delta": "",
+  "note": "Ep125 already places the Bowyers in 'New Jersey and Chicago at the same time'; ep126 NJ relocation is added detail, compatible. Supports."
+ },
+ {
+  "n": 42,
+  "decision": "accept",
+  "relation": "revises",
+  "delta": "Earlier: Zenger appointed Timpanogos CEO on August 19, 2025. Later: appointed August 18, 2025.",
+  "note": ""
+ },
+ {
+  "n": 43,
+  "decision": "amend",
+  "relation": "revises",
+  "delta": "Earlier: after ending the call with his wife, Mikey's 'brother' called him back and they talked 10 minutes. Later: it was Danny Philip who called Mikey, for 10 minutes.",
+  "note": "Ep47 says only 'his brother', not Danny McCoy; the original delta's '(Danny McCoy)' is not in the transcript."
+ },
+ {
+  "n": 44,
+  "decision": "reject",
+  "relation": "none",
+  "delta": "",
+  "note": "'2 years' vs '3 years' are rounded, offhand durations of an ongoing lawsuit history; not a deliberate factual claim that changed."
+ },
+ {
+  "n": 45,
+  "decision": "accept",
+  "relation": "revises",
+  "delta": "Earlier: Erika posted the frail-mother video on September 8, two days before the assassination. Later: posted it a day before Charlie died (wheelchair, Instagram).",
+  "note": ""
+ },
+ {
+  "n": 46,
+  "decision": "accept",
+  "relation": "revises",
+  "delta": "Earlier: frail-mother video posted September 8 (two days before). Later: posted a day before Charlie died.",
+  "note": "Ep88 32:34: 'the timing of her post 2 days prior... on the 8th'."
+ },
+ {
+  "n": 47,
+  "decision": "accept",
+  "relation": "revises",
+  "delta": "Earlier: Brunel flew 12-year-old triplets to Epstein for his birthday. Later: triplets were 8 (or 10) years old, she says unsure.",
+  "note": ""
+ },
+ {
+  "n": 48,
+  "decision": "accept",
+  "relation": "revises",
+  "delta": "Earlier: 12-year-old triplets flown to Epstein by Brunel. Later: 8- or 10-year-old triplets.",
+  "note": ""
+ },
+ {
+  "n": 49,
+  "decision": "accept",
+  "relation": "revises",
+  "delta": "Earlier: Stacy Sheridan filmed Charlie in the casket. Later: allegedly Elizabeth McCoy recorded Erika at the open casket, not Sheridan.",
+  "note": ""
+ },
+ {
+  "n": 50,
+  "decision": "reject",
+  "relation": "none",
+  "delta": "",
+  "note": "Different event: ep39 is Sheridan filming the casket coming off Air Force Two (Phoenix); ep134 corrects who recorded Erika at the open casket in Utah. Ep134 does not retract the Air Force Two filming."
+ },
+ {
+  "n": 51,
+  "decision": "reject",
+  "relation": "none",
+  "delta": "",
+  "note": "Different event: Air Force Two arrival (ep19) vs open-casket recording in Utah (ep134). The correction does not touch the Air Force Two claim."
+ },
+ {
+  "n": 52,
+  "decision": "reject",
+  "relation": "none",
+  "delta": "",
+  "note": "Different event: ep64 holding hands/recording as casket came off Air Force Two vs ep134 open-casket recording in Utah. Revision of the open-casket claim is #49."
+ },
+ {
+  "n": 53,
+  "decision": "accept",
+  "relation": "revises",
+  "delta": "Earlier: Charlie is buried in a Catholic cemetery. Later: the cemetery event was a mock burial, he was not lowered into the ground and was likely cremated.",
+  "note": "The 'mock burial / not lowered / cremated' wording is in the same ep134 paragraph as the linked claim."
+ },
+ {
+  "n": 54,
+  "decision": "accept",
+  "relation": "revises",
+  "delta": "Earlier: seven fragments taken; ATF got four, three unusable, one usable. Later: ATF got five fragments, four unusable, one usable.",
+  "note": ""
+ },
+ {
+  "n": 55,
+  "decision": "accept",
+  "relation": "revises",
+  "delta": "Earlier: TPUSA's hotel is unknown and staffers have no idea. Later: her team found which hotel TPUSA staff, including Kolvet, stayed in.",
+  "note": "New development (her team found the hotel), not an error in the earlier claim."
+ },
+ {
+  "n": 56,
+  "decision": "reject",
+  "relation": "none",
+  "delta": "",
+  "note": "Ep46 'cuz there's video of that' refers to the video officials/influencers claimed exists; in the same passage she says she doesn't believe Robinson was on campus. Not her own assertion; ep138 is consistent."
+ },
+ {
+  "n": 57,
+  "decision": "accept",
+  "relation": "revises",
+  "delta": "Earlier: Mikey and Danny Philip were on the phone 10 minutes while together. Later: they now think the two went to the hospital in separate cars.",
+  "note": ""
+ },
+ {
+  "n": 58,
+  "decision": "reject",
+  "relation": "none",
+  "delta": "",
+  "note": "'About 48 hours before' informing TPUSA/donors/rabbi and 'the night before' texting donors are compatible (separate communications in the same window); not the same specific fact changed."
+ },
+ {
+  "n": 59,
+  "decision": "reject",
+  "relation": "none",
+  "delta": "",
+  "note": "Ep144 already gave the caveat (31:25: 'is it possible the server just misidentified him? Yeah, of course'). Ep149 restates it, then raises her certainty to 95%. No narrowing of the ep144 claim."
+ },
+ {
+  "n": 60,
+  "decision": "accept",
+  "relation": "revises",
+  "delta": "Earlier: 'we do know' the screwdriver has Robinson's DNA (with Twiggs's). Later: the screwdriver 'was proven' not to tell us it is Robinson's DNA.",
+  "note": ""
+ },
+ {
+  "n": 61,
+  "decision": "accept",
+  "relation": "revises",
+  "delta": "Earlier: Robinson's towed Challenger had a single exhaust (footage car dual). Later: Fox still shows his towed car has dual exhaust; garage car is quad.",
+  "note": ""
+ },
+ {
+  "n": 62,
+  "decision": "accept",
+  "relation": "revises",
+  "delta": "Earlier: fake MySpace page first archived August 5, 2025. Later: archived on August 4.",
+  "note": ""
+ },
+ {
+  "n": 63,
+  "decision": "accept",
+  "relation": "revises",
+  "delta": "Earlier: site runner named Mat Servius. Later: she says that name was wrong (Servius not a Latvian surname).",
+  "note": "Ep162 gives the corrected name: Matiss Tabuns."
+ },
+ {
+  "n": 64,
+  "decision": "accept",
+  "relation": "revises",
+  "delta": "Earlier: Clancy's meeting with Gov. Cox was on September 2. Later: it was the evening of September 9, not September 2 as first reported.",
+  "note": ""
+ },
+ {
+  "n": 65,
+  "decision": "reject",
+  "relation": "none",
+  "delta": "",
+  "note": "Ep156 'handing over everything to Baron' refers to the investigation materials/timeline, not the show. Different proposition from popping into the show."
+ },
+ {
+  "n": 66,
+  "decision": "accept",
+  "relation": "qualifies",
+  "delta": "Earlier: Baron takes over the principal show during her leave. Later: she will join him for an episode or two during the leave.",
+  "note": "Minor: compatible caveat that she will appear on the show during her leave."
+ }
+]

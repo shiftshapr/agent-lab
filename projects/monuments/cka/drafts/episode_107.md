@@ -1018,6 +1018,7 @@ Transcript Snippet: In 2023, Eileen's brother, Kenneth Breining, tried to shoot 
 
 Anchored Artifacts: 
 Mentions: N-726, N-343, N-341
+Revises: C-8138
 Investigative Direction: Obtain the sheriff's incident report and court file for the 2023 shooting.
 
 ---

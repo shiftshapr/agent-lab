@@ -1,0 +1,454 @@
+[
+ {
+  "later": "C-9190",
+  "earlier": "C-8947",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9194",
+  "earlier": "C-9057",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9198",
+  "earlier": "C-8524",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9203",
+  "earlier": "C-6099",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9205",
+  "earlier": "C-6054",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9212",
+  "earlier": "C-8577",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9212",
+  "earlier": "C-9007",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9220",
+  "earlier": "C-9007",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9227",
+  "earlier": "C-3462",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9228",
+  "earlier": "C-9202",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9230",
+  "earlier": "C-6945",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9230",
+  "earlier": "C-9202",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9252",
+  "earlier": "C-4886",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9259",
+  "earlier": "C-6810",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9262",
+  "earlier": "C-9211",
+  "relation": "revises",
+  "delta": "Earlier: WHCD shooting at 8:36 p.m. Eastern. Later: shooting happened at 8:39 p.m. Eastern.",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9263",
+  "earlier": "C-9007",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9273",
+  "earlier": "C-9217",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9273",
+  "earlier": "C-9216",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9299",
+  "earlier": "C-8941",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9299",
+  "earlier": "C-5675",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9300",
+  "earlier": "C-9191",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9301",
+  "earlier": "C-9191",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9302",
+  "earlier": "C-9193",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9302",
+  "earlier": "C-9187",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9302",
+  "earlier": "C-8946",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9304",
+  "earlier": "C-6416",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9304",
+  "earlier": "C-6342",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9309",
+  "earlier": "C-8798",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9339",
+  "earlier": "C-9209",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9340",
+  "earlier": "C-9275",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9346",
+  "earlier": "C-9216",
+  "relation": "supports",
+  "confidence": "low"
+ },
+ {
+  "later": "C-9349",
+  "earlier": "C-9216",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9352",
+  "earlier": "C-9300",
+  "relation": "supports",
+  "confidence": "low"
+ },
+ {
+  "later": "C-9365",
+  "earlier": "C-9160",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9365",
+  "earlier": "C-8117",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9366",
+  "earlier": "C-8125",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9367",
+  "earlier": "C-8127",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9367",
+  "earlier": "C-8128",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9368",
+  "earlier": "C-8129",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9369",
+  "earlier": "C-8130",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9370",
+  "earlier": "C-8130",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9371",
+  "earlier": "C-8131",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9372",
+  "earlier": "C-8126",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9373",
+  "earlier": "C-8133",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9374",
+  "earlier": "C-8135",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9375",
+  "earlier": "C-8136",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9376",
+  "earlier": "C-8138",
+  "relation": "revises",
+  "delta": "Earlier: brother-in-law Kenneth tried to shoot Marx in 2003 (after first saying 2023). Later: it happened in 2023.",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9377",
+  "earlier": "C-8139",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9441",
+  "earlier": "C-3285",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9489",
+  "earlier": "C-2812",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9489",
+  "earlier": "C-6984",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9497",
+  "earlier": "C-9486",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9499",
+  "earlier": "C-7516",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9523",
+  "earlier": "C-9361",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9523",
+  "earlier": "C-9209",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9526",
+  "earlier": "C-5393",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9549",
+  "earlier": "C-9216",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9549",
+  "earlier": "C-9346",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9552",
+  "earlier": "C-8681",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9554",
+  "earlier": "C-7545",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9554",
+  "earlier": "C-9111",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9555",
+  "earlier": "C-9192",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9555",
+  "earlier": "C-4349",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9586",
+  "earlier": "C-7883",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9586",
+  "earlier": "C-5393",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9587",
+  "earlier": "C-7046",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9595",
+  "earlier": "C-2812",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9611",
+  "earlier": "C-8341",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9615",
+  "earlier": "C-9558",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9616",
+  "earlier": "C-9554",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9618",
+  "earlier": "C-9556",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9645",
+  "earlier": "C-4998",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9645",
+  "earlier": "C-4995",
+  "relation": "supports",
+  "confidence": "low"
+ },
+ {
+  "later": "C-9646",
+  "earlier": "C-4998",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9653",
+  "earlier": "C-5004",
+  "relation": "none",
+  "confidence": "high"
+ }
+]

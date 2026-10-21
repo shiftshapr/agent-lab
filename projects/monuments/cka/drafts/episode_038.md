@@ -1360,6 +1360,7 @@ Claim: The host says she believes Brigitte Macron opened Paris Design Week on Se
 Anchored Artifacts: A-1475.1
 Mentions: N-82
 Related Nodes: N-10276
+Revises: C-3195
 Investigative Direction: Verify via Paris Design Week official programming and French Ministry of Culture announcements.
 
 ---

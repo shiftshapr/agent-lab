@@ -2548,6 +2548,7 @@ Anchored Artifacts:
 Mentions: N-3
 Related Nodes: N-10821
 Tags: relevance:tangential
+Revises: C-8741
 Investigative Direction: Check Crain & Company's own announcement of its departure from the Daily Wire.
 
 ---

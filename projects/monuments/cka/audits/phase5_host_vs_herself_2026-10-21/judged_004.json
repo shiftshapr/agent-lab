@@ -1,0 +1,454 @@
+[
+ {
+  "later": "C-4498",
+  "earlier": "C-841",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4536",
+  "earlier": "C-693",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4540",
+  "earlier": "C-4190",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4545",
+  "earlier": "C-4497",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-4545",
+  "earlier": "C-841",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4550",
+  "earlier": "C-3476",
+  "relation": "revises",
+  "delta": "Earlier: presses whether the TPUSA donor Pierre is Pierre Dupont, as sources suggested. Later: she believes the donor is Pierre Falcone, not Dupont.",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-4551",
+  "earlier": "C-4026",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-4560",
+  "earlier": "C-4507",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-4572",
+  "earlier": "C-592",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4600",
+  "earlier": "C-1079",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4605",
+  "earlier": "C-4507",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-4613",
+  "earlier": "C-4458",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4629",
+  "earlier": "C-1396",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-4629",
+  "earlier": "C-1510",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-4636",
+  "earlier": "C-4615",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4638",
+  "earlier": "C-2514",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4694",
+  "earlier": "C-2841",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-4727",
+  "earlier": "C-3106",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-4753",
+  "earlier": "C-2154",
+  "relation": "revises",
+  "delta": "Earlier: Tyler Bowyer majored in Soviet studies. Later: he holds a degree in Russian studies.",
+  "confidence": "low"
+ },
+ {
+  "later": "C-4757",
+  "earlier": "C-1110",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4762",
+  "earlier": "C-2698",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4763",
+  "earlier": "C-4601",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4766",
+  "earlier": "C-4600",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4766",
+  "earlier": "C-1079",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4767",
+  "earlier": "C-3279",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4767",
+  "earlier": "C-1860",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-4769",
+  "earlier": "C-4350",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-4772",
+  "earlier": "C-3280",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4775",
+  "earlier": "C-3277",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4775",
+  "earlier": "C-1875",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4776",
+  "earlier": "C-1879",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4776",
+  "earlier": "C-3278",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4777",
+  "earlier": "C-2774",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4777",
+  "earlier": "C-2690",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4813",
+  "earlier": "C-3455",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4813",
+  "earlier": "C-3193",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4815",
+  "earlier": "C-3808",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4817",
+  "earlier": "C-4548",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4829",
+  "earlier": "C-3855",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4834",
+  "earlier": "C-1233",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4849",
+  "earlier": "C-3464",
+  "relation": "supports",
+  "confidence": "low"
+ },
+ {
+  "later": "C-4863",
+  "earlier": "C-2585",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-4863",
+  "earlier": "C-2771",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4868",
+  "earlier": "C-2274",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4869",
+  "earlier": "C-2273",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4871",
+  "earlier": "C-4738",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4871",
+  "earlier": "C-4739",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-4889",
+  "earlier": "C-4818",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4891",
+  "earlier": "C-4734",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4891",
+  "earlier": "C-4811",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4908",
+  "earlier": "C-4735",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4909",
+  "earlier": "C-4735",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4957",
+  "earlier": "C-490",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4960",
+  "earlier": "C-4740",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-5052",
+  "earlier": "C-2620",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-5171",
+  "earlier": "C-4751",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-5173",
+  "earlier": "C-4600",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-5173",
+  "earlier": "C-4766",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-5190",
+  "earlier": "C-2791",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-5204",
+  "earlier": "C-4600",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-5204",
+  "earlier": "C-4601",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-5266",
+  "earlier": "C-5071",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-5266",
+  "earlier": "C-5239",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-5296",
+  "earlier": "C-3106",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-5339",
+  "earlier": "C-4727",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-5341",
+  "earlier": "C-4769",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-5351",
+  "earlier": "C-2093",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-5367",
+  "earlier": "C-3348",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-5368",
+  "earlier": "C-841",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-5368",
+  "earlier": "C-4497",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-5419",
+  "earlier": "C-4492",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-5419",
+  "earlier": "C-4081",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-5420",
+  "earlier": "C-4180",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-5420",
+  "earlier": "C-4493",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-5421",
+  "earlier": "C-4081",
+  "relation": "none",
+  "confidence": "medium"
+ }
+]

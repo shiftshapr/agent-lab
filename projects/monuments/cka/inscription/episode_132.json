@@ -2798,6 +2798,10 @@
       "mentions_person_refs": [
         "N-2",
         "N-1"
+      ],
+      "revises_claim_refs": [
+        "C-7533",
+        "C-7904"
       ]
     },
     {

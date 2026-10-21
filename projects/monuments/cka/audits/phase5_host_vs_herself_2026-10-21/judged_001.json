@@ -1,0 +1,456 @@
+[
+ {
+  "later": "C-60",
+  "earlier": "C-53",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-307",
+  "earlier": "C-122",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-342",
+  "earlier": "C-129",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-408",
+  "earlier": "C-117",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-409",
+  "earlier": "C-117",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-411",
+  "earlier": "C-117",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-481",
+  "earlier": "C-48",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-488",
+  "earlier": "C-283",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-543",
+  "earlier": "C-386",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-622",
+  "earlier": "C-268",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-653",
+  "earlier": "C-380",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-693",
+  "earlier": "C-93",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-694",
+  "earlier": "C-95",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-703",
+  "earlier": "C-653",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-717",
+  "earlier": "C-454",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-801",
+  "earlier": "C-434",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-801",
+  "earlier": "C-433",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-839",
+  "earlier": "C-82",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-905",
+  "earlier": "C-801",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-905",
+  "earlier": "C-434",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-1013",
+  "earlier": "C-669",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-1030",
+  "earlier": "C-431",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-951",
+  "earlier": "C-752",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-958",
+  "earlier": "C-300",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-1085",
+  "earlier": "C-1053",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-1106",
+  "earlier": "C-999",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-1127",
+  "earlier": "C-376",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-1160",
+  "earlier": "C-1122",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-1163",
+  "earlier": "C-1084",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-1168",
+  "earlier": "C-408",
+  "relation": "supports",
+  "confidence": "low"
+ },
+ {
+  "later": "C-1168",
+  "earlier": "C-409",
+  "relation": "supports",
+  "confidence": "low"
+ },
+ {
+  "later": "C-1173",
+  "earlier": "C-408",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-1173",
+  "earlier": "C-412",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-1273",
+  "earlier": "C-665",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-1273",
+  "earlier": "C-427",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-1274",
+  "earlier": "C-1156",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-1329",
+  "earlier": "C-701",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-1396",
+  "earlier": "C-1240",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-1475",
+  "earlier": "C-407",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-1482",
+  "earlier": "C-303",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-1510",
+  "earlier": "C-1396",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-1662",
+  "earlier": "C-414",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-1662",
+  "earlier": "C-413",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-1662",
+  "earlier": "C-415",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-1662",
+  "earlier": "C-412",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-1663",
+  "earlier": "C-522",
+  "relation": "supports",
+  "confidence": "low"
+ },
+ {
+  "later": "C-1666",
+  "earlier": "C-525",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-1724",
+  "earlier": "C-786",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-1777",
+  "earlier": "C-1405",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-1783",
+  "earlier": "C-23",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-1826",
+  "earlier": "C-1196",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-1852",
+  "earlier": "C-864",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-1877",
+  "earlier": "C-1639",
+  "relation": "revises",
+  "delta": "Earlier: an emailed tip insisted she look into ME Deirdre Amaro. Later: Charlie told her in a dream to look into Amaro.",
+  "confidence": "low"
+ },
+ {
+  "later": "C-1877",
+  "earlier": "C-1638",
+  "relation": "revises",
+  "delta": "Earlier: emailed tip urged her to look into Amaro. Later: Charlie told her in a dream to look into Amaro (adds army major, Ericson family).",
+  "confidence": "low"
+ },
+ {
+  "later": "C-1878",
+  "earlier": "C-1639",
+  "relation": "revises",
+  "delta": "Earlier: an emailed tip insisted she look into ME Deirdre Amaro. Later: Charlie told her in a dream to look into Amaro.",
+  "confidence": "low"
+ },
+ {
+  "later": "C-1878",
+  "earlier": "C-1638",
+  "relation": "revises",
+  "delta": "Earlier: emailed tip urged her to look into Amaro. Later: Charlie told her in a dream to look into Amaro.",
+  "confidence": "low"
+ },
+ {
+  "later": "C-1879",
+  "earlier": "C-1639",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-1900",
+  "earlier": "C-1727",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-1905",
+  "earlier": "C-1732",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-1932",
+  "earlier": "C-485",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-2034",
+  "earlier": "C-1516",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-2034",
+  "earlier": "C-1519",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-2050",
+  "earlier": "C-1517",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-2053",
+  "earlier": "C-1535",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-2080",
+  "earlier": "C-1825",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-2133",
+  "earlier": "C-82",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-2134",
+  "earlier": "C-841",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-2153",
+  "earlier": "C-1179",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-2176",
+  "earlier": "C-1986",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-2227",
+  "earlier": "C-1561",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-2236",
+  "earlier": "C-1842",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-2241",
+  "earlier": "C-2156",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-2249",
+  "earlier": "C-468",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-2279",
+  "earlier": "C-2121",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-2286",
+  "earlier": "C-1123",
+  "relation": "supports",
+  "confidence": "medium"
+ }
+]

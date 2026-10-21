@@ -1583,7 +1583,10 @@
       "tags": [],
       "claim_timestamp": "00:06:45",
       "investigative_direction": "Confirm the time from Secret Service and Metropolitan Police incident reports.",
-      "transcript_snippet": "the shooting happened at 8:39 p. m. 8:39 p. m. Eastern."
+      "transcript_snippet": "the shooting happened at 8:39 p. m. 8:39 p. m. Eastern.",
+      "revises_claim_refs": [
+        "C-9211"
+      ]
     },
     {
       "@type": "Claim",

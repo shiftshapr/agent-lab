@@ -576,6 +576,7 @@ Transcript Snippet: He finally answered and so I'm going to set a time for him t
 Anchored Artifacts:
 Mentions: N-341, N-3
 Related Nodes: N-10560
+Revises: C-8632
 Investigative Direction: Check the host's Instagram direct-message thread with Victor Marx and any later scheduled appearance.
 
 ---

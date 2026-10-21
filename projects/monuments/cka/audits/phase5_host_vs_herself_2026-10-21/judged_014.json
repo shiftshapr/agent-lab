@@ -1,0 +1,460 @@
+[
+ {
+  "later": "C-10778",
+  "earlier": "C-10724",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10793",
+  "earlier": "C-3716",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10816",
+  "earlier": "C-9941",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10844",
+  "earlier": "C-10692",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10847",
+  "earlier": "C-4492",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10847",
+  "earlier": "C-6188",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10898",
+  "earlier": "C-10675",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10898",
+  "earlier": "C-10233",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10902",
+  "earlier": "C-10233",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10913",
+  "earlier": "C-4773",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10937",
+  "earlier": "C-4657",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10945",
+  "earlier": "C-7183",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10952",
+  "earlier": "C-10078",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10952",
+  "earlier": "C-4752",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10978",
+  "earlier": "C-10892",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10978",
+  "earlier": "C-10863",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10979",
+  "earlier": "C-10878",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10996",
+  "earlier": "C-7806",
+  "relation": "revises",
+  "delta": "Earlier: Zenger appointed Timpanogos CEO on August 19, 2025. Later: appointed August 18, 2025.",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10996",
+  "earlier": "C-1122",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10999",
+  "earlier": "C-1126",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-11055",
+  "earlier": "C-7276",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-11070",
+  "earlier": "C-9999",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-11074",
+  "earlier": "C-10705",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-11078",
+  "earlier": "C-10010",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-11078",
+  "earlier": "C-6196",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-11080",
+  "earlier": "C-4105",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-11080",
+  "earlier": "C-7942",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-11087",
+  "earlier": "C-4110",
+  "relation": "revises",
+  "delta": "Earlier: after the wife call, his brother (Danny McCoy) called back and they talked 10 minutes. Later: it was Danny Philip who called Mikey for 10 minutes.",
+  "confidence": "high"
+ },
+ {
+  "later": "C-11087",
+  "earlier": "C-6196",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-11088",
+  "earlier": "C-4104",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-11096",
+  "earlier": "C-9778",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-11098",
+  "earlier": "C-8306",
+  "relation": "supports",
+  "confidence": "low"
+ },
+ {
+  "later": "C-11098",
+  "earlier": "C-7482",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-11099",
+  "earlier": "C-7482",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-11099",
+  "earlier": "C-7175",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-11113",
+  "earlier": "C-8383",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-11118",
+  "earlier": "C-8858",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-11151",
+  "earlier": "C-8730",
+  "relation": "revises",
+  "delta": "Earlier: Shapiro's lawyer Sarelson had been suing her in arbitration for 2 years. Later (~2.5 months on): suing her for 3 years.",
+  "confidence": "low"
+ },
+ {
+  "later": "C-11151",
+  "earlier": "C-10666",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-11202",
+  "earlier": "C-1365",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-11202",
+  "earlier": "C-4712",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-11204",
+  "earlier": "C-2125",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-11204",
+  "earlier": "C-2126",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-11206",
+  "earlier": "C-6389",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-11206",
+  "earlier": "C-717",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-11207",
+  "earlier": "C-2950",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-11207",
+  "earlier": "C-3541",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-11208",
+  "earlier": "C-9228",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-11208",
+  "earlier": "C-4712",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-11214",
+  "earlier": "C-6910",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-11231",
+  "earlier": "C-10745",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-11236",
+  "earlier": "C-9908",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-11236",
+  "earlier": "C-6186",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-11260",
+  "earlier": "C-4671",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-11268",
+  "earlier": "C-6561",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-11292",
+  "earlier": "C-8761",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-11324",
+  "earlier": "C-3985",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-11350",
+  "earlier": "C-6389",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-11350",
+  "earlier": "C-11206",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-11355",
+  "earlier": "C-4776",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-11355",
+  "earlier": "C-1878",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-11384",
+  "earlier": "C-7533",
+  "relation": "revises",
+  "delta": "Earlier: Erika posted the frail-mother video on September 8, two days before the assassination. Later: posted it a day before Charlie died (wheelchair, Instagram).",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-11384",
+  "earlier": "C-7904",
+  "relation": "revises",
+  "delta": "Earlier: frail-mother video posted September 8 (two days before). Later: posted a day before Charlie died.",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-11385",
+  "earlier": "C-3901",
+  "relation": "none",
+  "confidence": "low"
+ },
+ {
+  "later": "C-11421",
+  "earlier": "C-6830",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-11441",
+  "earlier": "C-3999",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-11441",
+  "earlier": "C-752",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-11448",
+  "earlier": "C-4885",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-11448",
+  "earlier": "C-11416",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-11451",
+  "earlier": "C-7867",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-11467",
+  "earlier": "C-8350",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-11486",
+  "earlier": "C-10436",
+  "relation": "revises",
+  "delta": "Earlier: Brunel flew 12-year-old triplets to Epstein for his birthday. Later: triplets were 8 (or 10) years old, she says unsure.",
+  "confidence": "high"
+ },
+ {
+  "later": "C-11486",
+  "earlier": "C-5213",
+  "relation": "revises",
+  "delta": "Earlier: 12-year-old triplets flown to Epstein by Brunel. Later: 8- or 10-year-old triplets.",
+  "confidence": "high"
+ },
+ {
+  "later": "C-11534",
+  "earlier": "C-7304",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-11534",
+  "earlier": "C-5717",
+  "relation": "revises",
+  "delta": "Earlier: Stacy Sheridan filmed Charlie in the casket. Later: allegedly Elizabeth McCoy recorded Erika at the open casket, not Sheridan.",
+  "confidence": "high"
+ }
+]

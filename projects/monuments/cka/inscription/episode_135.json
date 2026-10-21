@@ -2924,6 +2924,9 @@
       "mentions_person_refs": [
         "N-10523",
         "N-11053"
+      ],
+      "revises_claim_refs": [
+        "C-10646"
       ]
     },
     {

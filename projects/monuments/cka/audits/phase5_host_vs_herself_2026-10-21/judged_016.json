@@ -1,0 +1,453 @@
+[
+ {
+  "later": "C-12206",
+  "earlier": "C-1958",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12210",
+  "earlier": "C-10164",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12214",
+  "earlier": "C-10084",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12214",
+  "earlier": "C-4567",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12238",
+  "earlier": "C-1355",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12254",
+  "earlier": "C-7409",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12255",
+  "earlier": "C-7651",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12281",
+  "earlier": "C-10084",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12281",
+  "earlier": "C-7694",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-12297",
+  "earlier": "C-9996",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-12299",
+  "earlier": "C-6439",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12309",
+  "earlier": "C-10161",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12309",
+  "earlier": "C-11689",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12318",
+  "earlier": "C-8068",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12318",
+  "earlier": "C-8067",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-12323",
+  "earlier": "C-11828",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-12323",
+  "earlier": "C-10610",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-12342",
+  "earlier": "C-12215",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12342",
+  "earlier": "C-10084",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12344",
+  "earlier": "C-12234",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12354",
+  "earlier": "C-12196",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12358",
+  "earlier": "C-3994",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-12358",
+  "earlier": "C-3526",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-12364",
+  "earlier": "C-12342",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-12366",
+  "earlier": "C-8646",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12366",
+  "earlier": "C-12284",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12371",
+  "earlier": "C-10255",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-12389",
+  "earlier": "C-12175",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-12427",
+  "earlier": "C-6430",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-12427",
+  "earlier": "C-6312",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-12428",
+  "earlier": "C-6430",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-12428",
+  "earlier": "C-11430",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12440",
+  "earlier": "C-10844",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12440",
+  "earlier": "C-10692",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12441",
+  "earlier": "C-10844",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-12441",
+  "earlier": "C-1475",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12443",
+  "earlier": "C-11762",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12445",
+  "earlier": "C-11835",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12447",
+  "earlier": "C-8831",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12455",
+  "earlier": "C-1842",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12455",
+  "earlier": "C-2236",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12476",
+  "earlier": "C-8895",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12476",
+  "earlier": "C-8894",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12488",
+  "earlier": "C-10746",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-12518",
+  "earlier": "C-12422",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-12534",
+  "earlier": "C-12494",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12535",
+  "earlier": "C-11950",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12535",
+  "earlier": "C-10599",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12540",
+  "earlier": "C-10010",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12540",
+  "earlier": "C-9930",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12542",
+  "earlier": "C-2693",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12545",
+  "earlier": "C-3285",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12545",
+  "earlier": "C-2692",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12547",
+  "earlier": "C-864",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12548",
+  "earlier": "C-2273",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12548",
+  "earlier": "C-4869",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12549",
+  "earlier": "C-4868",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12550",
+  "earlier": "C-4868",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12550",
+  "earlier": "C-2274",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12553",
+  "earlier": "C-9541",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12560",
+  "earlier": "C-1138",
+  "relation": "revises",
+  "delta": "Earlier: about 48 hours before he died Charlie told TPUSA, donors and a rabbi he must abandon the pro-Israel cause. Later: he was texting donors this the night before.",
+  "confidence": "low"
+ },
+ {
+  "later": "C-12565",
+  "earlier": "C-2692",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12565",
+  "earlier": "C-4777",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12568",
+  "earlier": "C-3285",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12568",
+  "earlier": "C-2690",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12577",
+  "earlier": "C-10712",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-12577",
+  "earlier": "C-4104",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-12579",
+  "earlier": "C-2692",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12580",
+  "earlier": "C-2692",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12583",
+  "earlier": "C-10011",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12585",
+  "earlier": "C-10914",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12586",
+  "earlier": "C-7411",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12603",
+  "earlier": "C-10264",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-12628",
+  "earlier": "C-10433",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12635",
+  "earlier": "C-12481",
+  "relation": "supports",
+  "confidence": "high"
+ }
+]

@@ -629,6 +629,7 @@ Transcript Snippet: the shooting happened at 8:39 p. m. 8:39 p. m. Eastern.
 Anchored Artifacts:
 Mentions:
 Related Nodes: N-10582
+Revises: C-9211
 Investigative Direction: Confirm the time from Secret Service and Metropolitan Police incident reports.
 
 ---

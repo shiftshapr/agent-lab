@@ -1,0 +1,455 @@
+[
+ {
+  "later": "C-8350",
+  "earlier": "C-7714",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-8358",
+  "earlier": "C-6748",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8365",
+  "earlier": "C-7404",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8369",
+  "earlier": "C-8062",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8439",
+  "earlier": "C-8003",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8517",
+  "earlier": "C-4430",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-8520",
+  "earlier": "C-8338",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-8523",
+  "earlier": "C-327",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8528",
+  "earlier": "C-8001",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8530",
+  "earlier": "C-8447",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8531",
+  "earlier": "C-1416",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8531",
+  "earlier": "C-8001",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8546",
+  "earlier": "C-8326",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8546",
+  "earlier": "C-8337",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-8570",
+  "earlier": "C-2163",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8613",
+  "earlier": "C-4492",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8613",
+  "earlier": "C-7701",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8680",
+  "earlier": "C-4407",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8693",
+  "earlier": "C-8609",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-8693",
+  "earlier": "C-5393",
+  "relation": "supports",
+  "confidence": "low"
+ },
+ {
+  "later": "C-8708",
+  "earlier": "C-3643",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8708",
+  "earlier": "C-6771",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8717",
+  "earlier": "C-7112",
+  "relation": "revises",
+  "delta": "Earlier: the US bombed 200 schoolgirls in Iran. Later: the same strike killed 150 schoolgirls.",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-8751",
+  "earlier": "C-4613",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-8804",
+  "earlier": "C-5815",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8809",
+  "earlier": "C-6511",
+  "relation": "supports",
+  "confidence": "low"
+ },
+ {
+  "later": "C-8809",
+  "earlier": "C-6051",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8824",
+  "earlier": "C-4543",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8824",
+  "earlier": "C-6430",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8845",
+  "earlier": "C-71",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8845",
+  "earlier": "C-6762",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-8849",
+  "earlier": "C-7275",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-8900",
+  "earlier": "C-8380",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8914",
+  "earlier": "C-8741",
+  "relation": "revises",
+  "delta": "Earlier: Daily Wire quietly got rid of its sports dept Crain & Co. Later: she was wrong; Crain & Co opted to leave on its own.",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8917",
+  "earlier": "C-2419",
+  "relation": "none",
+  "confidence": "low"
+ },
+ {
+  "later": "C-8925",
+  "earlier": "C-4469",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8939",
+  "earlier": "C-8669",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-8942",
+  "earlier": "C-4490",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-8942",
+  "earlier": "C-8613",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-8942",
+  "earlier": "C-4492",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-8942",
+  "earlier": "C-7701",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-8942",
+  "earlier": "C-4113",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8947",
+  "earlier": "C-2240",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8953",
+  "earlier": "C-2462",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-8954",
+  "earlier": "C-8639",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8978",
+  "earlier": "C-2355",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8989",
+  "earlier": "C-8836",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8989",
+  "earlier": "C-8783",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8990",
+  "earlier": "C-8835",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-8990",
+  "earlier": "C-8837",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9007",
+  "earlier": "C-8577",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9021",
+  "earlier": "C-1825",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9022",
+  "earlier": "C-7477",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9024",
+  "earlier": "C-8620",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9036",
+  "earlier": "C-8613",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9040",
+  "earlier": "C-2806",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9059",
+  "earlier": "C-8261",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9060",
+  "earlier": "C-2236",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9069",
+  "earlier": "C-8427",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9071",
+  "earlier": "C-6871",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9073",
+  "earlier": "C-8427",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9073",
+  "earlier": "C-6871",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9092",
+  "earlier": "C-7384",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9110",
+  "earlier": "C-4515",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9114",
+  "earlier": "C-3901",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9123",
+  "earlier": "C-5700",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9128",
+  "earlier": "C-8667",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9132",
+  "earlier": "C-8941",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9138",
+  "earlier": "C-5906",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9138",
+  "earlier": "C-8308",
+  "relation": "supports",
+  "confidence": "low"
+ },
+ {
+  "later": "C-9147",
+  "earlier": "C-4514",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9149",
+  "earlier": "C-6872",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9153",
+  "earlier": "C-8632",
+  "relation": "revises",
+  "delta": "Earlier: Marx never replied to her Instagram message or follow-up. Later: Marx finally replied while she was in Italy.",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-9154",
+  "earlier": "C-8254",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-9186",
+  "earlier": "C-9138",
+  "relation": "supports",
+  "confidence": "high"
+ }
+]

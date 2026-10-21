@@ -1,0 +1,455 @@
+[
+ {
+  "later": "C-12645",
+  "earlier": "C-12620",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12646",
+  "earlier": "C-12618",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12666",
+  "earlier": "C-11075",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12666",
+  "earlier": "C-11800",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12685",
+  "earlier": "C-2105",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-12686",
+  "earlier": "C-11873",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12686",
+  "earlier": "C-11074",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-12696",
+  "earlier": "C-11071",
+  "relation": "none",
+  "delta": "Claim text puts the SUV at Timpanogos, but ep129 transcript says Neff and Philip reached the event (UVU) by SUV; ep147 says no SUV went to the hospital.",
+  "confidence": "low"
+ },
+ {
+  "later": "C-12744",
+  "earlier": "C-20",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12753",
+  "earlier": "C-4114",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12753",
+  "earlier": "C-5368",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12765",
+  "earlier": "C-12665",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12765",
+  "earlier": "C-11075",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-12778",
+  "earlier": "C-9250",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12787",
+  "earlier": "C-6750",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-12799",
+  "earlier": "C-2225",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12803",
+  "earlier": "C-5841",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-12826",
+  "earlier": "C-8844",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-12828",
+  "earlier": "C-8843",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-12829",
+  "earlier": "C-8989",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-12849",
+  "earlier": "C-2034",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12850",
+  "earlier": "C-6423",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-12857",
+  "earlier": "C-10229",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12863",
+  "earlier": "C-10236",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-12863",
+  "earlier": "C-11625",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12863",
+  "earlier": "C-10334",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12863",
+  "earlier": "C-10338",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-12864",
+  "earlier": "C-10336",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12864",
+  "earlier": "C-2486",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12867",
+  "earlier": "C-12569",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12867",
+  "earlier": "C-12568",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-12921",
+  "earlier": "C-12391",
+  "relation": "qualifies",
+  "delta": "Earlier: the server gave an interview and there is a receipt. Later: the receipt claim relies on the servers' memory, which may be mistaken, so she was never 100% sure.",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-12922",
+  "earlier": "C-9555",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12922",
+  "earlier": "C-9915",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-12923",
+  "earlier": "C-9555",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12923",
+  "earlier": "C-3972",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12923",
+  "earlier": "C-8675",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12923",
+  "earlier": "C-9911",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12923",
+  "earlier": "C-8667",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12962",
+  "earlier": "C-10728",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12962",
+  "earlier": "C-12455",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12983",
+  "earlier": "C-1807",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12990",
+  "earlier": "C-10451",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-12998",
+  "earlier": "C-1713",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-13014",
+  "earlier": "C-8898",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13022",
+  "earlier": "C-10672",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-13026",
+  "earlier": "C-12178",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-13073",
+  "earlier": "C-4746",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13073",
+  "earlier": "C-6843",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13074",
+  "earlier": "C-4756",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13075",
+  "earlier": "C-11409",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-13075",
+  "earlier": "C-11403",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13076",
+  "earlier": "C-8270",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13076",
+  "earlier": "C-8195",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13077",
+  "earlier": "C-8272",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13077",
+  "earlier": "C-4760",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13079",
+  "earlier": "C-4765",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13080",
+  "earlier": "C-4601",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-13080",
+  "earlier": "C-8274",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13082",
+  "earlier": "C-8276",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13082",
+  "earlier": "C-5176",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13083",
+  "earlier": "C-8277",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13086",
+  "earlier": "C-8279",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13086",
+  "earlier": "C-10081",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13088",
+  "earlier": "C-10065",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13088",
+  "earlier": "C-10068",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-13093",
+  "earlier": "C-7628",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13095",
+  "earlier": "C-11790",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-13095",
+  "earlier": "C-10866",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13097",
+  "earlier": "C-11690",
+  "relation": "revises",
+  "delta": "Earlier: 'we do know' the screwdriver has Robinson's DNA (with Twiggs's). Later: the screwdriver 'was proven' not to tell us it is Robinson's DNA.",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-13100",
+  "earlier": "C-11826",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13101",
+  "earlier": "C-12057",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13116",
+  "earlier": "C-12577",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13117",
+  "earlier": "C-12665",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13129",
+  "earlier": "C-78",
+  "relation": "supports",
+  "confidence": "high"
+ }
+]
