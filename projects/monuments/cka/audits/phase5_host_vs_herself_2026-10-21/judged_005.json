@@ -1,0 +1,455 @@
+[
+ {
+  "later": "C-5451",
+  "earlier": "C-5339",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-5452",
+  "earlier": "C-4061",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-5525",
+  "earlier": "C-2475",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-5526",
+  "earlier": "C-3182",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-5595",
+  "earlier": "C-2771",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-5595",
+  "earlier": "C-4863",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-5595",
+  "earlier": "C-2585",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-5606",
+  "earlier": "C-4536",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-5641",
+  "earlier": "C-2138",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-5641",
+  "earlier": "C-5239",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-5643",
+  "earlier": "C-5267",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-5643",
+  "earlier": "C-5391",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-5654",
+  "earlier": "C-5073",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-5654",
+  "earlier": "C-5268",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-5688",
+  "earlier": "C-4492",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-5688",
+  "earlier": "C-4542",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-5690",
+  "earlier": "C-4493",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-5690",
+  "earlier": "C-4425",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-5694",
+  "earlier": "C-2134",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-5694",
+  "earlier": "C-4813",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-5696",
+  "earlier": "C-79",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-5696",
+  "earlier": "C-2681",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-5701",
+  "earlier": "C-5041",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-5705",
+  "earlier": "C-5411",
+  "relation": "qualifies",
+  "delta": "Earlier: Erika waited an hour on the tarmac, stated flatly. Later: conditioned on Kolvet's account ('if Andrew is to be believed').",
+  "confidence": "low"
+ },
+ {
+  "later": "C-5717",
+  "earlier": "C-3437",
+  "relation": "supports",
+  "confidence": "low"
+ },
+ {
+  "later": "C-5717",
+  "earlier": "C-1720",
+  "relation": "supports",
+  "confidence": "low"
+ },
+ {
+  "later": "C-5718",
+  "earlier": "C-3437",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-5718",
+  "earlier": "C-1720",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-5745",
+  "earlier": "C-4081",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-5774",
+  "earlier": "C-4371",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-5812",
+  "earlier": "C-4390",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-5812",
+  "earlier": "C-3602",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-5813",
+  "earlier": "C-3602",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-5828",
+  "earlier": "C-4768",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-5838",
+  "earlier": "C-4813",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-5838",
+  "earlier": "C-3455",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-5858",
+  "earlier": "C-1195",
+  "relation": "supports",
+  "confidence": "low"
+ },
+ {
+  "later": "C-5867",
+  "earlier": "C-864",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-5867",
+  "earlier": "C-1852",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-5885",
+  "earlier": "C-1986",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-5899",
+  "earlier": "C-5029",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-5899",
+  "earlier": "C-5028",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-5961",
+  "earlier": "C-5747",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-5970",
+  "earlier": "C-4488",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-5975",
+  "earlier": "C-4492",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-5975",
+  "earlier": "C-5688",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-5976",
+  "earlier": "C-4113",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6011",
+  "earlier": "C-1941",
+  "relation": "revises",
+  "delta": "Earlier: Miriam Adelson gave Trump $100 million. Later: she is giving Trump $200 million.",
+  "confidence": "low"
+ },
+ {
+  "later": "C-6051",
+  "earlier": "C-4066",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-6073",
+  "earlier": "C-4550",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6128",
+  "earlier": "C-2249",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-6162",
+  "earlier": "C-5987",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-6186",
+  "earlier": "C-4492",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-6186",
+  "earlier": "C-5419",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-6188",
+  "earlier": "C-4492",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-6188",
+  "earlier": "C-5419",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-6189",
+  "earlier": "C-5452",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-6191",
+  "earlier": "C-4543",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6192",
+  "earlier": "C-1511",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6195",
+  "earlier": "C-6054",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6195",
+  "earlier": "C-3854",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6195",
+  "earlier": "C-3768",
+  "relation": "supports",
+  "confidence": "low"
+ },
+ {
+  "later": "C-6195",
+  "earlier": "C-5406",
+  "relation": "supports",
+  "confidence": "low"
+ },
+ {
+  "later": "C-6195",
+  "earlier": "C-5455",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-6196",
+  "earlier": "C-4103",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6196",
+  "earlier": "C-3030",
+  "relation": "revises",
+  "delta": "Earlier: Neff's account confirms Mikey McCoy called Erika first. Later: Mikey called Elizabeth McCoy first.",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6198",
+  "earlier": "C-3104",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-6200",
+  "earlier": "C-5702",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6200",
+  "earlier": "C-3100",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6201",
+  "earlier": "C-5704",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6201",
+  "earlier": "C-5417",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6202",
+  "earlier": "C-5705",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6202",
+  "earlier": "C-5411",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6223",
+  "earlier": "C-2585",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-6223",
+  "earlier": "C-4863",
+  "relation": "supports",
+  "confidence": "high"
+ }
+]

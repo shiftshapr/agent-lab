@@ -1,0 +1,527 @@
+[
+ {
+  "later": "C-6231",
+  "earlier": "C-4817",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6231",
+  "earlier": "C-4862",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-6253",
+  "earlier": "C-5271",
+  "relation": "none",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6272",
+  "earlier": "C-3576",
+  "relation": "none",
+  "delta": "",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-6272",
+  "earlier": "C-3580",
+  "relation": "none",
+  "delta": "",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-6273",
+  "earlier": "C-3751",
+  "relation": "none",
+  "delta": "",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-6273",
+  "earlier": "C-4550",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6275",
+  "earlier": "C-4114",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6275",
+  "earlier": "C-4813",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6279",
+  "earlier": "C-2134",
+  "relation": "none",
+  "delta": "",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-6279",
+  "earlier": "C-4117",
+  "relation": "none",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6285",
+  "earlier": "C-5410",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6286",
+  "earlier": "C-5705",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6312",
+  "earlier": "C-4067",
+  "relation": "none",
+  "delta": "",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-6312",
+  "earlier": "C-4066",
+  "relation": "none",
+  "delta": "",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-6338",
+  "earlier": "C-4466",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6341",
+  "earlier": "C-3832",
+  "relation": "none",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6359",
+  "earlier": "C-5005",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6364",
+  "earlier": "C-5005",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6369",
+  "earlier": "C-2681",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6388",
+  "earlier": "C-454",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-6389",
+  "earlier": "C-454",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6389",
+  "earlier": "C-2507",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-6396",
+  "earlier": "C-4497",
+  "relation": "none",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6396",
+  "earlier": "C-5368",
+  "relation": "none",
+  "delta": "",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-6397",
+  "earlier": "C-4497",
+  "relation": "none",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6397",
+  "earlier": "C-5368",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-6399",
+  "earlier": "C-1684",
+  "relation": "none",
+  "delta": "",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-6399",
+  "earlier": "C-1517",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-6416",
+  "earlier": "C-6342",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6419",
+  "earlier": "C-6356",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-6420",
+  "earlier": "C-6356",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6422",
+  "earlier": "C-6356",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-6426",
+  "earlier": "C-1537",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-6427",
+  "earlier": "C-1352",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6427",
+  "earlier": "C-1448",
+  "relation": "none",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6430",
+  "earlier": "C-4543",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6430",
+  "earlier": "C-6312",
+  "relation": "none",
+  "delta": "",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-6436",
+  "earlier": "C-5690",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6439",
+  "earlier": "C-6189",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-6441",
+  "earlier": "C-6054",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6442",
+  "earlier": "C-4813",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6442",
+  "earlier": "C-3455",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6449",
+  "earlier": "C-5838",
+  "relation": "none",
+  "delta": "",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-6449",
+  "earlier": "C-4813",
+  "relation": "none",
+  "delta": "",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-6455",
+  "earlier": "C-4258",
+  "relation": "none",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6455",
+  "earlier": "C-4263",
+  "relation": "none",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6455",
+  "earlier": "C-4262",
+  "relation": "none",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6502",
+  "earlier": "C-6371",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-6502",
+  "earlier": "C-6368",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6509",
+  "earlier": "C-4037",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6513",
+  "earlier": "C-5146",
+  "relation": "none",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6513",
+  "earlier": "C-5461",
+  "relation": "none",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6537",
+  "earlier": "C-2240",
+  "relation": "none",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6552",
+  "earlier": "C-6195",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6555",
+  "earlier": "C-6502",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6555",
+  "earlier": "C-6368",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6631",
+  "earlier": "C-6416",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6631",
+  "earlier": "C-6208",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6665",
+  "earlier": "C-2053",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-6665",
+  "earlier": "C-1535",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6716",
+  "earlier": "C-5092",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6723",
+  "earlier": "C-1239",
+  "relation": "none",
+  "delta": "",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-6738",
+  "earlier": "C-4582",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6749",
+  "earlier": "C-6445",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6756",
+  "earlier": "C-6186",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-6771",
+  "earlier": "C-3643",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6773",
+  "earlier": "C-4508",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6782",
+  "earlier": "C-4496",
+  "relation": "none",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6783",
+  "earlier": "C-4985",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-6800",
+  "earlier": "C-6503",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-6800",
+  "earlier": "C-6504",
+  "relation": "none",
+  "delta": "",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-6843",
+  "earlier": "C-4746",
+  "relation": "none",
+  "delta": "",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-6843",
+  "earlier": "C-4747",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "high"
+ },
+ {
+  "later": "C-6849",
+  "earlier": "C-4746",
+  "relation": "supports",
+  "delta": "",
+  "confidence": "high"
+ }
+]

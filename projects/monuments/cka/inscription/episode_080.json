@@ -3342,6 +3342,9 @@
       "mentions_person_refs": [
         "N-36",
         "N-3"
+      ],
+      "revises_claim_refs": [
+        "C-7119"
       ]
     },
     {

@@ -1630,6 +1630,7 @@ Mentions: N-3, N-312, N-288
 Related Nodes: N-10298, N-10280, N-10000
 Qualifies: C-3476
 Tags: relevance:core
+Revises: C-3476
 Investigative Direction: Identify the donor behind the reported check through TPUSA donor records or sources.
 
 ---

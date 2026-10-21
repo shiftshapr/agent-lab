@@ -1,0 +1,453 @@
+[
+ {
+  "later": "C-13129",
+  "earlier": "C-9887",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13176",
+  "earlier": "C-2236",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13228",
+  "earlier": "C-8673",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13228",
+  "earlier": "C-8674",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13243",
+  "earlier": "C-10050",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13243",
+  "earlier": "C-10256",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13266",
+  "earlier": "C-8279",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-13270",
+  "earlier": "C-6661",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-13278",
+  "earlier": "C-12455",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13289",
+  "earlier": "C-1233",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13299",
+  "earlier": "C-13221",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13342",
+  "earlier": "C-10701",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13372",
+  "earlier": "C-10621",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-13390",
+  "earlier": "C-4000",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13390",
+  "earlier": "C-4025",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13392",
+  "earlier": "C-4025",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13394",
+  "earlier": "C-10964",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-13394",
+  "earlier": "C-4026",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-13394",
+  "earlier": "C-4551",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-13394",
+  "earlier": "C-8370",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13394",
+  "earlier": "C-12040",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13400",
+  "earlier": "C-13095",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-13404",
+  "earlier": "C-12041",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13405",
+  "earlier": "C-12040",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13410",
+  "earlier": "C-2002",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-13410",
+  "earlier": "C-1675",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-13412",
+  "earlier": "C-2003",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13453",
+  "earlier": "C-13281",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13457",
+  "earlier": "C-4526",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13457",
+  "earlier": "C-12913",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-13460",
+  "earlier": "C-13391",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13461",
+  "earlier": "C-10621",
+  "relation": "revises",
+  "delta": "Earlier: Robinson's towed Challenger had a single exhaust (footage car dual). Later: Fox still shows his towed car has dual exhaust; garage car is quad.",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13493",
+  "earlier": "C-8845",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-13493",
+  "earlier": "C-71",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13530",
+  "earlier": "C-3450",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13547",
+  "earlier": "C-5208",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13547",
+  "earlier": "C-13181",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13569",
+  "earlier": "C-3191",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13586",
+  "earlier": "C-13099",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13597",
+  "earlier": "C-9882",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13597",
+  "earlier": "C-3037",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13598",
+  "earlier": "C-2279",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13598",
+  "earlier": "C-9659",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13605",
+  "earlier": "C-9660",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13605",
+  "earlier": "C-9662",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-13607",
+  "earlier": "C-9896",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13607",
+  "earlier": "C-9667",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13608",
+  "earlier": "C-9669",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13608",
+  "earlier": "C-3448",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13611",
+  "earlier": "C-9904",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13611",
+  "earlier": "C-3192",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13612",
+  "earlier": "C-6396",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-13612",
+  "earlier": "C-5368",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13613",
+  "earlier": "C-6276",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13614",
+  "earlier": "C-2133",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13614",
+  "earlier": "C-82",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13615",
+  "earlier": "C-6449",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13615",
+  "earlier": "C-6279",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13633",
+  "earlier": "C-1831",
+  "relation": "supports",
+  "confidence": "low"
+ },
+ {
+  "later": "C-13643",
+  "earlier": "C-9653",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13644",
+  "earlier": "C-9654",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13644",
+  "earlier": "C-6059",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-13679",
+  "earlier": "C-9235",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13707",
+  "earlier": "C-9905",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13707",
+  "earlier": "C-4813",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13711",
+  "earlier": "C-7605",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13712",
+  "earlier": "C-244",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13747",
+  "earlier": "C-11208",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13747",
+  "earlier": "C-4712",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13748",
+  "earlier": "C-2950",
+  "relation": "supports",
+  "confidence": "low"
+ },
+ {
+  "later": "C-13762",
+  "earlier": "C-3175",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13763",
+  "earlier": "C-3178",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13763",
+  "earlier": "C-3179",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13764",
+  "earlier": "C-3179",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-13764",
+  "earlier": "C-3175",
+  "relation": "none",
+  "confidence": "high"
+ }
+]

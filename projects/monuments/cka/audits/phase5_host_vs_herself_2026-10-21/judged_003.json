@@ -1,0 +1,455 @@
+[
+ {
+  "later": "C-3439",
+  "earlier": "C-3158",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-3442",
+  "earlier": "C-2279",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3442",
+  "earlier": "C-2121",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3444",
+  "earlier": "C-3270",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-3446",
+  "earlier": "C-2108",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-3453",
+  "earlier": "C-2130",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3453",
+  "earlier": "C-3192",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3455",
+  "earlier": "C-3193",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3455",
+  "earlier": "C-841",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3459",
+  "earlier": "C-3347",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3461",
+  "earlier": "C-3354",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3462",
+  "earlier": "C-1384",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-3465",
+  "earlier": "C-3354",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3497",
+  "earlier": "C-2327",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-3541",
+  "earlier": "C-2950",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3542",
+  "earlier": "C-901",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3570",
+  "earlier": "C-2391",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3576",
+  "earlier": "C-3329",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3580",
+  "earlier": "C-3329",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-3620",
+  "earlier": "C-3049",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-3621",
+  "earlier": "C-3255",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-3621",
+  "earlier": "C-3357",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-3690",
+  "earlier": "C-3296",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-3705",
+  "earlier": "C-1013",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-3722",
+  "earlier": "C-1575",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3733",
+  "earlier": "C-3307",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3744",
+  "earlier": "C-3608",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3744",
+  "earlier": "C-3329",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-3799",
+  "earlier": "C-1974",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3888",
+  "earlier": "C-2289",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3970",
+  "earlier": "C-3576",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3970",
+  "earlier": "C-3580",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3985",
+  "earlier": "C-3912",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3987",
+  "earlier": "C-2661",
+  "relation": "qualifies",
+  "delta": "Earlier: Rob McCoy told the lie that Mikey called his dad first. Later: accepts Mikey's account that his dad was confused; 'maybe Rob McCoy was confused'.",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-3987",
+  "earlier": "C-3030",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-3991",
+  "earlier": "C-2664",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3996",
+  "earlier": "C-2473",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3997",
+  "earlier": "C-3108",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-3999",
+  "earlier": "C-752",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4000",
+  "earlier": "C-407",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4001",
+  "earlier": "C-3700",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-4025",
+  "earlier": "C-407",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4031",
+  "earlier": "C-2461",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4032",
+  "earlier": "C-2462",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4070",
+  "earlier": "C-3982",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-4074",
+  "earlier": "C-1761",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4078",
+  "earlier": "C-1947",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4078",
+  "earlier": "C-2090",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4080",
+  "earlier": "C-1610",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-4099",
+  "earlier": "C-2676",
+  "relation": "revises",
+  "delta": "Earlier: inside source says Michael is not his first name but a middle name. Later: his real first name is Michael; Mikey is not a middle-name substitute.",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4099",
+  "earlier": "C-2677",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-4108",
+  "earlier": "C-3030",
+  "relation": "revises",
+  "delta": "Earlier: Neff's account confirms Mikey called Erika first, before Neff called his mother. Later: call logs show Mikey added Erika only after Neff's call with his mother ended.",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-4114",
+  "earlier": "C-3455",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4114",
+  "earlier": "C-3193",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4116",
+  "earlier": "C-703",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-4116",
+  "earlier": "C-653",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-4118",
+  "earlier": "C-2134",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4178",
+  "earlier": "C-4079",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4243",
+  "earlier": "C-3836",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-4261",
+  "earlier": "C-544",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4266",
+  "earlier": "C-3580",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4266",
+  "earlier": "C-3970",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-4272",
+  "earlier": "C-4167",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4285",
+  "earlier": "C-4199",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4293",
+  "earlier": "C-4003",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4369",
+  "earlier": "C-622",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4410",
+  "earlier": "C-4360",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4453",
+  "earlier": "C-4008",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-4493",
+  "earlier": "C-4425",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-4497",
+  "earlier": "C-841",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-4497",
+  "earlier": "C-3193",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-4498",
+  "earlier": "C-3455",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4498",
+  "earlier": "C-4114",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4498",
+  "earlier": "C-3193",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-4498",
+  "earlier": "C-2134",
+  "relation": "supports",
+  "confidence": "high"
+ }
+]

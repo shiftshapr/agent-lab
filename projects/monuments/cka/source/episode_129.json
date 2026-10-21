@@ -5844,6 +5844,10 @@
      "v": "relevance:core"
     },
     {
+     "k": "Revises",
+     "v": "C-4110"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain the call detail record showing which number placed the Philip-McCoy call and when it started and ended."
     },

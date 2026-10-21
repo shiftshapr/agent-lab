@@ -634,6 +634,7 @@ Mentions: N-40
 
 Related Nodes: N-10645
 
+Revises: C-10621
 Investigative Direction: Confirm exhaust configuration against additional Fox News footage and any independent images of Tyler Robinson's vehicle; compare against VIN or registration records.
 
 ---

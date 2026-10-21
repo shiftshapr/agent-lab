@@ -678,6 +678,7 @@ Anchored Artifacts: A-3399.1
 Mentions: N-957, N-41
 Related Nodes: N-11342
 Tags: relevance:core
+Revises: C-14244
 Investigative Direction: The governor's calendar and visitor log for September 9, 2025, and Clancy's own schedule.
 
 ---

@@ -1503,6 +1503,7 @@ Anchored Artifacts: A-2985.1
 Mentions: N-2, N-1
 Related Nodes: N-10449
 Tags: relevance:context
+Revises: C-7533, C-7904
 Investigative Direction: Retrieve the Instagram post, its timestamp and caption.
 
 ---

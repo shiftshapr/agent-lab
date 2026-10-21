@@ -1,0 +1,457 @@
+[
+ {
+  "later": "C-10289",
+  "earlier": "C-9969",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10297",
+  "earlier": "C-4167",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10315",
+  "earlier": "C-10041",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10384",
+  "earlier": "C-6128",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10384",
+  "earlier": "C-2249",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10390",
+  "earlier": "C-10229",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10399",
+  "earlier": "C-3679",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10402",
+  "earlier": "C-3678",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10422",
+  "earlier": "C-10078",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10422",
+  "earlier": "C-4752",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10428",
+  "earlier": "C-10073",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10433",
+  "earlier": "C-8708",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10433",
+  "earlier": "C-3643",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10436",
+  "earlier": "C-5213",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10437",
+  "earlier": "C-6839",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10438",
+  "earlier": "C-6839",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10440",
+  "earlier": "C-6855",
+  "relation": "revises",
+  "delta": "Earlier (via tip): Faith Kates was co-founder of Next Model Management. Later: Brunel and his brother founded Next Model Corp; Kates 'took a piece' of it.",
+  "confidence": "low"
+ },
+ {
+  "later": "C-10442",
+  "earlier": "C-10272",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10446",
+  "earlier": "C-6839",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10447",
+  "earlier": "C-7117",
+  "relation": "supports",
+  "confidence": "low"
+ },
+ {
+  "later": "C-10464",
+  "earlier": "C-10333",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10465",
+  "earlier": "C-2486",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10466",
+  "earlier": "C-10332",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10468",
+  "earlier": "C-10333",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10472",
+  "earlier": "C-10379",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10472",
+  "earlier": "C-10381",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10472",
+  "earlier": "C-10304",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10480",
+  "earlier": "C-6917",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10480",
+  "earlier": "C-4433",
+  "relation": "revises",
+  "delta": "Earlier: Nicole Rothstein called Erika's cousin. Later: she does not seem to be Erika's blood cousin ('cousin' in quotation marks).",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10481",
+  "earlier": "C-6868",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10481",
+  "earlier": "C-6979",
+  "relation": "revises",
+  "delta": "Earlier: per Epstein files, the Corcoran president was a Rothschild. Later: Corcoran Group was established by Lynn de Rothschild per Epstein's emails.",
+  "confidence": "low"
+ },
+ {
+  "later": "C-10485",
+  "earlier": "C-8338",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10485",
+  "earlier": "C-4815",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10486",
+  "earlier": "C-6837",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10490",
+  "earlier": "C-9791",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10495",
+  "earlier": "C-6828",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10495",
+  "earlier": "C-10109",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10501",
+  "earlier": "C-3580",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10501",
+  "earlier": "C-3576",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10502",
+  "earlier": "C-3580",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10517",
+  "earlier": "C-1473",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10528",
+  "earlier": "C-4026",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10543",
+  "earlier": "C-10319",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10550",
+  "earlier": "C-4083",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10550",
+  "earlier": "C-10161",
+  "relation": "none",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10592",
+  "earlier": "C-7436",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10610",
+  "earlier": "C-1106",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10612",
+  "earlier": "C-954",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10613",
+  "earlier": "C-953",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10630",
+  "earlier": "C-305",
+  "relation": "none",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10664",
+  "earlier": "C-7042",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10666",
+  "earlier": "C-8777",
+  "relation": "none",
+  "confidence": "low"
+ },
+ {
+  "later": "C-10666",
+  "earlier": "C-8730",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10671",
+  "earlier": "C-10586",
+  "relation": "revises",
+  "delta": "Earlier: Rick Cutler was holding Brian (Harpole) in the car, explaining the 'struggle'. Later: Rick Cutler was holding Charlie. Possibly a slip.",
+  "confidence": "low"
+ },
+ {
+  "later": "C-10672",
+  "earlier": "C-10333",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10675",
+  "earlier": "C-10233",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10675",
+  "earlier": "C-10102",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10682",
+  "earlier": "C-9970",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10682",
+  "earlier": "C-79",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10687",
+  "earlier": "C-1807",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10687",
+  "earlier": "C-4698",
+  "relation": "supports",
+  "confidence": "low"
+ },
+ {
+  "later": "C-10706",
+  "earlier": "C-10538",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10726",
+  "earlier": "C-4753",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10726",
+  "earlier": "C-2154",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10729",
+  "earlier": "C-10080",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10733",
+  "earlier": "C-6842",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10743",
+  "earlier": "C-9574",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10749",
+  "earlier": "C-8026",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10749",
+  "earlier": "C-8525",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10755",
+  "earlier": "C-4813",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10755",
+  "earlier": "C-5838",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10756",
+  "earlier": "C-5696",
+  "relation": "supports",
+  "confidence": "medium"
+ },
+ {
+  "later": "C-10757",
+  "earlier": "C-6279",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10762",
+  "earlier": "C-3477",
+  "relation": "supports",
+  "confidence": "high"
+ },
+ {
+  "later": "C-10778",
+  "earlier": "C-10731",
+  "relation": "revises",
+  "delta": "Earlier: Bowyer's father was a BofA Merrill Lynch executive in Chicago, same time as Steven Phillip. Later: he moved the family to New Jersey to serve as BofA exec.",
+  "confidence": "low"
+ }
+]

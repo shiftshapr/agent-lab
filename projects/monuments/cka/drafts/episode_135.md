@@ -1759,6 +1759,7 @@ Anchored Artifacts:
 Mentions: 
 Related Nodes: N-10896, N-10523, N-11053
 Tags: relevance:core
+Revises: C-10646
 Investigative Direction: Check the preliminary hearing transcript for the ATF analyst's testimony on fragment count and usability.
 
 ---

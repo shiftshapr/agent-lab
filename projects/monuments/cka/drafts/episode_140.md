@@ -2126,6 +2126,7 @@ Anchored Artifacts:
 Mentions: N-190, N-367
 Related Nodes: N-10214
 Tags: relevance:core
+Revises: C-11087
 Investigative Direction: Obtain call logs and hospital-arrival records for McCoy and Phillip and the vehicle manifests for the convoy.
 
 ---

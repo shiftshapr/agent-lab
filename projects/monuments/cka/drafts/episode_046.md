@@ -1221,6 +1221,7 @@ Anchored Artifacts: A-2831.1
 Mentions: N-3, N-190, N-17
 Related Nodes: N-10185, N-10190
 Tags: relevance:core
+Qualifies: C-2661
 Investigative Direction: Compare Rob McCoy's statements about whom Mikey McCoy called first with Mikey McCoy's statement that his father was confused, and with call logs if released.
 
 ---

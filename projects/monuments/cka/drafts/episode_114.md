@@ -1336,6 +1336,7 @@ Transcript Snippet: That same plane then flies from Fort Huachuca to El Paso and
 Anchored Artifacts: A-2652.1
 Mentions: N-433
 Related Nodes: N-10611
+Revises: C-9556
 Investigative Direction: Pull ADS-B data for SAM702 on September 9, 2025.
 
 ---
