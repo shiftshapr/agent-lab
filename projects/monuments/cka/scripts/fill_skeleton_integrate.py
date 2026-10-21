@@ -28,6 +28,8 @@ from pathlib import Path
 CKA = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(CKA.parent / "scripts"))
 import dia_preflight as dp  # noqa: E402
+sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts" / "source"))
+import cka_source as cs  # noqa: E402  (ROADMAP 3.0: episodes are read and written through the JSON source)
 
 TYPE_MAP = {"topic": "topic", "organization": "organization", "organisation": "organization", "org": "organization",
             "place": "place", "event": "topic", "thing": "topic"}
@@ -178,7 +180,7 @@ def main() -> int:
         t = t[:reg_a] + re.sub(r"^\*\*(N-\d+)\*\*\s+.+$", header, t[reg_a:reg_b], flags=re.M) + t[reg_b:]
 
         cited = sorted({int(x) for x in re.findall(r"\bN-(\d+)\b", t)})
-        orig = (CKA / "drafts" / f"episode_{ep:03d}.md").read_text(encoding="utf-8")
+        orig = cs.read_draft_text(ep)
         kept = re.findall(r"^  - Hole-minted Nodes \(.*$", orig, re.M)
         kept_ids = {int(x) for line in kept for x in re.findall(r"N-(\d+)", line)}
         reintro_here = sorted(n for n in cited if n not in minted_here and n not in kept_ids
@@ -224,13 +226,13 @@ def main() -> int:
         return 0
 
     for ep, t in out.items():
-        (CKA / "drafts" / f"episode_{ep:03d}.md").write_text(t, encoding="utf-8")
+        cs.write_draft_text(ep, t)
     by_old: dict[int, list[int]] = {}
     for n, (_new_ep, old_ep) in moved.items():
         by_old.setdefault(old_ep, []).append(n)
     for old_ep, ids in sorted(by_old.items()):
         dpath = CKA / "drafts" / f"episode_{old_ep:03d}.md"
-        d = dpath.read_text(encoding="utf-8")
+        d = cs.read_draft_text(old_ep)
         head, sep, rest = d.partition("\n# ")
         for n in ids:
             pat = re.compile(rf"^(  - (?:New Nodes Introduced|Hole-minted Nodes \([^)]*\)):)(.*)$", re.M)
@@ -245,7 +247,7 @@ def main() -> int:
             head = re.sub(r"^(  - Reused Nodes Appearing:)(.*)$", lambda m: m.group(1) + " " + ", ".join([x.strip() for x in m.group(2).split(",") if x.strip()] + [add]), head, count=1, flags=re.M)
         else:
             head = re.sub(r"^(- \*\*Episode Ledger Summary\*\*:\n)", lambda m: m.group(1) + f"  - Reused Nodes Appearing: {add}\n", head, count=1, flags=re.M)
-        dpath.write_text(head + sep + rest, encoding="utf-8")
+        cs.write_draft_text(old_ep, head + sep + rest)
         print(f"  moved intro of {add} out of ep{old_ep}")
     for nid, eps in cited_eps.items():
         meta = nodes.get(nid) or new_nodes.get(nid)

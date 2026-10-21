@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+if [[ "${CKA_ALLOW_LEGACY:-}" != "1" ]]; then echo "$0: one-off script from before the JSON source of truth (ROADMAP 3.0); set CKA_ALLOW_LEGACY=1 to run, then cka_source.py sync" >&2; exit 1; fi
 # Finalize CKA catch-up after catchup_extract_seq.sh: postprocess, inscription, preflight.
 set -euo pipefail
 ROOT="$(cd "$(dirname "$0")/../../../../" && pwd)"

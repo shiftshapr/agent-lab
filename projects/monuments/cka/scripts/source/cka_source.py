@@ -12,7 +12,9 @@ Rendering joins the lines back with "\\n", so render(parse(md)) == md byte for b
 Library: parse_md(text, episode) -> doc; render(doc) -> text; items(doc, kind); field(item, key);
 set_field(item, key, value); load(seq); save(doc) (writes the JSON and re-renders the draft).
 CLI (from agent-lab root):
-  python3 projects/monuments/cka/scripts/source/cka_source.py sync     # drafts -> source JSON (Phase A)
+  python3 projects/monuments/cka/scripts/source/cka_source.py export NNN > ep.md     # edit ep.md, then:
+  python3 projects/monuments/cka/scripts/source/cka_source.py import NNN ep.md      # save through the JSON master
+  python3 projects/monuments/cka/scripts/source/cka_source.py sync --from-drafts   # recovery only
   python3 projects/monuments/cka/scripts/source/cka_source.py render   # source JSON -> drafts
   python3 projects/monuments/cka/scripts/source/cka_source.py check    # round trip and freshness; non-zero on drift
 """
@@ -148,6 +150,31 @@ def validate(doc: dict) -> list[str]:
     return errs
 
 
+def read_draft_text(seq: int) -> str:
+    """The episode as Markdown, rendered from its JSON master (falls back to the draft only if no JSON exists yet)."""
+    sp = src_path(seq)
+    if sp.exists():
+        return render(load(seq))
+    return (DRAFTS / f"episode_{seq:03d}.md").read_text(encoding="utf-8")
+
+
+def write_draft_text(seq: int, text: str) -> None:
+    """Write an edited episode: parse it into the JSON master and re-render the draft from it.
+    Every tool that changes an episode goes through here (ROADMAP 3.0, phase B)."""
+    doc = parse_md(text, seq)
+    if render(doc) != text:
+        raise ValueError(f"episode {seq}: edited text does not round-trip through the source model")
+    errs = validate(doc)
+    if errs:
+        raise ValueError(f"episode {seq}: schema errors: {errs[:5]}")
+    save(doc)
+
+
+def seq_of(path) -> int:
+    """Episode number from a drafts/episode_NNN.md path."""
+    return int(re.search(r"episode_(\d+)", Path(path).name).group(1))
+
+
 def _drafts():
     for p in sorted(DRAFTS.glob("episode_*.md")):
         m = re.fullmatch(r"episode_(\d+)\.md", p.name)
@@ -158,6 +185,17 @@ def _drafts():
 def main(argv: list[str]) -> int:
     cmd = argv[1] if len(argv) > 1 else "check"
     SRC.mkdir(exist_ok=True)
+    if cmd == "export":  # print one episode as Markdown, rendered from its JSON
+        sys.stdout.write(read_draft_text(int(argv[2])))
+        return 0
+    if cmd == "import":  # write an edited Markdown file for one episode through the JSON master
+        write_draft_text(int(argv[2]), Path(argv[3]).read_text(encoding="utf-8"))
+        print(f"episode {int(argv[2])}: saved to source JSON and re-rendered")
+        return 0
+    if cmd == "sync" and "--from-drafts" not in argv:
+        print("sync rebuilds source/*.json from the drafts and is for recovery only (phase B: edit through the JSON).\n"
+              "Run `cka_source.py sync --from-drafts` if you really mean it.")
+        return 2
     bad = []
     for seq, p in _drafts():
         md = p.read_text(encoding="utf-8")

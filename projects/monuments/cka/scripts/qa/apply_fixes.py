@@ -20,6 +20,8 @@ import json
 import re
 import sys
 from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parents[2] / "scripts" / "source"))
+import cka_source as cs  # noqa: E402  (ROADMAP 3.0: episodes are read and written through the JSON source)
 
 CKA = Path(__file__).resolve().parents[2]
 STOP = {"The", "A", "An", "In", "On", "At", "Per", "After", "Before", "During", "This", "That", "It", "He", "She",
@@ -66,7 +68,7 @@ def main() -> int:
     for ep, items in sorted(by_ep.items()):
         dp = CKA / "drafts" / f"episode_{ep:03d}.md"
         ip = CKA / "inscription" / f"episode_{ep:03d}.json"
-        s, raw = dp.read_text(encoding="utf-8"), ip.read_text(encoding="utf-8")
+        s, raw = cs.read_draft_text(ep), ip.read_text(encoding="utf-8")
         data = json.loads(raw)
         insc = {c["ref"]: c for c in data["claims"]}
         for cid, f, kind in items:
@@ -109,7 +111,7 @@ def main() -> int:
                 s = s[:m.start()] + b + s[m.end():]
                 log.append({"claim": cid, "episode": ep, "kind": kind, "fields": changed})
         if not dry:
-            dp.write_text(s, encoding="utf-8")
+            cs.write_draft_text(ep, s)
             ip.write_text(json.dumps(data, indent=2, ensure_ascii="\\u" in raw) + "\n", encoding="utf-8")
     for cid, d in decided.items():
         if d.get("decision") in ("accept", "amend"):

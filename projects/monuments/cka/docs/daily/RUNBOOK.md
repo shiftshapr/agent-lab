@@ -29,6 +29,15 @@ Wait for all of them. Then confirm each passes:
 2. Run it again without `--dry-run`.
 3. Run `python3 projects/monuments/cka/scripts/daily/finalize.py <seqs>`.
 
+### Editing episodes (ROADMAP 3.0)
+`source/episode_NNN.json` is the master copy, and `drafts/episode_NNN.md` is rendered from it. **Never write a draft
+directly.** The tools (integrators, name corrections, apply_fixes, renumber and merge) already go through the JSON. For
+a hand edit:
+1. `python3 projects/monuments/cka/scripts/source/cka_source.py export NNN > WORK/epNNN.md`
+2. Edit `WORK/epNNN.md`.
+3. `python3 projects/monuments/cka/scripts/source/cka_source.py import NNN WORK/epNNN.md`
+The CI gate `cka_source.py check` fails if a draft differs from its JSON.
+
 ### Fixing gate failures (known patterns)
 - **mention_grounding:**
   - Drop a person id that rests only on inference or a first name.
