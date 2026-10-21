@@ -33,7 +33,7 @@ Source: auto:en; paragraph merge only (no lexicon pass yet; name corrections are
 
 [00:01]
 
-All right, you guys. Happy Wednesday to everyone except for the people in the comment section who did not believe me when I blamed everything on Skyler yesterday. Special shout out to @EricofAmerica who wrote this. He said, "I stand with Skyler. He's being used as a patsy." Mm, savage. I concede that you almost beat me at my own game. But, for your information, yesterday was actually a hearsay episode, so Skyler was therefore guilty. The evidence was overwhelming. 4K HD. Anyway, you may have noticed, if you were scrolling through social media, that today is indeed October 14th.
+All right, you guys. Happy Wednesday to everyone except for the people in the comment section who did not believe me when I blamed everything on Schuyler yesterday. Special shout out to @EricofAmerica who wrote this. He said, "I stand with Schuyler. He's being used as a patsy." Mm, savage. I concede that you almost beat me at my own game. But, for your information, yesterday was actually a hearsay episode, so Schuyler was therefore guilty. The evidence was overwhelming. 4K HD. Anyway, you may have noticed, if you were scrolling through social media, that today is indeed October 14th.
 
 [00:36]
 

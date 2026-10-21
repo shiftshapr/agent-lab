@@ -1050,20 +1050,19 @@ Investigative Direction: Obtain the full 959-word essay, confirm word count, and
 
 ---
 
-**C-843** Bill Ackman is the person C-842 calls 'Bill Ackman' (revises C-842)
+**C-843** Bill Ackman replied with a 959-word essay that skipped the intervention allegation
 
 Claim Timestamp: 00:03:05
 
-Claim: C-842 spells the name 'Bill Ackman' (auto-caption form). The person is Bill Ackman (N-37). The host states that Bill Ackman replied to her prior coverage with a 959-word essay that did not address the 'intervention' allegation.
+Claim: The host states that Bill Ackman replied to her prior coverage with a 959-word essay that did not address the 'intervention' allegation.
 
 Transcript Snippet: And Bill Ackman replies with an essay, college essay.
 
 Anchored Artifacts: A-1170.1
 Mentions: N-37, N-3
 Related Nodes: N-10134
-Revises: C-842
 Confidence: medium
-Investigative Direction: Read with C-842; obtain the 959-word essay under the corrected spelling Bill Ackman.
+Investigative Direction: Obtain Bill Ackman's 959-word essay and check whether it addresses the intervention allegation.
 
 ---
 

@@ -1132,7 +1132,7 @@ Investigative Direction: Assess the documentary record on any Epstein intelligen
 
 Claim Timestamp: 00:10:13
 
-Claim: The host says it is becoming increasingly difficult to imagine how Turning Point is not naming and shaming the sender of the donor message, and challenges TPUSA to say who sent it.
+Claim: The host says it is becoming increasingly difficult to imagine how Turning Point is not naming and shaming the sender of the Christian Zionist message to Charlie, and challenges TPUSA to say who sent it.
 
 Transcript Snippet: It is becoming increasingly difficult to imagine how Turning Point is not naming and shaming these people. I give them an opportunity here.
 

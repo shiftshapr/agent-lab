@@ -106,7 +106,7 @@ Who What nation are we securing though? That's my question. What nation are we s
 
 [15:42]
 
-I think I can help answer both of those questions. There's a company called Vine and Fig Tree, VFT. VFT is a pro-Israel organization with ties to the administration. Earlier this year, VFT was at the White House meeting with Sebastian Gorka. Shortly after that White House meeting, I was contacted through a third party and asked to script write for VFT. The individual who contacted me is publicly very Christian and widely perceived as America First. Now, I'm going to pause here and tell you that she later identifies this person to be Shawn Chenowith, who is the director of cognitive advantage at the US uh at the National Security Council. So, he works under and with Sebastian Gorka. Does that make sense?
+I think I can help answer both of those questions. There's a company called Vine and Fig Tree, VFT. VFT is a pro-Israel organization with ties to the administration. Earlier this year, VFT was at the White House meeting with Sebastian Gorka. Shortly after that White House meeting, I was contacted through a third party and asked to script write for VFT. The individual who contacted me is publicly very Christian and widely perceived as America First. Now, I'm going to pause here and tell you that she later identifies this person to be Shawn Chenoweth, who is the director of cognitive advantage at the US uh at the National Security Council. So, he works under and with Sebastian Gorka. Does that make sense?
 
 [16:30]
 

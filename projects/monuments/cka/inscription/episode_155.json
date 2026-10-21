@@ -1605,7 +1605,7 @@
       "@id": "C-13439",
       "ref": "C-13439",
       "label": "Libs of TikTok X Post Cited 59% Democrat Sweep Projection",
-      "claim": "Libs of TikTok posted on X that prediction markets project Democrats at a 59% chance of sweeping both chambers of Congress in the 2026 midterms.",
+      "claim": "The host reads a Libs of TikTok post saying prediction markets project Democrats at a 59% chance of sweeping both chambers.",
       "anchored_artifacts": [
         "A-2411.1"
       ],
@@ -2645,7 +2645,7 @@
         "N-10012"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:25:06",
       "investigative_direction": "Verify the donation amount, date and recipient through UVU foundation announcements and gift agreements.",

@@ -1132,7 +1132,7 @@ Investigative Direction: Public reporting on Ratajkowski's separation and divorc
 
 Claim Timestamp: 00:34:14
 
-Claim: The host reads the title of Emily Ratajkowski's article in The Cut, "Mother Effer", calls it pornographic in nature, and shows the passage describing how Ratajkowski dresses to pick up her 5-year-old son from school.
+Claim: The host reads the title of Emily Ratajkowski's article in The Cut, "Mother Effer", calls it pornographic in nature, and says she will show the passage describing how Ratajkowski dresses to pick up her 5-year-old son from school.
 
 Transcript Snippet: I'm going to show you this moment, how she dresses to go pick up her 5-year-old son from school pick up.
 

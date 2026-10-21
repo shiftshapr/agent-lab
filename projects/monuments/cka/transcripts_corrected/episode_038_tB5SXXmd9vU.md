@@ -259,7 +259,7 @@ Okay, we actually are going to pull that email because you know how the internet
 
 [54:41]
 
-What is this never before seen lawsuit? It is a consequence from the Matrix for me discussing a multinational state secret which is Brigitte Macron. Brigitte Macron's true origins, what Brigitte Macron was involved in in the United States while living as Jean-Michel Trogneux. And by the way, I think there's another identity in between there that happens potentially in the 80s for Brigitte before he emerges as a woman and I think it's quite dark whatever that secret is to be honest with you. But we had kind of gotten sidetracked on becoming Brigitte and we should maybe get back involved in it. Anyways, getting into the top comment from the last episode and Skyler just let me know when you have that email ready.
+What is this never before seen lawsuit? It is a consequence from the Matrix for me discussing a multinational state secret which is Brigitte Macron. Brigitte Macron's true origins, what Brigitte Macron was involved in in the United States while living as Jean-Michel Trogneux. And by the way, I think there's another identity in between there that happens potentially in the 80s for Brigitte before he emerges as a woman and I think it's quite dark whatever that secret is to be honest with you. But we had kind of gotten sidetracked on becoming Brigitte and we should maybe get back involved in it. Anyways, getting into the top comment from the last episode and Schuyler just let me know when you have that email ready.
 
 [55:24]
 

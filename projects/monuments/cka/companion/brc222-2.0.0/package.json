@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-21T15:09:07Z",
+  "generated_at": "2026-10-21T16:44:06Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -21,10 +21,10 @@
     "contradicts": 127,
     "isCorroboratedBy": 2477,
     "isMemberOf": 20435,
-    "isQualifiedBy": 115,
+    "isQualifiedBy": 114,
     "isSupportedBy": 8302
   },
-  "revises_candidate_count": 5008,
+  "revises_candidate_count": 5006,
   "nodes": [
     {
       "@type": "KnowledgeGraphNode",
@@ -26474,7 +26474,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-13246",
-      "label": "Host Says Zack Costello Compared Robinson's Finger Posture in UVU Footage With 2022 Footage",
+      "label": "Host Says Zach Costello Compared Robinson's Finger Posture in UVU Footage With 2022 Footage",
       "node_kind": "claim",
       "episode": 153
     },
@@ -33467,7 +33467,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14145",
-      "label": "Host Blames Producer Skyler for the Missed Monday",
+      "label": "Host Blames Producer Schuyler for the Missed Monday",
       "node_kind": "claim",
       "episode": 164
     },
@@ -64848,7 +64848,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5153",
-      "label": "Host Says Peyton McCormick Is Linked to Colonel Pete and Lt. Col. Allan McCormick",
+      "label": "Host Says Peyton McCormick Is Linked to Colonel Pete and Lt. Col. Allen McCormick",
       "node_kind": "claim",
       "episode": 58
     },
@@ -78568,7 +78568,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6918",
-      "label": "Alan Rothstein chaired Win Haven Real Estate and Erika calls him uncle",
+      "label": "Allan Rothstein chaired Win Haven Real Estate and Erika calls him uncle",
       "node_kind": "claim",
       "episode": 77
     },
@@ -90328,7 +90328,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-843",
-      "label": "Bill Ackman is the person C-842 calls 'Bill Ackman' (revises C-842)",
+      "label": "Bill Ackman replied with a 959-word essay that skipped the intervention allegation",
       "node_kind": "claim",
       "episode": 10
     },
@@ -139349,7 +139349,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-3197.1",
-      "label": "Host working notes pulled up on screen by Skyler (Skyler 'pull up' request), listing 'two jets that landed from Arizona into Provo' for the day of the shooting (host asks that an agent's name be delet",
+      "label": "Host working notes pulled up on screen by Schuyler (Schuyler 'pull up' request), listing 'two jets that landed from Arizona into Provo' for the day of the shooting (host asks that an agent's name be d",
       "node_kind": "artifact",
       "episode": 23
     },
@@ -141141,7 +141141,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-3309.1",
-      "label": "Images the host asks producer Skyler to pull up of Baal temple relics at Baalbek, Lebanon and another temple, showing the six-pointed star (on-screen images, described but not captured in the transcri",
+      "label": "Images the host asks producer Schuyler to pull up of Baal temple relics at Baalbek, Lebanon and another temple, showing the six-pointed star (on-screen images, described but not captured in the transc",
       "node_kind": "artifact",
       "episode": 67
     },
@@ -157349,21 +157349,6 @@
       "relationship": "isSupportedBy",
       "explanation": "Anchored artifact backs claim",
       "episode": 10
-    },
-    {
-      "@type": "OrdinalBridge",
-      "from": "C-842",
-      "to": "C-843",
-      "relationship": "isQualifiedBy",
-      "explanation": "REVISES (qualify_cues=0 extend_cues=0; default softening pending Transit)",
-      "episode": 10,
-      "review_status": "pending_transit",
-      "metadata": {
-        "ledger": "REVISES",
-        "candidate_of": "revises_split",
-        "heuristic_primary": "isQualifiedBy",
-        "confidence": 0.35
-      }
     },
     {
       "@type": "OrdinalBridge",

@@ -1649,7 +1649,7 @@ Investigative Direction: Obtain police property release records for Charlie Kirk
 
 Claim Timestamp: 00:58:50
 
-Claim: A viewer comment the host reads says Erika Kirk's Father's Day post quoted Charlie as saying "more fog, more sparklers." The host says Erika used a clip of him at a TPUSA event with sparklers, as PR in response to criticism over sparklers.
+Claim: A viewer comment the host reads says Erika Kirk's Father's Day post quoted Charlie as saying "more fog, more sparklers" and used a clip of him at a TPUSA event with sparklers as PR in response to criticism; the host agrees.
 
 Transcript Snippet: And she used a clip of Charlie at a TPUSA event with sparklers. She literally used a Father's Day post for PR purposes because she gets heat for the sparklers.
 

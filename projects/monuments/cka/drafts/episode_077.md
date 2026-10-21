@@ -331,7 +331,7 @@ Investigative Pressure: Medium
 
 **N-573** Nicole Rothstein
 
-Real-estate professional referenced as Erika's New York roommate during the Next Model Management period; daughter of Alan Rothstein.
+Real-estate professional referenced as Erika's New York roommate during the Next Model Management period; daughter of Allan Rothstein.
 
 Evidence Count: 0 (referenced in host commentary only; no artifact directly anchors her role)
 Claim Count: 0
@@ -342,7 +342,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-574** Alan Rothstein
+**N-574** Allan Rothstein
 
 Chairman (or former chairman) of Win Haven Real Estate; subject of Erika's 2017 Instagram tribute referring to him as "Uncle Allan."
 
@@ -481,7 +481,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 
 ---
 
-**N-886** Fran Rothschild
+**N-886** Fran Rothchild
 
 First named by the host at 00:03:16 in episode 77 (also 'Francis Rothschild'). Described by the host as co-founder of Wilhelmina Models.
 
@@ -492,7 +492,7 @@ First named by the host at 00:03:16 in episode 77 (also 'Francis Rothschild'). D
 **N-11291** Wilhelmina Models
 
 Node Type: Organization
-Model agency the host says was co-founded by Fran Rothschild and where Faith Kates was first vice president of the women's division.
+Model agency the host says was co-founded by Fran Rothchild and where Faith Kates was first vice president of the women's division.
 
 *Related: C-6903*
 
@@ -510,7 +510,7 @@ White building near 68th Street between 2nd and 3rd Avenues, which eyewitnesses 
 **N-11293** Win Haven Real Estate
 
 Node Type: Topic
-Real estate company the host says Alan Rothstein chaired.
+Real estate company the host says Allan Rothstein chaired.
 
 *Related: C-6918*
 
@@ -768,13 +768,13 @@ Investigative Direction: Obtain full Epstein-to-Thiel email metadata and surroun
 
 Claim Timestamp: 00:09:32
 
-Claim: In a 2017 Instagram post the host reads, Erika Kirk addresses "Uncle Allan" as someone filled with spirit who has shown courage through adversity; the host identifies him as Alan Rothstein, whom she says chaired Win Haven Real Estates.
+Claim: In a 2017 Instagram post the host reads, Erika Kirk addresses "Uncle Allan" as someone filled with spirit who has shown courage through adversity; the host identifies him as Allan Rothstein, whom she says chaired Win Haven Real Estates.
 
 Anchored Artifacts: A-1823.1
 Mentions: N-2, N-574
 
 
-Investigative Direction: Confirm the post via Instagram archives or third-party captures; verify Alan Rothstein's role at Win Haven Real Estate through corporate filings.
+Investigative Direction: Confirm the post via Instagram archives or third-party captures; verify Allan Rothstein's role at Win Haven Real Estate through corporate filings.
 
 ---
 
@@ -1273,13 +1273,13 @@ Investigative Direction: Confirm the shared residence and dates with leases or w
 
 ---
 
-**C-6918** Alan Rothstein chaired Win Haven Real Estate and Erika calls him uncle
+**C-6918** Allan Rothstein chaired Win Haven Real Estate and Erika calls him uncle
 
 Claim Timestamp: 00:08:22
 
-Claim: The host says Erika is extremely close to Alan Rothstein, whom she calls uncle, and that he was (and may still be) chairman of Win Haven Real Estates.
+Claim: The host says Erika is extremely close to Allan Rothstein, whom she calls uncle, and that he was (and may still be) chairman of Win Haven Real Estates.
 
-Transcript Snippet: Alan Rothstein, Erika is extremely close with him. She calls him uncle. He was the chairman, uh might still be the chairman of Win Haven Real Estates
+Transcript Snippet: Allan Rothstein, Erika is extremely close with him. She calls him uncle. He was the chairman, uh might still be the chairman of Win Haven Real Estates
 
 Anchored Artifacts: A-1823.1
 Mentions: N-574, N-2
@@ -1941,10 +1941,10 @@ Confidence: high
 
 - **Name uncertainty:** Episode uses "Erika Kirk" consistently; existing series node is "Erika Kirk" (N-2). Preserved as N-2 with episode spelling noted.
 - **Name uncertainty:** Real-estate bio and various references use "Erika Frantzve" / "Erika Franve" / "Erika Franceway"; standard spelling appears to be "Erika Frantzve." Preserved exactly as transcribed in A-1824.1 and A-1825.1.
-- **Name uncertainty:** Transcript shows "Fran Rothschild" and "Francis Rothschild" referring to Wilhelmina Models co-founder; preserved as appearing.
+- **Name uncertainty:** Transcript shows "Fran Rothchild" and "Francis Rothschild" referring to Wilhelmina Models co-founder; preserved as appearing.
 - **Possible transcription error:** "Ty Bowyer," "Tyler Borier," "Tyler Bowyer" – standard spelling used in node references.
 - **Artifact verbally referenced but not shown:** A-1822.1, A-1831.1, A-1833.1, A-1834.1 – host references or quotes content without visible on-screen display in the cleaned transcript; treated as artifacts because host reads or directly describes their content.
 - **Requires human verification:** Claims of internal bill-text descriptors (C-6953) should be re-checked against full SB 1439 text rather than host paraphrase.
-- **Claim failed admission test (recorded but excluded):** Host's interpretation that Fran Rothschild co-founding Wilhelmina Models is meaningfully connected to Epstein's Rothschild representation claim; treated as interpretive commentary rather than artifact-anchored claim.
+- **Claim failed admission test (recorded but excluded):** Host's interpretation that Fran Rothchild co-founding Wilhelmina Models is meaningfully connected to Epstein's Rothschild representation claim; treated as interpretive commentary rather than artifact-anchored claim.
 - **Claim failed admission test (recorded but excluded):** Host's inference that Erika's "real estate deals with family" referenced the Rothstein family rather than her Scottsdale family; treated as speculation.
 - **Claim failed admission test (recorded but excluded):** Host's assertion that Erika's bio fiduciary-relationship language signals money management; treated as interpretive commentary on A-1824.1.

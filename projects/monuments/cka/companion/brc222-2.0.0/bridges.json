@@ -4,7 +4,7 @@
     "contradicts": 127,
     "isCorroboratedBy": 2477,
     "isMemberOf": 20435,
-    "isQualifiedBy": 115,
+    "isQualifiedBy": 114,
     "isSupportedBy": 8302
   },
   "bridges": [
@@ -14278,21 +14278,6 @@
       "relationship": "isSupportedBy",
       "explanation": "Anchored artifact backs claim",
       "episode": 10
-    },
-    {
-      "@type": "OrdinalBridge",
-      "from": "C-842",
-      "to": "C-843",
-      "relationship": "isQualifiedBy",
-      "explanation": "REVISES (qualify_cues=0 extend_cues=0; default softening pending Transit)",
-      "episode": 10,
-      "review_status": "pending_transit",
-      "metadata": {
-        "ledger": "REVISES",
-        "candidate_of": "revises_split",
-        "heuristic_primary": "isQualifiedBy",
-        "confidence": 0.35
-      }
     },
     {
       "@type": "OrdinalBridge",

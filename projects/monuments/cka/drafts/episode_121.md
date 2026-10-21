@@ -1874,7 +1874,7 @@ Investigative Direction: Check the Semafor article for the cost and the episode 
 
 Claim Timestamp: 00:42:51
 
-Claim: The host says she has long said the cost was more than $50 million, closer to 60, and that earlier reports of $10 million or $7 million were wrong.
+Claim: The host says the Daily Wire's spending on the Pendragon Cycle was, as she has long said, more than $50 million, closer to 60, and that earlier reports of $10 million or $7 million were wrong.
 
 Transcript Snippet: more than $50 million, closer to 60, but at least they're finally admitting that it wasn't $10 million or $7 million as it had been reported in the past.
 

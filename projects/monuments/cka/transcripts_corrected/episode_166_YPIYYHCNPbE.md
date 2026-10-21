@@ -409,8 +409,8 @@ Cuz that person would be a hero. He tried to save Charlie Kirk's life. I can't f
 
 [50:20]
 
-Gang gang, you wear it at the same time as both of your second favorite church. I don't know what your first favorite shirt is, but that's your second one. You can buy a CIA hat. The hunter green ones are really great for the fall. I look great in that hunter green one. In fact, maybe I'll wear it tomorrow for book club. We do have book club tomorrow, by the way. Um as we continue reading the book Why I don't know why I can't Bearing false witness. Skyler to the rescue. Trying to make up for what Skyler did, which will never be forgotten. We all know what Skyler did.
+Gang gang, you wear it at the same time as both of your second favorite church. I don't know what your first favorite shirt is, but that's your second one. You can buy a CIA hat. The hunter green ones are really great for the fall. I look great in that hunter green one. In fact, maybe I'll wear it tomorrow for book club. We do have book club tomorrow, by the way. Um as we continue reading the book Why I don't know why I can't Bearing false witness. Schuyler to the rescue. Trying to make up for what Schuyler did, which will never be forgotten. We all know what Schuyler did.
 
 [50:51]
 
-We all know what Skyler does. We all know what Skyler's going to do. Anyway, we'll see you guys on Monday. >>
+We all know what Schuyler does. We all know what Schuyler's going to do. Anyway, we'll see you guys on Monday. >>

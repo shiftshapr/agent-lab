@@ -659,7 +659,7 @@
       "ref": "N-463",
       "name": "Peyton McCormick",
       "type": "person",
-      "description": "*November Renaissance* cast; granddaughter of Colonel Pete McCormick and daughter of Lieutenant Colonel Allan McCormick, once stationed at Fort Huachuca.",
+      "description": "*November Renaissance* cast; granddaughter of Colonel Pete McCormick and daughter of Lieutenant Colonel Allen McCormick, once stationed at Fort Huachuca.",
       "related_artifacts": [
         "A-1635.1"
       ],
@@ -2054,9 +2054,9 @@
       "@type": "Person",
       "@id": "N-851",
       "ref": "N-851",
-      "name": "Allan McCormick",
+      "name": "Allen McCormick",
       "type": "person",
-      "description": "First named by the host at 00:06:05 in episode 58 as Lieutenant Colonel Allan McCormick, once stationed at Fort Huachuca, father of cast member Peyton McCormick.",
+      "description": "First named by the host at 00:06:05 in episode 58 as Lieutenant Colonel Allen McCormick, once stationed at Fort Huachuca, father of cast member Peyton McCormick.",
       "related_artifacts": [],
       "related_claims": [
         "C-5153"
@@ -2803,8 +2803,8 @@
       "@type": "Claim",
       "@id": "C-5153",
       "ref": "C-5153",
-      "label": "Host Says Peyton McCormick Is Linked to Colonel Pete and Lt. Col. Allan McCormick",
-      "claim": "The host says cast member Peyton McCormick's grandfather is Colonel Pete McCormick and her father is Lieutenant Colonel Allan McCormick, once stationed at Fort Huachuca.",
+      "label": "Host Says Peyton McCormick Is Linked to Colonel Pete and Lt. Col. Allen McCormick",
+      "claim": "The host says cast member Peyton McCormick's grandfather is Colonel Pete McCormick and her father is Lieutenant Colonel Allen McCormick, once stationed at Fort Huachuca.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10417",
@@ -2814,8 +2814,8 @@
         "relevance:context"
       ],
       "claim_timestamp": "00:05:39",
-      "investigative_direction": "Confirm the family relationships and Allan McCormick's Fort Huachuca assignment through Army records or public obituaries.",
-      "transcript_snippet": "Her father is Lieutenant Colonel Allan McCormick, once stationed at Fort Huachuca.",
+      "investigative_direction": "Confirm the family relationships and Allen McCormick's Fort Huachuca assignment through Army records or public obituaries.",
+      "transcript_snippet": "Her father is Lieutenant Colonel Allen McCormick, once stationed at Fort Huachuca.",
       "mentions_person_refs": [
         "N-463",
         "N-850",

@@ -100,7 +100,7 @@ It's It's the chapter that handles everything. Now, bigger events, they certainl
 
 [13:58]
 
-Um, and then unfortunately it had to end in in um absolute tragedy. >> So, I'm trying to get in touch with this individual once I realized that not only did he speak the night of, uh he also spoke on Fox News the very next day, which would mean what did Turning Point USA? I don't know the answer to this. I'm asking genuinely. Did they say speak to this person who's not actually a TPUSA student? I but he was there. I I don't know how this works. But, the next day sure enough he appeared on Fox News again. And, I'm not sure if we had that clip, Skyler, but if we do, let's roll it. >> That day, uh we had 30 or so uh student volunteers that were designated roles that were going to be helping um pass out Turning Point USA merchandise and getting people signed up for the event.
+Um, and then unfortunately it had to end in in um absolute tragedy. >> So, I'm trying to get in touch with this individual once I realized that not only did he speak the night of, uh he also spoke on Fox News the very next day, which would mean what did Turning Point USA? I don't know the answer to this. I'm asking genuinely. Did they say speak to this person who's not actually a TPUSA student? I but he was there. I I don't know how this works. But, the next day sure enough he appeared on Fox News again. And, I'm not sure if we had that clip, Schuyler, but if we do, let's roll it. >> That day, uh we had 30 or so uh student volunteers that were designated roles that were going to be helping um pass out Turning Point USA merchandise and getting people signed up for the event.
 
 [14:50]
 

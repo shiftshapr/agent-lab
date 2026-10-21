@@ -1116,7 +1116,7 @@ Investigative Direction: Authenticate the text-message screenshots (metadata, de
 
 Claim Timestamp: 00:37:17–00:38:02
 
-Claim: The host says she believes Corby said the messages were from sometime in April, checks with Skyler ("I want to say it was April, but don't quote me on that. It was. Okay."), and then states the conversation took place in April 2025.
+Claim: The host says she believes Corby said the messages were from sometime in April, checks with Schuyler ("I want to say it was April, but don't quote me on that. It was. Okay."), and then states the conversation took place in April 2025.
 
 Anchored Artifacts: A-1988.1, A-1988.2, A-1988.3
 Mentions: N-342

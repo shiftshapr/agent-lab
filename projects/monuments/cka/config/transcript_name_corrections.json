@@ -6406,23 +6406,7 @@
     ],
     [
       "\\bSkyler\\b",
-      "Schuyler",
-      [
-        3,
-        4,
-        6,
-        7,
-        8,
-        9,
-        22,
-        27,
-        40,
-        41,
-        80,
-        122,
-        160,
-        167
-      ]
+      "Schuyler"
     ],
     [
       "\\bHarry Meyers\\b",
@@ -6490,6 +6474,33 @@
       "Candace",
       [
         11
+      ]
+    ],
+    [
+      "\\bAlan Rothstein\\b",
+      "Allan Rothstein"
+    ],
+    [
+      "\\bZack Costello\\b",
+      "Zach Costello"
+    ],
+    [
+      "\\bAllan McCormick\\b",
+      "Allen McCormick"
+    ],
+    [
+      "\\bFran Rothschild\\b",
+      "Fran Rothchild"
+    ],
+    [
+      "\\bShawn Chenowith\\b",
+      "Shawn Chenoweth"
+    ],
+    [
+      "\\bAustin Ericson\\b",
+      "Austin Erickson",
+      [
+        30
       ]
     ]
   ]

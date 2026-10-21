@@ -19,4 +19,4 @@ Both errors are fixed:
   introduced in ep13, through the tip-minted re-introduction ledger, and its id is unchanged.
 - C-1557 (ep23): the timestamp was about 40-55 s late. It is now 00:36:19.
 
-The 13 minor findings and 8 relevance disputes are recorded in `qa.md` and not applied.
+The 13 minor findings and 8 relevance disputes were applied on 2026-10-21. One was already fixed (C-3045, Tim Pool), and C-843 also lost its no-op Revises link. The ids in qa.md are pre-renumber.

@@ -272,7 +272,7 @@ The second thing was I didn't want people to wrongly extrapolate things and say,
 
 [01:00:33]
 
-So, I'm going to allow the internet to hear your testimony, hear what you think. And I also want to show them a picture because we did look through some congressmen and I didn't tell you where they were congressman from, but there is one that you thought looked familiar. And I am going to show that picture of him now. Uh this is and Skyler, someone's got to get in my ear cuz I'm blanking on his name. Mark Amodei? Is that right? Mark Amodei from Las Vegas and you thought that this could potentially be the congressman that you saw on the 9th. >> Oh, yeah. Yeah. Yeah, that's the one that walked closest to you. >> That's the one that walked closest to you. That's 95. I I'm absolutely, you know, after I've looked at it, um that's Yeah, that was definitely the guy.
+So, I'm going to allow the internet to hear your testimony, hear what you think. And I also want to show them a picture because we did look through some congressmen and I didn't tell you where they were congressman from, but there is one that you thought looked familiar. And I am going to show that picture of him now. Uh this is and Schuyler, someone's got to get in my ear cuz I'm blanking on his name. Mark Amodei? Is that right? Mark Amodei from Las Vegas and you thought that this could potentially be the congressman that you saw on the 9th. >> Oh, yeah. Yeah. Yeah, that's the one that walked closest to you. >> That's the one that walked closest to you. That's 95. I I'm absolutely, you know, after I've looked at it, um that's Yeah, that was definitely the guy.
 
 [01:01:18]
 

@@ -1,0 +1,14 @@
+[
+{"id":"N-144","name":"Olivia Robertson Cobb Bishop","verdict":"ok","bad_aliases":["Olivia Robertson cub Bishop"],"note":"HappyScribe ep247 00:17:20 host: 'Olivia Robertson Cobb-Bishop'; news clip/WBIR (legit.ng) calls her Olivia Bishop. Full name as host gives it not found elsewhere."},
+{"id":"N-179","name":"Justin McCoy","verdict":"wrong","correct":"Justin Olson","source":"https://energyandpolicy.org/justin-olson-turning-point-usa/","bad_aliases":[],"note":"Sermon only says 'Justin's the chief CFO' (no surname); TPUSA CFO is Justin Olson. Online posts (youtube.com/watch?v=r36RvkJxYq4, x.com/KatyHuff_423/status/1983722035378614729) identify the sermon's Justin as Justin Olson; whether he is Rob McCoy's son is unverified. Surname 'McCoy' was an inference."},
+{"id":"N-182","name":"James Lee","verdict":"ok","bad_aliases":[],"note":"HappyScribe ep252 also has 'James Lee' (twice). Account not found online."},
+{"id":"N-183","name":"Zeb Boykin","verdict":"ok","bad_aliases":[],"note":"Former Marine scout sniper who did Kirk ballistics analysis: https://www.youtube.com/watch?v=_aGVDfUkRE8"},
+{"id":"N-184","name":"John Miller","verdict":"ok","bad_aliases":[],"note":"HappyScribe ep252 agrees ('John Miller'); post not found online."},
+{"id":"N-185","name":"Joshua Steves","verdict":"ok","bad_aliases":[],"note":"Viewer commenter; HappyScribe ep252 agrees."},
+{"id":"N-196","name":"Roy Edgar McCoy","verdict":"ok","bad_aliases":[],"note":"HappyScribe ep253 agrees ('Roy Edgar McCoy'); not found online. premierespeakers.com bio confirms Rob McCoy's father was a naval officer."},
+{"id":"N-197","name":"Jacob Blank","verdict":"unresolved","bad_aliases":[],"note":"Host reads the signature as 'Jacob blank' (HappyScribe ep253: 'Jacob, blank.'), most likely meaning the surname was redacted, so 'Blank' is probably not a surname. Not renamed."},
+{"id":"N-230","name":"Kolby Sessions","verdict":"ok","bad_aliases":["Coby Sessions"],"note":"HappyScribe ep260: 'Here he is, Kolby Sessions.' UVU men's soccer goalkeeper Kolby Sessions (gouvu.com/news/2025/9/2/mens-soccer-sessions-emojong-earn-wac-player-of-the-week-honors.aspx) fits 'he and a teammate'."},
+{"id":"N-232","name":"Tom Paul","verdict":"ok","bad_aliases":[],"note":"Viewer commenter; HappyScribe ep260 agrees."},
+{"id":"N-233","name":"Arm Hanna","verdict":"unresolved","bad_aliases":[],"note":"Viewer handle; HappyScribe ep260 renders it 'Armhanna'. Cannot verify spelling."},
+{"id":"N-249","name":"Thomas Michael Camino","verdict":"unresolved","bad_aliases":[],"note":"Transcripts consistently 'Camino'; 1995 LA Times article not found. thepeoplesvoice.tv/tpusa-pedophile-ring-exposed-pastor-rob-mccoy-convicted-child-predator/ spells it 'Michael Thomas Cimino' (low-reliability secondary source), so Cimino is a possible correct spelling but unconfirmed."}
+]

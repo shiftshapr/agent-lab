@@ -91,7 +91,7 @@ It's like, wait a minute, this is too much effort. >> This is too much effort to
 
 [20:08]
 
-Like Zionists are just triedand-trude psychopaths. There's no way you could look at what's happened in Gaza to look out at what they did, how they told us they were going to do it, talking about real estate deals. I mean, you and you got to pull this up, Skyler, when you get a second, just some of the video footage of what Gaza looks like today. And then to look you in the face and feel nothing and say, "No, that was necessary response to October 7th. >> There's something wrong with you." And then when people when they can't train people to be inhumane alongside them, the viciousness with which they attack people for being human, that's why I say I I I can't wrap my head around it. I I actually wonder what happened to these people when they were kids because something inside of you has flipped.
+Like Zionists are just triedand-trude psychopaths. There's no way you could look at what's happened in Gaza to look out at what they did, how they told us they were going to do it, talking about real estate deals. I mean, you and you got to pull this up, Schuyler, when you get a second, just some of the video footage of what Gaza looks like today. And then to look you in the face and feel nothing and say, "No, that was necessary response to October 7th. >> There's something wrong with you." And then when people when they can't train people to be inhumane alongside them, the viciousness with which they attack people for being human, that's why I say I I I can't wrap my head around it. I I actually wonder what happened to these people when they were kids because something inside of you has flipped.
 
 [20:46]
 

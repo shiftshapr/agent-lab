@@ -117,7 +117,7 @@ Next up, we find our characters Blake Neff, Danny Philip, and Nate Walker and se
 
 [11:40]
 
-And I'm calling this a federal car lineup before I show you guys this because they're all the vehicles are white. And this I have learned is a federal officer thing. They drive these unmarked white vehicles. Um, you know what, Skyler? Let's actually first take them through the map so they can see visually what's going to happen. Okay? So, let's, uh, get into where the cars are initially parked right there, okay?
+And I'm calling this a federal car lineup before I show you guys this because they're all the vehicles are white. And this I have learned is a federal officer thing. They drive these unmarked white vehicles. Um, you know what, Schuyler? Let's actually first take them through the map so they can see visually what's going to happen. Okay? So, let's, uh, get into where the cars are initially parked right there, okay?
 
 [12:11]
 

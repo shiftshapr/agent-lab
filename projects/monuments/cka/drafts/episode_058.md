@@ -465,7 +465,7 @@ Investigative Pressure: Low
 
 **N-463** Peyton McCormick
 
-*November Renaissance* cast; granddaughter of Colonel Pete McCormick and daughter of Lieutenant Colonel Allan McCormick, once stationed at Fort Huachuca.
+*November Renaissance* cast; granddaughter of Colonel Pete McCormick and daughter of Lieutenant Colonel Allen McCormick, once stationed at Fort Huachuca.
 
 Evidence Count: 1
 Claim Count: 1
@@ -1051,9 +1051,9 @@ First named by the host at 00:06:05 in episode 58 as Colonel Pete McCormick, gra
 
 ---
 
-**N-851** Allan McCormick
+**N-851** Allen McCormick
 
-First named by the host at 00:06:05 in episode 58 as Lieutenant Colonel Allan McCormick, once stationed at Fort Huachuca, father of cast member Peyton McCormick.
+First named by the host at 00:06:05 in episode 58 as Lieutenant Colonel Allen McCormick, once stationed at Fort Huachuca, father of cast member Peyton McCormick.
 
 *Related: C-5153*
 
@@ -1565,19 +1565,19 @@ Investigative Direction: Check Frye's published biography for the Sierra Vista s
 
 ---
 
-**C-5153** Host Says Peyton McCormick Is Linked to Colonel Pete and Lt. Col. Allan McCormick
+**C-5153** Host Says Peyton McCormick Is Linked to Colonel Pete and Lt. Col. Allen McCormick
 
 Claim Timestamp: 00:05:39
 
-Claim: The host says cast member Peyton McCormick's grandfather is Colonel Pete McCormick and her father is Lieutenant Colonel Allan McCormick, once stationed at Fort Huachuca.
+Claim: The host says cast member Peyton McCormick's grandfather is Colonel Pete McCormick and her father is Lieutenant Colonel Allen McCormick, once stationed at Fort Huachuca.
 
-Transcript Snippet: Her father is Lieutenant Colonel Allan McCormick, once stationed at Fort Huachuca.
+Transcript Snippet: Her father is Lieutenant Colonel Allen McCormick, once stationed at Fort Huachuca.
 
 Anchored Artifacts: 
 Mentions: N-463, N-850, N-851
 Related Nodes: N-10417, N-10418
 Tags: relevance:context
-Investigative Direction: Confirm the family relationships and Allan McCormick's Fort Huachuca assignment through Army records or public obituaries.
+Investigative Direction: Confirm the family relationships and Allen McCormick's Fort Huachuca assignment through Army records or public obituaries.
 
 ---
 

@@ -810,7 +810,7 @@ Investigative Direction: Retrieve the original post via web archive to confirm e
 
 Claim Timestamp: 00:44:50
 
-Claim: Libs of TikTok posted on X that prediction markets project Democrats at a 59% chance of sweeping both chambers of Congress in the 2026 midterms.
+Claim: The host reads a Libs of TikTok post saying prediction markets project Democrats at a 59% chance of sweeping both chambers.
 
 Anchored Artifacts: A-2411.1
 
@@ -1559,7 +1559,7 @@ Transcript Snippet: Chelsea and Casey Ba B A U G H donated $5 million to UVU.
 Anchored Artifacts: A-3173.1
 Mentions: N-834, N-900, N-3
 Related Nodes: N-10849, N-10012
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Verify the donation amount, date and recipient through UVU foundation announcements and gift agreements.
 
 ---

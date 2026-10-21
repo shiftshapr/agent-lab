@@ -662,9 +662,9 @@ Ed Sheeran; mentioned in the comment reply.
 
 ---
 
-**N-945** Zack Costello
+**N-945** Zach Costello
 
-First named by the host at 00:40:52 in episode 153 as the YouTuber who compared Robinson's finger posture across the two clips. The transcript spells him Costello, Castello, Cassell and Zack Costello.
+First named by the host at 00:40:52 in episode 153 as the YouTuber who compared Robinson's finger posture across the two clips. The transcript spells him Costello, Castello, Cassell and Zach Costello.
 
 *Related: C-13246, C-13247*
 
@@ -1748,11 +1748,11 @@ Investigative Direction: Obtain White House visitor records and TPUSA security p
 
 ---
 
-**C-13246** Host Says Zack Costello Compared Robinson's Finger Posture in UVU Footage With 2022 Footage
+**C-13246** Host Says Zach Costello Compared Robinson's Finger Posture in UVU Footage With 2022 Footage
 
 Claim Timestamp: 00:40:52
 
-Claim: The host credits YouTuber Zack Costello with noticing that Tyler Robinson in the released UVU-campus footage held his fingers in his pockets in a particular way.
+Claim: The host credits YouTuber Zach Costello with noticing that Tyler Robinson in the released UVU-campus footage held his fingers in his pockets in a particular way.
 
 Transcript Snippet: he was looking at the footage of um the footage that we released of Tyler Robinson the version in the American shirt uh walking to onto UVU campus and he was addressing how he had his fingers in his pockets.
 

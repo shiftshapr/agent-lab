@@ -292,7 +292,7 @@ Confidence: medium
 
 **A-3309** Baalbek Baal Temple Relics Bundle
 
-**A-3309.1** Images the host asks producer Skyler to pull up of Baal temple relics at Baalbek, Lebanon and another temple, showing the six-pointed star (on-screen images, described but not captured in the transcript)
+**A-3309.1** Images the host asks producer Schuyler to pull up of Baal temple relics at Baalbek, Lebanon and another temple, showing the six-pointed star (on-screen images, described but not captured in the transcript)
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:36:08
