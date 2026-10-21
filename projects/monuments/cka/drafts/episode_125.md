@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: 2d8a535e348680bde91bd9e251254cedc97656a8880bb2edfe4356e92aed4629
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-732, N-733, N-735, N-737, N-11058, N-11060
+  - Tip-minted Nodes (supplement_2026-10): N-731, N-732, N-734, N-736, N-11058, N-11060
   - Hole-minted Nodes (reintro-ep125): N-10850
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-10695–C-10771
   - New Nodes Introduced: N-10716
-  - Reused Nodes Appearing: N-11, N-10715, N-5, N-7, N-9, N-17, N-22, N-27, N-36, N-37, N-40, N-97, N-154, N-155, N-190, N-217, N-264, N-330, N-437, N-529, N-10006, N-10018, N-10027, N-10074, N-10193, N-10338, N-10340, N-10342, N-10403, N-10446, N-10456, N-10528, N-10532, N-10681, N-10712, N-10730, N-10815, N-10990, N-10714, N-10748, N-734, N-11059, N-11061, N-736, N-11057
+  - Reused Nodes Appearing: N-11, N-10715, N-5, N-7, N-9, N-17, N-22, N-27, N-36, N-37, N-40, N-97, N-154, N-155, N-190, N-217, N-264, N-330, N-437, N-529, N-10006, N-10018, N-10027, N-10074, N-10193, N-10338, N-10340, N-10342, N-10403, N-10446, N-10456, N-10528, N-10532, N-10681, N-10712, N-10730, N-10815, N-10990, N-10714, N-10748, N-733, N-11059, N-11061, N-735, N-11057
   - Hole-minted Nodes (wave1b): N-367
   - Hole-minted Nodes (wave3): N-502, N-503
   - (see registers)
@@ -717,7 +717,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-732** Stew Peters
+**N-731** Stew Peters
 
 First named by the host at 00:09:26 in episode 125. Employer of Blake Neff before Turning Point per the host.
 
@@ -725,7 +725,7 @@ First named by the host at 00:09:26 in episode 125. Employer of Blake Neff befor
 
 ---
 
-**N-733** John McGovern
+**N-732** John McGovern
 
 First named by the host at 00:11:42 in episode 125 (also Johnny McGovern, McGovern). Works in gifts and fundraising at Turning Point USA per the host.
 
@@ -733,7 +733,7 @@ First named by the host at 00:11:42 in episode 125 (also Johnny McGovern, McGove
 
 ---
 
-**N-734** Ike Perlmutter
+**N-733** Ike Perlmutter
 
 First named by the host at 00:19:38 in episode 125. Subject of the 2019 check dispute.
 
@@ -741,7 +741,7 @@ First named by the host at 00:19:38 in episode 125. Subject of the 2019 check di
 
 ---
 
-**N-735** Stephen Phillip
+**N-734** Stephen Phillip
 
 First named by the host at 00:22:09 in episode 125 (Steven Phillip, Stephen Phillip). Father of Danny Philip.
 
@@ -749,7 +749,7 @@ First named by the host at 00:22:09 in episode 125 (Steven Phillip, Stephen Phil
 
 ---
 
-**N-736** Dennis Frantzve
+**N-735** Dennis Frantzve
 
 First named by the host at 00:24:41 in episode 125. Erika Kirk's cousin per the host.
 
@@ -757,7 +757,7 @@ First named by the host at 00:24:41 in episode 125. Erika Kirk's cousin per the 
 
 ---
 
-**N-737** Leon Black
+**N-736** Leon Black
 
 First named by the host at 00:25:34 in episode 125. Epstein associate whose wealth Bank of America Merrill Lynch managed per the host.
 
@@ -883,7 +883,7 @@ Claim Timestamp: 00:22:15
 Claim: The host says Danny Philip's father Stephen Phillip worked for Bank of America Merrill Lynch in Chicago and, like Tyler Bowyer, majored in Russian studies.
 
 Anchored Artifacts: A-2134.1
-Mentions: N-367, N-735, N-11
+Mentions: N-367, N-734, N-11
 
 Related Nodes: N-10716
 
@@ -909,7 +909,7 @@ Claim Timestamp: 00:24:41
 Claim: The host says Erika Kirk's cousin Dennis ("Dennis Franks Bay" in the captions) worked at Bank of America Merrill Lynch in Chicago during 2008-2022, after his military service.
 
 Anchored Artifacts: A-2134.1
-Mentions: N-2, N-736
+Mentions: N-2, N-735
 
 Related Nodes: N-10716
 
@@ -1026,7 +1026,7 @@ Claim: The host says Blake Neff went to work for Stew Peters and then started wo
 Transcript Snippet: He then work went to work for Stew Peters um and then he moved on to start working with Charlie after Tucker Carlson recommended him because he's loyal.
 
 Anchored Artifacts: 
-Mentions: N-159, N-732, N-22, N-1
+Mentions: N-159, N-731, N-22, N-1
 Related Nodes: N-11057
 Investigative Direction: Neff's own account of how he was hired; statements by Carlson or Peters on the recommendation.
 
@@ -1084,7 +1084,7 @@ Claim: The host says Mikey McCoy rented two SUVs in Salt Lake City, and that one
 Transcript Snippet: We know that one was carrying Charlie and Mikey McCoy and Frank Turrek and John McGovern who works in gifts at Turning Point USA, raises money for them.
 
 Anchored Artifacts: 
-Mentions: N-190, N-1, N-7, N-733
+Mentions: N-190, N-1, N-7, N-732
 Related Nodes: N-10074
 Investigative Direction: Salt Lake City rental agreement(s) in McCoy's name and statements from Turek and McGovern about who rode in which vehicle.
 
@@ -1218,7 +1218,7 @@ Claim: The host says she and Charlie Kirk argued in 2019 about Ike Perlmutter, t
 Transcript Snippet: We already discussed the argument that Charlie and I had regarding Ike Perlmutter, the check, the money. 2019 when I said I felt that people were intentionally forces were pulling me and Charlie apart.
 
 Anchored Artifacts: 
-Mentions: N-3, N-1, N-734
+Mentions: N-3, N-1, N-733
 Investigative Direction: Earlier episode statements on the Perlmutter check, and contemporaneous messages between the host and Kirk.
 
 ---
@@ -1338,7 +1338,7 @@ Claim: The host says Tyler Bowyer speaks Russian and majored in Russian studies,
 Transcript Snippet: you know, Tyler speaks Russian, majored in Russian studies, same for Danny Phillip's dad.
 
 Anchored Artifacts: 
-Mentions: N-11, N-367, N-735
+Mentions: N-11, N-367, N-734
 Related Nodes: N-11059
 Supports: C-10727
 Investigative Direction: Bowyer's educational record and public statements on Russian language ability; Stephen Phillip's degree.
@@ -1384,7 +1384,7 @@ Claim: Presenting her visual guide, the host says Danny Philip's father Stephen 
 Transcript Snippet: you've got Stephen Phillip, that's going to be Daniel Phillip's dad who is the vice president also in Chicago, Bank of America, Merrill Lynch, Russian studies.
 
 Anchored Artifacts: A-2134.1
-Mentions: N-735, N-367
+Mentions: N-734, N-367
 Related Nodes: N-10716
 Supports: C-10727
 Investigative Direction: Bank of America Merrill Lynch directory or FINRA broker records for Stephen Phillip, and his stated job title.
@@ -1400,7 +1400,7 @@ Claim: The host says Erika Kirk's cousin Dennis Frantzve, after leaving the mili
 Transcript Snippet: Erika's cousin who showed her around Romania, the Black Sea Rotational Force.
 
 Anchored Artifacts: A-2134.1
-Mentions: N-736, N-2
+Mentions: N-735, N-2
 Related Nodes: N-10990, N-10716
 Supports: C-10732
 Investigative Direction: Romania trip records, Erika Kirk's own accounts of the visit, and Dennis Frantzve's military and employment history.
@@ -1416,7 +1416,7 @@ Claim: The host says Bank of America, which she says settled with Epstein victim
 Transcript Snippet: they were sued because they were managing wealth, Bank of America Merrill Lynch, of the major Epstein associate Leon Black.
 
 Anchored Artifacts: 
-Mentions: N-737, N-9
+Mentions: N-736, N-9
 Related Nodes: N-11060
 Investigative Direction: Court filings in the Epstein victims' suit against Bank of America and the settlement announcement.
 
@@ -1491,7 +1491,7 @@ Claim: The host says it was confirmed Charlie Kirk was in the restaurantology ev
 Transcript Snippet: it was confirmed that Charlie was in the green room and he had three people with him. We know for a fact Johnny McGovern was with him. We know Mikey McCoy was with him
 
 Anchored Artifacts: 
-Mentions: N-1, N-733, N-190, N-7
+Mentions: N-1, N-732, N-190, N-7
 Related Nodes: N-11061
 Investigative Direction: Event staff, photos or video from the restaurantology event green room and statements by Turek, McGovern and McCoy.
 

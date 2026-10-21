@@ -1271,8 +1271,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-545",
-      "ref": "N-545",
+      "@id": "N-544",
+      "ref": "N-544",
       "name": "Tracy Martin",
       "type": "person",
       "description": "Tracy Martin; the host's guess for the Daily Mail family friend.",
@@ -3127,7 +3127,7 @@
       "investigative_direction": "Treat as the host's speculation; ask the Daily Mail reporter whether the source can be confirmed or denied.",
       "transcript_snippet": "My guess would be Tracy Martin because she's also been the driver behind other wacky pieces, that Us Magazine one, but who knows?",
       "mentions_person_refs": [
-        "N-545",
+        "N-544",
         "N-3"
       ]
     },

@@ -1099,8 +1099,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-683",
-      "ref": "N-683",
+      "@id": "N-682",
+      "ref": "N-682",
       "name": "Spencer (Frank Turek's son)",
       "type": "person",
       "description": "Turek's son named as FaceTiming during the event.",
@@ -1119,8 +1119,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-738",
-      "ref": "N-738",
+      "@id": "N-737",
+      "ref": "N-737",
       "name": "Michael Jackson",
       "type": "person",
       "description": "Cited in the host's account of her Daily Wire firing.",
@@ -1616,8 +1616,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-777",
-      "ref": "N-777",
+      "@id": "N-776",
+      "ref": "N-776",
       "name": "Amanda Bakker",
       "type": "person",
       "description": "First named by the host at 00:19:25 in episode 127. FBI agent who testified about exhibit nine, the backpack.",
@@ -1634,8 +1634,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-778",
-      "ref": "N-778",
+      "@id": "N-777",
+      "ref": "N-777",
       "name": "Zach Turek",
       "type": "person",
       "description": "First named by the host at 00:38:14 in episode 127. Aliases: Zachary Turek, Frank Zachary Turek, Pentagon Zack.",
@@ -1653,8 +1653,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-779",
-      "ref": "N-779",
+      "@id": "N-778",
+      "ref": "N-778",
       "name": "Mark Meckler",
       "type": "person",
       "description": "First named by the host at 00:47:56 in episode 127. Convention of States figure, called the snake-ler by the host.",
@@ -1842,7 +1842,7 @@
       "claim_timestamp": "00:19:25–00:20:30",
       "investigative_direction": "Identify the bystander candidate; obtain the source of the \"bystander\" classification.",
       "mentions_person_refs": [
-        "N-777"
+        "N-776"
       ]
     },
     {
@@ -1861,7 +1861,7 @@
       "claim_timestamp": "00:20:30–00:21:15",
       "investigative_direction": "Identify the lab employee who authored/added the \"Kirk's detail\" attribution; obtain that employee's written communication.",
       "mentions_person_refs": [
-        "N-777",
+        "N-776",
         "N-1"
       ]
     },
@@ -1884,7 +1884,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-505",
-        "N-777"
+        "N-776"
       ]
     },
     {
@@ -2441,7 +2441,7 @@
         "C-10887"
       ],
       "mentions_person_refs": [
-        "N-777"
+        "N-776"
       ]
     },
     {
@@ -2466,7 +2466,7 @@
         "C-10879"
       ],
       "mentions_person_refs": [
-        "N-777",
+        "N-776",
         "N-3"
       ]
     },
@@ -2841,7 +2841,7 @@
       ],
       "mentions_person_refs": [
         "N-7",
-        "N-683"
+        "N-682"
       ]
     },
     {
@@ -2864,7 +2864,7 @@
       "investigative_direction": "Verify Zachary Turek's Joint Staff title and dates from Department of Defense directories or biographies.",
       "transcript_snippet": "Zach was working at the Pentagon. He is today employed in Washington, D. C. at the Pentagon serving as the deputy division chief of the Joint Staff.",
       "mentions_person_refs": [
-        "N-778",
+        "N-777",
         "N-7"
       ]
     },
@@ -2912,7 +2912,7 @@
       ],
       "mentions_person_refs": [
         "N-7",
-        "N-778",
+        "N-777",
         "N-3"
       ]
     },
@@ -2933,7 +2933,7 @@
       "investigative_direction": "Verify Spencer Turek's role, location and duty schedule from public profiles or Air Force records.",
       "transcript_snippet": "He works as a branch chief pilot for the Air Force.",
       "mentions_person_refs": [
-        "N-683",
+        "N-682",
         "N-3"
       ]
     },
@@ -2956,7 +2956,7 @@
       "investigative_direction": "Obtain the call-detail records and duty rosters that would show where Spencer and his wife were and what they were doing at 2:23 p.m. Eastern.",
       "transcript_snippet": "So, why at 2:23 p. m. in the afternoon is he with his wife clearing out his military schedule to make availability to watch Charlie Kirk answer questions",
       "mentions_person_refs": [
-        "N-683",
+        "N-682",
         "N-1",
         "N-3"
       ]
@@ -2979,7 +2979,7 @@
       "transcript_snippet": "Frank and his son Zack, Pentagon Zack, actually wrote a book together entitled Hollywood Heroes.",
       "mentions_person_refs": [
         "N-7",
-        "N-778",
+        "N-777",
         "N-3"
       ]
     },
@@ -3118,7 +3118,7 @@
       "transcript_snippet": "he's particularly hosted this guy Mark Meckler and I had such a giggle about Mark Meckler telling this obscure story um that I was like mean to him.",
       "mentions_person_refs": [
         "N-366",
-        "N-779",
+        "N-778",
         "N-3"
       ]
     },
@@ -3141,7 +3141,7 @@
       "investigative_direction": "Review the host's messages with Charlie, TPUSA donor communications and Convention of the States records for the proposed attachment.",
       "transcript_snippet": "telling donors to like force Charlie to uh just attach Convention of the States to Turning Point USA.",
       "mentions_person_refs": [
-        "N-779",
+        "N-778",
         "N-1",
         "N-3"
       ]
@@ -3166,7 +3166,7 @@
       "transcript_snippet": "Charlie and me literally all of our messages which I still have of course were just just referred to him as the snake-ler instead of Meckler",
       "mentions_person_refs": [
         "N-1",
-        "N-779",
+        "N-778",
         "N-3"
       ]
     },
@@ -3212,7 +3212,7 @@
       "transcript_snippet": "by the way Tyler Bowyer is even that the chats cuz we would also chat about Mark Meckler",
       "mentions_person_refs": [
         "N-11",
-        "N-779",
+        "N-778",
         "N-3"
       ]
     },
@@ -3365,7 +3365,7 @@
       "investigative_direction": "Check the lyric source (They Don't Care About Us), the 1996 controversy and Jackson's own statements about it.",
       "transcript_snippet": "What did he say? \"Jew me, screw me\" in his songs.",
       "mentions_person_refs": [
-        "N-738",
+        "N-737",
         "N-3"
       ]
     },
@@ -3385,7 +3385,7 @@
       "transcript_snippet": "One of the reasons I was fired from Daily Wire was for suggesting that Michael Jackson could have been telling the truth",
       "mentions_person_refs": [
         "N-3",
-        "N-738"
+        "N-737"
       ]
     },
     {

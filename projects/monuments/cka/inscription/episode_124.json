@@ -1709,8 +1709,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-607",
-      "ref": "N-607",
+      "@id": "N-606",
+      "ref": "N-606",
       "name": "Graham Allen",
       "type": "person",
       "description": "Graham Allen; an influencer the host says was invited to the courthouse.",
@@ -1744,8 +1744,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-774",
-      "ref": "N-774",
+      "@id": "N-773",
+      "ref": "N-773",
       "name": "Caitlin Oliver",
       "type": "person",
       "description": "First named by the host at 00:30:07 in episode 124. ATF forensic biologist who testified on DNA at the preliminary hearing.",
@@ -1765,8 +1765,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-775",
-      "ref": "N-775",
+      "@id": "N-774",
+      "ref": "N-774",
       "name": "Samantha Karner",
       "type": "person",
       "description": "First named by the host at 00:37:36 in episode 124. ATF ballistics expert who testified on day four about bullet fragment 6A.",
@@ -1783,8 +1783,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-776",
-      "ref": "N-776",
+      "@id": "N-775",
+      "ref": "N-775",
       "name": "Matt Robinson",
       "type": "person",
       "description": "First named by the host at 00:06:50 in episode 124. Tyler Robinson's father, whose prints the host says were on the gun. Aliases: Matt Robinson.",
@@ -2042,7 +2042,7 @@
       "investigative_direction": "Compare Caitlin Oliver's testimony against ATF report language and media headlines for accuracy of characterization.",
       "mentions_person_refs": [
         "N-40",
-        "N-774"
+        "N-773"
       ]
     },
     {
@@ -2061,7 +2061,7 @@
       "claim_timestamp": "00:32:07",
       "investigative_direction": "Obtain the full DNA report to verify contributor counts and threshold interpretations.",
       "mentions_person_refs": [
-        "N-774"
+        "N-773"
       ]
     },
     {
@@ -2081,7 +2081,7 @@
       "investigative_direction": "Cross-reference degradation findings with handling/timeline assumptions in the prosecution's theory.",
       "mentions_person_refs": [
         "N-40",
-        "N-774"
+        "N-773"
       ]
     },
     {
@@ -2100,7 +2100,7 @@
       "claim_timestamp": "00:40:31",
       "investigative_direction": "Cross-reference measured diameter with .30-06 SAAMI specifications and the recovered rifle.",
       "mentions_person_refs": [
-        "N-775"
+        "N-774"
       ]
     },
     {
@@ -2222,7 +2222,7 @@
         "N-3",
         "N-37",
         "N-40",
-        "N-776"
+        "N-775"
       ]
     },
     {
@@ -2245,7 +2245,7 @@
         "N-3",
         "N-2",
         "N-89",
-        "N-607",
+        "N-606",
         "N-58",
         "N-1"
       ]
@@ -2924,7 +2924,7 @@
       "transcript_snippet": "I believe that the reason they did it, the reason why they went insane was to overcome the testimony of Caitlin Oliver.",
       "mentions_person_refs": [
         "N-3",
-        "N-774",
+        "N-773",
         "N-40"
       ]
     },
@@ -2971,9 +2971,9 @@
       "transcript_snippet": "which of course included Lance Twiggs. Uh it also included Matt Robinson, Tyler's father.",
       "mentions_person_refs": [
         "N-3",
-        "N-774",
+        "N-773",
         "N-54",
-        "N-776",
+        "N-775",
         "N-40"
       ]
     },
@@ -2997,7 +2997,7 @@
       "investigative_direction": "Obtain the evidence photographs, collection notes and the identity of who performed the swabs.",
       "transcript_snippet": "So, they were swabbed together. So, I wouldn't be able to say um where the DNA came from.",
       "mentions_person_refs": [
-        "N-774",
+        "N-773",
         "N-40"
       ]
     },
@@ -3021,7 +3021,7 @@
       "transcript_snippet": "because they kept saying that his DNA was on the trigger. And she's admitting it could be the trigger guard.",
       "mentions_person_refs": [
         "N-3",
-        "N-774",
+        "N-773",
         "N-40"
       ]
     },
@@ -3075,7 +3075,7 @@
       "transcript_snippet": "it was weird off the bat that they said they took seven bullet uh seven fragments from Charlie's body. She testifies that she only received four of them in an envelope",
       "mentions_person_refs": [
         "N-3",
-        "N-775",
+        "N-774",
         "N-1"
       ]
     },
@@ -3103,7 +3103,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-775",
+        "N-774",
         "N-40"
       ]
     },

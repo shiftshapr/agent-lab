@@ -2087,8 +2087,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-682",
-      "ref": "N-682",
+      "@id": "N-681",
+      "ref": "N-681",
       "name": "Jon Bray",
       "type": "person",
       "description": "Researcher whose work the host finds compelling (transcribed John Bray).",
@@ -2104,8 +2104,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-683",
-      "ref": "N-683",
+      "@id": "N-682",
+      "ref": "N-682",
       "name": "Spencer (Frank Turek's son)",
       "type": "person",
       "description": "Said to be an Air Force veteran.",
@@ -2121,8 +2121,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-688",
-      "ref": "N-688",
+      "@id": "N-687",
+      "ref": "N-687",
       "name": "Otto Busher",
       "type": "person",
       "description": "Colonel the host says Romanian Angels worked with and who was accused of running a brothel.",
@@ -2140,8 +2140,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-689",
-      "ref": "N-689",
+      "@id": "N-688",
+      "ref": "N-688",
       "name": "Curtis Kolvet",
       "type": "person",
       "description": "Andrew Kolvet's brother, described as stationed in Romania.",
@@ -2158,8 +2158,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-752",
-      "ref": "N-752",
+      "@id": "N-751",
+      "ref": "N-751",
       "name": "Astrid Tuminez",
       "type": "person",
       "description": "UVU president; the host notes her Russian studies degree.",
@@ -2645,8 +2645,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-800",
-      "ref": "N-800",
+      "@id": "N-799",
+      "ref": "N-799",
       "name": "Paul Vallely",
       "type": "person",
       "description": "First named by the host at 01:20:03 in episode 54. Retired Army intelligence officer; the host says he is on the TPUSA advisory board and co-wrote Mind War. Spelled Vallely and Vallely in the transcript.",
@@ -2664,8 +2664,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-801",
-      "ref": "N-801",
+      "@id": "N-800",
+      "ref": "N-800",
       "name": "Andrew Piskadlo",
       "type": "person",
       "description": "First named by the host at 00:15:55 in episode 54. Photographer early mistaken for the shooter.",
@@ -3824,7 +3824,7 @@
       "investigative_direction": "Locate Romanian Angels thank-you posts or news coverage naming Colonel Busher and the dates of cooperation.",
       "transcript_snippet": "Now, it is a fact that they worked with at that time Colonel Otto Busher.",
       "mentions_person_refs": [
-        "N-688"
+        "N-687"
       ]
     },
     {
@@ -3844,7 +3844,7 @@
       "investigative_direction": "Find the Romanian complaint, any prosecutor's file and press coverage of the allegation against Busher and its outcome.",
       "transcript_snippet": "Colonel Otto Busher was then accused of running a brothel with young children.",
       "mentions_person_refs": [
-        "N-688"
+        "N-687"
       ]
     },
     {
@@ -3869,7 +3869,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-489",
-        "N-688"
+        "N-687"
       ]
     },
     {
@@ -3934,7 +3934,7 @@
       "transcript_snippet": "Uh Andrew Kolwitz's brother Curtis is currently stationed in Romania as a lieutenant colonel.",
       "mentions_person_refs": [
         "N-14",
-        "N-689"
+        "N-688"
       ]
     },
     {
@@ -3955,7 +3955,7 @@
       "transcript_snippet": "We have Tyler Bowyer who holds a degree in Russian studies and is fluent in Russian",
       "mentions_person_refs": [
         "N-11",
-        "N-752"
+        "N-751"
       ]
     },
     {
@@ -4110,7 +4110,7 @@
       "investigative_direction": "Identify Piscatello's credentials and who authorized his access to the UVU event.",
       "transcript_snippet": "It ended up being that he was photographing that he was taking pictures, he was a photographer not hired by Turning Point USA.",
       "mentions_person_refs": [
-        "N-801"
+        "N-800"
       ]
     },
     {
@@ -4130,7 +4130,7 @@
       "investigative_direction": "Review Piscatello's Instagram posts on Ukrainian trafficking for dates and claims.",
       "transcript_snippet": "Uh but he has rang the alarm before on military Ukrainian sex trafficking that is happening in the United States.",
       "mentions_person_refs": [
-        "N-801"
+        "N-800"
       ]
     },
     {
@@ -4260,7 +4260,7 @@
       "transcript_snippet": "Andrew Kolwitz's brother and cousin are captains in the military, Curtis Kolwitz and Robert Kolwitz.",
       "mentions_person_refs": [
         "N-14",
-        "N-689"
+        "N-688"
       ]
     },
     {
@@ -4381,7 +4381,7 @@
       "transcript_snippet": "His other son, Spencer, is an Air Force vet.",
       "mentions_person_refs": [
         "N-7",
-        "N-683"
+        "N-682"
       ]
     },
     {
@@ -5905,7 +5905,7 @@
       "investigative_direction": "Review Bray's published work and his own account of any contact with the host.",
       "transcript_snippet": "and I have been communicating with him behind the scenes.",
       "mentions_person_refs": [
-        "N-682",
+        "N-681",
         "N-3"
       ]
     },
@@ -5992,7 +5992,7 @@
       "investigative_direction": "Check TPUSA's website and archived board listings for Vallely.",
       "transcript_snippet": "Cuz Paul Vallely is also on the advisory board of Turning Point USA.",
       "mentions_person_refs": [
-        "N-800",
+        "N-799",
         "N-10000"
       ]
     },
@@ -6013,7 +6013,7 @@
       "investigative_direction": "Verify the authorship of Mind War and Vallely's and Aquino's military service.",
       "transcript_snippet": "He co-wrote the book Mind War with Michael Aquino Aquino who was an army intel psychological operations officer and an avowed Satanist.",
       "mentions_person_refs": [
-        "N-800",
+        "N-799",
         "N-449"
       ]
     },
@@ -6039,7 +6039,7 @@
         "C-4405"
       ],
       "mentions_person_refs": [
-        "N-800",
+        "N-799",
         "N-3"
       ]
     },

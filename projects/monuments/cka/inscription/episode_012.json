@@ -293,7 +293,7 @@
           "related_nodes": [
             "N-128",
             "N-61",
-            "N-784"
+            "N-783"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -870,8 +870,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-784",
-      "ref": "N-784",
+      "@id": "N-783",
+      "ref": "N-783",
       "name": "Mike Lee",
       "type": "person",
       "description": "US Senator from Utah; first named in A-1192.2.",
@@ -2081,7 +2081,7 @@
       "transcript_snippet": "chosen for an internship with Senator Mike Lee of Utah.",
       "mentions_person_refs": [
         "N-128",
-        "N-784",
+        "N-783",
         "N-61"
       ]
     },

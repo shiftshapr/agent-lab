@@ -11,11 +11,11 @@
 - **Transcript SHA-256**: 6ce4e769b4497ca6b87095c77c991401a54f9ef0556891c273b7e28ec46bef36
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-720, N-721, N-722, N-723, N-11040, N-11041, N-11042, N-11043, N-11044, N-11045, N-11046
+  - Tip-minted Nodes (supplement_2026-10): N-719, N-720, N-721, N-722, N-11040, N-11041, N-11042, N-11043, N-11044, N-11045, N-11046
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-5800–C-5905
   - New Nodes Introduced: N-499, N-500, N-501, N-10453, N-10455, N-10457, N-10458, N-10459, N-10460, N-10461, N-10462, N-10463, N-10464
-  - Reused Nodes Appearing: N-2, N-9, N-14, N-57, N-69, N-97, N-117, N-140, N-178, N-199, N-211, N-278, N-366, N-449, N-455, N-521, N-10000, N-10015, N-10023, N-10026, N-10048, N-10059, N-10063, N-10131, N-10204, N-10253, N-10264, N-10342, N-10410, N-10435, N-10900, N-498, N-10451, N-10454, N-10465, N-298, N-10968, N-497, N-724, N-10452, N-10456
+  - Reused Nodes Appearing: N-2, N-9, N-14, N-57, N-69, N-97, N-117, N-140, N-178, N-199, N-211, N-278, N-366, N-449, N-455, N-521, N-10000, N-10015, N-10023, N-10026, N-10048, N-10059, N-10063, N-10131, N-10204, N-10253, N-10264, N-10342, N-10410, N-10435, N-10900, N-498, N-10451, N-10454, N-10465, N-298, N-10968, N-497, N-723, N-10452, N-10456
   - Hole-minted Nodes (wave3): N-379
 
 ---
@@ -444,7 +444,7 @@ Video Timestamp: 01:32:22
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5894, C-5895, C-5896, N-3, N-722, N-497, N-10900*
+*Related: C-5894, C-5895, C-5896, N-3, N-721, N-497, N-10900*
 
 ---
 
@@ -1044,7 +1044,7 @@ Organization discussed in Youssef's and the host's statements about its Gaza rep
 
 ---
 
-**N-720** Matt Lieb
+**N-719** Matt Lieb
 
 First named by Youssef at 00:18:27 in episode 65. Comedian and friend of Youssef who, per Youssef, changed from liberal Zionist to anti-Zionist after a Birthright trip. Transcript spelling: Matt Lieb.
 
@@ -1052,7 +1052,7 @@ First named by Youssef at 00:18:27 in episode 65. Comedian and friend of Youssef
 
 ---
 
-**N-721** Jonathan Conricus
+**N-720** Jonathan Conricus
 
 First named by Youssef at 01:04:37 in episode 65. Described as an ex-IDF spokesman who appeared on Piers Morgan's show. The name is spelled phonetically in the transcript.
 
@@ -1060,7 +1060,7 @@ First named by Youssef at 01:04:37 in episode 65. Described as an ex-IDF spokesm
 
 ---
 
-**N-722** Rabbi Michael Barclay
+**N-721** Rabbi Michael Barclay
 
 First named by the host at 01:32:22 in episode 65. Rabbi the host says she interviewed near the end of her Daily Wire tenure. Spelled phonetically in the transcript.
 
@@ -1068,7 +1068,7 @@ First named by the host at 01:32:22 in episode 65. Rabbi the host says she inter
 
 ---
 
-**N-723** Rabbi Yosef Mizrachi
+**N-722** Rabbi Yosef Mizrachi
 
 First named by Youssef at 01:35:56 in episode 65. Rabbi whose lectures Youssef describes. Spelled phonetically in the transcript.
 
@@ -1076,7 +1076,7 @@ First named by Youssef at 01:35:56 in episode 65. Rabbi whose lectures Youssef d
 
 ---
 
-**N-724** Jack Parsons
+**N-723** Jack Parsons
 
 First named by the host at 01:41:10 in episode 65. Described by the host as an avowed Satanist connected to the Apollo-era program.
 
@@ -1684,7 +1684,7 @@ Claim: Youssef says his friend, comedian Matt Lieb, was a liberal Zionist at 26 
 Transcript Snippet: we find that the main speaker in our event was Benjamin Netanyahu accompanied by Miam Idlen.
 
 Anchored Artifacts: 
-Mentions: N-720, N-36, N-298, N-497
+Mentions: N-719, N-36, N-298, N-497
 Related Nodes: 
 Investigative Direction: Ask Matt Lieb for the date of the Birthright trip and check Netanyahu's and Adelson's schedules for that date.
 
@@ -2259,7 +2259,7 @@ Claim: Youssef says Piers Morgan brought on Jonathan Conricus, described as an e
 Transcript Snippet: they brought someone called Jonathan Conricus who was like the ex IDF spokesman and out of nowhere it's like there is no famine in Gaza.
 
 Anchored Artifacts: 
-Mentions: N-497, N-204, N-721
+Mentions: N-497, N-204, N-720
 Related Nodes: N-10063
 Investigative Direction: Identify the guest, whose name is spelled phonetically, and the episode of the show; check the transcript for the statement.
 
@@ -2592,7 +2592,7 @@ Claim: The host says her very last, or second-to-last, Daily Wire episode was wi
 Transcript Snippet: It was what I think it was my very last. It was my very last. It was or of the second to last Rabbi Barclay.
 
 Anchored Artifacts: A-2769.1
-Mentions: N-3, N-722, N-497
+Mentions: N-3, N-721, N-497
 Related Nodes: N-10900
 Investigative Direction: Check the Daily Wire episode list for the host's final episodes and the Barlay interview date.
 
@@ -2607,7 +2607,7 @@ Claim: The host says that when she asked Rabbi Barclay for a definition of antis
 Transcript Snippet: being like, "Okay, can I get a definition of anti-mitism?" And he was like, "Whatever we want." Oh my god.
 
 Anchored Artifacts: A-2769.1
-Mentions: N-3, N-722
+Mentions: N-3, N-721
 Related Nodes: 
 Investigative Direction: Watch the interview at the point where she asked for a definition and transcribe his answer.
 
@@ -2622,7 +2622,7 @@ Claim: The host says that after the interview Rabbi Barclay told her she could h
 Transcript Snippet: he told me that I could have a private screening of October 7th. He was going to they were going to bring the laptop to me
 
 Anchored Artifacts: A-2769.1
-Mentions: N-3, N-722
+Mentions: N-3, N-721
 Related Nodes: 
 Investigative Direction: Ask the host or her team for the message in which the offer was made.
 
@@ -2637,7 +2637,7 @@ Claim: Youssef says another rabbi, called Yosef Mizrachi, gives lectures in Los 
 Transcript Snippet: first of all he doesn't call him Jesus Christ. He he call him JC Penney.
 
 Anchored Artifacts: 
-Mentions: N-497, N-723
+Mentions: N-497, N-722
 Related Nodes: 
 Investigative Direction: Find the lecture videos and transcribe the passages.
 
@@ -2682,7 +2682,7 @@ Claim: The host says Jack Parsons of the Apollo program era was a committed avow
 Transcript Snippet: Jack Parsons. What was he? He was he was a committed a vowed Satanist or throwing sexual rituals. He was trying to summon demons.
 
 Anchored Artifacts: 
-Mentions: N-3, N-724
+Mentions: N-3, N-723
 Related Nodes: 
 Investigative Direction: Review biographies of Parsons's occult activities and his rocket work.
 

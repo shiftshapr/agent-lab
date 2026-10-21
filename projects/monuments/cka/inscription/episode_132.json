@@ -1248,8 +1248,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-636",
-      "ref": "N-636",
+      "@id": "N-635",
+      "ref": "N-635",
       "name": "Kouri Richins",
       "type": "person",
       "description": "Kouri Richins; mentioned in the host's remark about Utah wives.",
@@ -1265,8 +1265,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-710",
-      "ref": "N-710",
+      "@id": "N-709",
+      "ref": "N-709",
       "name": "Volodymyr Zelensky",
       "type": "person",
       "description": "Volodymyr Zelensky; mentioned alongside Netanyahu's trip.",
@@ -1282,8 +1282,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-738",
-      "ref": "N-738",
+      "@id": "N-737",
+      "ref": "N-737",
       "name": "Michael Jackson",
       "type": "person",
       "description": "Michael Jackson; named in the host's remark about psychological pressure.",
@@ -1753,8 +1753,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-799",
-      "ref": "N-799",
+      "@id": "N-798",
+      "ref": "N-798",
       "name": "Harris Faulkner",
       "type": "person",
       "description": "Fox News host who interviewed Erika Kirk about the burial location; first named by the host at 00:12:01 in episode 132.",
@@ -1770,8 +1770,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-820",
-      "ref": "N-820",
+      "@id": "N-819",
+      "ref": "N-819",
       "name": "Vivian Kubrick",
       "type": "person",
       "description": "Daughter of Stanley Kubrick whom the host says criticised the Make Heaven Crowded event on X; first named by the host at 00:26:09 in episode 132.",
@@ -1787,8 +1787,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-821",
-      "ref": "N-821",
+      "@id": "N-820",
+      "ref": "N-820",
       "name": "Devonte West",
       "type": "person",
       "description": "Instagram account holder whose clip mocking Christian speak the host plays; first named by the host at 00:30:12 in episode 132 (spelled Devonte West once).",
@@ -1973,7 +1973,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-2",
-        "N-799"
+        "N-798"
       ]
     },
     {
@@ -2066,7 +2066,7 @@
       "claim_timestamp": "00:30:59",
       "investigative_direction": "Verify the original Instagram post remains accessible and identify the target of the mockery if specified.",
       "mentions_person_refs": [
-        "N-821",
+        "N-820",
         "N-2"
       ]
     },
@@ -2771,7 +2771,7 @@
       "investigative_direction": "Obtain the full Fox News segment and any pre-interview arrangements.",
       "transcript_snippet": "a book tour where Harris Faulkner on Fox News set her up with a question about how dark it would be.",
       "mentions_person_refs": [
-        "N-799",
+        "N-798",
         "N-2",
         "N-1"
       ]
@@ -3276,7 +3276,7 @@
       "investigative_direction": "Retrieve Vivian Kubrick's X post.",
       "transcript_snippet": "I was very happy to see Stanley Kubrick's daughter Vivian Kubrick actually. She's been amazing on X and she just took this event and was like no one knows what these people are saying.",
       "mentions_person_refs": [
-        "N-820",
+        "N-819",
         "N-3"
       ]
     },
@@ -3319,7 +3319,7 @@
       "investigative_direction": "Retrieve the Instagram post and confirm the account holder's name.",
       "transcript_snippet": "The account holder on Instagram is Devonte West and he just mocks broadly speaking. So this is not about Erika.",
       "mentions_person_refs": [
-        "N-821",
+        "N-820",
         "N-2"
       ]
     },
@@ -3580,7 +3580,7 @@
       "transcript_snippet": "Bibi Netanyahu is saying that he is flying in for the same reason Zelensky is flying in.",
       "mentions_person_refs": [
         "N-36",
-        "N-710",
+        "N-709",
         "N-5",
         "N-3"
       ]
@@ -3668,7 +3668,7 @@
       "investigative_direction": "No checkable record; recorded as stated.",
       "transcript_snippet": "They they try to psychologically break you. That's what they did to Michael Jackson. It's what they did to Kanye West.",
       "mentions_person_refs": [
-        "N-738",
+        "N-737",
         "N-27",
         "N-3"
       ]
@@ -3735,7 +3735,7 @@
       "investigative_direction": "Consult the court record in the Kouri Richins case for the current legal status.",
       "transcript_snippet": "You know, we had that Kouri Richins girl who killed her husband. And people have questions.",
       "mentions_person_refs": [
-        "N-636",
+        "N-635",
         "N-3"
       ]
     },

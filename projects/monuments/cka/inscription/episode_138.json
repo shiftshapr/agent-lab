@@ -2044,8 +2044,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-634",
-      "ref": "N-634",
+      "@id": "N-633",
+      "ref": "N-633",
       "name": "Charlie Spiering",
       "type": "person",
       "description": "Existing node reused for new claims in this episode.",
@@ -2078,8 +2078,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-776",
-      "ref": "N-776",
+      "@id": "N-775",
+      "ref": "N-775",
       "name": "Matt Robinson",
       "type": "person",
       "description": "Existing node reused for new claims in this episode.",
@@ -2113,8 +2113,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-815",
-      "ref": "N-815",
+      "@id": "N-814",
+      "ref": "N-814",
       "name": "David Sprague",
       "type": "person",
       "description": "First named by the host at 00:02:40 in episode 138 as the man who started the USA chant after the shot; the host says he was formerly James Rawlinson (transcribed Rollinsson).",
@@ -2130,8 +2130,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-822",
-      "ref": "N-822",
+      "@id": "N-821",
+      "ref": "N-821",
       "name": "Kassy Akiva",
       "type": "person",
       "description": "First named by the host at 00:18:45 in episode 138 as a Daily Wire employee who collaborated with the group chat organizer.",
@@ -2147,8 +2147,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-823",
-      "ref": "N-823",
+      "@id": "N-822",
+      "ref": "N-822",
       "name": "Perez Hilton",
       "type": "person",
       "description": "First named by the host at 00:30:40 in episode 138 as the celebrity blogger in the news over a live-streamed self-harm incident.",
@@ -2169,8 +2169,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-824",
-      "ref": "N-824",
+      "@id": "N-823",
+      "ref": "N-823",
       "name": "Khloe Kardashian",
       "type": "person",
       "description": "First named by the host at 00:31:00 in episode 138 as a celebrity Perez Hilton targeted.",
@@ -2186,8 +2186,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-825",
-      "ref": "N-825",
+      "@id": "N-824",
+      "ref": "N-824",
       "name": "Miley Cyrus",
       "type": "person",
       "description": "First named by the host at 00:31:15 in episode 138 as the subject of an alleged Perez Hilton photo post at age 17.",
@@ -2371,7 +2371,7 @@
       "claim_timestamp": "00:36:50–00:37:30",
       "investigative_direction": "Obtain the original Miami-Dade Sheriff's Office email/statement and any incident report; verify timestamp of live stream and platform takedown.",
       "mentions_person_refs": [
-        "N-823"
+        "N-822"
       ]
     },
     {
@@ -2388,7 +2388,7 @@
       "claim_timestamp": "00:37:00–00:37:30",
       "investigative_direction": "Confirm hospitalization via hospital records or subsequent official statements; verify family-member statement that he was alone in the residence.",
       "mentions_person_refs": [
-        "N-823"
+        "N-822"
       ]
     },
     {
@@ -2486,7 +2486,7 @@
       "investigative_direction": "Obtain the original email with full headers and timestamp; identify what \"sources\" Spearing referenced; cross-check Daily Mail coverage for follow-up.",
       "mentions_person_refs": [
         "N-3",
-        "N-634"
+        "N-633"
       ]
     },
     {
@@ -2503,7 +2503,7 @@
       "claim_timestamp": "00:32:46–00:34:05",
       "investigative_direction": "Obtain the full 2010 episode recording for complete context; cross-reference with contemporaneous reporting.",
       "mentions_person_refs": [
-        "N-823"
+        "N-822"
       ]
     },
     {
@@ -2563,7 +2563,7 @@
         "N-3",
         "N-40",
         "N-54",
-        "N-776"
+        "N-775"
       ]
     },
     {
@@ -2672,7 +2672,7 @@
       "transcript_snippet": "He goes by David Sprague, but he actually changed his name. It used to be James Rawlinson.",
       "mentions_person_refs": [
         "N-3",
-        "N-815"
+        "N-814"
       ]
     },
     {
@@ -2743,7 +2743,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-776",
+        "N-775",
         "N-40"
       ]
     },
@@ -2768,7 +2768,7 @@
         "N-3",
         "N-37",
         "N-14",
-        "N-776"
+        "N-775"
       ]
     },
     {
@@ -3005,7 +3005,7 @@
         "N-3",
         "N-40",
         "N-54",
-        "N-776"
+        "N-775"
       ]
     },
     {
@@ -3351,7 +3351,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-822",
+        "N-821",
         "N-437",
         "N-22"
       ]
@@ -3464,7 +3464,7 @@
       "transcript_snippet": "the one who worked on the Trust Us, bro. Charlie definitely wanted Erika to take over the company because I watched the video.",
       "mentions_person_refs": [
         "N-3",
-        "N-634",
+        "N-633",
         "N-1",
         "N-2"
       ]
@@ -3601,8 +3601,8 @@
       "transcript_snippet": "he really targeted her and referred to her as a transvestite over and over again.",
       "mentions_person_refs": [
         "N-3",
-        "N-823",
-        "N-824"
+        "N-822",
+        "N-823"
       ]
     },
     {
@@ -3621,8 +3621,8 @@
       "transcript_snippet": "he posted an upskirt photo of Miley Cyrus, who was then just 17 years old.",
       "mentions_person_refs": [
         "N-3",
-        "N-823",
-        "N-825"
+        "N-822",
+        "N-824"
       ]
     },
     {
@@ -3643,7 +3643,7 @@
       "transcript_snippet": "He chose to have three children, one in 2013, one in 2015, and one in 2017.",
       "mentions_person_refs": [
         "N-3",
-        "N-823"
+        "N-822"
       ]
     },
     {
@@ -3664,7 +3664,7 @@
       "transcript_snippet": "on March 23rd, he posted videos of himself from a hospital bed and said he almost died from severe sepsis and infections.",
       "mentions_person_refs": [
         "N-3",
-        "N-823"
+        "N-822"
       ]
     },
     {
@@ -3688,7 +3688,7 @@
       "transcript_snippet": "which ran live on TikTok, Perez Hilton was fully naked, drenched in blood with multiple cuts all over his body and he was cutting himself.",
       "mentions_person_refs": [
         "N-3",
-        "N-823"
+        "N-822"
       ]
     },
     {
@@ -3711,7 +3711,7 @@
       "transcript_snippet": "He's on video and he's saying things like, \"I am doing this for my children.\"",
       "mentions_person_refs": [
         "N-3",
-        "N-823"
+        "N-822"
       ]
     },
     {

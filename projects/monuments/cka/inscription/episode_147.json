@@ -1553,8 +1553,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-954",
-      "ref": "N-954",
+      "@id": "N-952",
+      "ref": "N-952",
       "name": "Alex Faria",
       "type": "person",
       "description": "Member of Charlie Kirk's security team; first named by the host in this episode as riding in the lead security vehicle (intro moved from ep163, 2026-10-19).",
@@ -1966,7 +1966,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-40",
-        "N-607"
+        "N-606"
       ]
     },
     {
@@ -2206,7 +2206,7 @@
       "mentions_person_refs": [
         "N-37",
         "N-40",
-        "N-776"
+        "N-775"
       ]
     },
     {
@@ -2362,7 +2362,7 @@
       "mentions_person_refs": [
         "N-40",
         "N-3",
-        "N-776"
+        "N-775"
       ]
     },
     {
@@ -2387,7 +2387,7 @@
       "mentions_person_refs": [
         "N-40",
         "N-3",
-        "N-776"
+        "N-775"
       ]
     },
     {
@@ -2478,7 +2478,7 @@
       "mentions_person_refs": [
         "N-40",
         "N-3",
-        "N-776"
+        "N-775"
       ]
     },
     {
@@ -2544,7 +2544,7 @@
       "transcript_snippet": "Alex Faria is in this vehicle. That's one of the security members plus other members on the Charlie's security team.",
       "mentions_person_refs": [
         "N-1",
-        "N-954"
+        "N-952"
       ]
     },
     {

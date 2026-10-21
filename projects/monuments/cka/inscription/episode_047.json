@@ -586,7 +586,7 @@
             "N-10340",
             "N-14",
             "N-3",
-            "N-847"
+            "N-846"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -700,7 +700,7 @@
             "C-4155"
           ],
           "related_nodes": [
-            "N-639",
+            "N-638",
             "N-11382",
             "N-10097",
             "N-104",
@@ -2088,8 +2088,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-639",
-      "ref": "N-639",
+      "@id": "N-638",
+      "ref": "N-638",
       "name": "Ryan Routh",
       "type": "person",
       "description": "First named by a clip speaker at 00:53:58 in episode 47 (spelled Ryan Routh in the transcript). Named alongside Thomas Crooks in a radicalization timing theory.",
@@ -2420,8 +2420,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-847",
-      "ref": "N-847",
+      "@id": "N-846",
+      "ref": "N-846",
       "name": "Jimmy Dore",
       "type": "person",
       "description": "Host of the show where Candace clarified her text sourcing.",
@@ -3624,7 +3624,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-14",
-        "N-847"
+        "N-846"
       ]
     },
     {
@@ -5007,7 +5007,7 @@
         "N-333",
         "N-40",
         "N-104",
-        "N-639"
+        "N-638"
       ]
     },
     {

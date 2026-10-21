@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: af9d7478540e605b0d93fec65bec36ded2c5822785e3273b1e7fd2f45e84709d
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-911, N-912, N-11344, N-11345
-  - Tip-minted Nodes (reintro-ep083): N-598, N-625, N-648, N-11208
+  - Tip-minted Nodes (supplement_2026-10f): N-910, N-911, N-11344, N-11345
+  - Tip-minted Nodes (reintro-ep083): N-597, N-624, N-647, N-11208
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-7418–C-7506
   - (see registers)
@@ -33,7 +33,7 @@
 
 - Artifact Families Introduced: A-1895, A-1896, A-1897, A-1898, A-1899, A-1900, A-1901, A-1902
   - New Nodes Introduced: N-10562, N-10563, N-10564, N-10565
-  - Reused Nodes Appearing: N-11, N-10560, N-10561, N-5, N-15, N-40, N-69, N-186, N-227, N-268, N-489, N-494, N-580, N-10000, N-10015, N-10074, N-10110, N-10190, N-10193, N-10198, N-10202, N-10245, N-10307, N-10324, N-10355, N-10362, N-10483, N-10546, N-10548, N-10551, N-10554, N-10555, N-10866, N-10925, N-10956, N-11218
+  - Reused Nodes Appearing: N-11, N-10560, N-10561, N-5, N-15, N-40, N-69, N-186, N-227, N-268, N-489, N-494, N-579, N-10000, N-10015, N-10074, N-10110, N-10190, N-10193, N-10198, N-10202, N-10245, N-10307, N-10324, N-10355, N-10362, N-10483, N-10546, N-10548, N-10551, N-10554, N-10555, N-10866, N-10925, N-10956, N-11218
 - Existing Nodes Reused: N-1 Charlie Kirk; N-2 Erika Kirk; N-3 Candace Owens; Andrew Kolvet; Frank Turek; Frank (TPUSA counsel); Nick Searcy; Stacy Sheridan; Joe Rogan; Alexis Wilkins; Kash Patel; Joe Kent; General Michael Flynn; Tucker Carlson; Allie Stuckey; Yair Netanyahu; Tim Dillon; Tyler Bowyer; Pam Bondi; Thomas Massie; Vladimir Putin; Alexander Dugin; Bibi Netanyahu; Turning Point USA (institution)
 
 ## 6. Meme Register
@@ -318,7 +318,7 @@ Video Timestamp: 00:50:53
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-7503, N-911, N-69, N-912*
+*Related: C-7503, N-910, N-69, N-911*
 
 ---
 
@@ -553,7 +553,7 @@ Frank, TPUSA general counsel; reached by Elizabeth McCoy in the office.
 
 ---
 
-**N-580** Thomas Massie
+**N-579** Thomas Massie
 
 Thomas Massie; the host says he fought for the Epstein files release.
 
@@ -561,7 +561,7 @@ Thomas Massie; the host says he fought for the Epstein files release.
 
 ---
 
-**N-598** Katherine Locastro
+**N-597** Katherine Locastro
 
 Katherine LoCastro; Mikey McCoy's assistant who travelled to Utah in the party.
 
@@ -569,7 +569,7 @@ Katherine LoCastro; Mikey McCoy's assistant who travelled to Utah in the party.
 
 ---
 
-**N-625** Vladimir Putin
+**N-624** Vladimir Putin
 
 Vladimir Putin; the host mocks the thread's claim that he is behind the campaign.
 
@@ -577,7 +577,7 @@ Vladimir Putin; the host mocks the thread's claim that he is behind the campaign
 
 ---
 
-**N-648** Alexander Dugin
+**N-647** Alexander Dugin
 
 Alexander Dugin; mentioned in the Wilkins thread per the host.
 
@@ -777,7 +777,7 @@ Timpanogos Regional Hospital; destination of the transport time estimate.
 
 ---
 
-**N-911** Michael Flynn
+**N-910** Michael Flynn
 
 First named by the host as General Michael Flynn at 00:30:42 in episode 083. Retired general named as an anchor in the Wilkins thread and as a speaker at the Catholics for Catholics event.
 
@@ -785,7 +785,7 @@ First named by the host as General Michael Flynn at 00:30:42 in episode 083. Ret
 
 ---
 
-**N-912** Clay Clark
+**N-911** Clay Clark
 
 First named in a viewer comment at 00:50:53 in episode 083, as organizer of the Awaken America Tours with whom Flynn and Patel appeared.
 
@@ -924,7 +924,7 @@ Claim Timestamp: 00:31:30
 Claim: Alexis Wilkins published a 13-part X thread alleging a foreign-linked influence network operating for 22 months against the Trump administration and implicating Candace Owens, Tucker Carlson, Joe Kent, and General Flynn.
 
 Anchored Artifacts: A-1896.1
-Mentions: N-3, N-22, N-212, N-209, N-911
+Mentions: N-3, N-22, N-212, N-209, N-910
 
 Related Nodes: N-10563
 
@@ -950,7 +950,7 @@ Claim Timestamp: 00:32:58
 Claim: The Alexis Wilkins thread identifies General Michael Flynn as the "anchor of a digital infrastructure" repeatedly activated at major Republican fracture points, via his listed role at Catholics for Catholics.
 
 Anchored Artifacts: A-1896.1
-Mentions: N-212, N-911
+Mentions: N-212, N-910
 
 Related Nodes: N-10563
 
@@ -1517,7 +1517,7 @@ Claim: The host says Mikey McCoy's assistant Katherine LoCastro was part of the 
 Transcript Snippet: her name is Katherine LoCastro she was a part of the team that transported Erika to the airport on that day and she also went out to Utah
 
 Anchored Artifacts: A-1902.2
-Mentions: N-598, N-190, N-2, N-3
+Mentions: N-597, N-190, N-2, N-3
 Related Nodes: N-11208, N-10565
 Tags: relevance:core
 Investigative Direction: Obtain the passenger manifest of the aircraft that carried Erika's party to Provo.
@@ -1550,7 +1550,7 @@ Claim: The host says that, in Elizabeth McCoy's narrative, Mikey's assistant Kat
 Transcript Snippet: Mikey's assistant Katherine got sick on the plane overwhelmed from the emotion as soon as they landed they raced to the hospital cuz nobody waited for Andrew Kolvet
 
 Anchored Artifacts: A-1902.2
-Mentions: N-598, N-217, N-190, N-14, N-3
+Mentions: N-597, N-217, N-190, N-14, N-3
 Related Nodes: N-11208, N-10548
 Contradicts: C-5705
 Tags: relevance:core
@@ -1567,7 +1567,7 @@ Claim: The host says that at some point Katherine was sent to grab something fro
 Transcript Snippet: they sent Katherine who like I said sounds like she's quite innocent she's well liked I can say that at least to grab something from the car the car that Charlie bled out in bloodied car
 
 Anchored Artifacts: A-1902.2
-Mentions: N-598, N-217, N-1, N-3
+Mentions: N-597, N-217, N-1, N-3
 Related Nodes: N-11345, N-10362
 Tags: relevance:core
 Investigative Direction: Establish who held custody of the vehicle at the hospital and whether anyone was allowed inside it.
@@ -1906,7 +1906,7 @@ Claim: The host says Alexis Wilkins presented a 13-part thread alleging Russia i
 Transcript Snippet: she presented this theory in a 13-part thread explaining how she realized that Russia was behind a foreign influence campaign that controls me and Tucker Carlson and Joe Kent and General Michael Flynn and they are doing it through the Catholic Church
 
 Anchored Artifacts: A-1896.1
-Mentions: N-212, N-3, N-22, N-209, N-911
+Mentions: N-212, N-3, N-22, N-209, N-910
 Related Nodes: N-10563, N-10956
 Supports: C-7478
 Tags: relevance:context
@@ -1939,7 +1939,7 @@ Claim: The host says General Michael Flynn spoke at the Catholics for Catholics 
 Transcript Snippet: General Michael Flynn spoke there. By the way, that's the first time that I've ever spoken to General Michael Flynn that I remember.
 
 Anchored Artifacts: A-1896.1
-Mentions: N-911, N-3
+Mentions: N-910, N-3
 Related Nodes: N-10956
 Tags: relevance:context
 Investigative Direction: Check the event program and recordings for who spoke and when.
@@ -2020,7 +2020,7 @@ Claim: The host says that when Trump asked whether people were still talking abo
 Transcript Snippet: When people are upset that Trump says are we still talking about the Epstein files and then basically Thomas Massie has to fight him tooth and nail alongside some others um to get the Epstein files
 
 Anchored Artifacts: 
-Mentions: N-5, N-580, N-3
+Mentions: N-5, N-579, N-3
 Related Nodes: N-10324
 Tags: relevance:tangential
 Investigative Direction: Review the Epstein Files Transparency Act record and Massie's public statements on the White House position.
@@ -2036,7 +2036,7 @@ Claim: The host says Alexis Wilkins's thread also mentions Putin's philosopher A
 Transcript Snippet: She also mentions his his philosopher um Alexander Dugin
 
 Anchored Artifacts: A-1896.1
-Mentions: N-212, N-625, N-648, N-3
+Mentions: N-212, N-624, N-647, N-3
 Related Nodes: N-10563
 Tags: relevance:context
 Investigative Direction: Check the thread text for the Dugin reference and its role in the argument.
@@ -2133,7 +2133,7 @@ Claim: A viewer comment read by the host says General Flynn brought Kash Patel i
 Transcript Snippet: Pretty rich Wilkins is implicating General Flynn since he was exactly who brought Kash Patel into the Patriot movement through the Awaken America Tours with Clay Clark.
 
 Anchored Artifacts: A-3226.1
-Mentions: N-911, N-69, N-212, N-912, N-3
+Mentions: N-910, N-69, N-212, N-911, N-3
 Related Nodes: N-10563
 Tags: relevance:context
 Investigative Direction: Check Awaken America Tour programs and Patel's appearances alongside Flynn and Clay Clark.

@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 9d571c5e39368da2d0dcbf89e5a2db6cd0af4a443b631215c547c80343eab731
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-717, N-11027, N-11028, N-11029, N-11030, N-11031, N-11032, N-11033
+  - Tip-minted Nodes (supplement_2026-10): N-716, N-11027, N-11028, N-11029, N-11030, N-11031, N-11032, N-11033
   - Hole-minted Nodes (reintro-ep057): N-521, N-532
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-5066–C-5141
@@ -616,7 +616,7 @@ Topic for the host's claim that Palestinian deaths would be written out of textb
 
 *Related: C-5119*
 
-**N-717** Cathy O'Brien
+**N-716** Cathy O'Brien
 
 First named by the host at 00:51:51 in episode 57, reading a comment recommending her and her book Transformation of America.
 
@@ -1674,7 +1674,7 @@ Claim: Replying to commenter Alyssa, who recommended interviewing Cathy O'Brien,
 Transcript Snippet: I know about Project Monarch. We've spoken about it on this show um as being the precursor to what the Nazis did here
 
 Anchored Artifacts: A-2756.3
-Mentions: N-3, N-717
+Mentions: N-3, N-716
 Related Nodes: N-11033
 Tags: relevance:tangential
 Investigative Direction: Find the earlier episode where the host discussed Project Monarch; check historical sources on Operation Paperclip and the Monarch allegations, which are contested.

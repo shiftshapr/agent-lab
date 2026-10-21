@@ -16,7 +16,7 @@
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-10524–C-10597
   - New Nodes Introduced: N-10706, N-10708
-  - Reused Nodes Appearing: N-487, N-10705, N-10707, N-4, N-5, N-9, N-40, N-159, N-224, N-607, N-682, N-10000, N-10026, N-10051, N-10074, N-10198, N-10226, N-10369, N-10401, N-10507, N-10651, N-10678, N-10686, N-10688, N-10699, N-10724, N-10768, N-10862, N-10899, N-10987
+  - Reused Nodes Appearing: N-487, N-10705, N-10707, N-4, N-5, N-9, N-40, N-159, N-224, N-606, N-681, N-10000, N-10026, N-10051, N-10074, N-10198, N-10226, N-10369, N-10401, N-10507, N-10651, N-10678, N-10686, N-10688, N-10699, N-10724, N-10768, N-10862, N-10899, N-10987
   - (see registers)
 
 ## 2. Executive Summary
@@ -473,7 +473,7 @@ Persuaded the host to release the evidence early.
 
 ---
 
-**N-607** Graham Allen
+**N-606** Graham Allen
 
 Named by the host among those she says tried to delude the public.
 
@@ -481,7 +481,7 @@ Named by the host among those she says tried to delude the public.
 
 ---
 
-**N-682** Jon Bray
+**N-681** Jon Bray
 
 Source of the microphone-rigging theory and glass photos; transcript spells Jon Bray.
 
@@ -944,7 +944,7 @@ Claim: The host says Jon Bray was convinced from the very beginning that Charlie
 Transcript Snippet: He was convinced from the very beginning, Jon Bray, that Charlie's microphone was rigged beneath him and that it subsequently shattered.
 
 Anchored Artifacts: 
-Mentions: N-682, N-1
+Mentions: N-681, N-1
 Related Nodes: N-10768, N-10987, N-10705
 Tags: relevance:core
 Investigative Direction: Obtain Jon Bray's written analysis and the source photos he supplied.
@@ -1271,7 +1271,7 @@ Claim: The host says some glass actually fell in front of Charlie at the immedia
 Transcript Snippet: there is some that actually fell in front of Charlie and Jon Bray's getting me those photos
 
 Anchored Artifacts: A-2857.1
-Mentions: N-682, N-1
+Mentions: N-681, N-1
 Related Nodes: N-10705
 Tags: relevance:core
 Investigative Direction: Obtain Bray's photos with metadata and compare against the UVU stage footage.
@@ -1465,7 +1465,7 @@ Claim: The host asks whether Blake Neff, Graham Allen and Paramount Tactical rea
 Transcript Snippet: Did you really think Blake Neff, Graham Allen, and Paramount not so tactical? We're going to delude the public into the absurd story that you tried to spin.
 
 Anchored Artifacts: 
-Mentions: N-159, N-607
+Mentions: N-159, N-606
 Related Nodes: N-10899
 Tags: relevance:context
 Investigative Direction: List the specific public statements by each that the host says are false.
@@ -1625,7 +1625,7 @@ Claim: The host says she thinks Jon Bray's theory has infinitely more evidence t
 Transcript Snippet: I think Jon Bray's theory has infinitely more evidence than the story that we have been told by the prosecution, by the FBI, and by the Turning Point USA representatives.
 
 Anchored Artifacts: 
-Mentions: N-682
+Mentions: N-681
 Related Nodes: N-10705, N-10768
 Tags: relevance:core
 Investigative Direction: Compare Bray's evidence compilation with the prosecution's exhibits.

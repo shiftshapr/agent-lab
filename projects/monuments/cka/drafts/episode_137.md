@@ -31,7 +31,7 @@
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-2236, A-2237, A-2238, A-2239, A-2240, A-2241, A-2242, A-2243, A-2244, A-2245
   - New Nodes Introduced: N-10776, N-10779
-  - Reused Nodes Appearing: N-506, N-2, N-5, N-11, N-22, N-40, N-69, N-125, N-244, N-367, N-378, N-592, N-682, N-749, N-10006, N-10012, N-10026, N-10028, N-10070, N-10090, N-10110, N-10151, N-10323, N-10344, N-10541, N-10634, N-10715, N-10725, N-10731, N-10732, N-10751, N-10754, N-10772, N-10773, N-10774, N-11057, N-10778, N-784, N-11145, N-10777
+  - Reused Nodes Appearing: N-506, N-2, N-5, N-11, N-22, N-40, N-69, N-125, N-244, N-367, N-378, N-591, N-681, N-748, N-10006, N-10012, N-10026, N-10028, N-10070, N-10090, N-10110, N-10151, N-10323, N-10344, N-10541, N-10634, N-10715, N-10725, N-10731, N-10732, N-10751, N-10754, N-10772, N-10773, N-10774, N-11057, N-10778, N-783, N-11145, N-10777
   - Existing Nodes Reused: None in this episode beyond standard references
 
 ---
@@ -215,7 +215,7 @@ Video Timestamp: 00:09:13
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11768, C-11770, C-11771, C-11772, C-11773, C-11774, C-11775, N-1, N-3, N-40, N-784*
+*Related: C-11768, C-11770, C-11771, C-11772, C-11773, C-11774, C-11775, N-1, N-3, N-40, N-783*
 
 ---
 
@@ -228,7 +228,7 @@ Video Timestamp: 00:23:21
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-11791, C-11792, C-11793, C-11796, N-1, N-3, N-506, N-749*
+*Related: C-11791, C-11792, C-11793, C-11796, N-1, N-3, N-506, N-748*
 
 ---
 
@@ -243,7 +243,7 @@ Video Timestamp: 00:30:07
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11795, N-3, N-506, N-749*
+*Related: C-11795, N-3, N-506, N-748*
 
 ---
 
@@ -476,7 +476,7 @@ Officer Christopher Bagley; his testimony on the rooftop video, body cam and com
 
 ---
 
-**N-592** Pete Hegseth
+**N-591** Pete Hegseth
 
 Pete Hegseth; his statements on the Iran school strike.
 
@@ -484,7 +484,7 @@ Pete Hegseth; his statements on the Iran school strike.
 
 ---
 
-**N-682** Jon Bray
+**N-681** Jon Bray
 
 Jon Bray; credited with showing the road mic glass is sticky.
 
@@ -492,7 +492,7 @@ Jon Bray; credited with showing the road mic glass is sticky.
 
 ---
 
-**N-749** Allan Robertson
+**N-748** Allan Robertson
 
 Allan Robertson; USU officer on the rooftop, subject of the Brady and threat-assessment update.
 
@@ -676,7 +676,7 @@ Blake Neff Employment History Account; reused for the Fox and Tucker remarks.
 
 ---
 
-**N-784** Mike Lee
+**N-783** Mike Lee
 
 First named by the host at 00:09:13 in episode 137 (spelled Mike Shamway Lee in the transcript). Utah senator the host says was slated to attend the Sept 10 UVU event and whose name was used as a cover story.
 
@@ -1105,7 +1105,7 @@ Claim: The host says Jon Bray showed that the glass for the Rode microphone is v
 Transcript Snippet: Remember John Bray showed us that that glass for the road mic is very, very, very sticky.
 
 Anchored Artifacts: A-2237.1
-Mentions: N-682, N-3
+Mentions: N-681, N-3
 Related Nodes: N-10779
 Tags: relevance:core
 Investigative Direction: Review John Bray's earlier demonstration and the microphone's materials to see whether the adhesive claim holds.
@@ -1121,7 +1121,7 @@ Claim: The host says Utah Senator Mike Lee was slated to attend the Charlie Kirk
 Transcript Snippet: Senator Lee was actually slated to attend the Charlie Kirk event at UVU on September 10th.
 
 Anchored Artifacts: A-2884.1
-Mentions: N-784, N-1, N-3
+Mentions: N-783, N-1, N-3
 Related Nodes: N-10012, N-10776
 Tags: relevance:core
 Investigative Direction: Ask Senator Lee's office and TPUSA for the event invitation list and whether Lee was ever confirmed as an attendee.
@@ -1137,7 +1137,7 @@ Claim: The host says that, as the DC story goes, Senator Lee cancelled early in 
 Transcript Snippet: that week the senator had to cancel very early on in the week due to the National Defense Authorization Act
 
 Anchored Artifacts: A-2884.1
-Mentions: N-784
+Mentions: N-783
 Related Nodes: N-10776
 Tags: relevance:core
 Investigative Direction: Check the Senate schedule and NDAA floor votes for the week of September 8, 2025 and any Lee office statement about the cancellation.
@@ -1153,7 +1153,7 @@ Claim: The host says Mike Lee was born in Arizona, spent most of his upbringing 
 Transcript Snippet: His father was actually the founding dean of BYU's law school program.
 
 Anchored Artifacts: 
-Mentions: N-784
+Mentions: N-783
 Tags: relevance:tangential
 Investigative Direction: Check Lee's official biography for his birthplace and his father's role at BYU Law.
 
@@ -1168,7 +1168,7 @@ Claim: The host says a UVU source told her that after the assassination Mike Lee
 Transcript Snippet: I've got a source that UVU tells me that after the assassination of Charlie, Mike Lee was contacted due to something unusual that took place on campus the day before the shooting.
 
 Anchored Artifacts: A-2884.1
-Mentions: N-784, N-1, N-3
+Mentions: N-783, N-1, N-3
 Related Nodes: N-10776, N-10012
 Tags: relevance:core
 Investigative Direction: Ask UVU police and Senator Lee's office whether Lee's office was contacted after September 10, 2025 about a campus incident and what was said.
@@ -1184,7 +1184,7 @@ Claim: The host says that on September 9 a person who looked suspicious and appe
 Transcript Snippet: he told the campus security that he was Senator Mike Lee's bodyguard, scoping out the area to ensure that the senator was going to be safe ahead of the event.
 
 Anchored Artifacts: A-2884.1
-Mentions: N-784, N-3
+Mentions: N-783, N-3
 Related Nodes: N-10776, N-10028
 Tags: relevance:core
 Investigative Direction: Request UVU security and police incident logs, radio traffic and any field-contact record for September 9, 2025.
@@ -1200,7 +1200,7 @@ Claim: The host says Lee's office had already cancelled by the time of the Septe
 Transcript Snippet: And I have done some digging and it also appears that Mike Lee is pretty down to earth. He doesn't actually have a security apparatus, a security team.
 
 Anchored Artifacts: A-2884.1
-Mentions: N-784, N-3
+Mentions: N-783, N-3
 Related Nodes: N-10776
 Tags: relevance:core
 Investigative Direction: Ask Lee's Senate office whether any staff or security accompanied him to Utah events in September 2025.
@@ -1232,7 +1232,7 @@ Claim: The host says TPUSA event staff, club students, university planners and p
 Transcript Snippet: Certainly Turning Point USA event staff would have known. Club students would have known.
 
 Anchored Artifacts: A-2884.1
-Mentions: N-784, N-3
+Mentions: N-783, N-3
 Related Nodes: N-10776
 Tags: relevance:core
 Investigative Direction: Ask UVU for camera coverage of the September 9 contact and a list of everyone who received the VIP attendee list.
@@ -1428,7 +1428,7 @@ Claim: The host says many emails misspelled Allan Robertson's name and described
 Transcript Snippet: He said he abs absolutely was not let go or transferred over any conduct issues.
 
 Anchored Artifacts: A-2885.1
-Mentions: N-749, N-3
+Mentions: N-748, N-3
 Related Nodes: N-10774
 Qualifies: C-11715
 Tags: relevance:core
@@ -1445,7 +1445,7 @@ Claim: The host says Allan Robertson and his partner from Utah State University 
 Transcript Snippet: They were there because they were doing a threat assessment for their event that was 10 days later.
 
 Anchored Artifacts: A-2885.1
-Mentions: N-749, N-1, N-3
+Mentions: N-748, N-1, N-3
 Related Nodes: N-11144
 Supports: C-11702
 Tags: relevance:core
@@ -1462,7 +1462,7 @@ Claim: The host says that because of their presence the USU officers would have 
 Transcript Snippet: So it's just very odd that officer Bagley is pretending he couldn't find out who these officers were when they were in communication with his chief.
 
 Anchored Artifacts: A-2885.1
-Mentions: N-506, N-749, N-3
+Mentions: N-506, N-748, N-3
 Related Nodes: N-10772
 Supports: C-11692
 Tags: relevance:core
@@ -1494,7 +1494,7 @@ Claim: The host reads a viewer comment saying Officer Bagley slips in his testim
 Transcript Snippet: he actually does slip and say Allen at one point, so he definitely knew who the person was.
 
 Anchored Artifacts: A-2886.1
-Mentions: N-506, N-749, N-3
+Mentions: N-506, N-748, N-3
 Related Nodes: N-10772
 Tags: relevance:core
 Investigative Direction: Check the trial recording for the moment Bagley says 'Allen' and the question asked.
@@ -1510,7 +1510,7 @@ Claim: The host says by all accounts Allan Robertson left on his own volition be
 Transcript Snippet: by all accounts, it seems like he left by on his own valition and he just he has young kids and wanted to leave the city life.
 
 Anchored Artifacts: A-2885.1
-Mentions: N-749, N-3
+Mentions: N-748, N-3
 Related Nodes: N-10774
 Qualifies: C-11715
 Tags: relevance:core
@@ -1643,7 +1643,7 @@ Claim: The host says Donald Trump first said Iran did it, Pete Hegseth followed 
 Transcript Snippet: At first, Trump actually came out and he said, "No, we didn't do it. It was Iran." Pete Hexth followed up with the same message.
 
 Anchored Artifacts: A-2239.1
-Mentions: N-5, N-592, N-3
+Mentions: N-5, N-591, N-3
 Related Nodes: N-11145
 Tags: relevance:tangential
 Investigative Direction: Collect the dated Trump and Hegseth statements on the school strike and the formal investigation announcement.
@@ -1675,7 +1675,7 @@ Claim: In the Sky News clip, Donald Trump says his opinion based on what he has 
 Transcript Snippet: My opinion, based on what I've seen, that was done by Iran.
 
 Anchored Artifacts: A-2239.1
-Mentions: N-5, N-592
+Mentions: N-5, N-591
 Related Nodes: N-11145
 Tags: relevance:tangential
 Investigative Direction: Retrieve the original press-conference recordings for both quotes.

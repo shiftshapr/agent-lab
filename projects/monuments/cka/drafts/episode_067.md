@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: d5118abb6ad6ec2bcd690c539ec2d59272e03045bac365ac901d9017dac21a9a
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10g): N-934, N-935, N-936, N-937, N-11389, N-11390
+  - Tip-minted Nodes (supplement_2026-10g): N-933, N-934, N-935, N-936, N-11389, N-11390
   - Hole-minted Nodes (reintro-ep067): N-10480, N-10701
-  - Tip-minted Nodes (reintro-ep067): N-690, N-817, N-11351
+  - Tip-minted Nodes (reintro-ep067): N-689, N-816, N-11351
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-5979–C-6081
   - New Nodes Introduced: N-519, N-522, N-523, N-524, N-525, N-527, N-528, N-530, N-531, N-533, N-534, N-535, N-10470, N-10471, N-10473, N-10474, N-10475, N-10476
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-521, N-532, N-529, N-10472, N-520, N-36, N-69, N-82, N-164, N-178, N-226, N-298, N-580, N-612, N-771, N-792, N-793, N-844, N-10000, N-10006, N-10014, N-10015, N-10023, N-10075, N-10117, N-10122, N-10169, N-10187, N-10198, N-10268, N-10270, N-10324, N-10340, N-10397, N-10414, N-10417, N-10493, N-10694, N-11011, N-11029, N-11130, N-11153, N-11156
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-521, N-532, N-529, N-10472, N-520, N-36, N-69, N-82, N-164, N-178, N-226, N-298, N-579, N-611, N-770, N-791, N-792, N-843, N-10000, N-10006, N-10014, N-10015, N-10023, N-10075, N-10117, N-10122, N-10169, N-10187, N-10198, N-10268, N-10270, N-10324, N-10340, N-10397, N-10414, N-10417, N-10493, N-10694, N-11011, N-11029, N-11130, N-11153, N-11156
   - (see registers)
 
 ## I. Meta-Data
@@ -299,7 +299,7 @@ Video Timestamp: 00:36:08
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6037, N-3, N-771*
+*Related: C-6037, N-3, N-770*
 
 ---
 
@@ -767,7 +767,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-934** Ulysses S. Grant
+**N-933** Ulysses S. Grant
 
 First named by the host at 00:08:11 in episode 67. Union general and US president whom the host says expelled Jews from his military district.
 
@@ -775,7 +775,7 @@ First named by the host at 00:08:11 in episode 67. Union general and US presiden
 
 ---
 
-**N-935** Peggy Siegal
+**N-934** Peggy Siegal
 
 First named by the host at 00:10:32 in episode 67. Publicist named in the compilation's Epstein email about an event guest list.
 
@@ -783,7 +783,7 @@ First named by the host at 00:10:32 in episode 67. Publicist named in the compil
 
 ---
 
-**N-936** Alex Acosta
+**N-935** Alex Acosta
 
 First named by the host at 00:28:29 in episode 67. Former US Attorney in Miami who approved Epstein's 2008 plea deal.
 
@@ -791,7 +791,7 @@ First named by the host at 00:28:29 in episode 67. Former US Attorney in Miami w
 
 ---
 
-**N-937** Will Cain
+**N-936** Will Cain
 
 First named by the host at 00:41:12 in episode 67. Fox News host whose show Charlie Kirk appeared on September 9, 2025.
 
@@ -905,7 +905,7 @@ Donor the host says is giving Trump $200 million.
 
 ---
 
-**N-580** Thomas Massie
+**N-579** Thomas Massie
 
 Congressman demanding more release.
 
@@ -913,7 +913,7 @@ Congressman demanding more release.
 
 ---
 
-**N-612** Dennis Prager
+**N-611** Dennis Prager
 
 Named as Kirk's apparent Shabbat Shalom book partner.
 
@@ -921,7 +921,7 @@ Named as Kirk's apparent Shabbat Shalom book partner.
 
 ---
 
-**N-690** Laura Ingraham
+**N-689** Laura Ingraham
 
 Host of The Ingraham Angle, which the host says Kirk appeared on from home.
 
@@ -929,7 +929,7 @@ Host of The Ingraham Angle, which the host says Kirk appeared on from home.
 
 ---
 
-**N-771** Aleister Crowley
+**N-770** Aleister Crowley
 
 Occultist the host links to the Star of David.
 
@@ -937,7 +937,7 @@ Occultist the host links to the Star of David.
 
 ---
 
-**N-792** Leo Frank
+**N-791** Leo Frank
 
 Lynched man in the Phagan case.
 
@@ -945,7 +945,7 @@ Lynched man in the Phagan case.
 
 ---
 
-**N-793** Mary Phagan
+**N-792** Mary Phagan
 
 Murder victim the host links to the ADL origin.
 
@@ -953,7 +953,7 @@ Murder victim the host links to the ADL origin.
 
 ---
 
-**N-817** Ehud Barak
+**N-816** Ehud Barak
 
 Former Israeli prime minister named in Epstein emails per the host.
 
@@ -961,7 +961,7 @@ Former Israeli prime minister named in Epstein emails per the host.
 
 ---
 
-**N-844** Jeffrey Moussaieff Masson
+**N-843** Jeffrey Moussaieff Masson
 
 Author of The Assault on Truth, named by the host as 'Jeffrey Moussaieff Masson'.
 
@@ -1675,7 +1675,7 @@ Claim: The host says the book's author, a former director of the Freud Archives,
 Transcript Snippet: This book was written by a guy who was the director of the Freud Archives. He read Freud's unpublished works and determined that, yeah, Freud knew that the children were being abused in Vienna
 
 Anchored Artifacts: 
-Mentions: N-3, N-50, N-844
+Mentions: N-3, N-50, N-843
 Supports: C-1241, C-2399
 Tags: relevance:tangential
 Investigative Direction: Read Jeffrey Moussaieff Masson, The Assault on Truth, and the scholarly reception of its claims about Freud's seduction theory; check the author's actual role at the Freud Archives. Name as transcribed is 'Jeffrey Moussaieff Masson' (see Doubts).
@@ -1722,7 +1722,7 @@ Claim: The host says Ulysses S. Grant 'notoriously expelled Jews from his milita
 Transcript Snippet: Ulysses S. Grant notoriously expelled Jews from his military district, Tennessee, Mississippi, Kentucky.
 
 Anchored Artifacts: 
-Mentions: N-3, N-934
+Mentions: N-3, N-933
 Related Nodes: N-11130
 Tags: relevance:tangential
 Investigative Direction: Check General Orders No. 11 (Dec. 1862), which Lincoln revoked; no source ties the order to B'nai B'rith lodge planning.
@@ -1738,7 +1738,7 @@ Claim: The host says B'nai B'rith subsequently became the ADL after 'the rituali
 Transcript Snippet: Um that then subsequently became the ADL after the ritualistic murder of a Catholic girl named Mary Phagan.
 
 Anchored Artifacts: 
-Mentions: N-3, N-793
+Mentions: N-3, N-792
 Related Nodes: N-11130, N-11153, N-11156
 Tags: relevance:tangential
 Investigative Direction: The ADL was founded by B'nai B'rith in 1913 after the Leo Frank trial; Phagan was a Protestant (not Catholic) factory worker. No evidence of a ritual murder exists; check the Frank case record and the 1986 Alonzo Mann/Georgia pardon history.
@@ -1801,7 +1801,7 @@ Claim: According to the compilation, on August 7, 2010 Peggy Siegal asked Epstei
 Transcript Snippet: While talking to Peggy Siegal August 7th of 2010, she asks if an event is going to be 100% Jewish. He says no, they'll have in abundance.
 
 Anchored Artifacts: A-1715.1
-Mentions: N-9, N-935
+Mentions: N-9, N-934
 Related Nodes: N-10324
 Tags: relevance:context
 Investigative Direction: Locate the August 7, 2010 Siegal-Epstein exchange in the DOJ release and confirm the wording.
@@ -2090,7 +2090,7 @@ Claim: The host says Epstein got a plea deal through Alex Acosta, who was told t
 Transcript Snippet: He caught a plea deal uh via Acosta who was told to leave Epstein alone. That's if if Acosta is to be believed.
 
 Anchored Artifacts: 
-Mentions: N-3, N-9, N-936
+Mentions: N-3, N-9, N-935
 Tags: relevance:context
 Investigative Direction: Check Acosta's 2019 statements that he was told Epstein 'belonged to intelligence' and the 2020 DOJ OPR report.
 
@@ -2121,7 +2121,7 @@ Claim: The host says the emails show Epstein setting up meetings with Benjamin N
 Transcript Snippet: He's setting up meetings. Bibi Netanyahu, Ehud Barak's all over it. Um he's writing emails and making kind of some jokes which suggest like about Robert Maxwell
 
 Anchored Artifacts: 
-Mentions: N-3, N-9, N-36, N-817, N-48, N-178
+Mentions: N-3, N-9, N-36, N-816, N-48, N-178
 Related Nodes: N-10324, N-10023
 Tags: relevance:context
 Investigative Direction: Search the release for Netanyahu, Barak and Robert Maxwell references and read the surrounding threads.
@@ -2153,7 +2153,7 @@ Claim: The host says Thomas Massie is demanding more release and that the files 
 Transcript Snippet: that's why Thomas Massie is demanding for there to be more release. And also these should be unredacted.
 
 Anchored Artifacts: 
-Mentions: N-3, N-580
+Mentions: N-3, N-579
 Related Nodes: N-10324
 Tags: relevance:context
 Investigative Direction: Find Massie's statements, letters or floor actions on Epstein file release in late January 2026.
@@ -2297,7 +2297,7 @@ Claim: The host shows relics at Baalbek, Lebanon and another Baal temple, says t
 Transcript Snippet: Here you can see that star of David, which is also all over Aleister Crowley, not a Jew, all over his books on ritualistic magic
 
 Anchored Artifacts: A-3309.1
-Mentions: N-3, N-771
+Mentions: N-3, N-770
 Tags: relevance:tangential
 Investigative Direction: Identify the images shown; check the Baalbek reliefs for hexagram iconography and its dating.
 
@@ -2345,7 +2345,7 @@ Claim: The host says Charlie Kirk was 'apparently writing a Shabbat Shalom book'
 Transcript Snippet: You're not going to just call like Dennis Prager, who you're apparently writing a Shabbat Shalom book with.
 
 Anchored Artifacts: 
-Mentions: N-3, N-1, N-612
+Mentions: N-3, N-1, N-611
 Tags: relevance:context
 Investigative Direction: Confirm the book project with Prager's or Kirk's publishers or public announcements.
 
@@ -2360,7 +2360,7 @@ Claim: The host says she has confirmed Charlie Kirk made an appearance on the Wi
 Transcript Snippet: we know, which I've been able to confirm, that Charlie had an appearance in the Will Cain show. That's from his TPUSA office.
 
 Anchored Artifacts: A-3310.1
-Mentions: N-3, N-1, N-937
+Mentions: N-3, N-1, N-936
 Related Nodes: N-10473
 Tags: relevance:core
 Investigative Direction: Get the Fox News air log or video of the Will Cain Show appearance and its origin location.
@@ -2559,7 +2559,7 @@ Claim: The host says Charlie Kirk appeared on 'the Ingraham Angle' on September 
 Transcript Snippet: Then we know Charlie Kirk appears from his home studio on the Ingraham Angle. And the show he shoots it from his house.
 
 Anchored Artifacts: A-3311.1
-Mentions: N-3, N-1, N-690
+Mentions: N-3, N-1, N-689
 Related Nodes: N-10006, N-10473
 Tags: relevance:core
 Investigative Direction: Get the air date and origin location of the segment from Fox News.

@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: b8b7fc2a633b3553c7b59c525ff8b33ee7df3017e487dccce1e3382534f8853d
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-755, N-11100, N-11101
+  - Tip-minted Nodes (supplement_2026-10b): N-754, N-11100, N-11101
   - Hole-minted Nodes (reintro-ep021): N-209, N-329, N-10323, N-10353
-  - Tip-minted Nodes (reintro-ep021): N-660
+  - Tip-minted Nodes (reintro-ep021): N-659
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-1945–C-1997
   - (see registers)
@@ -230,7 +230,7 @@ Video Timestamp: 00:18:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-1963, N-5, N-1, N-755*
+*Related: C-1963, N-5, N-1, N-754*
 
 ---
 
@@ -538,7 +538,7 @@ President; subject of the AI photo, memorial speech story and Epstein remark.
 
 ---
 
-**N-660** Ivanka Trump
+**N-659** Ivanka Trump
 
 Named by the host regarding Israel investments.
 
@@ -595,7 +595,7 @@ The host's recollection that Charlie Kirk told her TPUSA had found a person to c
 
 ---
 
-**N-755** Brilyn Hollyhand
+**N-754** Brilyn Hollyhand
 
 First named by the host at 00:18:15 in episode 21. Boy the host says Charlie Kirk interviewed in fourth grade, referenced in Trump's memorial speech.
 
@@ -978,7 +978,7 @@ Claim: The host says Trump, in his speech at Charlie Kirk's memorial, told a sto
 Transcript Snippet: Even Trump's speech, remember when he just kind of worked in the story about uh Charlie interviewing a fourth grader and he was referring to Brilyn Hollyhand?
 
 Anchored Artifacts: A-2819.1
-Mentions: N-5, N-1, N-3, N-755
+Mentions: N-5, N-1, N-3, N-754
 Tags: relevance:context
 Investigative Direction: Compare the transcript of Trump's memorial speech with footage and dates of Charlie's interview with Brilyn Hollyhand to see who attended.
 
@@ -1245,7 +1245,7 @@ Claim: The host tells Don Jr. that if he cannot say anything she understands the
 Transcript Snippet: They understand Jared, Ivanka and their investments in Israel and the pressure that's coming from the Zionists to simply be quiet
 
 Anchored Artifacts: 
-Mentions: N-178, N-660, N-33
+Mentions: N-178, N-659, N-33
 Related Nodes: N-10025
 Tags: relevance:context
 Investigative Direction: Review disclosures of Kushner and Ivanka Trump investments in Israel and any contact with Don Jr. on the Kirk case.

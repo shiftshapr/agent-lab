@@ -1445,8 +1445,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-600",
-      "ref": "N-600",
+      "@id": "N-599",
+      "ref": "N-599",
       "name": "Melania Trump",
       "type": "person",
       "description": "Melania Trump, whose circle the host says fears Loomer.",
@@ -1462,8 +1462,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-827",
-      "ref": "N-827",
+      "@id": "N-826",
+      "ref": "N-826",
       "name": "Kathy Nester",
       "type": "person",
       "description": "Kathy Nester, defense attorney quoted on the phone, the gun and the physical evidence.",
@@ -2115,8 +2115,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-915",
-      "ref": "N-915",
+      "@id": "N-914",
+      "ref": "N-914",
       "name": "Casey DeSantis",
       "type": "person",
       "description": "First named by the host at 00:47:42 in episode 94. Named by the host as the subject of a Loomer claim that she was making up cancer.",
@@ -2151,8 +2151,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-916",
-      "ref": "N-916",
+      "@id": "N-915",
+      "ref": "N-915",
       "name": "Roger Stone",
       "type": "person",
       "description": "First named by the host at 00:51:13 in episode 94. Named by the host as a Trump friend who she says knows about Loomer's suicidal attempts and accounts.",
@@ -2168,8 +2168,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-917",
-      "ref": "N-917",
+      "@id": "N-916",
+      "ref": "N-916",
       "name": "Jessica Tarlov",
       "type": "person",
       "description": "First named by the host at 00:34:38 in episode 94. Named in the Truth Social post the host reads as the person Trump says he was watching.",
@@ -2186,8 +2186,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-918",
-      "ref": "N-918",
+      "@id": "N-917",
+      "ref": "N-917",
       "name": "Jack Dorsey",
       "type": "person",
       "description": "First named by the host at 00:36:39 in episode 94. Named by the host as the head of Twitter when Loomer lost her checkmark.",
@@ -2313,7 +2313,7 @@
       "claim_timestamp": "00:12:20",
       "investigative_direction": "Verify chain of custody and forensic examination status of Tyler Robinson's phone.",
       "mentions_person_refs": [
-        "N-827",
+        "N-826",
         "N-40"
       ]
     },
@@ -2333,7 +2333,7 @@
       "claim_timestamp": "00:15:13",
       "investigative_direction": "Confirm physical location of the firearm and whether defense examination has occurred as of case docket.",
       "mentions_person_refs": [
-        "N-827"
+        "N-826"
       ]
     },
     {
@@ -2352,7 +2352,7 @@
       "claim_timestamp": "00:15:13",
       "investigative_direction": "Determine jurisdictional basis for federal custody of evidence in a state case; check transfer records.",
       "mentions_person_refs": [
-        "N-827"
+        "N-826"
       ]
     },
     {
@@ -3277,7 +3277,7 @@
       "investigative_direction": "Check the state's witness list for the probable cause hearing once filed.",
       "transcript_snippet": "the state's indicated they may call individuals you um uniquely connected to my client.",
       "mentions_person_refs": [
-        "N-827",
+        "N-826",
         "N-40"
       ]
     },
@@ -3346,7 +3346,7 @@
       "investigative_direction": "Check the docket or any inspection log for the date and scope of the defense's physical evidence review.",
       "transcript_snippet": "We went to examine physical evidence this past week um this week. We it took us 6 hours. We did finish the what the SBI has.",
       "mentions_person_refs": [
-        "N-827"
+        "N-826"
       ]
     },
     {
@@ -3850,7 +3850,7 @@
       "transcript_snippet": "I'm watching one of the least attractive and talented people on all of television, Jessica Tarlov.",
       "mentions_person_refs": [
         "N-5",
-        "N-917"
+        "N-916"
       ]
     },
     {
@@ -3873,7 +3873,7 @@
       "transcript_snippet": "CNN had me at 100% saying they never saw that before. Get her off air, she is bad for our country.",
       "mentions_person_refs": [
         "N-5",
-        "N-917"
+        "N-916"
       ]
     },
     {
@@ -3961,7 +3961,7 @@
         "N-3",
         "N-60",
         "N-193",
-        "N-918"
+        "N-917"
       ]
     },
     {
@@ -4157,7 +4157,7 @@
       "investigative_direction": "The sources are unnamed; the host would need to identify or corroborate the people in Melania's circle.",
       "transcript_snippet": "I am told by people in Melania's circle that they believe, like, yeah, actually the most likely person to harm Donald Trump would be Laura Loomer",
       "mentions_person_refs": [
-        "N-600",
+        "N-599",
         "N-60",
         "N-5"
       ]
@@ -4411,7 +4411,7 @@
       "mentions_person_refs": [
         "N-60",
         "N-5",
-        "N-915"
+        "N-914"
       ]
     },
     {
@@ -4614,7 +4614,7 @@
       "mentions_person_refs": [
         "N-60",
         "N-5",
-        "N-916"
+        "N-915"
       ]
     },
     {

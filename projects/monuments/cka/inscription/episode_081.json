@@ -1106,8 +1106,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-551",
-      "ref": "N-551",
+      "@id": "N-550",
+      "ref": "N-550",
       "name": "Aubrey Laitsch",
       "type": "person",
       "description": "Staffer who drafted the death statement and was later fired (host says over an Uber driver conversation).",
@@ -1130,8 +1130,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-591",
-      "ref": "N-591",
+      "@id": "N-590",
+      "ref": "N-590",
       "name": "Bret Weinstein",
       "type": "person",
       "description": "The host says he released messages about Iran.",
@@ -1778,7 +1778,7 @@
       "investigative_direction": "Confirm via call detail records and corroborate with Aubrey directly if possible.",
       "mentions_person_refs": [
         "N-493",
-        "N-551",
+        "N-550",
         "N-14"
       ]
     },
@@ -1797,7 +1797,7 @@
       "investigative_direction": "Verify with Aubrey or HR/witness records.",
       "mentions_person_refs": [
         "N-493",
-        "N-551"
+        "N-550"
       ]
     },
     {
@@ -2477,7 +2477,7 @@
       "investigative_direction": "Locate Weinstein's release of messages and check what they say about Charlie Kirk and Iran.",
       "transcript_snippet": "Bret Weinstein has released his messages about Iran.",
       "mentions_person_refs": [
-        "N-591"
+        "N-590"
       ]
     },
     {
@@ -2959,7 +2959,7 @@
         "N-15",
         "N-14",
         "N-493",
-        "N-551"
+        "N-550"
       ]
     },
     {
@@ -3100,7 +3100,7 @@
       "transcript_snippet": "because Andrew's currently on a plane and I don't have it within me to draft the statement.",
       "mentions_person_refs": [
         "N-493",
-        "N-551",
+        "N-550",
         "N-14"
       ]
     },
@@ -3123,7 +3123,7 @@
       "investigative_direction": "Confirm Aubrey's age and role with her or with employment records.",
       "transcript_snippet": "Essentially, Aubrey, the what 26-year-old, is now responsible for the unbelievably emotionally heavy statement",
       "mentions_person_refs": [
-        "N-551"
+        "N-550"
       ]
     },
     {
@@ -3146,7 +3146,7 @@
         "C-5747"
       ],
       "mentions_person_refs": [
-        "N-551",
+        "N-550",
         "N-2"
       ]
     },
@@ -3167,7 +3167,7 @@
       "investigative_direction": "Request payroll or severance records through Aubrey and compare with TPUSA's reported post-assassination revenue.",
       "transcript_snippet": "only to then fire them and not even give them a bonus after they took in that much money.",
       "mentions_person_refs": [
-        "N-551"
+        "N-550"
       ]
     },
     {
@@ -3213,7 +3213,7 @@
       "investigative_direction": "Check the full chat export for the 3:49 message and its recipient.",
       "transcript_snippet": "At 3:49 Utah time, she's going to ask her boss, who's been unavailable, \"Should I confirm or deny?\"",
       "mentions_person_refs": [
-        "N-551",
+        "N-550",
         "N-14"
       ]
     },
@@ -3457,7 +3457,7 @@
       "investigative_direction": "Obtain Aubrey's pay and schedule records and the account of what Marina said to the driver.",
       "transcript_snippet": "then work like 7-hour days, not sleep, only to then not get a raise and to be fired because Marina Mina's spoke to an Uber driver.",
       "mentions_person_refs": [
-        "N-551",
+        "N-550",
         "N-493"
       ]
     },
@@ -3478,7 +3478,7 @@
       "investigative_direction": "Locate the Uber driver and any statement from him; ask Aubrey for her account.",
       "transcript_snippet": "and she said she never did vent to the Uber driver. Uber driver says they vent.",
       "mentions_person_refs": [
-        "N-551"
+        "N-550"
       ]
     },
     {

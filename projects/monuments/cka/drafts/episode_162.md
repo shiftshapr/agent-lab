@@ -12,8 +12,8 @@
 - **Model Version**: claude-manual-extract-seq162
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (catchup-2026-10-19): N-949, N-950, N-951, N-952, N-11412, N-11413, N-11414, N-11415, N-11416, N-11417, N-11418
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-7, N-8, N-11, N-14, N-17, N-30, N-40, N-46, N-60, N-97, N-130, N-159, N-223, N-224, N-259, N-266, N-270, N-271, N-351, N-352, N-615, N-710, N-751, N-10000, N-10012, N-10340, N-10356, N-10681, N-10839, N-10862, N-10864, N-10880, N-10881, N-10882, N-10883, N-10886, N-10887, N-10889, N-10891, N-10899, N-11087, N-11091, N-11215, N-11359
+  - Tip-minted Nodes (catchup-2026-10-19): N-948, N-949, N-950, N-11412, N-11413, N-11414, N-11415, N-11416, N-11417, N-11418
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-7, N-8, N-11, N-14, N-17, N-30, N-40, N-46, N-60, N-97, N-130, N-159, N-223, N-224, N-259, N-266, N-270, N-271, N-351, N-352, N-614, N-709, N-750, N-10000, N-10012, N-10340, N-10356, N-10681, N-10839, N-10862, N-10864, N-10880, N-10881, N-10882, N-10883, N-10886, N-10887, N-10889, N-10891, N-10899, N-11087, N-11091, N-11215, N-11359
   - Claim Range: C-13967–C-14055
   - (see registers)
 
@@ -84,7 +84,7 @@ Video Timestamp: 00:11:45
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-13982, C-13983, C-13984, N-1, N-2, N-352, N-949*
+*Related: C-13982, C-13983, C-13984, N-1, N-2, N-352, N-948*
 
 ---
 
@@ -110,7 +110,7 @@ Video Timestamp: 00:15:08
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-13991, C-13992, N-950*
+*Related: C-13991, C-13992, N-351*
 
 **A-3363.2** Clip It LLC Wyoming filing record, added to the host's timeline
 
@@ -119,7 +119,7 @@ Video Timestamp: 00:16:00
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-13993, C-13994, N-10880, N-950, N-11414*
+*Related: C-13993, C-13994, N-10880, N-351, N-11414*
 
 **A-3363.3** Image of the house at the registered agent's address
 
@@ -143,7 +143,7 @@ Video Timestamp: 00:19:20
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14002, C-14003, C-14004, N-951, N-952, N-11415*
+*Related: C-14002, C-14003, C-14004, N-949, N-950, N-11415*
 
 ---
 
@@ -188,7 +188,7 @@ Video Timestamp: 00:35:03
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14029, C-14030, C-14031, N-1, N-8, N-751, N-10839, N-11215*
+*Related: C-14029, C-14030, C-14031, N-1, N-8, N-750, N-10839, N-11215*
 
 **A-3367.2** Independent review passage (page 73, per the host) on Robin Ebmeyer's absence on September 10
 
@@ -197,7 +197,7 @@ Video Timestamp: 00:35:34
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14032, N-751, N-10839*
+*Related: C-14032, N-750, N-10839*
 
 ---
 
@@ -227,7 +227,7 @@ Video Timestamp: 00:40:08
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14037, C-14038, C-14039, N-130, N-615, N-10899*
+*Related: C-14037, C-14038, C-14039, N-130, N-614, N-10899*
 
 ---
 
@@ -279,7 +279,7 @@ Video Timestamp: 00:45:05
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14045, N-10880, N-950*
+*Related: C-14045, N-10880, N-351*
 
 ---
 
@@ -411,9 +411,9 @@ UVU Police Chief; host reports he has resigned and says TPUSA wrongly blamed him
 
 *Related: C-14010, C-14011, C-14012, C-14013, C-14014, C-14015, C-14020, C-14021, C-14022, C-14023, C-14024, C-14025, C-14033, C-14034, A-3365.1, A-3366.1*
 
-**N-351** Matt Servius
+**N-351** Matiss Tabuns
 
-Name the host gave the Monster Lab operator in the prior episode; she now says it was wrong. Possibly the same individual as N-950.
+Name the host gave the Monster Lab operator in the prior episode; she now says it was wrong. Possibly the same individual as N-351.
 
 *Related: C-13988*
 
@@ -423,45 +423,37 @@ Host says his Las Vegas firm supplied the Erika and TPUSA clips; theory that his
 
 *Related: C-13979, C-13981, C-13982, C-13983, C-13985, C-14008, A-3361.1*
 
-**N-615** Gary Melton
+**N-614** Gary Melton
 
 Paramount Tactical; party to the X exchange with Ian Carroll.
 
 *Related: C-14037, C-14038, C-14039, A-3369.1*
 
-**N-710** Volodymyr Zelensky
+**N-709** Volodymyr Zelensky
 
 Host says Kolomoisky funded him into power.
 
 *Related: C-14006*
 
-**N-751** Robin Ebmeyer
+**N-750** Robin Ebmeyer
 
 UVU emergency management director; host says she has heard Ebmeyer is resigning or has resigned (transcribed "Ebmyer", "Edmire", "Edmyer").
 
 *Related: C-14027, C-14028, C-14029, C-14031, C-14032, C-14033, C-14034, A-3367.2, A-3367.1*
 
-**N-949** Christine Fekete
+**N-948** Christine Fekete
 
 First named by the host at 00:10:57 in episode 162. Instagram comedian and political commentator, handle given as @what.the.fekete; credited with the theory that Blake Wynn gifted Erika's Kirk Force 1s. Spelling unconfirmed.
 
 *Related: C-13982, A-3361.1*
 
-**N-950** Matiss Tabuns
-
-First named by the host at 00:14:33 in episode 162. Named by the host, per Latvian emailers, as the person running Monster Lab / Clip It; from Talsi, Latvia.
-
-Aliases: Matiss; Matiss
-
-*Related: C-13988, C-13989, C-13990, C-13991, C-13992, C-13993, C-13994, C-13996, C-14001, C-14007, C-14044, C-14045, A-3363.2, A-3363.1, A-3371.1*
-
-**N-951** Cindy Jackson
+**N-949** Cindy Jackson
 
 First named by the host at 00:18:58 in episode 162. Wyoming registered agent the host says is the agent for Clip It LLC and who was named in Pandora Papers reporting.
 
 *Related: C-13996, C-14001, C-14002, C-14003, C-14004, A-3364.1*
 
-**N-952** Igor Kolomoisky
+**N-950** Igor Kolomoisky
 
 First named by the host at 00:20:40 in episode 162. Ukrainian oligarch named in the article the host reads as linked to Ferrous LLC.
 
@@ -612,7 +604,7 @@ The host's report that the Monster Lab site shows "Not available in your region"
 Node Type: Topic
 The Clip It LLC Wyoming filing (May 28, 2025 per the host), connected by the host to Matiss Tabuns, and its registered agent address, which the host says belongs to an agent running nearly 3,000 businesses.
 
-*Related: C-13993, C-13994, C-13995, C-13996, C-14001, A-3363.2, A-3363.3, N-950, N-951*
+*Related: C-13993, C-13994, C-13995, C-13996, C-14001, A-3363.2, A-3363.3, N-351, N-949*
 
 **N-11415** Pandora Papers
 
@@ -633,7 +625,7 @@ Journalism consortium the host says obtained the Pandora Papers records and esti
 Node Type: Topic
 The host's reports, from UVU sources, that Police Chief Jeff Long has resigned and that emergency management director Robin Ebmeyer is resigning or has resigned after the independent review, with circumstances unknown.
 
-*Related: C-14010, C-14023, C-14027, C-14033, C-14034, N-271, N-751*
+*Related: C-14010, C-14023, C-14027, C-14033, C-14034, N-271, N-750*
 
 **N-11418** TPUSA Las Vegas Office Opening
 
@@ -897,7 +889,7 @@ Claim: The host credits Instagram commentator Christine Fekete with discovering 
 Transcript Snippet: she discovered what I believe is a highly likely possibility um that it was Blake Wynn who gifted Erika with those gaudy Kirk Force 1s
 
 Anchored Artifacts: A-3361.1
-Mentions: N-949, N-352, N-2
+Mentions: N-948, N-352, N-2
 Related Nodes:
 Tags: relevance:context
 Investigative Direction: Origin of the custom sneakers; @what.the.fekete post.
@@ -989,12 +981,12 @@ Investigative Direction: Independent access tests from multiple regions.
 
 Claim Timestamp: 00:14:10
 
-Claim: The host says that the name she gave the previous day for the person running the site, Mat Servius, was wrong, and that people in Latvia emailed to say Servius is not a Latvian surname.
+Claim: The host says that the name she gave the previous day for the person running the site, Mat Servius [Matiss Tabuns], was wrong, and that people in Latvia emailed to say Servius is not a Latvian surname.
 
 Transcript Snippet: We told you yesterday his name was Mat Servius. We were wrong.
 
 Anchored Artifacts:
-Mentions: N-351, N-950
+Mentions: N-351
 Related Nodes: N-10886
 Revises: C-13901
 Tags: relevance:context
@@ -1011,7 +1003,7 @@ Claim: The host says, per emailers, that the real name of the person running the
 Transcript Snippet: His real name, the person running this, is Matiss Tabuns
 
 Anchored Artifacts:
-Mentions: N-950
+Mentions: N-351
 Related Nodes: N-10880
 Tags: relevance:context
 Investigative Direction: Latvian business registry and Clip It LLC records listing an organizer or owner.
@@ -1027,7 +1019,7 @@ Claim: The host says, according to her sources, that Tabuns is from the small to
 Transcript Snippet: He's from a small town there known as Talsi, where he allegedly dropped out of high school in his junior year.
 
 Anchored Artifacts:
-Mentions: N-950
+Mentions: N-351
 Related Nodes: N-10886
 Tags: relevance:tangential
 Investigative Direction: Talsi school records; statements from the Latvian sources.
@@ -1043,7 +1035,7 @@ Claim: The host says that, according to her sources, Tabuns started running onli
 Transcript Snippet: He's flushed with cash, according to his Instagram.
 
 Anchored Artifacts: A-3363.1
-Mentions: N-950
+Mentions: N-351
 Related Nodes:
 Tags: relevance:tangential
 Investigative Direction: Tabuns' Instagram account and business registrations.
@@ -1059,7 +1051,7 @@ Claim: The host says Tabuns is in his early 20s and shows a video she says he fi
 Transcript Snippet: He's in his early 20s. Here he is in Vietnam filming his buddy putting money into a stripper's bra.
 
 Anchored Artifacts: A-3363.1
-Mentions: N-950
+Mentions: N-351
 Related Nodes:
 Tags: relevance:tangential
 Investigative Direction: Date and source of the Instagram video.
@@ -1075,7 +1067,7 @@ Claim: The host says viewers helped confirm that Clip It LLC was filed for on Ma
 Transcript Snippet: Clip It LLC um was filed for on May 28th of 2025.
 
 Anchored Artifacts: A-3363.2
-Mentions: N-950
+Mentions: N-351
 Related Nodes: N-10880, N-11414
 Tags: relevance:context
 Investigative Direction: Wyoming Secretary of State filing for Clip It LLC.
@@ -1091,7 +1083,7 @@ Claim: The host says Clip It LLC was filed for in Wyoming and that it has been a
 Transcript Snippet: It was filed for in Wyoming.
 
 Anchored Artifacts: A-3363.2
-Mentions: N-950
+Mentions: N-351
 Related Nodes: N-11414
 Tags: relevance:context
 Investigative Direction: Wyoming Secretary of State business search.
@@ -1123,7 +1115,7 @@ Claim: The host says the registered agent is an 82-year-old woman who was mentio
 Transcript Snippet: We also discovered this is an 82-year-old woman who is actually known to the world because she was featured, mentioned throughout um the Pandora Papers
 
 Anchored Artifacts:
-Mentions: N-951, N-950
+Mentions: N-949, N-351
 Related Nodes: N-11414, N-11415
 Tags: relevance:context
 Investigative Direction: Clip It LLC registered agent of record; ICIJ Pandora Papers database.
@@ -1203,7 +1195,7 @@ Claim: The host says a woman named for helping set up virtually untraceable LLCs
 Transcript Snippet: one woman who was named for helping to set up these virtually untraceable LLCs was a woman named Cindy Jackson from Wyoming, the same registered agent that our boy Matiss is going to turn to for Clip It LLC.
 
 Anchored Artifacts:
-Mentions: N-951, N-950
+Mentions: N-949, N-351
 Related Nodes: N-11414, N-11415
 Tags: relevance:context
 Investigative Direction: Clip It LLC Wyoming filing showing the registered agent name.
@@ -1219,7 +1211,7 @@ Claim: The host says Cindy Jackson was mentioned in 2022 in an article on the Pa
 Transcript Snippet: The gatekeepers who help open America to oligarchs and scammers.
 
 Anchored Artifacts: A-3364.1
-Mentions: N-951
+Mentions: N-949
 Related Nodes: N-11415
 Tags: relevance:context
 Investigative Direction: The ICIJ / partner article with that headline.
@@ -1235,7 +1227,7 @@ Claim: Per the article the host shows, Cindy Jackson, then 77, was the official 
 Transcript Snippet: year-old Cindy Jackson is the official gatekeeper for more than 350 companies that operate in the United States and around the world.
 
 Anchored Artifacts: A-3364.1
-Mentions: N-951
+Mentions: N-949
 Related Nodes: N-11415
 Tags: relevance:context
 Investigative Direction: Article text; compare with the host's "nearly 3,000 businesses" figure.
@@ -1251,7 +1243,7 @@ Claim: Per the article the host shows, Jackson represented companies tied to a d
 Transcript Snippet: In 2016, Jackson became the registered agent for Ferrous LLC, a Wyoming company linked to a Ukrainian oligarch
 
 Anchored Artifacts: A-3364.1
-Mentions: N-951, N-952
+Mentions: N-949, N-950
 Related Nodes: N-11415
 Tags: relevance:tangential
 Investigative Direction: Wyoming filings for Ferrous LLC; article sourcing.
@@ -1267,7 +1259,7 @@ Claim: The host says Igor Kolomoisky is an Israeli-Ukrainian billionaire with ti
 Transcript Snippet: Just like an Israeli-Ukrainian billionaire ties to the Chabad-Lubavitch.
 
 Anchored Artifacts:
-Mentions: N-952
+Mentions: N-950
 Related Nodes: N-11359
 Tags: relevance:tangential
 Investigative Direction: Kolomoisky citizenship and community affiliations in public reporting.
@@ -1283,7 +1275,7 @@ Claim: The host says Kolomoisky funded Volodymyr Zelensky into power, and that t
 Transcript Snippet: He's the person that put uh Zelensky into power, just so you know. Like funded him into power and then nationalized the private bank and then money went missing.
 
 Anchored Artifacts:
-Mentions: N-952, N-710
+Mentions: N-950, N-709
 Related Nodes:
 Tags: relevance:tangential
 Investigative Direction: Reporting on PrivatBank nationalization and Kolomoisky's media support for Zelensky.
@@ -1299,7 +1291,7 @@ Claim: The host says the website launched just in time for the Charlie Kirk assa
 Transcript Snippet: And um according to him, he says it's been up for 1 year.
 
 Anchored Artifacts:
-Mentions: N-950
+Mentions: N-351
 Related Nodes: N-10880
 Supports: C-13912
 Tags: relevance:context
@@ -1623,7 +1615,7 @@ Claim: The host says a second person she has learned is resigning or has resigne
 Transcript Snippet: A second person who I've learned is resigning or has resigned.
 
 Anchored Artifacts:
-Mentions: N-751
+Mentions: N-750
 Related Nodes: N-10012, N-11417
 Tags: relevance:core
 Investigative Direction: UVU personnel records or announcement.
@@ -1639,7 +1631,7 @@ Claim: The host says Robin Ebmeyer is or was UVU's emergency management director
 Transcript Snippet: that is the UVU emergency management director or was the UVU emergency management director.
 
 Anchored Artifacts:
-Mentions: N-751
+Mentions: N-750
 Related Nodes:
 Tags: relevance:context
 Investigative Direction: UVU staff directory.
@@ -1655,7 +1647,7 @@ Claim: The host says the independent review states Robin Ebmeyer was present at 
 Transcript Snippet: The independent review informed us that Robin uh was present at the major events committee meeting that where Maycee Crofts insisted on them being outside.
 
 Anchored Artifacts: A-3367.1
-Mentions: N-751, N-8
+Mentions: N-750, N-8
 Related Nodes: N-10839
 Tags: relevance:core
 Investigative Direction: Independent review section on the major events committee meeting.
@@ -1687,7 +1679,7 @@ Claim: Per the review passage the host reads, some committee members continued t
 Transcript Snippet: some of the MEAC members continued to express reservations including Robin Ebmeyer, UVU's director of emergency management and safety.
 
 Anchored Artifacts: A-3367.1
-Mentions: N-751
+Mentions: N-750
 Related Nodes: N-10839
 Tags: relevance:core
 Investigative Direction: Independent review text.
@@ -1703,7 +1695,7 @@ Claim: The host says page 73 of the review states Ebmeyer was absent from the un
 Transcript Snippet: Robin Ebmeyer was actually absent from the university on September 10th.
 
 Anchored Artifacts: A-3367.2
-Mentions: N-751
+Mentions: N-750
 Related Nodes: N-10839
 Tags: relevance:core
 Investigative Direction: Independent review page 73.
@@ -1719,7 +1711,7 @@ Claim: The host corrects herself that she should not say Ebmeyer was let go, say
 Transcript Snippet: Sorry, I shouldn't say Robin Ebmeyer I let go. I've heard Robin Ebmeyer resigned.
 
 Anchored Artifacts:
-Mentions: N-751
+Mentions: N-750
 Related Nodes: N-11417
 Tags: relevance:core
 Investigative Direction: UVU personnel records on the nature of the departures.
@@ -1735,7 +1727,7 @@ Claim: The host says the general mood, according to her UVU sources, is that bot
 Transcript Snippet: according to my UVU sources, is that both of these individuals have been wronged in some capacity.
 
 Anchored Artifacts:
-Mentions: N-271, N-751
+Mentions: N-271, N-750
 Related Nodes: N-10012, N-11417
 Tags: relevance:core
 Investigative Direction: Interviews with UVU staff.
@@ -1783,7 +1775,7 @@ Claim: Per the X exchange the host shows, Gary Melton of Paramount Tactical repl
 Transcript Snippet: Gary Melton replies, "You follow Ian Carroll. Says all I need to know about you."
 
 Anchored Artifacts: A-3369.1
-Mentions: N-615, N-130
+Mentions: N-614, N-130
 Related Nodes: N-10899
 Tags: relevance:tangential
 Investigative Direction: The X thread.
@@ -1799,7 +1791,7 @@ Claim: Per the exchange, Ian Carroll replied, "Gary, you follow me, bro."
 Transcript Snippet: Ian comes back with, "Gary, you follow me, bro."
 
 Anchored Artifacts: A-3369.1
-Mentions: N-130, N-615
+Mentions: N-130, N-614
 Related Nodes: N-10899
 Tags: relevance:tangential
 Investigative Direction: The X thread and follow lists.
@@ -1815,7 +1807,7 @@ Claim: Per the exchange, Melton replied that he would fix that, that it was from
 Transcript Snippet: I have your phone number, too. Doesn't mean I'd use it.
 
 Anchored Artifacts: A-3369.1
-Mentions: N-615, N-130
+Mentions: N-614, N-130
 Related Nodes: N-10899
 Tags: relevance:tangential
 Investigative Direction: The X thread.
@@ -1896,7 +1888,7 @@ Claim: The host says she does not believe Tabuns' come-up story and thinks he is
 Transcript Snippet: I think there's something else going on and I think that he is working on behalf of someone else.
 
 Anchored Artifacts:
-Mentions: N-950
+Mentions: N-351
 Related Nodes: N-10880
 Tags: relevance:context
 Investigative Direction: Clip It LLC beneficial ownership and funding sources.
@@ -1912,7 +1904,7 @@ Claim: The host asks anyone who knows more about Tabuns to email the show at the
 Transcript Snippet: So I will say if you uh know anything more about Matiss, please email us. More tips at candaceowens.com.
 
 Anchored Artifacts: A-3371.1
-Mentions: N-950
+Mentions: N-351
 Related Nodes: N-10880
 Tags: relevance:context
 Investigative Direction: Tips received about Tabuns and Clip It LLC.
@@ -2395,7 +2387,7 @@ Confidence: medium
 - MISTRANSCRIPTION: "Brian Harpool" -> "Brian Harpole" (00:30:18) source: nodes.tsv N-266 (existing alias)
 - MISTRANSCRIPTION: "Andrew Kolvet" -> "Andrew Kolvet" (00:31:40) source: https://www.youtube.com/watch?v=yrg_-D6oNHE
 - MISTRANSCRIPTION: "Charlie Kirk assassination" -> "Charlie Kirk assassination" (00:27:30) source: https://www.youtube.com/watch?v=yrg_-D6oNHE
-- MISTRANSCRIPTION: "Robin Ebmeyer" / "Robin Ebmeyer" / "Robin Ebmeyer" -> "Robin Ebmeyer" (00:34:25-00:36:22) source: nodes.tsv N-751 (UVU independent review naming)
+- MISTRANSCRIPTION: "Robin Ebmeyer" / "Robin Ebmeyer" / "Robin Ebmeyer" -> "Robin Ebmeyer" (00:34:25-00:36:22) source: nodes.tsv N-750 (UVU independent review naming)
 - MISTRANSCRIPTION: "Maycee Crofts" -> "Maycee Crofts" (00:34:45) source: nodes.tsv N-8
 - MISTRANSCRIPTION: "Mamdani" -> "Zohran Mamdani" (00:37:59) source: https://www.youtube.com/watch?v=yrg_-D6oNHE
 - MISTRANSCRIPTION: "Tyler Bowyer" -> "Tyler Bowyer" (00:46:42) source: nodes.tsv N-11

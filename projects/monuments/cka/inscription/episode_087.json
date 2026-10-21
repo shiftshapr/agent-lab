@@ -528,7 +528,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-943"
+            "N-942"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -1466,8 +1466,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-708",
-      "ref": "N-708",
+      "@id": "N-707",
+      "ref": "N-707",
       "name": "John F. Kennedy",
       "type": "person",
       "description": "John F. Kennedy; subject of the CBLA history and Texas comparison.",
@@ -1485,8 +1485,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-711",
-      "ref": "N-711",
+      "@id": "N-710",
+      "ref": "N-710",
       "name": "Ron Paul",
       "type": "person",
       "description": "Ron Paul; subject of the 2012 convention comment.",
@@ -2386,8 +2386,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-943",
-      "ref": "N-943",
+      "@id": "N-942",
+      "ref": "N-942",
       "name": "Robbie Hild",
       "type": "person",
       "description": "First named by the host at 00:27:39 in episode 87 (spelled Robbie Hild and Robbie Hild in the transcript). Person the host says she put an APB out for because he stood alongside a Lyman relative; she says he attended BYU, played lacrosse and graduated around 2020.",
@@ -2811,7 +2811,7 @@
       "claim_timestamp": "00:29:30–00:30:18",
       "investigative_direction": "Confirm via BYU athletics records and class roster.",
       "mentions_person_refs": [
-        "N-943"
+        "N-942"
       ]
     },
     {
@@ -2866,7 +2866,7 @@
       "claim_timestamp": "00:29:45",
       "investigative_direction": "Verify via marriage records, family genealogical databases, or corroborating viewer emails with documentation.",
       "mentions_person_refs": [
-        "N-943"
+        "N-942"
       ]
     },
     {
@@ -3502,7 +3502,7 @@
       "transcript_snippet": "just like there was a Texas play in JFK's assassination, I might add. CIA ran that operation out of Texas.",
       "mentions_person_refs": [
         "N-3",
-        "N-708"
+        "N-707"
       ]
     },
     {
@@ -3945,7 +3945,7 @@
       "transcript_snippet": "one of the first people that I put an APB out for because he was bizarrely standing alongside Shane Lyman.",
       "mentions_person_refs": [
         "N-3",
-        "N-943",
+        "N-942",
         "N-128"
       ]
     },
@@ -4047,7 +4047,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-943",
+        "N-942",
         "N-128"
       ]
     },
@@ -4095,7 +4095,7 @@
       "transcript_snippet": "please email us at more tips at candaceowens. com.",
       "mentions_person_refs": [
         "N-3",
-        "N-943",
+        "N-942",
         "N-28"
       ]
     },
@@ -4118,7 +4118,7 @@
       "transcript_snippet": "but the investigation into Robbie Hild is now opened again.",
       "mentions_person_refs": [
         "N-3",
-        "N-943"
+        "N-942"
       ]
     },
     {
@@ -4184,7 +4184,7 @@
       "transcript_snippet": "comparative bullet lead analysis was first used after President John F. Kennedy's assassination in 1963.",
       "mentions_person_refs": [
         "N-3",
-        "N-708"
+        "N-707"
       ]
     },
     {
@@ -4250,7 +4250,7 @@
       "transcript_snippet": "cuz we all know who killed JFK. And it wasn't Lee Harvey Oswald.",
       "mentions_person_refs": [
         "N-3",
-        "N-708"
+        "N-707"
       ]
     },
     {
@@ -4317,7 +4317,7 @@
       "transcript_snippet": "Certainly, the Hild family is married into the Robinsons as well",
       "mentions_person_refs": [
         "N-3",
-        "N-943",
+        "N-942",
         "N-40"
       ]
     },
@@ -4615,7 +4615,7 @@
       "transcript_snippet": "The RNC also refused to recognize Paul's delegates from Maine.",
       "mentions_person_refs": [
         "N-3",
-        "N-711"
+        "N-710"
       ]
     },
     {
@@ -4808,7 +4808,7 @@
         "N-3",
         "N-2",
         "N-1",
-        "N-708"
+        "N-707"
       ]
     }
   ],

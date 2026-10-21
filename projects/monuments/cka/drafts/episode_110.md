@@ -12,12 +12,12 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10g): N-11400, N-11401
-  - Tip-minted Nodes (reintro-ep110): N-666, N-754
+  - Tip-minted Nodes (reintro-ep110): N-665, N-753
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-9598–C-9705
   - New Nodes Introduced: N-10668, N-10669
   - Hole-minted Nodes (wave3): N-433, N-434, N-448
-  - Reused Nodes Appearing: N-28, N-10671, N-10675, N-10670, N-10672, N-10673, N-10674, N-9, N-17, N-22, N-37, N-46, N-55, N-57, N-58, N-59, N-190, N-266, N-278, N-279, N-305, N-361, N-591, N-10012, N-10027, N-10117, N-10122, N-10123, N-10220, N-10264, N-10276, N-10310, N-10334, N-10347, N-10367, N-10370, N-10373, N-10378, N-10456, N-10571, N-10575, N-10652, N-10653, N-10664, N-10722, N-10870, N-10901, N-10910, N-11079, N-11123, N-11324
+  - Reused Nodes Appearing: N-28, N-10671, N-10675, N-10670, N-10672, N-10673, N-10674, N-9, N-17, N-22, N-37, N-46, N-55, N-57, N-58, N-59, N-190, N-266, N-278, N-279, N-305, N-361, N-590, N-10012, N-10027, N-10117, N-10122, N-10123, N-10220, N-10264, N-10276, N-10310, N-10334, N-10347, N-10367, N-10370, N-10373, N-10378, N-10456, N-10571, N-10575, N-10652, N-10653, N-10664, N-10722, N-10870, N-10901, N-10910, N-11079, N-11123, N-11324
   - (see registers)
 
 ## I. Meta-Data
@@ -605,7 +605,7 @@ Evangelical leader named GHF chairman, per the host.
 
 ---
 
-**N-591** Bret Weinstein
+**N-590** Bret Weinstein
 
 Credited by the host for confirming the June 18 White House dates.
 
@@ -613,7 +613,7 @@ Credited by the host for confirming the June 18 White House dates.
 
 ---
 
-**N-666** James Kaddis
+**N-665** James Kaddis
 
 Calvary Chapel pastor and head of the TPUSA faith department per the host.
 
@@ -621,7 +621,7 @@ Calvary Chapel pastor and head of the TPUSA faith department per the host.
 
 ---
 
-**N-754** Claire Guinan
+**N-753** Claire Guinan
 
 Jezebel writer the host links to the Etsy curse.
 
@@ -1771,7 +1771,7 @@ Claim: The host says that on June 18, 2025 Charlie Kirk went to the White House 
 Transcript Snippet: June 18th. That is when Charlie goes into the White House. We have confirmed those dates thanks to Bret Weinstein. Goes into the White House and he is arguing for us not to get involved in Israel's war with Iran.
 
 Anchored Artifacts: A-2076.2
-Mentions: N-1, N-591, N-36
+Mentions: N-1, N-590, N-36
 Related Nodes: N-10674
 Tags: relevance:core
 Investigative Direction: Obtain White House visitor logs or participants' accounts for June 18-19, 2025 and Weinstein's source for the dates.
@@ -1818,7 +1818,7 @@ Claim: The host says writer Claire Guinan, who had never published and has no wr
 Transcript Snippet: This writer, Claire Guinan, who had never published before, she has no writing profile at all, writes her first article for Jezebel.
 
 Anchored Artifacts: A-2076.2
-Mentions: N-754
+Mentions: N-753
 Related Nodes: N-10122, N-10117
 Supports: C-810
 Tags: relevance:context
@@ -1835,7 +1835,7 @@ Claim: The host says Claire Guinan went on Etsy, found a new witch profile and b
 Transcript Snippet: buy a spell about harming Charlie Kirk, putting a curse onto Charlie Kirk. It's very unusual. We paid some Etsy witches to curse Charlie Kirk. That was just um less than 10 days after Charlie won this debate
 
 Anchored Artifacts: A-2076.2
-Mentions: N-754, N-1
+Mentions: N-753, N-1
 Related Nodes: N-10117, N-10123, N-10122
 Supports: C-810
 Tags: relevance:core
@@ -1916,7 +1916,7 @@ Claim: The host says that on July 14, 2025 Erika Kirk traveled to Long Beach, Ca
 Transcript Snippet: Erika travels to Long Beach, California to speak at James Kaddis' Calvary Chapel Church for their Women's Summer of Psalms retreat.
 
 Anchored Artifacts: A-2076.2
-Mentions: N-2, N-666
+Mentions: N-2, N-665
 Related Nodes: N-10571
 Tags: relevance:core
 Investigative Direction: Find the retreat program or video and flight records for July 14, 2025.
@@ -1932,7 +1932,7 @@ Claim: The host says James Kaddis heads up the Turning Point USA faith departmen
 Transcript Snippet: That's interesting because James Kaddis heads up the Turning Point USA faith department.
 
 Anchored Artifacts: 
-Mentions: N-666
+Mentions: N-665
 Tags: relevance:context
 Investigative Direction: Check TPUSA staff pages for the faith department head and Catis' role.
 

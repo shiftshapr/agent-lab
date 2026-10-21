@@ -179,7 +179,7 @@
           ],
           "related_nodes": [
             "N-255",
-            "N-757",
+            "N-756",
             "N-250"
           ],
           "tags": [],
@@ -744,8 +744,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-757",
-      "ref": "N-757",
+      "@id": "N-756",
+      "ref": "N-756",
       "name": "Bob Coy",
       "type": "person",
       "description": "Referenced as mentor of the Taylor family in Brentwood, Tennessee; subject of prior-day discussion in Episode 31; allegedly involved in sexual abuse scandal. Transcript renders the name as \"Bob Coy.\"",
@@ -1096,8 +1096,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-752",
-      "ref": "N-752",
+      "@id": "N-751",
+      "ref": "N-751",
       "name": "Astrid Tuminez",
       "type": "person",
       "description": "UVU president (also transcribed \"Tumz\"); first named in C-2873.",
@@ -1308,8 +1308,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-871",
-      "ref": "N-871",
+      "@id": "N-870",
+      "ref": "N-870",
       "name": "Britney Spears",
       "type": "person",
       "description": "First named by the host at 00:00:44 in episode 32. Singer whose 2008 conservatorship the host connects to Lou Taylor and Calvary Chapel.",
@@ -1357,8 +1357,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-872",
-      "ref": "N-872",
+      "@id": "N-871",
+      "ref": "N-871",
       "name": "Jamie Lynn Spears",
       "type": "person",
       "description": "First named by the host (reading Brett Cooper) at 00:06:05 in episode 32. Britney Spears's younger sister, whom Lou Taylor was first hired to help manage.",
@@ -1427,8 +1427,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-873",
-      "ref": "N-873",
+      "@id": "N-872",
+      "ref": "N-872",
       "name": "Tony Blair",
       "type": "person",
       "description": "First named at 00:15:42 in episode 32 in an email read by the host. Former UK prime minister linked in the email to the house where Britney Spears was held in 2019.",
@@ -1497,8 +1497,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-738",
-      "ref": "N-738",
+      "@id": "N-737",
+      "ref": "N-737",
       "name": "Michael Jackson",
       "type": "person",
       "description": "Existing node reused for new claims in this episode.",
@@ -1516,8 +1516,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-874",
-      "ref": "N-874",
+      "@id": "N-873",
+      "ref": "N-873",
       "name": "Paris Jackson",
       "type": "person",
       "description": "First named by the host at 00:23:46 in episode 32. Daughter of Michael Jackson, said to have lost in court over his legacy.",
@@ -1533,8 +1533,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-867",
-      "ref": "N-867",
+      "@id": "N-866",
+      "ref": "N-866",
       "name": "Justin Bieber",
       "type": "person",
       "description": "Existing node reused for new claims in this episode.",
@@ -1607,8 +1607,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-875",
-      "ref": "N-875",
+      "@id": "N-874",
+      "ref": "N-874",
       "name": "Spencer Pratt",
       "type": "person",
       "description": "First named by the host at 00:35:52 in episode 32. Reality-TV figure the host praises for work on the Malibu fires.",
@@ -1785,7 +1785,7 @@
       "claim_timestamp": "00:12:02",
       "investigative_direction": "Locate and review the LA Times article and underlying email exhibits cited therein.",
       "mentions_person_refs": [
-        "N-871",
+        "N-870",
         "N-250",
         "N-221"
       ]
@@ -1804,7 +1804,7 @@
       "claim_timestamp": "00:12:02",
       "investigative_direction": "Review the underlying Daily Mail reporting and court documents cited; corroborate against any trial filings from Britney Spears's conservatorship termination proceedings.",
       "mentions_person_refs": [
-        "N-871",
+        "N-870",
         "N-252",
         "N-250",
         "N-221"
@@ -1943,7 +1943,7 @@
       "mentions_person_refs": [
         "N-250",
         "N-359",
-        "N-867",
+        "N-866",
         "N-253"
       ]
     },
@@ -2035,7 +2035,7 @@
       "investigative_direction": "Locate the published Samir / Tuminez interview and review sourcing/conditions.",
       "mentions_person_refs": [
         "N-258",
-        "N-752"
+        "N-751"
       ]
     },
     {
@@ -2194,7 +2194,7 @@
       "transcript_snippet": "telling me to stay the course because the Calvary Chapel was also involved in Britney Spears's conservatorship.",
       "mentions_person_refs": [
         "N-3",
-        "N-871"
+        "N-870"
       ]
     },
     {
@@ -2216,7 +2216,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-250",
-        "N-871"
+        "N-870"
       ]
     },
     {
@@ -2240,8 +2240,8 @@
       "mentions_person_refs": [
         "N-221",
         "N-250",
-        "N-871",
-        "N-872"
+        "N-870",
+        "N-871"
       ]
     },
     {
@@ -2266,7 +2266,7 @@
         "N-221",
         "N-250",
         "N-252",
-        "N-871"
+        "N-870"
       ]
     },
     {
@@ -2315,7 +2315,7 @@
         "N-221",
         "N-250",
         "N-252",
-        "N-871"
+        "N-870"
       ]
     },
     {
@@ -2431,8 +2431,8 @@
       "transcript_snippet": "they told me that the house that Britney was being held out in 2019 was tied to Epstein somehow via Tony Blair.",
       "mentions_person_refs": [
         "N-3",
-        "N-871",
-        "N-873",
+        "N-870",
+        "N-872",
         "N-9"
       ]
     },
@@ -2483,7 +2483,7 @@
         "N-3",
         "N-250",
         "N-251",
-        "N-757"
+        "N-756"
       ]
     },
     {
@@ -2574,7 +2574,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-871",
+        "N-870",
         "N-27",
         "N-359"
       ]
@@ -2618,7 +2618,7 @@
       "transcript_snippet": "Michael Jackson, despite the fact that he was beating Sony, he was owning his own catalog and almost owned the Beatles catalog.",
       "mentions_person_refs": [
         "N-3",
-        "N-738"
+        "N-737"
       ]
     },
     {
@@ -2637,8 +2637,8 @@
       "transcript_snippet": "I saw Paris Jackson was in the news today. She's lost in court and she's still fighting over her father's legacy.",
       "mentions_person_refs": [
         "N-3",
-        "N-874",
-        "N-738"
+        "N-873",
+        "N-737"
       ]
     },
     {
@@ -2660,7 +2660,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-738",
+        "N-737",
         "N-257"
       ]
     },
@@ -2686,7 +2686,7 @@
         "N-3",
         "N-250",
         "N-253",
-        "N-867"
+        "N-866"
       ]
     },
     {
@@ -2863,7 +2863,7 @@
       "transcript_snippet": "Spencer Pratt from The Hills did some fantastic work showing up. This was actually government conspiracy.",
       "mentions_person_refs": [
         "N-3",
-        "N-875"
+        "N-874"
       ]
     },
     {

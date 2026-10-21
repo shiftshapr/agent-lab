@@ -903,8 +903,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-607",
-      "ref": "N-607",
+      "@id": "N-606",
+      "ref": "N-606",
       "name": "Graham Allen",
       "type": "person",
       "description": "Named by the host among those she says tried to delude the public.",
@@ -920,8 +920,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-682",
-      "ref": "N-682",
+      "@id": "N-681",
+      "ref": "N-681",
       "name": "Jon Bray",
       "type": "person",
       "description": "Source of the microphone-rigging theory and glass photos; transcript spells Jon Bray.",
@@ -1706,7 +1706,7 @@
       "investigative_direction": "Obtain Jon Bray's written analysis and the source photos he supplied.",
       "transcript_snippet": "He was convinced from the very beginning, Jon Bray, that Charlie's microphone was rigged beneath him and that it subsequently shattered.",
       "mentions_person_refs": [
-        "N-682",
+        "N-681",
         "N-1"
       ]
     },
@@ -2132,7 +2132,7 @@
       "investigative_direction": "Obtain Bray's photos with metadata and compare against the UVU stage footage.",
       "transcript_snippet": "there is some that actually fell in front of Charlie and Jon Bray's getting me those photos",
       "mentions_person_refs": [
-        "N-682",
+        "N-681",
         "N-1"
       ]
     },
@@ -2388,7 +2388,7 @@
       "transcript_snippet": "Did you really think Blake Neff, Graham Allen, and Paramount not so tactical? We're going to delude the public into the absurd story that you tried to spin.",
       "mentions_person_refs": [
         "N-159",
-        "N-607"
+        "N-606"
       ]
     },
     {
@@ -2591,7 +2591,7 @@
       "investigative_direction": "Compare Bray's evidence compilation with the prosecution's exhibits.",
       "transcript_snippet": "I think Jon Bray's theory has infinitely more evidence than the story that we have been told by the prosecution, by the FBI, and by the Turning Point USA representatives.",
       "mentions_person_refs": [
-        "N-682"
+        "N-681"
       ]
     },
     {

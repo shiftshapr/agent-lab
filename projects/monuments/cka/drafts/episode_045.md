@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 33f8430dc8f4892645295e48cc30c6fac74bf7345b2f004f77e9048a964d135e
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-799, N-11162
+  - Tip-minted Nodes (supplement_2026-10c): N-798, N-11162
   - Hole-minted Nodes (reintro-ep045): N-360, N-10367, N-10373, N-10540
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-3901–C-3975
@@ -366,7 +366,7 @@ Widow and TPUSA CEO whose Fox interview, town hall remarks and public appearance
 
 ---
 
-**N-799** Harris Faulkner
+**N-798** Harris Faulkner
 
 First named by the host at 00:00:00 in episode 45 (transcript spells it Harris Falner and Harris Faulner). Fox News anchor who interviewed Erika Kirk.
 
@@ -816,7 +816,7 @@ Claim: The host says Erika Kirk gave a live interview with Harris Faulkner on Fo
 Transcript Snippet: she just gave an interview live with Harris Falner on Fox News where she finally addressed the quote unquote conspiracy theories.
 
 Anchored Artifacts: 
-Mentions: N-799, N-2, N-3
+Mentions: N-798, N-2, N-3
 Related Nodes: N-10006
 Tags: relevance:core
 Investigative Direction: Obtain the Fox News broadcast date, transcript and video of the Faulkner interview.
@@ -848,7 +848,7 @@ Claim: The host says Milo Yiannopoulos and a few others have asserted with absol
 Transcript Snippet: Milo Yiannopoulos and a few others have asserted with absolute certainty that Charlie has not yet been buried.
 
 Anchored Artifacts: 
-Mentions: N-220, N-1, N-799
+Mentions: N-220, N-1, N-798
 Related Nodes: N-10201
 Tags: relevance:context
 Investigative Direction: Obtain Yiannopoulos's posts and any claimed proof, and compare with cemetery or funeral records.

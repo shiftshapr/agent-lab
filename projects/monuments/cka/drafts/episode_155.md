@@ -11,11 +11,11 @@
 - **Transcript SHA-256**: 62ace5f4c4f18929f51b3252c3a6d15650b04715f45dfdc7d6bfb067b8b9d7ce
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-899, N-901, N-11315, N-11316
+  - Tip-minted Nodes (supplement_2026-10e): N-898, N-900, N-11315, N-11316
   - Claim Range: C-13368–C-13444
-  - Reused Nodes Appearing: N-10850, N-10849, N-14, N-54, N-94, N-200, N-244, N-366, N-580, N-835, N-862, N-898, N-10011, N-10012, N-10019, N-10032, N-10040, N-10051, N-10168, N-10343, N-10416, N-10447, N-10900, N-10974, N-11149, N-11168, N-900
+  - Reused Nodes Appearing: N-10850, N-10849, N-14, N-54, N-94, N-200, N-244, N-366, N-579, N-834, N-861, N-897, N-10011, N-10012, N-10019, N-10032, N-10040, N-10051, N-10168, N-10343, N-10416, N-10447, N-10900, N-10974, N-11149, N-11168, N-899
  - New Nodes Introduced: N-10847, N-10848
- - Reused Nodes Appearing: none (Wave 2: local ids removed), N-861
+ - Reused Nodes Appearing: none (Wave 2: local ids removed), N-860
 
 # Episode Analysis – Bride of Charlie 155
 
@@ -468,7 +468,7 @@ Former Daily Wire CEO ('Jeremy Boreing' in the transcript); the host's account o
 
 ---
 
-**N-861** David Hull
+**N-860** David Hull
 
 SBI agent whose preliminary hearing testimony the host analyzes.
 
@@ -476,7 +476,7 @@ SBI agent whose preliminary hearing testimony the host analyzes.
 
 ---
 
-**N-580** Thomas Massie
+**N-579** Thomas Massie
 
 Congressman the host says critics attacked and removed.
 
@@ -484,7 +484,7 @@ Congressman the host says critics attacked and removed.
 
 ---
 
-**N-835** Casey Baugh
+**N-834** Casey Baugh
 
 Alleged UVU donor and partial owner of the N88 plane.
 
@@ -492,7 +492,7 @@ Alleged UVU donor and partial owner of the N88 plane.
 
 ---
 
-**N-862** Officer Goforth
+**N-861** Officer Goforth
 
 Officer the host says was approached by the Dodge Challenger after midnight.
 
@@ -612,7 +612,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-899** Agent Mortensson
+**N-898** Agent Mortensson
 
 First named by the host at 00:18:34 in episode 155. Investigator whose review of UVU security video the September 15 warrant describes.
 
@@ -622,7 +622,7 @@ Aliases: Mortensson
 
 ---
 
-**N-900** Miss Noble
+**N-899** Miss Noble
 
 First named by the host at 00:07:25 in episode 155. Neighbor who with her husband reported a Dodge Challenger driven by a bald person with two others in the back seat.
 
@@ -632,7 +632,7 @@ Aliases: Miss Noble
 
 ---
 
-**N-898** Bobby Sausalito
+**N-897** Bobby Sausalito
 
 First named by the host at 00:00:46 in episode 155. Comedian and political commentator whose pre-release predictions about the Neff and Boreing podcast the host plays.
 
@@ -642,7 +642,7 @@ Aliases: Bobby Sausalito; Bobby Sauce
 
 ---
 
-**N-901** Chelsea Baugh
+**N-900** Chelsea Baugh
 
 First named by the host at 00:25:06 in episode 155. Named with Casey Baugh as a UVU donor and partial owner of the N88 plane.
 
@@ -694,7 +694,7 @@ Claim Timestamp: 00:33:23–00:36:12
 Claim: Bobby Sausalito predicted, prior to release, that the Neff/Boreing podcast would primarily consist of criticism of Candace Owens and Tucker Carlson, defense of TPUSA figures (Erika Kirk, Mikey McCoy, Frank Turek), and calls for lawsuits/jail time against the host.
 
 Anchored Artifacts: A-2406.1
-Mentions: N-898, N-159, N-366, N-22, N-3, N-190, N-2, N-7
+Mentions: N-897, N-159, N-366, N-22, N-3, N-190, N-2, N-7
 
 Related Nodes:
 
@@ -709,7 +709,7 @@ Claim Timestamp: 00:36:12
 Claim: The host says Bobby Sausalito's pre-release predictions were "almost spot on," except that he was wrong that Boreing is doing it for money.
 
 Anchored Artifacts: A-2406.1, A-2407.1
-Mentions: N-898, N-366
+Mentions: N-897, N-366
 
 Related Nodes:
 
@@ -899,7 +899,7 @@ Claim Timestamp: 00:18:34–00:19:42
 Claim: The September 15 search warrant narrative (attributed to Agent Mortensson's review of UVU security video) stated that Robinson's Challenger entered the UVU parking structure at approximately 8:28 AM, that Robinson then visited a wooded area near where the rifle was later discovered, and that Robinson left the structure at approximately 9:32 AM.
 
 Anchored Artifacts: A-2414.1
-Mentions: N-899, N-40
+Mentions: N-898, N-40
 
 Related Nodes: N-10848
 
@@ -914,7 +914,7 @@ Claim Timestamp: 00:19:42–00:21:12
 Claim: The host alleges that Agent David Hull's preliminary hearing testimony presented a campus timeline in which the "Maroon Boy" interacts with a TPUSA representative, departs, and returns on foot, omitting the approximately 8-minute top-of-structure stop and the 8:28-9:24 AM wooded-area visit described in the Sept 15 warrant she reads.
 
 Anchored Artifacts: A-2414.1, A-2415.1
-Mentions: N-861
+Mentions: N-860
 
 Related Nodes: N-10848
 
@@ -929,7 +929,7 @@ Claim Timestamp: 00:08:45
 Claim: The host says neighbor Miss Noble and her husband saw a Dodge Challenger parked in their neighborhood shortly after Officer Goforth's sighting, and that Miss Noble claims it was being driven by a bald person with two people in the back seat.
 
 Anchored Artifacts: (no displayed artifact in this episode; assertion referenced from prior reporting)
-Mentions: N-900, N-862
+Mentions: N-899, N-861
 
 Related Nodes: N-10850
 
@@ -1070,7 +1070,7 @@ Claim: The host says yesterday's timeline wrongly showed Maroon Boy visiting a w
 Transcript Snippet: Yesterday, we wrongly showed you on the timeline um that this was during a time where he then went and visited a wooded area off campus.
 
 Anchored Artifacts: A-2414.1, A-2415.1
-Mentions: N-3, N-861
+Mentions: N-3, N-860
 Related Nodes: N-10848
 Tags: relevance:core
 Investigative Direction: Compare the show's published timeline against both the September 15 warrant narrative and the hearing transcript to document which source supplied each entry.
@@ -1103,7 +1103,7 @@ Claim: The host says the only Challenger footage the prosecution shows runs from
 Transcript Snippet: Agent Hull doesn't even so much as try to suggest that they tracked Maroon Boy Dodge Challenger off campus.
 
 Anchored Artifacts: A-2415.1
-Mentions: N-861, N-40, N-3
+Mentions: N-860, N-40, N-3
 Related Nodes: N-10850
 Tags: relevance:core
 Investigative Direction: Check the hearing transcript for any testimony on tracking the Challenger after 9:33 a.m. and for any off-campus license-plate-reader hits.
@@ -1135,7 +1135,7 @@ Claim: The host says that the Dodge Challenger which "we were told" returned aft
 Transcript Snippet: They've never indicated that he had on body cam footage.
 
 Anchored Artifacts: 
-Mentions: N-862, N-3
+Mentions: N-861, N-3
 Related Nodes: N-10850
 Tags: relevance:core
 Investigative Direction: Request Goforth's bodycam and dispatch records for the after-midnight contact and confirm whether any recording exists.
@@ -1151,7 +1151,7 @@ Claim: The host says Hull's testimony over the footage "registered to me as rema
 Transcript Snippet: at times we went back and realized those two things were in conflict with one another
 
 Anchored Artifacts: A-2415.1
-Mentions: N-861, N-3
+Mentions: N-860, N-3
 Related Nodes: N-10848
 Tags: relevance:core
 Investigative Direction: Compare Hull's narration line by line with the released footage and note each point where the spoken description and the video disagree.
@@ -1344,7 +1344,7 @@ Claim: The host says she thinks Miss Noble and her husband were telling the trut
 Transcript Snippet: I think Miss Noble, uh, the neighbor and her husband were telling the truth when she said that she saw a bald man and two other people in a Dodge Challenger
 
 Anchored Artifacts: 
-Mentions: N-900, N-3
+Mentions: N-899, N-3
 Related Nodes: N-10850
 Supports: C-13382
 Tags: relevance:core
@@ -1409,7 +1409,7 @@ Claim: The host says Hull's preliminary hearing account has Maroon Boy return on
 Transcript Snippet: And he heads to Chick-fil-A, sits down, he eats Chick-fil-A, and then he goes to walk around campus to the wooded area where the gun will eventually be found.
 
 Anchored Artifacts: A-2415.1
-Mentions: N-861, N-40, N-3
+Mentions: N-860, N-40, N-3
 Related Nodes: N-10848
 Supports: C-12039
 Tags: relevance:core
@@ -1426,7 +1426,7 @@ Claim: The host says Hull's account has Robinson leaving campus around 11:00 a.m
 Transcript Snippet: He plays Wordle off campus, sends that score to his friends at 11:28 and then he changes back into his clothes.
 
 Anchored Artifacts: A-2415.1
-Mentions: N-861, N-40, N-3
+Mentions: N-860, N-40, N-3
 Related Nodes: N-10848
 Supports: C-12041
 Tags: relevance:core
@@ -1459,7 +1459,7 @@ Claim: The host says that after Miss Noble called in, the time the Dodge Challen
 Transcript Snippet: That time gets adjusted three times across three different warrants.
 
 Anchored Artifacts: 
-Mentions: N-900, N-3
+Mentions: N-899, N-3
 Related Nodes: N-10848, N-10850
 Tags: relevance:core
 Investigative Direction: Compare the Challenger-at-Noble-house time in each of the three warrants and the surveillance footage timestamp.
@@ -1557,7 +1557,7 @@ Claim: The host corrects the name to Chelsea and Casey Baugh and says they donat
 Transcript Snippet: Chelsea and Casey Ba B A U G H donated $5 million to UVU.
 
 Anchored Artifacts: A-3173.1
-Mentions: N-835, N-901, N-3
+Mentions: N-834, N-900, N-3
 Related Nodes: N-10849, N-10012
 Tags: relevance:core
 Investigative Direction: Verify the donation amount, date and recipient through UVU foundation announcements and gift agreements.
@@ -1573,7 +1573,7 @@ Claim: The host says the Baughs have an entrepreneurship institute that was loca
 Transcript Snippet: they have an entrepreneurship institute that was located in the Woodbury building and they were partial owners of that plane
 
 Anchored Artifacts: A-3173.1
-Mentions: N-835, N-901, N-3
+Mentions: N-834, N-900, N-3
 Related Nodes: N-10849, N-10012
 Supports: C-2003
 Tags: relevance:core
@@ -1639,7 +1639,7 @@ Claim: In the clip the host plays, Bobby Sausalito says there is a reason Charli
 Transcript Snippet: So, there's a reason Charlie called him his secret weapon.
 
 Anchored Artifacts: A-2406.1
-Mentions: N-898, N-1, N-159
+Mentions: N-897, N-1, N-159
 Tags: relevance:context
 Investigative Direction: Find any Kirk statement in which he called Neff a secret weapon, with date and context.
 
@@ -1654,7 +1654,7 @@ Claim: In the clip the host plays, Sausalito predicts that Boreing wants to cont
 Transcript Snippet: Jeremy wants to get paid by Turning Point.
 
 Anchored Artifacts: A-2406.1
-Mentions: N-898, N-366
+Mentions: N-897, N-366
 Related Nodes: N-10900
 Tags: relevance:context
 Investigative Direction: Seek any contract, sponsorship or payment record between Boreing's company and Turning Point USA.
@@ -1670,7 +1670,7 @@ Claim: The host says that the only thing Sausalito got wrong is that Boreing is 
 Transcript Snippet: The only thing that he got wrong in that assessment is that he's not doing it for money.
 
 Anchored Artifacts: A-2406.1
-Mentions: N-898, N-366, N-3
+Mentions: N-897, N-366, N-3
 Related Nodes: N-10416
 Contradicts: C-13420
 Tags: relevance:tangential
@@ -1829,7 +1829,7 @@ Claim: The host says GOP figures attacked Thomas Massie and got him out of there
 Transcript Snippet: You attack Thomas Massie. Got him out of there.
 
 Anchored Artifacts: 
-Mentions: N-580, N-3
+Mentions: N-579, N-3
 Related Nodes: N-11316
 Tags: relevance:tangential
 Investigative Direction: Check Massie's primary result and outside spending against him as documented in FEC filings.

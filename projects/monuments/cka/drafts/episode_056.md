@@ -90,7 +90,7 @@ Confidence Level: Medium (host characterizes filing as allegations)
 Video Timestamp: 00:18:40
 Confidence Level: Medium
 
-*Related: C-5021, N-800, N-10410*
+*Related: C-5021, N-799, N-10410*
 
 **A-1621** Mind War Book Reference Bundle
 
@@ -99,7 +99,7 @@ Confidence Level: Medium
 Video Timestamp: 00:21:42
 Confidence Level: Medium
 
-*Related: C-5025, N-800, N-449, N-10410*
+*Related: C-5025, N-799, N-449, N-10410*
 
 **A-1622** Michael Aquino Interview / Background Bundle
 
@@ -309,7 +309,7 @@ Investigative Pressure: Medium
 
 *Related: A-1619.1, C-5017, N-446, N-10409*
 
-**N-800** Paul Vallely
+**N-799** Paul Vallely
 
 Turning Point USA board member; former military commander of the 7th Psychological Operations Group; co-author of *Mind War* (1980) with Michael Aquino.
 
@@ -329,7 +329,7 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1621.1, A-1622.1, A-1622.2, A-1623.1, A-1623.2, C-5025, C-5028, C-5029, C-5033, C-5034, N-800, N-10410*
+*Related: A-1621.1, A-1622.1, A-1622.2, A-1623.1, A-1623.2, C-5025, C-5028, C-5029, C-5033, C-5034, N-799, N-10410*
 
 **N-450** Greg Laurie
 
@@ -428,7 +428,7 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1620.1, A-1621.1, A-1622.1, A-1622.2, A-1623.1, A-1623.2, C-5021, C-5025, C-5028, C-5029, C-5033, C-5034, N-800, N-449*
+*Related: A-1620.1, A-1621.1, A-1622.1, A-1622.2, A-1623.1, A-1623.2, C-5021, C-5025, C-5028, C-5029, C-5033, C-5034, N-799, N-449*
 
 **N-10411** Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster
 
@@ -827,7 +827,7 @@ Claim Timestamp: 00:18:40
 Claim: The host identifies Paul Vallely as a Turning Point USA board member, with a military background as commander of the 7th Psychological Operations Group and two Vietnam combat tours.
 
 Anchored Artifacts: A-1620.1
-Mentions: N-800
+Mentions: N-799
 Related Nodes: N-10410
 Investigative Direction: Verify TPUSA board membership via official TPUSA disclosures; cross-check military service record.
 
@@ -838,7 +838,7 @@ Claim Timestamp: 00:21:13
 Claim: The host says Paul Vallely and Major Michael Aquino co-authored the book *Mind War* in 1980.
 
 Anchored Artifacts: A-1621.1
-Mentions: N-800, N-449
+Mentions: N-799, N-449
 Related Nodes: N-10410
 Investigative Direction: Obtain bibliographic record (publisher, ISBN); verify authorship.
 
@@ -1474,7 +1474,7 @@ Claim: The host says Paul Vallely collaborated with a major working under him, M
 Transcript Snippet: he collaborated with a major that was working under him.
 
 Anchored Artifacts: A-1621.1
-Mentions: N-800, N-449
+Mentions: N-799, N-449
 Related Nodes: N-10410
 Tags: relevance:context
 Investigative Direction: Check Army records and the foreword or biography in Mind War for Aquino's and Vallely's units and roles.
@@ -1490,7 +1490,7 @@ Claim: The host says that besides being an intelligence officer and psychologica
 Transcript Snippet: Aside from being an intelligence officer and an expert of psychological warfare, just like Paul Vallely, uh, doing this on behalf of our military, he's also an open Satanist.
 
 Anchored Artifacts: A-1621.1
-Mentions: N-449, N-800
+Mentions: N-449, N-799
 Related Nodes: N-10410
 Tags: relevance:context
 Investigative Direction: Cross-check Aquino's published biography and Army service record.
@@ -2130,7 +2130,7 @@ Confidence: high
 - **C-4995** – *Claim failed anchor test for this episode*: Plane SUBTU timeline claim references host's "master timeline" previously shown in earlier episodes; not artifact-anchored within this episode. Inscribed with low confidence and flag.
 - **N-305** Wed Mahmoud – *Name uncertainty*: Host spells name phonetically as "Wed Mahmoud / Wed Mahmoud / Wed Mahmoud" across passages; preserve as "Wed Mahmoud" with optional flag.
 - **N-451** Paul Havsgaard – *Name uncertainty*: Host spells surname both as "Havsgaard" and "Havsgaard" within the same passage; flag for verification against court filings.
-- **N-800** Paul Vallely – *Name uncertainty*: Host spells name both as "Vali" and "Paul Vallely"; flag for verification.
+- **N-799** Paul Vallely – *Name uncertainty*: Host spells name both as "Vali" and "Paul Vallely"; flag for verification.
 
 ---
 

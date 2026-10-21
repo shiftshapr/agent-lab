@@ -1372,8 +1372,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-752",
-      "ref": "N-752",
+      "@id": "N-751",
+      "ref": "N-751",
       "name": "Astrid Tuminez",
       "type": "person",
       "description": "Astrid Tuminez; former UVU president who allegedly denied extra officers.",
@@ -1390,8 +1390,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-833",
-      "ref": "N-833",
+      "@id": "N-832",
+      "ref": "N-832",
       "name": "Macklemore",
       "type": "person",
       "description": "Macklemore; mentioned in the Sheeran comment reply.",
@@ -1407,8 +1407,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-834",
-      "ref": "N-834",
+      "@id": "N-833",
+      "ref": "N-833",
       "name": "Ed Sheeran",
       "type": "person",
       "description": "Ed Sheeran; mentioned in the comment reply.",
@@ -1424,8 +1424,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-946",
-      "ref": "N-946",
+      "@id": "N-945",
+      "ref": "N-945",
       "name": "Zack Costello",
       "type": "person",
       "description": "First named by the host at 00:40:52 in episode 153 as the YouTuber who compared Robinson's finger posture across the two clips. The transcript spells him Costello, Castello, Cassell and Zack Costello.",
@@ -1442,8 +1442,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-947",
-      "ref": "N-947",
+      "@id": "N-946",
+      "ref": "N-946",
       "name": "Jim Spencer",
       "type": "person",
       "description": "First named by the host at 00:48:11 in episode 153 as the founder of Scripps News who teaches digital media at UT Austin.",
@@ -1459,8 +1459,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-948",
-      "ref": "N-948",
+      "@id": "N-947",
+      "ref": "N-947",
       "name": "Rodney Stark",
       "type": "person",
       "description": "First named by the host at 01:04:14 in episode 153 as the author of Bearing False Witness, introduced to her by Charlie Kirk.",
@@ -1533,7 +1533,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-271",
-        "N-752"
+        "N-751"
       ]
     },
     {
@@ -1571,7 +1571,7 @@
       "claim_timestamp": "00:04:55",
       "investigative_direction": "Retrieve Tuminez's original emailed statement to confirm exact wording.",
       "mentions_person_refs": [
-        "N-752"
+        "N-751"
       ]
     },
     {
@@ -1721,7 +1721,7 @@
       "investigative_direction": "Obtain UVU PD internal communications and presidential approval logs from September 2025.",
       "mentions_person_refs": [
         "N-271",
-        "N-752"
+        "N-751"
       ]
     },
     {
@@ -1816,7 +1816,7 @@
       "claim_timestamp": "00:48:11",
       "investigative_direction": "Confirm corporate registration records for Scripps News and Newsy's corporate history.",
       "mentions_person_refs": [
-        "N-947"
+        "N-946"
       ]
     },
     {
@@ -1835,7 +1835,7 @@
       "claim_timestamp": "00:48:11",
       "investigative_direction": "Verify Spencer's UT Austin faculty page and Nelda Buckman / Buckman Center affiliation.",
       "mentions_person_refs": [
-        "N-947"
+        "N-946"
       ]
     },
     {
@@ -2599,7 +2599,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-271",
-        "N-752"
+        "N-751"
       ]
     },
     {
@@ -2626,7 +2626,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-752"
+        "N-751"
       ]
     },
     {
@@ -3120,7 +3120,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-40",
-        "N-946"
+        "N-945"
       ]
     },
     {
@@ -3143,7 +3143,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-40",
-        "N-946"
+        "N-945"
       ]
     },
     {
@@ -3490,7 +3490,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-947",
+        "N-946",
         "N-460"
       ]
     },
@@ -3646,8 +3646,8 @@
       "transcript_snippet": "The Perisio lobby, they just operate like termites.",
       "mentions_person_refs": [
         "N-3",
-        "N-833",
-        "N-834"
+        "N-832",
+        "N-833"
       ]
     },
     {
@@ -3969,7 +3969,7 @@
       "transcript_snippet": "we are reading bearing false witness and that is by Rodney Stark and uh actually this author was introduced to me by Charlie Kirk.",
       "mentions_person_refs": [
         "N-3",
-        "N-948",
+        "N-947",
         "N-1"
       ]
     }

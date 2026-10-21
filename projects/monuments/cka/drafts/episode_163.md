@@ -12,8 +12,8 @@
 - **Model Version**: claude-manual-extract-seq163
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (catchup-2026-10-19): N-953, N-956, N-11419, N-11420, N-11421
-  - Reused Nodes Appearing: N-955, N-954, N-1, N-2, N-3, N-4, N-5, N-7, N-10, N-17, N-58, N-146, N-159, N-190, N-224, N-266, N-270, N-271, N-277, N-341, N-367, N-487, N-492, N-504, N-595, N-897, N-10000, N-10198, N-10272, N-10338, N-10537, N-10651, N-10681, N-10683, N-10694, N-10715, N-10730, N-10737, N-10765, N-10821, N-10839, N-10840, N-10874, N-10881, N-10886, N-11009, N-11208, N-11218, N-11233, N-11263, N-11310, N-11321, N-11356
+  - Tip-minted Nodes (catchup-2026-10-19): N-951, N-954, N-11419, N-11420, N-11421
+  - Reused Nodes Appearing: N-953, N-952, N-1, N-2, N-3, N-4, N-5, N-7, N-10, N-17, N-58, N-146, N-159, N-190, N-224, N-266, N-270, N-271, N-277, N-341, N-367, N-487, N-492, N-504, N-594, N-896, N-10000, N-10198, N-10272, N-10338, N-10537, N-10651, N-10681, N-10683, N-10694, N-10715, N-10730, N-10737, N-10765, N-10821, N-10839, N-10840, N-10874, N-10881, N-10886, N-11009, N-11208, N-11218, N-11233, N-11263, N-11310, N-11321, N-11356
   - Claim Range: C-14056–C-14142
   - (see registers)
 
@@ -55,7 +55,7 @@ Video Timestamp: 00:06:50
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14066, C-14067, C-14068, N-953, N-954, N-492, N-367, N-11321*
+*Related: C-14066, C-14067, C-14068, N-951, N-952, N-492, N-367, N-11321*
 
 **A-3373.2** Map of the security team the host asks her producer to pull up, showing Blake Gibson and Blake Harreff
 
@@ -64,7 +64,7 @@ Video Timestamp: 00:18:55
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14087, N-955, N-897, N-11321*
+*Related: C-14087, N-953, N-896, N-11321*
 
 ---
 
@@ -95,7 +95,7 @@ Video Timestamp: 00:12:50
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14079, C-14080, C-14081, N-190, N-504, N-955, N-953, N-367, N-159, N-897, N-11419*
+*Related: C-14079, C-14080, C-14081, N-190, N-504, N-953, N-951, N-367, N-159, N-896, N-11419*
 
 **A-3374.4** UVU videos of the group walking from behind the Hall of Flags across the employee lot to the admissions lot tree line
 
@@ -104,7 +104,7 @@ Video Timestamp: 00:14:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14082, N-504, N-190, N-367, N-159, N-953*
+*Related: C-14082, N-504, N-190, N-367, N-159, N-951*
 
 **A-3374.5** UVU video of the group splitting into two white vehicles that pull away
 
@@ -122,7 +122,7 @@ Video Timestamp: 00:44:20
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14132, C-14133, N-190, N-159, N-367, N-953, N-897, N-955, N-11419*
+*Related: C-14132, C-14133, N-190, N-159, N-367, N-951, N-896, N-953, N-11419*
 
 ---
 
@@ -250,7 +250,7 @@ Video Timestamp: 00:24:26
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14099, C-14141, N-953*
+*Related: C-14099, C-14141, N-951*
 
 **A-3380.3** Host verbal request for confirmation of the fire captain who performed CPR at Timpanogos (more tips@candaceowens.com)
 
@@ -406,38 +406,38 @@ Assistant who walked with the group and rode in the first white vehicle; host sa
 
 *Related: C-14074, C-14081, C-14082, C-14092, C-14094*
 
-**N-595** Druski
+**N-594** Druski
 
 Host says Erika Kirk forgave the killer but not Druski.
 
 *Related: C-14138*
 
-**N-897** Blake Harreff
+**N-896** Blake Harreff
 
 Security member (transcribed Harris, Harref, Haruff, Haroff) who rode in the second white vehicle and later returned in scrubs.
 
 *Related: C-14076, C-14081, C-14087, C-14090*
 
-**N-953** Christopher Rhoades
+**N-951** Christopher Rhoades
 
 First named by the host at 00:06:55 in episode 163 (as "Christopher", Charlie's driver), and identified in full at 00:23:19; the host spells the surname r-h-o-a-d-e-s. Not the same-named member of TPUSA's FRG security team.
 Aliases (transcript): Christopher Rhoades; Christopher Rhoades; Chris Rhoades.
 
 *Related: C-14067, C-14076, C-14091, C-14092, C-14095, C-14096, C-14097, C-14098, C-14099, C-14141*
 
-**N-954** Alex Faria
+**N-952** Alex Faria
 
 First named by the host at 00:06:55 in episode 163 as the driver of the Jeep Wagoneer security vehicle.
 
 *Related: C-14067*
 
-**N-955** Blake Gibson
+**N-953** Blake Gibson
 
 First named by the host at 00:11:07 in episode 163 as a security member who rode in the second white vehicle and later returned in scrubs.
 
 *Related: C-14076, C-14079, C-14081, C-14087, C-14090*
 
-**N-956** La Fieta Assisi
+**N-954** La Fieta Assisi
 
 First named by the host at 00:07:45 in episode 163 as the ICAC officer who took Mikey McCoy's statement; the host says she goes by "Fia" and has since left her position. Spelling unconfirmed.
 Aliases (transcript): Fia Assisi.
@@ -818,7 +818,7 @@ Claim: Per the map of cars the host shows, the Yukon Denali that left was driven
 Transcript Snippet: Now we know that that Yukon Denali is gone, which was being driven by Christopher, but we have a Jeep Wagoneer, which was a security vehicle that was being driven by Alex Faria
 
 Anchored Artifacts: A-3373.1
-Mentions: N-953, N-954
+Mentions: N-951, N-952
 Related Nodes: N-11321
 Tags: relevance:core
 Investigative Direction: Rental and driver assignment records for the security vehicles.
@@ -867,7 +867,7 @@ Claim: The host says the officer who took Mikey McCoy's statement has since left
 Transcript Snippet: By the way, I can tell you this that woman, that officer, has since left her position, by the way. Her name is Fia Assisi.
 
 Anchored Artifacts:
-Mentions: N-956, N-190
+Mentions: N-954, N-190
 Related Nodes: N-11263
 Tags: relevance:core
 Investigative Direction: Utah ICAC Task Force personnel roster and separation records.
@@ -963,7 +963,7 @@ Claim: The host says Blake Neff, Danny Philip and Nate Walker, with security mem
 Transcript Snippet: we find our characters Blake Neff, Danny Philip, and Nate Walker and security members Blake Harreff, Blake Gibson, and Charlie's driver, who we have identified as Christopher Rhoades
 
 Anchored Artifacts: A-3374.3
-Mentions: N-159, N-367, N-504, N-897, N-955, N-953
+Mentions: N-159, N-367, N-504, N-896, N-953, N-951
 Related Nodes: N-11321
 Tags: relevance:core
 Investigative Direction: UVU footage of the employee lot near 1:00 p.m.
@@ -1011,7 +1011,7 @@ Claim: Per the labeled slideshow the host shows, Mikey McCoy is in the frame wit
 Transcript Snippet: So, here what you have here is there's Mikey McCoy, you have Nate walking toward him, and you also have Blake Gibson.
 
 Anchored Artifacts: A-3374.3
-Mentions: N-190, N-504, N-955, N-953
+Mentions: N-190, N-504, N-953, N-951
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: Original footage frames behind the slideshow labels.
@@ -1044,7 +1044,7 @@ Claim: The host says the group divided into two white vehicles: the first with M
 Transcript Snippet: Vehicle one, you've got Mikey an officer Blake Neff, Nate Walker, and Danny Philip. And in vehicle two, you have the security team.
 
 Anchored Artifacts: A-3374.3
-Mentions: N-190, N-159, N-504, N-367, N-955, N-897, N-953
+Mentions: N-190, N-159, N-504, N-367, N-953, N-896, N-951
 Related Nodes: N-11419
 Tags: relevance:core
 Investigative Direction: Identity of the officers driving each white vehicle.
@@ -1060,7 +1060,7 @@ Claim: The host says the second video shows Nate Walker run up to Mikey McCoy, w
 Transcript Snippet: You're going to see Nate run up to Mikey. Mikey puts his arm around him.
 
 Anchored Artifacts: A-3374.4
-Mentions: N-504, N-190, N-367, N-159, N-953
+Mentions: N-504, N-190, N-367, N-159, N-951
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: Original UVU employee-lot footage.
@@ -1141,7 +1141,7 @@ Claim: The host asks where the second group went, saying security members Blake 
 Transcript Snippet: We've got missing security people that got into the separate white vehicle.
 
 Anchored Artifacts: A-3373.2
-Mentions: N-955, N-897, N-953
+Mentions: N-953, N-896, N-951
 Related Nodes: N-11419
 Tags: relevance:core
 Investigative Direction: Security members' own accounts and phone location data after 1:00 p.m.
@@ -1189,7 +1189,7 @@ Claim: The host says Blake Harreff and Blake Gibson came back wearing scrubs tha
 Transcript Snippet: Remember Blake Harreff um and Blake Gibson are going to come back wearing scrubs that evening.
 
 Anchored Artifacts:
-Mentions: N-897, N-955
+Mentions: N-896, N-953
 Related Nodes: N-11310
 Supports: C-12881
 Tags: relevance:core
@@ -1206,7 +1206,7 @@ Claim: The host says Charlie's driver Christopher Rhoades was not wearing scrubs
 Transcript Snippet: But Christopher Rhoades, Charlie's driver, will not be wearing scrubs.
 
 Anchored Artifacts:
-Mentions: N-953
+Mentions: N-951
 Related Nodes: N-11310
 Tags: relevance:core
 Investigative Direction: Evening UVU footage of Christopher Rhoades.
@@ -1222,7 +1222,7 @@ Claim: The host says Christopher Rhoades is the one who went up to the rooftop w
 Transcript Snippet: Christopher Rhoades, as we know, is the one who mysteriously went up to the rooftop with Nate Walker just before the shot um rang out
 
 Anchored Artifacts:
-Mentions: N-953, N-504
+Mentions: N-951, N-504
 Related Nodes: N-10821
 Supports: C-12672
 Tags: relevance:core
@@ -1271,7 +1271,7 @@ Claim: The host says her team made a positive identification of Charlie's driver
 Transcript Snippet: we did make a positive ID on Charlie's driver, Christopher Rhoades, spelled with an A, r h o a d e s.
 
 Anchored Artifacts:
-Mentions: N-953, N-1
+Mentions: N-951, N-1
 Related Nodes: N-11321
 Tags: relevance:core
 Investigative Direction: Rental agreements and security-contractor rosters for September 10.
@@ -1287,7 +1287,7 @@ Claim: The host says another security member with the same name works for Turnin
 Transcript Snippet: there is another security member by the exact same name that works for the new security team at Turning Point USA, FRG security.
 
 Anchored Artifacts:
-Mentions: N-953
+Mentions: N-951
 Related Nodes: N-10000, N-11421
 Tags: relevance:core
 Investigative Direction: FRG security staff listing.
@@ -1303,7 +1303,7 @@ Claim: The host says that from what her team gathers, Christopher Rhoades appear
 Transcript Snippet: he appears to be from Texas and he is working with Brian Harpole.
 
 Anchored Artifacts:
-Mentions: N-953, N-266
+Mentions: N-951, N-266
 Related Nodes: N-11321
 Tags: relevance:core
 Investigative Direction: Texas private-security licensing records and Harpole's company rosters.
@@ -1319,7 +1319,7 @@ Claim: The host says the driver was the first person the show has ever had so mu
 Transcript Snippet: that was the very first person that we've ever tried to to identify on the show with so much difficulty.
 
 Anchored Artifacts:
-Mentions: N-953
+Mentions: N-951
 Related Nodes: N-11321
 Tags: relevance:core
 Investigative Direction: Public records searches for Christopher Rhoades in private security.
@@ -1335,7 +1335,7 @@ Claim: The host asks anyone who can connect her with Christopher Rhoades to reac
 Transcript Snippet: If you can establish some connection between me and him, please reach out. I'd love to get answers as we continue to investigate this. More tips at candaceowens.com.
 
 Anchored Artifacts: A-3380.2
-Mentions: N-953, N-3
+Mentions: N-951, N-3
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: Tip responses.
@@ -1870,7 +1870,7 @@ Claim: Showing a still, the host says the car on the left carried Mikey McCoy, B
 Transcript Snippet: that one on the left-hand side is going to be the Mikey McCoys car, Blake Neff, and Danny Philip to the hospital escorted by an officer
 
 Anchored Artifacts: A-3374.6
-Mentions: N-190, N-159, N-367, N-953, N-897, N-955
+Mentions: N-190, N-159, N-367, N-951, N-896, N-953
 Related Nodes: N-11419
 Tags: relevance:core
 Investigative Direction: Roundabout footage and plate lookups.
@@ -1966,7 +1966,7 @@ Claim: The host says it is treated as normal that Erika Kirk took over the compa
 Transcript Snippet: It's normal that she forgave the killer and can't forgive Druski.
 
 Anchored Artifacts:
-Mentions: N-2, N-595
+Mentions: N-2, N-594
 Related Nodes: N-11356
 Tags: relevance:context
 Investigative Direction: Erika Kirk's public statements on the killer and on Druski.
@@ -2014,7 +2014,7 @@ Claim: The host repeats that she would like to learn more about Christopher Rhoa
 Transcript Snippet: I would love to learn a little bit more about Christopher Rhoades and to establish connection.
 
 Anchored Artifacts: A-3380.2
-Mentions: N-953
+Mentions: N-951
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: Tip responses.
@@ -2204,11 +2204,11 @@ Confidence: high
 - MISTRANSCRIPTION: "Danny Philip" / "Danny Philip" -> "Danny Philip" (00:02:40, 00:07:06) source: https://www.youtube.com/watch?v=UAdBEXs7nNc&t=426s
 - MISTRANSCRIPTION: "Caleb Chilcutt" -> "Caleb Chilcutt" (00:46:23) source: https://www.youtube.com/watch?v=UAdBEXs7nNc&t=2783s
 - MISTRANSCRIPTION: "your Kolbe" -> "Andrew Kolvet" (00:50:08, in a viewer comment; not tagged as a mention) source: https://www.youtube.com/watch?v=UAdBEXs7nNc&t=3008s
-- Unresolved name: "Fia Assisi" / "La Fieta Assisi" (00:07:37), the ICAC officer; spelling kept as transcribed (N-956); a web search found no confirmation.
-- Unresolved name: "Alex Faria" (00:06:35) kept as transcribed (N-954); the transcript reads "Alex Faria, yeah, flood", possibly a garbled "and Dan Flood", so the vehicle–driver pairing is Medium confidence.
+- Unresolved name: "Fia Assisi" / "La Fieta Assisi" (00:07:37), the ICAC officer; spelling kept as transcribed (N-954); a web search found no confirmation.
+- Unresolved name: "Alex Faria" (00:06:35) kept as transcribed (N-952); the transcript reads "Alex Faria, yeah, flood", possibly a garbled "and Dan Flood", so the vehicle–driver pairing is Medium confidence.
 - Host misspeak: at 00:09:59 she says "Danny McCoy" and corrects herself to Danny Philip; at 00:46:23 she says "president of UVM" while the clip says Utah Valley University.
 - Unresolved: "Mice to Down" (00:47:31, the Theo Von episode title) and "Krystandis cups" (00:47:01, viewer comment) left as transcribed.
-- "Blake Gibson" (N-955) and "Alex Faria" (N-954) appear in earlier episodes' claims (C-12891, C-12657) without person nodes; minted here as placeholders; integrator should check for a later-minted id.
+- "Blake Gibson" (N-953) and "Alex Faria" (N-952) appear in earlier episodes' claims (C-12891, C-12657) without person nodes; minted here as placeholders; integrator should check for a later-minted id.
 - Rick in Turek's book and Harpole's clip is mapped to N-487 Rick Cutler, Justin to N-492 Justin Davis, Dan to N-270 Dan Flood and Brian to N-266 Brian Harpole, following earlier episodes' identifications.
 - Not shown: Blake Neff's X space and his X post calling the host illiterate (verbal reference only, C-14056, C-14057); Victor Marx's post (C-14126); the necklace tip (C-14129).
 - Theo Von / Tim Dillon clip (00:48:30) played as entertainment; no claim admitted.

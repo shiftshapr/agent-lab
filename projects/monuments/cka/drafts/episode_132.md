@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: 0c6891ad36263abc11507dbd0ee8c311c57724a7637f1dad75f8f5da6bc40c1e
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-820, N-821, N-11205, N-11206
+  - Tip-minted Nodes (supplement_2026-10c): N-819, N-820, N-11205, N-11206
   - Claim Range: C-11354–C-11445
-  - Reused Nodes Appearing: N-10751, N-5, N-7, N-27, N-36, N-40, N-82, N-176, N-190, N-266, N-452, N-493, N-494, N-636, N-710, N-738, N-799, N-10000, N-10003, N-10004, N-10006, N-10012, N-10021, N-10022, N-10070, N-10075, N-10094, N-10139, N-10369, N-10385, N-10398, N-10483, N-10537, N-10641, N-10692, N-10705, N-10729, N-10740, N-10743, N-10944, N-11053, N-11149, N-11202, N-11203, N-11204
+  - Reused Nodes Appearing: N-10751, N-5, N-7, N-27, N-36, N-40, N-82, N-176, N-190, N-266, N-452, N-493, N-494, N-635, N-709, N-737, N-798, N-10000, N-10003, N-10004, N-10006, N-10012, N-10021, N-10022, N-10070, N-10075, N-10094, N-10139, N-10369, N-10385, N-10398, N-10483, N-10537, N-10641, N-10692, N-10705, N-10729, N-10740, N-10743, N-10944, N-11053, N-11149, N-11202, N-11203, N-11204
  - New Nodes Introduced: N-10749, N-10750, N-10751, N-10752, N-10753
  - Hole-minted Nodes (wave3): N-526
  - Reused Nodes Appearing: none (Wave 2: local ids removed), N-487, N-492
@@ -641,7 +641,7 @@ Frank, TPUSA in-house lawyer; named in the host's White House tip.
 
 ---
 
-**N-636** Kouri Richins
+**N-635** Kouri Richins
 
 Kouri Richins; mentioned in the host's remark about Utah wives.
 
@@ -649,7 +649,7 @@ Kouri Richins; mentioned in the host's remark about Utah wives.
 
 ---
 
-**N-710** Volodymyr Zelensky
+**N-709** Volodymyr Zelensky
 
 Volodymyr Zelensky; mentioned alongside Netanyahu's trip.
 
@@ -657,7 +657,7 @@ Volodymyr Zelensky; mentioned alongside Netanyahu's trip.
 
 ---
 
-**N-738** Michael Jackson
+**N-737** Michael Jackson
 
 Michael Jackson; named in the host's remark about psychological pressure.
 
@@ -865,7 +865,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-799** Harris Faulkner
+**N-798** Harris Faulkner
 
 Fox News host who interviewed Erika Kirk about the burial location; first named by the host at 00:12:01 in episode 132.
 
@@ -873,7 +873,7 @@ Fox News host who interviewed Erika Kirk about the burial location; first named 
 
 ---
 
-**N-820** Vivian Kubrick
+**N-819** Vivian Kubrick
 
 Daughter of Stanley Kubrick whom the host says criticised the Make Heaven Crowded event on X; first named by the host at 00:26:09 in episode 132.
 
@@ -881,7 +881,7 @@ Daughter of Stanley Kubrick whom the host says criticised the Make Heaven Crowde
 
 ---
 
-**N-821** Devonte West
+**N-820** Devonte West
 
 Instagram account holder whose clip mocking Christian speak the host plays; first named by the host at 00:30:12 in episode 132 (spelled Devonte West once).
 
@@ -976,7 +976,7 @@ Claim Timestamp: 00:13:20
 Claim: Erika Kirk, in a Fox News interview with Harris Faulkner, publicly requested that the location where Charlie Kirk is laid to rest remain a single sacred exception to the public disclosure she said applied to everything else.
 
 Anchored Artifacts: A-2191.1
-Mentions: N-1, N-2, N-799
+Mentions: N-1, N-2, N-798
 Related Nodes: N-10751
 Investigative Direction: Confirm the interview air date, obtain the full transcript, and verify the exact exchange against subsequent statements about a Turning Point USA memorial.
 
@@ -1031,7 +1031,7 @@ Claim Timestamp: 00:30:59
 Claim: Devonte West, via an Instagram video, posted content mocking contemporary Christian pastoral rhetoric and its repetition patterns, presented in the episode as a parallel commentary on Erika Kirk's tour speech style.
 
 Anchored Artifacts: A-2195.1
-Mentions: N-821, N-2
+Mentions: N-820, N-2
 Related Nodes:
 Investigative Direction: Verify the original Instagram post remains accessible and identify the target of the mockery if specified.
 
@@ -1516,7 +1516,7 @@ Claim: The host says that on her book tour Erika Kirk was set up by Harris Faulk
 Transcript Snippet: a book tour where Harris Faulkner on Fox News set her up with a question about how dark it would be.
 
 Anchored Artifacts: A-2191.1
-Mentions: N-799, N-2, N-1
+Mentions: N-798, N-2, N-1
 Related Nodes: N-10006, N-10751
 Tags: relevance:core
 Investigative Direction: Obtain the full Fox News segment and any pre-interview arrangements.
@@ -1874,7 +1874,7 @@ Claim: The host says Vivian Kubrick, Stanley Kubrick's daughter, posted on X tha
 Transcript Snippet: I was very happy to see Stanley Kubrick's daughter Vivian Kubrick actually. She's been amazing on X and she just took this event and was like no one knows what these people are saying.
 
 Anchored Artifacts: 
-Mentions: N-820, N-3
+Mentions: N-819, N-3
 Related Nodes: N-11203
 Tags: relevance:tangential
 Investigative Direction: Retrieve Vivian Kubrick's X post.
@@ -1906,7 +1906,7 @@ Claim: The host says the Instagram account holder Devonte West mocks the new cul
 Transcript Snippet: The account holder on Instagram is Devonte West and he just mocks broadly speaking. So this is not about Erika.
 
 Anchored Artifacts: A-2195.1
-Mentions: N-821, N-2
+Mentions: N-820, N-2
 Tags: relevance:tangential
 Investigative Direction: Retrieve the Instagram post and confirm the account holder's name.
 
@@ -2082,7 +2082,7 @@ Claim: The host says Netanyahu is saying he is flying in for the same reason Zel
 Transcript Snippet: Bibi Netanyahu is saying that he is flying in for the same reason Zelensky is flying in.
 
 Anchored Artifacts: 
-Mentions: N-36, N-710, N-5, N-3
+Mentions: N-36, N-709, N-5, N-3
 Related Nodes: N-10752
 Tags: relevance:tangential
 Investigative Direction: Check each leader's announced purpose and meetings.
@@ -2147,7 +2147,7 @@ Claim: The host says "they" try to psychologically break people to drive them cr
 Transcript Snippet: They they try to psychologically break you. That's what they did to Michael Jackson. It's what they did to Kanye West.
 
 Anchored Artifacts: 
-Mentions: N-738, N-27, N-3
+Mentions: N-737, N-27, N-3
 Tags: relevance:tangential
 Investigative Direction: No checkable record; recorded as stated.
 
@@ -2195,7 +2195,7 @@ Claim: The host refers to "that Kouri Richins girl who killed her husband" as an
 Transcript Snippet: You know, we had that Kouri Richins girl who killed her husband. And people have questions.
 
 Anchored Artifacts: 
-Mentions: N-636, N-3
+Mentions: N-635, N-3
 Related Nodes: N-10944
 Tags: relevance:tangential
 Investigative Direction: Consult the court record in the Kouri Richins case for the current legal status.

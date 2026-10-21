@@ -960,8 +960,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-604",
-      "ref": "N-604",
+      "@id": "N-603",
+      "ref": "N-603",
       "name": "Caleb Robinson",
       "type": "person",
       "description": "Daily Wire chief executive; first named by the host at 00:23:21 in episode 90 (ADF board seat).",
@@ -1255,8 +1255,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-773",
-      "ref": "N-773",
+      "@id": "N-772",
+      "ref": "N-772",
       "name": "Paula White",
       "type": "person",
       "description": "Named in the episode; cited by new claims.",
@@ -1673,8 +1673,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-811",
-      "ref": "N-811",
+      "@id": "N-810",
+      "ref": "N-810",
       "name": "Mike Smith",
       "type": "person",
       "description": "Utah County Sheriff; first named by the host at 00:38:30 in episode 90 (Brooksby's call about Mike Mitchell).",
@@ -1690,8 +1690,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-812",
-      "ref": "N-812",
+      "@id": "N-811",
+      "ref": "N-811",
       "name": "Bishop Barron",
       "type": "person",
       "description": "Bishop; first named by the host at 00:55:46 in episode 90 (stood beside Paula White during the prayer). Transcript spelling: Bishop Barron.",
@@ -1838,7 +1838,7 @@
       "claim_timestamp": "00:23:21",
       "investigative_direction": "Cross-check ADF public filings (Form 990, board roster) for Caleb Robinson's name and tenure.",
       "mentions_person_refs": [
-        "N-604"
+        "N-603"
       ]
     },
     {
@@ -2545,7 +2545,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-97",
-        "N-604",
+        "N-603",
         "N-163",
         "N-14",
         "N-1"
@@ -2675,7 +2675,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-97",
-        "N-604"
+        "N-603"
       ]
     },
     {
@@ -3003,7 +3003,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-272",
-        "N-811",
+        "N-810",
         "N-125"
       ]
     },
@@ -3375,7 +3375,7 @@
         "N-3",
         "N-60",
         "N-5",
-        "N-773"
+        "N-772"
       ]
     },
     {
@@ -3444,8 +3444,8 @@
       "transcript_snippet": "Bishop Barron standing beside Paula White during that prayer, and his excuse is why he was there.",
       "mentions_person_refs": [
         "N-3",
-        "N-812",
-        "N-773",
+        "N-811",
+        "N-772",
         "N-5"
       ]
     },

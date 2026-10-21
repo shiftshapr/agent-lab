@@ -403,9 +403,9 @@
             "C-7503"
           ],
           "related_nodes": [
-            "N-911",
+            "N-910",
             "N-69",
-            "N-912"
+            "N-911"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -1062,8 +1062,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-580",
-      "ref": "N-580",
+      "@id": "N-579",
+      "ref": "N-579",
       "name": "Thomas Massie",
       "type": "person",
       "description": "Thomas Massie; the host says he fought for the Epstein files release.",
@@ -1079,8 +1079,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-598",
-      "ref": "N-598",
+      "@id": "N-597",
+      "ref": "N-597",
       "name": "Katherine Locastro",
       "type": "person",
       "description": "Katherine LoCastro; Mikey McCoy's assistant who travelled to Utah in the party.",
@@ -1098,8 +1098,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-625",
-      "ref": "N-625",
+      "@id": "N-624",
+      "ref": "N-624",
       "name": "Vladimir Putin",
       "type": "person",
       "description": "Vladimir Putin; the host mocks the thread's claim that he is behind the campaign.",
@@ -1116,8 +1116,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-648",
-      "ref": "N-648",
+      "@id": "N-647",
+      "ref": "N-647",
       "name": "Alexander Dugin",
       "type": "person",
       "description": "Alexander Dugin; mentioned in the Wilkins thread per the host.",
@@ -1573,8 +1573,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-911",
-      "ref": "N-911",
+      "@id": "N-910",
+      "ref": "N-910",
       "name": "Michael Flynn",
       "type": "person",
       "description": "First named by the host as General Michael Flynn at 00:30:42 in episode 083. Retired general named as an anchor in the Wilkins thread and as a speaker at the Catholics for Catholics event.",
@@ -1593,8 +1593,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-912",
-      "ref": "N-912",
+      "@id": "N-911",
+      "ref": "N-911",
       "name": "Clay Clark",
       "type": "person",
       "description": "First named in a viewer comment at 00:50:53 in episode 083, as organizer of the Awaken America Tours with whom Flynn and Patel appeared.",
@@ -1822,7 +1822,7 @@
         "N-22",
         "N-212",
         "N-209",
-        "N-911"
+        "N-910"
       ]
     },
     {
@@ -1864,7 +1864,7 @@
       "investigative_direction": "Verify General Flynn's role as listed at Catholics for Catholics and the basis for the activation claim.",
       "mentions_person_refs": [
         "N-212",
-        "N-911"
+        "N-910"
       ]
     },
     {
@@ -2699,7 +2699,7 @@
       "investigative_direction": "Obtain the passenger manifest of the aircraft that carried Erika's party to Provo.",
       "transcript_snippet": "her name is Katherine LoCastro she was a part of the team that transported Erika to the airport on that day and she also went out to Utah",
       "mentions_person_refs": [
-        "N-598",
+        "N-597",
         "N-190",
         "N-2",
         "N-3"
@@ -2754,7 +2754,7 @@
         "C-5705"
       ],
       "mentions_person_refs": [
-        "N-598",
+        "N-597",
         "N-217",
         "N-190",
         "N-14",
@@ -2781,7 +2781,7 @@
       "investigative_direction": "Establish who held custody of the vehicle at the hospital and whether anyone was allowed inside it.",
       "transcript_snippet": "they sent Katherine who like I said sounds like she's quite innocent she's well liked I can say that at least to grab something from the car the car that Charlie bled out in bloodied car",
       "mentions_person_refs": [
-        "N-598",
+        "N-597",
         "N-217",
         "N-1",
         "N-3"
@@ -3278,7 +3278,7 @@
         "N-3",
         "N-22",
         "N-209",
-        "N-911"
+        "N-910"
       ]
     },
     {
@@ -3325,7 +3325,7 @@
       "investigative_direction": "Check the event program and recordings for who spoke and when.",
       "transcript_snippet": "General Michael Flynn spoke there. By the way, that's the first time that I've ever spoken to General Michael Flynn that I remember.",
       "mentions_person_refs": [
-        "N-911",
+        "N-910",
         "N-3"
       ]
     },
@@ -3446,7 +3446,7 @@
       "transcript_snippet": "When people are upset that Trump says are we still talking about the Epstein files and then basically Thomas Massie has to fight him tooth and nail alongside some others um to get the Epstein files",
       "mentions_person_refs": [
         "N-5",
-        "N-580",
+        "N-579",
         "N-3"
       ]
     },
@@ -3470,8 +3470,8 @@
       "transcript_snippet": "She also mentions his his philosopher um Alexander Dugin",
       "mentions_person_refs": [
         "N-212",
-        "N-625",
-        "N-648",
+        "N-624",
+        "N-647",
         "N-3"
       ]
     },
@@ -3612,10 +3612,10 @@
       "investigative_direction": "Check Awaken America Tour programs and Patel's appearances alongside Flynn and Clay Clark.",
       "transcript_snippet": "Pretty rich Wilkins is implicating General Flynn since he was exactly who brought Kash Patel into the Patriot movement through the Awaken America Tours with Clay Clark.",
       "mentions_person_refs": [
-        "N-911",
+        "N-910",
         "N-69",
         "N-212",
-        "N-912",
+        "N-911",
         "N-3"
       ]
     },

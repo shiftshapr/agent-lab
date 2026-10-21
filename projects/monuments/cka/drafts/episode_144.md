@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: adca755f11f97530ce6adde89de991d04818ffab651baee8be2f4e7f2c5d59fc
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-750, N-11070, N-11073
+  - Tip-minted Nodes (supplement_2026-10): N-749, N-11070, N-11073
   - Claim Range: C-12354–C-12447
-  - Reused Nodes Appearing: N-10810, N-10812, N-10813, N-3, N-4, N-27, N-30, N-31, N-40, N-54, N-97, N-101, N-190, N-10003, N-10043, N-10051, N-10100, N-10110, N-10162, N-10250, N-10337, N-10340, N-10346, N-10381, N-10386, N-10456, N-10774, N-749, N-11072, N-11071
+  - Reused Nodes Appearing: N-10810, N-10812, N-10813, N-3, N-4, N-27, N-30, N-31, N-40, N-54, N-97, N-101, N-190, N-10003, N-10043, N-10051, N-10100, N-10110, N-10162, N-10250, N-10337, N-10340, N-10346, N-10381, N-10386, N-10456, N-10774, N-748, N-11072, N-11071
  - New Nodes Introduced: N-10810, N-10811, N-10812, N-10813
- - Hole-minted Nodes (wave3): N-579
- - Reused Nodes Appearing: N-11, N-18, N-861
+ - Hole-minted Nodes (wave3): N-578
+ - Reused Nodes Appearing: N-11, N-18, N-860
  - (see registers)
 
 # Episode 144 Analysis
@@ -305,7 +305,7 @@ Confidence Level: Low
 
 ## IV. Node Register
 
-**N-579** Mark Bricker
+**N-578** Mark Bricker
 
 First named by the host at 00:18:29 in episode 144.
 
@@ -527,7 +527,7 @@ Recipient of Charlie's night-before text messages, per the host.
 
 ---
 
-**N-861** David Hull
+**N-860** David Hull
 
 Lead investigator whose preliminary hearing testimony the host cites.
 
@@ -647,7 +647,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-749** Allan Robertson
+**N-748** Allan Robertson
 
 First named by the host at 00:09:47 in episode 144. Person the host says was visiting from Utah State University, undercover among protesters, and therefore could not have told Terryl Farnsworth to get the footage.
 
@@ -655,7 +655,7 @@ First named by the host at 00:09:47 in episode 144. Person the host says was vis
 
 ---
 
-**N-750** Andrea Burkhart
+**N-749** Andrea Burkhart
 
 First named by a speaker on the Kolvet/Neff show at 00:29:09 in episode 144. Described as an apolitical person asked whether a defense would present exculpatory evidence at a preliminary hearing; spelled Birkhart in the transcript.
 
@@ -723,7 +723,7 @@ Claim Timestamp: 00:02:00–00:04:10
 Claim: The host says the episode footage shows Terryl Farnsworth displaying content on his laptop screen to Philip Goldsberry approximately 10 minutes after Charlie Kirk was hit.
 
 Anchored Artifacts: A-2301.2
-Mentions: N-261, N-1, N-686
+Mentions: N-261, N-1, N-685
 
 Related Nodes: N-10812
 
@@ -753,7 +753,7 @@ Claim Timestamp: 00:18:30–00:19:30
 Claim: The host says lead investigator David Hull, who she says did not receive the SD cards, informed the preliminary hearing of the chain of custody.
 
 Anchored Artifacts: A-2304.1
-Mentions: N-861
+Mentions: N-860
 
 Related Nodes: N-10810
 
@@ -1040,7 +1040,7 @@ Claim: The host says David Hull testified, as she believes he said, that the lea
 Transcript Snippet: who were on the scene, who arrived on the scene around 1:30, I believe he said.
 
 Anchored Artifacts: A-2304.1
-Mentions: N-861, N-3
+Mentions: N-860, N-3
 Related Nodes: N-10810
 Investigative Direction: Check the preliminary hearing transcript for Hull's stated arrival time.
 
@@ -1117,7 +1117,7 @@ Claim: The host says Allan Robertson can be ruled out as the one who told Terryl
 Transcript Snippet: Allan Robertson, we determined, was just visiting from Utah State University. He was undercover because he was there to check out the protesters ahead of the event.
 
 Anchored Artifacts: 
-Mentions: N-749, N-261, N-3
+Mentions: N-748, N-261, N-3
 Related Nodes: N-10774
 Supports: C-11702
 Investigative Direction: Confirm Robertson's role and location from USU police records and the host's earlier reporting.
@@ -1272,7 +1272,7 @@ Claim: The host says David Hull testified that on September 10 Sergeant Mark Bri
 Transcript Snippet: Sergeant Mark Bricker of the SBI was put in charge of gathering all of the surveillance on campus at UVU.
 
 Anchored Artifacts: A-2304.1
-Mentions: N-861, N-579, N-3
+Mentions: N-860, N-578, N-3
 Related Nodes: N-10810, N-10811
 Investigative Direction: Obtain the preliminary hearing transcript for Hull's chain-of-custody testimony on surveillance collection.
 
@@ -1303,7 +1303,7 @@ Claim: A speaker on the Kolvet/Neff show, apparently Kolvet, says Andrea Burkhar
 Transcript Snippet: If they had exculpatory evidence, whether it's the parents that actually, you know, think he's innocent or they have some steakhouse receipt, would they not present that at the preliminary hearing?
 
 Anchored Artifacts: A-2799.1
-Mentions: N-750, N-14
+Mentions: N-749, N-14
 Related Nodes: N-10381
 Investigative Direction: Ask Birkhart on record and compare with the defense's stated reasons for not presenting evidence at the hearing.
 

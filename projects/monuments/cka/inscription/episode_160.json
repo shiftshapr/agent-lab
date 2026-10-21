@@ -1760,8 +1760,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-833",
-      "ref": "N-833",
+      "@id": "N-832",
+      "ref": "N-832",
       "name": "Macklemore",
       "type": "person",
       "description": "First named by the host at 00:44:26 in episode 160 (spelled Macklemore in the transcript). Rapper the host says said Free Palestine on stage at the Gillette Stadium Ed Sheeran show.",
@@ -1777,8 +1777,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-834",
-      "ref": "N-834",
+      "@id": "N-833",
+      "ref": "N-833",
       "name": "Ed Sheeran",
       "type": "person",
       "description": "First named by the host at 00:44:26 in episode 160. Singer whose Gillette Stadium show Macklemore opened and whose attendance record the host says Zach Bryan broke.",
@@ -2117,8 +2117,8 @@
       "mentions_person_refs": [
         "N-177",
         "N-194",
-        "N-833",
-        "N-834"
+        "N-832",
+        "N-833"
       ]
     },
     {
@@ -3128,8 +3128,8 @@
         "C-13157"
       ],
       "mentions_person_refs": [
-        "N-833",
-        "N-834"
+        "N-832",
+        "N-833"
       ]
     },
     {

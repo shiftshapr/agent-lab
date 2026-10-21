@@ -1134,8 +1134,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-920",
-      "ref": "N-920",
+      "@id": "N-919",
+      "ref": "N-919",
       "name": "Elizabeth Holmes",
       "type": "person",
       "description": "First named by the host at 00:56:01 in episode 121. Former biotech entrepreneur convicted of fraud, discussed in a commenter's comparison to Erika Kirk.",
@@ -1390,8 +1390,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-594",
-      "ref": "N-594",
+      "@id": "N-593",
+      "ref": "N-593",
       "name": "Jordan Peterson",
       "type": "person",
       "description": "Jordan Peterson; named in the Daily Wire firing story.",
@@ -1407,8 +1407,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-666",
-      "ref": "N-666",
+      "@id": "N-665",
+      "ref": "N-665",
       "name": "James Kaddis",
       "type": "person",
       "description": "James Kaddis; pastor the host asks about as Erika's pastor.",
@@ -1424,8 +1424,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-730",
-      "ref": "N-730",
+      "@id": "N-729",
+      "ref": "N-729",
       "name": "Sara Tewell",
       "type": "person",
       "description": "Sara Tewell; witness who changed her story per the host.",
@@ -3332,7 +3332,7 @@
       "transcript_snippet": "They were under financial pressure. They needed to remove people that they were paying.",
       "mentions_person_refs": [
         "N-3",
-        "N-594"
+        "N-593"
       ]
     },
     {
@@ -3462,7 +3462,7 @@
         "C-10251"
       ],
       "mentions_person_refs": [
-        "N-730"
+        "N-729"
       ]
     },
     {
@@ -3482,7 +3482,7 @@
       "investigative_direction": "Review the three interviews for demeanor; this is the host's characterization.",
       "transcript_snippet": "You guys know that she was smiling, of course, the whole time",
       "mentions_person_refs": [
-        "N-730"
+        "N-729"
       ]
     },
     {
@@ -3603,7 +3603,7 @@
       "investigative_direction": "Fringe; Holmes is held in a federal facility per the Bureau of Prisons.",
       "transcript_snippet": "She was the biotech entrepreneur who got convicted of fraud and then went to a fake prison that she's probably not even in.",
       "mentions_person_refs": [
-        "N-920",
+        "N-919",
         "N-2"
       ]
     },
@@ -3713,7 +3713,7 @@
       "transcript_snippet": "She took 2 years off to study the Bible and said no one saw her except for her pastor and her pastor's wife.",
       "mentions_person_refs": [
         "N-2",
-        "N-666"
+        "N-665"
       ]
     },
     {

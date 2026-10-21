@@ -14,8 +14,8 @@
 - **Episode Ledger Summary**:
   - Hole-minted Nodes (reintro-ep108): N-10782, N-10813
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Tip-minted Nodes (skeleton): N-636, N-637, N-638, N-10943, N-10944
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-7, N-14, N-40, N-46, N-54, N-146, N-190, N-208, N-266, N-268, N-270, N-341, N-343, N-580, N-10000, N-10006, N-10014, N-10026, N-10070, N-10075, N-10132, N-10194, N-10322, N-10340, N-10455, N-10581, N-10605, N-10622, N-10637, N-10651, N-10664, N-10899, N-10916, N-10923, N-10700, N-10942, N-10679
+  - Tip-minted Nodes (skeleton): N-635, N-636, N-637, N-10943, N-10944
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-7, N-14, N-40, N-46, N-54, N-146, N-190, N-208, N-266, N-268, N-270, N-341, N-343, N-579, N-10000, N-10006, N-10014, N-10026, N-10070, N-10075, N-10132, N-10194, N-10322, N-10340, N-10455, N-10581, N-10605, N-10622, N-10637, N-10651, N-10664, N-10899, N-10916, N-10923, N-10700, N-10942, N-10679
   - Claim Range: C-9489–C-9542
   - (see registers)
 
@@ -142,7 +142,7 @@ Video Timestamp: 00:25:32
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9518, C-9519, N-636, N-10944*
+*Related: C-9518, C-9519, N-635, N-10944*
 
 ---
 
@@ -384,25 +384,25 @@ Victor Marx's wife; the host says she mentors Erika Kirk.
 
 *Related: C-9497*
 
-**N-580** Thomas Massie
+**N-579** Thomas Massie
 
 The host opens by noting he lost in Kentucky.
 
 *Related: C-9489*
 
-**N-636** Kouri Richins
+**N-635** Kouri Richins
 
 First named by the host at 00:24:28 in episode 108. Utah widow whom the host says was found guilty of murdering her husband after writing a children's book on grief. Transcript spelling "Kouri D. Richins".
 
 *Related: C-9517, C-9518, C-9519, C-9520, C-9521, A-2604.1, N-10944*
 
-**N-637** Eric Richins
+**N-636** Eric Richins
 
 First named by the host at 00:26:29 in episode 108. Kouri Richins's husband, who the host says covertly transferred his estate to his sister before he was killed. Transcript spelling "Eric Richens".
 
 *Related: C-9520, C-9521, N-10944*
 
-**N-638** Ed Gallrein
+**N-637** Ed Gallrein
 
 First named by the host at 00:52:19 in episode 108. Named in the comments as a candidate the host calls embarrassing, with no crowd at his victory party. Kept in the transcript spelling (see Optional Flags).
 
@@ -545,7 +545,7 @@ Called "Paramount not so tactical" by the host; she says she sent it a preservat
 Node Type: Topic
 Thomas Massie's Kentucky primary loss, which the host frames as an attempt to buy an outcome with money; it connects to her comments on the candidate she calls "Ed Gallrein."
 
-*Related: C-9489, C-9542, N-580, N-638*
+*Related: C-9489, C-9542, N-579, N-637*
 
 **N-10942** Victor Marx "They Only Wanted Charlie" Text to Erika Kirk
 
@@ -566,7 +566,7 @@ Investigation target: the host's report that Erika Kirk told multiple people tha
 Node Type: Topic
 The Utah case of Kouri Richins, who the host says was found guilty of murdering her husband Eric Richins after publishing a children's grief book. The host says his covert estate transfer and her attempted life insurance beneficiary change were central to the prosecution. She cites the case as precedent for scrutinizing will changes around an unexpected death.
 
-*Related: C-9517, C-9518, C-9519, C-9520, C-9521, A-2604.1, N-636, N-637*
+*Related: C-9517, C-9518, C-9519, C-9520, C-9521, A-2604.1, N-635, N-636*
 
 **N-10923** White House Military Office Erika Kirk Amplification Email
 
@@ -586,7 +586,7 @@ Claim: The host says Thomas Massie lost in Kentucky.
 Transcript Snippet: I know some people are not feeling too happy today because Thomas Massie lost in Kentucky.
 
 Anchored Artifacts:
-Mentions: N-580
+Mentions: N-579
 Related Nodes: N-10916
 Investigative Direction: Check the certified Kentucky Republican primary results for Massie's congressional district in May 2026.
 
@@ -1001,7 +1001,7 @@ Claim: The host says Utah widow Kouri Richins was found guilty of murdering her 
 Transcript Snippet: the one in Utah, ironically, who was found guilty of murdering her husband out in but but like not instantly.
 
 Anchored Artifacts:
-Mentions: N-636
+Mentions: N-635
 Related Nodes: N-10944
 Investigative Direction: Check the Summit County, Utah court record for the verdict in State v. Kouri Richins.
 
@@ -1016,7 +1016,7 @@ Claim: In a TV clip promoting her book, Kouri Richins says her husband died unex
 Transcript Snippet: So, my husband passed away unexpectedly last year. So, it's March 4th was a 1-year anniversary for us, and um he was 39.
 
 Anchored Artifacts: A-2604.1
-Mentions: N-636
+Mentions: N-635
 Related Nodes: N-10944
 Investigative Direction: Locate the original broadcast and its air date.
 
@@ -1031,7 +1031,7 @@ Claim: The host says Kouri Richins was arrested a month after the interview, mor
 Transcript Snippet: A month later, she would be arrested over a year after her husband had passed away.
 
 Anchored Artifacts: A-2604.1
-Mentions: N-636
+Mentions: N-635
 Related Nodes: N-10944
 Investigative Direction: Check the arrest date in Summit County, Utah records against the broadcast date.
 
@@ -1046,7 +1046,7 @@ Claim: The host says Eric Richins covertly transferred his entire estate and bus
 Transcript Snippet: her husband, uh Eric Richens, also her victim, gratefully and successfully managed to transfer his entire estate and business interests into his sister's name covertly a few weeks before he passed away
 
 Anchored Artifacts:
-Mentions: N-637, N-636
+Mentions: N-636, N-635
 Related Nodes: N-10944
 Investigative Direction: Review trial testimony and estate filings in the Richins case.
 
@@ -1061,7 +1061,7 @@ Claim: The host says the court heard that Kouri Richins tried to change the bene
 Transcript Snippet: the court heard that Kouri herself attempted to change the beneficiary of his corporate life insurance so that she would receive it 100% of the payout.
 
 Anchored Artifacts:
-Mentions: N-636, N-637
+Mentions: N-635, N-636
 Related Nodes: N-10944
 Investigative Direction: Review trial exhibits on the insurance beneficiary change in the Richins case.
 
@@ -1369,7 +1369,7 @@ Claim: The host says Ed Gallrein had no crowd at his victory party and had the c
 Transcript Snippet: You had to have uh the camera zoomed in real close to your face so people couldn't see the the no crowd that showed up even to your victory party.
 
 Anchored Artifacts:
-Mentions: N-638
+Mentions: N-637
 Related Nodes: N-10916
 Investigative Direction: Review broadcast and wide-shot footage of the candidate's primary-night victory event.
 
@@ -1586,7 +1586,7 @@ Confidence: high
 
 - **DIA beats**: no qualifying hits. The only keyword hit is "CandaceOwens. com" (55:53), a merch plug rather than a tip request, so no M-12 occurrence was added. The host's invitations to investigators to contact her for the names of the people Erika Kirk told (21:59, 27:25) offer information rather than ask for tips, so they were not treated as DIA beats.
 - **Artifacts verbally referenced but not shown**: A-2602.1 (Marx preservation letter), A-2602.2 (Paramount preservation letter), A-2603.1 (the host's evidence and sources on the September 15 appointment), A-2605.1 (the "emotional asset" communication) and A-2605.2 (the FOIA request). The host also cites a Daily Mail article on a TPUSA board member and the AI video without showing it.
-- **Name matching**: "Frank Chirico" (11:12) is mapped to N-7 Frank Turek, as he and the security team drove Kirk to the hospital; the alias list includes "Frank Turek." "Dan" (12:44) is mapped to N-270 Dan Flood from context (named with Brian Harpole as security). "Ed Gallrein" (52:19, 55:09) is minted as N-638 in the transcript spelling; context (Massie's loss, victory party) suggests Massie's primary opponent, possibly Ed Gallrein, but this is unconfirmed and the integrator should check. "Victor Marx"/"Victor March" are mapped to N-341; "Bryan Harpold" to N-266; "Andrew Kolvet" to N-14; "Megyn Kelly" to N-46.
+- **Name matching**: "Frank Chirico" (11:12) is mapped to N-7 Frank Turek, as he and the security team drove Kirk to the hospital; the alias list includes "Frank Turek." "Dan" (12:44) is mapped to N-270 Dan Flood from context (named with Brian Harpole as security). "Ed Gallrein" (52:19, 55:09) is minted as N-637 in the transcript spelling; context (Massie's loss, victory party) suggests Massie's primary opponent, possibly Ed Gallrein, but this is unconfirmed and the integrator should check. "Victor Marx"/"Victor March" are mapped to N-341; "Bryan Harpold" to N-266; "Andrew Kolvet" to N-14; "Megyn Kelly" to N-46.
 - **Reused staging titles**: N-10916 uses the episode 104 title "Thomas Massie Kentucky Primary Outside Spending". N-10923 and M-95 use the episode 105 titles "White House Military Office Erika Kirk Amplification Email" and "Emotional Response Asset". M-92 uses the episodes 103/105 title "Paramount Not So Tactical". Episode 104 names the same email "White House Military Office "I Want to Go Home" Amplification Email", so the integrator should reconcile the two.
 - **Transcription ambiguities**: "an aspirin three weeks before" (17:28) is likely "an aspiration"; kept as transcribed. "Eric Richens" vs "Kouri Richins" and "Kouri D. Richins" kept as spoken. "in combat minutes" (06:34) is unclear. The 28:40–30:40 and 46:20–47:58 gaps are breaks with no transcript.
 - **Duration**: the skeleton meta gave 00:56:29; the range was reset to the transcript front-matter duration 57:23.

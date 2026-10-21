@@ -74,7 +74,7 @@
           "related_nodes": [
             "N-1",
             "N-3",
-            "N-590"
+            "N-589"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -102,7 +102,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-591",
+            "N-590",
             "N-5",
             "N-10539"
           ],
@@ -159,7 +159,7 @@
             "C-7106"
           ],
           "related_nodes": [
-            "N-590",
+            "N-589",
             "N-3"
           ],
           "tags": [],
@@ -243,7 +243,7 @@
             "C-7113"
           ],
           "related_nodes": [
-            "N-592",
+            "N-591",
             "N-5",
             "N-10541"
           ],
@@ -435,7 +435,7 @@
             "C-7116"
           ],
           "related_nodes": [
-            "N-593",
+            "N-592",
             "N-10541"
           ],
           "tags": [],
@@ -518,7 +518,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-594",
+            "N-593",
             "N-10543"
           ],
           "tags": [],
@@ -917,8 +917,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-590",
-      "ref": "N-590",
+      "@id": "N-589",
+      "ref": "N-589",
       "name": "Meghan McCain",
       "type": "person",
       "description": "Author of X post A-1849.1 and subject of Charlie Kirk text A-1846.3.",
@@ -942,8 +942,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-591",
-      "ref": "N-591",
+      "@id": "N-590",
+      "ref": "N-590",
       "name": "Bret Weinstein",
       "type": "person",
       "description": "Co-party to text exchange A-1847.1 with Charlie Kirk regarding Iran war.",
@@ -1036,8 +1036,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-592",
-      "ref": "N-592",
+      "@id": "N-591",
+      "ref": "N-591",
       "name": "Pete Hegseth",
       "type": "person",
       "description": "Speaker in audio clip A-1852.1 regarding Strait of Hormuz.",
@@ -1088,8 +1088,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-593",
-      "ref": "N-593",
+      "@id": "N-592",
+      "ref": "N-592",
       "name": "Giorgia Meloni",
       "type": "person",
       "description": "Speaker attributed with statement (A-1855.7) criticizing US-Israeli war as outside international law.",
@@ -1110,8 +1110,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-594",
-      "ref": "N-594",
+      "@id": "N-593",
+      "ref": "N-593",
       "name": "Jordan Peterson",
       "type": "person",
       "description": "Quoted by host in article A-1856.1.",
@@ -1174,7 +1174,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-591",
+        "N-590",
         "N-5"
       ]
     },
@@ -2088,7 +2088,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-3",
-        "N-590"
+        "N-589"
       ]
     },
     {
@@ -2109,7 +2109,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-5",
-        "N-591"
+        "N-590"
       ]
     },
     {
@@ -2129,7 +2129,7 @@
       "investigative_direction": "Verify original message; cross-reference with contemporaneous public statements.",
       "mentions_person_refs": [
         "N-1",
-        "N-591"
+        "N-590"
       ]
     },
     {
@@ -2165,7 +2165,7 @@
       "claim_timestamp": "00:20:00–00:20:51",
       "investigative_direction": "Direct retrieval of the original X post via archive.",
       "mentions_person_refs": [
-        "N-590"
+        "N-589"
       ]
     },
     {
@@ -2223,7 +2223,7 @@
       "claim_timestamp": "00:24:34–00:25:35",
       "investigative_direction": "Obtain the full press exchange transcript and date.",
       "mentions_person_refs": [
-        "N-592"
+        "N-591"
       ]
     },
     {
@@ -2290,7 +2290,7 @@
       "investigative_direction": "Obtain original government press releases or transcripts for each quoted statement and verify dates.",
       "mentions_person_refs": [
         "N-377",
-        "N-593"
+        "N-592"
       ]
     },
     {
@@ -2383,7 +2383,7 @@
       "investigative_direction": "Retrieve the original published article (Substack or platform); verify publication date.",
       "mentions_person_refs": [
         "N-3",
-        "N-594"
+        "N-593"
       ]
     },
     {
@@ -2750,7 +2750,7 @@
       "investigative_direction": "Obtain Weinstein's original post and date; ask him what basis exists beyond the timing of Kirk's opposition.",
       "transcript_snippet": "it is reasonable to wonder if his refusal to back down from his steadfast opposition somehow resulted in his murder.",
       "mentions_person_refs": [
-        "N-591",
+        "N-590",
         "N-1",
         "N-5"
       ]
@@ -2774,7 +2774,7 @@
       "investigative_direction": "Obtain Weinstein's full post and identify which investigative product he judges inadequate.",
       "transcript_snippet": "A good investigation could have settled the matter. What we got only increases the reason for concern.",
       "mentions_person_refs": [
-        "N-591",
+        "N-590",
         "N-1"
       ]
     },
@@ -2797,7 +2797,7 @@
       "investigative_direction": "Find Kirk's recorded or texted worries about his own safety and about the Iran decision to test Weinstein's final phrase.",
       "transcript_snippet": "the timing of his death removed him from the equation and likely changed the course of history.",
       "mentions_person_refs": [
-        "N-591",
+        "N-590",
         "N-1"
       ]
     },
@@ -2821,7 +2821,7 @@
       "transcript_snippet": "driving real-time mass public opinion yet. The neocons are.",
       "mentions_person_refs": [
         "N-1",
-        "N-591"
+        "N-590"
       ]
     },
     {
@@ -3069,7 +3069,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-590",
+        "N-589",
         "N-1"
       ]
     },

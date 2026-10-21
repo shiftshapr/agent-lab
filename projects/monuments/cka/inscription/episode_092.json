@@ -1148,8 +1148,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-888",
-      "ref": "N-888",
+      "@id": "N-887",
+      "ref": "N-887",
       "name": "Savanah Hernandez",
       "type": "person",
       "description": "First named by the host at 00:07:17 in episode 92 (via the Kolvet clip). TPUSA front-lines reporter in the Minneapolis incident cited by Kolvet and Vance.",
@@ -1258,8 +1258,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-889",
-      "ref": "N-889",
+      "@id": "N-888",
+      "ref": "N-888",
       "name": "Bettina Anderson",
       "type": "person",
       "description": "First named by the host at 00:16:56 in episode 92 (spelled Betina). Fiancee of Donald Trump Jr. whose bridal shower the host says Erika Kirk attended.",
@@ -1345,8 +1345,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-599",
-      "ref": "N-599",
+      "@id": "N-598",
+      "ref": "N-598",
       "name": "Scott Bessent",
       "type": "person",
       "description": "Treasury Secretary the host says issued a letter on demand.",
@@ -1454,8 +1454,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-890",
-      "ref": "N-890",
+      "@id": "N-889",
+      "ref": "N-889",
       "name": "David J. Harris",
       "type": "person",
       "description": "First named by the host at 00:40:01 in episode 92 (David Harris). Business partner in the Marx supplements, per the host.",
@@ -1525,8 +1525,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-688",
-      "ref": "N-688",
+      "@id": "N-687",
+      "ref": "N-687",
       "name": "Otto Busher",
       "type": "person",
       "description": "Colonel the host links to Fort Huachuca and Romanian Angels.",
@@ -1627,8 +1627,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-801",
-      "ref": "N-801",
+      "@id": "N-800",
+      "ref": "N-800",
       "name": "Andrew Piskadlo",
       "type": "person",
       "description": "Transcribed Andrew Pascadlo; detained photographer who raises trafficking alarms.",
@@ -1746,8 +1746,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-800",
-      "ref": "N-800",
+      "@id": "N-799",
+      "ref": "N-799",
       "name": "Paul Vallely",
       "type": "person",
       "description": "TPUSA adviser transcribed Paul Vallely; co-author with Aquino.",
@@ -2468,7 +2468,7 @@
       "transcript_snippet": "which I think is the first time that we've ever had to make that decision in Turning Point history.",
       "mentions_person_refs": [
         "N-14",
-        "N-888",
+        "N-887",
         "N-2"
       ]
     },
@@ -2720,7 +2720,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-33",
-        "N-889"
+        "N-888"
       ]
     },
     {
@@ -2834,7 +2834,7 @@
       "mentions_person_refs": [
         "N-4",
         "N-1",
-        "N-888"
+        "N-887"
       ]
     },
     {
@@ -2928,7 +2928,7 @@
       "transcript_snippet": "She can get uh the Secretary Scott Bessence to issue a letter on demand demanding you stop looking into their finances.",
       "mentions_person_refs": [
         "N-2",
-        "N-599",
+        "N-598",
         "N-3"
       ]
     },
@@ -3192,7 +3192,7 @@
       "transcript_snippet": "You had supplements that you were doing with David Harris.",
       "mentions_person_refs": [
         "N-341",
-        "N-890",
+        "N-889",
         "N-3"
       ]
     },
@@ -3214,7 +3214,7 @@
       "transcript_snippet": "David Harris calls God Papa. I don't know. And he like you guys said that like proceed the supplements were going to help human sex trafficking victims.",
       "mentions_person_refs": [
         "N-341",
-        "N-890",
+        "N-889",
         "N-3"
       ]
     },
@@ -3339,7 +3339,7 @@
       "investigative_direction": "Obtain Army and court records for the charge against Busher and any Romanian Angels staff or board listing.",
       "transcript_snippet": "he worked with Romanian Angels which was her charity uh the civilian commander stationed at Fort Huachuca charged with running a child sex abuse ring",
       "mentions_person_refs": [
-        "N-688",
+        "N-687",
         "N-2",
         "N-3"
       ]
@@ -3417,7 +3417,7 @@
         "C-4760"
       ],
       "mentions_person_refs": [
-        "N-801",
+        "N-800",
         "N-3"
       ]
     },
@@ -3519,7 +3519,7 @@
         "C-4865"
       ],
       "mentions_person_refs": [
-        "N-800",
+        "N-799",
         "N-449",
         "N-3"
       ]

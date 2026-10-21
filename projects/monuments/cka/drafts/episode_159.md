@@ -14,7 +14,7 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10): N-11095
   - Claim Range: C-13722–C-13828
-  - Reused Nodes Appearing: N-1, N-2, N-9, N-22, N-36, N-37, N-40, N-46, N-5, N-69, N-82, N-85, N-98, N-14, N-190, N-271, N-217, N-437, N-266, N-7, N-496, N-270, N-535, N-377, N-159, N-10033, N-10056, N-10324, N-10388, N-10839, N-10859, N-10860, N-10863, N-10864, N-10866, N-10868, N-10, N-13, N-18, N-8, N-19, N-20, N-21, N-23, N-24, N-25, N-26, N-28, N-29, N-131, N-150, N-160, N-10870, N-10871, N-16, N-47, N-48, N-89, N-95, N-99, N-283, N-364, N-378, N-419, N-433, N-493, N-529, N-569, N-666, N-10002, N-10012, N-10016, N-10018, N-10036, N-10070, N-10075, N-10132, N-10134, N-10194, N-10211, N-10253, N-10276, N-10347, N-10366, N-10412, N-10434, N-10443, N-10446, N-10519, N-10524, N-10539, N-10571, N-10664, N-10668, N-10670, N-10674, N-10795, N-10865, N-10867, N-10900, N-10925, N-10927, N-11076, N-10869, N-11092, N-152, N-10872, N-10873, N-11094, N-11093
+  - Reused Nodes Appearing: N-1, N-2, N-9, N-22, N-36, N-37, N-40, N-46, N-5, N-69, N-82, N-85, N-98, N-14, N-190, N-271, N-217, N-437, N-266, N-7, N-496, N-270, N-535, N-377, N-159, N-10033, N-10056, N-10324, N-10388, N-10839, N-10859, N-10860, N-10863, N-10864, N-10866, N-10868, N-10, N-13, N-18, N-8, N-19, N-20, N-21, N-23, N-24, N-25, N-26, N-28, N-29, N-131, N-150, N-160, N-10870, N-10871, N-16, N-47, N-48, N-89, N-95, N-99, N-283, N-364, N-378, N-419, N-433, N-493, N-529, N-568, N-665, N-10002, N-10012, N-10016, N-10018, N-10036, N-10070, N-10075, N-10132, N-10134, N-10194, N-10211, N-10253, N-10276, N-10347, N-10366, N-10412, N-10434, N-10443, N-10446, N-10519, N-10524, N-10539, N-10571, N-10664, N-10668, N-10670, N-10674, N-10795, N-10865, N-10867, N-10900, N-10925, N-10927, N-11076, N-10869, N-11092, N-152, N-10872, N-10873, N-11094, N-11093
   - Hole-minted Nodes (remap-ep159): N-127, N-151, N-158
   - (see registers)
   - Person band: persons minted in this quality pass use N-8+ (see node register). Taylor Scornovako was not minted. Leah Thomas was not minted (phantom on the ep 158 true-new line only). Tim Dillon stays N-277 and N-277. Karoline Leavitt stays N-280. Pam Bondi, Todd Blanche, and Baron Coleman stay on their existing ids.
@@ -1353,7 +1353,7 @@ Named by the host as the founder of the modeling-apartments company.
 
 ---
 
-**N-569** Faith Kates
+**N-568** Faith Kates
 
 Named by the host in connection with the modeling group tied to Brunel.
 
@@ -1361,7 +1361,7 @@ Named by the host in connection with the modeling group tied to Brunel.
 
 ---
 
-**N-666** James Kaddis
+**N-665** James Kaddis
 
 Pastor whose Calvary Chapel hosted Erika's July 14 speech (transcribed James Kaddis).
 
@@ -2208,7 +2208,7 @@ Claim: The host reads the contract's list of proposed social media blitz influen
 Transcript Snippet: These are their proposed influencers. May vary on availability. Alex Clark, Riley, Morgan Mcichael, Benny Johnson, Jack Posobiec, Anthony Watson, Isabel Brown, Lauren Chen, Chrissy Clark.
 
 Anchored Artifacts: A-2467.1
-Mentions: N-99, N-24, N-89, N-95, N-848, N-888
+Mentions: N-99, N-24, N-89, N-95, N-847, N-887
 Related Nodes: N-10870
 Investigative Direction: Check each named influencer's posts for Yrefy promotion and any disclosure of sponsorship.
 
@@ -2556,7 +2556,7 @@ Claim: The host says that on July 14 Erika Kirk traveled aboard a private flight
 Transcript Snippet: Erika Kirk travels aboard a private flight to Long Beach, California, and she speaks at James Kaddis' Calvary Chapel Church for the Women's Summer of Psalms retreat.
 
 Anchored Artifacts: A-2469.1
-Mentions: N-2, N-666
+Mentions: N-2, N-665
 Related Nodes: N-10571
 Investigative Direction: Obtain the retreat program, flight records and any video of Erika's speech.
 

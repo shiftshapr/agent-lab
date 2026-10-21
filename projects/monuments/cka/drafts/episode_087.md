@@ -11,14 +11,14 @@
 - **Transcript SHA-256**: b4380e6d087a8764d74904be2628e149d3b959bb6ee30a42cff982058d3dc8cf
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10g): N-943, N-11398, N-11399
+  - Tip-minted Nodes (supplement_2026-10g): N-942, N-11398, N-11399
   - Hole-minted Nodes (reintro-ep087): N-10620, N-10888
   - Tip-minted Nodes (reintro-ep087): N-11142, N-11199
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-7758–C-7865
   - New Nodes Introduced: N-10574, N-10575, N-10577, N-10578, N-10579, N-10580
   - Hole-minted Nodes (wave3): N-411, N-412, N-413, N-414, N-415, N-416, N-417
-  - Reused Nodes Appearing: N-410, N-10153, N-28, N-10569, N-10576, N-10581, N-6, N-14, N-42, N-54, N-61, N-128, N-209, N-261, N-330, N-361, N-708, N-711, N-10000, N-10007, N-10012, N-10014, N-10032, N-10048, N-10065, N-10074, N-10076, N-10078, N-10082, N-10092, N-10106, N-10110, N-10144, N-10168, N-10184, N-10202, N-10223, N-10239, N-10253, N-10326, N-10337, N-10342, N-10346, N-10347, N-10354, N-10355, N-10367, N-10370, N-10383, N-10446, N-10456, N-10495, N-10535, N-10539, N-10543, N-10551, N-10572, N-10573, N-10674, N-10975, N-11128, N-11208, N-11325
+  - Reused Nodes Appearing: N-410, N-10153, N-28, N-10569, N-10576, N-10581, N-6, N-14, N-42, N-54, N-61, N-128, N-209, N-261, N-330, N-361, N-707, N-710, N-10000, N-10007, N-10012, N-10014, N-10032, N-10048, N-10065, N-10074, N-10076, N-10078, N-10082, N-10092, N-10106, N-10110, N-10144, N-10168, N-10184, N-10202, N-10223, N-10239, N-10253, N-10326, N-10337, N-10342, N-10346, N-10347, N-10354, N-10355, N-10367, N-10370, N-10383, N-10446, N-10456, N-10495, N-10535, N-10539, N-10543, N-10551, N-10572, N-10573, N-10674, N-10975, N-11128, N-11208, N-11325
   - (see registers)
 
 ---
@@ -364,7 +364,7 @@ Video Timestamp: 00:29:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-7825, N-3, N-943*
+*Related: C-7825, N-3, N-942*
 
 ---
 
@@ -722,7 +722,7 @@ Mitch Snow; the host recalls his account of O5s and O6s at Fort Huachuca.
 
 ---
 
-**N-708** John F. Kennedy
+**N-707** John F. Kennedy
 
 John F. Kennedy; subject of the CBLA history and Texas comparison.
 
@@ -730,7 +730,7 @@ John F. Kennedy; subject of the CBLA history and Texas comparison.
 
 ---
 
-**N-711** Ron Paul
+**N-710** Ron Paul
 
 Ron Paul; subject of the 2012 convention comment.
 
@@ -1188,7 +1188,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-943** Robbie Hild
+**N-942** Robbie Hild
 
 First named by the host at 00:27:39 in episode 87 (spelled Robbie Hild and Robbie Hild in the transcript). Person the host says she put an APB out for because he stood alongside a Lyman relative; she says he attended BYU, played lacrosse and graduated around 2020.
 
@@ -1506,7 +1506,7 @@ Claim Timestamp: 00:29:30–00:30:18
 Claim: The host says Robbie Hild attended BYU, played lacrosse, and appears to have graduated around 2020.
 
 Anchored Artifacts: A-1924.2
-Mentions: N-943
+Mentions: N-942
 
 Related Nodes: N-10153
 
@@ -1549,7 +1549,7 @@ Claim Timestamp: 00:29:45
 Claim: The host says she learned from viewers that Robbie Hild's family is allegedly married into the Romney family and that across social media they were involved in the campaign, but she cannot find the document establishing the connection and requests viewer tips.
 
 Anchored Artifacts: A-1924.2
-Mentions: N-943
+Mentions: N-942
 
 Related Nodes: N-10153, N-10579
 
@@ -2009,7 +2009,7 @@ Claim: The host says the CIA ran the JFK assassination operation out of Texas.
 Transcript Snippet: just like there was a Texas play in JFK's assassination, I might add. CIA ran that operation out of Texas.
 
 Anchored Artifacts: 
-Mentions: N-3, N-708
+Mentions: N-3, N-707
 Related Nodes: N-10082
 Tags: relevance:tangential
 Investigative Direction: Cite the historical record (Warren Commission, Church Committee, HSCA) on any CIA operational role in Dallas; the host offers no source.
@@ -2313,7 +2313,7 @@ Claim: The host says Robbie Hild was one of the first people she put an APB out 
 Transcript Snippet: one of the first people that I put an APB out for because he was bizarrely standing alongside Shane Lyman.
 
 Anchored Artifacts: 
-Mentions: N-3, N-943, N-128
+Mentions: N-3, N-942, N-128
 Related Nodes: N-10153, N-10144
 Tags: relevance:core
 Investigative Direction: Locate the original episode and the photo of Hild with the Lyman relative; confirm the person's identity (the host later spells the name Hill and Hild).
@@ -2379,7 +2379,7 @@ Claim: The host says the Lyman relative and some friends traced the steps of the
 Transcript Snippet: he and some friends uniquely traced the steps of the killer and showed people, "This is the footprint.
 
 Anchored Artifacts: A-1924.1
-Mentions: N-3, N-943, N-128
+Mentions: N-3, N-942, N-128
 Related Nodes: N-10153, N-10144
 Supports: C-1073, C-1046
 Tags: relevance:core
@@ -2412,7 +2412,7 @@ Claim: The host asks viewers who know how the Hild family is related to the Romn
 Transcript Snippet: please email us at more tips at candaceowens. com.
 
 Anchored Artifacts: A-3330.1
-Mentions: N-3, N-943, N-28
+Mentions: N-3, N-942, N-28
 Related Nodes: N-10579, N-10153
 Tags: relevance:core
 Investigative Direction: Collect viewer tips on Hild-Romney marriage records or genealogy and verify with public records.
@@ -2428,7 +2428,7 @@ Claim: The host says that with the BYU and lacrosse details, the investigation i
 Transcript Snippet: but the investigation into Robbie Hild is now opened again.
 
 Anchored Artifacts: 
-Mentions: N-3, N-943
+Mentions: N-3, N-942
 Related Nodes: N-10153, N-10579
 Tags: relevance:core
 Investigative Direction: Track subsequent episodes for new findings on Hild's identity and family ties.
@@ -2476,7 +2476,7 @@ Claim: The host reads a 2007 Washington Post article stating comparative bullet 
 Transcript Snippet: comparative bullet lead analysis was first used after President John F. Kennedy's assassination in 1963.
 
 Anchored Artifacts: A-1922.1
-Mentions: N-3, N-708
+Mentions: N-3, N-707
 Related Nodes: N-10569
 Tags: relevance:context
 Investigative Direction: Retrieve the 2007 Washington Post article and the 2004 NAS report to confirm the history of the technique.
@@ -2524,7 +2524,7 @@ Claim: The host says everyone knows who killed JFK and that it was not Lee Harve
 Transcript Snippet: cuz we all know who killed JFK. And it wasn't Lee Harvey Oswald.
 
 Anchored Artifacts: 
-Mentions: N-3, N-708
+Mentions: N-3, N-707
 Related Nodes: N-10082
 Tags: relevance:tangential
 Investigative Direction: Assertion without a named alternative; refer to the Warren Commission and HSCA findings.
@@ -2572,7 +2572,7 @@ Claim: The host says the Hild family is married into the Robinsons as well and t
 Transcript Snippet: Certainly, the Hild family is married into the Robinsons as well
 
 Anchored Artifacts: 
-Mentions: N-3, N-943, N-40
+Mentions: N-3, N-942, N-40
 Related Nodes: N-11398, N-10153
 Tags: relevance:tangential
 Investigative Direction: Genealogical and marriage records for the Hild and Robinson families.
@@ -2782,7 +2782,7 @@ Claim: The host says the RNC also refused to recognize Ron Paul's delegates from
 Transcript Snippet: The RNC also refused to recognize Paul's delegates from Maine.
 
 Anchored Artifacts: A-1926.2
-Mentions: N-3, N-711
+Mentions: N-3, N-710
 Related Nodes: N-10007, N-11399
 Tags: relevance:tangential
 Investigative Direction: Check 2012 convention credentials rulings on the Maine delegation.
@@ -2912,7 +2912,7 @@ Claim: The host says Erika Kirk is forced to assume Charlie's role and reverse e
 Transcript Snippet: And she's forced to assume his role and reverse um everything that he did like LBJ did after JFK's death.
 
 Anchored Artifacts: 
-Mentions: N-3, N-2, N-1, N-708
+Mentions: N-3, N-2, N-1, N-707
 Related Nodes: N-10543
 Tags: relevance:core
 Investigative Direction: List Charlie's pre-death positions versus TPUSA positions after September 2025 on Israel, Iran and donors.

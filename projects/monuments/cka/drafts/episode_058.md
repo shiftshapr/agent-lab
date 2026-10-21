@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: f2711e85e7a5dac6180d0330f718521458d116b136a35e9d84389c67776a7492
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-851, N-852, N-853, N-11237, N-11239, N-11240, N-11241, N-11242
+  - Tip-minted Nodes (supplement_2026-10d): N-850, N-851, N-852, N-11237, N-11239, N-11240, N-11241, N-11242
   - Hole-minted Nodes (reintro-ep058): N-529, N-10428, N-10472
-  - Tip-minted Nodes (reintro-ep058): N-724, N-771, N-11126
+  - Tip-minted Nodes (reintro-ep058): N-723, N-770, N-11126
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-5142–C-5242
   - New Nodes Introduced: N-459, N-460, N-461, N-462, N-463, N-464, N-465, N-466, N-467, N-468, N-469, N-10418, N-10419, N-10420, N-10421, N-10423
-  - Reused Nodes Appearing: N-15, N-10417, N-10422, N-10424, N-1, N-14, N-17, N-42, N-61, N-237, N-278, N-325, N-361, N-450, N-451, N-456, N-752, N-800, N-10000, N-10001, N-10012, N-10023, N-10028, N-10032, N-10144, N-10209, N-10268, N-10365, N-10367, N-10368, N-10375, N-10380, N-10386, N-10401, N-10411, N-10413, N-10900, N-11104, N-11166, N-11167, N-11238
+  - Reused Nodes Appearing: N-15, N-10417, N-10422, N-10424, N-1, N-14, N-17, N-42, N-61, N-237, N-278, N-325, N-361, N-450, N-451, N-456, N-751, N-799, N-10000, N-10001, N-10012, N-10023, N-10028, N-10032, N-10144, N-10209, N-10268, N-10365, N-10367, N-10368, N-10375, N-10380, N-10386, N-10401, N-10411, N-10413, N-10900, N-11104, N-11166, N-11167, N-11238
   - (see registers)
 
 ## 2. Executive Summary
@@ -875,7 +875,7 @@ Media figure; the host says he funded Operation Underground.
 
 ---
 
-**N-800** Paul Vallely
+**N-799** Paul Vallely
 
 Retired Army general on the TPUSA advisory board.
 
@@ -971,7 +971,7 @@ Operation Paperclip, cited by the host.
 
 ---
 
-**N-752** Astrid Tuminez
+**N-751** Astrid Tuminez
 
 UVU president; the host says she stepped down and was absent on September 10.
 
@@ -1011,7 +1011,7 @@ Epstein as Israeli intelligence asset allegation.
 
 ---
 
-**N-724** Jack Parsons
+**N-723** Jack Parsons
 
 Rocket scientist and occultist the host cites as a Crowley student.
 
@@ -1019,7 +1019,7 @@ Rocket scientist and occultist the host cites as a Crowley student.
 
 ---
 
-**N-771** Aleister Crowley
+**N-770** Aleister Crowley
 
 Occultist cited by the host.
 
@@ -1043,7 +1043,7 @@ Air Force reservist the host says co-founded TPUSA.
 
 ---
 
-**N-851** Pete McCormick
+**N-850** Pete McCormick
 
 First named by the host at 00:06:05 in episode 58 as Colonel Pete McCormick, grandfather of cast member Peyton McCormick.
 
@@ -1051,7 +1051,7 @@ First named by the host at 00:06:05 in episode 58 as Colonel Pete McCormick, gra
 
 ---
 
-**N-852** Allan McCormick
+**N-851** Allan McCormick
 
 First named by the host at 00:06:05 in episode 58 as Lieutenant Colonel Allan McCormick, once stationed at Fort Huachuca, father of cast member Peyton McCormick.
 
@@ -1059,7 +1059,7 @@ First named by the host at 00:06:05 in episode 58 as Lieutenant Colonel Allan Mc
 
 ---
 
-**N-853** Myron Gaines
+**N-852** Myron Gaines
 
 First named by the host at 01:02:10 in episode 58 as the interviewer in an interview with her dropping the next day.
 
@@ -1574,7 +1574,7 @@ Claim: The host says cast member Peyton McCormick's grandfather is Colonel Pete 
 Transcript Snippet: Her father is Lieutenant Colonel Allan McCormick, once stationed at Fort Huachuca.
 
 Anchored Artifacts: 
-Mentions: N-463, N-851, N-852
+Mentions: N-463, N-850, N-851
 Related Nodes: N-10417, N-10418
 Tags: relevance:context
 Investigative Direction: Confirm the family relationships and Allan McCormick's Fort Huachuca assignment through Army records or public obituaries.
@@ -1866,7 +1866,7 @@ Claim: The host says that on an earlier episode she said Retired Army General Pa
 Transcript Snippet: I think on that episode I said he was on the board, I meant to say he's on the advisory board.
 
 Anchored Artifacts: 
-Mentions: N-800, N-3
+Mentions: N-799, N-3
 Related Nodes: N-10000
 Supports: C-4864
 Tags: relevance:context
@@ -1883,7 +1883,7 @@ Claim: The host says Vallely, a retired Army general who ran psychological opera
 Transcript Snippet: We got this retired Army general who actually ran psychological operations and happened to co-write a book with this guy who was an avowed Satanist and started his own kind of Church of Satan called the Temple of Set
 
 Anchored Artifacts: 
-Mentions: N-800, N-3
+Mentions: N-799, N-3
 Related Nodes: N-11238
 Supports: C-4865
 Tags: relevance:context
@@ -2269,7 +2269,7 @@ Claim: The host says Astrid Tuminez has just stepped down from Utah Valley Unive
 Transcript Snippet: who by the way has just stepped down from Utah Valley University. It was just announced
 
 Anchored Artifacts: 
-Mentions: N-752, N-3
+Mentions: N-751, N-3
 Related Nodes: N-10012
 Tags: relevance:core
 Investigative Direction: Check the UVU announcement and its date.
@@ -2285,7 +2285,7 @@ Claim: The host says Tuminez was not at UVU on the day of Charlie's assassinatio
 Transcript Snippet: she was not there on the day of Charlie's assassination.
 
 Anchored Artifacts: 
-Mentions: N-752, N-1, N-3
+Mentions: N-751, N-1, N-3
 Related Nodes: N-10012, N-10028
 Tags: relevance:core
 Investigative Direction: Obtain Tuminez's September 10, 2025 whereabouts and travel; previously claimed absences can be compared.
@@ -2301,7 +2301,7 @@ Claim: The host says Tuminez looks to have been involved in color revolution wor
 Transcript Snippet: Looks like she was involved in some color revolution stuff for the CIA. She was a fostered child, was rescued from the Philippines.
 
 Anchored Artifacts: 
-Mentions: N-752, N-3
+Mentions: N-751, N-3
 Related Nodes: N-10012
 Tags: relevance:context
 Investigative Direction: Check Tuminez's published biography and memoir for her childhood and career; the CIA work claim has no cited source.
@@ -2459,7 +2459,7 @@ Claim: The host asks whether Jack Parsons, whom she says established the Apollo 
 Transcript Snippet: Did Jackson did Jack Parsons exist the who established the Apollo program at NASA? Was he similarly conducting occult sexual rituals to establish a moon child?
 
 Anchored Artifacts: 
-Mentions: N-724, N-771, N-3
+Mentions: N-723, N-770, N-3
 Tags: relevance:tangential
 Investigative Direction: Parsons is documented as a JPL co-founder and Thelema follower; historians do not credit him with founding the Apollo program.
 
@@ -2716,7 +2716,7 @@ Claim: The host says an interview between her and Myron Gaines drops the next da
 Transcript Snippet: we have an interview dropping tomorrow between me and Myron Gaines
 
 Anchored Artifacts: 
-Mentions: N-853, N-3
+Mentions: N-852, N-3
 Tags: relevance:tangential
 Investigative Direction: Check the release of the interview on the following day.
 

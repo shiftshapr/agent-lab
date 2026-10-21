@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: a00c93c3de8fb9fe25ca93a10cae28c73ff062257c969ca7726819b14b4093e7
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-777, N-778, N-779, N-11138
+  - Tip-minted Nodes (supplement_2026-10b): N-776, N-777, N-778, N-11138
   - Hole-minted Nodes (reintro-ep127): N-10736, N-10772, N-10773, N-10778
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-10862–C-10949
   - New Nodes Introduced: N-10725, N-10726, N-10727, N-10728, N-10731
-  - Reused Nodes Appearing: N-378, N-505, N-10729, N-10730, N-11, N-14, N-22, N-27, N-40, N-50, N-69, N-97, N-159, N-208, N-224, N-231, N-325, N-330, N-366, N-430, N-683, N-738, N-10000, N-10012, N-10014, N-10021, N-10024, N-10026, N-10064, N-10090, N-10131, N-10177, N-10209, N-10447, N-10566, N-10681, N-10692, N-10712, N-10717, N-10818, N-10888, N-11017, N-11065, N-10754, N-80
+  - Reused Nodes Appearing: N-378, N-505, N-10729, N-10730, N-11, N-14, N-22, N-27, N-40, N-50, N-69, N-97, N-159, N-208, N-224, N-231, N-325, N-330, N-366, N-430, N-682, N-737, N-10000, N-10012, N-10014, N-10021, N-10024, N-10026, N-10064, N-10090, N-10131, N-10177, N-10209, N-10447, N-10566, N-10681, N-10692, N-10712, N-10717, N-10818, N-10888, N-11017, N-11065, N-10754, N-80
   - Hole-minted Nodes (wave3): N-506
   - (see registers)
 
@@ -647,7 +647,7 @@ Sergeant Jennifer Faumuina of the Utah Bureau of Investigations.
 
 ---
 
-**N-683** Spencer (Frank Turek's son)
+**N-682** Spencer (Frank Turek's son)
 
 Turek's son named as FaceTiming during the event.
 
@@ -655,7 +655,7 @@ Turek's son named as FaceTiming during the event.
 
 ---
 
-**N-738** Michael Jackson
+**N-737** Michael Jackson
 
 Cited in the host's account of her Daily Wire firing.
 
@@ -879,7 +879,7 @@ Existing topic reused for influencers at the hearing.
 
 ---
 
-**N-777** Amanda Bakker
+**N-776** Amanda Bakker
 
 First named by the host at 00:19:25 in episode 127. FBI agent who testified about exhibit nine, the backpack.
 
@@ -887,7 +887,7 @@ First named by the host at 00:19:25 in episode 127. FBI agent who testified abou
 
 ---
 
-**N-778** Zach Turek
+**N-777** Zach Turek
 
 First named by the host at 00:38:14 in episode 127. Aliases: Zachary Turek, Frank Zachary Turek, Pentagon Zack.
 
@@ -895,7 +895,7 @@ First named by the host at 00:38:14 in episode 127. Aliases: Zachary Turek, Fran
 
 ---
 
-**N-779** Mark Meckler
+**N-778** Mark Meckler
 
 First named by the host at 00:47:56 in episode 127. Convention of States figure, called the snake-ler by the host.
 
@@ -1025,7 +1025,7 @@ Claim Timestamp: 00:19:25–00:20:30
 Claim: FBI agent Amanda Bakker testified that the backpack (exhibit 9) was determined to be "potentially left behind by a bystander" and that no DNA comparisons were needed at that time.
 
 Anchored Artifacts: A-2149.1
-Mentions: N-777
+Mentions: N-776
 
 Related Nodes: N-10727
 
@@ -1040,7 +1040,7 @@ Claim Timestamp: 00:20:30–00:21:15
 Claim: FBI agent Amanda Bakker testified, when confronted with lab notes stating the backpack "belongs to Kirk's detailees," that this language was not from her communication log and that it was information another individual within the laboratory received.
 
 Anchored Artifacts: A-2149.2
-Mentions: N-777, N-1
+Mentions: N-776, N-1
 
 Related Nodes: N-10727
 
@@ -1055,7 +1055,7 @@ Claim Timestamp: 00:20:30–00:24:14
 Claim: The host says Sergeant Faumuina does not remember communicating the "not probative" decision and that Bakker says someone else in the lab added the "Kirk's detail" note, asks who that person is, and says the items should have been tested.
 
 Anchored Artifacts: A-2148.2, A-2149.2
-Mentions: N-3, N-505, N-777
+Mentions: N-3, N-505, N-776
 
 Related Nodes: N-10727
 
@@ -1462,7 +1462,7 @@ Claim: FBI agent Amanda Bakker testified that initially there was no information
 Transcript Snippet: Not having any information from the investigators, we processed them for DNA.
 
 Anchored Artifacts: A-2149.1
-Mentions: N-777
+Mentions: N-776
 Related Nodes: N-10727, N-10014
 Supports: C-10887
 Tags: relevance:core
@@ -1479,7 +1479,7 @@ Claim: The host says Bakker asserted that they initially thought the items were 
 Transcript Snippet: similarly that they initially thought that it was abandoned by the rooftop shooter, which means that they found this along the route that the alleged rooftop shooter took, right?
 
 Anchored Artifacts: A-2149.1
-Mentions: N-777, N-3
+Mentions: N-776, N-3
 Related Nodes: N-10727
 Supports: C-10879
 Tags: relevance:core
@@ -1743,7 +1743,7 @@ Claim: In the interview clip Frank Turek says his son is 35, that he FaceTimed h
 Transcript Snippet: First I I was FaceTiming my wife and then I said, "Ah, let me call Spencer." And so, I started FaceTiming him.
 
 Anchored Artifacts: A-2150.1
-Mentions: N-7, N-683
+Mentions: N-7, N-682
 Related Nodes: N-10730
 Supports: C-10908
 Tags: relevance:core
@@ -1760,7 +1760,7 @@ Claim: The host says Frank Turek's son Zach (Frank Zachary Turek) was working at
 Transcript Snippet: Zach was working at the Pentagon. He is today employed in Washington, D. C. at the Pentagon serving as the deputy division chief of the Joint Staff.
 
 Anchored Artifacts: A-2150.1
-Mentions: N-778, N-7
+Mentions: N-777, N-7
 Related Nodes: N-10064, N-11138
 Tags: relevance:core
 Investigative Direction: Verify Zachary Turek's Joint Staff title and dates from Department of Defense directories or biographies.
@@ -1792,7 +1792,7 @@ Claim: The host says Turek did not call 911 and did not think to phone his son w
 Transcript Snippet: Frank didn't call 911, nor did he think to phone his son who works for the most powerful, most funded, and most corrupt division of our government, the Department of Defense?
 
 Anchored Artifacts: 
-Mentions: N-7, N-778, N-3
+Mentions: N-7, N-777, N-3
 Related Nodes: N-10729, N-10888
 Supports: C-10897
 Tags: relevance:core
@@ -1809,7 +1809,7 @@ Claim: The host says Spencer Turek works as a branch chief pilot for the Air For
 Transcript Snippet: He works as a branch chief pilot for the Air Force.
 
 Anchored Artifacts: 
-Mentions: N-683, N-3
+Mentions: N-682, N-3
 Related Nodes: N-11138
 Tags: relevance:context
 Investigative Direction: Verify Spencer Turek's role, location and duty schedule from public profiles or Air Force records.
@@ -1825,7 +1825,7 @@ Claim: The host asks why, at 2:23 p.m. in the afternoon on a Wednesday, Spencer,
 Transcript Snippet: So, why at 2:23 p. m. in the afternoon is he with his wife clearing out his military schedule to make availability to watch Charlie Kirk answer questions
 
 Anchored Artifacts: A-2150.1
-Mentions: N-683, N-1, N-3
+Mentions: N-682, N-1, N-3
 Related Nodes: N-10730
 Tags: relevance:core
 Investigative Direction: Obtain the call-detail records and duty rosters that would show where Spencer and his wife were and what they were doing at 2:23 p.m. Eastern.
@@ -1841,7 +1841,7 @@ Claim: The host says Frank Turek and his son Zach wrote a book together titled H
 Transcript Snippet: Frank and his son Zack, Pentagon Zack, actually wrote a book together entitled Hollywood Heroes.
 
 Anchored Artifacts: 
-Mentions: N-7, N-778, N-3
+Mentions: N-7, N-777, N-3
 Related Nodes: N-11138
 Tags: relevance:context
 Investigative Direction: Check the book's publication record for authorship and date.
@@ -1939,7 +1939,7 @@ Claim: The host says Jeremy Boreing hosted Mark Meckler, who told an obscure sto
 Transcript Snippet: he's particularly hosted this guy Mark Meckler and I had such a giggle about Mark Meckler telling this obscure story um that I was like mean to him.
 
 Anchored Artifacts: 
-Mentions: N-366, N-779, N-3
+Mentions: N-366, N-778, N-3
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Locate the Boreing and Meckler appearance and compare Meckler's story with the host's message archive.
@@ -1955,7 +1955,7 @@ Claim: The host says Mark Meckler was working on getting donors to force Charlie
 Transcript Snippet: telling donors to like force Charlie to uh just attach Convention of the States to Turning Point USA.
 
 Anchored Artifacts: A-2870.1, A-2870.1
-Mentions: N-779, N-1, N-3
+Mentions: N-778, N-1, N-3
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Review the host's messages with Charlie, TPUSA donor communications and Convention of the States records for the proposed attachment.
@@ -1971,7 +1971,7 @@ Claim: The host says all of her messages with Charlie, which she still has, refe
 Transcript Snippet: Charlie and me literally all of our messages which I still have of course were just just referred to him as the snake-ler instead of Meckler
 
 Anchored Artifacts: A-2870.1, A-2870.1
-Mentions: N-1, N-779, N-3
+Mentions: N-1, N-778, N-3
 Related Nodes: N-10177
 Tags: relevance:context
 Investigative Direction: Obtain the message thread for forensic confirmation of the nickname, dates and contents.
@@ -2003,7 +2003,7 @@ Claim: The host says, by the way, Tyler Bowyer, in connection with the chats, be
 Transcript Snippet: by the way Tyler Bowyer is even that the chats cuz we would also chat about Mark Meckler
 
 Anchored Artifacts: A-2870.1, A-2870.1
-Mentions: N-11, N-779, N-3
+Mentions: N-11, N-778, N-3
 Related Nodes: N-10177
 Tags: relevance:context
 Investigative Direction: Review the group chats with Bowyer for the dates and content of the Meckler discussions.
@@ -2116,7 +2116,7 @@ Claim: The host says Michael Jackson said "Jew me, screw me" in his songs and la
 Transcript Snippet: What did he say? "Jew me, screw me" in his songs.
 
 Anchored Artifacts: 
-Mentions: N-738, N-3
+Mentions: N-737, N-3
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Check the lyric source (They Don't Care About Us), the 1996 controversy and Jackson's own statements about it.
@@ -2132,7 +2132,7 @@ Claim: The host says one reason she was fired from Daily Wire was for suggesting
 Transcript Snippet: One of the reasons I was fired from Daily Wire was for suggesting that Michael Jackson could have been telling the truth
 
 Anchored Artifacts: 
-Mentions: N-3, N-738
+Mentions: N-3, N-737
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Compare with Daily Wire's and the host's other accounts of the firing reasons.

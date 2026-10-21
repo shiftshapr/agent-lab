@@ -870,8 +870,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-577",
-      "ref": "N-577",
+      "@id": "N-576",
+      "ref": "N-576",
       "name": "Katie Hobbs",
       "type": "person",
       "description": "Governor of Arizona; vetoed SB 1439; subject of Hoffman's Fox News criticism.",
@@ -1389,8 +1389,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-605",
-      "ref": "N-605",
+      "@id": "N-604",
+      "ref": "N-604",
       "name": "Shane Cashman",
       "type": "person",
       "description": "Shane Cashman; source of the Ted Bundy line the host repeats.",
@@ -1404,8 +1404,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-611",
-      "ref": "N-611",
+      "@id": "N-610",
+      "ref": "N-610",
       "name": "Jessica Reed Kraus",
       "type": "person",
       "description": "Jessica Reed Kraus; the host says Boreing compared her to the host.",
@@ -1421,8 +1421,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-897",
-      "ref": "N-897",
+      "@id": "N-896",
+      "ref": "N-896",
       "name": "Blake Harreff",
       "type": "person",
       "description": "First named by the host at 00:01:49 in episode 151. Member of Charlie Kirk's security detail on September 10.",
@@ -1441,8 +1441,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-898",
-      "ref": "N-898",
+      "@id": "N-897",
+      "ref": "N-897",
       "name": "Bobby Sausalito",
       "type": "person",
       "description": "First named by the host at 00:07:25 in episode 151. Commentator (Instagram handle take.naps) whose clip about Turek the host plays.",
@@ -1550,7 +1550,7 @@
       "investigative_direction": "Pull original tweet; verify which \"neighboring buildings\"; confirm whether on-campus surveillance footage is or is not in TPUSA possession.",
       "mentions_person_refs": [
         "N-14",
-        "N-577"
+        "N-576"
       ]
     },
     {
@@ -1656,7 +1656,7 @@
       "claim_timestamp": "00:10:55",
       "investigative_direction": "Pull original Sausalito clip; verify quotation.",
       "mentions_person_refs": [
-        "N-898",
+        "N-897",
         "N-7",
         "N-266"
       ]
@@ -1835,7 +1835,7 @@
       "investigative_direction": "Preserve both artifacts; treat host concurrence as separate claim linked to the same evidence base.",
       "mentions_person_refs": [
         "N-7",
-        "N-898"
+        "N-897"
       ]
     },
     {
@@ -1904,7 +1904,7 @@
         "C-12880"
       ],
       "mentions_person_refs": [
-        "N-897",
+        "N-896",
         "N-3",
         "N-1"
       ]
@@ -1927,7 +1927,7 @@
       "transcript_snippet": "on the basis of the stories that have been shared by Frank Couturk. Everybody they were just handing these scrubs out.",
       "mentions_person_refs": [
         "N-7",
-        "N-897"
+        "N-896"
       ]
     },
     {
@@ -1950,7 +1950,7 @@
       "transcript_snippet": "why would the feds collect Blake Harreff's shirt, which had no blood in it, but not collect Charlie Kirk's bloodied necklace and the bloodied microphone.",
       "mentions_person_refs": [
         "N-1",
-        "N-897"
+        "N-896"
       ]
     },
     {
@@ -1992,7 +1992,7 @@
       "investigative_direction": "Ask which agency collected clothing from people near Charlie and whether swabs for residue were taken.",
       "transcript_snippet": "Blake when he slid across the table may have got some explosive residue on him.",
       "mentions_person_refs": [
-        "N-897"
+        "N-896"
       ]
     },
     {
@@ -2076,7 +2076,7 @@
       "mentions_person_refs": [
         "N-366",
         "N-60",
-        "N-611"
+        "N-610"
       ]
     },
     {
@@ -2187,7 +2187,7 @@
         "C-12856"
       ],
       "mentions_person_refs": [
-        "N-898",
+        "N-897",
         "N-7",
         "N-266"
       ]
@@ -2944,7 +2944,7 @@
           "video_timestamp": "00:07:25",
           "speaker_node_ref": "N-3",
           "quote": "Jeremy Boreing is Ted Bundy doing a Mr. Rogers impression",
-          "context": "Host repeats Shane Cashman (N-605) line about Boreing.",
+          "context": "Host repeats Shane Cashman (N-604) line about Boreing.",
           "confidence": "high",
           "tags": [
             "boreing",
@@ -2963,7 +2963,7 @@
         {
           "episode": 151,
           "video_timestamp": "00:11:11",
-          "speaker_node_ref": "N-898",
+          "speaker_node_ref": "N-897",
           "quote": "he so desperately wanted to say yanking and baking right there",
           "context": "Bobby Sausalito, in the clip, jokes about Turek's phrase.",
           "confidence": "high",

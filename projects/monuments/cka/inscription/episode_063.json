@@ -472,8 +472,8 @@
           ],
           "related_nodes": [
             "N-3",
+            "N-765",
             "N-766",
-            "N-767",
             "N-456",
             "N-470"
           ],
@@ -501,7 +501,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-767"
+            "N-766"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -555,7 +555,7 @@
           "related_nodes": [
             "N-3",
             "N-495",
-            "N-769"
+            "N-768"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -581,7 +581,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-769"
+            "N-768"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -1013,8 +1013,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-766",
-      "ref": "N-766",
+      "@id": "N-765",
+      "ref": "N-765",
       "name": "Helene Bartz",
       "type": "person",
       "description": "First named by the host at 00:29:53 in episode 063. Founder of Creative Children's Academy per the host; later said to have run the Shaklee Center in Arlington Heights. Transcript variants: Helene Bartz.",
@@ -1033,8 +1033,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-767",
-      "ref": "N-767",
+      "@id": "N-766",
+      "ref": "N-766",
       "name": "Edith Walker Montgomery",
       "type": "person",
       "description": "First named by the host at 00:29:53 in episode 063. Wife of Bill Montgomery, goes by Edith Walker; alleged immigrant from Germany and psychiatric nurse. Alias: Edith Marie Walker, Edith Walker.",
@@ -1054,8 +1054,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-768",
-      "ref": "N-768",
+      "@id": "N-767",
+      "ref": "N-767",
       "name": "Michele Bachmann",
       "type": "person",
       "description": "First named by Laurie Cardoza-Moore in the audio at 00:39:08 in episode 063. Spoke for five minutes at the TPUSA Tampa conference per Moore.",
@@ -1072,8 +1072,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-769",
-      "ref": "N-769",
+      "@id": "N-768",
+      "ref": "N-768",
       "name": "Stanley Clark Moore",
       "type": "person",
       "description": "First named by the host at 00:41:47 in episode 063. Husband of Laurie Cardoza-Moore with an Air Force background per the host.",
@@ -2610,7 +2610,7 @@
       "transcript_snippet": "was founded by a woman named Helene Bartz. Okay. Her husband is a Reverend Robert Bartz of Arlington Heights.",
       "mentions_person_refs": [
         "N-3",
-        "N-766"
+        "N-765"
       ]
     },
     {
@@ -2633,9 +2633,9 @@
       "transcript_snippet": "Helene Bartz was actually good friends with Bill Montgomery and his wife Edith Montgomery.",
       "mentions_person_refs": [
         "N-3",
-        "N-766",
+        "N-765",
         "N-456",
-        "N-767"
+        "N-766"
       ]
     },
     {
@@ -2656,7 +2656,7 @@
       "transcript_snippet": "Edith Walker, who I've since learned immigrated from Germany after World War II, and I can't really find much else about her",
       "mentions_person_refs": [
         "N-3",
-        "N-767"
+        "N-766"
       ]
     },
     {
@@ -2679,8 +2679,8 @@
       "transcript_snippet": "she was actually the person that started the school with Helene Bartz and that's has since virtually been wiped from public record.",
       "mentions_person_refs": [
         "N-3",
-        "N-767",
-        "N-766"
+        "N-766",
+        "N-765"
       ]
     },
     {
@@ -2704,7 +2704,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-456",
-        "N-767",
+        "N-766",
         "N-470",
         "N-270"
       ]
@@ -2769,7 +2769,7 @@
       "transcript_snippet": "I confirmed that she did indeed prior to worked at Shackley. She actually ran the Shackley Center in Arlington Heights.",
       "mentions_person_refs": [
         "N-3",
-        "N-766"
+        "N-765"
       ]
     },
     {
@@ -2817,7 +2817,7 @@
       "transcript_snippet": "email, send us an email at more tips@canacewowens. com.",
       "mentions_person_refs": [
         "N-3",
-        "N-767"
+        "N-766"
       ]
     },
     {
@@ -2928,7 +2928,7 @@
       "mentions_person_refs": [
         "N-495",
         "N-22",
-        "N-768"
+        "N-767"
       ]
     },
     {
@@ -2952,7 +2952,7 @@
       "transcript_snippet": "She said 10% in the room got up and walked out on her.",
       "mentions_person_refs": [
         "N-495",
-        "N-768",
+        "N-767",
         "N-1",
         "N-22"
       ]
@@ -2976,7 +2976,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-495",
-        "N-769"
+        "N-768"
       ]
     },
     {
@@ -2999,7 +2999,7 @@
       "transcript_snippet": "Uh, also went to go work for NASA if if his Wikipedia is to be believed for a little bit.",
       "mentions_person_refs": [
         "N-3",
-        "N-769"
+        "N-768"
       ]
     },
     {
@@ -3022,7 +3022,7 @@
       "transcript_snippet": "Message us more tips at candacewowens. com.",
       "mentions_person_refs": [
         "N-3",
-        "N-769"
+        "N-768"
       ]
     },
     {

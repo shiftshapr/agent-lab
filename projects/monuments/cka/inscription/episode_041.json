@@ -941,8 +941,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-715",
-      "ref": "N-715",
+      "@id": "N-714",
+      "ref": "N-714",
       "name": "Abdel Fattah el-Sisi",
       "type": "person",
       "description": "First named by the host as the Egyptian president (transcript spelling el-Sisi, Elsisi) at 00:17:13 in episode 41.",
@@ -1065,7 +1065,7 @@
       "claim_timestamp": "00:16:50",
       "investigative_direction": "Verify directly against the Egyptian presidency website; reconcile Project Constitution's reference to \"SU-BTU\" with host's reference to \"BTT\" / \"SUB-TU.\"",
       "mentions_person_refs": [
-        "N-715"
+        "N-714"
       ]
     },
     {
@@ -1083,7 +1083,7 @@
       "investigative_direction": "Locate the original photograph; verify date, location, and participants.",
       "mentions_person_refs": [
         "N-3",
-        "N-715",
+        "N-714",
         "N-306"
       ]
     },
@@ -1587,7 +1587,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-715"
+        "N-714"
       ]
     },
     {
@@ -1607,7 +1607,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-305",
-        "N-715"
+        "N-714"
       ]
     },
     {

@@ -58,7 +58,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-575"
+            "N-574"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -185,7 +185,7 @@
             "C-6935"
           ],
           "related_nodes": [
-            "N-573",
+            "N-572",
             "N-10525"
           ],
           "tags": [],
@@ -237,8 +237,8 @@
             "C-6953"
           ],
           "related_nodes": [
-            "N-576",
-            "N-578",
+            "N-575",
+            "N-577",
             "N-10529"
           ],
           "tags": [],
@@ -265,7 +265,7 @@
             "C-6955"
           ],
           "related_nodes": [
-            "N-577",
+            "N-576",
             "N-10529"
           ],
           "tags": [],
@@ -292,8 +292,8 @@
             "C-6957"
           ],
           "related_nodes": [
-            "N-576",
-            "N-577"
+            "N-575",
+            "N-576"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -494,8 +494,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-573",
-      "ref": "N-573",
+      "@id": "N-572",
+      "ref": "N-572",
       "name": "Larissa",
       "type": "person",
       "description": "Author of email (A-1827.1) recounting personal placement at Antonio Placement Center in Constanta, Romania; presents as formerly adopted child with direct knowledge of institutional practices.",
@@ -516,8 +516,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-574",
-      "ref": "N-574",
+      "@id": "N-573",
+      "ref": "N-573",
       "name": "Nicole Rothstein",
       "type": "person",
       "description": "Real-estate professional referenced as Erika's New York roommate during the Next Model Management period; daughter of Alan Rothstein.",
@@ -529,14 +529,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-575",
+        "N-574",
         "N-2"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-575",
-      "ref": "N-575",
+      "@id": "N-574",
+      "ref": "N-574",
       "name": "Alan Rothstein",
       "type": "person",
       "description": "Chairman (or former chairman) of Win Haven Real Estate; subject of Erika's 2017 Instagram tribute referring to him as \"Uncle Allan.\"",
@@ -552,13 +552,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-574"
+        "N-573"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-576",
-      "ref": "N-576",
+      "@id": "N-575",
+      "ref": "N-575",
       "name": "Jake Hoffman",
       "type": "person",
       "description": "Arizona State Senator; introduced SB 1439 supporter; defended the bill on Fox News after veto.",
@@ -576,14 +576,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-577",
+        "N-576",
         "N-10529"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-577",
-      "ref": "N-577",
+      "@id": "N-576",
+      "ref": "N-576",
       "name": "Katie Hobbs",
       "type": "person",
       "description": "Governor of Arizona; vetoed SB 1439; subject of Hoffman's Fox News criticism.",
@@ -600,13 +600,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-576"
+        "N-575"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-578",
-      "ref": "N-578",
+      "@id": "N-577",
+      "ref": "N-577",
       "name": "Jake Hoffman",
       "type": "person",
       "description": "Introduced SB 1439 in the Arizona House on January 28 (year implied 2026).",
@@ -644,7 +644,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2",
-        "N-573"
+        "N-572"
       ]
     },
     {
@@ -737,9 +737,9 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
+        "N-575",
         "N-576",
-        "N-577",
-        "N-578"
+        "N-577"
       ]
     },
     {
@@ -839,8 +839,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-887",
-      "ref": "N-887",
+      "@id": "N-886",
+      "ref": "N-886",
       "name": "Fran Rothschild",
       "type": "person",
       "description": "First named by the host at 00:03:16 in episode 77 (also 'Francis Rothschild'). Described by the host as co-founder of Wilhelmina Models.",
@@ -1033,8 +1033,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-569",
-      "ref": "N-569",
+      "@id": "N-568",
+      "ref": "N-568",
       "name": "Faith Kates",
       "type": "person",
       "description": "Next Model Management co-founder and former Wilhelmina vice president, per the host.",
@@ -1052,8 +1052,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-600",
-      "ref": "N-600",
+      "@id": "N-599",
+      "ref": "N-599",
       "name": "Melania Trump",
       "type": "person",
       "description": "Host relays what Next-circle sources said about her.",
@@ -1070,8 +1070,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-736",
-      "ref": "N-736",
+      "@id": "N-735",
+      "ref": "N-735",
       "name": "Dennis Frantzve",
       "type": "person",
       "description": "Named by the host at 00:23:16 as 'Dennis Brantsbay' in Romania when the military base was set up.",
@@ -1452,7 +1452,7 @@
       "investigative_direction": "Confirm the post via Instagram archives or third-party captures; verify Alan Rothstein's role at Win Haven Real Estate through corporate filings.",
       "mentions_person_refs": [
         "N-2",
-        "N-575"
+        "N-574"
       ]
     },
     {
@@ -1550,7 +1550,7 @@
       "investigative_direction": "Verify Larissa's identity and adoption record; locate Erika Kirk's 2012–2014 promotional materials referencing Antonio Placement Center; obtain Romanian government or NGO documentation of center's operational history.",
       "mentions_person_refs": [
         "N-2",
-        "N-573"
+        "N-572"
       ]
     },
     {
@@ -1608,7 +1608,7 @@
       "investigative_direction": "Retrieve full veto letter and accompanying Arizona legislative record; identify any subsequent legislation reintroducing the plate.",
       "mentions_person_refs": [
         "N-1",
-        "N-577"
+        "N-576"
       ]
     },
     {
@@ -1627,8 +1627,8 @@
       "claim_timestamp": "00:35:05",
       "investigative_direction": "Obtain full Fox News clip with date; verify Hoffman's claimed chairmanship of the Arizona Nominations Committee and prior vetoes cited.",
       "mentions_person_refs": [
+        "N-575",
         "N-576",
-        "N-577",
         "N-1"
       ]
     },
@@ -1649,7 +1649,7 @@
       "investigative_direction": "Capture original X post URL and timestamp; verify whether post remains live or has been edited/deleted.",
       "mentions_person_refs": [
         "N-11",
-        "N-577",
+        "N-576",
         "N-1"
       ]
     },
@@ -1802,7 +1802,7 @@
         "C-6859"
       ],
       "mentions_person_refs": [
-        "N-569"
+        "N-568"
       ]
     },
     {
@@ -1822,9 +1822,9 @@
       "investigative_direction": "Verify Kates's Wilhelmina title and dates and the Wilhelmina founding record; test the host's claim that she knew Epstein in that period.",
       "transcript_snippet": "she was actually the vice president of the women's division over at Wilhelmina Models first.",
       "mentions_person_refs": [
-        "N-569",
+        "N-568",
         "N-9",
-        "N-887"
+        "N-886"
       ]
     },
     {
@@ -2073,8 +2073,8 @@
       "transcript_snippet": "Erika told people specifically during that time that she was doing real estate deals with her family.",
       "mentions_person_refs": [
         "N-2",
-        "N-574",
-        "N-575"
+        "N-573",
+        "N-574"
       ]
     },
     {
@@ -2095,7 +2095,7 @@
       "transcript_snippet": "Erika at this time was living with Nicole Rothstein and it is a fact that Nicole Rothstein did work in real estate",
       "mentions_person_refs": [
         "N-2",
-        "N-574"
+        "N-573"
       ]
     },
     {
@@ -2117,7 +2117,7 @@
       "investigative_direction": "Check New York corporate filings and Win Haven's own materials for Rothstein's chairmanship and dates.",
       "transcript_snippet": "Alan Rothstein, Erika is extremely close with him. She calls him uncle. He was the chairman, uh might still be the chairman of Win Haven Real Estates",
       "mentions_person_refs": [
-        "N-575",
+        "N-574",
         "N-2"
       ]
     },
@@ -2136,8 +2136,8 @@
       "investigative_direction": "Genealogical records of the Rothstein family would confirm or refute any relationship; none has been shown.",
       "transcript_snippet": "if they are at all related to Allan uh to the Rothstein that was involved with fixing the White Sox game, that's a Roth child That's a Rothschild family member.",
       "mentions_person_refs": [
-        "N-575",
         "N-574",
+        "N-573",
         "N-520"
       ]
     },
@@ -2309,7 +2309,7 @@
       "investigative_direction": "Identify which fact-checks the writer means and what they actually examined.",
       "transcript_snippet": "While independent fact-checkers have found no evidence linking Ms. Kirk's work to illicit activities, I believe the history of the Antonio Placement Center warrants further investigation.",
       "mentions_person_refs": [
-        "N-573",
+        "N-572",
         "N-2"
       ]
     },
@@ -2356,7 +2356,7 @@
       "transcript_snippet": "I don't think it is just ironic that you happen to go right when the military base got set up and when Dennis Brantsbay was there.",
       "mentions_person_refs": [
         "N-11",
-        "N-736"
+        "N-735"
       ]
     },
     {
@@ -2551,7 +2551,7 @@
       "investigative_direction": "Check business filings showing shared entities between Hoffman and Bowyer and Hoffman's TPUSA employment dates.",
       "transcript_snippet": "Jake Hoffman is a dear friend of Tyler Bowyer, a partner of Tyler Bowyer. He formerly used to work at Turning Point USA.",
       "mentions_person_refs": [
-        "N-576",
+        "N-575",
         "N-11"
       ]
     },
@@ -2574,7 +2574,7 @@
       "investigative_direction": "Confirm the introduction date and sponsors on the Arizona Legislature bill history for SB 1439.",
       "transcript_snippet": "Jake Hoffman back on January 28th introduced a bill for a state license plate to honor Charlie Kirk.",
       "mentions_person_refs": [
-        "N-576",
+        "N-575",
         "N-1"
       ]
     },
@@ -2638,7 +2638,7 @@
       "investigative_direction": "Check attendance reports for State Farm Stadium and the second venue on the memorial date.",
       "transcript_snippet": "the only time in Arizona history that we filled two professional sports stadiums to honor and run tribute to the life of an Arizona citizen.",
       "mentions_person_refs": [
-        "N-576",
+        "N-575",
         "N-1"
       ]
     },
@@ -2684,8 +2684,8 @@
       "investigative_direction": "Check Hobbs's veto letters from 2025 for the cited bill and wording.",
       "transcript_snippet": "she used the acronym of the committee as her reason for the veto.",
       "mentions_person_refs": [
-        "N-576",
-        "N-577"
+        "N-575",
+        "N-576"
       ]
     },
     {
@@ -2858,7 +2858,7 @@
       "investigative_direction": "Identify the sources and their relationship to Melania Trump's modeling years.",
       "transcript_snippet": "they actually quite liked Melania and said that people who thought that she actually wanted to be the first lady probably had it very wrong",
       "mentions_person_refs": [
-        "N-600"
+        "N-599"
       ]
     },
     {
@@ -2878,7 +2878,7 @@
       "investigative_direction": "Review Melania Trump's modeling agency records for any Next Model Management association.",
       "transcript_snippet": "Melania's name came up with this next modeling thing they were they were speaking about cuz you know Melania came from Serbia and she was a model and she was in circles in their orbit.",
       "mentions_person_refs": [
-        "N-600"
+        "N-599"
       ]
     }
   ],

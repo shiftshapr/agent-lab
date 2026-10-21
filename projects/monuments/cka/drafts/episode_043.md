@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: a0bc3eb2ea2af5020423c10e7e02d4d3bb05ac5892b4c56a9ad9bdc3ed449838
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-910, N-11336
+  - Tip-minted Nodes (supplement_2026-10f): N-909, N-11336
   - Hole-minted Nodes (reintro-ep043): N-389
   - Tip-minted Nodes (reintro-ep043): N-11186, N-11287
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
@@ -236,7 +236,7 @@ Video Timestamp: 00:25:22
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3773, C-3774, C-3775, C-3776, N-220, N-267, N-910, N-389*
+*Related: C-3773, C-3774, C-3775, C-3776, N-220, N-267, N-909, N-389*
 
 **A-3210.2** Host verbal description of what Tim Pool said on the same show about her viewers and his lost subscribers (not shown)
 
@@ -728,7 +728,7 @@ Existing topic reused for the host's account of Tim Pool's remarks.
 
 ---
 
-**N-910** George Santos
+**N-909** George Santos
 
 First named by the host at 00:25:22 in episode 43. Former congressman who appears in the Tim Pool clip.
 

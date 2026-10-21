@@ -1691,8 +1691,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-757",
-      "ref": "N-757",
+      "@id": "N-756",
+      "ref": "N-756",
       "name": "Bob Coy",
       "type": "person",
       "description": "Bob Coy; Fort Lauderdale pastor the host says was in a sexual abuse scandal.",
@@ -1779,8 +1779,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-707",
-      "ref": "N-707",
+      "@id": "N-706",
+      "ref": "N-706",
       "name": "Joyce Churnick",
       "type": "person",
       "description": "First named by the host at 00:45:45 in episode 34 (spelled Churnick in the transcript). Donor the host says yelled and took away a million dollars after Tucker Carlson's speech.",
@@ -1830,8 +1830,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-708",
-      "ref": "N-708",
+      "@id": "N-707",
+      "ref": "N-707",
       "name": "John F. Kennedy",
       "type": "person",
       "description": "First named by the host at 00:49:25 in episode 34 (as JFK). Cited in the host's remark about the Israel exception to foreign-agent registration.",
@@ -3096,7 +3096,7 @@
       "investigative_direction": "Review court records and contemporaneous news reports on Bob Coy's resignation and allegations.",
       "transcript_snippet": "Bob Coy, the one from Fort Lauderdale who got into a little bit of a scandal with sexual abuse.",
       "mentions_person_refs": [
-        "N-757",
+        "N-756",
         "N-17",
         "N-36"
       ]
@@ -3171,7 +3171,7 @@
       "investigative_direction": "Confirm the donor's name spelling and the donation amount through TPUSA donor records and the audio the host says exists.",
       "transcript_snippet": "I told you about a woman who yelled um and took away a million dollars because of the Tucker Carlson speech. That woman was Joyce Churnick.",
       "mentions_person_refs": [
-        "N-707",
+        "N-706",
         "N-22",
         "N-1",
         "N-3"
@@ -3216,7 +3216,7 @@
       "investigative_direction": "Review historical records of the Kennedy administration's FARA actions against Israel-related organizations and their outcome.",
       "transcript_snippet": "when JFK tried to put an end to that uh well I guess rather put an end to the Israel exception that we now have by making them sign up and acknowled uh they shot him.",
       "mentions_person_refs": [
-        "N-708",
+        "N-707",
         "N-3"
       ]
     },

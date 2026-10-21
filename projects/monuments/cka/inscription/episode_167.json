@@ -48,7 +48,7 @@
           ],
           "related_nodes": [
             "N-352",
-            "N-972",
+            "N-970",
             "N-11445"
           ],
           "tags": [],
@@ -230,7 +230,7 @@
             "C-14442"
           ],
           "related_nodes": [
-            "N-972",
+            "N-970",
             "N-353",
             "N-11445"
           ],
@@ -259,7 +259,7 @@
             "C-14447"
           ],
           "related_nodes": [
-            "N-957",
+            "N-955",
             "N-11218",
             "N-11447"
           ],
@@ -286,7 +286,7 @@
             "C-14455"
           ],
           "related_nodes": [
-            "N-962",
+            "N-960",
             "N-5"
           ],
           "tags": [],
@@ -315,9 +315,9 @@
           ],
           "related_nodes": [
             "N-277",
-            "N-962",
-            "N-592",
-            "N-970",
+            "N-960",
+            "N-591",
+            "N-968",
             "N-11443"
           ],
           "tags": [],
@@ -656,8 +656,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-592",
-      "ref": "N-592",
+      "@id": "N-591",
+      "ref": "N-591",
       "name": "Pete Hegseth",
       "type": "person",
       "description": "The host alleges he lied about bombing Iranian schools and cites his plan for a live execution.",
@@ -675,8 +675,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-876",
-      "ref": "N-876",
+      "@id": "N-875",
+      "ref": "N-875",
       "name": "Jean-Michel Trogneux",
       "type": "person",
       "description": "Named in the host's Brigitte doll parody.",
@@ -692,8 +692,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-957",
-      "ref": "N-957",
+      "@id": "N-955",
+      "ref": "N-955",
       "name": "Val Peterson",
       "type": "person",
       "description": "UVU vice president of facilities. The host reports his former hospital and airport board seats.",
@@ -713,8 +713,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-962",
-      "ref": "N-962",
+      "@id": "N-960",
+      "ref": "N-960",
       "name": "Katie Zacharia",
       "type": "person",
       "description": "Outgoing White House press secretary.",
@@ -737,8 +737,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-963",
-      "ref": "N-963",
+      "@id": "N-961",
+      "ref": "N-961",
       "name": "Charles Peterson",
       "type": "person",
       "description": "Val Peterson's brother, referred to as \"another alleged innocent until proven guilty\".",
@@ -754,8 +754,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-970",
-      "ref": "N-970",
+      "@id": "N-968",
+      "ref": "N-968",
       "name": "Nidal Malik Hasan",
       "type": "person",
       "description": "Referred to as \"the Fort Hood shooter\" in the Tim Dillon clip.",
@@ -1290,8 +1290,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-971",
-      "ref": "N-971",
+      "@id": "N-969",
+      "ref": "N-969",
       "name": "Jussie Smollett",
       "type": "person",
       "description": "First named by the host at 00:03:05 in episode 167 (\"Jussie Smollett\"), as an analogy for a staged hate crime.",
@@ -1307,8 +1307,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-972",
-      "ref": "N-972",
+      "@id": "N-970",
+      "ref": "N-970",
       "name": "Kenneth \"Kenny\" Wynn",
       "type": "person",
       "description": "First named by the host at 00:17:30 in episode 167. Brother of Steve Wynn; the host says he is Blake Wynn's father. Transcribed as \"Kenneth Wynn\", \"Kenny Wynn\", \"Kenny Wynn\".",
@@ -1351,7 +1351,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-972",
+        "N-970",
         "N-352"
       ]
     },
@@ -1405,7 +1405,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-957",
+        "N-955",
         "N-11218"
       ]
     }
@@ -1428,7 +1428,7 @@
       "investigative_direction": "White House announcements and press coverage of Zacharia's departure in October 2026.",
       "transcript_snippet": "Katie Zacharia, press secretary, the one I had only just began to warm to. She is no longer",
       "mentions_person_refs": [
-        "N-962"
+        "N-960"
       ]
     },
     {
@@ -1597,7 +1597,7 @@
       "investigative_direction": "The Smollett trial record (Cook County, 2021) on the Osundairo brothers.",
       "transcript_snippet": "Hiring two black Nigerian actors to put a noose around your neck during a polar vortex out in Chicago type scheme.",
       "mentions_person_refs": [
-        "N-971"
+        "N-969"
       ]
     },
     {
@@ -1899,7 +1899,7 @@
       "transcript_snippet": "over the weekend, someone broke into our podcast studio and they threw bleach on my Brigitte doll.",
       "mentions_person_refs": [
         "N-82",
-        "N-876"
+        "N-875"
       ]
     },
     {
@@ -2296,7 +2296,7 @@
       "transcript_snippet": "someone emailed us a tip that Blake's father, Blake's father, Kenneth Wynn, who goes also goes by Kenny was raided back in 2004.",
       "mentions_person_refs": [
         "N-352",
-        "N-972"
+        "N-970"
       ]
     },
     {
@@ -2318,7 +2318,7 @@
       "investigative_direction": "Las Vegas Sun, February 26 and March 4, 2004; ICE records. The coverage found reports no charges filed.",
       "transcript_snippet": "Kenny Wynn, the brother of hotel casino developer Steve Wynn, is the subject of the same international child pornography investigation that netted another local man earlier this month.",
       "mentions_person_refs": [
-        "N-972",
+        "N-970",
         "N-353"
       ]
     },
@@ -2341,7 +2341,7 @@
       "investigative_direction": "The search warrant application and the Regpay investigation records.",
       "transcript_snippet": "came under suspicion when investigators taking part in Operation Predator, discovered his name on a website where child porn images were trafficked.",
       "mentions_person_refs": [
-        "N-972"
+        "N-970"
       ]
     },
     {
@@ -2363,7 +2363,7 @@
       "investigative_direction": "Search warrant return and any later charging decision.",
       "transcript_snippet": "authorities confiscated a computer from Kenny Wynn Kenny Wynn's home last week and were searching its hard drive for images of child pornography",
       "mentions_person_refs": [
-        "N-972"
+        "N-970"
       ]
     },
     {
@@ -2444,8 +2444,8 @@
       "investigative_direction": "UVU staff directory and Utah House member biography.",
       "transcript_snippet": "Val Peterson, the vice president of facilities over at UVU.",
       "mentions_person_refs": [
-        "N-957",
-        "N-963"
+        "N-955",
+        "N-961"
       ]
     },
     {
@@ -2468,7 +2468,7 @@
       "investigative_direction": "Val Peterson's Utah legislature biography and UVU profile.",
       "transcript_snippet": "according to Val's current government biography and the UVU website, he sat on the board of Timpanogos Hospital, the very hospital that Charlie was transported to.",
       "mentions_person_refs": [
-        "N-957",
+        "N-955",
         "N-1"
       ]
     },
@@ -2491,7 +2491,7 @@
       "investigative_direction": "Provo Municipal Airport advisory board records.",
       "transcript_snippet": "And at one point, he also sat on the board of Provo airport.",
       "mentions_person_refs": [
-        "N-957"
+        "N-955"
       ]
     },
     {
@@ -2514,7 +2514,7 @@
       "investigative_direction": "Timpanogos Regional Hospital governing board records.",
       "transcript_snippet": "So he is no longer on the board as of 2019.",
       "mentions_person_refs": [
-        "N-957"
+        "N-955"
       ]
     },
     {
@@ -2581,7 +2581,7 @@
         "C-14330"
       ],
       "mentions_person_refs": [
-        "N-957",
+        "N-955",
         "N-41"
       ]
     },
@@ -2620,7 +2620,7 @@
       "investigative_direction": "Department of War statements and reporting on strikes on Iranian schools.",
       "transcript_snippet": "He's lying about bombing Iranian schools filled with children.",
       "mentions_person_refs": [
-        "N-592"
+        "N-591"
       ]
     },
     {
@@ -2640,7 +2640,7 @@
       "investigative_direction": "News reports on the reasons for Zacharia's departure.",
       "transcript_snippet": "relative to Trump being feeling some embarrassment which is crazy.",
       "mentions_person_refs": [
-        "N-962",
+        "N-960",
         "N-5"
       ]
     },
@@ -2664,7 +2664,7 @@
         "C-14284"
       ],
       "mentions_person_refs": [
-        "N-962"
+        "N-960"
       ]
     },
     {
@@ -2684,7 +2684,7 @@
       "investigative_direction": "Zacharia's X account, October 16, 2026.",
       "transcript_snippet": "She tweeted this out on October 16th. She said, \"President Trump is a kind, wonderful, gracious, thoughtful, enthusiastic, and hardworking man.",
       "mentions_person_refs": [
-        "N-962",
+        "N-960",
         "N-5"
       ]
     },
@@ -2705,7 +2705,7 @@
       "investigative_direction": "Fox News announcements on Zacharia's return.",
       "transcript_snippet": "So, back to Fox News she goes.",
       "mentions_person_refs": [
-        "N-962"
+        "N-960"
       ]
     },
     {
@@ -2726,7 +2726,7 @@
       "transcript_snippet": "He was a fan of Katie Zacharia and he also had the same perspective of me as as I did regarding um this bizarre push for a public execution.",
       "mentions_person_refs": [
         "N-277",
-        "N-962"
+        "N-960"
       ]
     },
     {
@@ -2749,9 +2749,9 @@
         "C-14379"
       ],
       "mentions_person_refs": [
-        "N-592",
+        "N-591",
         "N-277",
-        "N-962"
+        "N-960"
       ]
     },
     {
@@ -2774,7 +2774,7 @@
       "transcript_snippet": "Katie Zacharia out, I believe that's her name. She was the press secretary. We hardly knew her and she's out.",
       "mentions_person_refs": [
         "N-277",
-        "N-962"
+        "N-960"
       ]
     },
     {
@@ -2795,7 +2795,7 @@
       "transcript_snippet": "the Democrats going to launch investigations into the crypto scams and into the stuff Hegseth is doing.",
       "mentions_person_refs": [
         "N-277",
-        "N-592"
+        "N-591"
       ]
     },
     {
@@ -2818,7 +2818,7 @@
       "transcript_snippet": "the Fort Hood shooter would get shot in the head. But that was their idea.",
       "mentions_person_refs": [
         "N-277",
-        "N-970"
+        "N-968"
       ]
     },
     {

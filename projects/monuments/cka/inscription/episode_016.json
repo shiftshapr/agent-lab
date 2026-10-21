@@ -581,7 +581,7 @@
             "N-1",
             "N-3",
             "N-40",
-            "N-902",
+            "N-901",
             "N-118",
             "N-10206",
             "N-11158"
@@ -1609,8 +1609,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-864",
-      "ref": "N-864",
+      "@id": "N-863",
+      "ref": "N-863",
       "name": "Britta Weidner",
       "type": "person",
       "description": "Britta Weidner; author of posts the host reads.",
@@ -2278,8 +2278,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-902",
-      "ref": "N-902",
+      "@id": "N-901",
+      "ref": "N-901",
       "name": "Ashton Forbes",
       "type": "person",
       "description": "First named by the host at 00:07:45 in episode 16. Online commentator whose X post the host reads, saying she has no credibility, that Telegram group chat scams exist, and that she is building a cult.",
@@ -2457,7 +2457,7 @@
       "investigative_direction": "Cross-reference the Britta accusation against the Kolvet confirmation (C-1431) to determine whether Britta publicly retracted or updated her position.",
       "mentions_person_refs": [
         "N-3",
-        "N-864"
+        "N-863"
       ]
     },
     {
@@ -2912,7 +2912,7 @@
       "investigative_direction": "Pull the original Forbes post and its timestamp; check whether he later acknowledged the texts were authenticated by Andrew Kolvet.",
       "transcript_snippet": "First off, Candace has no credibility. Second, there's a bunch of Telegram group chat scams that claim to be real people.",
       "mentions_person_refs": [
-        "N-902",
+        "N-901",
         "N-3",
         "N-118"
       ]
@@ -2936,7 +2936,7 @@
       "investigative_direction": "Pull the original post; compare with Andrew Kolvet's statement (C-1431 and C-1440) that the chain fits Kirk's known frustrations about Israel.",
       "transcript_snippet": "Lastly, even if the text messages were real, they mean literally nothing related to Charlie's death.",
       "mentions_person_refs": [
-        "N-902",
+        "N-901",
         "N-1",
         "N-40"
       ]
@@ -2960,7 +2960,7 @@
       "investigative_direction": "Pull the original post and any replies; this is an opinion attributed to Forbes and is recorded only as said.",
       "transcript_snippet": "I find it scary how Candace is building a literal cult. Soon they'll be drinking Kool-Aid in sync",
       "mentions_person_refs": [
-        "N-902",
+        "N-901",
         "N-3"
       ]
     },
@@ -2979,7 +2979,7 @@
       "investigative_direction": "Check Britta's public employment history with Seth Dillon's company; the host says it only as context for her posts.",
       "transcript_snippet": "She wrote and by the way she used to work for Seth Dillon.",
       "mentions_person_refs": [
-        "N-864",
+        "N-863",
         "N-38"
       ]
     },
@@ -3062,7 +3062,7 @@
       "investigative_direction": "Pull the original post; the host denies the characterization and says the word simply means a bombardment.",
       "transcript_snippet": "Candace thinks it's cute to use Nazi terminology and make a turning point pun while she incites further harassment of TPUSA employees by implicating them in Charlie's death.",
       "mentions_person_refs": [
-        "N-864",
+        "N-863",
         "N-3"
       ]
     },
@@ -4782,7 +4782,7 @@
         {
           "episode": 16,
           "video_timestamp": "00:08:55",
-          "speaker_node_ref": "N-864",
+          "speaker_node_ref": "N-863",
           "quote": "I'm just asking questions.",
           "context": "Host reads Britta's post and mocks the phrase; the quoted phrase is Britta's.",
           "confidence": "medium",

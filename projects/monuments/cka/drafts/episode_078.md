@@ -12,12 +12,12 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10f): N-11342, N-11343
-  - Hole-minted Nodes (reintro-ep078): N-591, N-10705, N-10812
+  - Hole-minted Nodes (reintro-ep078): N-590, N-10705, N-10812
   - Tip-minted Nodes (reintro-ep078): N-10986, N-11211
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-6970–C-7071
-  - New Nodes Introduced: N-581, N-582, N-583, N-584, N-585, N-586, N-587, N-589, N-10531, N-10533, N-10534, N-10535, N-10536, N-10538
-  - Reused Nodes Appearing: N-580, N-10532, N-4, N-5, N-7, N-11, N-14, N-22, N-33, N-50, N-69, N-97, N-163, N-186, N-244, N-261, N-280, N-366, N-377, N-460, N-489, N-520, N-660, N-682, N-10270, N-10290, N-10316, N-10324, N-10346, N-10383, N-10385, N-10421, N-10519, N-10522, N-10523, N-10897, N-10916, N-10922, N-11165, N-11192, N-10537, N-10768, N-10987
+  - New Nodes Introduced: N-580, N-581, N-582, N-583, N-584, N-585, N-586, N-588, N-10531, N-10533, N-10534, N-10535, N-10536, N-10538
+  - Reused Nodes Appearing: N-579, N-10532, N-4, N-5, N-7, N-11, N-14, N-22, N-33, N-50, N-69, N-97, N-163, N-186, N-244, N-261, N-280, N-366, N-377, N-460, N-489, N-520, N-659, N-681, N-10270, N-10290, N-10316, N-10324, N-10346, N-10383, N-10385, N-10421, N-10519, N-10522, N-10523, N-10897, N-10916, N-10922, N-11165, N-11192, N-10537, N-10768, N-10987
   - (see registers)
 
 # Meta-Data
@@ -40,7 +40,7 @@
 
 - **Artifact Families Introduced:** A-1835, A-1836, A-1837, A-1838, A-1839, A-1840, A-1841, A-1842, A-1843, A-1844, A-1845, A-2523
 - **Claim Range:** C-6972–C-7002
-- **New People Nodes Introduced:** N-580, N-581, N-582, N-583, N-584, N-585, N-586, N-587, N-41, N-273, N-178, N-569, N-589
+- **New People Nodes Introduced:** N-579, N-580, N-581, N-582, N-583, N-584, N-585, N-586, N-41, N-273, N-178, N-568, N-588
 - **New Investigation Target Nodes Introduced:** N-10531, N-10532, N-10533, N-10534, N-10535, N-10536, N-10537
 - **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
@@ -68,7 +68,7 @@ Video Timestamp: 00:03:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-6972, C-6976, C-6977, N-2, N-582, N-10531, N-10532*
+*Related: C-6972, C-6976, C-6977, N-2, N-581, N-10531, N-10532*
 
 ---
 
@@ -82,7 +82,7 @@ Video Timestamp: 00:08:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-6986, N-585, N-586, N-587, N-178*
+*Related: C-6986, N-584, N-585, N-586, N-178*
 
 ---
 
@@ -96,7 +96,7 @@ Video Timestamp: 00:13:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-6996, N-2, N-581, N-273, N-10533*
+*Related: C-6996, N-2, N-580, N-273, N-10533*
 
 ---
 
@@ -110,7 +110,7 @@ Video Timestamp: 00:17:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-7001, C-7002, N-2, N-583, N-10534*
+*Related: C-7001, C-7002, N-2, N-582, N-10534*
 
 **A-1838.2** Erika Kirk interview clip in which she states Romanian orphans did not trust Renee Crossman
 
@@ -120,7 +120,7 @@ Video Timestamp: 00:16:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-6997, N-2, N-583, N-10534*
+*Related: C-6997, N-2, N-582, N-10534*
 
 ---
 
@@ -134,7 +134,7 @@ Video Timestamp: 00:18:27
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-7005, C-7003, C-7011, N-583, N-584, N-10534*
+*Related: C-7005, C-7003, C-7011, N-582, N-583, N-10534*
 
 ---
 
@@ -148,7 +148,7 @@ Video Timestamp: 00:21:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-7007, N-589, N-584, N-10534*
+*Related: C-7007, N-588, N-583, N-10534*
 
 ---
 
@@ -240,7 +240,7 @@ Video Timestamp: 00:42:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-7040, C-7046, N-1, N-580*
+*Related: C-7040, C-7046, N-1, N-579*
 
 ---
 
@@ -254,7 +254,7 @@ Video Timestamp: 00:43:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-7044, N-580, N-41, N-10538*
+*Related: C-7044, N-579, N-41, N-10538*
 
 **A-1844.2** X community note fact-checking TP Action's Massie tweet: "Rep. Thomas Massie was one of Charlie Kirk's favorite congressman"
 
@@ -264,7 +264,7 @@ Video Timestamp: 00:43:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-7045, N-580, N-10538*
+*Related: C-7045, N-579, N-10538*
 
 ---
 
@@ -278,7 +278,7 @@ Video Timestamp: 00:44:27
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-7046, C-7047, N-580, N-10538*
+*Related: C-7046, C-7047, N-579, N-10538*
 
 ---
 
@@ -420,7 +420,7 @@ Confidence Level: High
 # Node Register
 
 
-**N-580** Thomas Massie
+**N-579** Thomas Massie
 
 Kentucky congressman; central to Turning Point Action disavowal incident; displayed video shows Charlie Kirk naming him a favorite congressman on multiple occasions.
 
@@ -433,7 +433,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-581** Sarah Huckabee Sanders
+**N-580** Sarah Huckabee Sanders
 
 Governor of Arkansas; displayed signing proclamation with Erika Kirk for Club America in Arkansas high schools.
 
@@ -446,7 +446,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-582** Mark Epstein
+**N-581** Mark Epstein
 
 Jeffrey Epstein's brother; named by host as owner of building matching the white-building description and as inheritor of Jeffrey Epstein's wealth (host attribution, not cited within displayed NY Post article text).
 
@@ -459,7 +459,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-583** Renee Crossman
+**N-582** Renee Crossman
 
 President of United Hands Romania Association; partner of Erika Kirk on the Remnant/Romanian Angels project; per displayed Romanian investigative article, originated from the Children of God / The Family religious sect.
 
@@ -472,7 +472,7 @@ Investigative Pressure: High
 
 ---
 
-**N-584** David Berg
+**N-583** David Berg
 
 Founder of Children of God / The Family; historical figure named in displayed Romanian investigative article as advocate of sexual relations with minors including his own daughter at age 12.
 
@@ -485,7 +485,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-585** Oren Alexander
+**N-584** Oren Alexander
 
 Real-estate broker; per displayed news clip, found guilty on all 10 counts including sex trafficking in Manhattan federal trial.
 
@@ -498,7 +498,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-586** Tal Alexander
+**N-585** Tal Alexander
 
 Real-estate broker; per displayed news clip, found guilty of sex trafficking and sex trafficking of a minor.
 
@@ -511,7 +511,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-587** Alon Alexander
+**N-586** Alon Alexander
 
 Private security executive; per displayed news clip, found guilty of sex trafficking of a minor and sexual abuse.
 
@@ -533,7 +533,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-581, N-10533*
+*Related: N-580, N-10533*
 
 ---
 
@@ -546,11 +546,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1836.1, N-585, N-586, N-587*
+*Related: A-1836.1, N-584, N-585, N-586*
 
 ---
 
-**N-569** Faith Kates
+**N-568** Faith Kates
 
 Founder of Next Model Management, the Rothschild spin-out modeling agency with which Erika Kirk is alleged to have dealt.
 
@@ -563,7 +563,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-589** Christina Babin
+**N-588** Christina Babin
 
 Former Children of God member interviewed by Megyn Kelly in 2018; described childhood sexual instruction by adult cult members.
 
@@ -572,7 +572,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1840.1, C-7007, N-584*
+*Related: A-1840.1, C-7007, N-583*
 
 ---
 
@@ -585,7 +585,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1835.1, C-6972, C-6976, C-6977, N-2, N-582, N-10532*
+*Related: A-1835.1, C-6972, C-6976, C-6977, N-2, N-581, N-10532*
 
 ---
 
@@ -598,7 +598,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1835.1, N-2, N-569, N-10531*
+*Related: A-1835.1, N-2, N-568, N-10531*
 
 ---
 
@@ -611,7 +611,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1837.1, C-6996, N-2, N-581, N-273*
+*Related: A-1837.1, C-6996, N-2, N-580, N-273*
 
 ---
 
@@ -624,7 +624,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1838.1, A-1838.2, A-1839.1, A-1840.1, C-7001, C-6997, C-7005, C-7003, N-583, N-584, N-589*
+*Related: A-1838.1, A-1838.2, A-1839.1, A-1840.1, C-7001, C-6997, C-7005, C-7003, N-582, N-583, N-588*
 
 ---
 
@@ -676,7 +676,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1843.1, A-1844.1, A-1844.2, A-1845.1, C-7040, C-7044, C-7045, C-7046, C-7047, N-1, N-580, N-41*
+*Related: A-1843.1, A-1844.1, A-1844.2, A-1845.1, C-7040, C-7044, C-7045, C-7046, C-7047, N-1, N-579, N-41*
 
 ---
 
@@ -896,7 +896,7 @@ Rothschild family; named in the Corcoran presidency claim.
 
 ---
 
-**N-591** Bret Weinstein
+**N-590** Bret Weinstein
 
 Bret Weinstein; named in a viewer comment on his interview with Tucker Carlson.
 
@@ -904,7 +904,7 @@ Bret Weinstein; named in a viewer comment on his interview with Tucker Carlson.
 
 ---
 
-**N-660** Ivanka Trump
+**N-659** Ivanka Trump
 
 Ivanka Trump; named in the Miami mansion claim.
 
@@ -912,7 +912,7 @@ Ivanka Trump; named in the Miami mansion claim.
 
 ---
 
-**N-682** Jon Bray
+**N-681** Jon Bray
 
 Jon Bray; investigator on the microphone theory and the Tennessee explosion.
 
@@ -1161,7 +1161,7 @@ Claim Timestamp: 00:08:25
 Claim: Per the displayed news clip, a federal jury in Manhattan found Tal, Oren, and Alon Alexander guilty of all 10 counts, including sex trafficking; Tal and Alon also convicted of sex trafficking a minor; Oren and Alon also convicted of sexual abuse. Sentencing scheduled for August.
 
 Anchored Artifacts: A-1836.1
-Mentions: N-585, N-586, N-587
+Mentions: N-584, N-585, N-586
 Investigative Direction: Obtain federal court docket for the Southern District of New York case, cross-reference Epstein-file redaction entries, and document Kushner/White House visit records for the brothers.
 
 ---
@@ -1173,7 +1173,7 @@ Claim Timestamp: 00:13:44
 Claim: The host says Arkansas Governor Sarah Huckabee Sanders signed a proclamation with Erika Kirk at her side announcing support for every high school in Arkansas to adopt Club America (TPUSA high-school chapter program); in the clip she plays, Sanders welcomes Erika Kirk and says Club America is launching in Arkansas.
 
 Anchored Artifacts: A-1837.1
-Mentions: N-2, N-581
+Mentions: N-2, N-580
 Related Nodes: N-10533
 Investigative Direction: Obtain the official proclamation text and any associated Arkansas Department of Education guidance; verify whether the proclamation is symbolic or carries operational force.
 
@@ -1186,7 +1186,7 @@ Claim Timestamp: 00:17:48
 Claim: Per the displayed 2017 article, Erika Kirk stated: "I am happy to collaborate with United Hands Romania Association and Renee Crossman, the president of this organization, but also with the representatives of the Antonio Placement Center."
 
 Anchored Artifacts: A-1838.1
-Mentions: N-2, N-583
+Mentions: N-2, N-582
 Related Nodes: N-10534
 Investigative Direction: Locate original 2017 article source and verify the Antonio Placement Center in Constanta; cross-check Romanian nonprofit registration records for United Hands Romania.
 
@@ -1199,7 +1199,7 @@ Claim Timestamp: 00:16:04
 Claim: In a clip the host plays, Erika Kirk says the people at the base in Constanța do not trust the woman who heads United Hands Romania Association in Ohio because they have no connection to her; the host characterizes this as the Romanian orphans not trusting her.
 
 Anchored Artifacts: A-1838.2
-Mentions: N-2, N-583
+Mentions: N-2, N-582
 Related Nodes: N-10534
 Investigative Direction: Identify the interview source and date; obtain statements from orphanage staff or volunteers regarding Crossman's access to children.
 
@@ -1212,7 +1212,7 @@ Claim Timestamp: 00:19:25
 Claim: Per the displayed Romanian investigative article, Children of God founder David Berg claimed incest and sex involving minors were permitted; the article states Berg made his daughter Faithy a sexual partner when she reached age 12.
 
 Anchored Artifacts: A-1839.1
-Mentions: N-584
+Mentions: N-583
 Related Nodes: N-10534
 Investigative Direction: Cross-reference with established historical documentation of the Children of God / The Family movement's teachings on minor sexual activity.
 
@@ -1225,7 +1225,7 @@ Claim Timestamp: 00:21:19
 Claim: Per the displayed Megyn Kelly interview clip, Christina Babin described being taken by an adult couple in the night as a child and shown how to have sex, attributing the instruction to a letter sent by cult leader David Berg.
 
 Anchored Artifacts: A-1840.1
-Mentions: N-584, N-589, N-46
+Mentions: N-583, N-588, N-46
 Related Nodes: N-10534
 Investigative Direction: Locate the 2018 Megyn Kelly episode and Babin's full interview; corroborate with other documented survivor testimony regarding Berg's "sexual sharing" directive.
 
@@ -1290,7 +1290,7 @@ Claim Timestamp: 00:42:41
 Claim: Per the displayed video clip, Charlie Kirk names Rep. Thomas Massie as one of his favorite members of Congress and welcomes him to discuss the new Church Committee.
 
 Anchored Artifacts: A-1843.1
-Mentions: N-1, N-580
+Mentions: N-1, N-579
 Related Nodes: N-10538
 Investigative Direction: Identify date and program of the clip; corroborate via multiple Charlie Kirk video instances praising Massie (per host, spanning 2016 through 2023).
 
@@ -1303,7 +1303,7 @@ Claim Timestamp: 00:43:29
 Claim: The host says Turning Point Action tweeted that Thomas Massie was a "rhino" who needed to be replaced, and shows the tweet.
 
 Anchored Artifacts: A-1844.1
-Mentions: N-580
+Mentions: N-579
 Related Nodes: N-10538
 Investigative Direction: Preserve original tweet (including any subsequent edits/deletions); identify the author of the TP Action account; document timing relative to Massie Committee work.
 
@@ -1316,7 +1316,7 @@ Claim Timestamp: 00:43:29
 Claim: Per the displayed X community note, the Massie tweet from Turning Point Action was fact-checked with the statement: "Rep. Thomas Massie was one of Charlie Kirk's favorite congressman."
 
 Anchored Artifacts: A-1844.2
-Mentions: N-580, N-1
+Mentions: N-579, N-1
 Related Nodes: N-10538
 Investigative Direction: Preserve community note metadata; identify raters and any subsequent updates to the note.
 
@@ -1329,7 +1329,7 @@ Claim Timestamp: 00:44:27
 Claim: The host says Massie's reply shows a tweet of Charlie Kirk calling Massie one of his favorite congressmen, and that Massie had been Charlie's favorite congressman from at least 2016 through 2023.
 
 Anchored Artifacts: A-1843.1, A-1845.1
-Mentions: N-1, N-580
+Mentions: N-1, N-579
 Related Nodes: N-10538
 Investigative Direction: Compile and date-stamp all public Charlie Kirk video appearances praising Massie; document the platform and audience of each.
 
@@ -1342,7 +1342,7 @@ Claim Timestamp: 00:18:27
 Claim: Per the displayed Romanian investigative article, Renee Crossman is identified by the Romanian investigative team as originating from the Children of God religious sect (now called The Family).
 
 Anchored Artifacts: A-1839.1
-Mentions: N-583
+Mentions: N-582
 Related Nodes: N-10534
 Investigative Direction: Locate the full investigative article; verify Crossman's documented affiliation independently; examine United Hands Romania registration and operational history.
 
@@ -1355,7 +1355,7 @@ Claim Timestamp: 00:17:48
 Claim: Per the displayed 2017 article, Erika Kirk's partnership for the benefit of Romanian children was conducted with both the Antonio Placement Center in Constanta and Renee Crossman's United Hands Romania Association.
 
 Anchored Artifacts: A-1838.1
-Mentions: N-2, N-583
+Mentions: N-2, N-582
 Related Nodes: N-10534
 Investigative Direction: Verify Antonio Placement Center in Constanta exists as documented; obtain Romanian-language records and Constantine base access logs referenced by Kirk.
 
@@ -1394,7 +1394,7 @@ Claim Timestamp: 00:44:27
 Claim: Per the displayed Massie reply tweet, Massie directly asked Turning Point USA what had "gotten into y'all" in response to their tweet targeting him.
 
 Anchored Artifacts: A-1845.1
-Mentions: N-580
+Mentions: N-579
 Related Nodes: N-10538
 Investigative Direction: Preserve full reply-tweet thread; identify any subsequent TPUSA responses and document the public dispute timeline.
 
@@ -1407,7 +1407,7 @@ Claim Timestamp: 00:22:59
 Claim: The host says Renee Crossman defends the cult, which, according to the investigative piece, was subsequently instructed to disperse and hide themselves in the world of nonprofit.
 
 Anchored Artifacts: A-1839.1
-Mentions: N-583
+Mentions: N-582
 Related Nodes: N-10534
 Investigative Direction: Cross-reference with documented post-1970s directives from David Berg and successor leadership regarding dispersal strategy; examine nonprofit registration patterns of former members.
 
@@ -1454,7 +1454,7 @@ Claim: The host says viewers sent her a building that could match the white buil
 Transcript Snippet: A building that was owned by Mark Epstein, Jeffrey Epstein's brother who inherited all of his wealth.
 
 Anchored Artifacts: 
-Mentions: N-582, N-9
+Mentions: N-581, N-9
 Related Nodes: N-10531, N-10532
 Tags: relevance:core
 Investigative Direction: Pull New York City property records (ACRIS) for the building viewers identified and its ownership chain; confirm the street address and whether it is 301 East 66th Street.
@@ -1535,7 +1535,7 @@ Claim: The host says Tal, Oren and Alon Alexander are Jared Kushner's Israeli bu
 Transcript Snippet: Jared Kushner's Israeli business friends who sold Ivanka and Jared their Miami mansion and they were just found guilty of sex trafficking.
 
 Anchored Artifacts: 
-Mentions: N-178, N-660, N-585, N-586, N-587
+Mentions: N-178, N-659, N-584, N-585, N-586
 Related Nodes: N-11343
 Tags: relevance:context
 Investigative Direction: Check Miami-Dade property records for the Kushner purchase and any Alexander brothers role as broker or seller.
@@ -1551,7 +1551,7 @@ Claim: The host says Kash Patel said there was no evidence of trafficking in the
 Transcript Snippet: Remember, Kash Patel said there was no evidence of trafficking in the files, none. Yet, these Israeli-American brothers, Tal, Oren, and Alon Alexander, were indeed in the files.
 
 Anchored Artifacts: 
-Mentions: N-69, N-585, N-586, N-587
+Mentions: N-69, N-584, N-585, N-586
 Related Nodes: N-10324, N-11343
 Tags: relevance:context
 Investigative Direction: Find Patel's statement on trafficking evidence and check the released files for any Alexander entries.
@@ -1567,7 +1567,7 @@ Claim: The host says the Alexander brothers visited the White House multiple tim
 Transcript Snippet: They certainly visited the White House multiple times. They even were invited to the annual uh Hanukkah party.
 
 Anchored Artifacts: 
-Mentions: N-585, N-586, N-587
+Mentions: N-584, N-585, N-586
 Related Nodes: N-11343
 Tags: relevance:context
 Investigative Direction: Request White House visitor logs and Hanukkah reception guest lists covering the Alexander brothers.
@@ -1583,7 +1583,7 @@ Claim: The host says the Alexander brothers' last names were redacted from the E
 Transcript Snippet: I'm wondering if it's because of that that they had their last names redacted from the Epstein files. We were told that the redactions were limited to protecting us from child pornography.
 
 Anchored Artifacts: 
-Mentions: N-585, N-586, N-587
+Mentions: N-584, N-585, N-586
 Related Nodes: N-10324, N-11343
 Tags: relevance:context
 Investigative Direction: Compare the redacted and unredacted Epstein file releases for Alexander entries and the stated redaction rationale.
@@ -1599,7 +1599,7 @@ Claim: The host says Congressman Thomas Massie played a leading role in exposing
 Transcript Snippet: the redactions didn't matter in the end thanks to the crusade of Congressman Thomas Massie, among others, who Trump now wants primary'd down in Kentucky
 
 Anchored Artifacts: 
-Mentions: N-580, N-5
+Mentions: N-579, N-5
 Related Nodes: N-10916, N-10538
 Tags: relevance:context
 Investigative Direction: Document Trump's public statements on a Massie primary challenger and the outside spending recorded against him.
@@ -1615,7 +1615,7 @@ Claim: The host says the Alexander brothers were revealed because of Massie, and
 Transcript Snippet: Uh the brothers were revealed because of him and they were, like I told you, just found guilty in a major sex trafficking case.
 
 Anchored Artifacts: 
-Mentions: N-580, N-585, N-586, N-587
+Mentions: N-579, N-584, N-585, N-586
 Related Nodes: N-11343
 Tags: relevance:context
 Investigative Direction: Trace how the Alexander names entered the public record after the Epstein file release and Massie's role in it.
@@ -1631,7 +1631,7 @@ Claim: The news clip says all three Alexander brothers were arrested in December
 Transcript Snippet: All three brothers were arrested in December of 2024. During the trial, the jury heard from 11 women who accused the brothers of rape or sexual assault
 
 Anchored Artifacts: A-1836.1
-Mentions: N-585, N-586, N-587
+Mentions: N-584, N-585, N-586
 Related Nodes: N-11343
 Tags: relevance:context
 Investigative Direction: Pull the Southern District of New York docket and trial coverage for arrest dates and witness count.
@@ -1647,7 +1647,7 @@ Claim: The news clip says Alon and Oren Alexander still face state rape charges 
 Transcript Snippet: including in Florida, where Alon and Oren are charged with rape in state court. They have pleaded not guilty.
 
 Anchored Artifacts: A-1836.1
-Mentions: N-585, N-587
+Mentions: N-584, N-586
 Related Nodes: N-11343
 Tags: relevance:context
 Investigative Direction: Check the Florida state court docket for the pending charges and pleas.
@@ -1693,7 +1693,7 @@ Claim: The host alleges the administration used redactions to protect rapists an
 Transcript Snippet: protect rapists, Israeli rapists, and sex traffickers because they donate to the IDF.
 
 Anchored Artifacts: 
-Mentions: N-585, N-586, N-587
+Mentions: N-584, N-585, N-586
 Related Nodes: N-11343
 Tags: relevance:context
 Investigative Direction: Request any donation records tying the Alexander brothers to IDF-linked charities and the redaction decision records.
@@ -1776,7 +1776,7 @@ Claim: In the played clip Erika Kirk says the Black Sea Rotational Force base go
 Transcript Snippet: The Black Sea rotational force base got moved to Norway in 2018. Mhm. And for the past, I want to say eight to nine months, maybe even 10, um the woman that is the boots on the ground in Romania
 
 Anchored Artifacts: A-3220.1
-Mentions: N-2, N-583
+Mentions: N-2, N-582
 Related Nodes: N-11165
 Supports: C-6848
 Tags: relevance:context
@@ -1793,7 +1793,7 @@ Claim: In the played clip Erika Kirk says her contact at the base in Constanța 
 Transcript Snippet: our contact who was at the base in Constanța is no longer there, and the people who are there don't trust her because they don't have a connection to her.
 
 Anchored Artifacts: A-3220.1
-Mentions: N-2, N-583
+Mentions: N-2, N-582
 Related Nodes: N-11165, N-10534
 Qualifies: C-6997
 Tags: relevance:context
@@ -1810,7 +1810,7 @@ Claim: The host says Renee Crossman has been involved with the Romanian orphanag
 Transcript Snippet: She's been involved with this orphanage for over a decade. That signals to me that the kids know something about her.
 
 Anchored Artifacts: 
-Mentions: N-583
+Mentions: N-582
 Related Nodes: N-10534
 Tags: relevance:context
 Investigative Direction: Check United Hands Romania registration, annual reports and press for Crossman's start date and role.
@@ -1826,7 +1826,7 @@ Claim: The host reads from the Romanian article that the Children of God, now ca
 Transcript Snippet: It was founded by evangelist David Berg, born in California in 1919.
 
 Anchored Artifacts: A-1839.1
-Mentions: N-584
+Mentions: N-583
 Related Nodes: N-10534
 Tags: relevance:context
 Investigative Direction: Compare against standard histories of Children of God and Berg's biography.
@@ -1842,7 +1842,7 @@ Claim: The host reads from the Romanian article that Berg mixed sexual immoralit
 Transcript Snippet: Berg claimed that he maintained relationships with the entire pantheon of pagan goddesses, including Aphrodite, Diana, the goddesses of Atlantis
 
 Anchored Artifacts: A-1839.1
-Mentions: N-584
+Mentions: N-583
 Related Nodes: N-10534
 Tags: relevance:tangential
 Investigative Direction: Locate the original Romanian article and Berg's own writings on the claimed relationships.
@@ -1858,7 +1858,7 @@ Claim: The Megyn Kelly clip narration says that in 1976 David Berg introduced fl
 Transcript Snippet: In 1976, David Berg introduced flirty fishing, which encouraged female members to show God's love through sexual relationships with potential converts.
 
 Anchored Artifacts: A-1840.1
-Mentions: N-584, N-46
+Mentions: N-583, N-46
 Related Nodes: N-10534
 Tags: relevance:context
 Investigative Direction: Locate the 2018 Megyn Kelly segment and check the flirty fishing date against historical sources.
@@ -1874,7 +1874,7 @@ Claim: The host says Renee Crossman, Erika's partner on the Romanian Angels proj
 Transcript Snippet: Renee Crossman, Erika's partner on Romanian Angels, who the children, according to Erika, do not trust, is a self-admitted member of this cult. She has not been accused of any wrongdoing.
 
 Anchored Artifacts: 
-Mentions: N-583, N-2
+Mentions: N-582, N-2
 Related Nodes: N-10534, N-11165
 Tags: relevance:context
 Investigative Direction: Find Crossman's own statements about cult membership and confirm no public accusation of misconduct exists.
@@ -1890,7 +1890,7 @@ Claim: The host says the US Marines Crossman partnered with were going to be acc
 Transcript Snippet: No, the US Marines that she partnered with were going to be accused of wrongdoing. They're going to be accused of prostituting uh children.
 
 Anchored Artifacts: 
-Mentions: N-583
+Mentions: N-582
 Related Nodes: N-11165
 Supports: C-6843
 Tags: relevance:context
@@ -1907,7 +1907,7 @@ Claim: The host says Renee Crossman defends the cult, which the article says was
 Transcript Snippet: she says you she defends the cult, cult which was subsequently instructed to disperse and hide themselves in the world of nonprofit, according to the investigative piece.
 
 Anchored Artifacts: A-1839.1
-Mentions: N-583
+Mentions: N-582
 Related Nodes: N-10534
 Tags: relevance:context
 Investigative Direction: Find public statements by Crossman defending the group and the article passage on dispersal into nonprofits.
@@ -2176,7 +2176,7 @@ Claim: The host says Jon Bray explained to her that the magnet clasp would have 
 Transcript Snippet: Jon Bray explained to me that uh the magnet clasp would have stayed on, but what was behind it would have fallen off because he has a theory
 
 Anchored Artifacts: A-1842.4
-Mentions: N-682
+Mentions: N-681
 Related Nodes: N-10987, N-10537
 Tags: relevance:core
 Investigative Direction: Obtain Bray's written analysis of the clasp and what was attached behind it.
@@ -2192,7 +2192,7 @@ Claim: The host says that in Bray's theory, which she calls well adopted, the Ro
 Transcript Snippet: the Rode microphone is what was shattered in the back seat of the car.
 
 Anchored Artifacts: A-1841.1
-Mentions: N-682
+Mentions: N-681
 Related Nodes: N-10705, N-10987
 Tags: relevance:core
 Investigative Direction: Compare the van interior photos with the Rode microphone model and identify the glass fragments.
@@ -2286,7 +2286,7 @@ Claim: The host says Turning Point shouts out Thomas Massie as a rhino because h
 Transcript Snippet: And they're shouting out Thomas Massie as being a rhino because he won't vote for more funding to go to Ukraine and Israel.
 
 Anchored Artifacts: A-1844.1
-Mentions: N-580
+Mentions: N-579
 Related Nodes: N-10538
 Tags: relevance:context
 Investigative Direction: Compare Massie's votes on Ukraine and Israel funding with Turning Point Action's stated reasons.
@@ -2348,7 +2348,7 @@ Claim: The host says she did see students protesting the Turning Point chapter p
 Transcript Snippet: I did see they were protesting that in Arkansas. Good. Okay, they don't need a proclamation from a Huckabee to decide if they want to open a student club.
 
 Anchored Artifacts: A-3221.2
-Mentions: N-581
+Mentions: N-580
 Related Nodes: N-10533
 Tags: relevance:context
 Investigative Direction: Find local Arkansas coverage or social posts of the protests and the proclamation text.
@@ -2455,7 +2455,7 @@ Claim: A comment read by the host says Tucker Carlson's latest interview with Br
 Transcript Snippet: His latest with Bret Weinstein was one for the books. Bret pushed and made his views clear that the Charlie story does not add up.
 
 Anchored Artifacts: A-3221.6
-Mentions: N-22, N-591
+Mentions: N-22, N-590
 Tags: relevance:context
 Investigative Direction: Watch the Carlson and Weinstein interview and quote Weinstein's remarks on the Kirk case.
 
@@ -2515,7 +2515,7 @@ Claim: The host says Jon Bray is looking into the microphone theory and why ther
 Transcript Snippet: Jon Bray who's looking into the microphone theory and why there was that explosion that happened here in Tennessee.
 
 Anchored Artifacts: 
-Mentions: N-682
+Mentions: N-681
 Related Nodes: N-10986, N-10768
 Tags: relevance:core
 Investigative Direction: Obtain Bray's published work on the explosion and the microphone theory.
@@ -2531,7 +2531,7 @@ Claim: The host says Nelda Buckman gave a ton of money to Erika Kirk and is invo
 Transcript Snippet: you should probably look into uh, Nelda Buckman's family. I'm only saying that because, you know, that she gave a ton of money into uh, to Erika Kirk. She's involved in sex trafficking charities
 
 Anchored Artifacts: 
-Mentions: N-460, N-682, N-2
+Mentions: N-460, N-681, N-2
 Related Nodes: N-10421
 Supports: C-5184, C-5186
 Tags: relevance:context

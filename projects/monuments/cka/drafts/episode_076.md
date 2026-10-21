@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: 1a470c9a6f223d7322321ad99025c98532a7e3253b185b43561425b2be5ecefd
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-857, N-858, N-11255
-  - Hole-minted Nodes (reintro-ep076): N-152, N-592, N-10528, N-10532, N-10541, N-10698
-  - Tip-minted Nodes (reintro-ep076): N-736, N-10929, N-10990, N-11192
+  - Tip-minted Nodes (supplement_2026-10d): N-856, N-857, N-11255
+  - Hole-minted Nodes (reintro-ep076): N-152, N-591, N-10528, N-10532, N-10541, N-10698
+  - Tip-minted Nodes (reintro-ep076): N-735, N-10929, N-10990, N-11192
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-6810–C-6899
-  - New Nodes Introduced: N-569, N-570, N-571, N-572, N-10519, N-10522, N-10523, N-10524
-  - Reused Nodes Appearing: N-1, N-2, N-557, N-5, N-11, N-131, N-361, N-437, N-440, N-489, N-520, N-529, N-545, N-688, N-712, N-10000, N-10075, N-10116, N-10395, N-10401, N-10417, N-10473, N-10476, N-10477, N-10486, N-10502, N-10988, N-11164, N-11165, N-11166, N-11180, N-11248, N-10520, N-10521
+  - New Nodes Introduced: N-568, N-569, N-570, N-571, N-10519, N-10522, N-10523, N-10524
+  - Reused Nodes Appearing: N-1, N-2, N-556, N-5, N-11, N-131, N-361, N-437, N-440, N-489, N-520, N-529, N-544, N-687, N-711, N-10000, N-10075, N-10116, N-10395, N-10401, N-10417, N-10473, N-10476, N-10477, N-10486, N-10502, N-10988, N-11164, N-11165, N-11166, N-11180, N-11248, N-10520, N-10521
 
 # Episode Analysis: Monument Episode 76 – "Did Erika Kirk Know Jeffrey Epstein?"
 
@@ -38,8 +38,8 @@
 
 - **Artifact Families Introduced:** A-1809, A-1810, A-1811, A-1812, A-1813, A-1814, A-1815, A-1816, A-1817, A-1818, A-1819, A-1820, A-1821
 - **Claim Range:** C-6818–C-6887
-- **New Nodes Introduced:** N-569, N-570, N-571, N-572, N-10519, N-10520, N-10521, N-10522, N-10523, N-10524
-- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk), N-557 (Lynn Forester de Rothschild)
+- **New Nodes Introduced:** N-568, N-569, N-570, N-571, N-10519, N-10520, N-10521, N-10522, N-10523, N-10524
+- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk), N-556 (Lynn Forester de Rothschild)
 
 ---
 
@@ -65,7 +65,7 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 - Discovery Timestamp: 2026-03-10
 - Confidence Level: Medium (read aloud; underlying email source not independently shown)
 
-*Related: C-6818, N-9, N-570*
+*Related: C-6818, N-9, N-569*
 
 ---
 
@@ -93,7 +93,7 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 - Discovery Timestamp: 2026-03-10
 - Confidence Level: High (clip played in-episode)
 
-*Related: C-6822, N-571*
+*Related: C-6822, N-570*
 
 ---
 
@@ -109,7 +109,7 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 - Discovery Timestamp: 2026-03-10
 - Confidence Level: Medium (specific emails referenced by host; bar mitzvah email specifically cited)
 
-*Related: C-6854, C-6858, N-9, N-569*
+*Related: C-6854, C-6858, N-9, N-568*
 
 ---
 
@@ -123,7 +123,7 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 - Discovery Timestamp: 2026-03-10
 - Confidence Level: Medium (host asserts "says it right there" but underlying email not independently displayed)
 
-*Related: C-6868, N-9, N-557, N-572*
+*Related: C-6868, N-9, N-556, N-571*
 
 ---
 
@@ -137,7 +137,7 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 - Discovery Timestamp: 2026-03-10
 - Confidence Level: Medium (host cites "someone read a background"; underlying document not displayed)
 
-*Related: C-6870, N-557, N-572*
+*Related: C-6870, N-556, N-571*
 
 ---
 
@@ -265,7 +265,7 @@ Video Timestamp: 00:12:57
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-6826, C-6827, N-10075, N-10522, N-131, N-152, N-3, N-69, N-857*
+*Related: C-6826, C-6827, N-10075, N-10522, N-131, N-152, N-3, N-69, N-856*
 
 ---
 
@@ -319,7 +319,7 @@ Video Timestamp: 00:22:10
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6855, C-6857, C-6859, N-10519, N-10532, N-10698, N-2, N-3, N-569, N-9*
+*Related: C-6855, C-6857, C-6859, N-10519, N-10532, N-10698, N-2, N-3, N-568, N-9*
 
 ---
 
@@ -330,7 +330,7 @@ Video Timestamp: 00:23:37
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6860, C-6861, C-6862, N-10519, N-10532, N-2, N-569, N-9*
+*Related: C-6860, C-6861, C-6862, N-10519, N-10532, N-2, N-568, N-9*
 
 ---
 
@@ -414,7 +414,7 @@ Investigative Pressure: High
 
 ---
 
-**N-569** Faith Kates
+**N-568** Faith Kates
 
 Co-founder of Next Model Management (NYC) referenced as central to Epstein's email network (~4,000 emails) and as the subject of A-1812 artifacts.
 
@@ -427,7 +427,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-570** Märtha Louise of Norway
+**N-569** Märtha Louise of Norway
 
 Norwegian princess; correspondent with Jeffrey Epstein (A-1809.1).
 
@@ -440,7 +440,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-571** Father Chad Ripperger
+**N-570** Father Chad Ripperger
 
 Catholic exorcist referenced in A-1811.1 discussing occult pedigree families.
 
@@ -505,7 +505,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-572** Pam Liebman
+**N-571** Pam Liebman
 
 Per host, featured in the Epstein files and described as helping Epstein with real estate deals; context unclear.
 
@@ -514,7 +514,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1813.1, N-557*
+*Related: A-1813.1, N-556*
 
 ---
 
@@ -529,7 +529,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1815.1, C-6863, N-2, N-569*
+*Related: A-1815.1, C-6863, N-2, N-568*
 
 ---
 
@@ -542,7 +542,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-2, N-572, N-557*
+*Related: N-2, N-571, N-556*
 
 ---
 
@@ -581,7 +581,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1814.1, C-6870, N-557*
+*Related: A-1814.1, C-6870, N-556*
 
 ---
 
@@ -594,7 +594,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1812.1, A-1812.2, C-6854, C-6858, N-569, N-9*
+*Related: A-1812.1, A-1812.2, C-6854, C-6858, N-568, N-9*
 
 ---
 
@@ -700,7 +700,7 @@ Aliases: John Luke Brunel (transcript spelling)
 
 ---
 
-**N-545** Tracy Martin
+**N-544** Tracy Martin
 
 Neighbors reportedly saw the Kirk children with her husband.
 
@@ -708,7 +708,7 @@ Neighbors reportedly saw the Kirk children with her husband.
 
 ---
 
-**N-557** Lynn Forester de Rothschild
+**N-556** Lynn Forester de Rothschild
 
 Transcribed Lynn Forester de Rothschild; the host says she is president of the Corcoran Group.
 
@@ -716,7 +716,7 @@ Transcribed Lynn Forester de Rothschild; the host says she is president of the C
 
 ---
 
-**N-592** Pete Hegseth
+**N-591** Pete Hegseth
 
 Defense Secretary to whom the Air Force Academy board reports, per the host.
 
@@ -724,7 +724,7 @@ Defense Secretary to whom the Air Force Academy board reports, per the host.
 
 ---
 
-**N-688** Otto Busher
+**N-687** Otto Busher
 
 Colonel the host links to the Constanta Marine rotation and later trafficking accusations; transcribed Otto Busher and Otto Busher.
 
@@ -734,7 +734,7 @@ Aliases: Colonel Otto Busher; Colonel Otto Busher (transcript spellings)
 
 ---
 
-**N-712** Kamala Harris
+**N-711** Kamala Harris
 
 Compared by the host to Erika and linked to her mother's alleged MK Ultra involvement.
 
@@ -742,7 +742,7 @@ Compared by the host to Erika and linked to her mother's alleged MK Ultra involv
 
 ---
 
-**N-736** Dennis Frantzve
+**N-735** Dennis Frantzve
 
 Erika Kirk's cousin, transcribed Dennis Frantzve, whom the host names as leading the Black Sea Rotational Force in Constanta in 2010.
 
@@ -936,7 +936,7 @@ Existing topic reused for the host's Frankist claim about Epstein.
 
 ---
 
-**N-857** Stephen Miller
+**N-856** Stephen Miller
 
 First named by the host at 00:12:57 in episode 76. White House official named by the host's sources as a possible occupant of the West Wing offices.
 
@@ -944,7 +944,7 @@ First named by the host at 00:12:57 in episode 76. White House official named by
 
 ---
 
-**N-858** Les Wexner
+**N-857** Les Wexner
 
 First named by the host at 00:16:53 in episode 76. Retail executive the host says handed Epstein the keys to a casting role for Victoria's Secret.
 
@@ -1030,7 +1030,7 @@ Claim Timestamp: 00:22:10
 Claim: The host says a tipster told her Faith Kates is in Jeffrey Epstein's emails "like 4,000 times".
 
 Anchored Artifacts: A-1812.1
-Mentions: N-9, N-569
+Mentions: N-9, N-568
 Related Nodes: N-10524
 Investigative Direction: Search the publicly released Epstein email corpus for Kates-name frequency counts and sample contents.
 
@@ -1043,7 +1043,7 @@ Claim Timestamp: 00:22:37
 Claim: The host says a tipster told her that Faith Kates invited Jeffrey Epstein to her son's bar mitzvah, pointing to an email.
 
 Anchored Artifacts: A-1812.2
-Mentions: N-9, N-569
+Mentions: N-9, N-568
 Related Nodes: N-10524
 Investigative Direction: Locate the specific Epstein-files email containing the bar mitzvah invitation and verify sender/recipient.
 
@@ -1068,7 +1068,7 @@ Claim Timestamp: 00:28:26
 Claim: The host says a background document on Lynn Forester de Rothschild, tied to Epstein's files, lists her alternate names and identifies her as president of the Corcoran Group.
 
 Anchored Artifacts: A-1814.1
-Mentions: N-557
+Mentions: N-556
 Related Nodes: N-10523
 Investigative Direction: Verify Lynn Forester de Rothschild's Corcoran role via corporate filings; obtain the background document referenced.
 
@@ -1170,7 +1170,7 @@ Claim Timestamp: 00:10:14–00:11:17
 Claim: Father Chad Ripperger, in a clip from the Shawn Ryan podcast, stated that some occult families have lineage extending to the 1500s–1600s and train their children into occult practice from a young age.
 
 Anchored Artifacts: A-1811.1
-Mentions: N-571, N-224
+Mentions: N-570, N-224
 Investigative Direction: Obtain the full Ripperger clip and surrounding podcast context for verification.
 
 ---
@@ -1227,7 +1227,7 @@ Claim: The host says the board has 15 other members and makes recommendations on
 Transcript Snippet: With this appointment, Erika joins just 15 other members.
 
 Anchored Artifacts: 
-Mentions: N-2, N-592
+Mentions: N-2, N-591
 Related Nodes: N-10929
 Tags: relevance:core
 Investigative Direction: Check the Board of Visitors roster and its charter for membership size and who it reports to.
@@ -1415,7 +1415,7 @@ Claim: The host quotes her White House sources as saying the offices in that are
 Transcript Snippet: the offices in that general region are senior White House staff. It could be Susie Wiles, Stephen Miller, James Blair.
 
 Anchored Artifacts: A-3065.2
-Mentions: N-131, N-857, N-152, N-3
+Mentions: N-131, N-856, N-152, N-3
 Related Nodes: N-10522, N-10075
 Tags: relevance:core
 Investigative Direction: Verify the West Wing layout and who maintains offices off that lobby.
@@ -1576,7 +1576,7 @@ Claim: The host says Les Wexner handed Epstein the keys and he became a casting 
 Transcript Snippet: Whether he was working with uh Victoria's Secret, you know, Les Wexner hands him the keys and all of a sudden he's like a casting director looking at all of these models.
 
 Anchored Artifacts: 
-Mentions: N-9, N-858
+Mentions: N-9, N-857
 Tags: relevance:context
 Investigative Direction: Review court filings on Epstein's role with L Brands and Wexner.
 
@@ -1639,7 +1639,7 @@ Claim: The host says that in 2010 the Black Sea Rotational Force in Constanta, R
 Transcript Snippet: the Black Sea Rotational Force in Constanta, Romania, is being led by Erika's cousin, Lieutenant Colonel Dennis Frantzve.
 
 Anchored Artifacts: 
-Mentions: N-736, N-2
+Mentions: N-735, N-2
 Related Nodes: N-10990
 Supports: C-4745
 Tags: relevance:core
@@ -1656,7 +1656,7 @@ Claim: The host says the base would later be accused of prostituting underage Ro
 Transcript Snippet: It's the first time America is operating a base in Romania, which is later going to be accused of prostituting underage Romanian children. Brothel. Colonel Otto Busher.
 
 Anchored Artifacts: 
-Mentions: N-688
+Mentions: N-687
 Related Nodes: N-10990, N-10401
 Tags: relevance:core
 Investigative Direction: Find the accusation source and any investigation of the Constanta rotation.
@@ -1753,7 +1753,7 @@ Claim: The host says Erika worked with Colonel Otto Busher, the same colonel she
 Transcript Snippet: She's working with uh Colonel Otto Busher, that same colonel who's going to be accused of trafficking and prostituting underage Romanians, apparently up and through Tel Aviv.
 
 Anchored Artifacts: 
-Mentions: N-688, N-2
+Mentions: N-687, N-2
 Related Nodes: N-11165, N-10401
 Supports: C-4746
 Tags: relevance:core
@@ -1832,7 +1832,7 @@ Claim: The host says a tipster told her Faith Kates, Next Model Management co-fo
 Transcript Snippet: Faith Kates, who was the co-founder of it, had to step down because of her involvement with Jeffrey Epstein.
 
 Anchored Artifacts: A-3069.1
-Mentions: N-569, N-9
+Mentions: N-568, N-9
 Related Nodes: N-10532
 Tags: relevance:core
 Investigative Direction: Confirm Kates' departure date and stated reason from Next Model Management announcements.
@@ -1848,7 +1848,7 @@ Claim: The host says a tipster told her that Kates wrote to Epstein even after h
 Transcript Snippet: Even after he got arrested for pedophilia, she's like, 'I will never betray you. I will never ever betray you.
 
 Anchored Artifacts: A-1812.1
-Mentions: N-569, N-9
+Mentions: N-568, N-9
 Related Nodes: N-10524
 Tags: relevance:core
 Investigative Direction: Find the post-2008 or post-2019 Kates email in the Epstein files.
@@ -1912,7 +1912,7 @@ Claim: The host says her sources did not say they saw Erika meeting Epstein, but
 Transcript Snippet: Now, they did not say they saw her meeting with Jeffrey Epstein, but they said essentially Jeffrey Epstein was always there because he was so close with Faith.
 
 Anchored Artifacts: A-3069.2
-Mentions: N-2, N-9, N-569
+Mentions: N-2, N-9, N-568
 Related Nodes: N-10519
 Tags: relevance:core
 Investigative Direction: Test against Epstein visitor and travel records for the same period.
@@ -1961,7 +1961,7 @@ Claim: The host says Erika's Corcoran start was under the stewardship of Pam Lie
 Transcript Snippet: that is under the stewardship the stewardship of of of Pam Liebman featured in the Epstein files was helping him with real estate deals
 
 Anchored Artifacts: 
-Mentions: N-572, N-2, N-9
+Mentions: N-571, N-2, N-9
 Related Nodes: N-10502
 Tags: relevance:core
 Investigative Direction: Verify Lehman's Corcoran role and the Epstein files reference.
@@ -2321,7 +2321,7 @@ Claim: The host says people tell her who they see the Kirk children with, citing
 Transcript Snippet: they saw the kids with Tracy Martin's husband.
 
 Anchored Artifacts: 
-Mentions: N-545, N-3
+Mentions: N-544, N-3
 Related Nodes: N-10486
 Tags: relevance:core
 Investigative Direction: Ask Tracy Martin's husband when he was with the children.
@@ -2353,7 +2353,7 @@ Claim: The host says Kamala Harris' mother was involved with potentially the MK 
 Transcript Snippet: then we kind of learned that her mother was involved with potentially the MK Ultra project.
 
 Anchored Artifacts: 
-Mentions: N-712, N-3
+Mentions: N-711, N-3
 Related Nodes: N-10116
 Tags: relevance:tangential
 Investigative Direction: No source aired; check the host's earlier Kamala episodes.
@@ -2560,7 +2560,7 @@ Confidence: high
 
 - **New Artifact Families:** A-1809 through A-1821 (13 families)
 - **New Claim IDs:** C-6818 through C-6887 (18 claims)
-- **New People Nodes:** N-9 through N-572 (10 nodes)
+- **New People Nodes:** N-9 through N-571 (10 nodes)
 - **New Investigation Target Nodes:** N-10519 through N-10524 (6 nodes)
-- **Existing Nodes Reused:** N-1, N-2, N-557
+- **Existing Nodes Reused:** N-1, N-2, N-556
 - **Correction Notes:** None this episode.

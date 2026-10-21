@@ -859,8 +859,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-581",
-      "ref": "N-581",
+      "@id": "N-580",
+      "ref": "N-580",
       "name": "Sarah Huckabee Sanders",
       "type": "person",
       "description": "Governor of Arkansas; displayed signing proclamation with Erika Kirk for Club America in Arkansas high schools.",
@@ -1121,8 +1121,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-554",
-      "ref": "N-554",
+      "@id": "N-553",
+      "ref": "N-553",
       "name": "Carrie Prejean Boller",
       "type": "person",
       "description": "Speaker at the Catholics for Catholics event.",
@@ -1138,8 +1138,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-583",
-      "ref": "N-583",
+      "@id": "N-582",
+      "ref": "N-582",
       "name": "Renee Crossman",
       "type": "person",
       "description": "Erika Kirk's Romanian partner whose religious background the host is researching.",
@@ -1156,8 +1156,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-591",
-      "ref": "N-591",
+      "@id": "N-590",
+      "ref": "N-590",
       "name": "Bret Weinstein",
       "type": "person",
       "description": "Named as Kirk's correspondent in the host's account of his messages.",
@@ -1173,8 +1173,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-599",
-      "ref": "N-599",
+      "@id": "N-598",
+      "ref": "N-598",
       "name": "Scott Bessent",
       "type": "person",
       "description": "Treasury Secretary pulled to the Situation Room.",
@@ -1489,8 +1489,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-940",
-      "ref": "N-940",
+      "@id": "N-939",
+      "ref": "N-939",
       "name": "Dino Fantegrossi",
       "type": "person",
       "description": "First named by the host at 00:31:39 in episode 80 (also rendered Dino Fontegrassi). President of the Turning Point USA University of Arkansas chapter who wrote the disaffiliation letter.",
@@ -1510,8 +1510,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-941",
-      "ref": "N-941",
+      "@id": "N-940",
+      "ref": "N-940",
       "name": "Shannon Kent",
       "type": "person",
       "description": "First named by the host at 00:03:18 in episode 80. Joe Kent's late wife, whom the host says was killed by a suicide bomber in Syria in January 2019.",
@@ -1528,8 +1528,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-942",
-      "ref": "N-942",
+      "@id": "N-941",
+      "ref": "N-941",
       "name": "John Yep",
       "type": "person",
       "description": "First named by the host at 00:23:57 in episode 80 (transcribed as Johnny Yep and Johnny Yep). Organizer of Catholics for Catholics, per the host's description of the event organizer and a web check of the event.",
@@ -1640,7 +1640,7 @@
       "investigative_direction": "Verify Kent's DD-214-equivalent service record and Shannon Kent's military casualty record against publicly available DoD releases.",
       "mentions_person_refs": [
         "N-209",
-        "N-941"
+        "N-940"
       ]
     },
     {
@@ -1869,7 +1869,7 @@
       "claim_timestamp": "00:31:40",
       "investigative_direction": "Verify against Fantegrossi's verified Instagram account; confirm \"unanimous\" via any other executive board members' public statements.",
       "mentions_person_refs": [
-        "N-940"
+        "N-939"
       ]
     },
     {
@@ -1889,7 +1889,7 @@
       "investigative_direction": "Cross-reference specific TPUSA statements attributed to Charlie's posthumous voice against Kirk's documented prior positions.",
       "mentions_person_refs": [
         "N-1",
-        "N-940"
+        "N-939"
       ]
     },
     {
@@ -1909,7 +1909,7 @@
       "investigative_direction": "Verify the date, venue, and Fantegrossi's participation against the original video; identify other participants.",
       "mentions_person_refs": [
         "N-1",
-        "N-940"
+        "N-939"
       ]
     },
     {
@@ -1928,7 +1928,7 @@
       "claim_timestamp": "00:47:24",
       "investigative_direction": "Confirm against full interview video; identify the original outlet and date of the interview.",
       "mentions_person_refs": [
-        "N-599"
+        "N-598"
       ]
     },
     {
@@ -1947,7 +1947,7 @@
       "claim_timestamp": "00:47:40",
       "investigative_direction": "Confirm exact wording against interview transcript; cross-reference subsequent official Iran-mission updates.",
       "mentions_person_refs": [
-        "N-599"
+        "N-598"
       ]
     },
     {
@@ -2092,7 +2092,7 @@
       "investigative_direction": "Verify event date and content against Governor Sanders's official schedule and TPUSA press materials.",
       "mentions_person_refs": [
         "N-2",
-        "N-581"
+        "N-580"
       ]
     },
     {
@@ -2111,7 +2111,7 @@
       "claim_timestamp": "00:31:39",
       "investigative_direction": "Obtain the actual proclamation text from the Arkansas Secretary of State's office.",
       "mentions_person_refs": [
-        "N-581"
+        "N-580"
       ]
     },
     {
@@ -2131,7 +2131,7 @@
       "investigative_direction": "Verify exact quotation against the full original audio/video recording.",
       "mentions_person_refs": [
         "N-1",
-        "N-940"
+        "N-939"
       ]
     },
     {
@@ -2193,7 +2193,7 @@
       "transcript_snippet": "Shannon was the first female combat combat death in Syria uh since combat operations began against ISIS.",
       "mentions_person_refs": [
         "N-209",
-        "N-941"
+        "N-940"
       ]
     },
     {
@@ -2214,7 +2214,7 @@
       "transcript_snippet": "she was also the first female US service member that was killed by enemy fire in more than 3 years up until that point.",
       "mentions_person_refs": [
         "N-209",
-        "N-941"
+        "N-940"
       ]
     },
     {
@@ -2357,7 +2357,7 @@
       "transcript_snippet": "Exactly what Charlie had intimated in those messages with Bret Weinstein.",
       "mentions_person_refs": [
         "N-1",
-        "N-591",
+        "N-590",
         "N-5"
       ]
     },
@@ -2490,7 +2490,7 @@
       "investigative_direction": "Ask the organizers for the cancellation emails and calls received, and check the published event agenda.",
       "transcript_snippet": "They have just been emailing everyone calling everybody asking for cancellations",
       "mentions_person_refs": [
-        "N-554",
+        "N-553",
         "N-3"
       ]
     },
@@ -2592,7 +2592,7 @@
       "investigative_direction": "Ask Catholics for Catholics for the harassment communications it received and compare with the host's description.",
       "transcript_snippet": "the pain that they have put him through, the harassment that they have gone through because you're not allowed to have an event if it's with somebody that doesn't support mass murder in Gaza.",
       "mentions_person_refs": [
-        "N-942",
+        "N-941",
         "N-3"
       ]
     },
@@ -2732,7 +2732,7 @@
         "C-7192"
       ],
       "mentions_person_refs": [
-        "N-581",
+        "N-580",
         "N-2"
       ]
     },
@@ -2753,7 +2753,7 @@
       "investigative_direction": "Check chapter records and Fantegrossi's public history with TPUSA.",
       "transcript_snippet": "he's been with Turning Point USA for more than 5 years.",
       "mentions_person_refs": [
-        "N-940"
+        "N-939"
       ]
     },
     {
@@ -2797,7 +2797,7 @@
       "investigative_direction": "Verify the text against Fantegrossi's Instagram post and ask TPUSA whether it received the private grievances.",
       "transcript_snippet": "we have many grievances with Turning Point USA, which we will shortly make known to them in private, but I will share only one.",
       "mentions_person_refs": [
-        "N-940"
+        "N-939"
       ]
     },
     {
@@ -2822,7 +2822,7 @@
         "C-7196"
       ],
       "mentions_person_refs": [
-        "N-940",
+        "N-939",
         "N-1"
       ]
     },
@@ -2871,7 +2871,7 @@
         "C-7202"
       ],
       "mentions_person_refs": [
-        "N-940",
+        "N-939",
         "N-1"
       ]
     },
@@ -2892,7 +2892,7 @@
       "investigative_direction": "Check Charlie Kirk Show episode listings for Fantegrossi after September 10, 2025.",
       "transcript_snippet": "He was also on the Charlie Kirk show. I believe he was on it actually after Charlie Kirk assassinated.",
       "mentions_person_refs": [
-        "N-940",
+        "N-939",
         "N-1"
       ]
     },
@@ -2976,7 +2976,7 @@
         "C-7003"
       ],
       "mentions_person_refs": [
-        "N-583",
+        "N-582",
         "N-2",
         "N-3"
       ]
@@ -3243,7 +3243,7 @@
         "C-7220"
       ],
       "mentions_person_refs": [
-        "N-599"
+        "N-598"
       ]
     },
     {

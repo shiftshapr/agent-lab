@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: 7b329950d516234dfe924015e2ae2ceece2c1cacc9476909544e66ce23744a8b
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-802, N-11184, N-11185
+  - Tip-minted Nodes (supplement_2026-10c): N-801, N-11184, N-11185
   - Hole-minted Nodes (reintro-ep070): N-10510, N-10816
-  - Tip-minted Nodes (reintro-ep070): N-734
+  - Tip-minted Nodes (reintro-ep070): N-733
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-6245–C-6314
-  - New Nodes Introduced: N-551, N-10494
+  - New Nodes Introduced: N-550, N-10494
   - Reused Nodes Appearing: N-10496, N-10492, N-10493, N-10495, N-11, N-15, N-22, N-27, N-36, N-46, N-60, N-97, N-186, N-270, N-312, N-10000, N-10004, N-10018, N-10026, N-10027, N-10075, N-10117, N-10122, N-10268, N-10290, N-10316, N-10317, N-10340, N-10342, N-10386, N-10422, N-10446, N-10456, N-10483, N-10548, N-10549, N-10560, N-10905, N-11038, N-11186, N-10806
   - (see registers)
 
@@ -212,7 +212,7 @@ Video Timestamp: 00:24:02–00:28:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-6288, C-6290, C-6292, C-6291, N-551, N-493, N-10492*
+*Related: C-6288, C-6290, C-6292, C-6291, N-550, N-493, N-10492*
 
 ---
 
@@ -328,7 +328,7 @@ Confidence Level: High
 
 ## 4. Node Register
 
-**N-551** Aubrey Laitsch
+**N-550** Aubrey Laitsch
 
 Former TPUSA public relations manager; spoke publicly about termination process in self-published video. Artifact-backed person new to the series record.
 
@@ -348,7 +348,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1747.1, C-6291, N-551*
+*Related: A-1747.1, C-6291, N-550*
 
 **N-277** Tim Dillon
 
@@ -370,7 +370,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1747.1, A-1749.1, C-6290, C-6292, C-6291, C-6300, N-551, N-493*
+*Related: A-1747.1, A-1749.1, C-6290, C-6292, C-6291, C-6300, N-550, N-493*
 
 **N-10493** Pierre / French Donor Investigation
 
@@ -537,7 +537,7 @@ The host guesses that the donor Pierre is Pierre Falcone ('Falcone' in the trans
 
 ---
 
-**N-734** Ike Perlmutter
+**N-733** Ike Perlmutter
 
 Ike Perlmutter, named by the host for the Mar-a-Lago fundraising meeting (confirmed by the HappyScribe transcript of Candace Ep 303 at 00:04:58).
 
@@ -761,7 +761,7 @@ Existing organization; the host's 'Shaffer security' in the transcript.
 
 ---
 
-**N-802** Don Orrico
+**N-801** Don Orrico
 
 Named by the host at 00:13:09 in episode 70 as a Turning Point USA contact in Tampa. Florida-based major-gifts fundraiser (formerly Mackinac Center director of strategic partnerships); TPUSA role unconfirmed.
 
@@ -856,7 +856,7 @@ Claim Timestamp: 00:24:02–00:28:28
 Claim: In a video the host plays, Aubrey Laitsch identifies herself as the former public relations manager for Turning Point USA, employed since 2021, working through America Fest in December 2025, and terminated approximately three weeks before posting.
 
 Anchored Artifacts: A-1747.1
-Mentions: N-551
+Mentions: N-550
 Investigative Direction: Verify Laitsch's employment dates and termination date via TPUSA / ATK records.
 
 **C-6290** Aubrey Laitsch stated termination meeting involved Uber-driver conversation
@@ -866,7 +866,7 @@ Claim Timestamp: 00:26:00
 Claim: Aubrey Laitsch's video states she was brought into a meeting with Andrew Kolvet and Marina Minas and questioned about an Uber ride in which a Turning Point executive's driver allegedly relayed statements attributed to "Aubrey."
 
 Anchored Artifacts: A-1747.1
-Mentions: N-493, N-551, N-14
+Mentions: N-493, N-550, N-14
 Related Nodes: N-10492
 Investigative Direction: Identify the Turning Point executive referenced in the Uber driver conversation; verify whether the conversation occurred as described.
 
@@ -877,7 +877,7 @@ Claim Timestamp: 00:27:35
 Claim: Aubrey Laitsch's video states her personal belief that she was terminated because she was questioning the official narrative regarding Charlie Kirk's death, and that questioning the narrative is incompatible with continued TPUSA employment.
 
 Anchored Artifacts: A-1747.1
-Mentions: N-551, N-1
+Mentions: N-550, N-1
 Related Nodes: N-10492
 Investigative Direction: Compare the stated termination rationale (Uber-driver hearsay) against Laitsch's stated belief; seek additional former-employee testimony.
 
@@ -888,7 +888,7 @@ Claim Timestamp: 00:26:00
 Claim: In a video the host plays, Aubrey Laitsch names Andrew Kolvet (described as her employer via ATK) and Marina Minas (CMO of Turning Point USA) as the two people present at her termination meeting.
 
 Anchored Artifacts: A-1747.1
-Mentions: N-493, N-551, N-14
+Mentions: N-493, N-550, N-14
 Investigative Direction: Verify Marina Minas's title and organizational role via TPUSA public records.
 
 **C-6298** Tim Dillon clip describes political performance as "fake"
@@ -994,7 +994,7 @@ Claim: The host says Charlie Kirk took a fundraising meeting in Florida with Ike
 Transcript Snippet: Charlie had taken a meeting down in Florida with Ike Perlmutter at Mar-a-Lago. It was a a fundraising meeting.
 
 Anchored Artifacts: 
-Mentions: N-1, N-3, N-734
+Mentions: N-1, N-3, N-733
 Related Nodes: N-11185
 Tags: relevance:context
 Investigative Direction: Ike Perlmutter is confirmed by the HappyScribe transcript of Candace Ep 303 (00:04:58, "a meeting down in Florida with Ike Perlmutter at Mar-a-Lago"). Check for records of a 2019 lunch or fundraising meeting with Charlie Kirk.
@@ -1010,7 +1010,7 @@ Claim: The host says that in an elevator at the Trump Hotel in DC Charlie Kirk t
 Transcript Snippet: Because you had you had lunch with him yesterday at Mar-a-Lago.
 
 Anchored Artifacts: 
-Mentions: N-1, N-3, N-734
+Mentions: N-1, N-3, N-733
 Related Nodes: N-11185
 Tags: relevance:context
 Investigative Direction: Seek corroboration (calendar entries, photos, staff) of the Mar-a-Lago lunch and of the elevator exchange; only the host and Charlie Kirk were present.
@@ -1265,7 +1265,7 @@ Claim: The host says Pierre had a phone call with Justin Streiff and another wit
 Transcript Snippet: Pierre had a phone call with Justin Streiff. He also had a phone call uh with Mr. Don Orrico of Turning Point USA down in Tampa.
 
 Anchored Artifacts: A-2931.1
-Mentions: N-3, N-15, N-802
+Mentions: N-3, N-15, N-801
 Related Nodes: N-10493, N-10000
 Tags: relevance:core
 Investigative Direction: Identification as Don Orrico (Florida-based major-gifts fundraiser, formerly Mackinac Center director of strategic partnerships, Estero FL) is by name match; confirm his TPUSA role and obtain call records for the alleged calls.
@@ -1555,7 +1555,7 @@ Claim: Aubrey Laitsch's video says her phone received hundreds of calls and thou
 Transcript Snippet: My phone received hundreds of phone calls on September 10th, thousands of text messages.
 
 Anchored Artifacts: A-1747.1
-Mentions: N-551
+Mentions: N-550
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Corroborate Laitsch's workload with TPUSA staff and press-office call logs, which she could produce.
@@ -1587,7 +1587,7 @@ Claim: The host says she thinks, as Aubrey Laitsch says, that the firings were m
 Transcript Snippet: I think in the end there when she says that this was actually motivated by them going after people who they suspected were not loyal to Erika
 
 Anchored Artifacts: A-1747.1
-Mentions: N-3, N-551, N-2
+Mentions: N-3, N-550, N-2
 Related Nodes: N-10492
 Tags: relevance:core
 Investigative Direction: Collect accounts from other fired employees about the stated and unstated reasons for their dismissals.
@@ -1763,7 +1763,7 @@ Claim: The host says Aubrey Laitsch did not mention in her video that TPUSA also
 Transcript Snippet: they also then fired her fiance. So their entire uh income in one house was wiped out in one day.
 
 Anchored Artifacts: A-1747.1
-Mentions: N-3, N-551
+Mentions: N-3, N-550
 Related Nodes: N-10492
 Tags: relevance:core
 Investigative Direction: Confirm the fiance's employment and dismissal with Laitsch or TPUSA records.

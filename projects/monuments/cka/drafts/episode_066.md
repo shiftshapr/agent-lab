@@ -36,7 +36,7 @@
 
 - Artifact Families Introduced: A-1704, A-1705, A-1706, A-1707, A-1708, A-1709, A-1710, A-1711, A-1712, A-1713
   - New Nodes Introduced: N-512, N-513, N-514, N-515, N-516, N-517, N-518, N-10466, N-10468, N-10469
-  - Reused Nodes Appearing: N-9, N-36, N-40, N-57, N-93, N-99, N-722, N-10000, N-10002, N-10015, N-10026, N-10059, N-10070, N-10209, N-10324, N-10439, N-10492, N-10869, N-10899, N-11014, N-11035, N-10467, N-11182, N-11183
+  - Reused Nodes Appearing: N-9, N-36, N-40, N-57, N-93, N-99, N-721, N-10000, N-10002, N-10015, N-10026, N-10059, N-10070, N-10209, N-10324, N-10439, N-10492, N-10869, N-10899, N-11014, N-11035, N-10467, N-11182, N-11183
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
 ---
@@ -493,7 +493,7 @@ Alex Clark; interviewer whose interview with Kolvet the donor and the host dispu
 
 ---
 
-**N-722** Rabbi Michael Barclay
+**N-721** Rabbi Michael Barclay
 
 Rabbi Barclay (the transcript spells him Rabbi Barclay); the host says her debate with him and his interview shaped her view of Zionism.
 
@@ -1750,7 +1750,7 @@ Claim: The host says that the Rabbi Barclay interview probably was part of the b
 Transcript Snippet: And that probably was part of the beginning of the end of my support for Zionism because I now believe that it is a objectively racist philosophy.
 
 Anchored Artifacts: 
-Mentions: N-722, N-3
+Mentions: N-721, N-3
 Related Nodes: N-10026
 Tags: relevance:tangential
 Investigative Direction: Personal position recorded as said; the interview is the Daily Wire debate the host mentions earlier.

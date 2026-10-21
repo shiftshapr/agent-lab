@@ -1697,8 +1697,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-800",
-      "ref": "N-800",
+      "@id": "N-799",
+      "ref": "N-799",
       "name": "Paul Vallely",
       "type": "person",
       "description": "Retired Army general on the TPUSA advisory board.",
@@ -1877,8 +1877,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-752",
-      "ref": "N-752",
+      "@id": "N-751",
+      "ref": "N-751",
       "name": "Astrid Tuminez",
       "type": "person",
       "description": "UVU president; the host says she stepped down and was absent on September 10.",
@@ -1967,8 +1967,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-724",
-      "ref": "N-724",
+      "@id": "N-723",
+      "ref": "N-723",
       "name": "Jack Parsons",
       "type": "person",
       "description": "Rocket scientist and occultist the host cites as a Crowley student.",
@@ -1984,8 +1984,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-771",
-      "ref": "N-771",
+      "@id": "N-770",
+      "ref": "N-770",
       "name": "Aleister Crowley",
       "type": "person",
       "description": "Occultist cited by the host.",
@@ -2035,8 +2035,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-851",
-      "ref": "N-851",
+      "@id": "N-850",
+      "ref": "N-850",
       "name": "Pete McCormick",
       "type": "person",
       "description": "First named by the host at 00:06:05 in episode 58 as Colonel Pete McCormick, grandfather of cast member Peyton McCormick.",
@@ -2052,8 +2052,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-852",
-      "ref": "N-852",
+      "@id": "N-851",
+      "ref": "N-851",
       "name": "Allan McCormick",
       "type": "person",
       "description": "First named by the host at 00:06:05 in episode 58 as Lieutenant Colonel Allan McCormick, once stationed at Fort Huachuca, father of cast member Peyton McCormick.",
@@ -2069,8 +2069,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-853",
-      "ref": "N-853",
+      "@id": "N-852",
+      "ref": "N-852",
       "name": "Myron Gaines",
       "type": "person",
       "description": "First named by the host at 01:02:10 in episode 58 as the interviewer in an interview with her dropping the next day.",
@@ -2818,8 +2818,8 @@
       "transcript_snippet": "Her father is Lieutenant Colonel Allan McCormick, once stationed at Fort Huachuca.",
       "mentions_person_refs": [
         "N-463",
-        "N-851",
-        "N-852"
+        "N-850",
+        "N-851"
       ]
     },
     {
@@ -3238,7 +3238,7 @@
         "C-4864"
       ],
       "mentions_person_refs": [
-        "N-800",
+        "N-799",
         "N-3"
       ]
     },
@@ -3262,7 +3262,7 @@
         "C-4865"
       ],
       "mentions_person_refs": [
-        "N-800",
+        "N-799",
         "N-3"
       ]
     },
@@ -3798,7 +3798,7 @@
       "investigative_direction": "Check the UVU announcement and its date.",
       "transcript_snippet": "who by the way has just stepped down from Utah Valley University. It was just announced",
       "mentions_person_refs": [
-        "N-752",
+        "N-751",
         "N-3"
       ]
     },
@@ -3820,7 +3820,7 @@
       "investigative_direction": "Obtain Tuminez's September 10, 2025 whereabouts and travel; previously claimed absences can be compared.",
       "transcript_snippet": "she was not there on the day of Charlie's assassination.",
       "mentions_person_refs": [
-        "N-752",
+        "N-751",
         "N-1",
         "N-3"
       ]
@@ -3842,7 +3842,7 @@
       "investigative_direction": "Check Tuminez's published biography and memoir for her childhood and career; the CIA work claim has no cited source.",
       "transcript_snippet": "Looks like she was involved in some color revolution stuff for the CIA. She was a fostered child, was rescued from the Philippines.",
       "mentions_person_refs": [
-        "N-752",
+        "N-751",
         "N-3"
       ]
     },
@@ -4054,8 +4054,8 @@
       "investigative_direction": "Parsons is documented as a JPL co-founder and Thelema follower; historians do not credit him with founding the Apollo program.",
       "transcript_snippet": "Did Jackson did Jack Parsons exist the who established the Apollo program at NASA? Was he similarly conducting occult sexual rituals to establish a moon child?",
       "mentions_person_refs": [
-        "N-724",
-        "N-771",
+        "N-723",
+        "N-770",
         "N-3"
       ]
     },
@@ -4402,7 +4402,7 @@
       "investigative_direction": "Check the release of the interview on the following day.",
       "transcript_snippet": "we have an interview dropping tomorrow between me and Myron Gaines",
       "mentions_person_refs": [
-        "N-853",
+        "N-852",
         "N-3"
       ]
     }

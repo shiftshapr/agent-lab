@@ -1746,8 +1746,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-710",
-      "ref": "N-710",
+      "@id": "N-709",
+      "ref": "N-709",
       "name": "Volodymyr Zelensky",
       "type": "person",
       "description": "Subject of Kirk's 2023 corruption accusations per the host.",
@@ -2283,8 +2283,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-907",
-      "ref": "N-907",
+      "@id": "N-906",
+      "ref": "N-906",
       "name": "Che Ahn",
       "type": "person",
       "description": "First named by the host at 00:11:43 in episode 23. NAR apostle whose prayer rallies the host reads that Sean Feucht took part in.",
@@ -2300,8 +2300,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-908",
-      "ref": "N-908",
+      "@id": "N-907",
+      "ref": "N-907",
       "name": "Dan Gertler",
       "type": "person",
       "description": "First named by the host at 00:52:25 in episode 23. Named by the host as the Israeli link in Congo and the diamond trade.",
@@ -3136,7 +3136,7 @@
       "transcript_snippet": "He's accusing Ukraine and Zelenskyy of corruption, of financial fraud, of money laundering.",
       "mentions_person_refs": [
         "N-1",
-        "N-710",
+        "N-709",
         "N-3"
       ]
     },
@@ -3320,7 +3320,7 @@
       ],
       "mentions_person_refs": [
         "N-205",
-        "N-907"
+        "N-906"
       ]
     },
     {
@@ -4594,7 +4594,7 @@
       "transcript_snippet": "They'll be like, \"Well, look at what the Christians are being slaughtered in Congo.\" Oopsies, Dan Gertler.",
       "mentions_person_refs": [
         "N-3",
-        "N-908"
+        "N-907"
       ]
     },
     {

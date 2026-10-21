@@ -14,8 +14,8 @@
 - **Episode Ledger Summary**:
   - Hole-minted Nodes (reintro-ep113): N-10865
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Tip-minted Nodes (skeleton): N-669, N-670, N-671, N-672, N-10961, N-10964, N-10965, N-10966, N-10967
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-14, N-60, N-97, N-159, N-178, N-361, N-433, N-449, N-520, N-592, N-660, N-664, N-665, N-10000, N-10008, N-10026, N-10070, N-10367, N-10417, N-10472, N-10541, N-10628, N-10664, N-10671, N-10700, N-10899, N-10955, N-673, N-10962, N-10963
+  - Tip-minted Nodes (skeleton): N-668, N-669, N-670, N-671, N-10961, N-10964, N-10965, N-10966, N-10967
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-14, N-60, N-97, N-159, N-178, N-361, N-433, N-449, N-520, N-591, N-659, N-663, N-664, N-10000, N-10008, N-10026, N-10070, N-10367, N-10417, N-10472, N-10541, N-10628, N-10664, N-10671, N-10700, N-10899, N-10955, N-672, N-10962, N-10963
   - Claim Range: C-9818–C-9866
   - (see registers)
 
@@ -40,7 +40,7 @@ Video Timestamp: 00:04:26
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9819, C-9820, N-660, N-178, N-10955*
+*Related: C-9819, C-9820, N-659, N-178, N-10955*
 
 **A-2636.2** Jared Kushner interview clip on how he discovered Albania aboard Nat Rothschild's boat (played)
 
@@ -51,7 +51,7 @@ Video Timestamp: 00:08:08
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9826, C-9827, C-9828, N-178, N-664, N-665, N-10955*
+*Related: C-9826, C-9827, C-9828, N-178, N-663, N-664, N-10955*
 
 **A-2636.3** Comedic clip presented as "live footage from the scene inside Albania" (played)
 
@@ -75,7 +75,7 @@ Video Timestamp: 00:02:52
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9820, C-9822, C-9823, C-9824, N-664, N-520*
+*Related: C-9820, C-9822, C-9823, C-9824, N-663, N-520*
 
 ---
 
@@ -90,7 +90,7 @@ Video Timestamp: 00:09:59
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9829, C-9830, N-669, N-670, N-10955*
+*Related: C-9829, C-9830, N-668, N-669, N-10955*
 
 ---
 
@@ -129,7 +129,7 @@ Video Timestamp: 00:15:42
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9836, C-9837, C-9838, N-592, N-671, N-5, N-10964*
+*Related: C-9836, C-9837, C-9838, N-591, N-670, N-5, N-10964*
 
 **A-2640.2** Images of Pete Hegseth running with troops (Malaysia, October 2025; Singapore, May 29; Poland, 2025; Germany, February 2025)
 
@@ -138,7 +138,7 @@ Video Timestamp: 00:21:34
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9839, N-592*
+*Related: C-9839, N-591*
 
 **A-2640.3** Military website clip of Pete Hegseth working out with troops and addressing them (played)
 
@@ -149,7 +149,7 @@ Video Timestamp: 00:22:34
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9840, N-592, N-10964*
+*Related: C-9840, N-591, N-10964*
 
 **A-2640.4** Clip of Laura Loomer's question to Pete Hegseth on a Cuba operation, and his answer, during the Guantanamo Bay trip (played)
 
@@ -160,7 +160,7 @@ Video Timestamp: 00:26:08
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9841, C-9843, C-9844, C-9845, N-60, N-592, N-672, N-673, N-10963, N-10965*
+*Related: C-9841, C-9843, C-9844, C-9845, N-60, N-591, N-671, N-672, N-10963, N-10965*
 
 ---
 
@@ -216,7 +216,7 @@ Video Timestamp: 00:36:43
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9855, N-665*
+*Related: C-9855, N-664*
 
 **A-2643.2** Viewer comment (Dexter Morgan) read on air alleging Erika Kirk and JD Vance are half siblings fathered by Michael Aquino
 
@@ -356,55 +356,55 @@ The host links the family to the Sazan Island deal, the founding of Israel and t
 
 *Related: C-9820, C-9821, C-9825, A-2637.1*
 
-**N-592** Pete Hegseth
+**N-591** Pete Hegseth
 
 Repeatedly misnamed "Pete Buttigieg" by the host. His CENTCOM press remarks, troop runs and Guantanamo trip with Laura Loomer are shown.
 
 *Related: C-9836, C-9837, C-9838, C-9839, C-9840, C-9841, C-9845, C-9846, A-2640.1, A-2640.2, A-2640.3, A-2640.4*
 
-**N-660** Ivanka Trump
+**N-659** Ivanka Trump
 
 First named by the host at 00:00:52 in episode 113. Her story of swimming to Sazan Island from a friend's boat is revisited.
 
 *Related: C-9819, C-9820, A-2636.1*
 
-**N-664** Nat Rothschild
+**N-663** Nat Rothschild
 
 First named by the host at 00:02:52 in episode 113. Owner of the superyacht Planet Nine, on which Kushner says he and Ivanka vacationed in 2021. Aliases: Nathaniel; Nathan Rothschild.
 
 *Related: C-9820, C-9822, C-9826, A-2636.2, A-2637.1*
 
-**N-665** Edi Rama
+**N-664** Edi Rama
 
 First named by Jared Kushner in a clip at 00:08:08 in episode 113, as "Prime Minister Rama" of Albania. Kushner says Rama came to the yacht. Transcript gives only the surname.
 
 *Related: C-9827, C-9828, C-9855, A-2636.2, A-2643.1*
 
-**N-669** Nikita Khrushchev
+**N-668** Nikita Khrushchev
 
 First named by the host at 00:09:59 in episode 113. Former Soviet leader quoted on Sazan Island as a strategic naval position.
 
 *Related: C-9829, C-9830, A-2638.1*
 
-**N-670** Enver Hoxha
+**N-669** Enver Hoxha
 
 First named by the host at 00:09:59 in episode 113. Former Albanian leader (called "prime minister" by the host) whose account of Khrushchev's remarks is read.
 
 *Related: C-9830, A-2638.1*
 
-**N-671** Admiral Cooper (CENTCOM commander)
+**N-670** Admiral Cooper (CENTCOM commander)
 
 First named by Pete Hegseth in a clip at 00:15:42 in episode 113 as "Admiral Cooper, the commander of CENTCOM." Only the surname is given.
 
 *Related: C-9836, C-9837, A-2640.1*
 
-**N-672** Miguel Díaz-Canel
+**N-671** Miguel Díaz-Canel
 
 First named by Laura Loomer in a clip at 00:26:08 in episode 113 (transcript spelling "Miguel Diaz-Canel"). Cuban leader named in her capture-or-kill question.
 
 *Related: C-9844, A-2640.4*
 
-**N-673** Nicolás Maduro
+**N-672** Nicolás Maduro
 
 First named by Laura Loomer in a clip at 00:26:08 in episode 113. She cites a capture or kill operation against him as a precedent.
 
@@ -576,7 +576,7 @@ Claim: The host recounts Ivanka Trump's story that she was on a friend's boat, j
 Transcript Snippet: Story is she was on her friend's boat, remember? Um, and she said she jumped off of it. She swam. Her and Jared then ran barefoot on the island like Adam and Eve.
 
 Anchored Artifacts: A-2636.1
-Mentions: N-660, N-178
+Mentions: N-659, N-178
 Related Nodes: N-10955
 Investigative Direction: Review the full Ivanka Trump interview in which she describes discovering Sazan Island.
 
@@ -591,7 +591,7 @@ Claim: The host says the boat from which Ivanka Trump swam to the island was Rot
 Transcript Snippet: I guarantee you they wouldn't come up with anything remotely akin to the one that Ivanka jumped off of because, well, it's a Rothschild owned boat.
 
 Anchored Artifacts: A-2636.1, A-2637.1
-Mentions: N-660, N-664, N-520
+Mentions: N-659, N-663, N-520
 Related Nodes: N-10955
 Investigative Direction: Check yacht registry and ownership records for Planet Nine and its summer 2021 Adriatic itinerary.
 
@@ -621,7 +621,7 @@ Claim: The host says Nat Rothschild's boat is a superyacht named Planet Nine des
 Transcript Snippet: It's It's a super yacht appropriately named Planet Nine. Planet Nine, which is designed for heli-skiing adventures.
 
 Anchored Artifacts: A-2637.1
-Mentions: N-664
+Mentions: N-663
 Related Nodes:
 Investigative Direction: Check yacht registry and builder records for Planet Nine and its listed owner.
 
@@ -681,7 +681,7 @@ Claim: In the clip, Jared Kushner says that after leaving government in summer 2
 Transcript Snippet: I was on a vacation after we left government in the summer of 2021. We were on our friend Nat Rothschild's boat. We got picked up in Montenegro
 
 Anchored Artifacts: A-2636.2
-Mentions: N-178, N-664
+Mentions: N-178, N-663
 Related Nodes: N-10955
 Investigative Direction: Obtain the full Kushner interview and AIS tracking data for Planet Nine in summer 2021.
 
@@ -696,7 +696,7 @@ Claim: In the clip, Kushner says Albania's Prime Minister Rama came to the boat 
 Transcript Snippet: One of the nights their Prime Minister Rama came to the boat. I had not met him when I was in government,
 
 Anchored Artifacts: A-2636.2
-Mentions: N-178, N-665
+Mentions: N-178, N-664
 Related Nodes: N-10955
 Investigative Direction: Check Albanian government schedules and press reports for Edi Rama's summer 2021 meeting with Kushner.
 
@@ -711,7 +711,7 @@ Claim: The host says the Albanian prime minister who made the Sazan Island deal 
 Transcript Snippet: The Prime Minister of Albania was on the boat. The guy who did the deal and in the process sold out his country and his ancestry.
 
 Anchored Artifacts: A-2636.2
-Mentions: N-665, N-664
+Mentions: N-664, N-663
 Related Nodes: N-10955
 Investigative Direction: Check Albanian prosecutorial (SPAK) records and press reports for any corruption investigation into the Sazan Island agreement.
 
@@ -726,7 +726,7 @@ Claim: The host says Nikita Khrushchev visited Albania in 1959 with a Soviet mar
 Transcript Snippet: but in 1950 1959 he visited alongside his Soviet marshal and they looked out at the bay and they discussed Albania's coastline in particular, the Sazan Island, as a strategic naval position.
 
 Anchored Artifacts: A-2638.1
-Mentions: N-669
+Mentions: N-668
 Related Nodes: N-10955
 Investigative Direction: Consult Enver Hoxha's memoir "The Khrushchevites" and historical records of Khrushchev's May 1959 Albania visit.
 
@@ -741,7 +741,7 @@ Claim: According to Enver Hoxha's account read by the host, Khrushchev said that
 Transcript Snippet: With a powerful fleet from here, we can have the whole of the Mediterranean, the Bosphorus to the Gibraltar in our hands. We can control everyone.
 
 Anchored Artifacts: A-2638.1
-Mentions: N-670, N-669
+Mentions: N-669, N-668
 Related Nodes: N-10955
 Investigative Direction: Verify the quotation against the published text of Hoxha's memoirs.
 
@@ -832,7 +832,7 @@ Claim: In a clip from US Central Command in Tampa, Pete Hegseth says Admiral Coo
 Transcript Snippet: But, of course, he is busy because CENTCOM, Central Command, will be busy tonight because President Trump said we will be hitting Iran hard, and we will be.
 
 Anchored Artifacts: A-2640.1
-Mentions: N-592, N-671, N-5
+Mentions: N-591, N-670, N-5
 Related Nodes: N-10964, N-10541
 Investigative Direction: Obtain the Department of War transcript of Hegseth's Tampa remarks and CENTCOM strike announcements for that night.
 
@@ -847,7 +847,7 @@ Claim: Hegseth says Admiral Cooper and CENTCOM have done "a phenomenal job from 
 Transcript Snippet: Uh and Admiral Cooper and the team here at CENTCOM has done a phenomenal job from the beginning on Epic Fury and through this blockade,
 
 Anchored Artifacts: A-2640.1
-Mentions: N-592, N-671
+Mentions: N-591, N-670
 Related Nodes: N-10964, N-10541
 Investigative Direction: Review official CENTCOM releases on Operation Epic Fury and the Iran blockade.
 
@@ -862,7 +862,7 @@ Claim: The host says she noticed Hegseth has a crucifix tattooed on his right ar
 Transcript Snippet: I noticed that he had a crucifix uh tattooed um on his right arm, so that I guess bars us from asking questions.
 
 Anchored Artifacts: A-2640.1
-Mentions: N-592
+Mentions: N-591
 Related Nodes:
 Investigative Direction: Compare with published photographs of Hegseth's tattoos.
 
@@ -877,7 +877,7 @@ Claim: The host says Hegseth (whom she calls "Pete Buttigieg") ran with troops i
 Transcript Snippet: Here he is in October of 2025 in Malaysia. He went for a run with the troops.
 
 Anchored Artifacts: A-2640.2
-Mentions: N-592
+Mentions: N-591
 Related Nodes:
 Investigative Direction: Check DVIDS and Department of War photo releases for Hegseth's troop runs on those dates.
 
@@ -892,7 +892,7 @@ Claim: In a military website clip, Hegseth tells troops that under the current n
 Transcript Snippet: From this War Department's view the national defense strategy we have right now, we are taking back our hemisphere.
 
 Anchored Artifacts: A-2640.3
-Mentions: N-592
+Mentions: N-591
 Related Nodes: N-10964
 Investigative Direction: Locate the original DVIDS or War Department video and its location and date.
 
@@ -907,7 +907,7 @@ Claim: The host says Hegseth traveled to Guantanamo Bay with Laura Loomer, takin
 Transcript Snippet: He went down to Guantanamo Bay, Gitmo, with none other than Laura Loomer. Not a joke, guys.
 
 Anchored Artifacts: A-2640.4
-Mentions: N-592, N-60
+Mentions: N-591, N-60
 Related Nodes: N-10965
 Investigative Direction: Check the Department of War press pool roster for Hegseth's Guantanamo Bay trip.
 
@@ -952,7 +952,7 @@ Claim: In the clip, Loomer asks how long a US operation to remove Cuba's communi
 Transcript Snippet: reestablish order if President Trump were to decide to do a capture or kill operation with Miguel Diaz-Canel like he did with Maduro?
 
 Anchored Artifacts: A-2640.4
-Mentions: N-60, N-672, N-673, N-5
+Mentions: N-60, N-671, N-672, N-5
 Related Nodes: N-10963
 Investigative Direction: Obtain the War Department transcript of the Guantanamo press availability.
 
@@ -967,7 +967,7 @@ Claim: Hegseth replies "options, options, options," says all options are on the 
 Transcript Snippet: So, to kind of bring it back home to while we're here, those options are all All those options are on the table.
 
 Anchored Artifacts: A-2640.4
-Mentions: N-592
+Mentions: N-591
 Related Nodes: N-10963, N-10964
 Investigative Direction: Obtain the War Department transcript of the Guantanamo press availability.
 
@@ -982,7 +982,7 @@ Claim: The host says Hegseth also went on a run with troops after arriving at Gu
 Transcript Snippet: And secondly, uh when he got down to Gitmo, I should mention he did another run. He did.
 
 Anchored Artifacts:
-Mentions: N-592
+Mentions: N-591
 Related Nodes: N-10965
 Investigative Direction: Check DVIDS imagery from the Guantanamo Bay visit.
 
@@ -1119,7 +1119,7 @@ Claim: A viewer comment read by the host says the Albanian prime minister is con
 Transcript Snippet: The prime minister is considered the biggest anti-Albanian in the entire history of Albania. He is selling our land and sea to neighboring countries.
 
 Anchored Artifacts: A-2643.1
-Mentions: N-665
+Mentions: N-664
 Related Nodes:
 Investigative Direction: Review Albanian maritime and land concession agreements under Edi Rama, including the Greece maritime border deal.
 
@@ -1529,7 +1529,7 @@ Confidence: high
 
 - **Artifacts verbally referenced but not shown**: A-2645.1 (the Hansell FOIA request and response). The Daily Mail article on withholding the video and the host's prior-day naming of donors are referenced but not shown. A studio cutout of Laura Loomer holding a long "receipt" (25:19) is a comedy prop and is recorded only as meme context.
 - **Episode metadata**: the skeleton's Video Timestamp Range was 00:56:29; it is set to 00:47:48 from the transcript front matter.
-- **Name matching**: the host repeatedly says "Pete Buttigieg" (21:34) when she means Pete Hegseth; all are mapped to N-592. "Larry Loomer" is the host's running nickname for Laura Loomer (N-60). "Andrew Kolvet", "Andrew Kovacs" and "Kovacs" are mapped to N-14 Andrew Kolvet. "Brad Hansell" is mapped to N-433 Bradley Hansell. "Prime Minister Rama" is assumed to be Edi Rama (N-665); the transcript gives only the surname. "Admiral Cooper, the commander of CENTCOM" (N-671) is likely Adm. Brad Cooper, but only the surname airs. "Brian knows that" in the Trump Fox and Friends clip is probably Brian Kilmeade, but he is not linked because only the first name airs. "Erika Frantz Paye" in a viewer comment is a variant of Erika Frantzve (N-2). "Nathaniel" and "Nathan Rothschild" are taken as Nat Rothschild (N-664).
+- **Name matching**: the host repeatedly says "Pete Buttigieg" (21:34) when she means Pete Hegseth; all are mapped to N-591. "Larry Loomer" is the host's running nickname for Laura Loomer (N-60). "Andrew Kolvet", "Andrew Kovacs" and "Kovacs" are mapped to N-14 Andrew Kolvet. "Brad Hansell" is mapped to N-433 Bradley Hansell. "Prime Minister Rama" is assumed to be Edi Rama (N-664); the transcript gives only the surname. "Admiral Cooper, the commander of CENTCOM" (N-670) is likely Adm. Brad Cooper, but only the surname airs. "Brian knows that" in the Trump Fox and Friends clip is probably Brian Kilmeade, but he is not linked because only the first name airs. "Erika Frantz Paye" in a viewer comment is a variant of Erika Frantzve (N-2). "Nathaniel" and "Nathan Rothschild" are taken as Nat Rothschild (N-663).
 - **Transcription ambiguities**: "Cezanne" (13:42) is Sazan; "Karg Island" is Kharg; "trolling at WLS" refers to YWLS; "Sam 702" is linked to N-10671 (SAM702). "in 1950 1959" is a self-correction, and 1959 is used.
 - **Possible host errors kept as spoken**: the host says "the Roman name for Pluto is Hades" (Hades is the Greek name); she calls Enver Hoxha "prime minister" (he was also First Secretary); she gives Iran's population as "150 million". C-9865 places the hotel sighting "on the base" on "the 8th"; prior claim C-4347 names the Candlewood Inn & Suites, so the two are consistent.
 - **Speaker ambiguity**: in A-2642.1 the transcript does not separate Kolvet's lines from Neff's; C-9849, C-9850 and C-9852 mention both.

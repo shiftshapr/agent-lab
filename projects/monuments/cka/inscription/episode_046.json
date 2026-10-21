@@ -1127,8 +1127,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-603",
-      "ref": "N-603",
+      "@id": "N-602",
+      "ref": "N-602",
       "name": "Ian Miles Cheong",
       "type": "person",
       "description": "Named by the host as a recipient of out-of-context material.",
@@ -3241,7 +3241,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-227",
-        "N-603"
+        "N-602"
       ]
     },
     {

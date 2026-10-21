@@ -365,7 +365,7 @@
           "related_nodes": [
             "N-220",
             "N-267",
-            "N-910",
+            "N-909",
             "N-389"
           ],
           "tags": [],
@@ -1298,8 +1298,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-910",
-      "ref": "N-910",
+      "@id": "N-909",
+      "ref": "N-909",
       "name": "George Santos",
       "type": "person",
       "description": "First named by the host at 00:25:22 in episode 43. Former congressman who appears in the Tim Pool clip.",

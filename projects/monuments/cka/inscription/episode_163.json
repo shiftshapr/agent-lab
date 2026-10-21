@@ -63,8 +63,8 @@
             "C-14068"
           ],
           "related_nodes": [
-            "N-953",
-            "N-954",
+            "N-951",
+            "N-952",
             "N-492",
             "N-367",
             "N-11321"
@@ -84,8 +84,8 @@
             "C-14087"
           ],
           "related_nodes": [
-            "N-955",
-            "N-897",
+            "N-953",
+            "N-896",
             "N-11321"
           ],
           "tags": [],
@@ -155,11 +155,11 @@
           "related_nodes": [
             "N-190",
             "N-504",
-            "N-955",
             "N-953",
+            "N-951",
             "N-367",
             "N-159",
-            "N-897",
+            "N-896",
             "N-11419"
           ],
           "tags": [],
@@ -181,7 +181,7 @@
             "N-190",
             "N-367",
             "N-159",
-            "N-953"
+            "N-951"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -222,9 +222,9 @@
             "N-190",
             "N-159",
             "N-367",
+            "N-951",
+            "N-896",
             "N-953",
-            "N-897",
-            "N-955",
             "N-11419"
           ],
           "tags": [],
@@ -484,7 +484,7 @@
             "C-14141"
           ],
           "related_nodes": [
-            "N-953"
+            "N-951"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -969,8 +969,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-595",
-      "ref": "N-595",
+      "@id": "N-594",
+      "ref": "N-594",
       "name": "Druski",
       "type": "person",
       "description": "Host says Erika Kirk forgave the killer but not Druski.",
@@ -986,8 +986,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-897",
-      "ref": "N-897",
+      "@id": "N-896",
+      "ref": "N-896",
       "name": "Blake Harreff",
       "type": "person",
       "description": "Security member (transcribed Harris, Harref, Haruff, Haroff) who rode in the second white vehicle and later returned in scrubs.",
@@ -1006,8 +1006,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-953",
-      "ref": "N-953",
+      "@id": "N-951",
+      "ref": "N-951",
       "name": "Christopher Rhoades",
       "type": "person",
       "description": "First named by the host at 00:06:55 in episode 163 (as \"Christopher\", Charlie's driver), and identified in full at 00:23:19; the host spells the surname r-h-o-a-d-e-s. Not the same-named member of TPUSA's FRG security team.",
@@ -1032,8 +1032,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-954",
-      "ref": "N-954",
+      "@id": "N-952",
+      "ref": "N-952",
       "name": "Alex Faria",
       "type": "person",
       "description": "First named by the host at 00:06:55 in episode 163 as the driver of the Jeep Wagoneer security vehicle.",
@@ -1049,8 +1049,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-955",
-      "ref": "N-955",
+      "@id": "N-953",
+      "ref": "N-953",
       "name": "Blake Gibson",
       "type": "person",
       "description": "First named by the host at 00:11:07 in episode 163 as a security member who rode in the second white vehicle and later returned in scrubs.",
@@ -1070,8 +1070,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-956",
-      "ref": "N-956",
+      "@id": "N-954",
+      "ref": "N-954",
       "name": "La Fieta Assisi",
       "type": "person",
       "description": "First named by the host at 00:07:45 in episode 163 as the ICAC officer who took Mikey McCoy's statement; the host says she goes by \"Fia\" and has since left her position. Spelling unconfirmed.",
@@ -1894,8 +1894,8 @@
       "investigative_direction": "Rental and driver assignment records for the security vehicles.",
       "transcript_snippet": "Now we know that that Yukon Denali is gone, which was being driven by Christopher, but we have a Jeep Wagoneer, which was a security vehicle that was being driven by Alex Faria",
       "mentions_person_refs": [
-        "N-953",
-        "N-954"
+        "N-951",
+        "N-952"
       ]
     },
     {
@@ -1961,7 +1961,7 @@
       "investigative_direction": "Utah ICAC Task Force personnel roster and separation records.",
       "transcript_snippet": "By the way, I can tell you this that woman, that officer, has since left her position, by the way. Her name is Fia Assisi.",
       "mentions_person_refs": [
-        "N-956",
+        "N-954",
         "N-190"
       ]
     },
@@ -2092,9 +2092,9 @@
         "N-159",
         "N-367",
         "N-504",
-        "N-897",
-        "N-955",
-        "N-953"
+        "N-896",
+        "N-953",
+        "N-951"
       ]
     },
     {
@@ -2158,8 +2158,8 @@
       "mentions_person_refs": [
         "N-190",
         "N-504",
-        "N-955",
-        "N-953"
+        "N-953",
+        "N-951"
       ]
     },
     {
@@ -2208,9 +2208,9 @@
         "N-159",
         "N-504",
         "N-367",
-        "N-955",
-        "N-897",
-        "N-953"
+        "N-953",
+        "N-896",
+        "N-951"
       ]
     },
     {
@@ -2234,7 +2234,7 @@
         "N-190",
         "N-367",
         "N-159",
-        "N-953"
+        "N-951"
       ]
     },
     {
@@ -2352,9 +2352,9 @@
       "investigative_direction": "Security members' own accounts and phone location data after 1:00 p.m.",
       "transcript_snippet": "We've got missing security people that got into the separate white vehicle.",
       "mentions_person_refs": [
-        "N-955",
-        "N-897",
-        "N-953"
+        "N-953",
+        "N-896",
+        "N-951"
       ]
     },
     {
@@ -2415,8 +2415,8 @@
         "C-12881"
       ],
       "mentions_person_refs": [
-        "N-897",
-        "N-955"
+        "N-896",
+        "N-953"
       ]
     },
     {
@@ -2436,7 +2436,7 @@
       "investigative_direction": "Evening UVU footage of Christopher Rhoades.",
       "transcript_snippet": "But Christopher Rhoades, Charlie's driver, will not be wearing scrubs.",
       "mentions_person_refs": [
-        "N-953"
+        "N-951"
       ]
     },
     {
@@ -2459,7 +2459,7 @@
         "C-12672"
       ],
       "mentions_person_refs": [
-        "N-953",
+        "N-951",
         "N-504"
       ]
     },
@@ -2523,7 +2523,7 @@
       "investigative_direction": "Rental agreements and security-contractor rosters for September 10.",
       "transcript_snippet": "we did make a positive ID on Charlie's driver, Christopher Rhoades, spelled with an A, r h o a d e s.",
       "mentions_person_refs": [
-        "N-953",
+        "N-951",
         "N-1"
       ]
     },
@@ -2545,7 +2545,7 @@
       "investigative_direction": "FRG security staff listing.",
       "transcript_snippet": "there is another security member by the exact same name that works for the new security team at Turning Point USA, FRG security.",
       "mentions_person_refs": [
-        "N-953"
+        "N-951"
       ]
     },
     {
@@ -2565,7 +2565,7 @@
       "investigative_direction": "Texas private-security licensing records and Harpole's company rosters.",
       "transcript_snippet": "he appears to be from Texas and he is working with Brian Harpole.",
       "mentions_person_refs": [
-        "N-953",
+        "N-951",
         "N-266"
       ]
     },
@@ -2586,7 +2586,7 @@
       "investigative_direction": "Public records searches for Christopher Rhoades in private security.",
       "transcript_snippet": "that was the very first person that we've ever tried to to identify on the show with so much difficulty.",
       "mentions_person_refs": [
-        "N-953"
+        "N-951"
       ]
     },
     {
@@ -2606,7 +2606,7 @@
       "investigative_direction": "Tip responses.",
       "transcript_snippet": "If you can establish some connection between me and him, please reach out. I'd love to get answers as we continue to investigate this. More tips at candaceowens.com.",
       "mentions_person_refs": [
-        "N-953",
+        "N-951",
         "N-3"
       ]
     },
@@ -3369,9 +3369,9 @@
         "N-190",
         "N-159",
         "N-367",
-        "N-953",
-        "N-897",
-        "N-955"
+        "N-951",
+        "N-896",
+        "N-953"
       ]
     },
     {
@@ -3490,7 +3490,7 @@
       "transcript_snippet": "It's normal that she forgave the killer and can't forgive Druski.",
       "mentions_person_refs": [
         "N-2",
-        "N-595"
+        "N-594"
       ]
     },
     {
@@ -3553,7 +3553,7 @@
       "investigative_direction": "Tip responses.",
       "transcript_snippet": "I would love to learn a little bit more about Christopher Rhoades and to establish connection.",
       "mentions_person_refs": [
-        "N-953"
+        "N-951"
       ]
     },
     {

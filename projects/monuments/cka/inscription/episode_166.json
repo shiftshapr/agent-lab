@@ -48,7 +48,7 @@
             "C-14342"
           ],
           "related_nodes": [
-            "N-967",
+            "N-965",
             "N-11439"
           ],
           "tags": [],
@@ -69,7 +69,7 @@
             "C-14393"
           ],
           "related_nodes": [
-            "N-959",
+            "N-957",
             "N-41"
           ],
           "tags": [],
@@ -162,7 +162,7 @@
             "C-14314"
           ],
           "related_nodes": [
-            "N-959",
+            "N-957",
             "N-2",
             "N-10074"
           ],
@@ -223,8 +223,8 @@
             "C-14340"
           ],
           "related_nodes": [
-            "N-967",
-            "N-968",
+            "N-965",
+            "N-966",
             "N-11439",
             "N-11440",
             "N-10013"
@@ -350,7 +350,7 @@
             "C-14370"
           ],
           "related_nodes": [
-            "N-962",
+            "N-960",
             "N-11434"
           ],
           "tags": [],
@@ -373,7 +373,7 @@
             "C-14376"
           ],
           "related_nodes": [
-            "N-962",
+            "N-960",
             "N-95",
             "N-11434",
             "N-11441",
@@ -431,7 +431,7 @@
           ],
           "related_nodes": [
             "N-5",
-            "N-970",
+            "N-968",
             "N-11443"
           ],
           "tags": [],
@@ -831,8 +831,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-592",
-      "ref": "N-592",
+      "@id": "N-591",
+      "ref": "N-591",
       "name": "Pete Hegseth",
       "type": "person",
       "description": "The host says he announced the Fort Hood shooter would be executed on livestream.",
@@ -848,8 +848,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-898",
-      "ref": "N-898",
+      "@id": "N-897",
+      "ref": "N-897",
       "name": "Bobby Sausalito",
       "type": "person",
       "description": "Transcribed \"Bobby Sausalito\". The host credits him with keeping the statue story alive.",
@@ -1109,8 +1109,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-962",
-      "ref": "N-962",
+      "@id": "N-960",
+      "ref": "N-960",
       "name": "Katie Zacharia",
       "type": "person",
       "description": "First named by the host at 00:00:01 in episode 166. The new White House press secretary. Aliases: Katie Zacharia (transcript spelling); \"Karine Jean-Pierre\" at 00:27:02 and 00:27:35 is a mis-transcription or slip (see Optional Flags).",
@@ -1141,8 +1141,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-959",
-      "ref": "N-959",
+      "@id": "N-957",
+      "ref": "N-957",
       "name": "Tyler Clancy",
       "type": "person",
       "description": "First named by the host at 00:02:40 in episode 166. A Provo police officer and Utah House representative.",
@@ -1167,8 +1167,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-957",
-      "ref": "N-957",
+      "@id": "N-955",
+      "ref": "N-955",
       "name": "Val Peterson",
       "type": "person",
       "description": "First named by the host at 00:07:34 in episode 166. The host's sources say he was with Governor Cox on September 10.",
@@ -1188,8 +1188,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-963",
-      "ref": "N-963",
+      "@id": "N-961",
+      "ref": "N-961",
       "name": "Charles Peterson",
       "type": "person",
       "description": "First named by the host at 00:09:31 in episode 166. Val Peterson's brother (\"Charles, Chuck\"), whom the host says has legal issues.",
@@ -1205,8 +1205,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-967",
-      "ref": "N-967",
+      "@id": "N-965",
+      "ref": "N-965",
       "name": "Taylor Dodd",
       "type": "person",
       "description": "First named by the host at 00:11:12 in episode 166. Former president of the Club America chapter in Bonners Ferry, Idaho, arrested on child sexually exploitative material charges, per the article the host reads. Alias: Todd (transcript, 00:11:12).",
@@ -1231,8 +1231,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-968",
-      "ref": "N-968",
+      "@id": "N-966",
+      "ref": "N-966",
       "name": "Brandon Blackmore",
       "type": "person",
       "description": "First named by the host at 00:12:48 in episode 166. The officer whose report the Bonners Ferry Herald article cites in the Dodd case.",
@@ -1248,8 +1248,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-969",
-      "ref": "N-969",
+      "@id": "N-967",
+      "ref": "N-967",
       "name": "Anthony Scaramucci",
       "type": "person",
       "description": "First named by the host at 00:27:02 in episode 166. The host cites him as a past press secretary.",
@@ -1265,8 +1265,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-970",
-      "ref": "N-970",
+      "@id": "N-968",
+      "ref": "N-968",
       "name": "Nidal Malik Hasan",
       "type": "person",
       "description": "First named by the host at 00:38:18 in episode 166. The Fort Hood shooter, a former US Army major.",
@@ -1569,7 +1569,7 @@
       "investigative_direction": "Zacharia's public statements and interviews of October 2026, and the State Bar of California attorney search.",
       "transcript_snippet": "at least she's acknowledging that no, she is not an attorney",
       "mentions_person_refs": [
-        "N-962"
+        "N-960"
       ]
     },
     {
@@ -1681,7 +1681,7 @@
       "investigative_direction": "The governor's calendar and visitor log for September 9, 2025, and Clancy's own schedule.",
       "transcript_snippet": "on the evening of September 9th, not on September 2nd as we had initially reported, officer House of Rep Tyler Clancy had that private one-on-one meeting with the governor",
       "mentions_person_refs": [
-        "N-959",
+        "N-957",
         "N-41"
       ]
     },
@@ -1702,7 +1702,7 @@
       "investigative_direction": "Provo Police Department dispatch and assignment records for September 10, 2025.",
       "transcript_snippet": "Tyler Clancy allegedly was the person who was selected to transport Turning Point employees to the airport to pick up Erika.",
       "mentions_person_refs": [
-        "N-959",
+        "N-957",
         "N-2"
       ]
     },
@@ -1725,7 +1725,7 @@
       "investigative_direction": "Provo police radio recordings for September 10, 2025, and identification of the speaker and of \"Sergeant DePay\".",
       "transcript_snippet": "This will be info for IC, uh myself and Sergeant DePay are in route to Provo Airport.",
       "mentions_person_refs": [
-        "N-959",
+        "N-957",
         "N-2"
       ]
     },
@@ -1746,7 +1746,7 @@
       "investigative_direction": "Voice comparison with Clancy's public interviews, and the radio call sign log.",
       "transcript_snippet": "We listened to his voice in other interviews. It certainly sounds a lot like him.",
       "mentions_person_refs": [
-        "N-959"
+        "N-957"
       ]
     },
     {
@@ -1767,7 +1767,7 @@
       "investigative_direction": "Provo police evidence and property logs for September 10, 2025, and the statements of Clancy and witnesses.",
       "transcript_snippet": "it was Officer Tyler Clancy who at some point that same day or evening, telling on whose tongue the story, disposed of a bloodied item that belonged to Turning Point USA or one of their affiliates.",
       "mentions_person_refs": [
-        "N-959"
+        "N-957"
       ]
     },
     {
@@ -1788,7 +1788,7 @@
       "transcript_snippet": "we induced that it was likely Frank Turek's bloodied bag since Frank and Bank gave an interview revealing that he instructed a police officer to throw out his bag.",
       "mentions_person_refs": [
         "N-7",
-        "N-959"
+        "N-957"
       ]
     },
     {
@@ -1829,7 +1829,7 @@
       "investigative_direction": "Interviews with the people Clancy reportedly told, and any Provo police report on the item.",
       "transcript_snippet": "mainly that he was not instructed to do so, but that he did so out of his own volition, on a whim, because the item had been left behind in his car.",
       "mentions_person_refs": [
-        "N-959"
+        "N-957"
       ]
     },
     {
@@ -1956,8 +1956,8 @@
       "transcript_snippet": "if he did indeed golf with Val Peterson on the morning of the 10th after having spent an evening with Tyler Clancy on the 9th.",
       "mentions_person_refs": [
         "N-41",
-        "N-957",
-        "N-959"
+        "N-955",
+        "N-957"
       ]
     },
     {
@@ -1980,7 +1980,7 @@
       "transcript_snippet": "He doesn't have golf with Val Peterson on it. Not on his official schedule, anyway.",
       "mentions_person_refs": [
         "N-41",
-        "N-957"
+        "N-955"
       ]
     },
     {
@@ -2067,7 +2067,7 @@
       "transcript_snippet": "if he and Val Peterson did meet up for golf, it was likely before this, by the way.",
       "mentions_person_refs": [
         "N-41",
-        "N-957"
+        "N-955"
       ]
     },
     {
@@ -2087,7 +2087,7 @@
       "investigative_direction": "The governor's office response to the host's inquiry, and records of Val Peterson's whereabouts on September 10, 2025.",
       "transcript_snippet": "my sources on this, that Val Peterson was with the governor on the on September 10th, are are solid. They're not aware of one another",
       "mentions_person_refs": [
-        "N-957",
+        "N-955",
         "N-41"
       ]
     },
@@ -2106,8 +2106,8 @@
       "investigative_direction": "Idaho court records for Charles Peterson.",
       "transcript_snippet": "his brother Charles, Chuck, Chuck the boy over there, has some legal issues",
       "mentions_person_refs": [
-        "N-957",
-        "N-963"
+        "N-955",
+        "N-961"
       ]
     },
     {
@@ -2150,7 +2150,7 @@
       "investigative_direction": "Local coverage or video of the Bonners Ferry Charlie Kirk vigil, and Club America chapter listings.",
       "transcript_snippet": "he's the now former president of Club America in um Bonners Ferry, Idaho. His name is Taylor Dodd. When he was 17 years old, he actually gave a speech at Charlie Kirk's vigil.",
       "mentions_person_refs": [
-        "N-967",
+        "N-965",
         "N-1"
       ]
     },
@@ -2174,7 +2174,7 @@
       "investigative_direction": "The Bonners Ferry Herald article and the Boundary County court docket.",
       "transcript_snippet": "He was arrested for child pornography. Here is the headline which was published in the Bonner's Ferry Herald.",
       "mentions_person_refs": [
-        "N-967"
+        "N-965"
       ]
     },
     {
@@ -2198,7 +2198,7 @@
       "investigative_direction": "The charging documents and the Idaho ICAC case referral.",
       "transcript_snippet": "Taylor Dodd was arrested in early September on seven felony charges of child sexually exploitative material.",
       "mentions_person_refs": [
-        "N-967"
+        "N-965"
       ]
     },
     {
@@ -2220,7 +2220,7 @@
       "investigative_direction": "The court documents in the Dodd case.",
       "transcript_snippet": "The images were downloaded in early April, according to court documents.",
       "mentions_person_refs": [
-        "N-967"
+        "N-965"
       ]
     },
     {
@@ -2242,7 +2242,7 @@
       "investigative_direction": "The court documents in the Dodd case.",
       "transcript_snippet": "Documents contend that other apps were also used, such as Telegram, an instant messaging app, and Threads, a text-based social media app by Meta, to purchase and download images.",
       "mentions_person_refs": [
-        "N-967"
+        "N-965"
       ]
     },
     {
@@ -2264,8 +2264,8 @@
       "investigative_direction": "The officer's probable-cause affidavit.",
       "transcript_snippet": "In his report, Officer Brandon Blackmore said that 116 images had allegedly been downloaded and saved to Dodd's phone.",
       "mentions_person_refs": [
-        "N-968",
-        "N-967"
+        "N-966",
+        "N-965"
       ]
     },
     {
@@ -2287,7 +2287,7 @@
       "investigative_direction": "The court documents in the Dodd case.",
       "transcript_snippet": "Documents indicate that the ages allegedly ranged from 3 to 15.",
       "mentions_person_refs": [
-        "N-967"
+        "N-965"
       ]
     },
     {
@@ -2309,7 +2309,7 @@
       "investigative_direction": "The case file and the plea record.",
       "transcript_snippet": "according to court documents, he confessed that he purchased and watched the videos of child pornography, downloaded them, and saved them to his cell phone.",
       "mentions_person_refs": [
-        "N-967"
+        "N-965"
       ]
     },
     {
@@ -2330,7 +2330,7 @@
       "investigative_direction": "Wayback Machine captures of Club America / TPUSA chapter pages naming Dodd.",
       "transcript_snippet": "they tried to scrub their affiliation from the internet. So, there were a lot of broken links as we were trying to hunt down this information.",
       "mentions_person_refs": [
-        "N-967"
+        "N-965"
       ]
     },
     {
@@ -2353,7 +2353,7 @@
       "investigative_direction": "The tip email and its source material.",
       "transcript_snippet": "Thank you, by the way, to the sleuth that emailed us the lead.",
       "mentions_person_refs": [
-        "N-967"
+        "N-965"
       ]
     },
     {
@@ -2835,7 +2835,7 @@
       "investigative_direction": "The police vandalism report, the surveillance footage, and donation inflows after the incident.",
       "transcript_snippet": "my instincts about the statue is that we're not being told the entire story um and that it was meant to be a fundraiser push",
       "mentions_person_refs": [
-        "N-898"
+        "N-897"
       ]
     },
     {
@@ -2855,8 +2855,8 @@
       "investigative_direction": "White House staff records. Scaramucci was White House Communications Director in 2017, not press secretary.",
       "transcript_snippet": "It's not It's not a requirement to be the press secretary. We had Anthony Scaramucci as the as the press secretary.",
       "mentions_person_refs": [
-        "N-969",
-        "N-962"
+        "N-967",
+        "N-960"
       ]
     },
     {
@@ -2876,7 +2876,7 @@
       "investigative_direction": "Zacharia's statements to Fox News, CBS News and Jack Posobiec in October 2026.",
       "transcript_snippet": "But Karine Jean-Pierre, she's now come clean. She has come clean. She says it was a mix-up.",
       "mentions_person_refs": [
-        "N-962"
+        "N-960"
       ]
     },
     {
@@ -2896,7 +2896,7 @@
       "investigative_direction": "The Wall Street Journal report, and California State Bar records.",
       "transcript_snippet": "Wall Street Journal broke the news that she did not pass the bar exam.",
       "mentions_person_refs": [
-        "N-962"
+        "N-960"
       ]
     },
     {
@@ -2917,7 +2917,7 @@
       "investigative_direction": "Pepperdine University comment, and Zacharia's full statement.",
       "transcript_snippet": "she had consulted with Pepperdine's president as to how to identify herself. And she was told that as long as she didn't use the words attorney or esquire, she was okay to say that she was a lawyer.",
       "mentions_person_refs": [
-        "N-962"
+        "N-960"
       ]
     },
     {
@@ -2937,7 +2937,7 @@
       "investigative_direction": "Archived captures of Zacharia's LinkedIn profile.",
       "transcript_snippet": "on her LinkedIn, she has herself listed as a general counsel.",
       "mentions_person_refs": [
-        "N-962"
+        "N-960"
       ]
     },
     {
@@ -2959,7 +2959,7 @@
       "investigative_direction": "The source broadcasts of each supercut clip.",
       "transcript_snippet": "especially as a as a lawyer and a former corporate lawyer in China for 3 years.",
       "mentions_person_refs": [
-        "N-962"
+        "N-960"
       ]
     },
     {
@@ -2981,7 +2981,7 @@
       "investigative_direction": "The source broadcasts of the supercut clips.",
       "transcript_snippet": "And and I mean, I am a lawyer and I'm a rigorous researcher, and I spent the better part of 2020 and 2021 researching this",
       "mentions_person_refs": [
-        "N-962"
+        "N-960"
       ]
     },
     {
@@ -3004,7 +3004,7 @@
       "investigative_direction": "Pepperdine Law faculty records.",
       "transcript_snippet": "His dad was an adjunct professor at Pepperdine Law, and he \"Do you want to meet my son?\"",
       "mentions_person_refs": [
-        "N-962",
+        "N-960",
         "N-95"
       ]
     },
@@ -3027,7 +3027,7 @@
       "investigative_direction": "California State Bar exam records for 2011.",
       "transcript_snippet": "I had already pre-registered to take the bar, and I didn't want to withdraw from that, and we knew we would be moving out to China.",
       "mentions_person_refs": [
-        "N-962"
+        "N-960"
       ]
     },
     {
@@ -3049,7 +3049,7 @@
       "investigative_direction": "Her bar exam result record.",
       "transcript_snippet": "The results are somewhat inconsequential because I knew I wouldn't need the bar in China",
       "mentions_person_refs": [
-        "N-962"
+        "N-960"
       ]
     },
     {
@@ -3072,7 +3072,7 @@
       "investigative_direction": "JunHe Law Offices employment confirmation.",
       "transcript_snippet": "I was offered a job at a in an international practice division of a of a Chinese law firm called Jun He Law Firm.",
       "mentions_person_refs": [
-        "N-962"
+        "N-960"
       ]
     },
     {
@@ -3095,7 +3095,7 @@
       "investigative_direction": "PRC rules on foreign lawyers in Chinese firms.",
       "transcript_snippet": "There's no Chinese bar. I had the enough credentials, which was my law degree, to be able to do this practice",
       "mentions_person_refs": [
-        "N-962"
+        "N-960"
       ]
     },
     {
@@ -3117,7 +3117,7 @@
       "investigative_direction": "The timeline of Zacharia's return from China.",
       "transcript_snippet": "Well, when we moved back, Jack, we got a surprise baby. Our our first baby is he's this is birthday today, and he is 12 years old.",
       "mentions_person_refs": [
-        "N-962",
+        "N-960",
         "N-95"
       ]
     },
@@ -3138,7 +3138,7 @@
       "investigative_direction": "State Bar of California exam schedule and retake rules.",
       "transcript_snippet": "The bar is administered twice a year, according to just a little bit of research I did today.",
       "mentions_person_refs": [
-        "N-962"
+        "N-960"
       ]
     },
     {
@@ -3158,7 +3158,7 @@
       "investigative_direction": "State bar eligibility and accommodation rules.",
       "transcript_snippet": "even if you have a baby, you can take you can take the bar exam. I checked. There doesn't seem to be any preclusions.",
       "mentions_person_refs": [
-        "N-962"
+        "N-960"
       ]
     },
     {
@@ -3178,8 +3178,8 @@
       "investigative_direction": "Hegseth's statement and Department of War / Army releases on the Hasan execution.",
       "transcript_snippet": "one of his recent tough guy things was, we are going to be executing the Fort Hood shooter and we're going to live stream it.",
       "mentions_person_refs": [
-        "N-592",
-        "N-970"
+        "N-591",
+        "N-968"
       ]
     },
     {
@@ -3243,7 +3243,7 @@
       "transcript_snippet": "Trump did issue a Truth Social post where he established that Nidal Malik Hasan, who was the former US Army major turned traitor, um would not be executed. It would not be live-streamed.",
       "mentions_person_refs": [
         "N-5",
-        "N-970"
+        "N-968"
       ]
     },
     {
@@ -3266,7 +3266,7 @@
       "transcript_snippet": "He said he was scum, uh but there are well-meaning people who would rather not watch him die. Also, he's paraplegic.",
       "mentions_person_refs": [
         "N-5",
-        "N-970",
+        "N-968",
         "N-18"
       ]
     },
@@ -3290,7 +3290,7 @@
       "transcript_snippet": "Donald Trump said that the execution can be viewed by people in the immediate families of the victims if they so choose",
       "mentions_person_refs": [
         "N-5",
-        "N-970"
+        "N-968"
       ]
     },
     {
@@ -3399,7 +3399,7 @@
       "transcript_snippet": "No, that's Brian Harpole's bag. It's totally different and again, this the Tyler Clancy story is that the officer did throw out the bag and it matches Frank Turek's.",
       "mentions_person_refs": [
         "N-266",
-        "N-959",
+        "N-957",
         "N-7"
       ]
     },
@@ -3422,7 +3422,7 @@
       "investigative_direction": "Clancy's response to the host's request for comment.",
       "transcript_snippet": "So, if you know if you have any information pertaining to Tyler Clancy, uh we would like to hear it.",
       "mentions_person_refs": [
-        "N-959"
+        "N-957"
       ]
     },
     {

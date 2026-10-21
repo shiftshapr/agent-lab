@@ -12,7 +12,7 @@
 e8c1a85c85a914d7ab71315326ce9f09344096413e804ca240db71899ffb485
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (ep11-restore-2026-10-20): N-973, N-11448
+  - Tip-minted Nodes (ep11-restore-2026-10-20): N-971, N-11448
   - Hole-minted Nodes (reintro-ep011): N-272, N-10146, N-10147, N-10319, N-10566, N-10633, N-10634, N-10713, N-10768
   - Tip-minted Nodes (reintro-ep011): N-10987, N-11009, N-11012, N-11053, N-11139, N-11217, N-11274
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
@@ -422,7 +422,7 @@ Video Timestamp: 00:39:37
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-1037, C-1039, C-1040, C-1042, C-1043, C-1044, C-1048, C-1049, C-1050, C-1051, N-126, N-61, N-11, N-41, N-973*
+*Related: C-1037, C-1039, C-1040, C-1042, C-1043, C-1044, C-1048, C-1049, C-1050, C-1051, N-126, N-61, N-11, N-41, N-971*
 
 ---
 
@@ -951,7 +951,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-973** Taylor Hansen
+**N-971** Taylor Hansen
 
 First named at 00:45:30 in episode 11, in the host's relay of Nick's account that Phil Lyman said he had already given his photos to Taylor Hansen. Identity not established from the transcript.
 
@@ -2732,7 +2732,7 @@ Claim: The host relays Nick's account that the day before the episode Lyman call
 Transcript Snippet: he tells me that yesterday Phil Lyman just calls him and he shouts at him like who the f do you think you are
 
 Anchored Artifacts: A-3422.1
-Mentions: N-61, N-126, N-973
+Mentions: N-61, N-126, N-971
 Related Nodes: N-10144
 Tags: relevance:core
 Investigative Direction: Identify Taylor Hansen and whether he or she holds Lyman's September 10 photos; Nick's call log.

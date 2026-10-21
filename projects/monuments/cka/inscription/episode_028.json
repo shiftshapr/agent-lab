@@ -637,8 +637,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-711",
-      "ref": "N-711",
+      "@id": "N-710",
+      "ref": "N-710",
       "name": "Ron Paul",
       "type": "person",
       "description": "Libertarian former congressman; named in C-2492 (Shapiro imagery).",
@@ -885,8 +885,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-660",
-      "ref": "N-660",
+      "@id": "N-659",
+      "ref": "N-659",
       "name": "Ivanka Trump",
       "type": "person",
       "description": "Named in the host's remarks on Kushner's deals.",
@@ -1149,8 +1149,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-848",
-      "ref": "N-848",
+      "@id": "N-847",
+      "ref": "N-847",
       "name": "Lauren Chen",
       "type": "person",
       "description": "First named by the host at 00:12:33 in episode 28. Host of the X Space where Boring spoke with Fuentes.",
@@ -1307,7 +1307,7 @@
       "mentions_person_refs": [
         "N-201",
         "N-366",
-        "N-848"
+        "N-847"
       ]
     },
     {
@@ -1475,7 +1475,7 @@
       "claim_timestamp": "00:02:12",
       "investigative_direction": "Locate the original tweets via web archives to verify wording, date, and any subsequent deletion or apology.",
       "mentions_person_refs": [
-        "N-711",
+        "N-710",
         "N-97"
       ]
     },
@@ -1800,7 +1800,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-366",
-        "N-848"
+        "N-847"
       ]
     },
     {
@@ -2523,7 +2523,7 @@
       "transcript_snippet": "they know about Jared uh and his deals with Ivanka and the Middle East and how much money they're set to make and you know Gaza being destroyed is actually beneficial uh to their bank accounts.",
       "mentions_person_refs": [
         "N-178",
-        "N-660"
+        "N-659"
       ]
     },
     {

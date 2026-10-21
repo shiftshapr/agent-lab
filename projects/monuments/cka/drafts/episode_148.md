@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: a2dc76d34975c9abe510df358ab1de54f418f9e78f0eceb43fa1e5c1aa410541
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-790
+  - Tip-minted Nodes (supplement_2026-10b): N-789
   - Claim Range: C-12735–C-12830
   - (see registers)
 
@@ -48,7 +48,7 @@ Confidence: high
 
 - Artifact Families Introduced: A-2341, A-2342, A-2343, A-2344, A-2345, A-2346, A-2347, A-2348, A-2349, A-2350
   - New Nodes Introduced: none
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-7, N-14, N-27, N-159, N-329, N-10000, N-359, N-36, N-55, N-97, N-164, N-211, N-237, N-243, N-367, N-430, N-486, N-708, N-10011, N-10012, N-10024, N-10058, N-10061, N-10062, N-10169, N-10201, N-10342, N-10657, N-10662, N-10715, N-10805, N-10888, N-10900, N-10905, N-10914, N-10968, N-11061
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-7, N-14, N-27, N-159, N-329, N-10000, N-359, N-36, N-55, N-97, N-164, N-211, N-237, N-243, N-367, N-430, N-486, N-707, N-10011, N-10012, N-10024, N-10058, N-10061, N-10062, N-10169, N-10201, N-10342, N-10657, N-10662, N-10715, N-10805, N-10888, N-10900, N-10905, N-10914, N-10968, N-11061
   - Hole-minted Nodes (wave1): N-350
 - Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erika Kirk, N-3 Candace Owens, N-159 Blake Neff, N-27 Kanye West (Ye), N-10000 Turning Point USA (TPUSA), N-7 Frank Turek, N-14 Andrew Kolvet (aired as Andrew Kolvet), N-329 Tulsi Gabbard, N-4 JD Vance. Wave 1: the draft first used local placeholder ids here; Kim Kardashian, New York Times, Deseret News, Andrew Cooper, Salem Media, Brad Parscale, Ebro Darden and Danny Philip have no cited CKA person node in this episode.
 
@@ -706,7 +706,7 @@ Taylor Swift; the host compares Ye's tour to her Eras Tour.
 
 ---
 
-**N-708** John F. Kennedy
+**N-707** John F. Kennedy
 
 John F. Kennedy; named in the host's Operation Mockingbird aside.
 
@@ -874,7 +874,7 @@ Existing topic reused for the Restaurantology attendance claim.
 
 ---
 
-**N-790** Ebro Darden
+**N-789** Ebro Darden
 
 First named by the host (as Ebro) at 00:28:04 in episode 148. Radio host named in Ye's TMZ clip, who Ye says declined to have the host on his show. Aliases: Ebro.
 
@@ -1496,7 +1496,7 @@ Claim: In the TMZ clip played by the host, Ye says he FaceTimed Ebro with Candac
 Transcript Snippet: I said, "Yo, you going to have Candace on your show?" He's like, "Nah, I'm not. She's mean."
 
 Anchored Artifacts: A-2344.1
-Mentions: N-27, N-3, N-790
+Mentions: N-27, N-3, N-789
 Related Nodes: N-10011
 Tags: relevance:tangential
 Investigative Direction: Identify the date of the TMZ interview and Ebro Darden's account, if any, of the exchange.
@@ -1991,7 +1991,7 @@ Claim: The host says that the New York Times was involved in Operation Mockingbi
 Transcript Snippet: Operation Mockingbird. The New York Times was involved in that. After they committed another a different state assassination. Assassination of JFK.
 
 Anchored Artifacts: 
-Mentions: N-708
+Mentions: N-707
 Related Nodes: N-10061, N-10968
 Tags: relevance:tangential
 Investigative Direction: Cite the Church Committee findings on press relationships; the host gives no source on air.

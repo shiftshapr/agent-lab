@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: fe75ca00c3ec2d7898bbeee433de0d6e98b126fb899e15735450cf108ba10f1b
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-707, N-11006, N-11007
+  - Tip-minted Nodes (supplement_2026-10): N-706, N-11006, N-11007
   - Hole-minted Nodes (reintro-ep034): N-266, N-267, N-271, N-10267, N-10427, N-10496, N-10645, N-10762
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-2981–C-3049
   - New Nodes Introduced: N-10259, N-10260, N-10261, N-10262, N-10263
-  - Reused Nodes Appearing: N-2, N-36, N-46, N-61, N-69, N-188, N-209, N-224, N-757, N-10000, N-10011, N-10012, N-10014, N-10025, N-10043, N-10047, N-10052, N-10121, N-10129, N-10146, N-10165, N-10198, N-10204, N-10207, N-10208, N-10226, N-10246, N-10248, N-10253, N-10254, N-10256, N-329, N-10264, N-10662, N-708, N-10338, N-10355, N-10482, N-10549, N-10646, N-10343, N-10769, N-10635
+  - Reused Nodes Appearing: N-2, N-36, N-46, N-61, N-69, N-188, N-209, N-224, N-756, N-10000, N-10011, N-10012, N-10014, N-10025, N-10043, N-10047, N-10052, N-10121, N-10129, N-10146, N-10165, N-10198, N-10204, N-10207, N-10208, N-10226, N-10246, N-10248, N-10253, N-10254, N-10256, N-329, N-10264, N-10662, N-707, N-10338, N-10355, N-10482, N-10549, N-10646, N-10343, N-10769, N-10635
   - (see registers)
 
 # Episode Analysis: Monument Episode 34
@@ -788,7 +788,7 @@ Benjamin Netanyahu; the host says he is involved in Calvary Chapel churches.
 
 ---
 
-**N-757** Bob Coy
+**N-756** Bob Coy
 
 Bob Coy; Fort Lauderdale pastor the host says was in a sexual abuse scandal.
 
@@ -828,7 +828,7 @@ Megyn Kelly; the host says she holds clear mic'd footage of Charlie and Tucker.
 
 ---
 
-**N-707** Joyce Churnick
+**N-706** Joyce Churnick
 
 First named by the host at 00:45:45 in episode 34 (spelled Churnick in the transcript). Donor the host says yelled and took away a million dollars after Tucker Carlson's speech.
 
@@ -853,7 +853,7 @@ Egyptian Planes Investigation; existing topic reused for new claims in this epis
 
 ---
 
-**N-708** John F. Kennedy
+**N-707** John F. Kennedy
 
 First named by the host at 00:49:25 in episode 34 (as JFK). Cited in the host's remark about the Israel exception to foreign-agent registration.
 
@@ -1687,7 +1687,7 @@ Claim: The host says Bob Coy, a pastor from Fort Lauderdale not to be confused w
 Transcript Snippet: Bob Coy, the one from Fort Lauderdale who got into a little bit of a scandal with sexual abuse.
 
 Anchored Artifacts: 
-Mentions: N-757, N-17, N-36
+Mentions: N-756, N-17, N-36
 Related Nodes: N-10246
 Investigative Direction: Review court records and contemporaneous news reports on Bob Coy's resignation and allegations.
 
@@ -1734,7 +1734,7 @@ Claim: The host says the woman who yelled and took away a million dollars becaus
 Transcript Snippet: I told you about a woman who yelled um and took away a million dollars because of the Tucker Carlson speech. That woman was Joyce Churnick.
 
 Anchored Artifacts: A-2721.1
-Mentions: N-707, N-22, N-1, N-3
+Mentions: N-706, N-22, N-1, N-3
 Related Nodes: N-10047, N-11006
 Investigative Direction: Confirm the donor's name spelling and the donation amount through TPUSA donor records and the audio the host says exists.
 
@@ -1765,7 +1765,7 @@ Claim: The host says that when JFK tried to end the Israel exception by making t
 Transcript Snippet: when JFK tried to put an end to that uh well I guess rather put an end to the Israel exception that we now have by making them sign up and acknowled uh they shot him.
 
 Anchored Artifacts: 
-Mentions: N-708, N-3
+Mentions: N-707, N-3
 Related Nodes: N-10025, N-10662
 Investigative Direction: Review historical records of the Kennedy administration's FARA actions against Israel-related organizations and their outcome.
 

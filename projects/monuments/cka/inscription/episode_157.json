@@ -409,7 +409,7 @@
           "related_nodes": [
             "N-8",
             "N-271",
-            "N-751"
+            "N-750"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -1697,8 +1697,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-666",
-      "ref": "N-666",
+      "@id": "N-665",
+      "ref": "N-665",
       "name": "James Kaddis",
       "type": "person",
       "description": "Named as the Calvary Chapel pastor hosting Erika's July 14 speech (transcript spelling James Kaddis).",
@@ -2317,8 +2317,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-751",
-      "ref": "N-751",
+      "@id": "N-750",
+      "ref": "N-750",
       "name": "Robin Ebmeyer",
       "type": "person",
       "description": "First named by the host at 00:36:24 in episode 157 as UVU's director of emergency management and safety who expressed reservations at the August 25 MEAC meeting.",
@@ -2334,8 +2334,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-752",
-      "ref": "N-752",
+      "@id": "N-751",
+      "ref": "N-751",
       "name": "Astrid Tuminez",
       "type": "person",
       "description": "First named by the host at 00:23:46 in episode 157 as UVU President, in the transcript spelling Tuminez.",
@@ -2351,8 +2351,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-753",
-      "ref": "N-753",
+      "@id": "N-752",
+      "ref": "N-752",
       "name": "Alana Minton",
       "type": "person",
       "description": "First named by the host at 01:11:03 in episode 157 as the Canyon County prosecuting attorney who told the judge the classroom door may have been locked.",
@@ -2368,8 +2368,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-754",
-      "ref": "N-754",
+      "@id": "N-753",
+      "ref": "N-753",
       "name": "Claire Guinan",
       "type": "person",
       "description": "First named by the host at 01:27:40 in episode 157 as the writer of a June 26 Jezebel article with no prior writing profile.",
@@ -3317,7 +3317,7 @@
       "investigative_direction": "Obtain the president's office request and the response it received.",
       "transcript_snippet": "UVU President Tuminez requested updates regarding event planning on the 31st.",
       "mentions_person_refs": [
-        "N-752"
+        "N-751"
       ]
     },
     {
@@ -3694,7 +3694,7 @@
       "transcript_snippet": "She said that she preferred that TPUSA manage online ticketing through its national office in Phoenix.",
       "mentions_person_refs": [
         "N-8",
-        "N-751"
+        "N-750"
       ]
     },
     {
@@ -4391,7 +4391,7 @@
       "transcript_snippet": "On the 14th, Erika travels aboard a private flight to Long Beach, California.",
       "mentions_person_refs": [
         "N-2",
-        "N-666"
+        "N-665"
       ]
     },
     {
@@ -4412,7 +4412,7 @@
       "transcript_snippet": "she gives a speech that's pro-Israel about a call to arms despite what Charlie's going through.",
       "mentions_person_refs": [
         "N-2",
-        "N-666",
+        "N-665",
         "N-1"
       ]
     },
@@ -4844,7 +4844,7 @@
       "investigative_direction": "Obtain the hearing transcript and dismissal order from the Canyon County court.",
       "transcript_snippet": "the Canyon County prosecuting attorney Alana Minton told the judge that a new piece of information came to light",
       "mentions_person_refs": [
-        "N-753",
+        "N-752",
         "N-12"
       ]
     },
@@ -5190,7 +5190,7 @@
       "investigative_direction": "Check Ginan's byline history and the publication date of the Jezebel article.",
       "transcript_snippet": "on June 26th is when suddenly Claire Guinan writes her first article for Jezebel.",
       "mentions_person_refs": [
-        "N-754"
+        "N-753"
       ]
     }
   ],

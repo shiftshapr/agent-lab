@@ -485,7 +485,7 @@
           ],
           "related_nodes": [
             "N-10772",
-            "N-749"
+            "N-748"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -512,7 +512,7 @@
           "related_nodes": [
             "N-10774",
             "N-3",
-            "N-749"
+            "N-748"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -784,8 +784,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-556",
-      "ref": "N-556",
+      "@id": "N-555",
+      "ref": "N-555",
       "name": "Christopher Hawk",
       "type": "person",
       "description": "First named by the host at 00:17:52 in episode 136.",
@@ -841,8 +841,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-749",
-      "ref": "N-749",
+      "@id": "N-748",
+      "ref": "N-748",
       "name": "Allan Robertson",
       "type": "person",
       "description": "Named by the host as the red-hat man on the Losee rooftop (C-11702).",
@@ -1579,7 +1579,7 @@
       "investigative_direction": "Authenticate the bystander clip's timestamp and original camera metadata, and run the red-hat figure against UVU/USU event credentialing records.",
       "mentions_person_refs": [
         "N-506",
-        "N-749"
+        "N-748"
       ]
     },
     {
@@ -1599,7 +1599,7 @@
       "claim_timestamp": "00:16:28",
       "investigative_direction": "Verify Robertson's identification through facial comparison, event credential records, and corroborating witness statements.",
       "mentions_person_refs": [
-        "N-749"
+        "N-748"
       ]
     },
     {
@@ -1619,7 +1619,7 @@
       "claim_timestamp": "00:18:30",
       "investigative_direction": "Verify Hawk's presence and role through credential records and follow-up witness interviews.",
       "mentions_person_refs": [
-        "N-556"
+        "N-555"
       ]
     },
     {
@@ -1636,7 +1636,7 @@
       "claim_timestamp": "00:16:47",
       "investigative_direction": "Obtain the original Facebook post metadata (date, author) and corroborate with USU PD hiring records.",
       "mentions_person_refs": [
-        "N-749"
+        "N-748"
       ]
     },
     {
@@ -1653,7 +1653,7 @@
       "claim_timestamp": "00:19:23",
       "investigative_direction": "Pull archived versions of the LinkedIn profile and cross-check against Marine Corps service records.",
       "mentions_person_refs": [
-        "N-749"
+        "N-748"
       ]
     },
     {
@@ -1672,7 +1672,7 @@
       "claim_timestamp": "00:22:55",
       "investigative_direction": "Obtain the underlying Brady disclosure record via CPRA / public records request to San Bernardino PD, or via prosecutorial discovery channels.",
       "mentions_person_refs": [
-        "N-749"
+        "N-748"
       ]
     },
     {
@@ -1691,7 +1691,7 @@
       "claim_timestamp": "00:22:10",
       "investigative_direction": "Verify the non-compliance notation through Brady List's own documentation and California's Commission on Peace Officer Standards and Training (POST) records.",
       "mentions_person_refs": [
-        "N-749"
+        "N-748"
       ]
     },
     {
@@ -1799,7 +1799,7 @@
       "investigative_direction": "Re-listen to Bagley's preliminary-hearing testimony in full and cross-check against UVU campus surveillance for any pre-rooftop interaction.",
       "mentions_person_refs": [
         "N-506",
-        "N-749"
+        "N-748"
       ]
     },
     {
@@ -2216,7 +2216,7 @@
       "investigative_direction": "Review the early scene footage for Robertson giving directions and compare to the incident command roster.",
       "transcript_snippet": "Allan Robertson, as we're going through all that early footage, he actually seems like he's the person that's immediately in charge.",
       "mentions_person_refs": [
-        "N-749",
+        "N-748",
         "N-3"
       ]
     },
@@ -2240,7 +2240,7 @@
       "investigative_direction": "Obtain the livestream source and review it for the red-hat man's phone use and any other officers' behavior.",
       "transcript_snippet": "You see him walking around and texting and making calls.",
       "mentions_person_refs": [
-        "N-749"
+        "N-748"
       ]
     },
     {
@@ -2285,7 +2285,7 @@
       "investigative_direction": "Interview officers at the scene about who directed the rooftop response and obtain the command roster.",
       "transcript_snippet": "there seems to be an immediate understanding that this Allan Robertson character who shall not be named is calling the shots.",
       "mentions_person_refs": [
-        "N-749",
+        "N-748",
         "N-261",
         "N-506"
       ]
@@ -2309,7 +2309,7 @@
       "investigative_direction": "Obtain Robertson's San Bernardino PD employment dates through a California public records request.",
       "transcript_snippet": "But he was also a police officer just before going to Utah in San Bernardino, California.",
       "mentions_person_refs": [
-        "N-749"
+        "N-748"
       ]
     },
     {
@@ -2374,7 +2374,7 @@
       "investigative_direction": "Review public reporting, DOJ findings and court records about San Bernardino PD misconduct.",
       "transcript_snippet": "Obviously, you guys also know there's a lot of corruption in the San Bernardino, California Police Department.",
       "mentions_person_refs": [
-        "N-749",
+        "N-748",
         "N-3"
       ]
     },
@@ -2397,7 +2397,7 @@
       "investigative_direction": "Obtain USU hiring and lateral-transfer paperwork showing Robertson's start date and prior employer.",
       "transcript_snippet": "he decided to go in August 2024 despite the fact that his entire life has been in California.",
       "mentions_person_refs": [
-        "N-749",
+        "N-748",
         "N-3"
       ]
     },
@@ -2420,7 +2420,7 @@
       "investigative_direction": "Seek the underlying Brady disclosure or personnel records for Robertson via public-records requests and defense-bar contacts.",
       "transcript_snippet": "it is definitely what I would assert is a plausibility uh that Alan E. Robertson was involved in something in San Bernardino.",
       "mentions_person_refs": [
-        "N-749",
+        "N-748",
         "N-3"
       ]
     },
@@ -2445,7 +2445,7 @@
       "transcript_snippet": "please send us tips to more tips at candacewowens. com",
       "mentions_person_refs": [
         "N-3",
-        "N-749"
+        "N-748"
       ]
     },
     {
@@ -2489,7 +2489,7 @@
       "investigative_direction": "Ask prosecutors whether Robertson is on any witness list and obtain the chain of custody for who recovered the screwdriver.",
       "transcript_snippet": "I think it's plausible that the person who actually found the screwdriver was Allan Robertson.",
       "mentions_person_refs": [
-        "N-749",
+        "N-748",
         "N-3"
       ]
     },

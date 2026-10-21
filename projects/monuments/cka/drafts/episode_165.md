@@ -12,8 +12,8 @@
 - **Model Version**: claude-manual-extract-seq165
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (catchup-2026-10-19): N-963, N-964, N-965, N-966, N-11426, N-11427, N-11428, N-11429, N-11430, N-11431, N-11432, N-11433
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-7, N-8, N-9, N-12, N-14, N-41, N-47, N-82, N-85, N-97, N-146, N-159, N-266, N-277, N-520, N-529, N-957, N-959, N-962, N-10000, N-10012, N-10026, N-10048, N-10075, N-10148, N-10290, N-10324, N-10415, N-10456, N-10532, N-10533, N-10832, N-10839, N-10969, N-11026
+  - Tip-minted Nodes (catchup-2026-10-19): N-961, N-962, N-963, N-964, N-11426, N-11427, N-11428, N-11429, N-11430, N-11431, N-11432, N-11433
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-7, N-8, N-9, N-12, N-14, N-41, N-47, N-82, N-85, N-97, N-146, N-159, N-266, N-277, N-520, N-529, N-955, N-957, N-960, N-10000, N-10012, N-10026, N-10048, N-10075, N-10148, N-10290, N-10324, N-10415, N-10456, N-10532, N-10533, N-10832, N-10839, N-10969, N-11026
   - Claim Range: C-14229–C-14305
   - (see registers)
 
@@ -84,7 +84,7 @@ Video Timestamp: 00:06:57
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14244, C-14245, N-41, N-959, N-11428*
+*Related: C-14244, C-14245, N-41, N-957, N-11428*
 
 ---
 
@@ -99,7 +99,7 @@ Video Timestamp: 00:10:00
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14249, C-14250, C-14251, N-963, N-11429*
+*Related: C-14249, C-14250, C-14251, N-961, N-11429*
 
 ---
 
@@ -112,7 +112,7 @@ Video Timestamp: 00:13:50
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14257, C-14258, C-14259, C-14260, N-963, N-964, N-11429, N-11430*
+*Related: C-14257, C-14258, C-14259, C-14260, N-961, N-962, N-11429, N-11430*
 
 ---
 
@@ -127,7 +127,7 @@ Video Timestamp: 00:28:38
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14284, C-14285, N-962, N-5, N-11431*
+*Related: C-14284, C-14285, N-960, N-5, N-11431*
 
 ---
 
@@ -142,7 +142,7 @@ Video Timestamp: 00:33:05
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14288, N-965, N-11432*
+*Related: C-14288, N-963, N-11432*
 
 ---
 
@@ -155,7 +155,7 @@ Video Timestamp: 00:35:00
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14290, C-14291, N-965, N-11432*
+*Related: C-14290, C-14291, N-963, N-11432*
 
 ---
 
@@ -170,7 +170,7 @@ Video Timestamp: 00:40:26
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14296, C-14297, N-966, N-97, N-11433*
+*Related: C-14296, C-14297, N-964, N-97, N-11433*
 
 ---
 
@@ -183,7 +183,7 @@ Video Timestamp: 00:04:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14236, C-14237, N-957, N-10012*
+*Related: C-14236, C-14237, N-955, N-10012*
 
 ---
 
@@ -360,7 +360,7 @@ Host says he founded the modeling agency tied to Erika and was Epstein's partner
 
 ---
 
-**N-957** Val Peterson
+**N-955** Val Peterson
 
 First named by the host at 00:03:11 in episode 165 (introduced on the show the previous day). Vice president of Utah Valley University; host says many call him the most powerful man in Utah.
 
@@ -368,7 +368,7 @@ First named by the host at 00:03:11 in episode 165 (introduced on the show the p
 
 ---
 
-**N-959** Tyler Clancy
+**N-957** Tyler Clancy
 
 First named by the host at 00:06:40 in episode 165. Provo police officer and Utah state representative.
 
@@ -376,7 +376,7 @@ First named by the host at 00:06:40 in episode 165. Provo police officer and Uta
 
 ---
 
-**N-963** Charles Peterson
+**N-961** Charles Peterson
 
 First named by the host at 00:08:25 in episode 165. Host says he is Val Peterson's brother; the Idaho Attorney General's release names him as Charles Peterson, 52.
 
@@ -386,7 +386,7 @@ Aliases: Charles Peterson
 
 ---
 
-**N-964** Raul Labrador
+**N-962** Raul Labrador
 
 First named by the host at 00:13:50 in episode 165. Idaho Attorney General, per the article the host shows.
 
@@ -394,7 +394,7 @@ First named by the host at 00:13:50 in episode 165. Idaho Attorney General, per 
 
 ---
 
-**N-962** Katie Zacharia
+**N-960** Katie Zacharia
 
 First named by the host at 00:27:04 in episode 165 (transcribed "Katie Zacharia"). New White House press secretary.
 
@@ -402,7 +402,7 @@ First named by the host at 00:27:04 in episode 165 (transcribed "Katie Zacharia"
 
 ---
 
-**N-965** Kelly Clarkson
+**N-963** Kelly Clarkson
 
 First named by the host at 00:01:06 in episode 165. Singer and first American Idol winner.
 
@@ -410,7 +410,7 @@ First named by the host at 00:01:06 in episode 165. Singer and first American Id
 
 ---
 
-**N-966** Danny Trejo
+**N-964** Danny Trejo
 
 First named by the host at 00:39:51 in episode 165. Actor cast in the film Pawn Shop.
 
@@ -551,7 +551,7 @@ Host's claimed personal experience behind her remarks on Shapiro and contracts.
 Node Type: Topic
 Where UVU vice president Val Peterson was on September 10, 2025. The UVU independent review places him 45 minutes away; the host's sources say he was allegedly golfing in Heber, Utah, possibly in a tournament, and allegedly with Governor Cox (unverified by the host).
 
-*Related: C-14235, C-14237, C-14238, C-14239, N-957, N-41*
+*Related: C-14235, C-14237, C-14238, C-14239, N-955, N-41*
 
 ---
 
@@ -569,7 +569,7 @@ The governor's public schedule for the week of September 8, 2025 lists no commit
 Node Type: Topic
 A September 2, 2025, 5:00 p.m. meeting between Governor Cox and Representative Tyler Clancy at the governor's mansion, per the governor's published schedule.
 
-*Related: C-14244, C-14245, A-3392.2, N-41, N-959*
+*Related: C-14244, C-14245, A-3392.2, N-41, N-957*
 
 ---
 
@@ -578,7 +578,7 @@ A September 2, 2025, 5:00 p.m. meeting between Governor Cox and Representative T
 Node Type: Topic
 2026 arrest and charges in Utah (enticing a minor, aggravated sexual exploitation, distributing harmful material) and Meridian, Idaho (four counts of enticing a child) against a man the host identifies as Val Peterson's brother.
 
-*Related: C-14247, C-14248, C-14249, C-14250, C-14251, C-14253, C-14257, C-14258, C-14259, C-14260, A-3393.1, A-3393.2, N-963*
+*Related: C-14247, C-14248, C-14249, C-14250, C-14251, C-14253, C-14257, C-14258, C-14259, C-14260, A-3393.1, A-3393.2, N-961*
 
 ---
 
@@ -587,7 +587,7 @@ Node Type: Topic
 Node Type: Organization
 Unit of the Idaho Attorney General's office that, per the article the host shows, arrested Charles Peterson after a request from the Lehi Police Department.
 
-*Related: C-14259, A-3393.2, N-964*
+*Related: C-14259, A-3393.2, N-962*
 
 ---
 
@@ -596,7 +596,7 @@ Unit of the Idaho Attorney General's office that, per the article the host shows
 Node Type: Topic
 Whether and where the new White House press secretary passed a bar exam; the host alleges she did not.
 
-*Related: C-14282, C-14283, C-14284, C-14285, A-3394.1, N-962*
+*Related: C-14282, C-14283, C-14284, C-14285, A-3394.1, N-960*
 
 ---
 
@@ -605,7 +605,7 @@ Whether and where the new White House press secretary passed a bar exam; the hos
 Node Type: Topic
 Kelly Clarkson's visit to the Brooklyn store Art of Play, where she was told the automated bird "Molly" was not for sale, and her subsequent post alleging she was judged.
 
-*Related: C-14287, C-14288, C-14289, C-14290, C-14291, C-14292, C-14293, C-14303, A-3395.1, A-3395.2, N-965*
+*Related: C-14287, C-14288, C-14289, C-14290, C-14291, C-14292, C-14293, C-14303, A-3395.1, A-3395.2, N-963*
 
 ---
 
@@ -614,7 +614,7 @@ Kelly Clarkson's visit to the Brooklyn store Art of Play, where she was told the
 Node Type: Topic
 Reports that Danny Trejo was cast in the film Pawn Shop without knowing of Ben Shapiro's involvement and is contractually bound to it.
 
-*Related: C-14294, C-14295, C-14296, C-14297, A-3396.1, N-966, N-97*
+*Related: C-14294, C-14295, C-14296, C-14297, A-3396.1, N-964, N-97*
 
 ---
 
@@ -689,7 +689,7 @@ Claim: The host says Val Peterson, vice president of UVU, is allegedly feared by
 Transcript Snippet: Val Peterson, the vice president of UVU and apparently the guy, the man, allegedly feared by faculty and allegedly very pro Erika and Turning Point USA.
 
 Anchored Artifacts:
-Mentions: N-957, N-2
+Mentions: N-955, N-2
 Related Nodes: N-10012, N-10000
 Tags: relevance:core
 Investigative Direction: UVU faculty accounts; Peterson's public statements on the TPUSA event and its aftermath.
@@ -705,7 +705,7 @@ Claim: The host says, citing what she learned from UVU's outsourced independent 
 Transcript Snippet: He had a lot of duties. He oversaw uh, EMS services at the UVU.
 
 Anchored Artifacts:
-Mentions: N-957
+Mentions: N-955
 Related Nodes: N-10012, N-10839
 Tags: relevance:core
 Investigative Direction: UVU organizational chart and the independent review's description of Peterson's portfolio.
@@ -721,7 +721,7 @@ Claim: The host says the independent review report states Val Peterson was 45 mi
 Transcript Snippet: And the report tells us that no, actually he was 45 minutes away.
 
 Anchored Artifacts:
-Mentions: N-957
+Mentions: N-955
 Related Nodes: N-10839, N-11426
 Tags: relevance:core
 Investigative Direction: The UVU independent review text on Peterson's location.
@@ -737,7 +737,7 @@ Claim: The host says viewers and "brave, yet clearly terrified" UVU faculty memb
 Transcript Snippet: Well, thanks to you sleuths back at home and some brave, yet clearly terrified faculty members at UVU, we were able to put some more pieces together.
 
 Anchored Artifacts: A-3397.1
-Mentions: N-957, N-3
+Mentions: N-955, N-3
 Related Nodes: N-10012
 Tags: relevance:core
 Investigative Direction: The tips received by the host's team; UVU faculty who can confirm the account.
@@ -753,7 +753,7 @@ Claim: The host says multiple sources with direct knowledge confirmed that Val P
 Transcript Snippet: We confirmed from multiple sources with direct knowledge that he was golfing, actually, allegedly, out in Heber, Utah.
 
 Anchored Artifacts: A-3397.1
-Mentions: N-957
+Mentions: N-955
 Related Nodes: N-11426
 Tags: relevance:core
 Investigative Direction: Tee-time and tournament records at Heber-area golf clubs for September 10, 2025.
@@ -769,7 +769,7 @@ Claim: The host says one person claimed Peterson was taking part in a tournament
 Transcript Snippet: And one person claimed that he was actually taking part in a tournament. We found a few clubs and tournaments that could potentially match match that description
 
 Anchored Artifacts:
-Mentions: N-957
+Mentions: N-955
 Related Nodes: N-11426
 Tags: relevance:core
 Investigative Direction: Heber-area golf tournament entry lists for September 10, 2025.
@@ -785,7 +785,7 @@ Claim: The host says she was also told Peterson was with Governor Cox, stressing
 Transcript Snippet: we have not yet been able to independently verify, but we are working on it. We were also told that he was with Governor Cox.
 
 Anchored Artifacts:
-Mentions: N-957, N-41
+Mentions: N-955, N-41
 Related Nodes: N-11426
 Tags: relevance:core
 Investigative Direction: Governor's security detail logs and golf club records for September 10, 2025.
@@ -865,7 +865,7 @@ Claim: The host says the governor's published schedule shows a September 2 meeti
 Transcript Snippet: we did discover that Governor Cox had a meeting on September 2nd with none other than Provo police officer Tyler Clancy.
 
 Anchored Artifacts: A-3392.2
-Mentions: N-41, N-959
+Mentions: N-41, N-957
 Related Nodes: N-11428
 Tags: relevance:context
 Investigative Direction: The governor's published schedule for September 2, 2025.
@@ -881,7 +881,7 @@ Claim: Per the published schedule the host shows, Cox met Representative Tyler C
 Transcript Snippet: Um you can see that at 5:00 p.m. he had a meeting with Representative Tyler Clancy at his mansion. Not Tyler's mansion, at the governor's mansion.
 
 Anchored Artifacts: A-3392.2
-Mentions: N-41, N-959
+Mentions: N-41, N-957
 Related Nodes: N-11428
 Tags: relevance:context
 Investigative Direction: Governor's mansion visitor log for September 2, 2025.
@@ -897,7 +897,7 @@ Claim: The host says Utah House representatives work 45 days a year and Clancy s
 Transcript Snippet: the Utah House of Reps, they're they work 45 days a year and he started in 2023.
 
 Anchored Artifacts:
-Mentions: N-959
+Mentions: N-957
 Tags: relevance:context
 Investigative Direction: Utah Legislature session calendar and Clancy's official biography.
 
@@ -912,7 +912,7 @@ Claim: The host says Val Peterson, whom many call the most powerful man in Utah,
 Transcript Snippet: We learned uh that he has a brother named Charles Peterson. And this brother Charles was arrested this year. Twice actually in two different states.
 
 Anchored Artifacts:
-Mentions: N-957, N-963
+Mentions: N-955, N-961
 Related Nodes: N-11429, N-10832
 Tags: relevance:context
 Investigative Direction: Utah and Idaho court dockets; records establishing the family relationship.
@@ -928,7 +928,7 @@ Claim: The host says Charles Peterson's first arrest was on February 3, 2026 in 
 Transcript Snippet: Twice actually in two different states. First on February 3rd, 2026 in Layton, Utah. Okay?
 
 Anchored Artifacts:
-Mentions: N-963
+Mentions: N-961
 Related Nodes: N-11429
 Tags: relevance:context
 Investigative Direction: Arrest and booking records for February 3, 2026.
@@ -944,7 +944,7 @@ Claim: The host says the charges included a first-degree charge for enticing a m
 Transcript Snippet: Charges were as follows. First-degree charge for enticing a minor into sexual activity.
 
 Anchored Artifacts: A-3393.1
-Mentions: N-963
+Mentions: N-961
 Related Nodes: N-11429
 Tags: relevance:context
 Investigative Direction: Utah charging documents (Utah Code 76-4-401).
@@ -960,7 +960,7 @@ Claim: The host says he was also charged with aggravated sexual exploitation of 
 Transcript Snippet: He uh also uh the charge that he was charged with aggravated sexual exploitation.
 
 Anchored Artifacts: A-3393.1
-Mentions: N-963
+Mentions: N-961
 Related Nodes: N-11429
 Tags: relevance:context
 Investigative Direction: Utah charging documents.
@@ -976,7 +976,7 @@ Claim: The host says the charges also include distributing material harmful to a
 Transcript Snippet: Um it also includes distributing material harmful to a minor.
 
 Anchored Artifacts: A-3393.1
-Mentions: N-963
+Mentions: N-961
 Related Nodes: N-11429
 Tags: relevance:context
 Investigative Direction: Utah charging documents.
@@ -992,7 +992,7 @@ Claim: The host says Val Peterson is from Moscow, Idaho, where his father was a 
 Transcript Snippet: He's from Moscow, Idaho, where his father was a professor um at the University of Idaho.
 
 Anchored Artifacts:
-Mentions: N-957
+Mentions: N-955
 Tags: relevance:tangential
 Investigative Direction: University of Idaho faculty records; Peterson family obituaries.
 
@@ -1007,7 +1007,7 @@ Claim: The host says Utah collaborated with Idaho and Charles Peterson was addit
 Transcript Snippet: Utah, back to the Petersons, collaborated with Idaho and he was additionally charged in Meridian, Idaho.
 
 Anchored Artifacts:
-Mentions: N-963
+Mentions: N-961
 Related Nodes: N-11429
 Tags: relevance:context
 Investigative Direction: Ada County, Idaho court records.
@@ -1056,7 +1056,7 @@ Claim: The host says Val Peterson's father is from, and was born in, Nampa, Idah
 Transcript Snippet: By the way, just Val Peterson's dad, that's where they're from, Nampa, Idaho. Like born in Nampa, Idaho.
 
 Anchored Artifacts:
-Mentions: N-957
+Mentions: N-955
 Tags: relevance:tangential
 Investigative Direction: Birth or obituary records for Val Peterson's father.
 
@@ -1071,7 +1071,7 @@ Claim: The host says Charles Peterson was additionally charged in Meridian with 
 Transcript Snippet: Val's brother Charles was additionally charged in Meridian with four counts of soliciting a child. Here is the article, which is available on the Idaho Attorney General's website.
 
 Anchored Artifacts: A-3393.2
-Mentions: N-963
+Mentions: N-961
 Related Nodes: N-11429
 Tags: relevance:context
 Investigative Direction: Idaho Attorney General press release archive.
@@ -1087,7 +1087,7 @@ Claim: Per the Idaho Attorney General article the host shows, Attorney General R
 Transcript Snippet: Attorney General Raul Labrador has announced that a Meridian man was charged in Idaho on March 5th, 2026 with four counts of enticing a child.
 
 Anchored Artifacts: A-3393.2
-Mentions: N-964, N-963
+Mentions: N-962, N-961
 Related Nodes: N-11429
 Tags: relevance:context
 Investigative Direction: The Idaho AG release and the Ada County charging document.
@@ -1103,7 +1103,7 @@ Claim: Per the article the host shows, Idaho AG ICAC investigators arrested Char
 Transcript Snippet: Investigators with the Attorney General's Internet Crimes Against Children, ICAC unit, arrested Charles Peterson, 52, on February 3rd, 2026, after receiving a request for assistance from the Lehi Police Department
 
 Anchored Artifacts: A-3393.2
-Mentions: N-963
+Mentions: N-961
 Related Nodes: N-11429, N-11430
 Tags: relevance:context
 Investigative Direction: Lehi Police Department case records and the Utah charging documents.
@@ -1119,7 +1119,7 @@ Claim: Per the article the host shows, the charges are merely accusations and th
 Transcript Snippet: The charges listed above are merely accusations, and the defendant is presumed innocent until and unless and unless proven guilty.
 
 Anchored Artifacts: A-3393.2
-Mentions: N-963
+Mentions: N-961
 Related Nodes: N-11429, N-10832
 Tags: relevance:context
 Investigative Direction: Case disposition records in Utah and Idaho.
@@ -1458,7 +1458,7 @@ Claim: The host says Katie Zacharia is the new White House press secretary and t
 Transcript Snippet: this this Katie Zacharia character, who is the new press secretary, I'm just watching people defend this
 
 Anchored Artifacts:
-Mentions: N-962
+Mentions: N-960
 Related Nodes: N-10075
 Tags: relevance:context
 Investigative Direction: White House announcement of the appointment.
@@ -1474,7 +1474,7 @@ Claim: The host alleges Zacharia pretended she passed the bar, says people canno
 Transcript Snippet: And it's a bit weird that you pretended that you passed the bar, I'll say allegedly, but people can't confirm it. And I want to be clear, the school she went to, Pepperdine, same school as Erika.
 
 Anchored Artifacts:
-Mentions: N-962, N-2
+Mentions: N-960, N-2
 Related Nodes: N-11431
 Tags: relevance:context
 Investigative Direction: State bar admission records; Pepperdine registrar.
@@ -1490,7 +1490,7 @@ Claim: The host says Pepperdine confirmed Zacharia attended and received a degre
 Transcript Snippet: But Pepperdine confirmed that she went to the school, that's not in question. They confirmed that she got a degree.
 
 Anchored Artifacts:
-Mentions: N-962
+Mentions: N-960
 Related Nodes: N-11431
 Tags: relevance:context
 Investigative Direction: Pepperdine's public confirmation.
@@ -1506,7 +1506,7 @@ Claim: In a clip the host plays, reporters ask where the press secretary passed 
 Transcript Snippet: >> did you pass the bar exam? >> When I moved to China. That's her answer.
 
 Anchored Artifacts: A-3394.1
-Mentions: N-962
+Mentions: N-960
 Related Nodes: N-11431
 Tags: relevance:context
 Investigative Direction: Full press-pool footage of the exchange.
@@ -1522,7 +1522,7 @@ Claim: The host alleges Zacharia did not pass the bar and that Trump was duped.
 Transcript Snippet: Obviously, she's not going to answer the question because she can't answer the question because she did not pass the bar.
 
 Anchored Artifacts: A-3394.1
-Mentions: N-962, N-5
+Mentions: N-960, N-5
 Related Nodes: N-11431
 Tags: relevance:context
 Investigative Direction: California and other state bar records.
@@ -1538,7 +1538,7 @@ Claim: The host says Kelly Clarkson was the first American Idol winner in 2002, 
 Transcript Snippet: Kelly Clarkson, who was the first American Idol winner back in 2002, 16 years old, who told she was a, you know, waitress, no connections
 
 Anchored Artifacts:
-Mentions: N-965
+Mentions: N-963
 Tags: relevance:tangential
 Investigative Direction: American Idol season 1 records and Clarkson's birth date.
 
@@ -1553,7 +1553,7 @@ Claim: The host says Kelly Clarkson went to a Brooklyn store called The Art of P
 Transcript Snippet: She's crashing out because she went to a store in Brooklyn called The Art of Play.
 
 Anchored Artifacts:
-Mentions: N-965
+Mentions: N-963
 Related Nodes: N-11432
 Tags: relevance:tangential
 Investigative Direction: Store statements and Clarkson's post.
@@ -1569,7 +1569,7 @@ Claim: The host says Clarkson wanted to buy an artist-made automated bird priced
 Transcript Snippet: Can we show this automated bird that she wanted to buy and she was in the store for 4 minutes?
 
 Anchored Artifacts: A-3395.1
-Mentions: N-965
+Mentions: N-963
 Related Nodes: N-11432
 Tags: relevance:tangential
 Investigative Direction: The store's released video.
@@ -1585,7 +1585,7 @@ Claim: The host says a staff member told Clarkson the bird was not for sale beca
 Transcript Snippet: told her that it wasn't for sale because it wasn't. It's It's a fixed to their wall. It's obviously not for sale.
 
 Anchored Artifacts:
-Mentions: N-965
+Mentions: N-963
 Related Nodes: N-11432
 Tags: relevance:tangential
 Investigative Direction: The store's released video and statements.
@@ -1601,7 +1601,7 @@ Claim: Per the post the host reads, Clarkson wrote that she was looked at as if 
 Transcript Snippet: Just drove all the way to Brooklyn to check out this store I thought looked really rad and had a few things in mind to buy and literally was looked at as if I couldn't afford it
 
 Anchored Artifacts: A-3395.2
-Mentions: N-965
+Mentions: N-963
 Related Nodes: N-11432
 Tags: relevance:tangential
 Investigative Direction: Clarkson's original post.
@@ -1617,7 +1617,7 @@ Claim: The host says Clarkson posted 15 minutes after she left the store, having
 Transcript Snippet: She tweeted this 15 minutes after she left the store. She's only there for 4 minutes and the guy has told her that it wasn't for sale.
 
 Anchored Artifacts: A-3395.2
-Mentions: N-965
+Mentions: N-963
 Related Nodes: N-11432
 Tags: relevance:tangential
 Investigative Direction: Post timestamp versus store video timestamps.
@@ -1633,7 +1633,7 @@ Claim: The host says the store released video of what happened in the store, and
 Transcript Snippet: But she's trying to pretend she was discriminated against and they released the video of what's happening in the store.
 
 Anchored Artifacts:
-Mentions: N-965
+Mentions: N-963
 Related Nodes: N-11432
 Tags: relevance:tangential
 Investigative Direction: The released store footage.
@@ -1649,7 +1649,7 @@ Claim: The host says the store owner says they are getting death threats, and th
 Transcript Snippet: Now the owner's coming out saying that they're getting death threats. He's being dramatic about it. He was not there at the store when this took place.
 
 Anchored Artifacts:
-Mentions: N-965
+Mentions: N-963
 Related Nodes: N-11432
 Tags: relevance:tangential
 Investigative Direction: Owner's public statements.
@@ -1665,7 +1665,7 @@ Claim: The host says Danny Trejo is allegedly stuck in a Ben Shapiro-produced pr
 Transcript Snippet: They kind of tricked him into allegedly, his son is claiming, um Variety is reporting
 
 Anchored Artifacts:
-Mentions: N-966, N-97
+Mentions: N-964, N-97
 Related Nodes: N-11433
 Tags: relevance:context
 Investigative Direction: The Variety article.
@@ -1681,7 +1681,7 @@ Claim: The host says Shapiro was producing the film, that it is a pro-ICE projec
 Transcript Snippet: And it's a pro-ICE project, which goes against his roots, his Mexican roots. And Danny Trejo apparently had never even heard of Ben Shapiro before signing on for this new movie Pawn Shop.
 
 Anchored Artifacts:
-Mentions: N-966, N-97
+Mentions: N-964, N-97
 Related Nodes: N-11433
 Tags: relevance:context
 Investigative Direction: Pawn Shop production credits and press materials.
@@ -1697,7 +1697,7 @@ Claim: Per the statement from Danny Trejo's son that the host reads, the film is
 Transcript Snippet: About 2 weeks into shooting, everyone including us found out Ben Shapiro was involved.
 
 Anchored Artifacts: A-3396.1
-Mentions: N-966, N-97
+Mentions: N-964, N-97
 Related Nodes: N-11433
 Tags: relevance:context
 Investigative Direction: The son's original post; production timeline.
@@ -1713,7 +1713,7 @@ Claim: Per the son's statement, Trejo contractually cannot badmouth Shapiro or t
 Transcript Snippet: My dad contractually cannot badmouth him, the film, or walk away without being sued for breach of contract.
 
 Anchored Artifacts: A-3396.1
-Mentions: N-966, N-97
+Mentions: N-964, N-97
 Related Nodes: N-11433
 Tags: relevance:context
 Investigative Direction: Trejo's contract terms.
@@ -1808,7 +1808,7 @@ Claim: The host says Clarkson's show just ended and the store owner is trolling 
 Transcript Snippet: And now the the owner is trolling her and he says the word Molly the bird is now worth 15 million, which I do find to be kind of funny.
 
 Anchored Artifacts:
-Mentions: N-965
+Mentions: N-963
 Related Nodes: N-11432
 Tags: relevance:tangential
 Investigative Direction: Owner's social media posts.
@@ -2109,7 +2109,7 @@ Confidence: high
 - MISTRANSCRIPTION: "Erika" -> "Erika" (00:03:11, 00:27:35) source: existing node N-2
 - MISTRANSCRIPTION: "UVU Review" -> "UVU Review" (00:12:50) source: context (UVU independent review)
 - Unresolved name: "Charles Peterson" (00:08:25) – middle name not confirmed by web search; the Idaho AG release as read on air names him only as Charles Peterson, 52. Family relationship to Val Peterson rests on the host's statement.
-- Val Peterson and Tyler Clancy minted as new persons (N-957, N-959): neither is in nodes.tsv; both were introduced in episode 164, which is not yet in the index. The integrator should merge with any episode 164 mint.
+- Val Peterson and Tyler Clancy minted as new persons (N-955, N-957): neither is in nodes.tsv; both were introduced in episode 164, which is not yet in the index. The integrator should merge with any episode 164 mint.
 - Host factual hedge: the host says Kelly Clarkson was "16 years old" when she won American Idol in 2002; kept as spoken (C-14286).
 - Internal inconsistency recorded, not resolved: the host says the first arrest was in Layton, Utah (C-14248), while the AG article she reads says the Idaho ICAC unit made the February 3 arrest after a request from the Lehi Police Department (C-14259).
 - The son's statement (C-14296) says the film is "not pro ice", which conflicts with the host's description of it as a pro-ICE project (C-14295).

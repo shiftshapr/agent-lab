@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: 6d12956e2b1ba335a573654b47ea8373fc4b2a908e37366ed670b52d16491c48
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-887, N-11291, N-11292, N-11293
-  - Tip-minted Nodes (reintro-ep077): N-600, N-10954, N-11194
+  - Tip-minted Nodes (supplement_2026-10e): N-886, N-11291, N-11292, N-11293
+  - Tip-minted Nodes (reintro-ep077): N-599, N-10954, N-11194
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-6900–C-6969
-  - New Nodes Introduced: N-573, N-575, N-576, N-577, N-578, N-10525, N-10529
-  - Reused Nodes Appearing: N-2, N-11, N-3, N-574, N-10530, N-10526, N-10527, N-10528, N-55, N-97, N-278, N-489, N-520, N-569, N-736, N-10000, N-10395, N-10401, N-10434, N-10501, N-10519, N-10524, N-10532, N-10922, N-10929, N-11104, N-11110, N-11165, N-11166, N-11171, N-11248
+  - New Nodes Introduced: N-572, N-574, N-575, N-576, N-577, N-10525, N-10529
+  - Reused Nodes Appearing: N-2, N-11, N-3, N-573, N-10530, N-10526, N-10527, N-10528, N-55, N-97, N-278, N-489, N-520, N-568, N-735, N-10000, N-10395, N-10401, N-10434, N-10501, N-10519, N-10524, N-10532, N-10922, N-10929, N-11104, N-11110, N-11165, N-11166, N-11171, N-11248
   - (see registers)
 
 ---
@@ -36,7 +36,7 @@
 ### Episode 77 Ledger Summary
 
 - Artifact Families Introduced: A-1822, A-1823, A-1824, A-1825, A-1826, A-1827, A-1828, A-1829, A-1830, A-1831, A-1832, A-1833, A-1834
-- New Nodes Introduced (people): N-573, N-574, N-575, N-576, N-577, N-578
+- New Nodes Introduced (people): N-572, N-573, N-574, N-575, N-576, N-577
 - New Nodes Introduced (investigation targets): N-10525, N-10526, N-10527, N-10528, N-10529, N-10530
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
@@ -78,7 +78,7 @@ Video Timestamp: 00:09:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-6919, N-2, N-575*
+*Related: C-6919, N-2, N-574*
 
 ---
 
@@ -144,7 +144,7 @@ Video Timestamp: 00:20:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-6935, N-573, N-10525*
+*Related: C-6935, N-572, N-10525*
 
 ---
 
@@ -172,7 +172,7 @@ Video Timestamp: 00:29:37
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-6952, C-6953, N-576, N-578, N-10529*
+*Related: C-6952, C-6953, N-575, N-577, N-10529*
 
 ---
 
@@ -186,7 +186,7 @@ Video Timestamp: 00:34:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-6955, N-577, N-10529*
+*Related: C-6955, N-576, N-10529*
 
 ---
 
@@ -200,7 +200,7 @@ Video Timestamp: 00:34:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-6957, N-576, N-577*
+*Related: C-6957, N-575, N-576*
 
 ---
 
@@ -316,7 +316,7 @@ Investigative Pressure: High
 ---
 
 
-**N-573** Larissa
+**N-572** Larissa
 
 Author of email (A-1827.1) recounting personal placement at Antonio Placement Center in Constanta, Romania; presents as formerly adopted child with direct knowledge of institutional practices.
 
@@ -329,7 +329,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-574** Nicole Rothstein
+**N-573** Nicole Rothstein
 
 Real-estate professional referenced as Erika's New York roommate during the Next Model Management period; daughter of Alan Rothstein.
 
@@ -338,11 +338,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-575, N-2*
+*Related: N-574, N-2*
 
 ---
 
-**N-575** Alan Rothstein
+**N-574** Alan Rothstein
 
 Chairman (or former chairman) of Win Haven Real Estate; subject of Erika's 2017 Instagram tribute referring to him as "Uncle Allan."
 
@@ -351,11 +351,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1823.1, C-6919, N-574*
+*Related: A-1823.1, C-6919, N-573*
 
 ---
 
-**N-576** Jake Hoffman
+**N-575** Jake Hoffman
 
 Arizona State Senator; introduced SB 1439 supporter; defended the bill on Fox News after veto.
 
@@ -364,11 +364,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1829.1, A-1831.1, C-6957, C-6953, N-577, N-10529*
+*Related: A-1829.1, A-1831.1, C-6957, C-6953, N-576, N-10529*
 
 ---
 
-**N-577** Katie Hobbs
+**N-576** Katie Hobbs
 
 Governor of Arizona; vetoed SB 1439; subject of Hoffman's Fox News criticism.
 
@@ -377,11 +377,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1830.1, A-1831.1, C-6955, N-576*
+*Related: A-1830.1, A-1831.1, C-6955, N-575*
 
 ---
 
-**N-578** Jake Hoffman
+**N-577** Jake Hoffman
 
 Introduced SB 1439 in the Arizona House on January 28 (year implied 2026).
 
@@ -403,7 +403,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1827.1, C-6932, C-6935, N-2, N-573*
+*Related: A-1827.1, C-6932, C-6935, N-2, N-572*
 
 ---
 
@@ -455,7 +455,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1829.1, A-1830.1, A-1832.1, C-6952, C-6955, C-6962, C-6953, N-576, N-577, N-578*
+*Related: A-1829.1, A-1830.1, A-1832.1, C-6952, C-6955, C-6962, C-6953, N-575, N-576, N-577*
 
 ---
 
@@ -481,7 +481,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 
 ---
 
-**N-887** Fran Rothschild
+**N-886** Fran Rothschild
 
 First named by the host at 00:03:16 in episode 77 (also 'Francis Rothschild'). Described by the host as co-founder of Wilhelmina Models.
 
@@ -580,7 +580,7 @@ Host speculates on a Rothstein-Rothschild link.
 
 ---
 
-**N-569** Faith Kates
+**N-568** Faith Kates
 
 Next Model Management co-founder and former Wilhelmina vice president, per the host.
 
@@ -588,7 +588,7 @@ Next Model Management co-founder and former Wilhelmina vice president, per the h
 
 ---
 
-**N-600** Melania Trump
+**N-599** Melania Trump
 
 Host relays what Next-circle sources said about her.
 
@@ -596,7 +596,7 @@ Host relays what Next-circle sources said about her.
 
 ---
 
-**N-736** Dennis Frantzve
+**N-735** Dennis Frantzve
 
 Named by the host at 00:23:16 as 'Dennis Brantsbay' in Romania when the military base was set up.
 
@@ -771,7 +771,7 @@ Claim Timestamp: 00:09:32
 Claim: In a 2017 Instagram post the host reads, Erika Kirk addresses "Uncle Allan" as someone filled with spirit who has shown courage through adversity; the host identifies him as Alan Rothstein, whom she says chaired Win Haven Real Estates.
 
 Anchored Artifacts: A-1823.1
-Mentions: N-2, N-575
+Mentions: N-2, N-574
 
 
 Investigative Direction: Confirm the post via Instagram archives or third-party captures; verify Alan Rothstein's role at Win Haven Real Estate through corporate filings.
@@ -847,7 +847,7 @@ Claim Timestamp: 00:20:51
 Claim: An email from "Larissa," a former Antonio Placement Center resident adopted internationally, states that the center is "notorious for corruption and illicit activities such as trafficking children," that Larissa herself was placed there under dubious circumstances, and that Erika Kirk's promotional materials from approximately 2012 to 2014 specifically referenced the Antonio Placement Center as a partner for international efforts.
 
 Anchored Artifacts: A-1827.1
-Mentions: N-2, N-573
+Mentions: N-2, N-572
 
 Related Nodes: N-10525
 
@@ -892,7 +892,7 @@ Claim Timestamp: 00:33:10
 Claim: Governor Katie Hobbs vetoed SB 1439, stating in her veto letter that Charlie Kirk's assassination was tragic, that political violence is harmful to democratic institutions, and that the bill "falls short" by "inserting politics into a function of government that should remain non-partisan."
 
 Anchored Artifacts: A-1830.1
-Mentions: N-1, N-577
+Mentions: N-1, N-576
 
 Related Nodes: N-10529
 
@@ -907,7 +907,7 @@ Claim Timestamp: 00:35:05
 Claim: On Fox News, Arizona State Senator Jake Hoffman stated that the SB 1439 veto reflects Katie Hobbs's "nakedly partisan" record, that Hobbs vetoed about nine of his bills the previous year, and that the Charlie Kirk plate would honor a "civil rights leader of our time."
 
 Anchored Artifacts: A-1831.1
-Mentions: N-576, N-577, N-1
+Mentions: N-575, N-576, N-1
 
 Related Nodes: N-10529
 
@@ -922,7 +922,7 @@ Claim Timestamp: 00:38:23
 Claim: Tyler Bowyer posted on X: "Every nonprofit in Arizona that has major roots has a license plate. Katie Hobbs vetoed this uh over politics after Charlie was brutally murdered. Disgusting."
 
 Anchored Artifacts: A-1832.1
-Mentions: N-11, N-577, N-1
+Mentions: N-11, N-576, N-1
 
 Related Nodes: N-10529
 
@@ -1044,7 +1044,7 @@ Claim: The host says Faith Kates is known for having made the careers of various
 Transcript Snippet: She's actually known for having made the careers of various Eastern European models.
 
 Anchored Artifacts: 
-Mentions: N-569
+Mentions: N-568
 Related Nodes: N-10532
 Supports: C-6859
 Tags: relevance:core
@@ -1061,7 +1061,7 @@ Claim: The host says Faith Kates knew Epstein before she co-founded Next because
 Transcript Snippet: she was actually the vice president of the women's division over at Wilhelmina Models first.
 
 Anchored Artifacts: 
-Mentions: N-569, N-9, N-887
+Mentions: N-568, N-9, N-886
 Related Nodes: N-11291
 Tags: relevance:core
 Investigative Direction: Verify Kates's Wilhelmina title and dates and the Wilhelmina founding record; test the host's claim that she knew Epstein in that period.
@@ -1250,7 +1250,7 @@ Claim: The host says Erika specifically told people during that period that she 
 Transcript Snippet: Erika told people specifically during that time that she was doing real estate deals with her family.
 
 Anchored Artifacts: 
-Mentions: N-2, N-574, N-575
+Mentions: N-2, N-573, N-574
 Related Nodes: N-10501
 Tags: relevance:core
 Investigative Direction: Ask the people who heard this to identify the family and the deals; look for deeds, listings or broker records tied to the Rothsteins.
@@ -1266,7 +1266,7 @@ Claim: The host says Erika Kirk was living with Nicole Rothstein at that time, a
 Transcript Snippet: Erika at this time was living with Nicole Rothstein and it is a fact that Nicole Rothstein did work in real estate
 
 Anchored Artifacts: 
-Mentions: N-2, N-574
+Mentions: N-2, N-573
 Related Nodes: N-10501
 Tags: relevance:core
 Investigative Direction: Confirm the shared residence and dates with leases or witnesses, and Nicole Rothstein's licensing and company records.
@@ -1282,7 +1282,7 @@ Claim: The host says Erika is extremely close to Alan Rothstein, whom she calls 
 Transcript Snippet: Alan Rothstein, Erika is extremely close with him. She calls him uncle. He was the chairman, uh might still be the chairman of Win Haven Real Estates
 
 Anchored Artifacts: A-1823.1
-Mentions: N-575, N-2
+Mentions: N-574, N-2
 Related Nodes: N-11293
 Tags: relevance:core
 Investigative Direction: Check New York corporate filings and Win Haven's own materials for Rothstein's chairmanship and dates.
@@ -1298,7 +1298,7 @@ Claim: The host speculates, while saying she does not know it is true, that if t
 Transcript Snippet: if they are at all related to Allan uh to the Rothstein that was involved with fixing the White Sox game, that's a Roth child That's a Rothschild family member.
 
 Anchored Artifacts: 
-Mentions: N-575, N-574, N-520
+Mentions: N-574, N-573, N-520
 Tags: relevance:tangential
 Investigative Direction: Genealogical records of the Rothstein family would confirm or refute any relationship; none has been shown.
 
@@ -1424,7 +1424,7 @@ Claim: The Larissa email the host reads says independent fact-checkers have foun
 Transcript Snippet: While independent fact-checkers have found no evidence linking Ms. Kirk's work to illicit activities, I believe the history of the Antonio Placement Center warrants further investigation.
 
 Anchored Artifacts: A-1827.1
-Mentions: N-573, N-2
+Mentions: N-572, N-2
 Related Nodes: N-10525
 Tags: relevance:core
 Investigative Direction: Identify which fact-checks the writer means and what they actually examined.
@@ -1456,7 +1456,7 @@ Claim: The host says she does not think it is just an ironic coincidence that Ty
 Transcript Snippet: I don't think it is just ironic that you happen to go right when the military base got set up and when Dennis Brantsbay was there.
 
 Anchored Artifacts: A-1828.1
-Mentions: N-11, N-736
+Mentions: N-11, N-735
 Related Nodes: N-10395, N-10528
 Tags: relevance:core
 Investigative Direction: Establish the dates of the base setup, Frantzve's Romania posting and Bowyer's trip, which another node dates to 2011.
@@ -1602,7 +1602,7 @@ Claim: The host says Arizona Senator Jake Hoffman is a dear friend and partner o
 Transcript Snippet: Jake Hoffman is a dear friend of Tyler Bowyer, a partner of Tyler Bowyer. He formerly used to work at Turning Point USA.
 
 Anchored Artifacts: 
-Mentions: N-576, N-11
+Mentions: N-575, N-11
 Related Nodes: N-10000, N-10529
 Tags: relevance:core
 Investigative Direction: Check business filings showing shared entities between Hoffman and Bowyer and Hoffman's TPUSA employment dates.
@@ -1618,7 +1618,7 @@ Claim: The host says Jake Hoffman introduced a bill on January 28 for a state li
 Transcript Snippet: Jake Hoffman back on January 28th introduced a bill for a state license plate to honor Charlie Kirk.
 
 Anchored Artifacts: A-1829.1
-Mentions: N-576, N-1
+Mentions: N-575, N-1
 Related Nodes: N-10529
 Tags: relevance:core
 Investigative Direction: Confirm the introduction date and sponsors on the Arizona Legislature bill history for SB 1439.
@@ -1666,7 +1666,7 @@ Claim: In the Fox News clip, Jake Hoffman says he was Charlie Kirk's friend for 
 Transcript Snippet: the only time in Arizona history that we filled two professional sports stadiums to honor and run tribute to the life of an Arizona citizen.
 
 Anchored Artifacts: A-1831.1
-Mentions: N-576, N-1
+Mentions: N-575, N-1
 Related Nodes: N-10529
 Tags: relevance:context
 Investigative Direction: Check attendance reports for State Farm Stadium and the second venue on the memorial date.
@@ -1698,7 +1698,7 @@ Claim: In the clip Jake Hoffman says Katie Hobbs vetoed about nine of his bills 
 Transcript Snippet: she used the acronym of the committee as her reason for the veto.
 
 Anchored Artifacts: A-1831.1
-Mentions: N-576, N-577
+Mentions: N-575, N-576
 Related Nodes: N-10529
 Tags: relevance:context
 Investigative Direction: Check Hobbs's veto letters from 2025 for the cited bill and wording.
@@ -1825,7 +1825,7 @@ Claim: The host says people from the Next modeling orbit liked Melania and said 
 Transcript Snippet: they actually quite liked Melania and said that people who thought that she actually wanted to be the first lady probably had it very wrong
 
 Anchored Artifacts: 
-Mentions: N-600
+Mentions: N-599
 Related Nodes: N-10532
 Tags: relevance:tangential
 Investigative Direction: Identify the sources and their relationship to Melania Trump's modeling years.
@@ -1841,7 +1841,7 @@ Claim: The host says Melania's name came up with the Next Model discussion, that
 Transcript Snippet: Melania's name came up with this next modeling thing they were they were speaking about cuz you know Melania came from Serbia and she was a model and she was in circles in their orbit.
 
 Anchored Artifacts: 
-Mentions: N-600
+Mentions: N-599
 Related Nodes: N-10532
 Tags: relevance:tangential
 Investigative Direction: Review Melania Trump's modeling agency records for any Next Model Management association.

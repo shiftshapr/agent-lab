@@ -227,7 +227,7 @@
             "C-9519"
           ],
           "related_nodes": [
-            "N-636",
+            "N-635",
             "N-10944"
           ],
           "tags": [],
@@ -885,8 +885,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-580",
-      "ref": "N-580",
+      "@id": "N-579",
+      "ref": "N-579",
       "name": "Thomas Massie",
       "type": "person",
       "description": "The host opens by noting he lost in Kentucky.",
@@ -902,8 +902,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-636",
-      "ref": "N-636",
+      "@id": "N-635",
+      "ref": "N-635",
       "name": "Kouri Richins",
       "type": "person",
       "description": "First named by the host at 00:24:28 in episode 108. Utah widow whom the host says was found guilty of murdering her husband after writing a children's book on grief. Transcript spelling \"Kouri D. Richins\".",
@@ -928,8 +928,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-637",
-      "ref": "N-637",
+      "@id": "N-636",
+      "ref": "N-636",
       "name": "Eric Richins",
       "type": "person",
       "description": "First named by the host at 00:26:29 in episode 108. Kouri Richins's husband, who the host says covertly transferred his estate to his sister before he was killed. Transcript spelling \"Eric Richens\".",
@@ -949,8 +949,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-638",
-      "ref": "N-638",
+      "@id": "N-637",
+      "ref": "N-637",
       "name": "Ed Gallrein",
       "type": "person",
       "description": "First named by the host at 00:52:19 in episode 108. Named in the comments as a candidate the host calls embarrassing, with no crowd at his victory party. Kept in the transcript spelling (see Optional Flags).",
@@ -1386,8 +1386,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-580",
-        "N-638"
+        "N-579",
+        "N-637"
       ]
     },
     {
@@ -1460,8 +1460,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-636",
-        "N-637"
+        "N-635",
+        "N-636"
       ]
     },
     {
@@ -1503,7 +1503,7 @@
       "investigative_direction": "Check the certified Kentucky Republican primary results for Massie's congressional district in May 2026.",
       "transcript_snippet": "I know some people are not feeling too happy today because Thomas Massie lost in Kentucky.",
       "mentions_person_refs": [
-        "N-580"
+        "N-579"
       ]
     },
     {
@@ -2066,7 +2066,7 @@
       "investigative_direction": "Check the Summit County, Utah court record for the verdict in State v. Kouri Richins.",
       "transcript_snippet": "the one in Utah, ironically, who was found guilty of murdering her husband out in but but like not instantly.",
       "mentions_person_refs": [
-        "N-636"
+        "N-635"
       ]
     },
     {
@@ -2086,7 +2086,7 @@
       "investigative_direction": "Locate the original broadcast and its air date.",
       "transcript_snippet": "So, my husband passed away unexpectedly last year. So, it's March 4th was a 1-year anniversary for us, and um he was 39.",
       "mentions_person_refs": [
-        "N-636"
+        "N-635"
       ]
     },
     {
@@ -2106,7 +2106,7 @@
       "investigative_direction": "Check the arrest date in Summit County, Utah records against the broadcast date.",
       "transcript_snippet": "A month later, she would be arrested over a year after her husband had passed away.",
       "mentions_person_refs": [
-        "N-636"
+        "N-635"
       ]
     },
     {
@@ -2124,8 +2124,8 @@
       "investigative_direction": "Review trial testimony and estate filings in the Richins case.",
       "transcript_snippet": "her husband, uh Eric Richens, also her victim, gratefully and successfully managed to transfer his entire estate and business interests into his sister's name covertly a few weeks before he passed away",
       "mentions_person_refs": [
-        "N-637",
-        "N-636"
+        "N-636",
+        "N-635"
       ]
     },
     {
@@ -2143,8 +2143,8 @@
       "investigative_direction": "Review trial exhibits on the insurance beneficiary change in the Richins case.",
       "transcript_snippet": "the court heard that Kouri herself attempted to change the beneficiary of his corporate life insurance so that she would receive it 100% of the payout.",
       "mentions_person_refs": [
-        "N-636",
-        "N-637"
+        "N-635",
+        "N-636"
       ]
     },
     {
@@ -2558,7 +2558,7 @@
       "investigative_direction": "Review broadcast and wide-shot footage of the candidate's primary-night victory event.",
       "transcript_snippet": "You had to have uh the camera zoomed in real close to your face so people couldn't see the the no crowd that showed up even to your victory party.",
       "mentions_person_refs": [
-        "N-638"
+        "N-637"
       ]
     }
   ],

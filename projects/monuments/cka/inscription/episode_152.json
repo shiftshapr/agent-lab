@@ -636,8 +636,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-588",
-      "ref": "N-588",
+      "@id": "N-587",
+      "ref": "N-587",
       "name": "Matt Tardio",
       "type": "person",
       "description": "First named by the host at 00:35:04 in episode 152.",
@@ -1664,8 +1664,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-569",
-      "ref": "N-569",
+      "@id": "N-568",
+      "ref": "N-568",
       "name": "Faith Kates",
       "type": "person",
       "description": "Modeling agency head named by the host.",
@@ -1681,8 +1681,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-686",
-      "ref": "N-686",
+      "@id": "N-685",
+      "ref": "N-685",
       "name": "Philip Goldsberry Jr.",
       "type": "person",
       "description": "Co-founder of Sofer Global Ministries per the host (transcribed Phil Goldsberry).",
@@ -1698,8 +1698,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-687",
-      "ref": "N-687",
+      "@id": "N-686",
+      "ref": "N-686",
       "name": "Dr. Philip Goldsberry",
       "type": "person",
       "description": "Philip Goldsberry Sr. in the same family.",
@@ -1715,8 +1715,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-688",
-      "ref": "N-688",
+      "@id": "N-687",
+      "ref": "N-687",
       "name": "Otto Busher",
       "type": "person",
       "description": "Colonel the host says was accused of running a brothel with Romanian children (transcribed Otto B O Busher).",
@@ -1732,8 +1732,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-776",
-      "ref": "N-776",
+      "@id": "N-775",
+      "ref": "N-775",
       "name": "Matt Robinson",
       "type": "person",
       "description": "Tyler Robinson's father.",
@@ -1750,8 +1750,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-800",
-      "ref": "N-800",
+      "@id": "N-799",
+      "ref": "N-799",
       "name": "Paul Vallely",
       "type": "person",
       "description": "TPUSA adviser and retired army general named by the host (transcribed Paul Valle).",
@@ -1767,8 +1767,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-833",
-      "ref": "N-833",
+      "@id": "N-832",
+      "ref": "N-832",
       "name": "Macklemore",
       "type": "person",
       "description": "Rapper dropped from the tour (transcribed Macklemore).",
@@ -1788,8 +1788,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-834",
-      "ref": "N-834",
+      "@id": "N-833",
+      "ref": "N-833",
       "name": "Ed Sheeran",
       "type": "person",
       "description": "Headliner whose tour dropped Macklemore.",
@@ -1865,8 +1865,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-801",
-      "ref": "N-801",
+      "@id": "N-800",
+      "ref": "N-800",
       "name": "Andrew Piskadlo",
       "type": "person",
       "description": "First named by the host at 00:03:34 in episode 152. Man the host says the feds questioned on September 10 who warns about Ukrainian military sex trafficking. Real spelling unconfirmed.",
@@ -1882,8 +1882,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-865",
-      "ref": "N-865",
+      "@id": "N-864",
+      "ref": "N-864",
       "name": "Michael George Carl",
       "type": "person",
       "description": "First named by the host at 00:12:41 in episode 152. Police officer with a child-exploitation background who signed the first warrants.",
@@ -1903,8 +1903,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-866",
-      "ref": "N-866",
+      "@id": "N-865",
+      "ref": "N-865",
       "name": "David Leavitt",
       "type": "person",
       "description": "First named by the host at 00:24:49 in episode 152 (transcribed David O. Levit). Utah official the host links to 2017 tribal outreach and a 2022 ritual abuse investigation.",
@@ -1922,8 +1922,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-867",
-      "ref": "N-867",
+      "@id": "N-866",
+      "ref": "N-866",
       "name": "Justin Bieber",
       "type": "person",
       "description": "First named by the host at 00:51:02 in episode 152. Singer the host cites as sued after cancelling a tour.",
@@ -1939,8 +1939,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-868",
-      "ref": "N-868",
+      "@id": "N-867",
+      "ref": "N-867",
       "name": "Stephen A. Smith",
       "type": "person",
       "description": "First named by the host at 00:56:43 in episode 152. Podcaster on whose show the host appeared.",
@@ -2132,7 +2132,7 @@
         "N-1",
         "N-42",
         "N-330",
-        "N-865"
+        "N-864"
       ]
     },
     {
@@ -2152,7 +2152,7 @@
       "investigative_direction": "Verify Carl's Utah County Sheriff's Office / ICAC assignment records.*",
       "mentions_person_refs": [
         "N-330",
-        "N-865"
+        "N-864"
       ]
     },
     {
@@ -2218,7 +2218,7 @@
       "claim_timestamp": "00:27:05",
       "investigative_direction": "Obtain HSI whistleblower complaint / DOJ records pertaining to Leavitt.*",
       "mentions_person_refs": [
-        "N-866"
+        "N-865"
       ]
     },
     {
@@ -2233,7 +2233,7 @@
       "claim_timestamp": "00:27:01–00:28:24",
       "investigative_direction": "Obtain the May–June 2022 Utah County Sheriff's Office press materials and any related filings.*",
       "mentions_person_refs": [
-        "N-866"
+        "N-865"
       ]
     },
     {
@@ -2251,7 +2251,7 @@
       "claim_timestamp": "00:38:56–00:41:02",
       "investigative_direction": "Pull Portland court records for Matt Tardio's October 2025 plea and related news reports.*",
       "mentions_person_refs": [
-        "N-588"
+        "N-587"
       ]
     },
     {
@@ -2268,8 +2268,8 @@
       "claim_timestamp": "00:43:58–00:45:32",
       "investigative_direction": "Identify the specific tour stop date and verify the full unedited speech.*",
       "mentions_person_refs": [
-        "N-833",
-        "N-834"
+        "N-832",
+        "N-833"
       ]
     },
     {
@@ -2285,8 +2285,8 @@
       "investigative_direction": "Locate primary reporting on the lobbying / cancellation; verify Kraft's role.*",
       "mentions_person_refs": [
         "N-194",
-        "N-833",
-        "N-834"
+        "N-832",
+        "N-833"
       ]
     },
     {
@@ -2322,7 +2322,7 @@
       "mentions_person_refs": [
         "N-40",
         "N-125",
-        "N-776"
+        "N-775"
       ]
     },
     {
@@ -2418,7 +2418,7 @@
       "investigative_direction": "Find the primary accusation records or reporting on Busher and any Romanian Angels documents naming him.",
       "transcript_snippet": "Colonel Otto B O Busher of course was accused of running a brothel with Romanian children from 2011 2015 at the Romanian military base. He worked with Erika's Romanian angels during this time.",
       "mentions_person_refs": [
-        "N-688",
+        "N-687",
         "N-2"
       ]
     },
@@ -2506,7 +2506,7 @@
       "investigative_direction": "Identify Pascado under his correct spelling and find the record or earlier episode that places him among those questioned on September 10.",
       "transcript_snippet": "Andrew Piskadlo, you'll remember, he was one of the uh people that the feds questioned on September 10th. He also in his own capacity works to ring the alarm on military Ukrainian sex trafficking into the United States.",
       "mentions_person_refs": [
-        "N-801"
+        "N-800"
       ]
     },
     {
@@ -2611,7 +2611,7 @@
       "investigative_direction": "Verify Vallely's TPUSA advisory role and the co-authored book (Aquino and Vallely, Psychological Operations material).",
       "transcript_snippet": "TPUSA adviser Paul Valle is the retired army general who ran psychological operations and co-wrote a book with Michael Aquino who was a Satanist and a founder of the Temple of Set",
       "mentions_person_refs": [
-        "N-800",
+        "N-799",
         "N-449"
       ]
     },
@@ -2743,7 +2743,7 @@
       "investigative_direction": "Pull the IRS filing for Sofer Global Ministries and its officers.",
       "transcript_snippet": "co-founding Soter Global Ministries a 501c3 that provides medical care and training to orphans in Romania, Albania and Ukraine.",
       "mentions_person_refs": [
-        "N-686"
+        "N-685"
       ]
     },
     {
@@ -2829,7 +2829,7 @@
       "mentions_person_refs": [
         "N-125",
         "N-40",
-        "N-776"
+        "N-775"
       ]
     },
     {
@@ -2974,7 +2974,7 @@
         "C-13104"
       ],
       "mentions_person_refs": [
-        "N-865"
+        "N-864"
       ]
     },
     {
@@ -2999,7 +2999,7 @@
         "C-13104"
       ],
       "mentions_person_refs": [
-        "N-865",
+        "N-864",
         "N-40"
       ]
     },
@@ -3023,7 +3023,7 @@
         "C-13104"
       ],
       "mentions_person_refs": [
-        "N-865",
+        "N-864",
         "N-42",
         "N-1"
       ]
@@ -3047,7 +3047,7 @@
       "investigative_direction": "Obtain the hospital footage warrant and affidavit rationale.",
       "transcript_snippet": "we learned that the surveillance footage was also seized from Inter Mountain Health Utah Valley because they said that the perpetrator was driving around.",
       "mentions_person_refs": [
-        "N-865"
+        "N-864"
       ]
     },
     {
@@ -3067,8 +3067,8 @@
       "investigative_direction": "Obtain the residence search warrant and inventory.",
       "transcript_snippet": "and also the warrants to search Ma Ma and Amber Robinson's house as well.",
       "mentions_person_refs": [
-        "N-865",
-        "N-776"
+        "N-864",
+        "N-775"
       ]
     },
     {
@@ -3466,7 +3466,7 @@
       "investigative_direction": "Verify Leavitt's office (the host says attorney general; public records list Utah County Attorney) and the status of every scandal.",
       "transcript_snippet": "the attorney general um of Utah was a man named David O. Levit. And there was a massive scandal.",
       "mentions_person_refs": [
-        "N-866"
+        "N-865"
       ]
     },
     {
@@ -3484,7 +3484,7 @@
       "investigative_direction": "Check Northern Cheyenne tribal council records and Leavitt's 2017 correspondence.",
       "transcript_snippet": "He was seeking support connected to adopting a northern Native American child, a Cheyenne child, and he met with the tribal president and proposed a relationship between the tribe and Ukraine.",
       "mentions_person_refs": [
-        "N-866"
+        "N-865"
       ]
     },
     {
@@ -3597,7 +3597,7 @@
       "investigative_direction": "Verify the agency's founding history, Kates's role and Brunel's connection to the New York agency.",
       "transcript_snippet": "Faith Kates running that modeling agency and or a modeling agency that started started by John Luke Brunell uh of France who uh was found suicided as they say in France",
       "mentions_person_refs": [
-        "N-569",
+        "N-568",
         "N-529",
         "N-9"
       ]
@@ -3652,7 +3652,7 @@
       "investigative_direction": "Establish when Tardio first appeared on TPUSA platforms and what his credentials are.",
       "transcript_snippet": "Matt Tardio is one of these individuals. Popped up out of nowhere.",
       "mentions_person_refs": [
-        "N-588",
+        "N-587",
         "N-40"
       ]
     },
@@ -3675,7 +3675,7 @@
       "investigative_direction": "Date the original post and compare with Tardio's travel records and TPUSA's coordination.",
       "transcript_snippet": "I went for a run this morning over inside Tel Aviv along the beach against Gro's better judgment. And I want you guys to see something for all of you that think Israel thought it'd be a good idea to kill Charlie Kirk",
       "mentions_person_refs": [
-        "N-588",
+        "N-587",
         "N-1"
       ]
     },
@@ -3718,7 +3718,7 @@
         "C-13152"
       ],
       "mentions_person_refs": [
-        "N-588",
+        "N-587",
         "N-3"
       ]
     },
@@ -3739,7 +3739,7 @@
       "investigative_direction": "Check Tardio's service record, noting the host calls him a former Green Beret.",
       "transcript_snippet": "He is a former Army Ranger sniper and explosives expert, and he's the host of Speak the Truth uh podcast.",
       "mentions_person_refs": [
-        "N-588"
+        "N-587"
       ]
     },
     {
@@ -3776,7 +3776,7 @@
       "investigative_direction": "Have independent video forensics experts assess the file's encoding history and the term lateral crawl.",
       "transcript_snippet": "there's very clear signs the video was compressed or it was a screen recording or a combination of both before it ended up getting sent to her.",
       "mentions_person_refs": [
-        "N-588",
+        "N-587",
         "N-3"
       ]
     },
@@ -3802,7 +3802,7 @@
         "C-13152"
       ],
       "mentions_person_refs": [
-        "N-588"
+        "N-587"
       ]
     },
     {
@@ -3824,7 +3824,7 @@
       "investigative_direction": "Review the detective's interview transcript if released.",
       "transcript_snippet": "Tardio's explanation was that the left-wing Antifa activists had plotted to get him stoned.",
       "mentions_person_refs": [
-        "N-588"
+        "N-587"
       ]
     },
     {
@@ -3863,7 +3863,7 @@
       ],
       "mentions_person_refs": [
         "N-194",
-        "N-833"
+        "N-832"
       ]
     },
     {
@@ -3886,7 +3886,7 @@
         "C-13157"
       ],
       "mentions_person_refs": [
-        "N-833"
+        "N-832"
       ]
     },
     {
@@ -3909,7 +3909,7 @@
         "C-13157"
       ],
       "mentions_person_refs": [
-        "N-833"
+        "N-832"
       ]
     },
     {
@@ -3927,8 +3927,8 @@
       "investigative_direction": "Obtain Ed Sheeran's public statement on the decision.",
       "transcript_snippet": "I had no control over it. It was the stadiums that did this.",
       "mentions_person_refs": [
-        "N-834",
-        "N-833"
+        "N-833",
+        "N-832"
       ]
     },
     {
@@ -3946,8 +3946,8 @@
       "investigative_direction": "Identify the three openers and the dates and wording of their withdrawal.",
       "transcript_snippet": "thus far, three other people associated with this tour have now dropped out.",
       "mentions_person_refs": [
-        "N-834",
-        "N-833"
+        "N-833",
+        "N-832"
       ]
     },
     {
@@ -3965,7 +3965,7 @@
       "investigative_direction": "Check the official tour schedule.",
       "transcript_snippet": "I think there's only three um tour stops left.",
       "mentions_person_refs": [
-        "N-834"
+        "N-833"
       ]
     },
     {
@@ -4041,7 +4041,7 @@
       "investigative_direction": "Check the lawsuit record over the cancelled Bieber tour dates.",
       "transcript_snippet": "Justin Bieber is finally free and happy and he doesn't even care after he got sued for cancing the rest of his tour?",
       "mentions_person_refs": [
-        "N-867"
+        "N-866"
       ]
     },
     {
@@ -4118,7 +4118,7 @@
       "investigative_direction": "Find the Stephen A. Smith episode and its release date.",
       "transcript_snippet": "I got a lot of your comments about the Stephen A. Smith podcast.",
       "mentions_person_refs": [
-        "N-868",
+        "N-867",
         "N-3"
       ]
     },

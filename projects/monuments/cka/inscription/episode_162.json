@@ -114,7 +114,7 @@
             "N-1",
             "N-2",
             "N-352",
-            "N-949"
+            "N-948"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -167,7 +167,7 @@
             "C-13992"
           ],
           "related_nodes": [
-            "N-950"
+            "N-351"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -186,7 +186,7 @@
           ],
           "related_nodes": [
             "N-10880",
-            "N-950",
+            "N-351",
             "N-11414"
           ],
           "tags": [],
@@ -232,8 +232,8 @@
             "C-14004"
           ],
           "related_nodes": [
-            "N-951",
-            "N-952",
+            "N-949",
+            "N-950",
             "N-11415"
           ],
           "tags": [],
@@ -322,7 +322,7 @@
           "related_nodes": [
             "N-1",
             "N-8",
-            "N-751",
+            "N-750",
             "N-10839",
             "N-11215"
           ],
@@ -341,7 +341,7 @@
             "C-14032"
           ],
           "related_nodes": [
-            "N-751",
+            "N-750",
             "N-10839"
           ],
           "tags": [],
@@ -397,7 +397,7 @@
           ],
           "related_nodes": [
             "N-130",
-            "N-615",
+            "N-614",
             "N-10899"
           ],
           "tags": [],
@@ -483,7 +483,7 @@
           ],
           "related_nodes": [
             "N-10880",
-            "N-950"
+            "N-351"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -954,12 +954,27 @@
       "@type": "Person",
       "@id": "N-351",
       "ref": "N-351",
-      "name": "Matt Servius",
+      "name": "Matiss Tabuns",
       "type": "person",
-      "description": "Name the host gave the Monster Lab operator in the prior episode; she now says it was wrong. Possibly the same individual as N-950.",
-      "related_artifacts": [],
+      "description": "Name the host gave the Monster Lab operator in the prior episode; she now says it was wrong. Possibly the same individual as N-351.",
+      "related_artifacts": [
+        "A-3363.2",
+        "A-3363.1",
+        "A-3371.1"
+      ],
       "related_claims": [
-        "C-13988"
+        "C-13988",
+        "C-13989",
+        "C-13990",
+        "C-13991",
+        "C-13992",
+        "C-13993",
+        "C-13994",
+        "C-13996",
+        "C-14001",
+        "C-14007",
+        "C-14044",
+        "C-14045"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -993,8 +1008,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-615",
-      "ref": "N-615",
+      "@id": "N-614",
+      "ref": "N-614",
       "name": "Gary Melton",
       "type": "person",
       "description": "Paramount Tactical; party to the X exchange with Ian Carroll.",
@@ -1014,8 +1029,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-710",
-      "ref": "N-710",
+      "@id": "N-709",
+      "ref": "N-709",
       "name": "Volodymyr Zelensky",
       "type": "person",
       "description": "Host says Kolomoisky funded him into power.",
@@ -1031,8 +1046,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-751",
-      "ref": "N-751",
+      "@id": "N-750",
+      "ref": "N-750",
       "name": "Robin Ebmeyer",
       "type": "person",
       "description": "UVU emergency management director; host says she has heard Ebmeyer is resigning or has resigned (transcribed \"Ebmyer\", \"Edmire\", \"Edmyer\").",
@@ -1057,8 +1072,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-949",
-      "ref": "N-949",
+      "@id": "N-948",
+      "ref": "N-948",
       "name": "Christine Fekete",
       "type": "person",
       "description": "First named by the host at 00:10:57 in episode 162. Instagram comedian and political commentator, handle given as @what.the.fekete; credited with the theory that Blake Wynn gifted Erika's Kirk Force 1s. Spelling unconfirmed.",
@@ -1076,40 +1091,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-950",
-      "ref": "N-950",
-      "name": "Matiss Tabuns",
-      "type": "person",
-      "description": "First named by the host at 00:14:33 in episode 162. Named by the host, per Latvian emailers, as the person running Monster Lab / Clip It; from Talsi, Latvia.",
-      "related_artifacts": [
-        "A-3363.2",
-        "A-3363.1",
-        "A-3371.1"
-      ],
-      "related_claims": [
-        "C-13988",
-        "C-13989",
-        "C-13990",
-        "C-13991",
-        "C-13992",
-        "C-13993",
-        "C-13994",
-        "C-13996",
-        "C-14001",
-        "C-14007",
-        "C-14044",
-        "C-14045"
-      ],
-      "tags": [],
-      "evidence_count": 3,
-      "claim_count": 12,
-      "episode_count": 1,
-      "investigative_pressure": "high"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-951",
-      "ref": "N-951",
+      "@id": "N-949",
+      "ref": "N-949",
       "name": "Cindy Jackson",
       "type": "person",
       "description": "First named by the host at 00:18:58 in episode 162. Wyoming registered agent the host says is the agent for Clip It LLC and who was named in Pandora Papers reporting.",
@@ -1131,8 +1114,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-952",
-      "ref": "N-952",
+      "@id": "N-950",
+      "ref": "N-950",
       "name": "Igor Kolomoisky",
       "type": "person",
       "description": "First named by the host at 00:20:40 in episode 162. Ukrainian oligarch named in the article the host reads as linked to Ferrous LLC.",
@@ -1644,8 +1627,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-950",
-        "N-951"
+        "N-351",
+        "N-949"
       ]
     },
     {
@@ -1724,7 +1707,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-271",
-        "N-751"
+        "N-750"
       ]
     },
     {
@@ -2090,7 +2073,7 @@
       "investigative_direction": "Origin of the custom sneakers; @what.the.fekete post.",
       "transcript_snippet": "she discovered what I believe is a highly likely possibility um that it was Blake Wynn who gifted Erika with those gaudy Kirk Force 1s",
       "mentions_person_refs": [
-        "N-949",
+        "N-948",
         "N-352",
         "N-2"
       ]
@@ -2211,7 +2194,7 @@
       "@id": "C-13988",
       "ref": "C-13988",
       "label": "Host corrects that the operator is not named Mat Servius",
-      "claim": "The host says that the name she gave the previous day for the person running the site, Mat Servius, was wrong, and that people in Latvia emailed to say Servius is not a Latvian surname.",
+      "claim": "The host says that the name she gave the previous day for the person running the site, Mat Servius [Matiss Tabuns], was wrong, and that people in Latvia emailed to say Servius is not a Latvian surname.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10886"
@@ -2226,8 +2209,7 @@
         "C-13901"
       ],
       "mentions_person_refs": [
-        "N-351",
-        "N-950"
+        "N-351"
       ]
     },
     {
@@ -2247,7 +2229,7 @@
       "investigative_direction": "Latvian business registry and Clip It LLC records listing an organizer or owner.",
       "transcript_snippet": "His real name, the person running this, is Matiss Tabuns",
       "mentions_person_refs": [
-        "N-950"
+        "N-351"
       ]
     },
     {
@@ -2267,7 +2249,7 @@
       "investigative_direction": "Talsi school records; statements from the Latvian sources.",
       "transcript_snippet": "He's from a small town there known as Talsi, where he allegedly dropped out of high school in his junior year.",
       "mentions_person_refs": [
-        "N-950"
+        "N-351"
       ]
     },
     {
@@ -2287,7 +2269,7 @@
       "investigative_direction": "Tabuns' Instagram account and business registrations.",
       "transcript_snippet": "He's flushed with cash, according to his Instagram.",
       "mentions_person_refs": [
-        "N-950"
+        "N-351"
       ]
     },
     {
@@ -2307,7 +2289,7 @@
       "investigative_direction": "Date and source of the Instagram video.",
       "transcript_snippet": "He's in his early 20s. Here he is in Vietnam filming his buddy putting money into a stripper's bra.",
       "mentions_person_refs": [
-        "N-950"
+        "N-351"
       ]
     },
     {
@@ -2330,7 +2312,7 @@
       "investigative_direction": "Wyoming Secretary of State filing for Clip It LLC.",
       "transcript_snippet": "Clip It LLC um was filed for on May 28th of 2025.",
       "mentions_person_refs": [
-        "N-950"
+        "N-351"
       ]
     },
     {
@@ -2352,7 +2334,7 @@
       "investigative_direction": "Wyoming Secretary of State business search.",
       "transcript_snippet": "It was filed for in Wyoming.",
       "mentions_person_refs": [
-        "N-950"
+        "N-351"
       ]
     },
     {
@@ -2396,8 +2378,8 @@
       "investigative_direction": "Clip It LLC registered agent of record; ICIJ Pandora Papers database.",
       "transcript_snippet": "We also discovered this is an 82-year-old woman who is actually known to the world because she was featured, mentioned throughout um the Pandora Papers",
       "mentions_person_refs": [
-        "N-951",
-        "N-950"
+        "N-949",
+        "N-351"
       ]
     },
     {
@@ -2498,8 +2480,8 @@
       "investigative_direction": "Clip It LLC Wyoming filing showing the registered agent name.",
       "transcript_snippet": "one woman who was named for helping to set up these virtually untraceable LLCs was a woman named Cindy Jackson from Wyoming, the same registered agent that our boy Matiss is going to turn to for Clip It LLC.",
       "mentions_person_refs": [
-        "N-951",
-        "N-950"
+        "N-949",
+        "N-351"
       ]
     },
     {
@@ -2521,7 +2503,7 @@
       "investigative_direction": "The ICIJ / partner article with that headline.",
       "transcript_snippet": "The gatekeepers who help open America to oligarchs and scammers.",
       "mentions_person_refs": [
-        "N-951"
+        "N-949"
       ]
     },
     {
@@ -2543,7 +2525,7 @@
       "investigative_direction": "Article text; compare with the host's \"nearly 3,000 businesses\" figure.",
       "transcript_snippet": "year-old Cindy Jackson is the official gatekeeper for more than 350 companies that operate in the United States and around the world.",
       "mentions_person_refs": [
-        "N-951"
+        "N-949"
       ]
     },
     {
@@ -2565,8 +2547,8 @@
       "investigative_direction": "Wyoming filings for Ferrous LLC; article sourcing.",
       "transcript_snippet": "In 2016, Jackson became the registered agent for Ferrous LLC, a Wyoming company linked to a Ukrainian oligarch",
       "mentions_person_refs": [
-        "N-951",
-        "N-952"
+        "N-949",
+        "N-950"
       ]
     },
     {
@@ -2586,7 +2568,7 @@
       "investigative_direction": "Kolomoisky citizenship and community affiliations in public reporting.",
       "transcript_snippet": "Just like an Israeli-Ukrainian billionaire ties to the Chabad-Lubavitch.",
       "mentions_person_refs": [
-        "N-952"
+        "N-950"
       ]
     },
     {
@@ -2604,8 +2586,8 @@
       "investigative_direction": "Reporting on PrivatBank nationalization and Kolomoisky's media support for Zelensky.",
       "transcript_snippet": "He's the person that put uh Zelensky into power, just so you know. Like funded him into power and then nationalized the private bank and then money went missing.",
       "mentions_person_refs": [
-        "N-952",
-        "N-710"
+        "N-950",
+        "N-709"
       ]
     },
     {
@@ -2628,7 +2610,7 @@
         "C-13912"
       ],
       "mentions_person_refs": [
-        "N-950"
+        "N-351"
       ]
     },
     {
@@ -3063,7 +3045,7 @@
       "investigative_direction": "UVU personnel records or announcement.",
       "transcript_snippet": "A second person who I've learned is resigning or has resigned.",
       "mentions_person_refs": [
-        "N-751"
+        "N-750"
       ]
     },
     {
@@ -3081,7 +3063,7 @@
       "investigative_direction": "UVU staff directory.",
       "transcript_snippet": "that is the UVU emergency management director or was the UVU emergency management director.",
       "mentions_person_refs": [
-        "N-751"
+        "N-750"
       ]
     },
     {
@@ -3103,7 +3085,7 @@
       "investigative_direction": "Independent review section on the major events committee meeting.",
       "transcript_snippet": "The independent review informed us that Robin uh was present at the major events committee meeting that where Maycee Crofts insisted on them being outside.",
       "mentions_person_refs": [
-        "N-751",
+        "N-750",
         "N-8"
       ]
     },
@@ -3150,7 +3132,7 @@
       "investigative_direction": "Independent review text.",
       "transcript_snippet": "some of the MEAC members continued to express reservations including Robin Ebmeyer, UVU's director of emergency management and safety.",
       "mentions_person_refs": [
-        "N-751"
+        "N-750"
       ]
     },
     {
@@ -3172,7 +3154,7 @@
       "investigative_direction": "Independent review page 73.",
       "transcript_snippet": "Robin Ebmeyer was actually absent from the university on September 10th.",
       "mentions_person_refs": [
-        "N-751"
+        "N-750"
       ]
     },
     {
@@ -3192,7 +3174,7 @@
       "investigative_direction": "UVU personnel records on the nature of the departures.",
       "transcript_snippet": "Sorry, I shouldn't say Robin Ebmeyer I let go. I've heard Robin Ebmeyer resigned.",
       "mentions_person_refs": [
-        "N-751"
+        "N-750"
       ]
     },
     {
@@ -3214,7 +3196,7 @@
       "transcript_snippet": "according to my UVU sources, is that both of these individuals have been wronged in some capacity.",
       "mentions_person_refs": [
         "N-271",
-        "N-751"
+        "N-750"
       ]
     },
     {
@@ -3277,7 +3259,7 @@
       "investigative_direction": "The X thread.",
       "transcript_snippet": "Gary Melton replies, \"You follow Ian Carroll. Says all I need to know about you.\"",
       "mentions_person_refs": [
-        "N-615",
+        "N-614",
         "N-130"
       ]
     },
@@ -3301,7 +3283,7 @@
       "transcript_snippet": "Ian comes back with, \"Gary, you follow me, bro.\"",
       "mentions_person_refs": [
         "N-130",
-        "N-615"
+        "N-614"
       ]
     },
     {
@@ -3323,7 +3305,7 @@
       "investigative_direction": "The X thread.",
       "transcript_snippet": "I have your phone number, too. Doesn't mean I'd use it.",
       "mentions_person_refs": [
-        "N-615",
+        "N-614",
         "N-130"
       ]
     },
@@ -3425,7 +3407,7 @@
       "investigative_direction": "Clip It LLC beneficial ownership and funding sources.",
       "transcript_snippet": "I think there's something else going on and I think that he is working on behalf of someone else.",
       "mentions_person_refs": [
-        "N-950"
+        "N-351"
       ]
     },
     {
@@ -3447,7 +3429,7 @@
       "investigative_direction": "Tips received about Tabuns and Clip It LLC.",
       "transcript_snippet": "So I will say if you uh know anything more about Matiss, please email us. More tips at candaceowens.com.",
       "mentions_person_refs": [
-        "N-950"
+        "N-351"
       ]
     },
     {

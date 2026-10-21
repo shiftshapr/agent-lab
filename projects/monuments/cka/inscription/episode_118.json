@@ -135,8 +135,8 @@
             "C-10127"
           ],
           "related_nodes": [
-            "N-592",
-            "N-692",
+            "N-591",
+            "N-691",
             "N-433",
             "N-10888"
           ],
@@ -165,8 +165,8 @@
             "C-10136"
           ],
           "related_nodes": [
+            "N-694",
             "N-695",
-            "N-696",
             "N-10993",
             "N-10995"
           ],
@@ -644,8 +644,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-569",
-      "ref": "N-569",
+      "@id": "N-568",
+      "ref": "N-568",
       "name": "Faith Kates",
       "type": "person",
       "description": "Described as a close Epstein friend who ran Next Model Management and supported him after his 2009 arrest.",
@@ -662,8 +662,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-592",
-      "ref": "N-592",
+      "@id": "N-591",
+      "ref": "N-591",
       "name": "Pete Hegseth",
       "type": "person",
       "description": "Secretary of Defense (War) at the top of the org chart; the host mentions rumors that he might be fired.",
@@ -1120,8 +1120,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-691",
-      "ref": "N-691",
+      "@id": "N-690",
+      "ref": "N-690",
       "name": "Virginia Giuffre",
       "type": "person",
       "description": "First named by the host at 00:02:29 in episode 118 (as \"Virginia\"; full name at 00:06:38). Party to the defamation lawsuit with Ghislaine Maxwell; Trump says he employed her at Mar-a-Lago.",
@@ -1139,8 +1139,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-692",
-      "ref": "N-692",
+      "@id": "N-691",
+      "ref": "N-691",
       "name": "Stephen Feinberg",
       "type": "person",
       "description": "First named by the host at 00:11:06 in episode 118. Aliases: Steven Feinberg. Deputy Secretary of Defense, co-founder of Cerberus Capital Management.",
@@ -1164,8 +1164,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-693",
-      "ref": "N-693",
+      "@id": "N-692",
+      "ref": "N-692",
       "name": "Betsy DeVos",
       "type": "person",
       "description": "First named by the host at 00:16:00 in episode 118. Trump's first-term Secretary of Education and sister of Erik Prince.",
@@ -1181,8 +1181,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-694",
-      "ref": "N-694",
+      "@id": "N-693",
+      "ref": "N-693",
       "name": "Erik Prince",
       "type": "person",
       "description": "First named by the host at 00:16:00 in episode 118. Founder of Blackwater.",
@@ -1198,8 +1198,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-695",
-      "ref": "N-695",
+      "@id": "N-694",
+      "ref": "N-694",
       "name": "Kathryn Bolkovac",
       "type": "person",
       "description": "First named by the host at 00:17:45 in episode 118. Aliases: Catherine Bolkovac. DynCorp investigator in Bosnia who exposed the trafficking scandal.",
@@ -1221,8 +1221,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-696",
-      "ref": "N-696",
+      "@id": "N-695",
+      "ref": "N-695",
       "name": "Ben Johnston",
       "type": "person",
       "description": "First named by the host at 00:18:41 in episode 118. DynCorp employee who filed similar reports and was fired.",
@@ -1240,8 +1240,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-697",
-      "ref": "N-697",
+      "@id": "N-696",
+      "ref": "N-696",
       "name": "Emily Ratajkowski",
       "type": "person",
       "description": "First named by the host at 00:33:21 in episode 118. Author of the essay \"Mother Effer\" in The Cut.",
@@ -1279,7 +1279,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-692",
+        "N-691",
         "N-10993"
       ]
     },
@@ -1331,7 +1331,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-694"
+        "N-693"
       ]
     },
     {
@@ -1358,8 +1358,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
+        "N-694",
         "N-695",
-        "N-696",
         "N-10993"
       ]
     },
@@ -1382,7 +1382,7 @@
       "related_nodes": [
         "N-2",
         "N-433",
-        "N-692"
+        "N-691"
       ]
     },
     {
@@ -1501,7 +1501,7 @@
         "N-2",
         "N-9",
         "N-47",
-        "N-691"
+        "N-690"
       ]
     },
     {
@@ -1519,7 +1519,7 @@
       "mentions_person_refs": [
         "N-9",
         "N-47",
-        "N-691"
+        "N-690"
       ]
     },
     {
@@ -1558,7 +1558,7 @@
       "transcript_snippet": "we discovered she was hanging around at the Next Model Management offices, which was a talent agency that was run by close Jeffrey Epstein friend Faith Kates",
       "mentions_person_refs": [
         "N-2",
-        "N-569",
+        "N-568",
         "N-9"
       ]
     },
@@ -1597,7 +1597,7 @@
       "investigative_direction": "Epstein estate emails and flight records involving Kates and Next models.",
       "transcript_snippet": "Faith Kates, I should mention, never turned her back on Jeffrey Epstein. She supported him even after that 2009 arrest.",
       "mentions_person_refs": [
-        "N-569",
+        "N-568",
         "N-9"
       ]
     },
@@ -1634,7 +1634,7 @@
       "mentions_person_refs": [
         "N-5",
         "N-9",
-        "N-691"
+        "N-690"
       ]
     },
     {
@@ -1824,8 +1824,8 @@
       "transcript_snippet": "There is one man in between Bradley and Pete Hegseth. A man named Stephen Feinberg who occupies the position of Deputy Secretary of Defense.",
       "mentions_person_refs": [
         "N-433",
-        "N-592",
-        "N-692"
+        "N-591",
+        "N-691"
       ]
     },
     {
@@ -1845,7 +1845,7 @@
       "investigative_direction": "Feinberg's financial disclosure filings and published net-worth estimates.",
       "transcript_snippet": "What we can state definitively is that he is the wealthiest person in the Trump administration.",
       "mentions_person_refs": [
-        "N-692",
+        "N-691",
         "N-5"
       ]
     },
@@ -1864,7 +1864,7 @@
       "investigative_direction": "Cerberus corporate history and SEC Form ADV filings.",
       "transcript_snippet": "Well, in 1992 he co-founded uh Cerberus Capital Management.",
       "mentions_person_refs": [
-        "N-692"
+        "N-691"
       ]
     },
     {
@@ -1915,8 +1915,8 @@
       "investigative_direction": "Public biographies of DeVos and Prince.",
       "transcript_snippet": "And Betsy DeVos' brother is a man named Erik Prince, who is the founder of Blackwater.",
       "mentions_person_refs": [
+        "N-692",
         "N-693",
-        "N-694",
         "N-5"
       ]
     },
@@ -1936,7 +1936,7 @@
       "investigative_direction": "DynCorp ownership filings and Feinberg's 2017 Intelligence Advisory Board appointment.",
       "transcript_snippet": "Stephen Feinberg outright owning a military mercenary group um from 2010 through to 2020, he joined Trump administration in 2017 the first go around",
       "mentions_person_refs": [
-        "N-692",
+        "N-691",
         "N-5"
       ]
     },
@@ -1977,7 +1977,7 @@
       "investigative_direction": "Bolkovac's book and the UK employment tribunal ruling in Bolkovac v. DynCorp.",
       "transcript_snippet": "Catherine Bolkovac, um a a DynCorp investigator in Bosnia discovered that several DynCorp employees were involved in purchasing underage women and facilitating sex trafficking.",
       "mentions_person_refs": [
-        "N-695"
+        "N-694"
       ]
     },
     {
@@ -1998,8 +1998,8 @@
       "investigative_direction": "Johnston's lawsuit filings in Texas and the Bolkovac tribunal record.",
       "transcript_snippet": "Another employee, Ben Johnston, filed similar reports. Both were then fired by the company",
       "mentions_person_refs": [
-        "N-696",
-        "N-695"
+        "N-695",
+        "N-694"
       ]
     },
     {
@@ -2020,7 +2020,7 @@
       "investigative_direction": "Bolkovac's book and UN/OSCE trafficking reports on Bosnia.",
       "transcript_snippet": "the trafficked underage women were coming from Ukraine, Croatia, Bosnia, and of course Romania.",
       "mentions_person_refs": [
-        "N-695"
+        "N-694"
       ]
     },
     {
@@ -2074,7 +2074,7 @@
       "investigative_direction": "The 2010 Cerberus–DynCorp acquisition filing and the 2020 sale to Amentum.",
       "transcript_snippet": "Now, when her movie about the scandal came out in 2010, DynCorp sold to Stephen Feinberg's Cerberus. It was owned by Cerberus for the next 10 years.",
       "mentions_person_refs": [
-        "N-692"
+        "N-691"
       ]
     },
     {
@@ -2112,7 +2112,7 @@
       "investigative_direction": "Feinberg's ethics agreement and OGE Form 278 disclosures.",
       "transcript_snippet": "I know since uh Stephen Feinberg has said that he has divested um from Cerberus Capital",
       "mentions_person_refs": [
-        "N-692"
+        "N-691"
       ]
     },
     {
@@ -2152,8 +2152,8 @@
       "mentions_person_refs": [
         "N-2",
         "N-433",
-        "N-692",
-        "N-592"
+        "N-691",
+        "N-591"
       ]
     },
     {
@@ -2226,7 +2226,7 @@
       "investigative_direction": "Public reporting on Ratajkowski's separation and divorce filing dates.",
       "transcript_snippet": "Uh she gave birth, they were separated uh within a year, I believe",
       "mentions_person_refs": [
-        "N-697"
+        "N-696"
       ]
     },
     {
@@ -2245,7 +2245,7 @@
       "transcript_snippet": "I'm going to show you this moment, how she dresses to go pick up her 5-year-old son from school pick up.",
       "mentions_person_refs": [
         "N-3",
-        "N-697"
+        "N-696"
       ]
     },
     {
@@ -2263,7 +2263,7 @@
       "investigative_direction": "Compare with the published text in The Cut.",
       "transcript_snippet": "the character that I had learned to embody after my divorce in my period of compulsively dating was a villain.",
       "mentions_person_refs": [
-        "N-697"
+        "N-696"
       ]
     },
     {
@@ -2281,7 +2281,7 @@
       "investigative_direction": "Compare with the published text in The Cut.",
       "transcript_snippet": "my friend said after watching me in shorts and lip liner navigate the the clickish politics of school drop-off.",
       "mentions_person_refs": [
-        "N-697"
+        "N-696"
       ]
     },
     {

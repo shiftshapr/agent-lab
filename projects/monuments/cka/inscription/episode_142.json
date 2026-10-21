@@ -877,8 +877,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-861",
-      "ref": "N-861",
+      "@id": "N-860",
+      "ref": "N-860",
       "name": "David Hull",
       "type": "person",
       "description": "First named by the host at 00:04:56 in episode 142. Aliases: Agent Hull, Agent David Hull.",
@@ -1155,8 +1155,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-701",
-      "ref": "N-701",
+      "@id": "N-700",
+      "ref": "N-700",
       "name": "Robert Golow",
       "type": "person",
       "description": "Robert Golow; operator of the front-left camera per the host.",
@@ -1513,8 +1513,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-826",
-      "ref": "N-826",
+      "@id": "N-825",
+      "ref": "N-825",
       "name": "Jordan Wilson",
       "type": "person",
       "description": "First named by the host at 00:08:20 in episode 142. Camera operator the host says ran the blue-circled camera at the UVU event.",
@@ -1530,8 +1530,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-827",
-      "ref": "N-827",
+      "@id": "N-826",
+      "ref": "N-826",
       "name": "Kathy Nester",
       "type": "person",
       "description": "First named in this episode by the host at 00:24:49 (transcribed Kathy Nester). Defense attorney in the Tyler Robinson case, as recorded in episode 94.",
@@ -1547,8 +1547,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-828",
-      "ref": "N-828",
+      "@id": "N-827",
+      "ref": "N-827",
       "name": "John Kiriakou",
       "type": "person",
       "description": "First named by the host at 00:31:29 in episode 142. Former CIA officer and whistleblower shown on the Danny Jones podcast.",
@@ -1565,8 +1565,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-829",
-      "ref": "N-829",
+      "@id": "N-828",
+      "ref": "N-828",
       "name": "Danny Jones",
       "type": "person",
       "description": "First named by the host at 00:31:29 in episode 142. Podcast host on whose show Kiriakou questions the FBI role.",
@@ -1582,9 +1582,26 @@
     },
     {
       "@type": "Person",
+      "@id": "N-829",
+      "ref": "N-829",
+      "name": "Mark Normand",
+      "type": "person",
+      "description": "First named by the host at 00:34:33 in episode 142. Comedian the host names as a Rogan guest.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12257"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
       "@id": "N-830",
       "ref": "N-830",
-      "name": "Mark Normand",
+      "name": "Shane Gillis",
       "type": "person",
       "description": "First named by the host at 00:34:33 in episode 142. Comedian the host names as a Rogan guest.",
       "related_artifacts": [],
@@ -1601,23 +1618,6 @@
       "@type": "Person",
       "@id": "N-831",
       "ref": "N-831",
-      "name": "Shane Gillis",
-      "type": "person",
-      "description": "First named by the host at 00:34:33 in episode 142. Comedian the host names as a Rogan guest.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-12257"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-832",
-      "ref": "N-832",
       "name": "Ari Shaffir",
       "type": "person",
       "description": "First named by the host at 00:34:33 in episode 142 (spelled Ari Shaffir in the transcript). Comedian the host names as a Rogan guest.",
@@ -1706,7 +1706,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-261",
-        "N-861"
+        "N-860"
       ]
     },
     {
@@ -1725,7 +1725,7 @@
       "claim_timestamp": "00:12:35",
       "investigative_direction": "Obtain certified preliminary-hearing transcript; confirm whether SD cards were ever handed over directly and to whom.",
       "mentions_person_refs": [
-        "N-861",
+        "N-860",
         "N-261"
       ]
     },
@@ -1847,8 +1847,8 @@
       "claim_timestamp": "00:31:50",
       "investigative_direction": "Obtain full Danny Jones podcast segment; verify whether FBI has filed any federal charges or maintains any formal federal nexus.",
       "mentions_person_refs": [
-        "N-828",
-        "N-829"
+        "N-827",
+        "N-828"
       ]
     },
     {
@@ -2151,7 +2151,7 @@
       "investigative_direction": "Confirm camera operator assignments with Visual Impulse crew records or with Golow directly.",
       "transcript_snippet": "Now, we have one to the front left side of Charlie that is being operated by Robert Golo.",
       "mentions_person_refs": [
-        "N-701"
+        "N-700"
       ]
     },
     {
@@ -2175,7 +2175,7 @@
       "transcript_snippet": "Right? That's the one that was being operated by uh Jordan Wilson. In other words, if I were trying to gather evidence very quickly within minutes of Charlie Kirk being shot, I'd go blue.",
       "mentions_person_refs": [
         "N-1",
-        "N-826"
+        "N-825"
       ]
     },
     {
@@ -2254,7 +2254,7 @@
       ],
       "mentions_person_refs": [
         "N-261",
-        "N-861"
+        "N-860"
       ]
     },
     {
@@ -2630,7 +2630,7 @@
       "investigative_direction": "Obtain the preliminary-hearing transcript for Nester's questions about editing of the Visual Impulse footage.",
       "transcript_snippet": "The questions that Kathy Nester asked thereafter um things that she asserted about they don't know whether or not that footage was edited.",
       "mentions_person_refs": [
-        "N-827"
+        "N-826"
       ]
     },
     {
@@ -2747,8 +2747,8 @@
         "C-12252"
       ],
       "mentions_person_refs": [
+        "N-827",
         "N-828",
-        "N-829",
         "N-69"
       ]
     },
@@ -2772,7 +2772,7 @@
       "investigative_direction": "Obtain Patel's travel records and the number of FBI personnel deployed to Utah in September 2025.",
       "transcript_snippet": "You don't have the FBI director fly out there with a with a plane load of FBI agents. It's not a federal case.",
       "mentions_person_refs": [
-        "N-828",
+        "N-827",
         "N-69"
       ]
     },
@@ -2863,9 +2863,9 @@
       "mentions_person_refs": [
         "N-224",
         "N-268",
+        "N-829",
         "N-830",
         "N-831",
-        "N-832",
         "N-40",
         "N-2"
       ]

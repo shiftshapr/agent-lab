@@ -1210,8 +1210,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-776",
-      "ref": "N-776",
+      "@id": "N-775",
+      "ref": "N-775",
       "name": "Matt Robinson",
       "type": "person",
       "description": "Matt Robinson; the host recounts the dog bed discovery and disputes that he believed his son guilty.",
@@ -1911,8 +1911,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-925",
-      "ref": "N-925",
+      "@id": "N-924",
+      "ref": "N-924",
       "name": "Brian Atlas",
       "type": "person",
       "description": "First named by the host at 00:02:12 in episode 139.",
@@ -1928,8 +1928,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-926",
-      "ref": "N-926",
+      "@id": "N-925",
+      "ref": "N-925",
       "name": "Dan Crenshaw",
       "type": "person",
       "description": "First named by the host at 00:41:20 in episode 139.",
@@ -1945,8 +1945,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-927",
-      "ref": "N-927",
+      "@id": "N-926",
+      "ref": "N-926",
       "name": "Rabbi Shmuley Boteach",
       "type": "person",
       "description": "First named by the host at 00:48:31 in episode 139.",
@@ -2344,7 +2344,7 @@
       "claim_timestamp": "00:40:30",
       "investigative_direction": "Verify post and current ramen retail prices for college affordability comparison.",
       "mentions_person_refs": [
-        "N-926"
+        "N-925"
       ]
     },
     {
@@ -2400,7 +2400,7 @@
       "claim_timestamp": "00:49:52–00:51:05",
       "investigative_direction": "Verify participants' identities and location.",
       "mentions_person_refs": [
-        "N-927"
+        "N-926"
       ]
     },
     {
@@ -2562,7 +2562,7 @@
       "investigative_direction": "Obtain the offer messages between Atlas and the host's PR representative and ask Atlas who proposed and who funded the amounts.",
       "transcript_snippet": "a guy named Brian Atlas, reached out to my PR guy, Mitchell, with an offer of 50K for me to debate this person. And then he upped the amount, I think, to 150K initially.",
       "mentions_person_refs": [
-        "N-925",
+        "N-924",
         "N-18",
         "N-3"
       ]
@@ -3539,7 +3539,7 @@
       "investigative_direction": "Identify the source of the dog bed account and check search-warrant photographs of Tyler's room.",
       "transcript_snippet": "Matt Robinson uh when he went back to the apartment that Tyler Robinson shared with Lance discovered that a bed that was not in his son's room, a dog bed was put into his son's room.",
       "mentions_person_refs": [
-        "N-776",
+        "N-775",
         "N-40",
         "N-54",
         "N-3"
@@ -3564,7 +3564,7 @@
       "transcript_snippet": "it would make more sense that this would be Lance's bed, Lance's big dog bed, that Lance was embodying this persona.",
       "mentions_person_refs": [
         "N-54",
-        "N-776",
+        "N-775",
         "N-3"
       ]
     },
@@ -3585,7 +3585,7 @@
       "investigative_direction": "Compare the host's source with public accounts of what Matt Robinson told investigators.",
       "transcript_snippet": "this whole lie that Matt Robinson believed his son was guilty.",
       "mentions_person_refs": [
-        "N-776",
+        "N-775",
         "N-40",
         "N-3"
       ]
@@ -4035,7 +4035,7 @@
       "investigative_direction": "Verify the post text and date on X.",
       "transcript_snippet": "The market doesn't care what you think. Something should cost. Only communists care.",
       "mentions_person_refs": [
-        "N-926"
+        "N-925"
       ]
     },
     {
@@ -4120,7 +4120,7 @@
       "investigative_direction": "Identify the lawsuit threats the host refers to, if any, from court dockets or press reports.",
       "transcript_snippet": "Constantly harassing people, threatening lawsuits.",
       "mentions_person_refs": [
-        "N-927",
+        "N-926",
         "N-3"
       ]
     },

@@ -11,11 +11,11 @@
 - **Transcript SHA-256**: 11b9571e5a76ba6e7d757602ee3753595b7175b02db0aab97660730731ff688c
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-806, N-807, N-808, N-11189, N-11190
+  - Tip-minted Nodes (supplement_2026-10c): N-805, N-806, N-807, N-11189, N-11190
   - Hole-minted Nodes (reintro-ep082): N-213, N-10621, N-10649, N-10866
   - Tip-minted Nodes (reintro-ep082): N-11149
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Reused Nodes Appearing: N-5, N-11, N-15, N-39, N-40, N-69, N-97, N-217, N-496, N-551, N-10094, N-10149, N-10324, N-10337, N-10355, N-10360, N-10386, N-10387, N-10546, N-10548, N-10551, N-11012, N-10554, N-690, N-10701
+  - Reused Nodes Appearing: N-5, N-11, N-15, N-39, N-40, N-69, N-97, N-217, N-496, N-550, N-10094, N-10149, N-10324, N-10337, N-10355, N-10360, N-10386, N-10387, N-10546, N-10548, N-10551, N-11012, N-10554, N-689, N-10701
   - Claim Range: C-7344–C-7417
  - (see registers)
 
@@ -563,7 +563,7 @@ TPUSA board member the host guesses was the donor (transcribed Doug De Root).
 
 ---
 
-**N-551** Aubrey Laitsch
+**N-550** Aubrey Laitsch
 
 Former TPUSA PR manager in the text thread with Justin and Andrew.
 
@@ -571,7 +571,7 @@ Former TPUSA PR manager in the text thread with Justin and Andrew.
 
 ---
 
-**N-690** Laura Ingraham
+**N-689** Laura Ingraham
 
 Fox host whose show Andrew Kolvet is said to have discussed with Aubrey.
 
@@ -715,7 +715,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-806** Ross Douthat
+**N-805** Ross Douthat
 
 First named by the host at 00:30:36 in episode 82. New York Times reporter who interviewed Andrew Kolvet about the 9/10 show.
 
@@ -723,7 +723,7 @@ First named by the host at 00:30:36 in episode 82. New York Times reporter who i
 
 ---
 
-**N-807** Michael Shellenberger
+**N-806** Michael Shellenberger
 
 First named by the host at 00:43:38 in episode 82. Interviewer of Joe Kent.
 
@@ -731,7 +731,7 @@ First named by the host at 00:43:38 in episode 82. Interviewer of Joe Kent.
 
 ---
 
-**N-808** Pat Buchanan
+**N-807** Pat Buchanan
 
 First named by the host at 00:58:49 in episode 82 (from a viewer comment). Commentator the host says coined Israel's amen corner.
 
@@ -839,7 +839,7 @@ Claim Timestamp: 00:20:35
 Claim: The host says a text thread with Justin and Aubrey shows Andrew Kolvet could not respond to messages because he was on a plane without Wi-Fi, and that Justin told Aubrey at 4:18 PM MST that she must wait until Andrew is "on the ground."
 
 Anchored Artifacts: A-1889.1, A-1889.2
-Mentions: N-14, N-15, N-551
+Mentions: N-14, N-15, N-550
 
 Related Nodes: N-10554, N-10557
 
@@ -869,7 +869,7 @@ Claim Timestamp: 00:31:34
 Claim: Andrew Kolvet stated in an interview with Ross Douthat (New York Times) that he guest-hosted the first hour of Charlie Kirk Live Show on September 10, 2025, because Charlie was focusing on the tour.
 
 Anchored Artifacts: A-1890.1
-Mentions: N-14, N-1, N-806
+Mentions: N-14, N-1, N-805
 
 Related Nodes: N-10556
 
@@ -899,7 +899,7 @@ Claim Timestamp: 00:43:38
 Claim: The host says Joe Kent stated in an interview with, she believes, Michael Shellenberger that federal investigators did not thoroughly pursue other leads in the Charlie Kirk case.
 
 Anchored Artifacts: A-1892.1
-Mentions: N-1, N-209, N-807
+Mentions: N-1, N-209, N-806
 
 Related Nodes:
 
@@ -943,7 +943,7 @@ Claim Timestamp: 00:31:34
 Claim: Andrew Kolvet stated in his Ross Douthat interview that Charlie Kirk was "not super pleased" about an interview booking Kolvet had made the day before September 10, and that Charlie then said he was tired and wanted to focus on the tour, so Kolvet would guest host.
 
 Anchored Artifacts: A-1890.1
-Mentions: N-14, N-1, N-806
+Mentions: N-14, N-1, N-805
 
 Related Nodes: N-10556
 
@@ -992,7 +992,7 @@ Claim Timestamp: 00:22:50
 Claim: The host says Marina told Aubrey that Andrew Kolvet was not available and that Aubrey had to write the statement about Charlie's death, and that Andrew was unavailable when it went out.
 
 Anchored Artifacts: A-1889.2 (text thread)
-Mentions: N-14, N-1, N-551, N-493
+Mentions: N-14, N-1, N-550, N-493
 
 Related Nodes: N-10554
 
@@ -1232,7 +1232,7 @@ Claim: The host says that in a text chain Aubrey asked whether she should confir
 Transcript Snippet: And Justin jumps in on the text it and he says that uh, "It's up to Andrew." And Andrew doesn't answer
 
 Anchored Artifacts: A-1889.2
-Mentions: N-3, N-551, N-15, N-14, N-1
+Mentions: N-3, N-550, N-15, N-14, N-1
 Related Nodes: N-10554
 Tags: relevance:core
 Investigative Direction: Obtain the full Aubrey/Justin thread with carrier timestamps and the company-wide email it refers to.
@@ -1264,7 +1264,7 @@ Claim: The host says Andrew Kolvet answered Aubrey on a separate Telegram channe
 Transcript Snippet: we learned that he did answer Aubrey um, on a separate Telegram channel uh, before he went dark. He answered her about the press, about Laura Ingraham's show. He called her, too.
 
 Anchored Artifacts: A-2939.1
-Mentions: N-3, N-14, N-551, N-690
+Mentions: N-3, N-14, N-550, N-689
 Related Nodes: N-10554
 Revises: C-7296
 Tags: relevance:core
@@ -1586,7 +1586,7 @@ Claim: The host says Joe Kent was interviewed by Michael Shellenberger (she is n
 Transcript Snippet: And of course Joe Kent says, "That wasn't my goal. My goal was just to tell the truth."
 
 Anchored Artifacts: A-1892.1
-Mentions: N-3, N-209, N-807, N-40
+Mentions: N-3, N-209, N-806, N-40
 Related Nodes: N-10546
 Tags: relevance:context
 Investigative Direction: Obtain the full Shellenberger interview and compare Kent's wording.
@@ -1864,7 +1864,7 @@ Claim: The host says Pat Buchanan coined the phrase Israel's amen corner in the 
 Transcript Snippet: He coined the phrase Israel's amen corner in the early 90s.
 
 Anchored Artifacts: A-2944.2
-Mentions: N-3, N-808
+Mentions: N-3, N-807
 Tags: relevance:tangential
 Investigative Direction: Check the first appearance of the phrase in print.
 

@@ -1411,8 +1411,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-860",
-      "ref": "N-860",
+      "@id": "N-859",
+      "ref": "N-859",
       "name": "Matt Sarelson",
       "type": "person",
       "description": "Lawyer who sent the Harpole lawsuit and the host's long-time arbitration opponent.",
@@ -1754,8 +1754,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-892",
-      "ref": "N-892",
+      "@id": "N-891",
+      "ref": "N-891",
       "name": "Bryan Freedman",
       "type": "person",
       "description": "First named by the host at 00:55:14 in episode 98 (transcribed Bryan Freedman). Lawyer the host congratulates for the Baldoni result.",
@@ -1771,8 +1771,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-893",
-      "ref": "N-893",
+      "@id": "N-892",
+      "ref": "N-892",
       "name": "Melissa Nathan",
       "type": "person",
       "description": "First named by the host at 00:55:14 in episode 98. PR professional the host congratulates.",
@@ -1788,8 +1788,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-894",
-      "ref": "N-894",
+      "@id": "N-893",
+      "ref": "N-893",
       "name": "Zalman Shapiro",
       "type": "person",
       "description": "First named by the host at 00:56:47 in episode 98. The host asks if he is Ben Shapiro's uncle who took uranium to Israel.",
@@ -2117,7 +2117,7 @@
       "claim_timestamp": "00:33:10",
       "investigative_direction": "Pull archived Sarelson X timeline via Wayback Machine to verify.",
       "mentions_person_refs": [
-        "N-860",
+        "N-859",
         "N-60"
       ]
     },
@@ -2276,7 +2276,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-97",
-        "N-860",
+        "N-859",
         "N-266"
       ]
     },
@@ -2960,7 +2960,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-860"
+        "N-859"
       ]
     },
     {
@@ -2981,7 +2981,7 @@
       "transcript_snippet": "they had first sent this like I don't know demand thing at first and said we are filing this lawsuit in 4 days",
       "mentions_person_refs": [
         "N-3",
-        "N-860"
+        "N-859"
       ]
     },
     {
@@ -3004,7 +3004,7 @@
       "investigative_direction": "Look for communications, payments or contacts between Loomer, Sarelson and the person who allegedly tried to hire a photographer.",
       "transcript_snippet": "That signals that there's some coordination between Matt Sarelson, Ben Shapiro's lawyer, um and Laura Loomer.",
       "mentions_person_refs": [
-        "N-860",
+        "N-859",
         "N-97",
         "N-60"
       ]
@@ -3595,8 +3595,8 @@
       "transcript_snippet": "Bryan Freedman, congratulations to you. Also to Melissa Nathan and the people that were the PR team",
       "mentions_person_refs": [
         "N-485",
-        "N-892",
-        "N-893"
+        "N-891",
+        "N-892"
       ]
     },
     {
@@ -3617,7 +3617,7 @@
       "transcript_snippet": "What was his uncle Zalman Shapiro? Am I correct that he's the one that took all of the uranium to Israel?",
       "mentions_person_refs": [
         "N-97",
-        "N-894"
+        "N-893"
       ]
     },
     {
@@ -3637,7 +3637,7 @@
       "investigative_direction": "Check the outcome of the NUMEC investigation.",
       "transcript_snippet": "I don't think he ever actually was found guilty because they I think he played like anti-Semitism or something like that.",
       "mentions_person_refs": [
-        "N-894"
+        "N-893"
       ]
     },
     {

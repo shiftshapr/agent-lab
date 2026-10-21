@@ -1391,8 +1391,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-712",
-      "ref": "N-712",
+      "@id": "N-711",
+      "ref": "N-711",
       "name": "Kamala Harris",
       "type": "person",
       "description": "First named by the host (as 'Kamala') at 00:26:31 in episode 40.",
@@ -1408,8 +1408,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-713",
-      "ref": "N-713",
+      "@id": "N-712",
+      "ref": "N-712",
       "name": "Russell Brand",
       "type": "person",
       "description": "First named by the host (as 'Russell Brand') at 00:57:05 in episode 40.",
@@ -1425,8 +1425,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-714",
-      "ref": "N-714",
+      "@id": "N-713",
+      "ref": "N-713",
       "name": "Chuck Smith",
       "type": "person",
       "description": "First named by the host at 00:11:15 in episode 40, as the Calvary Chapel founder whose history she cites.",
@@ -2175,7 +2175,7 @@
       "transcript_snippet": "I do believe the Calvary Chapel uh their history with Chuck Smith, the evidence that it was a militant CIA effort to infiltrate the Christian faith",
       "mentions_person_refs": [
         "N-3",
-        "N-714"
+        "N-713"
       ]
     },
     {
@@ -2627,7 +2627,7 @@
         "N-3",
         "N-484",
         "N-375",
-        "N-712",
+        "N-711",
         "N-82"
       ]
     },
@@ -3227,7 +3227,7 @@
       "transcript_snippet": "I spoke about it more at length with Russell Brand uh on his show. So that should be coming out soon.",
       "mentions_person_refs": [
         "N-3",
-        "N-713"
+        "N-712"
       ]
     },
     {
