@@ -1,0 +1,8768 @@
+{
+ "format": "cka-source/1",
+ "episode": 36,
+ "blocks": [
+  {
+   "kind": "text",
+   "lines": [
+    "## 1. Meta-Data",
+    "",
+    "- **Episode**: 36",
+    "- **Monument**: cka",
+    "- **CKA seq**: 36",
+    "- **YouTube id**: sImMM04XdWY",
+    "- **Candace Ep**: 269",
+    "- **Source**: Candace Owens YouTube",
+    "- **Video Timestamp Range**: 00:00:00–00:55:28",
+    "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
+    "- **Transcript SHA-256**: 270e4d6bd7c7e45e5b54085cd242a98cd8703f80aa479f990d94ccfcff20d864",
+    "",
+    "- **Episode Ledger Summary**:",
+    "  - Tip-minted Nodes (supplement_2026-10): N-708, N-11008",
+    "  - Hole-minted Nodes (reintro-ep036): N-283, N-10284, N-10294",
+    "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
+    "  - Claim Range: C-3152–C-3248",
+    "  - New Nodes Introduced: N-270, N-10271, N-10272",
+    "  - Reused Nodes Appearing: N-5, N-9, N-14, N-16, N-36, N-37, N-38, N-42, N-69, N-82, N-329, N-10000, N-10001, N-10012, N-10020, N-10028, N-10029, N-10045, N-10051, N-10116, N-10134, N-10145, N-10175, N-10197, N-10224, N-10243, N-10246, N-10253, N-10261, N-10265, N-10266, N-10268, N-10269, N-10355, N-271, N-710, N-377, N-10270, N-11009, N-10316, N-10862, N-11011, N-709, N-10336, N-10337, N-10345, N-10853, N-11010, N-10342, N-272, N-11012",
+    "  - (see registers)",
+    "",
+    "## 6. Meme Register",
+    ""
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-38",
+   "header": "**M-38** (meme) MK Ultra",
+   "label": "(meme) MK Ultra",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:23:51"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "hat nobody was pursuing uh was running and that was us discussing the MK Ultra program and Brigitte Macron strangely and Emanuel mentioning MK Ult..."
+    },
+    {
+     "k": "Context",
+     "v": "Later reuse of MK Ultra in CKA seq 36."
+    },
+    {
+     "k": "Tags",
+     "v": "psyop, history, analogy, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "# Episode Analysis: Monument 36 / Candace Ep 269",
+    ""
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-12",
+   "header": "**M-12** (meme) Decentralized Intelligence Agency",
+   "label": "(meme) Decentralized Intelligence Agency",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:51:14"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "We have the decentralized intelligence."
+    },
+    {
+     "k": "Context",
+     "v": "Host answers a viewer comment about giving Ron Paul an insurance package, framing her tip network as decentralized intelligence."
+    },
+    {
+     "k": "Tags",
+     "v": "dia, tips, brand"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:54:41"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "if you have any tips, obviously email us more tips at candacewowens. com."
+    },
+    {
+     "k": "Context",
+     "v": "Host closes the episode with a call for tips to the show address."
+    },
+    {
+     "k": "Tags",
+     "v": "dia, tips, call-to-action"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-124",
+   "header": "**M-124** (meme) Insurance Package",
+   "label": "(meme) Insurance Package",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:51:14"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "send him another insurance package as I'm now terming it"
+    },
+    {
+     "k": "Context",
+     "v": "Host says she should send Ron Paul an insurance package so he knows what is happening behind the scenes."
+    },
+    {
+     "k": "Tags",
+     "v": "insurance, sharing, threats"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-125",
+   "header": "**M-125** (meme) CVS Receipt",
+   "label": "(meme) CVS Receipt",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:32:51"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "it's going to look like a CVS receipt."
+    },
+    {
+     "k": "Context",
+     "v": "Opens the Harpole segment by saying the list of Turning Point lies keeps growing."
+    },
+    {
+     "k": "Tags",
+     "v": "lies, tpusa, humor"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-126",
+   "header": "**M-126** (meme) The Real Conspiracy Theory",
+   "label": "(meme) The Real Conspiracy Theory",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:44:21"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "That's actually the conspiracy theory. Like that's the tin foil hat conspiracy theory."
+    },
+    {
+     "k": "Context",
+     "v": "After retelling the official account sarcastically, host says that is the conspiracy theory."
+    },
+    {
+     "k": "Tags",
+     "v": "conspiracy, official-narrative, sarcasm"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 2. Executive Summary",
+    "",
+    "Episode 36 combines (a) host's reconstruction of a multi-month timeline linking the Macron investigation to events surrounding the Charlie Kirk assassination, much of which is host narration referencing prior-episode material, with (b) four distinct artifact-anchored evidentiary segments presented in this episode. The artifact-anchored material consists of: (1) a displayed text exchange between host and Charlie Kirk from February 24–25, 2025 documenting White House and POTUS-side contact regarding the Macron topic; (2) a displayed internal legal-team communication from July 27, 2025 analyzing Delaware jurisdictional defects in the Macron lawsuit; (3) an audio/video clip from Brian Harpole's appearance on the Shawn Ryan show in which he read aloud text messages between Dan Flood and UVU Police Chief Jeff Long about student roof access, presented in a manner the host asserts was misrepresentative; and (4) a KUTV investigative report documenting that Washington County Sheriff's office states Tyler Robinson surveillance footage is no longer available, citing a 30-day retention period. A Tucker Carlson speech clip from the July 18 Turning Point event is also played. The episode does not present new primary artifacts supporting the bulk of the host's broader timeline claims about the Satys hanger, the Egyptian plane schedule, the foreign-dignitary transfer, the MK Ultra / Stanford line of investigation, or the phone calls with Andrew Kolvet and the unnamed CIA-contractor spouse; these are preserved as host assertions and excluded from the Claim Register per the admission test.",
+    "",
+    "---",
+    "",
+    "## 3. Artifact Register",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1445",
+   "header": "**A-1445** Text Message Bundle (Owens–Kirk)",
+   "label": "Text Message Bundle (Owens–Kirk)",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1445.1",
+   "header": "**A-1445.1** Displayed text exchange between Candace Owens and Charlie Kirk (Feb 24–25, 2025), including Charlie's message \"Hey, I have something to tell you from the White House. They asked me to call you. I'm just the messenger here, but it's important,\" host's reply, follow-up exchange about circling back, and Charlie's Feb 25 text \"The White House just asked for your number FYI. I think POTUS might call you.\"",
+   "label": "Displayed text exchange between Candace Owens and Charlie Kirk (Feb 24–25, 2025), including Charlie's message \"Hey, I have something to tell you from the White House. They asked me to call you. I'm just the messenger here, but it's important,\" host's reply, follow-up exchange about circling back, and Charlie's Feb 25 text \"The White House just asked for your number FYI. I think POTUS might call you.\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:12:20"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3176, C-3177, N-1, N-3, N-10270*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1446",
+   "header": "**A-1446** Legal Team Communication Bundle",
+   "label": "Legal Team Communication Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1446.1",
+   "header": "**A-1446.1** Displayed private communication between host and her legal team (July 27, 2025), including counsel's assessment that the Macron lawsuit should be dismissed for forum non conveniens, citing host's Tennessee domicile, lack of Delaware defamation, witnesses in Tennessee, and Macron parties not being Delaware citizens.",
+   "label": "Displayed private communication between host and her legal team (July 27, 2025), including counsel's assessment that the Macron lawsuit should be dismissed for forum non conveniens, citing host's Tennessee domicile, lack of Delaware defamation, witnesses in Tennessee, and Macron parties not being Delaware citizens.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:18:38"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3188, N-3, N-10270*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1447",
+   "header": "**A-1447** Shawn Ryan Interview Clip Family",
+   "label": "Shawn Ryan Interview Clip Family",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1447.1",
+   "header": "**A-1447.1** Audio/video clip from the Shawn Ryan show featuring Brian Harpole (Turning Point USA head of security), including his reading of the Flood–Long text exchange and his characterization of his communication with UVU Police Chief Jeff Long.",
+   "label": "Audio/video clip from the Shawn Ryan show featuring Brian Harpole (Turning Point USA head of security), including his reading of the Flood–Long text exchange and his characterization of his communication with UVU Police Chief Jeff Long.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:34:36"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3214, N-266, N-270, N-271, N-224, N-10272*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1448",
+   "header": "**A-1448** Flood–Long Text Message Family",
+   "label": "Flood–Long Text Message Family",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1448.1",
+   "header": "**A-1448.1** Text exchange between Dan Flood (Turning Point USA security) and UVU Police Chief Jeff Long, read aloud by Brian Harpole during the Shawn Ryan interview, covering student roof access at the Sorensen Center (with staircases to walkways/roofs), the request for controlled access or TP personnel presence, and Chief Long's response \"I got you covered.\"",
+   "label": "Text exchange between Dan Flood (Turning Point USA security) and UVU Police Chief Jeff Long, read aloud by Brian Harpole during the Shawn Ryan interview, covering student roof access at the Sorensen Center (with staircases to walkways/roofs), the request for controlled access or TP personnel presence, and Chief Long's response \"I got you covered.\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:34:36"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3214, C-3215, N-266, N-270, N-271, N-10272*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1449",
+   "header": "**A-1449** KUTV News Investigating Clip Family",
+   "label": "KUTV News Investigating Clip Family",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1449.1",
+   "header": "**A-1449.1** Audio/video clip of KUTV investigative report on missing Washington County Sheriff's office surveillance footage of Tyler Robinson, including Sheriff Nate Brooksby's September 17, 2025 press conference (\"Our job was not to interview. Our job was just to get him here\" / \"Within the hour, my friend drove Tyler and his parents to my office where he was greeted by plain clothes detectives\"), records-request responses stating no records responsive and Robinson \"did not go to the jail area,\" and the later response citing the \"30-day retention period.\"",
+   "label": "Audio/video clip of KUTV investigative report on missing Washington County Sheriff's office surveillance footage of Tyler Robinson, including Sheriff Nate Brooksby's September 17, 2025 press conference (\"Our job was not to interview. Our job was just to get him here\" / \"Within the hour, my friend drove Tyler and his parents to my office where he was greeted by plain clothes detectives\"), records-request responses stating no records responsive and Robinson \"did not go to the jail area,\" and the later response citing the \"30-day retention period.\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:41:28"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3225, C-3226, C-3227, N-272, N-10271*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1450",
+   "header": "**A-1450** Tucker Carlson SAS Speech Clip Family",
+   "label": "Tucker Carlson SAS Speech Clip Family",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1450.1",
+   "header": "**A-1450.1** Audio/video clip of Tucker Carlson speech at Turning Point USA event (July 18, 2025), criticizing crony wealth, naming Bill Ackman, citing Jeffrey Epstein's multiple Gulf Streams and properties, and arguing wealth in America is not merit-based.",
+   "label": "Audio/video clip of Tucker Carlson speech at Turning Point USA event (July 18, 2025), criticizing crony wealth, naming Bill Ackman, citing Jeffrey Epstein's multiple Gulf Streams and properties, and arguing wealth in America is not merit-based.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:14:15"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3183, N-existing (Tucker Carlson – existing series node)*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2723",
+   "header": "**A-2723** Host Timeline Graphic Bundle",
+   "label": "Host Timeline Graphic Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2723.1",
+   "header": "**A-2723.1** On-screen timeline of dates from March 2024 to September 2025 that the host walks through (Macron episode, firing, cease and desist letters, Satys announcement, interviews, plane stays), introduced as \"we're going to bring that up here because I like timelines\"",
+   "label": "On-screen timeline of dates from March 2024 to September 2025 that the host walks through (Macron episode, firing, cease and desist letters, Satys announcement, interviews, plane stays), introduced as \"we're going to bring that up here because I like timelines\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:07:30"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3160, C-3164, C-3167, C-3170, C-3171, C-3172, C-3173, C-3161, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2724",
+   "header": "**A-2724** Macron Cease and Desist Email Bundle",
+   "label": "Macron Cease and Desist Email Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2724.1",
+   "header": "**A-2724.1** On-screen December 3 cease and desist email text sent to the Club Candace info inbox on behalf of the Macrons",
+   "label": "On-screen December 3 cease and desist email text sent to the Club Candace info inbox on behalf of the Macrons",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"please see attached the time-sensitive legal correspondence sent on behalf of our clients President Emmanuel Macron and Bjit Macron.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:08:14"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3165, N-3, N-82, N-377, N-11011*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2725",
+   "header": "**A-2725** Satys Hangar Article Bundle",
+   "label": "Satys Hangar Article Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2725.1",
+   "header": "**A-2725.1** Article about Satys signing a Wilmington hangar lease, paraphrased by the host (\"Elsewhere in that article, it tells us that um it's a French multinational company that specializes in the painting of aircrafts\")",
+   "label": "Article about Satys signing a Wilmington hangar lease, paraphrased by the host (\"Elsewhere in that article, it tells us that um it's a French multinational company that specializes in the painting of aircrafts\")",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"it's a French multinational company that specializes in the painting of aircrafts, and they plan to open for business in a hanger not far from Wilmington Airport come the new year.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:09:25"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3169, N-11008, N-10269*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2726",
+   "header": "**A-2726** Paris Design Week Photograph Bundle",
+   "label": "Paris Design Week Photograph Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2726.1",
+   "header": "**A-2726.1** Host verbal reference to photographs of Brigitte Macron with the Minister of Culture at Paris Design Week on September 3 (\"We have that\"; not clearly shown)",
+   "label": "Host verbal reference to photographs of Brigitte Macron with the Minister of Culture at Paris Design Week on September 3 (\"We have that\"; not clearly shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:20:40"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3195, N-82, N-10294*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2727",
+   "header": "**A-2727** Viewer Comments Bundle",
+   "label": "Viewer Comments Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2727.1",
+   "header": "**A-2727.1** Viewer comment from VBVC read aloud about Ron Paul speaking out about Charlie Kirk's death",
+   "label": "Viewer comment from VBVC read aloud about Ron Paul speaking out about Charlie Kirk's death",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Just know that Ron Paul has used his platform to speak about it. His friend Charlie Kirk questioning the official narrative and if dark forces are responsible on 916 2025, no one is as loud as you, but Ron is a real one, too.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:51:14"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3240, C-3241, N-710, N-1, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2728",
+   "header": "**A-2728** Tips Box .306 Injury Photo Bundle",
+   "label": "Tips Box .306 Injury Photo Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2728.1",
+   "header": "**A-2728.1** Host verbal reference to a photo and description of a .306 hunting-accident injury sent to the tips box; the host declines to share it",
+   "label": "Host verbal reference to a photo and description of a .306 hunting-accident injury sent to the tips box; the host declines to share it",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:53:24"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3244, C-3245, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2729",
+   "header": "**A-2729** Decentralized Intelligence Agency Tip Line Bundle",
+   "label": "Decentralized Intelligence Agency Tip Line Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2729.1",
+   "header": "**A-2729.1** Host verbal reference to the tips email address at the end of the episode (verbal call for tips)",
+   "label": "Host verbal reference to the tips email address at the end of the episode (verbal call for tips)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"email us more tips at candacewowens. com.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:54:41"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3248, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 4. Node Register",
+    ""
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-266",
+   "header": "**N-266** Brian Harpole",
+   "label": "Brian Harpole",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Turning Point USA head of security; appeared on Shawn Ryan show and is alleged by host to have misrepresented the provenance of text messages read during that interview."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1447.1, A-1448.1, C-3214, N-10272*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-270",
+   "header": "**N-270** Dan Flood",
+   "label": "Dan Flood",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Turning Point USA security figure identified as the author of the text exchange to Chief Jeff Long about Sorensen Center rooftop access."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1448.1, C-3215, N-10272*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-271",
+   "header": "**N-271** Jeff Long",
+   "label": "Jeff Long",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "UVU Police Chief identified as correspondent in the Flood text exchange; subject of host's allegation that Harpole misrepresented the communication channel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1448.1, C-3215, N-10272*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-224",
+   "header": "**N-224** Shawn Ryan",
+   "label": "Shawn Ryan",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host of the interview platform on which Brian Harpole appeared; identified by host as having \"got played\" by the Harpole appearance."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1447.1, N-266*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-272",
+   "header": "**N-272** Nate Brooksby",
+   "label": "Nate Brooksby",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Washington County Sheriff who held the September 17, 2025 press conference at which he stated \"Our job was not to interview. Our job was just to get him here\" and that \"my friend drove Tyler and his parents to my office where he was greeted by plain clothes detectives.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "3"
+    },
+    {
+     "k": "Claim Count",
+     "v": "3"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1449.1, C-3225, C-3226, C-3227, N-10271*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-67",
+   "header": "**N-67** Mark Herman (director, Candace show)",
+   "label": "Mark Herman (director, Candace show)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here, in comments, the host asks him what classifies someone as a dignitary and he answers that it is a broad term covering senior government figures, aides, and even religious leaders. No claim anchor; registered for cross-episode continuity."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: None*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10270",
+   "header": "**N-10270** Macron Defamation Lawsuit Delaware Venue Question",
+   "label": "Macron Defamation Lawsuit Delaware Venue Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Persistent investigative target regarding why the Macron defamation suit was filed in Delaware despite host's Tennessee domicile and lack of Delaware-based defamation; intersects with the Wilmington Satys hanger, 920 King Street facility, and the host's broader \"France angle.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1445.1, A-1446.1, C-3176, C-3188, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10271",
+   "header": "**N-10271** Tyler Robinson Washington County Surveillance Footage Gap",
+   "label": "Tyler Robinson Washington County Surveillance Footage Gap",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Persistent investigative target regarding the unavailability of surveillance footage of Tyler Robinson at the Washington County Sheriff's office, including the 30-day retention explanation and Washington County's denial that footage was shared with involved agencies."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "3"
+    },
+    {
+     "k": "Claim Count",
+     "v": "3"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1449.1, C-3225, C-3226, C-3227, N-272*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10272",
+   "header": "**N-10272** Harpole–Flood Text Attribution Discrepancy",
+   "label": "Harpole–Flood Text Attribution Discrepancy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Persistent investigative target regarding host's assertion that Brian Harpole presented text messages between Dan Flood and UVU Police Chief Jeff Long using phrasing consistent with claiming them as his own communications during the Shawn Ryan interview."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1447.1, A-1448.1, C-3214, C-3215, N-266, N-270, N-271*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-1",
+   "header": "**N-1** Charlie Kirk",
+   "label": "Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of the relayed White House request, the Tucker Carlson SAS event, the Hamptons retreat and the UVU security discussion."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3153, C-3162, C-3163, C-3174, C-3175, C-3179, C-3182, C-3184*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-3",
+   "header": "**N-3** Candace Owens",
+   "label": "Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host; narrates the timeline and speaks for herself throughout."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3152, C-3153, C-3154, C-3155, C-3156, C-3157, C-3159, C-3160*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-5",
+   "header": "**N-5** Donald Trump",
+   "label": "Donald Trump",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named in the host's account of the Macron meeting, the February 26 call and the dignitary discussion."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3175, C-3179, C-3246*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-9",
+   "header": "**N-9** Jeffrey Epstein",
+   "label": "Jeffrey Epstein",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named in Tucker Carlson's SAS remarks and in the host's comparison to multiple passports."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3182, C-3199*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-14",
+   "header": "**N-14** Andrew Kolvet",
+   "label": "Andrew Kolvet",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host says he told her 'it was supposed to be you' and warned of a list."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3154, C-3155*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-16",
+   "header": "**N-16** Sergio Gor",
+   "label": "Sergio Gor",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host says he called February 25, 2025 asking her to stop speaking about Brigitte Macron."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3178*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-22",
+   "header": "**N-22** Tucker Carlson",
+   "label": "Tucker Carlson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host says he was on the warning list with her, was hosted by Kirk at SAS and discussed the Macron case with her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3155, C-3156, C-3182, C-3189, C-3190*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-36",
+   "header": "**N-36** Benjamin Netanyahu",
+   "label": "Benjamin Netanyahu",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host says he offered to take Turning Point to the next level financially."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3193*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-37",
+   "header": "**N-37** Bill Ackman",
+   "label": "Bill Ackman",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named as disputing Kirk's account of the Hamptons retreat."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3192*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-38",
+   "header": "**N-38** Seth Dillon",
+   "label": "Seth Dillon",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named as disputing Kirk's account of the Hamptons retreat."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3192*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-40",
+   "header": "**N-40** Tyler Robinson",
+   "label": "Tyler Robinson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of the KUTV footage report and the host's retelling of the official account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3224, C-3228, C-3229, C-3230, C-3233, C-3234, C-3235, C-3236*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-42",
+   "header": "**N-42** George Zinn",
+   "label": "George Zinn",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named among people in the Kirk story the host links to child sex abuse history."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3209*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-69",
+   "header": "**N-69** Kash Patel",
+   "label": "Kash Patel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host says an article about him blocking Tulsi Gabbard's office cost him her trust."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3243*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-82",
+   "header": "**N-82** Brigitte Macron",
+   "label": "Brigitte Macron",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of the host's investigation, the cease and desist letters and the Paris Design Week timeline."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3153, C-3160, C-3161, C-3165, C-3187, C-3190, C-3195, C-3196*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-283",
+   "header": "**N-283** Xavier Poussard",
+   "label": "Xavier Poussard",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Author of the Becoming Brigitte book whom the host interviewed in London on December 21, 2024."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3165, C-3166, C-3171, C-3173, C-3202, C-3204*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-329",
+   "header": "**N-329** Tulsi Gabbard",
+   "label": "Tulsi Gabbard",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named in the host's comment about Kash Patel blocking her office."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3243*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-377",
+   "header": "**N-377** Emmanuel Macron",
+   "label": "Emmanuel Macron",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named in the cease and desist, the July legal threat and the Delaware suit."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3165, C-3168, C-3175, C-3181, C-3187, C-3200*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10000",
+   "header": "**N-10000** Turning Point USA",
+   "label": "Turning Point USA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Organization cited in the host's claims about security staff, the UVU request and its leaks."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3154, C-3163, C-3182, C-3184, C-3191, C-3213, C-3217, C-3218*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10001",
+   "header": "**N-10001** MK Ultra",
+   "label": "MK Ultra",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Program the host says Macron's lawsuit cited 18 times and which her team explored."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3200, C-3201, C-3203*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10012",
+   "header": "**N-10012** Utah Valley University",
+   "label": "Utah Valley University",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Venue of the event; host says the school warned TPUSA about traffic control."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3184, C-3191*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10020",
+   "header": "**N-10020** Weapon Disassembly/Reassembly Claim",
+   "label": "Weapon Disassembly/Reassembly Claim",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic on the weapon; related here to the host's smaller-weapon conclusion."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3245*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10028",
+   "header": "**N-10028** Utah Valley University Campus",
+   "label": "Utah Valley University Campus",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Place of the Sorensen Center, Hall of Flags and rooftops."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3216, C-3217, C-3235*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10029",
+   "header": "**N-10029** Washington County Sheriff's Office",
+   "label": "Washington County Sheriff's Office",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Agency whose surveillance and holding-room video is unavailable per the KUTV report."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3224, C-3228, C-3229, C-3230, C-3231, C-3232*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10045",
+   "header": "**N-10045** Stanford Psychology Family Pattern",
+   "label": "Stanford Psychology Family Pattern",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic tied to the host's Stanford hypothesis."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3201, C-3204*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10051",
+   "header": "**N-10051** Dairy Queen 6:38 Photo Verification",
+   "label": "Dairy Queen 6:38 Photo Verification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic on the Dairy Queen photo; related to the host's retelling."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3236*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10116",
+   "header": "**N-10116** MK Ultra Continuity Theory",
+   "label": "MK Ultra Continuity Theory",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic on the host's MK Ultra line of investigation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3200, C-3201, C-3203, C-3204*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10134",
+   "header": "**N-10134** Hamptons Weekend Retreat",
+   "label": "Hamptons Weekend Retreat",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic for the August 2025 Hamptons retreat."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3192*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10145",
+   "header": "**N-10145** UVU Campus Familiarity Question",
+   "label": "UVU Campus Familiarity Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic on Robinson's prior familiarity with campus."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3235*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10175",
+   "header": "**N-10175** UVU Left-Side Footage Black Hole",
+   "label": "UVU Left-Side Footage Black Hole",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic on missing or sparse footage; related to the roof video chain."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3220, C-3221, C-3222, C-3223*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10197",
+   "header": "**N-10197** TPUSA Military-Personnel Network",
+   "label": "TPUSA Military-Personnel Network",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic on military ties around TPUSA events."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3157, C-3213, C-3222*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10224",
+   "header": "**N-10224** UVU Event Approval Timeline Anomaly",
+   "label": "UVU Event Approval Timeline Anomaly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic on the late UVU speaking request."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3184*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10243",
+   "header": "**N-10243** UVU Outdoor Venue Selection Discrepancy",
+   "label": "UVU Outdoor Venue Selection Discrepancy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic on the venue choice against UVU advice."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3191*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10246",
+   "header": "**N-10246** Calvary Chapel Institutional Abuse Pattern",
+   "label": "Calvary Chapel Institutional Abuse Pattern",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic on Calvary Chapel abuse scandals."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3209*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10253",
+   "header": "**N-10253** Egyptian Military Plane Tracking Investigation",
+   "label": "Egyptian Military Plane Tracking Investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing umbrella topic for the Egyptian plane tracking."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3152, C-3185, C-3198*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10261",
+   "header": "**N-10261** UVU Pre-9/10 Rooftop Sightings",
+   "label": "UVU Pre-9/10 Rooftop Sightings",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic on rooftop sightings and access."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3218, C-3220*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10265",
+   "header": "**N-10265** 920 North King Street / 1 Rodney Square Federal Facility",
+   "label": "920 North King Street / 1 Rodney Square Federal Facility",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic for the Wilmington federal building."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3159*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10266",
+   "header": "**N-10266** SUBTT Wilmington Visit Pattern",
+   "label": "SUBTT Wilmington Visit Pattern",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic on SUBTT's stops in Wilmington."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3158, C-3159, C-3185, C-3186, C-3187, C-3194, C-3197, C-3205*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10268",
+   "header": "**N-10268** AmFest Speaker Removal Pattern",
+   "label": "AmFest Speaker Removal Pattern",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic on speakers removed from AmFest."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3163*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10269",
+   "header": "**N-10269** Wilmington Airport Hangar Federal Connection",
+   "label": "Wilmington Airport Hangar Federal Connection",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic on the hangar and its federal links."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3152, C-3158, C-3167, C-3168, C-3169, C-3205, C-3206*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10284",
+   "header": "**N-10284** 920 North King Street Federal Presence",
+   "label": "920 North King Street Federal Presence",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic on the federal agencies at 920 King Street."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3159, C-3206, C-3211, C-3246, C-3247*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10294",
+   "header": "**N-10294** Brigitte Macron Schedule Gap September 4–10, 2025",
+   "label": "Brigitte Macron Schedule Gap September 4–10, 2025",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic on Brigitte Macron's schedule in early September 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3195, C-3196, C-3197*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10316",
+   "header": "**N-10316** France / Macron Couple Involvement in Kirk Assassination",
+   "label": "France / Macron Couple Involvement in Kirk Assassination",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic on a possible France link."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3153*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10336",
+   "header": "**N-10336** Tyler Robinson First In-Person Court Appearance Details",
+   "label": "Tyler Robinson First In-Person Court Appearance Details",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic on Robinson's court appearance format."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3234*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10337",
+   "header": "**N-10337** Tyler Robinson Prosecution Evidence Base",
+   "label": "Tyler Robinson Prosecution Evidence Base",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic on the prosecution's evidence."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3237*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10342",
+   "header": "**N-10342** Bibi Netanyahu TPUSA Funding Offer",
+   "label": "Bibi Netanyahu TPUSA Funding Offer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic on Netanyahu's alleged funding offer."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3193*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10345",
+   "header": "**N-10345** Hampton Retreat Seth Dillon Confrontation",
+   "label": "Hampton Retreat Seth Dillon Confrontation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic on the Hamptons retreat confrontation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3192*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10355",
+   "header": "**N-10355** Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute",
+   "label": "Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic on the Patel and Gabbard dispute."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3243*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10853",
+   "header": "**N-10853** Dairy Queen Timestamp UTC vs MST Reconciliation",
+   "label": "Dairy Queen Timestamp UTC vs MST Reconciliation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic on the Dairy Queen timestamp."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3236*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10862",
+   "header": "**N-10862** Harpole Shawn Ryan Statements vs Independent Review Findings",
+   "label": "Harpole Shawn Ryan Statements vs Independent Review Findings",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic on Harpole's Shawn Ryan statements."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3212*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-708",
+   "header": "**N-708** Tom Clare",
+   "label": "Tom Clare",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "09:25 in episode 36. Described as having sent a December 18, 2024 follow-up email about the cease and desist; his role is not stated in the episode.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3170*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-709",
+   "header": "**N-709** Volodymyr Zelensky",
+   "label": "Volodymyr Zelensky",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "20:40 in episode 36, transcribed as \"Zilinski\" and \"Zalinski\". Identification as Volodymyr Zelensky is inferred from \"President\" and the Ukraine leaders' meeting.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3196*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-710",
+   "header": "**N-710** Ron Paul",
+   "label": "Ron Paul",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "First named in a viewer comment read by the host at 00:51:14 in episode 36."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3240, C-3241*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11008",
+   "header": "**N-11008** Satys",
+   "label": "Satys",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "French aircraft-painting company, rendered Satys in the transcript, that announced a December 2024 deal for a Wilmington, Delaware hangar. The host says its CEO knows Emmanuel Macron and that her source and a tip show it was a front rather than a maintenance base."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3152, C-3158, C-3167, C-3168, C-3169, C-3205, C-3210, C-3211*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11009",
+   "header": "**N-11009** Hall of Flags Activity Question",
+   "label": "Hall of Flags Activity Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Persistent investigative target on what was happening in the Hall of Flags at UVU on September 10, 2025, why Turning Point security focused on controlled access there, and why a student posting videos was inside it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3219, C-3223*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11010",
+   "header": "**N-11010** Lay-Low List Warning",
+   "label": "Lay-Low List Warning",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Persistent investigative target on the warnings the host says she received on September 10, 2025 that a list included her and Tucker Carlson and that they should lay low, and on who originated them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3155, C-3156*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11011",
+   "header": "**N-11011** Macron Cease and Desist and Legal Timeline",
+   "label": "Macron Cease and Desist and Legal Timeline",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Dated timeline of the Macron side's cease and desist letters, the Becoming Brigitte releases, the lawsuit threats and related events, as walked through by the host."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3160, C-3161, C-3164, C-3165, C-3170, C-3171, C-3172, C-3173*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11012",
+   "header": "**N-11012** Tyler Robinson Surrender Narrative Dispute",
+   "label": "Tyler Robinson Surrender Narrative Dispute",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Persistent investigative target on how Tyler Robinson came into custody, including the father-turned-in story the host disputes and the missing sheriff's-office surrender footage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3224*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 5. Claim Register",
+    ""
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3176",
+   "header": "**C-3176** White House Contacted Candace Owens via Charlie Kirk About Macron Topic (Feb 24, 2025)",
+   "label": "White House Contacted Candace Owens via Charlie Kirk About Macron Topic (Feb 24, 2025)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:20"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The displayed text exchange documents Charlie Kirk informing Candace Owens that \"the White House\" asked him to call her, with Kirk characterizing himself as \"just the messenger here, but it's important.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1445.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10270"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Authenticate text message metadata; identify the specific White House staffer or office referenced; cross-reference with White House call logs."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3177",
+   "header": "**C-3177** Charlie Kirk Stated POTUS Might Call Candace Owens Directly (Feb 25, 2025)",
+   "label": "Charlie Kirk Stated POTUS Might Call Candace Owens Directly (Feb 25, 2025)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:20"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The displayed text exchange documents Charlie Kirk informing host that \"The White House just asked for your number FYI. I think POTUS might call you.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1445.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10270"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Cross-reference with the host's separately claimed Feb 26 Trump call; verify call records; confirm POTUS-side initiator."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3188",
+   "header": "**C-3188** Host's Legal Team Identified No Delaware Jurisdiction Basis in Macron Lawsuit (July 27, 2025)",
+   "label": "Host's Legal Team Identified No Delaware Jurisdiction Basis in Macron Lawsuit (July 27, 2025)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Displayed legal-team communication says they will likely move to dismiss or stay the Macron lawsuit as inconvenient to litigate in Delaware, citing that the host is in Tennessee, her Delaware companies did not defame anyone, the witnesses are in Tennessee, and the Macrons are not citizens of Delaware."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1446.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-82, N-377"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10270"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the underlying court filings and motion-to-dismiss documents; verify jurisdictional analysis against Macron Delaware corporate registrations; check final ruling on motion."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3214",
+   "header": "**C-3214** Brian Harpole Presented Flood–Long Text Exchange as His Own Communication",
+   "label": "Brian Harpole Presented Flood–Long Text Exchange as His Own Communication",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Host asserts Brian Harpole described the Dan Flood–Jeff Long text exchange using phrasing consistent with presenting it as his own correspondence, rather than identifying it as a Flood–Long exchange."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1447.1, A-1448.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-266, N-270, N-271"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10272"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare full Shawn Ryan interview transcript with authenticated text-message records; verify who authored and received the communications."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3215",
+   "header": "**C-3215** Harpole Clip Presents Flood–Long Text Exchange on Student Roof Access at Sorensen Center",
+   "label": "Harpole Clip Presents Flood–Long Text Exchange on Student Roof Access at Sorensen Center",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip the host plays, Brian Harpole presents what the host says is a text exchange between Dan Flood and Chief Long about student roof access (Sorensen Center staircases to walkways/roofs near the CK setup), asking for either controlled access or one of his guys to be there, with Chief Long's last reply \"I got you covered.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1448.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-266, N-270, N-271"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10272"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Authenticate text records via UVU and Turning Point; cross-reference with UVU Police event-day access logs and rooftop control measures."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3225",
+   "header": "**C-3225** Washington County Sheriff's Office States Tyler Robinson Surveillance Footage No Longer Available",
+   "label": "Washington County Sheriff's Office States Tyler Robinson Surveillance Footage No Longer Available",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:41:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "KUTV investigative report documents that Washington County Sheriff's office responded to records requests stating there were no records responsive to requests for surveillance footage of Tyler Robinson at the facility."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1449.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-40"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10271"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Submit additional GRAMA requests; check for court-issued preservation orders; verify chain-of-custody with other involved agencies."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3226",
+   "header": "**C-3226** Washington County Cites 30-Day Retention Period for Footage Unavailability",
+   "label": "Washington County Cites 30-Day Retention Period for Footage Unavailability",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:41:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Washington County Sheriff's office response to the generalized records request, as reported by KUTV, stated that \"the surveillance footage is no longer available after the 30-day retention period.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1449.1"
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10271"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain Washington County's written retention policy; verify standard practice for high-profile cases; check whether Utah County or any other agency holds preserved copies."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3227",
+   "header": "**C-3227** Brooksby Statement: Friend Drove Tyler Robinson and Parents to Sheriff's Office",
+   "label": "Brooksby Statement: Friend Drove Tyler Robinson and Parents to Sheriff's Office",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:41:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Washington County Sheriff Nate Brooksby, in his September 17, 2025 press conference as reported by KUTV, stated: \"Within the hour, my friend drove Tyler and his parents to my office where he was greeted by plain clothes detectives.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1449.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-272, N-40"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10271"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Cross-reference Brooksby's account with charging documents, defense filings, witness statements, and any subsequent corrections."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3183",
+   "header": "**C-3183** Tucker Carlson Criticized Epstein-Connected and Crony Wealth at Turning Point Event (July 18, 2025)",
+   "label": "Tucker Carlson Criticized Epstein-Connected and Crony Wealth at Turning Point Event (July 18, 2025)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:15"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The played audio clip documents Tucker Carlson at a Turning Point event criticizing Epstein-connected wealth (Gulf Streams, island, ranch, NYC residence), naming Bill Ackman, and arguing U.S. wealth is not merit-based."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1450.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-22, N-37, N-9"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain full speech transcript and video; verify exact date, venue, and audience; cross-reference with TPUSA's own published event materials."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3239",
+   "header": "**C-3239** Host invokes decentralized intelligence (near-DIA framing)",
+   "label": "Host invokes decentralized intelligence (near-DIA framing)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:51:14"
+    },
+    {
+     "k": "Claim",
+     "v": "The host uses near-DIA wording (\"decentralized intelligence\") to describe crowd-sourced investigative capacity, without the full agency brand line in this beat."
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "...cause that's what it's going to take. We have the decentralized intelligence. Um, Adra writes, \"Thank you for not giving up and showing no mercy to the elite. We support you. T..."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3152",
+   "header": "**C-3152** Host Says Source Proved French Company Was Not for Egyptian Plane Maintenance",
+   "label": "Host Says Source Proved French Company Was Not for Egyptian Plane Maintenance",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:00:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says a source proved to her that the French company in Delaware was not established to maintain the Egyptian planes and was more than likely a front for something else."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "our source proved to us that it certainly wasn't established to provide any maintenance to those Egyptian planes and it was more than likely a front for something else."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11008, N-10253, N-10269"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain Satys corporate filings, the hangar lease and any maintenance contract; ask the source to document the claim that no maintenance work was performed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3153",
+   "header": "**C-3153** Host Says Charlie Kirk Called to Tell Her They Wanted Her to Stop on Brigitte",
+   "label": "Host Says Charlie Kirk Called to Tell Her They Wanted Her to Stop on Brigitte",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:00:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says it was Charlie Kirk who called her and told her that 'they' wanted her to stop speaking about the Brigitte Macron story, and that the open question is who 'they' is."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it was Charlie Kirk that called me and told me that they wanted me to stop speaking about Brigitte."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3, N-82"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10316"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the host's phone records and messages with Charlie Kirk for the relevant dates; identify who 'they' refers to from the texts or witnesses."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3154",
+   "header": "**C-3154** Host Says Kolvet Told Her It Was Supposed to Be Her",
+   "label": "Host Says Kolvet Told Her It Was Supposed to Be Her",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:24"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that maybe 72 hours at most after the assassination Andrew Kolvet told her on the phone, 'Candace, it was supposed to be you,' which she first took as grief bargaining and now questions."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He said, and I quote, \"Candace, it was supposed to be you. It was supposed to be you.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask Kolvet to confirm or deny the statement; obtain the host's call logs for the days after September 10, 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3155",
+   "header": "**C-3155** Host Says Kolvet Warned of a List With Her and Tucker Carlson on September 10",
+   "label": "Host Says Kolvet Warned of a List With Her and Tucker Carlson on September 10",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that on September 10, while Charlie Kirk was in the hospital, the caller she has just been discussing (Andrew Kolvet, per context) told her there was a list with her and Tucker Carlson on it and that they had to lay low, but never said who told him; she says she never got a call from the feds about it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he told me that there was a list and that me and Tucker Carlson were on it and that we had to lay low."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-22, N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11010"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask Kolvet who supplied the list and what it contained; compare with the host's call logs for September 10, 2025. Check the 'he' referent against the earlier-episode account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3156",
+   "header": "**C-3156** Host Says a Woman Married to a CIA Contractor Gave the Same Warning",
+   "label": "Host Says a Woman Married to a CIA Contractor Gave the Same Warning",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says another very well-known woman, who is married to a CIA contractor, called and gave the same message about her and Tucker Carlson on the day of the assassination, and the host will not name the source."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Another person was a very well-known woman who happens to be married to a CIA contractor."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-22"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11010"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Only testable through the host's source; ask her to say whether the caller will confirm on the record."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3157",
+   "header": "**C-3157** Host Says Virtually Everyone There That Day Had Military Ties",
+   "label": "Host Says Virtually Everyone There That Day Had Military Ties",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:48"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that as she looks into the story she realizes that virtually everybody there that day has military ties, which leads her to wonder whether the warning came from a globalized government."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "now that we've gotten into the story and realize that virtually everybody there that day has these military ties"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10197"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "List the individuals the host counts as present and document each person's military service record."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3158",
+   "header": "**C-3158** Host Says Satys Leased the Hangar for Only Two Years and the Egyptian Plane Began Landing There",
+   "label": "Host Says Satys Leased the Hangar for Only Two Years and the Egyptian Plane Began Landing There",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:48"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says a French company, which she says her source calls a front, leased a hangar in Wilmington for only two years and that the hangar immediately became a location where the Egyptian military plane landed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "suddenly this French company comes in and purchases leases a hanger for only two years okay and during immediately this becomes a location where our Egyptian military plane is going to land"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11008, N-10269, N-10266"
+    },
+    {
+     "k": "Supports",
+     "v": "C-3073"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the Delaware River and Bay Authority lease, its term and signing date; compare with SUBTT landing records at the hangar."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3159",
+   "header": "**C-3159** Host Says Source Claimed a Foreign Dignitary Was Moved to 920 King Street",
+   "label": "Host Says Source Claimed a Foreign Dignitary Was Moved to 920 King Street",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:23"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her source claimed that after the Egyptian plane SUBTT landed at the federally monitored hangar, a foreign dignitary was discreetly moved to 920 King Street, which she says houses the DEA, FBI and Secret Service."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "a foreign dignitary was then discreetly moved to 920 King Street, which we've learned and confirmed houses the DEA, the FBI, and the Secret Service."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10284, N-10265, N-10266"
+    },
+    {
+     "k": "Supports",
+     "v": "C-3068"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain Wilmington ground-transport, customs or security records for September 10, 2025; ask the source for corroboration of the dignitary's identity."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3160",
+   "header": "**C-3160** Host Says Her First Brigitte Macron Episode Aired March 13, 2024",
+   "label": "Host Says Her First Brigitte Macron Episode Aired March 13, 2024",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she aired her first episode on Brigitte Macron on March 13, 2024, and that she was fired within days."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "It was on March 13th, 2024 that I did the very first ever episode on Brigitte Macron, right? And then wham, I am fired within 10 days."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-82"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11011"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the episode's upload date and Daily Wire's separation date against her timeline."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3161",
+   "header": "**C-3161** Host Says She Began Probing the Israel Narrative at the Same Time as the Macron Story",
+   "label": "Host Says She Began Probing the Israel Narrative at the Same Time as the Macron Story",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her life took a different turn because she began prodding the narrative on Israel at the same time, in March 2024, that she began looking into the Brigitte Macron story."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I began proddding the narrative on Israel at the exact same time that I began looking into the Brigitte Mcron story. That was in March of 2024."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-82"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11011"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the dates of the host's first Israel-critical segments with the March 13, 2024 Macron episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3162",
+   "header": "**C-3162** Host Says Charlie Kirk Publicly and Privately Defended Her After the Firing",
+   "label": "Host Says Charlie Kirk Publicly and Privately Defended Her After the Firing",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie Kirk was a staunch defender of hers and, when she was fired, backed her publicly and privately."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Charlie, of course, was a staunch defender of mine. Immediately when I got fired, publicly and privately, he held he held my back."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Collect Kirk's public statements from March 2024 and any private messages the host can authenticate."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3163",
+   "header": "**C-3163** Host Says Donors Squeezed Kirk to Remove Her From AmFest",
+   "label": "Host Says Donors Squeezed Kirk to Remove Her From AmFest",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says donors then squeezed Charlie Kirk and told him she could no longer take the stage at Turning Point's AmFest and that they wanted her off the Turning Point roster."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And then suddenly donors start to squeeze him and tell him that I can no longer hit the stage at Turning Points Amfest."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10268"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the donors and obtain AmFest speaker-invitation records or messages showing the removal."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3164",
+   "header": "**C-3164** Host Corrects Firing Date to March 19, 2024",
+   "label": "Host Corrects Firing Date to March 19, 2024",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she was fired from the Daily Wire on March 19, 2024, six days after her first Macron episode, correcting her earlier statement of ten days."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "March 19th, just six days later, I'm fired from a Daily Wire. I thought it was 10. It's actually six days later I get fired from a Daily Wire."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2723.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11011"
+    },
+    {
+     "k": "Revises",
+     "v": "C-3160"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check Daily Wire's announcement of the separation against March 19, 2024."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3165",
+   "header": "**C-3165** Host Says First Cease and Desist Arrived December 3 at an Unmonitored Inbox",
+   "label": "Host Says First Cease and Desist Arrived December 3 at an Unmonitored Inbox",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she received the first cease and desist letter from Brigitte Macron's lawyers on December 3, 2024, sent to a random Club Candace info inbox that was not monitored, so she did not see it at the time."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Suddenly on December 3rd before I interview him, I receive the first ever cease and desist letter from Brigitte Macron and her lawyers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2724.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-82"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11011"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the December 3, 2024 letter with email headers and the inbox log showing the address used."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3166",
+   "header": "**C-3166** Host Says Poussard Wrote the Becoming Brigitte Book and Was Never Sued for Defamation",
+   "label": "Host Says Poussard Wrote the Becoming Brigitte Book and Was Never Sued for Defamation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Xavier Poussard wrote the Becoming Brigitte book, has never been sued for defamation, and had never been on camera before she planned to interview him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Xavier Bousard is a person who wrote the becoming Brigitte book. Uh he has never been sued for defamation"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-283, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check French and US court records for any defamation suit naming Poussard."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3167",
+   "header": "**C-3167** Host Says Satys Deal Was Publicly Announced December 10, Seven Days After the Cease and Desist",
+   "label": "Host Says Satys Deal Was Publicly Announced December 10, Seven Days After the Cease and Desist",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that seven days after the December 3 cease and desist letter, on December 10, it was publicly announced that Satys (transcribed Satys), a French company, had signed a deal for a hangar in Wilmington, Delaware."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "7 days later is when it's announced that Satys that's that's when it's publicly announced that Satys that French company has inked a deal in Wilmington, Delaware for a hanger."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2723.1"
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11008, N-10269"
+    },
+    {
+     "k": "Supports",
+     "v": "C-3073"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pull the December 10, 2024 press coverage and DRBA announcement to confirm the date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3168",
+   "header": "**C-3168** Host Says Satys CEO Knows Emmanuel Macron and Signed a Two-Year Hangar Lease to Paint Planes",
+   "label": "Host Says Satys CEO Knows Emmanuel Macron and Signed a Two-Year Hangar Lease to Paint Planes",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she has confirmed that the CEO of the French company knows Emmanuel Macron and decided to sign a two-year lease on an airport hangar to paint planes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the CEO who knows Emmanuel Macron, we've confirmed that, decides they're going to sign a two-year lease for an airport hanger to do what?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-377"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11008, N-10269"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the Satys CEO by name and document the claimed acquaintance with Macron; obtain the lease terms."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3169",
+   "header": "**C-3169** Host Reads Article Describing Satys as Aircraft-Painting Company Opening in the New Year",
+   "label": "Host Reads Article Describing Satys as Aircraft-Painting Company Opening in the New Year",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says an article describes Satys as a French multinational that specializes in painting aircraft and planned to open in a hangar not far from Wilmington Airport at the start of 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it's a French multinational company that specializes in the painting of aircrafts, and they plan to open for business in a hanger not far from Wilmington Airport come the new year."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2725.1"
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11008, N-10269"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the December 2024 article and quote its description of Satys's business."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3170",
+   "header": "**C-3170** Host Says Tom Clare Sent a Follow-Up December 18 Email She Also Did Not Receive",
+   "label": "Host Says Tom Clare Sent a Follow-Up December 18 Email She Also Did Not Receive",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that on December 18, 2024, Tom Clare sent a follow-up email about the cease and desist to the same unmonitored box, so she again did not receive it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "on December 18th, Tom Clare sends another follow-up email regarding the cease and desist. And again, I don't receive it because he's sending it to this random box."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2723.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-708, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11011"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the December 18, 2024 email and its delivery headers; confirm the sender's identity and role."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3171",
+   "header": "**C-3171** Host Suspects the Cease and Desist Was Aimed at Her Planned Poussard Interview",
+   "label": "Host Suspects the Cease and Desist Was Aimed at Her Planned Poussard Interview",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her suspicion is that the Macron side knew she was moving to interview Xavier Poussard, which is why they sent the cease and desist, and that she interviewed him in London on December 21 but did not release it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I think my suspicion is they knew that I was moving to interview Xavier Bousard which I then did as you can see on the timeline on December 21st."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2723.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-283"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11011"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Establish who knew of the interview plan before December 3, 2024 and how; obtain communications between the host's team and Poussard."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3172",
+   "header": "**C-3172** Host Says Becoming Brigitte Season 1 Began January 31, 2025",
+   "label": "Host Says Becoming Brigitte Season 1 Began January 31, 2025",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the first episode of Becoming Brigitte season 1 was released January 31, 2025, and that the series went viral."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "on January 31st I release the first episode of Becoming Brigitte."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2723.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11011"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm the release date from the channel's upload record."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3173",
+   "header": "**C-3173** Host Says Poussard Sit-Down Premiered February 17, 2025",
+   "label": "Host Says Poussard Sit-Down Premiered February 17, 2025",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:24"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her sit-down interview with Xavier Poussard premiered on February 17, 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "on February 17th, we premiere my sitdown with Xavier Busousard."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2723.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-283, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11011"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm the premiere date from the upload record."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3174",
+   "header": "**C-3174** Host Says Kirk Tied the White House Request to the Ukraine Peace Deal",
+   "label": "Host Says Kirk Tied the White House Request to the Ukraine Peace Deal",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:24"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie Kirk told her that the White House request that she stop speaking about Brigitte Macron was related to the peace deal in Ukraine, and that this was ostensibly the reason."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Charlie Kirk reaches out and he tells me that the White House is asking me to stop speaking about Brigitte. And he tells me that it is related to the peace deal in Ukraine."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1445.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10270"
+    },
+    {
+     "k": "Supports",
+     "v": "C-3176"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the host's call log and any notes of the February 24, 2025 call; identify which White House staffer relayed the request."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3175",
+   "header": "**C-3175** Host Says Trump Met Emmanuel Macron on the Same Day as Kirk's Call",
+   "label": "Host Says Trump Met Emmanuel Macron on the Same Day as Kirk's Call",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:24"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says February 24, 2025, the day Charlie Kirk relayed the White House request, was the day Donald Trump met with Emmanuel Macron."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "This is the day that Donald Trump meets with Emmanuel Macron."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1445.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-5, N-377, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10270"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the White House schedule and press pool reports for February 24, 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3178",
+   "header": "**C-3178** Host Says Sergio Gor Called February 25 and Asked Her to Stop",
+   "label": "Host Says Sergio Gor Called February 25 and Asked Her to Stop",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:20"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that on February 25, 2025, Sergio Gor called and asked her to stop speaking about Brigitte Macron, and it felt more like an order than a request."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "On February 25th, actually, Sergio Gor called me and asked me to stop speaking about Brashit and it was felt more like an order than a request"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1445.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-16, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the host's call records for February 25, 2025 and ask Gor's office to confirm or deny the call."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3179",
+   "header": "**C-3179** Host Says President Trump Called February 26 and Asked Her to Stop",
+   "label": "Host Says President Trump Called February 26 and Asked Her to Stop",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:20"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that on February 26, 2025, President Trump called her and asked her to stop speaking about Brigitte Macron, and that Charlie Kirk was in the middle of the communications."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "February 26th, President Trump calls me and asks me to stop speaking about Brigitte. Now, Charlie's in the middle of this."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1445.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-5, N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10270"
+    },
+    {
+     "k": "Supports",
+     "v": "C-3177"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the host's call logs for February 26, 2025 and any White House call schedule entries."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3180",
+   "header": "**C-3180** Host Says She Agreed to Stay Quiet for a While Over Ukraine Concerns",
+   "label": "Host Says She Agreed to Stay Quiet for a While Over Ukraine Concerns",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that after the series ended she agreed to be quiet about the Macron story for a while because it was no longer relevant and she did not want Christian men killed in Ukraine because she would not keep quiet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I'll agree to be quiet about this for a while uh because it's not no longer relevant and I don't want like Christian men to be slaughtered um in Ukraine"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Establish when the host stopped covering the story and to whom she communicated the agreement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3181",
+   "header": "**C-3181** Host Says Macron Side Sent Another Legal Threat on July 1",
+   "label": "Host Says Macron Side Sent Another Legal Threat on July 1",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Macron side sent another legal threat on July 1, 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "on July 1st, Macron sends another legal threat"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-377, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10270"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the July 1, 2025 legal letter and its addressee."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3182",
+   "header": "**C-3182** Host Says Kirk Hosted Tucker Carlson at SAS July 18 and Told Him to Go Max",
+   "label": "Host Says Kirk Hosted Tucker Carlson at SAS July 18 and Told Him to Go Max",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that on July 18, 2025, Charlie Kirk hosted Tucker Carlson at SAS and told Tucker to go max on Israel and Jeffrey Epstein."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Charlie Kirk hosts Tucker Carlson at SAS. This brings in the Tucker element, right? Tucker, he tells Tucker to go Max. Call out Israel, Jeffrey Epste."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1450.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-22, N-9"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask Carlson or Kirk's staff whether Kirk gave such encouragement before the speech; check dates of the SAS event."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3184",
+   "header": "**C-3184** Host Says UVU Speaking Request Arrived Unusually Late",
+   "label": "Host Says UVU Speaking Request Arrived Unusually Late",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Turning Point UVU chapter's request for Charlie Kirk to speak came in very late in the day, which she says never happens, as Turning Point works at least a semester behind on requests; she says she has not independently verified the request and relies on local news."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the request comes in for Charlie to um speak at UVU very late in the day. Never happens this way."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10012, N-10224"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the UVU event application and approval records with timestamps, and the chapter's request date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3185",
+   "header": "**C-3185** Host Says SUBTT Flew Cairo-Paris-Omaha With the Longest Wilmington Stay",
+   "label": "Host Says SUBTT Flew Cairo-Paris-Omaha With the Longest Wilmington Stay",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that around this time SUBTT flew from Cairo through Paris and landed in Omaha, Nebraska, and that its longest stay was in Wilmington."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "BTT then comes in to from Cairo through Paris and lands in Omaha, Nebraska. And it's the longest stay actually that they have in Wilmington."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10266, N-10253"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pull flight-tracking history for SU-BTT for July 2025, including origin airports and Wilmington ground time."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3186",
+   "header": "**C-3186** Host Says SUBTT Stayed Six Days in Wilmington From July 20 to 26",
+   "label": "Host Says SUBTT Stayed Six Days in Wilmington From July 20 to 26",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:47"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the plane stayed in Wilmington for six days, from the 20th to the 26th of July, and departed on the 26th back to Cairo."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They stay in Wilmington for six days. Okay, that happens to be from the 20th to the 26th."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10266"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm arrival and departure times at Wilmington for SU-BTT from flight-tracking and airport records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3187",
+   "header": "**C-3187** Host Says the Macrons Announced the Delaware Suit to the Financial Times During That Stay",
+   "label": "Host Says the Macrons Announced the Delaware Suit to the Financial Times During That Stay",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:47"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the period of the plane's stay is when Emmanuel and Brigitte Macron told the Financial Times they were suing her in a Delaware court, and says she is not claiming the Macrons were on the plane."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the period that Bregie and Emmanuel Macron released to the Financial Times that they are suing me in a Delaware court."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-377, N-82, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10270, N-10266"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the Financial Times article's publication time with the plane's July 20 to 26 stay."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3189",
+   "header": "**C-3189** Host Says Tucker Carlson Released an Episode With Her on August 1",
+   "label": "Host Says Tucker Carlson Released an Episode With Her on August 1",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that on August 1, 2025, the same week as the legal-team message, Tucker Carlson released an episode with her in which they discussed the Brigitte Macron case."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "moving on to August 1st same week Tucker Carlson releases an episode with me"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-22, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11011"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm the episode's release date and discussion of the Macron case."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3190",
+   "header": "**C-3190** Host Says Carlson Believes Brigitte Macron Was Born Male and the Clip Went Viral",
+   "label": "Host Says Carlson Believes Brigitte Macron Was Born Male and the Clip Went Viral",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:46"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Tucker Carlson has watched the series and believes Brigitte Macron was born male, and that this part of the episode went viral."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He believes that Bel Brigitte McRone was born a man or born a male rather."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-22, N-82"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the episode for Carlson's statement and viewership data for the clip."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3191",
+   "header": "**C-3191** Host Says UVU Warned Turning Point About No Traffic Control but TPUSA Insisted",
+   "label": "Host Says UVU Warned Turning Point About No Traffic Control but TPUSA Insisted",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:46"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that in early August Turning Point was scouting the UVU location, the school told them it was not a great place because there was no traffic control, and Turning Point and headquarters employees insisted it was the best location, which was Charlie Kirk's preferred one."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The school is telling them this is not a great place for you to host this because we there's no traffic control here."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10012, N-10243"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain UVU and TPUSA site-visit emails and security assessments from early August 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3192",
+   "header": "**C-3192** Host Says Kirk Called the Hamptons Retreat an Intervention and Ackman and Dillon Dispute It",
+   "label": "Host Says Kirk Called the Hamptons Retreat an Intervention and Ackman and Dillon Dispute It",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:46"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Hamptons retreat took place August 5 to 6, that Charlie Kirk himself described it as an intervention, and that Bill Ackman and Seth Dillon dispute that account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "That's the notorious Hampton's retreat uh that took place. Charlie himself described it as an intervention and Bill Ackman disputes that narrative."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-37, N-38"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10134, N-10345"
+    },
+    {
+     "k": "Supports",
+     "v": "C-79"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Collect Kirk's own description of the retreat and any public statements by Ackman and Dillon disputing it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3193",
+   "header": "**C-3193** Host Says Netanyahu Offered to Take Turning Point to the Next Level Financially and Kirk Declined",
+   "label": "Host Says Netanyahu Offered to Take Turning Point to the Next Level Financially and Kirk Declined",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Benjamin Netanyahu offered to take Turning Point to the next level financially and that Charlie Kirk declined the offer."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "BB Netanyahu offers to take Turning Point to the next level financially. Charlie declines that offer."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-36, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10342"
+    },
+    {
+     "k": "Supports",
+     "v": "C-84"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the host's source for the offer and any written record of the offer and its refusal."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3194",
+   "header": "**C-3194** Host Says SUBTT Stayed One Night in Wilmington on August 23",
+   "label": "Host Says SUBTT Stayed One Night in Wilmington on August 23",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says SUBTT flew its Nebraska route again around August 17 and on August 23, the day of Charlie Kirk's speaking date she cites, went through to Wilmington for one night before heading back to Cairo."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Charlie speaking on August 23rd. It again goes to through to Wilmington and it stays one night on August 23rd in Wilmington before heading back to Cairo."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10266"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Match Kirk's August 23, 2025 appearance and the plane's Wilmington overnight against flight-tracking data."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3195",
+   "header": "**C-3195** Host Says Brigitte Macron Was Photographed With the Minister of Culture on September 3",
+   "label": "Host Says Brigitte Macron Was Photographed With the Minister of Culture on September 3",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that on September 3, 2025, Paris Design Week, Brigitte Macron was photographed with the Minister of Culture, and that the SUBTT flight departed from Paris the next day."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "It's Paris Design Week and she's photographed uh with the Minister of Culture."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2726.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-82"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10294"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the dated photographs of the September 3 event and the Paris departure record for SU-BTT on September 4."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3196",
+   "header": "**C-3196** Host Says Brigitte Macron Greeted Zelensky in Paris on September 3 as 35 State Leaders Met on Ukraine",
+   "label": "Host Says Brigitte Macron Greeted Zelensky in Paris on September 3 as 35 State Leaders Met on Ukraine",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Brigitte Macron greeted President Zelensky (spelled Zilinski in the transcript) in Paris on September 3, 2025, the day 35 state leaders met to discuss Ukraine's security."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Brigitte Macron welcomes President Zalinski into Paris on September 3rd because there is this remarkable and I would assume rare, I don't know, but 35 state leaders meet to discuss Ukraine"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-82, N-709"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10294"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check Elysee schedules and press coverage for the September 3, 2025 Ukraine leaders' meeting and Brigitte Macron's attendance."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3197",
+   "header": "**C-3197** Host Says SUBTT Left Paris After September 3 and Went on to Wilmington",
+   "label": "Host Says SUBTT Left Paris After September 3 and Went on to Wilmington",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says SUBTT left Paris after the September 3 events, was going to stay six days, and then go to Wilmington, Delaware, before departing on September 11 after the assassination."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "BTT leaves from Paris and it's go time, right? This plane is now going to stay for 6 days and then it's going to go to Wilmington, Delaware."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10266, N-10294"
+    },
+    {
+     "k": "Supports",
+     "v": "C-3056"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pull SU-BTT's full flight log from September 4 through 11, 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3198",
+   "header": "**C-3198** Host Believes the Egyptian Plane Carried Non-Egyptians",
+   "label": "Host Believes the Egyptian Plane Carried Non-Egyptians",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she does not think the plane was filled with Egyptians and speculates that whether the passengers had Egyptian passports or names is another matter."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I really don't think this was an Egyptianfilled plane."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10253"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the passenger manifest and customs declarations for SU-BTT's Wilmington arrivals."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3199",
+   "header": "**C-3199** Host Says Epstein Held a Saudi Identification and Multiple Passports and Names",
+   "label": "Host Says Epstein Held a Saudi Identification and Multiple Passports and Names",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Jeffrey Epstein had a Saudi Arabian identification, multiple passports and different names, as a comparison for how foreign passengers may carry varied IDs."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Jeffrey Epstein had a Saudi Arabian totally different identification, multiple passports and different names."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-9"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the court record on the Epstein passport found in his safe and the name on it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3200",
+   "header": "**C-3200** Host Says Becoming Brigitte Season 2 Began September 8 and Macron's Lawsuit Cited MK Ultra 18 Times",
+   "label": "Host Says Becoming Brigitte Season 2 Began September 8 and Macron's Lawsuit Cited MK Ultra 18 Times",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her Becoming Brigitte season 2 started on September 8, 2025, and that Brigitte and Emmanuel Macron mentioned MK Ultra to her 18 times in the lawsuit, which struck her as odd."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Emanuel mentioning MK Ultra in the lawsuit to us 18 times struck us as odd"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-82, N-377, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10001, N-10116, N-10270"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Count the MK Ultra references in the Delaware complaint."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3201",
+   "header": "**C-3201** Host Says Her Team Asked Whether Brigitte Macron Was Involved in a Stanford Experiment With a Protected Prisoner 2093",
+   "label": "Host Says Her Team Asked Whether Brigitte Macron Was Involved in a Stanford Experiment With a Protected Prisoner 2093",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her team was trying to determine whether Brigitte Macron could have been involved in the Stanford experiment, and that a prisoner 2093 was being protected for reasons they did not know."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "whether or not it could have been Brigitte Macron that was involved in that Stanford experiment. This prisoner 2093 that was being protected."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-82"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10001, N-10045, N-10116"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Document what the team found about 'prisoner 2093' and the basis for tying that identifier to the Stanford experiment."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3202",
+   "header": "**C-3202** Host Suspects Poussard's Messages Were Being Read and Tracked",
+   "label": "Host Suspects Poussard's Messages Were Being Read and Tracked",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:51"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that if her inclination is right that Xavier Poussard's messages have been read and tracked for longer than she realized, the reason the cease and desist went out in December was to ward her off sitting down with him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Xavier Busousar's messages have been being read and tracked for longer than I even realized"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-283, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11011"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask Poussard for evidence of account compromise or forensic review of his devices."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3203",
+   "header": "**C-3203** Host Floats MK Ultra Used to Create New Identities for Serial Killers",
+   "label": "Host Floats MK Ultra Used to Create New Identities for Serial Killers",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:51"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her investigation's back-end hypothesis involved another step of the MK Ultra program being used to foster serial killers and give them new identities so they could operate in other countries."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "involving maybe another step of the MK Ultra program being used to foster serial killers and to give serial killers new identities"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10001, N-10116"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify documents or witnesses supporting the hypothesis; the host has not presented evidence on air."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3204",
+   "header": "**C-3204** Host Says the Team Perhaps Identified Brigitte Macron at Stanford at About 50-50",
+   "label": "Host Says the Team Perhaps Identified Brigitte Macron at Stanford at About 50-50",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:39"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she and Poussard thought they had perhaps identified Brigitte Macron at Stanford University, a possibility she puts at maybe 50-50, before the assassination threw them off the investigation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we thought that we had perhaps identified Brigitte Macron at Stanford University. A possibility is what I would say. We were maybe at a 50-50%"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-82, N-283, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10045, N-10116"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the identification material and the basis for the 50-50 estimate; release it for outside review."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3205",
+   "header": "**C-3205** Host Says a Tip Showed the Hangar Had No Lease From 2021 Through 2024 While the Plane Still Stopped There",
+   "label": "Host Says a Tip Showed the Hangar Had No Lease From 2021 Through 2024 While the Plane Still Stopped There",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:39"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says a tip received the day before showed the hangar had no operative lease from 2021 to the end of 2024 even though the plane kept stopping in Wilmington, so the stops were not maintenance."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "as the tip proved to us yesterday, that wasn't the case. That was a front because that had not been operative from 2021 all the way forward to to the end of 2024."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11008, N-10269, N-10266"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain DRBA hangar-lease history for 2021 to 2024 and compare with SU-BTT's Wilmington stops in that period."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3206",
+   "header": "**C-3206** Host Says the Hangar Is in Federally Controlled Waterways With Feds, Homeland Security and Contractors Cooperating",
+   "label": "Host Says the Hangar Is in Federally Controlled Waterways With Feds, Homeland Security and Contractors Cooperating",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:39"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the hangar sits in federally controlled waterways and that the building involves cooperation between the feds, Homeland Security and independent contractors who are not part of the government apparatus."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we learned that this is a building where there's cooperation uh between the feds uh homeland security and also contractors"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10269, N-10284"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the building and agencies in question from DRBA and federal property records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3207",
+   "header": "**C-3207** Host Says France Is Harassing and Debanking People Who Told the Story",
+   "label": "Host Says France Is Harassing and Debanking People Who Told the Story",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:57"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the response in France has been to harass people who came out to tell the story, ruin their lives, go after their finances and debank them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the response in France has been to start to harass people who came out and tried to tell the story to effectively ruin their lives to go after their finances to debank them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11011"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Name the individuals and obtain account-closure notices or legal filings to verify."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3208",
+   "header": "**C-3208** Host Alludes to People Tied to the Story Who Wound Up Dead",
+   "label": "Host Alludes to People Tied to the Story Who Wound Up Dead",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:57"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says there are strange circumstances around some people who tried to touch the Brigitte Macron story and wound up dead, which she says was covered in her series."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the strange circumstances of some people who have tried to touch this story and we've covered this also in our series that wound up dead."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the individuals from the series and obtain police or coroner reports; the host names none here."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3209",
+   "header": "**C-3209** Host Says Many People in the Kirk Story Have a History of Child Sex Abuse",
+   "label": "Host Says Many People in the Kirk Story Have a History of Child Sex Abuse",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:44"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says many people involved in the Charlie Kirk story have a history of child sex abuse and points, as recurring examples, to George Zinn, or the person who jumped up and screamed, or the pastors at Calvary Chapel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Whether you're talking about George Zinn or the person that jumped up and screamed or the pastors the Calvary Chapel"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-42, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10246"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Cross-check each named person against court records for abuse allegations or convictions."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3210",
+   "header": "**C-3210** Host Says She Is Receiving Tips About Satys and Will Chase Them Down",
+   "label": "Host Says She Is Receiving Tips About Satys and Will Chase Them Down",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:29:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her team is receiving a bunch of tips about the company Satys (transcribed Satys) and will chase down those leads."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We are receiving a bunch of tips about that company and we are going to chase down those leads"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11008"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the Satys tips received and publish the corroborated leads."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3211",
+   "header": "**C-3211** Host Says France Could Help by Saying Who Landed in Wilmington",
+   "label": "Host Says France Could Help by Saying Who Landed in Wilmington",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:29:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she thinks France should be able to help by saying who landed in Wilmington and was taken to 910 King, given that it decided to lease the hangar."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "could you tell us who landed in Wilmington, Delaware? and we're settled over to 910 King. I think that would be a a good start."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11008, N-10284"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Send the question to French authorities and the Satys CEO; note the transcript says 910 King, the host elsewhere says 920 King."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3212",
+   "header": "**C-3212** Host Says Harpole Told Shawn Ryan the Fault Lay With UVU Police Chief Long",
+   "label": "Host Says Harpole Told Shawn Ryan the Fault Lay With UVU Police Chief Long",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:32:51"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Brian Harpole sat down with Shawn Ryan and tried to explain things away, saying it was actually the fault of the UVU police and Chief Long."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "But this is actually the fault of UVU police, right? It's it's actually the fault of this chief long"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-266, N-224, N-271"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10862, N-10272"
+    },
+    {
+     "k": "Supports",
+     "v": "C-3214"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the full Shawn Ryan interview and compare Harpole's statements about UVU police with the text exchange."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3213",
+   "header": "**C-3213** Host Says TPUSA Security Staff Are Being Fired or Moved and Families Threatened",
+   "label": "Host Says TPUSA Security Staff Are Being Fired or Moved and Families Threatened",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:32:51"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she had a lead from inside Turning Point USA for weeks, and that security people are getting fired or moved around and their families threatened, so people in the security apparatus are starting to speak."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "security people are getting fired or getting moved around at Turning Point and people's families are getting threatened and so people in the security apparatus are starting to speak"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10197"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the affected security staff and obtain employment records or statements; ask TPUSA to confirm or deny."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3216",
+   "header": "**C-3216** Harpole Says the Sorensen Center Is the Building in Front of the Losee Center",
+   "label": "Harpole Says the Sorensen Center Is the Building in Front of the Losee Center",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:54"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip the host plays, Brian Harpole says the Sorensen Center was the building in front of the Losee Center (transcribed Sorenson and Lucy)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the Sorensen Center was the building in front of the Losee Center."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1448.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-266"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10028"
+    },
+    {
+     "k": "Supports",
+     "v": "C-3215"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check a UVU campus map for the position of the Sorensen Center relative to the Losee Center; the transcript spells the second building Lucy."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3217",
+   "header": "**C-3217** Host Says TPUSA Security Did Not Walk the Campus on Arrival",
+   "label": "Host Says TPUSA Security Did Not Walk the Campus on Arrival",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she was told early on that Turning Point security did not walk the campus when they arrived."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "not only did Turning Point not walk the campus when they got there, I'm referring to the security"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10028"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the security advance report, walk-through logs and UVU police reports for September 9 and 10."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3218",
+   "header": "**C-3218** Host Says Dan Flood Cared Mainly About Clear SUV Access Behind Charlie",
+   "label": "Host Says Dan Flood Cared Mainly About Clear SUV Access Behind Charlie",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she was told that the only thing Dan Flood apparently cared about was making sure the SUVs had clear in-and-out access behind Charlie, rather than other rooftops or walkways."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the only thing that Dan Flood apparently cared about was making sure that their SUVs had clear access behind Charlie, in-n-out access."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-270, N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10261"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the security plan and vehicle staging diagram; interview staff who attended the advance meetings."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3219",
+   "header": "**C-3219** Host Says Security Focused on Controlled Access in the Hall of Flags",
+   "label": "Host Says Security Focused on Controlled Access in the Hall of Flags",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:27"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says all Turning Point security cared about, for reasons she does not know, was controlled access in the Hall of Flags, and she wants to know what was happening there."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "All they cared about for whatever reason was the flag of halls controlled access in the flag of halls."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11009, N-10000"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Establish what the Hall of Flags access control covered and who had access on September 10, 2025 from UVU records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3220",
+   "header": "**C-3220** Host Says Only Two Videos Show the Alleged Shooter on the Roof",
+   "label": "Host Says Only Two Videos Show the Alleged Shooter on the Roof",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:39"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says there were only two videos of people who saw the alleged shooter on the roof running off, despite many people being present, and no more testimonies came out."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "there were only two videos of people really that saw the alleged shooter on the roof that sprinted off of Loi."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10261, N-10175"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Catalogue all rooftop-related videos submitted to UVU, FBI and media for September 10, 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3221",
+   "header": "**C-3221** Host Says the Two Roof Videos Reached Media Through Third and Fourth Parties",
+   "label": "Host Says the Two Roof Videos Reached Media Through Third and Fourth Parties",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:39"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the students who shot the two roof videos did not post them themselves but went through third and fourth parties, jumping through multiple hoops to get them out."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "those students who shot it didn't post it themselves. They went through thirdparty people, third, fourth party people."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10175"
+    },
+    {
+     "k": "Supports",
+     "v": "C-681"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Trace the chain of custody of each roof video from filmer to first publication."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3222",
+   "header": "**C-3222** Host Says Both Roof-Video Filmers Were in the Military or ROTC",
+   "label": "Host Says Both Roof-Video Filmers Were in the Military or ROTC",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:39"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that when her team tracked down the people who shot the two roof videos, both were in the military, which she describes as ROTC."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "both of those uh students or non- studentents were in the military, right? ROC."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10197, N-10175"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify each filmer's service or ROTC enrollment through the host's team and the filmers themselves."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3223",
+   "header": "**C-3223** Host Says the Student Who Posted Videos and Gave Them to the News Was in the Hall of Flags",
+   "label": "Host Says the Student Who Posted Videos and Gave Them to the News Was in the Hall of Flags",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Indian student she showed earlier, who posted many videos and gave them to the news, was in the Hall of Flags."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He was in the flag of Halls or the Hall of Flags, pardon me."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11009, N-10175"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the student and compare his video timestamps and location with the Hall of Flags layout."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3224",
+   "header": "**C-3224** Host Says the Father-Turned-In-Son Story Was a Lie and She Had Sources",
+   "label": "Host Says the Father-Turned-In-Son Story Was a Lie and She Had Sources",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:40:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the official story, as the feds told it, was that a friend called and Tyler Robinson's father recognized his son and turned him in, and says she told her audience that was a lie, that things did not go that way, and that she had sources."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I told you that was a lie. That's not how things went down. And I was called a liar and no one believed it. I had sources."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-40, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11012, N-10029"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the host's sources with charging documents, press-conference statements and the sheriff's timeline of the surrender."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3228",
+   "header": "**C-3228** KUTV Reporter Says Washington County Said Robinson Did Not Go to the Jail Area and Denied Holding-Room Video",
+   "label": "KUTV Reporter Says Washington County Said Robinson Did Not Go to the Jail Area and Denied Holding-Room Video",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:41:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The KUTV report says the reporter submitted a public records request for video of Tyler Robinson entering the jail, that Washington County replied there were no responsive records because Robinson did not go to the jail area, and that a request for holding-room video was denied."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Washington County responded, saying there were no records responsive to the request, as Robinson did not go to the jail area. Our request for any holding room video was denied."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1449.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-40"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10029, N-10271"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the original GRAMA request and the county's two written responses and denial reasons."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3229",
+   "header": "**C-3229** Brooksby Says the Office's Job Was Not to Interview, Just Get Tyler Robinson There",
+   "label": "Brooksby Says the Office's Job Was Not to Interview, Just Get Tyler Robinson There",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:41:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip, Washington County Sheriff Nate Brooksby says at a September 17, 2025 press conference that the office's job was not to interview and was just to get him there."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Our job was not to interview. Our job was just to get him here"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1449.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-272, N-40"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10029, N-10271"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full press-conference recording and transcript to confirm context and to whom 'him' refers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3230",
+   "header": "**C-3230** KUTV Says Robinson Was Taken Into Custody in Washington County Less Than Two Days After the Shooting",
+   "label": "KUTV Says Robinson Was Taken Into Custody in Washington County Less Than Two Days After the Shooting",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:41:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The KUTV report states that the alleged shooter was taken into custody in Washington County less than two days after the shooting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "after Charlie Kirk's alleged shooter was taken into custody in Washington County less than two days after the shooting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1449.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-40"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10029"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the booking record and arrest timestamp against the September 10 shooting time."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3231",
+   "header": "**C-3231** Unnamed Speaker in KUTV Report Says Destroyed or Undisclosed Video Is Very Concerning",
+   "label": "Unnamed Speaker in KUTV Report Says Destroyed or Undisclosed Video Is Very Concerning",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:42:24"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "An unnamed speaker in the KUTV report says it would be very concerning if the video was destroyed and not preserved, that he would have expected the county to say it was given to Utah County law enforcement, and that the response looks like an attempt to shut the door on press access."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "If in fact it has been destroyed and not preserved is very concerning. And if it has, then it's very concerning that they're telling you they don't have it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1449.1"
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10271, N-10029"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the speaker and their role from the full KUTV segment."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3232",
+   "header": "**C-3232** KUTV Says Washington County Does Not Believe the Video Was Shared With Anyone Involved in the Case",
+   "label": "KUTV Says Washington County Does Not Believe the Video Was Shared With Anyone Involved in the Case",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:42:24"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The KUTV reporter says Washington County told the reporter it does not believe the video was shared with anyone involved in the case, and it was unclear whether the video exists or was passed to another agency."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Washington County shared with me they don't believe the video was shared with anyone involved in the case."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1449.1"
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10271, N-10029"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask Utah County, the state and the FBI whether any copy of the surrender footage was received."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3233",
+   "header": "**C-3233** KUTV Speaker Says Footage of the Surrender Would Be Crucial for Defense Mitigation Work",
+   "label": "KUTV Speaker Says Footage of the Surrender Would Be Crucial for Defense Mitigation Work",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:42:24"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "A speaker in the KUTV report says getting video showing Tyler Robinson turned himself in, and the manner he did so, would be crucial for the defense's work on mitigation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "would be crucial for the defense work of mitigation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1449.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-40"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10271"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the speaker (likely a legal commentator) and check for any defense motion seeking the footage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3234",
+   "header": "**C-3234** Host Says Tyler Robinson Appears Electronically and Need Not Show His Video",
+   "label": "Host Says Tyler Robinson Appears Electronically and Need Not Show His Video",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:43:22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Tyler Robinson cannot appear in person, appears electronically, and does not have to put his video on for court hearings."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he also can't appear in person. He's appearing electronically. He doesn't have to put his video on for court hearings."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-40, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10336"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the court docket and hearing recordings for the appearance format at each hearing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3235",
+   "header": "**C-3235** Host Says the Official Account Has Robinson Never on UVU Campus Before the Day",
+   "label": "Host Says the Official Account Has Robinson Never on UVU Campus Before the Day",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that, in the official account she is mocking as the real conspiracy theory, Tyler Robinson did not attend UVU, had never been on the UVU campus, and nonetheless knew exactly where Charlie Kirk would be seated."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Tyler Robinson, who did not attend UVU, had never been on UVU campus, um, packed up his car that day"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-40, N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10145, N-10028"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check whether Robinson visited the campus before September 10 via charging documents, ticket data or camera footage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3236",
+   "header": "**C-3236** Host Recounts Official Account of Robinson Texting a Partner From Dairy Queen and Next Day",
+   "label": "Host Recounts Official Account of Robinson Texting a Partner From Dairy Queen and Next Day",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host summarizes the official account as Robinson retreating to a Dairy Queen where he texted every minute of what he did to his partner, and texting more the next day about his dad even though he was home with that partner."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He then makes a hasty retreat into a Dairy Queen where he texts every minute of what he did to his lover."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-40, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10051, N-10853"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the prosecution's text-message exhibits and Dairy Queen timestamps with the host's summary."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3237",
+   "header": "**C-3237** Host Says the Official Account Gives Robinson a 4.3 GPA While He Wrote Out the Crime",
+   "label": "Host Says the Official Account Gives Robinson a 4.3 GPA While He Wrote Out the Crime",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that despite having about a 4.3 GPA and being a boy genius in the official account, Robinson wrote every minute of the crime to his partner."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "despite the fact that he's got like a 4.3 GPA and he's like a boy genius, he decides to write every minute of the crime"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-40, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10337"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check school records or charging documents for Robinson's reported GPA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3238",
+   "header": "**C-3238** Host Says She Is Sharing Everything as a Form of Insurance",
+   "label": "Host Says She Is Sharing Everything as a Form of Insurance",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:50:20"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she and her team have been sharing everything they have as a form of insurance, giving it to many other people so they know what is going on behind the scenes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Which is why we have been sharing everything as a a a form of insurance."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask the host who has received the shared material and whether it has been deposited with attorneys or third parties."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3240",
+   "header": "**C-3240** Viewer Comment Says Ron Paul Questioned the Official Narrative on September 16, 2025",
+   "label": "Viewer Comment Says Ron Paul Questioned the Official Narrative on September 16, 2025",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:51:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "A viewer comment read on air says Ron Paul used his platform to question the official narrative of his friend Charlie Kirk's death and whether dark forces were responsible, on September 16, 2025; the host says the date should be 910 (the shooting date)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Just know that Ron Paul has used his platform to speak about it. His friend Charlie Kirk questioning the official narrative"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2727.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-710, N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find the Ron Paul statement or broadcast and its date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3241",
+   "header": "**C-3241** Host Says She Should Send Ron Paul an Insurance Package",
+   "label": "Host Says She Should Send Ron Paul an Insurance Package",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:51:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Ron Paul is another person she should send an 'insurance package,' as she now terms it, so he knows everything going on behind the scenes and the threats being received."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he's another person that I should probably get some stuff out to send him another insurance package as I'm now terming it"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2727.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-710, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask the host whether the package was sent and what it contained."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3242",
+   "header": "**C-3242** Host Says She Has Never Been Recruited by the Government",
+   "label": "Host Says She Has Never Been Recruited by the Government",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:51:58"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she has never been recruited by the government, in reply to a viewer comment about the FBI never trying to recruit her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And no, I I've never been recruited by the government."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "No external check is available; this is a self-report."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3243",
+   "header": "**C-3243** Host Says Reading That Patel Blocked Gabbard's Office Cost Him Her Trust",
+   "label": "Host Says Reading That Patel Blocked Gabbard's Office Cost Him Her Trust",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:52:43"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that after she saw an article that Kash Patel was blocking Tulsi Gabbard's office, she lost all faith in him and considers him part of the corruption."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I once I saw the article that he was blocking Tulsi's office, I lost all faith in Cash and I think he's a part of the corruption, plain and simple."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-69, N-329, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10355"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the article about Patel blocking Gabbard's office and check its sourcing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3244",
+   "header": "**C-3244** Host Says a Tip Described the Damage From an Accidental .306 Shot and She Declined to Share the Photo",
+   "label": "Host Says a Tip Described the Damage From an Accidental .306 Shot and She Declined to Share the Photo",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:53:24"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says a person who was accidentally shot with a .306 on a hunting trip sent a photo and description of the damage to the tips box, in case viewers think Charlie's neck stopped a bullet, and she declined to share it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Somebody who recently got shot accidentally by a 306 on a hunting trip sent me a photo to our tips box and it was shocking."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2728.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask the host for the tip submission and metadata; a medical or ballistics expert could assess the wound description."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3245",
+   "header": "**C-3245** Host Concludes There Was No Bending Bullet and a Smaller Weapon Was Used",
+   "label": "Host Concludes There Was No Bending Bullet and a Smaller Weapon Was Used",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:53:24"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she thinks it can be confirmed that there was no miracle bending bullet from the Losee Center and that a smaller weapon was used."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I think we can confirm that there was no miracle bending bullet from the lossi center. A smaller weapon was used."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2728.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10020"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the autopsy and ballistic evidence with the caliber and trajectory claimed by prosecutors."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3246",
+   "header": "**C-3246** Host Says a First Lady or First Man of a Country Would Be Classified as a Foreign Dignitary",
+   "label": "Host Says a First Lady or First Man of a Country Would Be Classified as a Foreign Dignitary",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:53:24"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says a first lady or first man of a country would certainly be classified as a foreign dignitary, and that she does not think Donald Trump would be described as a dignitary."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Uh certainly a first lady or first man of a country would be classified that way."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-5"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10284"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check State Department and Secret Service definitions of foreign dignitary."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3247",
+   "header": "**C-3247** Mark Says Dignitary Is a Broad Term Including Senior Officials, Aides and Religious Leaders",
+   "label": "Mark Says Dignitary Is a Broad Term Including Senior Officials, Aides and Religious Leaders",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:54:41"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Mark, the show's director, tells the host that 'dignitary' is a pretty wide-ranging term that can cover almost anyone in government close to the top, aides or executive aides, and even religious leaders."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "pretty wide ranging. So, it could be any pretty much anyone in the government who is close to the top"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-67, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10284"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check State Department and Secret Service definitions of foreign dignitary."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3248",
+   "header": "**C-3248** Host Asks Viewers to Email More Tips at the Candace Owens Tips Address",
+   "label": "Host Asks Viewers to Email More Tips at the Candace Owens Tips Address",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:54:41"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host asks viewers who have tips to email more tips at candacewowens dot com (as written in the transcript) and says she will see them tomorrow."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "if you have any tips, obviously email us more tips at candacewowens. com."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2729.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm the correct tip address in the episode description; log the tips received after this broadcast."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    }
+   ]
+  }
+ ]
+}

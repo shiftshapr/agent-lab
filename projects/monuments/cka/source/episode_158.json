@@ -1,0 +1,8129 @@
+{
+ "format": "cka-source/1",
+ "episode": 158,
+ "blocks": [
+  {
+   "kind": "text",
+   "lines": [
+    "## 1. Meta-Data",
+    "",
+    "- **Episode**: 158",
+    "- **Monument**: cka",
+    "- **CKA seq**: 158",
+    "- **YouTube id**: 5TTkMa49qj8",
+    "- **Candace Ep**: 395",
+    "- **Source**: Candace Owens YouTube",
+    "- **Video Timestamp Range**: 00:00:00–01:07:20",
+    "- **Extraction Timestamp (UTC)**: 2026-10-02T20:40:00Z",
+    "- **Transcript SHA-256**: 022d4f12740713037a1e34d8c7a3f460558cfd3ae1badcd1d4c1565a058eb7cf",
+    "- **Model Version**: grok-manual-extract-seq158",
+    "",
+    "- **Episode Ledger Summary**:",
+    "  - Tip-minted Nodes (supplement_2026-10): N-11082, N-11083, N-11085, N-11087, N-11088, N-11089, N-11090",
+    "  - Claim Range: C-13645–C-13721",
+    "  - New Nodes Introduced: N-10867, N-10868",
+    "  - Reused Nodes Appearing: N-1, N-2, N-3, N-22, N-30, N-36, N-37, N-14, N-190, N-237, N-278, N-217, N-266, N-7, N-496, N-159, N-10056, N-10198, N-10218, N-10839, N-10859, N-10860, N-10863, N-10, N-8, N-13, N-16, N-18, N-10865, N-211, N-224, N-330, N-522, N-10027, N-10063, N-10070, N-10103, N-10342, N-10862, N-10888, N-11091, N-10866, N-11084, N-11086, N-10864",
+    "  - (see registers)",
+    "  - Person band: persons minted in this quality pass use N-8+ (see node register). Minted here or reused: Clara Molot, Sergio Gor, Caleb Chilcutt, Andrew Wilson. Tim Dillon not minted. Leah Thomas not minted.",
+    "",
+    "# Episode 158 Analysis",
+    "",
+    "",
+    "## 2. Executive Summary",
+    "",
+    "This episode centers on the newly published Vanity Fair profile of Erika Kirk (CEO/chair of Turning Point USA) by writer Clara Molot, which the host reads as an unintentionally devastating portrait of a “widow narrative” and “heaven-focused” CEO who grants months of intimate access while refusing basic political questions–contrasted with TPUSA’s non-participation in the UVU Lake Forest Group independent review. The host walks headline photography, faith-hybrid language, Israel/BB bandwidth refusals, preserved-office shrine claims versus Mikey McCoy’s early use of Charlie’s spaces, and the night-of-assassination Aloe Yoga clothing directive (Erika ordering plain black clothes after rejecting a “heaven is my home” shirt for Air Force 2 optics). The piece is framed as vindicating prior host claims: TPUSA leak-paranoia / Candace-obsession (Tucker Carlson quoted advising Andrew Kolvet not to focus on Candace), the Monday-after will-signing appointment (Doug DeGroote), Erika’s privately more anti-Israel posture than Charlie’s (per Carlson) versus public silence, and board vote elevating Erika within ~48 hours. After a break, the host overlays post–UVU-review smear escalation: Daily Mail “Candace in crisis” copy, then a narrative flip from “jealous of Erika / antisemitic” to a fabricated “cheating lesbian / secret Zionist (husband George / Hebrew study)” package built from a real 2008 college Adderall-epidemic journalism final whose YouTube page was first archived July 9, 2025 (same window as Netanyahu-in-DC and the July 10 UVU courtyard ask), with Bill Ackman amplifying the smear. Closing comments restate UVU-review vindication themes and tease Yrefy / contract material for the next show.",
+    "",
+    "---",
+    "",
+    "## 3. Artifact Register",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2459",
+   "header": "**A-2459** Vanity Fair Erika Kirk Profile Bundle",
+   "label": "Vanity Fair Erika Kirk Profile Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2459.1",
+   "header": "**A-2459.1** Host read-through of Clara Molot’s Vanity Fair profile of Erika Kirk, including snark/frustration framing, “evangelical Catholic hybrid” faith language, political-question avoidance, Israel/BB “no bandwidth” answers, and CEO-fitness critique.",
+   "label": "Host read-through of Clara Molot’s Vanity Fair profile of Erika Kirk, including snark/frustration framing, “evangelical Catholic hybrid” faith language, political-question avoidance, Israel/BB “no bandwidth” answers, and CEO-fitness critique.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:01:33"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (as quoted/read on air)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13645, C-13650, C-13651, N-10864, N-10865, N-2, N-13*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2459.2",
+   "header": "**A-2459.2** Profile photography / relatability staging (Gigi under hat; Charlie bust; Louboutin / toys / kids’ shoes; “not in the drapes”).",
+   "label": "Profile photography / relatability staging (Gigi under hat; Charlie bust; Louboutin / toys / kids’ shoes; “not in the drapes”).",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:02:56"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium–High (visual as described by host)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13645, N-10864, N-2*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2460",
+   "header": "**A-2460** Aloe Yoga Night-Of Outfit Directive Bundle",
+   "label": "Aloe Yoga Night-Of Outfit Directive Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2460.1",
+   "header": "**A-2460.1** Profile account that the night Charlie died, Erika in a Salt Lake City hotel directed a TPUSA staffer to Aloe Yoga for plain black clothes after rejecting a “heaven is my home” shirt for Air Force 2 optics; Elizabeth McCoy’s prior public thread claimed she went for clothes.",
+   "label": "Profile account that the night Charlie died, Erika in a Salt Lake City hotel directed a TPUSA staffer to Aloe Yoga for plain black clothes after rejecting a “heaven is my home” shirt for Air Force 2 optics; Elizabeth McCoy’s prior public thread claimed she went for clothes.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:17:23"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (as quoted from profile); Medium (host inference about PR mindset)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13658, N-10866, N-2, N-217*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2461",
+   "header": "**A-2461** Amfest Glitter Suit / “Only Thing That Fit” Bundle",
+   "label": "Amfest Glitter Suit / “Only Thing That Fit” Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2461.1",
+   "header": "**A-2461.1** Profile quote that the ~$1600 Alice + Olivia sparkly suit was “the only thing that fit,” contrasted by host with a catalog of other public outfits across fall 2025 appearances.",
+   "label": "Profile quote that the ~$1600 Alice + Olivia sparkly suit was “the only thing that fit,” contrasted by host with a catalog of other public outfits across fall 2025 appearances.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:20:37"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (quote as read); Medium (wardrobe catalog as host compilation)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13662, N-10864, N-2*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2462",
+   "header": "**A-2462** Will Appointment / DeGroote Confirmation Bundle",
+   "label": "Will Appointment / DeGroote Confirmation Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2462.1",
+   "header": "**A-2462.1** Doug DeGroote on-record that Charlie and Erika planned to sign will paperwork the Monday after the murder; host overlays alleged Mikey McCoy gatekeeping and prior cancellations.",
+   "label": "Doug DeGroote on-record that Charlie and Erika planned to sign will paperwork the Monday after the murder; host overlays alleged Mikey McCoy gatekeeping and prior cancellations.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:26:24"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (DeGroote quote as read); Low–Medium (McCoy gatekeeping as host allegation)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13671, N-10218, N-496, N-190, N-1, N-2*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2463",
+   "header": "**A-2463** Tucker Carlson Vanity Fair Quotes Bundle",
+   "label": "Tucker Carlson Vanity Fair Quotes Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2463.1",
+   "header": "**A-2463.1** Carlson quotes in the profile: TPUSA leadership “wholly focused on Candace Owens”; advice to Andrew Kolvet not to focus on her; and that Erika was privately more critical of Israel / interventionism than Charlie.",
+   "label": "Carlson quotes in the profile: TPUSA leadership “wholly focused on Candace Owens”; advice to Andrew Kolvet not to focus on her; and that Erika was privately more critical of Israel / interventionism than Charlie.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:24:52"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (as quoted in profile)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13667, C-13675, N-22, N-14, N-10056, N-10864*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2464",
+   "header": "**A-2464** Post-Review Smear Flip Bundle",
+   "label": "Post-Review Smear Flip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2464.1",
+   "header": "**A-2464.1** Host presentation of Daily Mail “Candace in crisis” framing and the subsequent “cheating lesbian / secret Zionist” narrative package built around a real 2008 college journalism final and related Flickr/Twitter claims.",
+   "label": "Host presentation of Daily Mail “Candace in crisis” framing and the subsequent “cheating lesbian / secret Zionist” narrative package built around a real 2008 college journalism final and related Flickr/Twitter claims.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:37:37"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (headline/narrative as characterized); High (that host presents the flip as coordinated)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13692, N-10867, N-3, N-30*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2465",
+   "header": "**A-2465** July 9 2025 College-Video Archive / Ackman Amplification Bundle",
+   "label": "July 9 2025 College-Video Archive / Ackman Amplification Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2465.1",
+   "header": "**A-2465.1** Host claim that the college YouTube project was first archived July 9, 2025 (Netanyahu-in-DC window; day before July 10 UVU courtyard ask), with related MySpace/Flickr archive dates in August, and Bill Ackman amplifying the smear on X.",
+   "label": "Host claim that the college YouTube project was first archived July 9, 2025 (Netanyahu-in-DC window; day before July 10 UVU courtyard ask), with related MySpace/Flickr archive dates in August, and Bill Ackman amplifying the smear on X.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:47:45"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (archive dates as host-stated; verify Wayback/primary); High (Ackman interest as asserted with deleted-tweet capture claim)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13705, C-13710, N-10868, N-37, N-36, N-10860, N-10863*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2805",
+   "header": "**A-2805** Clara Molot Audio Clip Bundle",
+   "label": "Clara Molot Audio Clip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2805.1",
+   "header": "**A-2805.1** Audio clip of Vanity Fair writer Clara Molot describing her attempt to get Erika Kirk's political opinions and her view that Erika's answers came across as disingenuous or not coherent",
+   "label": "Audio clip of Vanity Fair writer Clara Molot describing her attempt to get Erika Kirk's political opinions and her view that Erika's answers came across as disingenuous or not coherent",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"He obviously was a political animal and would have answered every single one of my questions quickly and succinctly and even if I hated his answers in a way that impressed me.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:32:00"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13683, N-13, N-1, N-2*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2806",
+   "header": "**A-2806** Daily Mail Candace in Crisis Headline Bundle",
+   "label": "Daily Mail Candace in Crisis Headline Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2806.1",
+   "header": "**A-2806.1** Host read-through of a Daily Mail headline saying Candace is in crisis, with insiders alleging a foreign reconnaissance mission and links to a secret military location (headline shown or read; text partly garbled)",
+   "label": "Host read-through of a Daily Mail headline saying Candace is in crisis, with insiders alleging a foreign reconnaissance mission and links to a secret military location (headline shown or read; text partly garbled)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Insiders reveal whispers of a foreign reconnaissance mission and her links to a secret military location.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:37:37"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13688, C-13689, N-3, N-10070*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2807",
+   "header": "**A-2807** Candace Owens College Journalism Video Bundle",
+   "label": "Candace Owens College Journalism Video Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2807.1",
+   "header": "**A-2807.1** Host verbal reference to her 2008 college journalism final on the Adderall epidemic, linked in the YouTube description of this episode (not played)",
+   "label": "Host verbal reference to her 2008 college journalism final on the Adderall epidemic, linked in the YouTube description of this episode (not played)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:43:33"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13701, C-13714, N-3, N-10868*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2808",
+   "header": "**A-2808** Wear Forbidden Smear Meeting Parody Bundle",
+   "label": "Wear Forbidden Smear Meeting Parody Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2808.1",
+   "header": "**A-2808.1** Parody video from Wear Forbidden played on air showing a mock strategy meeting inventing smears about Candace",
+   "label": "Parody video from Wear Forbidden played on air showing a mock strategy meeting inventing smears about Candace",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"We'll tell everyone she runs an underground casino.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "01:05:52"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13720, N-3, N-11091*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 4. Node Register",
+    ""
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-1",
+   "header": "**N-1** Charlie Kirk",
+   "label": "Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Primary investigative subject; will appointment, Israel-shift context, and July 2025 concurrent pressures framed around his death and TPUSA succession."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13671, C-13675, A-2462.1, N-10863*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-2",
+   "header": "**N-2** Erika Kirk",
+   "label": "Erika Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Central subject of the Vanity Fair profile; host critique of heaven-focused CEO posture, Aloe directive, glitter-suit explanation, Israel silence, and rapid board elevation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13645, C-13650, C-13651, C-13658, C-13662, A-2459.1, N-10864, N-10865*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-3",
+   "header": "**N-3** Candace Owens",
+   "label": "Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host/narrator; target of smear flip discussed in second half."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13692, A-2464.1, N-10867*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-22",
+   "header": "**N-22** Tucker Carlson",
+   "label": "Tucker Carlson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Quoted in Vanity Fair on TPUSA’s Candace-obsession and on Erika’s privately stronger Israel criticism."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13667, C-13675, A-2463.1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-30",
+   "header": "**N-30** George (Candace's husband)",
+   "label": "George (Candace's husband)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Target of “secret Zionist / speaks Hebrew” smear; host explains Oxford theology ancient-Hebrew requirement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13692, N-10867*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-36",
+   "header": "**N-36** Benjamin Netanyahu",
+   "label": "Benjamin Netanyahu",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "July 9 DC visit window tied to college-video archive date and prior Israel-pressure timeline."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13705, N-10868, N-10863*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-37",
+   "header": "**N-37** Bill Ackman",
+   "label": "Bill Ackman",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named as amplifier of the lesbian/Zionist smear package; host flags deleted X amplification during Charlie’s Israel-pressure period."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13710, A-2465.1, N-10868*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-14",
+   "header": "**N-14** Andrew Kolvet",
+   "label": "Andrew Kolvet",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Recipient of Carlson advice in the profile; prior source of early Erika-CEO notice to host; tied to Candace-focus critique."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13667, A-2463.1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-190",
+   "header": "**N-190** Mikey McCoy",
+   "label": "Mikey McCoy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host alleges gatekeeping of the will appointment and contrasts profile “shrine office” claims with early McCoy use of Charlie’s home-office space / Fox hits."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13671, N-10198, N-10218*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-237",
+   "header": "**N-237** Glenn Beck",
+   "label": "Glenn Beck",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Referenced regarding Erika’s December interview claim that Charlie was unconcerned about death threats the night before (contrast with DeGroote framing)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13671*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-278",
+   "header": "**N-278** Bari Weiss",
+   "label": "Bari Weiss",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named among fall-2025 public appearances in the host’s wardrobe catalog rebutting “only thing that fit.”"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13662*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-217",
+   "header": "**N-217** Elizabeth McCoy",
+   "label": "Elizabeth McCoy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Prior public thread claiming she went to Aloe for clothes; host contrasts with profile’s Erika-directed account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13658, A-2460.1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-266",
+   "header": "**N-266** Brian Harpole",
+   "label": "Brian Harpole",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Referenced in post-review segment as heavily debunked by Lake Forest Group relative to Shawn Ryan narrative."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: N-10839, N-10859*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-7",
+   "header": "**N-7** Frank Turek",
+   "label": "Frank Turek",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Rhetorically invoked in closing comments / pastor jab."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-2459.1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-496",
+   "header": "**N-496** Doug DeGroote",
+   "label": "Doug DeGroote",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Board member / couple’s financial adviser quoted on will appointment and on media pressure driving 48-hour CEO vote."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13671, C-13680, A-2462.1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-159",
+   "header": "**N-159** Blake Neff",
+   "label": "Blake Neff",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Opening callback",
+     "v": "host’s July 18 tweet predicting Vanity Fair widow spread; Neff bookmarked it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13645, N-10864*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10056",
+   "header": "**N-10056** Kirk-Israel Narrative Dispute",
+   "label": "Kirk-Israel Narrative Dispute",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Advanced by Carlson quote that Erika was privately more critical of Israel than Charlie, versus her public bandwidth refusal / glowing partnerships."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13675, C-13651, N-10865*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10198",
+   "header": "**N-10198** Mikey McCoy Behavior Discrepancy (September 10, 2025)",
+   "label": "Mikey McCoy Behavior Discrepancy (September 10, 2025)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Reused for post-assassination office/home-office behavior contrast with shrine narrative."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13671, N-190*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10218",
+   "header": "**N-10218** McCoy Succession Plan",
+   "label": "McCoy Succession Plan",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Reused around will-appointment timing and succession optics."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13671, C-13680*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10839",
+   "header": "**N-10839** Independent Review of UVU Security Failures",
+   "label": "Independent Review of UVU Security Failures",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Background for TPUSA non-participation contrast and post-review smear timing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: N-10859, A-2459.1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10859",
+   "header": "**N-10859** TPUSA Non-Participation in UVU Independent Review",
+   "label": "TPUSA Non-Participation in UVU Independent Review",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Reused",
+     "v": "host opens by contrasting Vanity Fair access with refusal to cooperate with Lake Forest Group."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13645, N-10839*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10860",
+   "header": "**N-10860** July 10 HQ-Driven Courtyard Request (Crofts / Chilcutt Chain)",
+   "label": "July 10 HQ-Driven Courtyard Request (Crofts / Chilcutt Chain)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Reused when plotting July 9 college-video archive against July 10 UVU ask."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13705, N-10868, N-10*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10863",
+   "header": "**N-10863** July 2025 Charlie Kirk Pressure Concurrent with UVU Booking",
+   "label": "July 2025 Charlie Kirk Pressure Concurrent with UVU Booking",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Reused as parent concurrent-pressure frame for Netanyahu/Hamptons/archive overlay."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13705, N-10868*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10864",
+   "header": "**N-10864** Vanity Fair Erika Kirk Profile (Clara Molot)",
+   "label": "Vanity Fair Erika Kirk Profile (Clara Molot)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "New topic",
+     "v": "published profile granting months of access; host treats as primary source artifact exposing CEO/widow narrative contradictions."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "3"
+    },
+    {
+     "k": "Claim Count",
+     "v": "4"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13645, C-13650, A-2459.1, N-2, N-13*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10865",
+   "header": "**N-10865** Erika Heaven-Focused Political Non-Answers / CEO Fitness",
+   "label": "Erika Heaven-Focused Political Non-Answers / CEO Fitness",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "New topic",
+     "v": "profile quotations where Erika avoids politics/Israel via heaven/bandwidth framing; writer Clara Molot on-camera notes disingenuous/incoherent political conversation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13650, C-13651, A-2459.1, N-10056, N-13*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10866",
+   "header": "**N-10866** Night-of Assassination Aloe Yoga Outfit Directive",
+   "label": "Night-of Assassination Aloe Yoga Outfit Directive",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "New topic",
+     "v": "profile’s Erika-directed Aloe purchase the morning after for Air Force 2 optics, versus prior Elizabeth McCoy clothing-run narrative."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13658, A-2460.1, N-2, N-217*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10867",
+   "header": "**N-10867** Candace Smear Narrative Flip (Lesbian / Secret-Zionist Package)",
+   "label": "Candace Smear Narrative Flip (Lesbian / Secret-Zionist Package)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "New topic",
+     "v": "post–UVU-review smear escalation flipping prior jealous/antisemitic frames into fabricated sexuality/blackmail/Zionist-control package."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13692, A-2464.1, N-3, N-30*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10868",
+   "header": "**N-10868** July 9 2025 Archive of Candace College YouTube Project",
+   "label": "July 9 2025 Archive of Candace College YouTube Project",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "New topic",
+     "v": "first archive of 2008 college final on July 9, 2025 adjacent to Netanyahu DC visit and July 10 UVU courtyard request; later smear uses that real video as seed; Ackman amplification."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13705, C-13710, A-2465.1, N-37, N-10860, N-10863*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10",
+   "header": "**N-10** Caleb Chilcutt",
+   "label": "Caleb Chilcutt",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Person"
+    },
+    {
+     "raw": "UVU TPUSA club president named in the independent review as the chapter contact on the courtyard request."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: prose mention in episode*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-13",
+   "header": "**N-13** Clara Molot",
+   "label": "Clara Molot",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Person"
+    },
+    {
+     "raw": "Vanity Fair writer of the Erika Kirk profile the host reads as an unflattering portrait."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13645*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-16",
+   "header": "**N-16** Sergio Gor",
+   "label": "Sergio Gor",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Person"
+    },
+    {
+     "raw": "Trump-world operative and later US ambassador to India. Host ties him to Winning Team Publishing and to Susie Wiles's orbit."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: prose mention in episode*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-18",
+   "header": "**N-18** Andrew Wilson",
+   "label": "Andrew Wilson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Person"
+    },
+    {
+     "raw": "Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: prose mention in episode*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-330",
+   "header": "**N-330** Baron Coleman",
+   "label": "Baron Coleman",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Guest co-host in earlier episodes; the host says he had the scoop that the UVU review would be bad for TPUSA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13685*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-211",
+   "header": "**N-211** Jesse Watters",
+   "label": "Jesse Watters",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Fox host; the host dates an Erika Kirk interview with him to November 5 as part of her outfit list."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13664*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-224",
+   "header": "**N-224** Shawn Ryan",
+   "label": "Shawn Ryan",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Podcaster on whose show the host says Brian Harpole gave the narrative the review debunks."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13686*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-522",
+   "header": "**N-522** Nicki Minaj",
+   "label": "Nicki Minaj",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named by the host among Erika Kirk's December appearances."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13666*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10070",
+   "header": "**N-10070** Daily Mail",
+   "label": "Daily Mail",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Daily Mail; source of the headline the host reads about her being in crisis."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13688, C-13689*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10888",
+   "header": "**N-10888** Department of War",
+   "label": "Department of War",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Organization the host links to attacks on her that she says double when Erika Kirk is in DC."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13672, C-13715*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10063",
+   "header": "**N-10063** Gaza",
+   "label": "Gaza",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Place at issue in the profile's account of Charlie's criticism and in the host's Gaza remarks."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13677, C-13678, C-13719*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10862",
+   "header": "**N-10862** Harpole Shawn Ryan Statements vs Independent Review Findings",
+   "label": "Harpole Shawn Ryan Statements vs Independent Review Findings",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the review's debunking of Harpole's podcast narrative."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13686*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10342",
+   "header": "**N-10342** Bibi Netanyahu TPUSA Funding Offer",
+   "label": "Bibi Netanyahu TPUSA Funding Offer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the host's August 5 Hamptons phone call claim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13707*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10027",
+   "header": "**N-10027** The Hamptons",
+   "label": "The Hamptons",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Place where the host says Charlie was on August 5, 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13707, C-13712*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10103",
+   "header": "**N-10103** Bulletproof Vest Absence",
+   "label": "Bulletproof Vest Absence",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the night-before vest recommendation claim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13673*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11082",
+   "header": "**N-11082** Charlie Kirk Office Shrine Claim",
+   "label": "Charlie Kirk Office Shrine Claim",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The profile's account that Charlie's office is preserved as a shrine, set against the host's claim that Mikey McCoy used Charlie's home office for interviews 12 days after the murder."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13655, C-13656*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11083",
+   "header": "**N-11083** Erika Kirk Fall 2025 Public Appearance and Wardrobe Schedule",
+   "label": "Erika Kirk Fall 2025 Public Appearance and Wardrobe Schedule",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The host's dated list of Erika Kirk's public appearances and outfits between September and December 2025, used to dispute the claim that the sparkly Amfest suit was the only thing that fit."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13661, C-13663, C-13664, C-13665, C-13666*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11084",
+   "header": "**N-11084** TPUSA Leak Hunt and Employee Firings",
+   "label": "TPUSA Leak Hunt and Employee Firings",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The profile's and the host's account that TPUSA chased leaks to the host, fired employees suspected of being sources, and searched for a mole after the host's July tweets."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13668, C-13669*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11085",
+   "header": "**N-11085** Night-Before Security Recommendations Discussion",
+   "label": "Night-Before Security Recommendations Discussion",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "DeGroote's account, read from the profile, that on the night before the assassination Charlie discussed security recommendations including bulletproof glass shields and vests with Erika and their pastor."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13673*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11086",
+   "header": "**N-11086** Priest Report of Marital Issues",
+   "label": "Priest Report of Marital Issues",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The host's claim, from a source, that the priest told people there were marital issues between Charlie and Erika Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13676*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11087",
+   "header": "**N-11087** TPUSA Notice of Intent to Sue UVU",
+   "label": "TPUSA Notice of Intent to Sue UVU",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The host's account of a sloppily filed TPUSA notice that it intends to sue UVU despite not participating in the independent review."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13684*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11088",
+   "header": "**N-11088** George Oxford Ancient Hebrew Study",
+   "label": "George Oxford Ancient Hebrew Study",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The smear package's claim that George speaks Hebrew as proof he is a secret Zionist, and the host's explanation that he studied ancient Hebrew in Oxford's theology program."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13695, C-13696*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11089",
+   "header": "**N-11089** Hidden Accounts Smear Evidence Dispute",
+   "label": "Hidden Accounts Smear Evidence Dispute",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The host's dispute of the smear's claimed MySpace, Flickr, Twitter and adult-site accounts, including the data-leak sourcing, archive dates and missing tattoos."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13698, C-13699, C-13700, C-13702, C-13703, C-13704, C-13706, C-13709, C-13716, C-13717*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11090",
+   "header": "**N-11090** Black Robe Mafia Judges and Lawyers Claim",
+   "label": "Black Robe Mafia Judges and Lawyers Claim",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The host's prediction that judges and lawyers acting for the state, which she calls the black robe mafia, will be exposed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13718*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11091",
+   "header": "**N-11091** Wear Forbidden",
+   "label": "Wear Forbidden",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "raw": "Account whose parody video of a smear strategy meeting the host plays at the end of the episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13720, C-13721*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 5. Claim Register",
+    ""
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13645",
+   "header": "**C-13645** Vanity Fair published an access-heavy Erika Kirk profile that the host reads as exposure, not celebration",
+   "label": "Vanity Fair published an access-heavy Erika Kirk profile that the host reads as exposure, not celebration",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:00:08"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Host asserts Clara Molot's Vanity Fair profile–enabled by months of TPUSA/Erika access including family–reads as a frustrated reporter's portrait of an obvious grift, while TPUSA refused Lake Forest Group review cooperation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2459.1, A-2459.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-13, N-2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10859, N-10864"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive the full Vanity Fair piece; list access dates; compare cooperation posture to Lake Forest Group outreach log."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13650",
+   "header": "**C-13650** Erika avoided basic political questions via heaven-focused / bandwidth framing",
+   "label": "Erika avoided basic political questions via heaven-focused / bandwidth framing",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:51"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the profile as read, Erika described decisions via a heaven/reunion heuristic and seemed uneasy articulating political views; the host says this is what made the reporter know she was dealing with a fraud."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2459.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10865"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Extract all on-record political Q&A from the profile; compare to TPUSA CEO public statements in the same window."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13651",
+   "header": "**C-13651** Erika declined substantive Israel/BB answers despite CEO role",
+   "label": "Erika declined substantive Israel/BB answers despite CEO role",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:44"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "When pressed on Israel/Netanyahu, Erika said she does not sit around thinking about what BB is doing and lacks bandwidth beyond honoring Charlie, kids, and building TPUSA–host argues a political CEO requires an opinion."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2459.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10056, N-10865"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compile Erika Israel-related statements pre/post Sept 10; align with Carlson’s private-criticism quote (C-13675)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13658",
+   "header": "**C-13658** Erika directed the Aloe Yoga clothing run the night/morning after the assassination",
+   "label": "Erika directed the Aloe Yoga clothing run the night/morning after the assassination",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:23"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The profile states Erika, thinking about Air Force 2 optics and a “heaven is my home” shirt, had a TPUSA staffer buy plain black Aloe clothes the next morning; host contrasts prior Elizabeth McCoy “I went for clothes” narrative and calls the PR-forward mindset abnormal."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2460.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-217"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10866"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Preserve profile text; archive Elizabeth McCoy thread; seek staff corroboration without minting new Persons."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13662",
+   "header": "**C-13662** “Only thing that fit” glitter-suit explanation conflicts with other public outfits",
+   "label": "“Only thing that fit” glitter-suit explanation conflicts with other public outfits",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:20"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Host disputes Erika’s profile claim that the Amfest Alice + Olivia sparkly suit was the only thing that fit, citing a string of other televised/public outfits across Sept–Dec 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2461.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10864"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Build dated outfit plate from primary video stills; keep claim scoped to contradiction vs “only thing that fit.”"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13671",
+   "header": "**C-13671** Charlie and Erika had a will-signing appointment set for the Monday after the murder",
+   "label": "Charlie and Erika had a will-signing appointment set for the Monday after the murder",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:26:24"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Doug DeGroote confirms they planned to sign will paperwork that Monday; host says, allegedly, she was told Mikey McCoy gatekept the appointment, which had been canceled once or twice before, and rejects DeGroote's death-threat framing as the sole motive."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2462.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-2, N-190, N-496"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10198, N-10218"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Seek calendar/email primary for the appointment; separate DeGroote on-record facts from host allegations about McCoy."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13667",
+   "header": "**C-13667** Tucker Carlson told Andrew Kolvet not to focus on Candace; leadership is “wholly focused” on her",
+   "label": "Tucker Carlson told Andrew Kolvet not to focus on Candace; leadership is “wholly focused” on her",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:52"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Vanity Fair quotes Carlson that TPUSA leadership is wholly focused on Candace Owens and that he advised Kolvet not to focus on her if they dislike her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2463.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-14, N-22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10864"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm quote context in published piece; note host’s declined-to-comment status."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13675",
+   "header": "**C-13675** Carlson says Erika was privately more critical of Israel than Charlie",
+   "label": "Carlson says Erika was privately more critical of Israel than Charlie",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per Carlson’s conversations with Erika as relayed in the profile, she was more critical of Israel and interventionist foreign policy than Charlie; host contrasts that with her post-death public silence/glowing partnerships."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2463.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10056, N-10865"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pair with on-record Erika statements; treat Carlson quote as secondhand unless further primary emerges."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13692",
+   "header": "**C-13692** After UVU review fallout, smear narrative flipped to a fabricated lesbian/Zionist package",
+   "label": "After UVU review fallout, smear narrative flipped to a fabricated lesbian/Zionist package",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:40:02"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Host asserts attackers shifted from “jealous of Erika / antisemitic” frames to a deranged “cheating lesbian funded by a Zionist” package seeded by a real 2008 college final and fake adjacent accounts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2464.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10839, N-10867"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive primary smear posts/headlines; separate real 2008 video from unverified MySpace/sex-site claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13705",
+   "header": "**C-13705** Candace’s college YouTube project was first archived July 9, 2025 beside Netanyahu DC visit / July 10 UVU ask",
+   "label": "Candace’s college YouTube project was first archived July 9, 2025 beside Netanyahu DC visit / July 10 UVU ask",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Host claims Wayback/first-archive of the college project is July 9, 2025–the Netanyahu-in-Washington window–and the next day is the July 10 HQ-driven UVU courtyard request; later August archives feed the smear package."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2465.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10860, N-10863, N-10868"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify archive timestamps on primary archive.org (or equivalent) captures; keep causal inference provisional."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13710",
+   "header": "**C-13710** Bill Ackman Amplified the Smear Package and Later Deleted the Tweet",
+   "label": "Bill Ackman Amplified the Smear Package and Later Deleted the Tweet",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:49:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Host asserts billionaire Bill Ackman was among the first to retweet/amplify the college-account smear and has since deleted the tweet after it was captured; she notes the smear material was archived on August 5, 2025, when Charlie was with Ackman in the Hamptons."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2465.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-37, N-1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10868"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Preserve deleted-tweet captures; confirm handles/dates; avoid over-claiming coordination without docs."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13680",
+   "header": "**C-13680** Board voted Erika CEO within ~48 hours; DeGroote’s “media pressure” explanation is disputed",
+   "label": "Board voted Erika CEO within ~48 hours; DeGroote’s “media pressure” explanation is disputed",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:10"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Profile/DeGroote state the board voted two days after Charlie's death to install Erika, hoping to get through the memorial before announcing, but say the media was all over them asking questions; host rejects the claim that reporters flooded them for a replacement within 24 hours as the real driver."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2459.1, A-2462.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-496"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10218"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Timestamp board vote vs public announce vs contemporaneous press queries; seek board minutes if ever produced."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13646",
+   "header": "**C-13646** Host Says Her July 18 Tweet Predicted a Vanity Fair Spread of Erika With Her Children",
+   "label": "Host Says Her July 18 Tweet Predicted a Vanity Fair Spread of Erika With Her Children",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:56"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she tweeted on July 18 that TPUSA would put Erika in a Vanity Fair spread with her children to pull at heartstrings, told readers to save the tweet, and that Blake Neff bookmarked it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Instead, they are going to put Erika in a spread for Vanity Fair with her children to pull at our heartstrings. Save this tweet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2, N-159"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10864"
+    },
+    {
+     "k": "Supports",
+     "v": "C-13058"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the host's July 18 tweet and its timestamp, and compare it with the profile's publication date and the July photo shoot."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13647",
+   "header": "**C-13647** Host Describes Headline Photo With Charlie Bust, Toys, Louboutins and Kids' Shoes",
+   "label": "Host Describes Headline Photo With Charlie Bust, Toys, Louboutins and Kids' Shoes",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:15"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host describes the profile's headline photograph as showing a bust of Charlie in the corner, children's toys on the ground, a pair of roughly $700 Christian Louboutin shoes in the corner and the children's shoes laid beside them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And then you have Charlie's bust in the corner. And I think that that's really the most authentic part of the picture"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2459.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10864"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the published Vanity Fair photograph and caption to check the objects the host lists."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13648",
+   "header": "**C-13648** Host Says Erika Attends Mass Every Sunday and Travels With a Priest",
+   "label": "Host Says Erika Attends Mass Every Sunday and Travels With a Priest",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:48"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika attends mass every Sunday, travels with a priest, and describes herself in the profile as an evangelical Catholic hybrid."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "since Erika attends mass every Sunday and travels with a priest, I guess it's now okay to admit that she's a hybrid."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2459.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10864"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the profile passage and any other reporting that confirms Erika's mass attendance and a travelling priest."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13649",
+   "header": "**C-13649** Profile Says Faith Came Up in Every Conversation but Politics Rarely Did",
+   "label": "Profile Says Faith Came Up in Every Conversation but Politics Rarely Did",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:48"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads Clara Molot as writing that across hours of interviews Erika's faith came up in every conversation but politics rarely did."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "came up in every single one of our conversations, but politics rarely did."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2459.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-13, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10865"
+    },
+    {
+     "k": "Supports",
+     "v": "C-13650"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare against the full Vanity Fair text to confirm the sentence and its context."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13653",
+   "header": "**C-13653** Profile Says Writer First Met Erika at the Waldorf Astoria on White House Correspondents Dinner Morning",
+   "label": "Profile Says Writer First Met Erika at the Waldorf Astoria on White House Correspondents Dinner Morning",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads the profile as saying the writer first met Erika in the lobby of the Waldorf Astoria in Washington on the morning of the White House Correspondents Dinner, where Erika wore a black silk set, a freedom cap and glittery Golden Goose sneakers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The first time we met in the lobby of the Waldorf Histori Hotel in Washington the morning of the White House correspondents dinner"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2459.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-13, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10864"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the published profile for the meeting date and the outfit description."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13652",
+   "header": "**C-13652** Erika Tells Writer She Is Built Different and the World Will Not Break Her",
+   "label": "Erika Tells Writer She Is Built Different and the World Will Not Break Her",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads the profile as saying Erika knows she does not make sense to most people, and quotes Erika as saying she is built different and that this world will not break her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I do not know how to explain it other than this world will not break me."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2459.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-13"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10864"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the quotation and its attribution in the published profile."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13654",
+   "header": "**C-13654** Profile Says Erika Answered a Compliment on Her Rings With They Are Real Like My Hair",
+   "label": "Profile Says Erika Answered a Compliment on Her Rings With They Are Real Like My Hair",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads the profile as saying that when a Turning Point high school member complimented her rings, Erika replied that they were real, like her hair."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Thanks. She says they're real. Like my hair."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2459.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10864"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the profile text for the exchange and its date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13655",
+   "header": "**C-13655** Profile Says Erika Works on the Couch in Charlie's Preserved Office and Only Mac May Sit in His Chair",
+   "label": "Profile Says Erika Works on the Couch in Charlie's Preserved Office and Only Mac May Sit in His Chair",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads the profile as saying Erika has no office of her own, works on the couch in Charlie's office near his desk, which is preserved as a shrine, that only Mac may sit in Charlie's chair, and that the floor above remains a demolished construction zone."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "opting instead to work on the couch in Charlie's office near his desk, which has been preserved as a shrine."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2459.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-1, N-13"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11082"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the profile passage and any dated photographs of the TPUSA headquarters office and the unfinished upper floor."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13656",
+   "header": "**C-13656** Host Says Mikey McCoy Took Fox Hits in Charlie's Home Office 12 Days After the Murder",
+   "label": "Host Says Mikey McCoy Took Fox Hits in Charlie's Home Office 12 Days After the Murder",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that 12 days after Charlie was murdered Mikey McCoy was taking interviews and Fox News hits from Charlie's home office, which she uses to dispute the shrine account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "12 days after Charlie was murdered, Mikey McCoy was taking interviews, taking Fox News hits."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-190, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11082, N-10198"
+    },
+    {
+     "k": "Contradicts",
+     "v": "C-13655"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Date McCoy's Fox appearances and confirm the room they were filmed in from broadcast stills."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13657",
+   "header": "**C-13657** Host Says Erika's Aloe Account Showed Purchases the Morning After Charlie Died",
+   "label": "Host Says Erika's Aloe Account Showed Purchases the Morning After Charlie Died",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says people found that Erika made purchases at Aloe through her own Aloe account the day or morning after Charlie died."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "apparently people found that she made purchases at Aloe through her Aloe account the day after Charlie died, like the morning after he died or something."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2460.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10866"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify who found the account purchase and obtain the order record or a screenshot with its timestamp."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13659",
+   "header": "**C-13659** Profile Says the Aloe Run Also Bought Plain Black Clothes for Others Including a Young Woman Who Vomited on Herself",
+   "label": "Profile Says the Aloe Run Also Bought Plain Black Clothes for Others Including a Young Woman Who Vomited on Herself",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:23"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads the profile as saying the TPUSA staffer sent to Aloe Yoga bought plain black clothes for Erika and several others, including a young woman who had vomited on herself from the trauma."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "including one young woman who vomited on herself from the trauma."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2460.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10866"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the staffer and the young woman named in the profile and confirm the sentence in the published text."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13660",
+   "header": "**C-13660** Host Recounts Wife of Her Security Man Flying to Moscow in Cowboy Boots After His Stroke",
+   "label": "Host Recounts Wife of Her Security Man Flying to Moscow in Cowboy Boots After His Stroke",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:44"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the wife of her security man in Russia, who had a stroke, flew to DC for an emergency visa, laid over in the Middle East wearing cowboy boots and arrived at the Moscow hotel still wearing them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "His wife, as I told you, jumped onto the first the first plane, which was get to DC to get an emergency visa."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Match this to the host's earlier episode about her security man's stroke in Russia; only the host's own account is on record."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13661",
+   "header": "**C-13661** Host Says Erika Has a Team Handling Hair, Makeup, Wardrobe and Stylists",
+   "label": "Host Says Erika Has a Team Handling Hair, Makeup, Wardrobe and Stylists",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika has a team of people working on her every move, including hair, makeup, wardrobe and stylists."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "she's got a team of people working on her every move, hair, makeup, wardrobe, stylists."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2461.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11083"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the stylists and staff credited at Erika's public events and in her social posts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13663",
+   "header": "**C-13663** Host Says Amfest Was Held in Phoenix Where Erika Lives",
+   "label": "Host Says Amfest Was Held in Phoenix Where Erika Lives",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Amfest event at which Erika wore the sparkly suit was held in Phoenix, where she says Erika lives, and that it took place in December at the end of Erika's post-assassination tour."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Never mind the fact that the event was held in Phoenix. That's where Erika lives, right?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2461.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11083"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm the Amfest venue, its date and Erika's residence from event listings and public records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13664",
+   "header": "**C-13664** Host Lists Erika's Outfits From September 12 to November 5, 2025",
+   "label": "Host Lists Erika's Outfits From September 12 to November 5, 2025",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika wore a white blazer when she addressed the nation on September 12, a white pantsuit at Charlie's memorial on the 21st, a dress at the Presidential Medal of Freedom ceremony and a green suit on the Jesse Watters interview on November 5."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Jesse Watters interview on November 5th. She was wearing a green suit."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2461.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-211"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11083"
+    },
+    {
+     "k": "Supports",
+     "v": "C-13662"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Build a dated plate from video stills of each named appearance."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13665",
+   "header": "**C-13665** Host Lists Erika's Appearances From November 6 to December 10, 2025",
+   "label": "Host Lists Erika's Appearances From November 6 to December 10, 2025",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika had clothes that fit at the November 10 Oval Office appointment of Sergio Gor, the December 3 New York Times book summit, the Hannity interview on December 8, Fox and Friends and The Five on December 9, Outnumbered on December 10 and the town hall with Bari Weiss, and that she appeared at a Fox award event she dates to November 6."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The Sean Hannity interview on December 8th. The Fox and Friends um on December 9th."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2461.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-16, N-278"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11083"
+    },
+    {
+     "k": "Supports",
+     "v": "C-13662"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm each broadcast date and outfit from network video."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13666",
+   "header": "**C-13666** Host Says Erika Gave Caleb Chilcutt an Award on December 20 and Wore Different Outfits Through December 21",
+   "label": "Host Says Erika Gave Caleb Chilcutt an Award on December 20 and Wore Different Outfits Through December 21",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika presented an award to Caleb Chilcutt on December 20, had another outfit the next day in the Nicki Minaj sit-down, and wore yet another on the 21st for the Shannon Bream interview, so she had clothes by the day after Amfest."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Erika when she gave an award to Caleb Chilcutt the uh on December 20th, that's the day after."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2461.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-10, N-522"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11083"
+    },
+    {
+     "k": "Supports",
+     "v": "C-13662"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check dates of the Chilcutt award and the Minaj and Bream interviews against broadcast records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13668",
+   "header": "**C-13668** Profile Says TPUSA Spent a Year Chasing Leaks to Owens and Fired Employees Wrongly",
+   "label": "Profile Says TPUSA Spent a Year Chasing Leaks to Owens and Fired Employees Wrongly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:52"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads the profile as saying Turning Point has spent the last year chasing internal leaks to Owens, even firing employees suspected of being the source, and the host adds that the firings were wrong."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Turning Point has spent the last year chasing internal leaks to Owens, even firing employees wrongly, I might add"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2459.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-13"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11084"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5511"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the employees and dates of the leak-related firings and compare with prior reports of about 40 firings."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13669",
+   "header": "**C-13669** Profile Says Owens's July Tweets About the Photo Shoot Sent TPUSA Searching for a Mole",
+   "label": "Profile Says Owens's July Tweets About the Photo Shoot Sent TPUSA Searching for a Mole",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:52"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads the profile as saying that when Owens tweeted details about the July photo shoot, the Turning Point team spiraled and went searching for the mole to no avail."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "when Owens's tweeted tweeted details about our photo shoot in July, causing the Turning Point team to spiral and go searching for the mole to no avail."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2459.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-13"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11084"
+    },
+    {
+     "k": "Supports",
+     "v": "C-13646"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the host's July 18 tweet with the date of the photo shoot and TPUSA's internal reaction."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13670",
+   "header": "**C-13670** Profile Says Carlson Calls the Host a Very Humane and Decent Person, Upsetting Some at TPUSA",
+   "label": "Profile Says Carlson Calls the Host a Very Humane and Decent Person, Upsetting Some at TPUSA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:52"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads the profile as saying Tucker Carlson says he loves Candace and calls her a very humane and decent person, a position that he says has upset some people at Turning Point."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Carlson says he loves Candace and calls her a very humane and decent person, a position that he says has upset some people at Turning Point."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2463.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-22, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10864"
+    },
+    {
+     "k": "Supports",
+     "v": "C-13667"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm Carlson's quote with the writer or the published text."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13672",
+   "header": "**C-13672** Host Alleges Erika Meets People in DC and Knows Attacks on Her Are Coming",
+   "label": "Host Alleges Erika Meets People in DC and Knows Attacks on Her Are Coming",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:26:24"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host alleges that Erika directs attacks on her behind the scenes, meets up with people in DC, and knows the attacks are coming."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "She meets up with people in DC. She knows these attacks are coming against me."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10888"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Seek dated schedule or travel records and the host's sources for the DC meetings; the allegation rests on the host's sources."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13673",
+   "header": "**C-13673** Profile Says Night Before Charlie Discussed Bulletproof Glass Shields and Vests With Erika and Their Pastor",
+   "label": "Profile Says Night Before Charlie Discussed Bulletproof Glass Shields and Vests With Erika and Their Pastor",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:27:56"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads the profile, quoting Doug DeGroote, as saying that the night before Charlie was killed he discussed with Erika and their pastor the security team's recommendations, which included bulletproof glass shields and vests."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The night before Charlie was killed, he had been discussing with Erika and their pastor recommendations from his security team, which included bulletproof glass shields and vests."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2462.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-496, N-1, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11085, N-10103"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the pastor and the security team's written recommendations; compare with Charlie not wearing a vest on September 10."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13674",
+   "header": "**C-13674** Host Says Erika Told Glenn Beck She Has Charlie's Phone and He Was Unconcerned About Death Threats",
+   "label": "Host Says Erika Told Glenn Beck She Has Charlie's Phone and He Was Unconcerned About Death Threats",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:27:56"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika told Glenn Beck in December that she has Charlie's phone and that he was not concerned about the death threats and was awake the night before because he was excited about the tour."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Erika is going to tell um Glenn back in December that you know she has his phone and he wasn't concerned about the death threats"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-237, N-1"
+    },
+    {
+     "k": "Supports",
+     "v": "C-9204"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the December 2025 Glenn Beck interview video for the phone and death-threat statements."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13676",
+   "header": "**C-13676** Host Says the Priest Has Told People There Were Marital Issues",
+   "label": "Host Says the Priest Has Told People There Were Marital Issues",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she has it on good authority that the priest has told people there were marital issues between Charlie and Erika, and says more will come as lawsuits are filed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I have it on good authority that the priest has told people that um there were some marital issues"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11086"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the priest and the host's source; only the source or the priest could confirm or refute."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13677",
+   "header": "**C-13677** Profile Says Charlie Became Increasingly Willing to Criticize Israel in Gaza Under Donor Pressure",
+   "label": "Profile Says Charlie Became Increasingly Willing to Criticize Israel in Gaza Under Donor Pressure",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads the profile as saying that after Charlie's death Netanyahu called him a lionhearted friend of Israel, but that in his last year Charlie had become increasingly willing to criticize Israel's actions in Gaza amid mounting pressure from Zionist donors."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "But in his last year, Charlie had become increasingly willing to criticize Israel's actions in Gaza, even as he received mounting pressure from Zionist donors to support the Jewish state"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2459.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-36"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10056, N-10063"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the published profile for the passage and its sourcing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13678",
+   "header": "**C-13678** Erika Tells Writer People Can Question How Other Leaders Run Their Country",
+   "label": "Erika Tells Writer People Can Question How Other Leaders Run Their Country",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads the profile as saying that when asked about Israel's actions in Gaza, Erika said people can question how other leaders run their country and called that the blessing of free speech."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Do I think that you can question how other leaders run their country?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2459.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-13"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10056, N-10063"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the quotation and context in the published profile."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13679",
+   "header": "**C-13679** Host Says Kolvet Told Her Erika Would Be CEO Within the First 48 Hours",
+   "label": "Host Says Kolvet Told Her Erika Would Be CEO Within the First 48 Hours",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:49"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the decision to make Erika CEO was made within the first 48 hours, faster than the public was made aware, and that she knew because Andrew Kolvet told her, although she says he now denies some of this."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And I knew because Andrew Kolvet told me, even though he denies some of this stuff"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-3, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10218"
+    },
+    {
+     "k": "Supports",
+     "v": "C-13680, C-12435, C-9235"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the host's dated message or call record with Kolvet and any TPUSA statement of the vote date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13682",
+   "header": "**C-13682** DeGroote Says Erika Saved TPUSA Two or Three Years of Searching for a New CEO",
+   "label": "DeGroote Says Erika Saved TPUSA Two or Three Years of Searching for a New CEO",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:32"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads the profile as quoting Doug DeGroote that Erika saved Turning Point two or three years of searching for and training a new CEO from outside the organization."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Degrroot says Erika saved Turning Point two or three years of searching for and training a new CEO from outside the organization."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2462.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-496, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10218"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm the quote in the published profile and request board minutes on the succession decision."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13681",
+   "header": "**C-13681** Host Alleges DeGroote Was Behind the Scenes Wanting Her Crushed in the Media",
+   "label": "Host Alleges DeGroote Was Behind the Scenes Wanting Her Crushed in the Media",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:18"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host alleges that Doug DeGroote, whom she says does a lot of PR for Turning Point, was early on one of the people behind the scenes wanting her crushed in the media."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he was, I told you early on, one of the people that was like crazy behind the scenes and wanting me to be crushed in the media."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-496, N-3"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the earlier episode where the host first said this and any messages from DeGroote to media contacts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13683",
+   "header": "**C-13683** Writer Clara Molot Says Charlie Would Have Answered Every Political Question Quickly and Succinctly",
+   "label": "Writer Clara Molot Says Charlie Would Have Answered Every Political Question Quickly and Succinctly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:33:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In an audio clip, Clara Molot says Charlie was a political animal who would have answered every one of her political questions quickly and succinctly, whereas Erika did what she could to avoid those topics."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He obviously was a political animal and would have answered every single one of my questions quickly and succinctly"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2805.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-13, N-1, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10865"
+    },
+    {
+     "k": "Supports",
+     "v": "C-13650"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the source of the Molot audio and confirm it is her own recording or interview."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13684",
+   "header": "**C-13684** Host Says TPUSA Filed a Sloppy Notice of Intent to Sue UVU Then Skipped the Independent Review",
+   "label": "Host Says TPUSA Filed a Sloppy Notice of Intent to Sue UVU Then Skipped the Independent Review",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:47"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says TPUSA first produced a very sloppily filed notice that it intends to sue UVU, and then it emerged that TPUSA did not participate in the independent review."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "first we got the precursor which was a very sloppily filed. We intend to sue UVU and then we learned they didn't even participate in the independent review"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11087, N-10839, N-10859"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the notice of intent to sue and its filing date, and the review's account of TPUSA's non-participation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13685",
+   "header": "**C-13685** Host Says Baron Coleman Had the Scoop That the UVU Review Would Be Very Bad for TPUSA",
+   "label": "Host Says Baron Coleman Had the Scoop That the UVU Review Would Be Very Bad for TPUSA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:47"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Baron Coleman had the scoop that the UVU independent review was coming and that it would be very bad for Turning Point USA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Baron actually had the scoop on that and that it was going to be very bad for Turning Point USA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-330, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10839"
+    },
+    {
+     "k": "Supports",
+     "v": "C-13190"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find Coleman's earlier statement or post predicting the review's release and tone."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13686",
+   "header": "**C-13686** Host Says the Review Dedicates Pages to Debunking Harpole's Narrative on the Shawn Ryan Podcast",
+   "label": "Host Says the Review Dedicates Pages to Debunking Harpole's Narrative on the Shawn Ryan Podcast",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:47"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the independent review dedicates pages to debunking Brian Harpole's narrative on the Shawn Ryan podcast, where she says he presented a message as though it were his."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "they dedicate pages to debunking Brian Harpole's narrative on uh Shawn Ryan's podcast where he pretends that he the fake message meaning it was not his message."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-266, N-224, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10862, N-10839"
+    },
+    {
+     "k": "Supports",
+     "v": "C-13582"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Read the review's pages on Harpole and the Shawn Ryan appearance and compare to the podcast transcript."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13687",
+   "header": "**C-13687** Host Says Her Episode on the Independent Review Reached About 3 Million YouTube Views",
+   "label": "Host Says Her Episode on the Independent Review Reached About 3 Million YouTube Views",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:37"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her episode on the UVU independent review went viral with about 3 million views on YouTube alone."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We do an episode on it. It goes viral. It's like 3 million views on YouTube alone."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10839"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the view count of the host's review episode on YouTube."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13688",
+   "header": "**C-13688** Daily Mail Headline Says Candace Is in Crisis and Links Her to a Secret Military Location",
+   "label": "Daily Mail Headline Says Candace Is in Crisis and Links Her to a Secret Military Location",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:37"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads a Daily Mail headline that she is in crisis as family begs her to disappear and prays she is not killed, with insiders revealing whispers of a foreign reconnaissance mission and her links to a secret military location."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Insiders reveal whispers of a foreign reconnaissance mission and her links to a secret military location."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2806.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10070, N-10867"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive the Daily Mail article, its date and any named insiders."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13689",
+   "header": "**C-13689** Host Says She Has Never Been on a Military Base and Nobody in Her Family Served",
+   "label": "Host Says She Has Never Been on a Military Base and Nobody in Her Family Served",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she has never in her life been on a military base and that nobody in her family has served in the military."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I've never in my life even been on a military base."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10070"
+    },
+    {
+     "k": "Contradicts",
+     "v": "C-13688"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check against the host's own earlier statements about base visits."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13690",
+   "header": "**C-13690** Host Says Kolvet Said Charlie Pulled Back From Her Because She Got Too Crazy on Israel",
+   "label": "Host Says Kolvet Said Charlie Pulled Back From Her Because She Got Too Crazy on Israel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Andrew Kolvet said that the reason Charlie started pulling back from her was that she was getting too crazy on the Jewish stuff, meaning Israel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "this was Andrew Kolvet, was because I just was getting too crazy on the Jewish stuff, right?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10056"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find Kolvet's original statement and its date; compare with the host's account of Charlie's final months."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13691",
+   "header": "**C-13691** Host Says She Is Banned From Australia for Alleged Hatred Toward Jews",
+   "label": "Host Says She Is Banned From Australia for Alleged Hatred Toward Jews",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she is banned from Australia for hatred toward the Jews, for making a mockery, they said, of the Holocaust, and that there have been many headlines calling her anti-Semitic."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I'm banned from Australia for hatred towards the Jews, making a mockery, they said, of the Holocaust"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check Australian government and press records on the visa decision and its stated reasons."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13693",
+   "header": "**C-13693** Host Reads Smear Headlines: Cheating Lesbian Funded by a Zionist and Federal Agent With a Sex Tape",
+   "label": "Host Reads Smear Headlines: Cheating Lesbian Funded by a Zionist and Federal Agent With a Sex Tape",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:40:02"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads headlines titled The Cheating Lesbian Funded by a Zionist, Candace Owens's Hidden Homosexuality, a federal agent promoting her to become president so he can blackmail her with a sex tape, and a Zionist who secretly owns her business."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The federal agent promoting Candace Owens to become president so that he can blackmail her with a sex tape."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2464.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10867"
+    },
+    {
+     "k": "Supports",
+     "v": "C-13692"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive the original posts and identify the author and platform."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13694",
+   "header": "**C-13694** Host Says She Knows People Are Being Paid on Discord to Produce the Smears",
+   "label": "Host Says She Knows People Are Being Paid on Discord to Produce the Smears",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:40:02"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she knows people are being paid on Discord to produce this kind of content against her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I know they're paying people on Discord to do this stuff"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10867"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the Discord channels and any payment records; the claim rests on the host's sources."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13695",
+   "header": "**C-13695** Smear Package Says George Speaks Hebrew as Proof He Is a Secret Zionist",
+   "label": "Smear Package Says George Speaks Hebrew as Proof He Is a Secret Zionist",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:41:37"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the smear package's proof that her husband is a secret Zionist is that George speaks Hebrew."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the proof that they have that he's a secret Zionist is they also led with George speaks Hebrew."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2464.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-30, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10867, N-11088"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive the smear post and check what it actually says about Hebrew."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13696",
+   "header": "**C-13696** Host Says George Studied Theology at Oxford, Chose Ancient Hebrew and Got a First",
+   "label": "Host Says George Studied Theology at Oxford, Chose Ancient Hebrew and Got a First",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:42:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says George majored in theology at Oxford, where students must take ancient Hebrew or ancient Greek, that he chose ancient Hebrew and got a first on his exams."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "So George chose ancient Hebrew and he did well."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-30, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11088"
+    },
+    {
+     "k": "Qualifies",
+     "v": "C-13695"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check Oxford theology course requirements and George's published degree classification."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13697",
+   "header": "**C-13697** Host Says the College Video Was a Sophomore-Year Journalism Final on the Adderall Epidemic",
+   "label": "Host Says the College Video Was a Sophomore-Year Journalism Final on the Adderall Epidemic",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:42:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that as a sophomore her journalism class final was a story edit on epidemics, that she picked the Adderall epidemic on college campuses, and that she uploaded the video to YouTube as her submission."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I picked the aderall epidemic and college campuses."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10868"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the video, its upload metadata and the course syllabus or instructor confirmation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13698",
+   "header": "**C-13698** Host Says the Flickr Album Is Her Own Album From a 2015 Birthday Party",
+   "label": "Host Says the Flickr Album Is Her Own Album From a 2015 Birthday Party",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:43:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Flickr account found by her critics holds her entire album from a birthday party in 2015 that was also on her Facebook."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Certainly is my entire album, which was on my Facebook, of me at a birthday party in 2015."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11089"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the Flickr album with the host's Facebook album and the account's creation date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13699",
+   "header": "**C-13699** Host Says the Critics Found a College Twitter Account She Wishes She Could Access",
+   "label": "Host Says the Critics Found a College Twitter Account She Wishes She Could Access",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:43:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her critics found a Twitter account she had in college that she says she has often said she wishes she could get into."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They also found that I had a Twitter account in college that I've regularly said, I wish I could get into"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11089"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the Twitter handle and its archive history."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13700",
+   "header": "**C-13700** Host Says She Never Had a MySpace Account",
+   "label": "Host Says She Never Had a MySpace Account",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she has never in her life had a MySpace account and that the critics' claim that she did cannot be true."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I have never in my life had a MySpace account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11089, N-10868"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the MySpace archive capture the critics used and any account-owner identifiers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13701",
+   "header": "**C-13701** Host Says the College Video Was Shot in Her Then-Boyfriend's Dorm in Massachusetts",
+   "label": "Host Says the College Video Was Shot in Her Then-Boyfriend's Dorm in Massachusetts",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the college video was shot in her high school boyfriend's dorm in Massachusetts, where she dated him on and off through college, with his roommates in the video."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The college video is actually shot in my boyfriend's dorm."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2807.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10868"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "View the video linked in the description and verify the location and cast."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13702",
+   "header": "**C-13702** Host Says the Smear Alleges Graphic Hookup Posts Across Four Accounts in Rhode Island",
+   "label": "Host Says the Smear Alleges Graphic Hookup Posts Across Four Accounts in Rhode Island",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:45:20"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the smear alleges that she posted graphic group-hookup content across the state of Rhode Island on four different accounts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "across the state of Rhode Island across like four different accounts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11089, N-10867"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive the smear post and the accounts it names."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13703",
+   "header": "**C-13703** Host Says the Smear's Author Cites a Data Leak That Cannot Be Shown",
+   "label": "Host Says the Smear's Author Cites a Data Leak That Cannot Be Shown",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:46:10"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the smear's author claims the profile evidence came from a data leak but cannot show the leak, so readers must trust the claim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We got it from a data leak, but we can't show you the data leak."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11089, N-10867"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask the author which leak and which dataset; none has been shown on air."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13704",
+   "header": "**C-13704** Host Says the Smear Claims She Reactivated the Profile in 2022 While Pregnant",
+   "label": "Host Says the Smear Claims She Reactivated the Profile in 2022 While Pregnant",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:46:10"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the smear claims she last visited or reactivated the profile in 2022 when she was pregnant with her daughter."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I was pregnant with my daughter in 2022, I reactivated my profile"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11089, N-10867"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Request account activity logs from the platform in question."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13706",
+   "header": "**C-13706** Host Says the Supposed MySpace Page Was First Archived August 5, 2025",
+   "label": "Host Says the Supposed MySpace Page Was First Archived August 5, 2025",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the MySpace page the critics attribute to her was first archived on August 5, 2025, and that the account is not hers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Look at the date on when they archived it. August 5th, 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2465.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10868, N-11089"
+    },
+    {
+     "k": "Supports",
+     "v": "C-13705"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the archive.org capture date of the MySpace page."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13707",
+   "header": "**C-13707** Host Says on August 5 Charlie Was in the Hamptons When Netanyahu Phoned With an Offer",
+   "label": "Host Says on August 5 Charlie Was in the Hamptons When Netanyahu Phoned With an Offer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:48:56"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that on the August 5 archive date Charlie was in the Hamptons receiving a phone call from Netanyahu offering to take Turning Point USA to the next level, and that Charlie said no."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Charlie was in the Hamptons receiving a phone call from BBNet and Yahoo offering to take Turning Point USA to the next level, but we don't know."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-36"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10342, N-10027"
+    },
+    {
+     "k": "Supports",
+     "v": "C-4118, C-253"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Corroborate the Netanyahu call and Charlie's refusal through attendees or phone records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13708",
+   "header": "**C-13708** Host Reads Ackman's Post: X Is Incredible Where the World's Experts Gather, on Candace the Plot Thickens",
+   "label": "Host Reads Ackman's Post: X Is Incredible Where the World's Experts Gather, on Candace the Plot Thickens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:48:56"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Bill Ackman wrote that X is incredible, where the world's experts gather and share their knowledge, about Candace Owens, adding that the plot thickens; she says he has since deleted the tweet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "X is incredible where the world's experts gather and share their knowledge"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2465.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-37, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10868"
+    },
+    {
+     "k": "Supports",
+     "v": "C-13710"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Recover the deleted Ackman tweet from the host's capture or an archive."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13709",
+   "header": "**C-13709** Host Says the Tweet Ackman Shared Says the Video and Flickr Account Are Hers via AI Voice Analysis",
+   "label": "Host Says the Tweet Ackman Shared Says the Video and Flickr Account Are Hers via AI Voice Analysis",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:48:56"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the person Ackman retweeted wrote that the lesbian links are fake but that he confirmed the video is hers through AI voice analysis, that the Flickr account is hers, and that George studied Hebrew."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he did confirm that the video is me through AI voice analysis on the YouTube and that he did confirm that the Flickr account is me"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2465.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-37, N-3, N-30"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10868, N-11089"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the retweeted account and read its thread."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13711",
+   "header": "**C-13711** Host Says Tucker Carlson Thinks Bill Ackman's Money Is Very Mysterious",
+   "label": "Host Says Tucker Carlson Thinks Bill Ackman's Money Is Very Mysterious",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:50:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Tucker Carlson thinks Bill Ackman's money is very mysterious and says Carlson considers Ackman not that intelligent or impressive and has met him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He thinks your money is very mysterious."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-22, N-37"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask Carlson for the original remark; this is the host's relay of a private statement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13712",
+   "header": "**C-13712** Host Says the Page Was Archived When Charlie Was With Bill Ackman",
+   "label": "Host Says the Page Was Archived When Charlie Was With Bill Ackman",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:50:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the college project page happened to be archived when Charlie was with Bill Ackman, and asks why Ackman is interested in it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Why is Bill Ackman in particular interested in this thing that happened to be archived when Charlie was with Bill Ackman?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-37, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10868, N-10027"
+    },
+    {
+     "k": "Supports",
+     "v": "C-253"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Date the Ackman and Hamptons meeting against the archive timestamp."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13713",
+   "header": "**C-13713** Host Says She Has Since Received Contracts That She Will Show Next Episode",
+   "label": "Host Says She Has Since Received Contracts That She Will Show Next Episode",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:51:10"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she has since received contracts that she wants to show and will show them in the next episode along with a fuller timeline."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "because I have contracts that I also want to show you that we have since received."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Await the next episode and check whether the contracts are shown; no document appears in this one."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13715",
+   "header": "**C-13715** Host Says Department of War Attacks on Her Double When Erika Is in DC",
+   "label": "Host Says Department of War Attacks on Her Double When Erika Is in DC",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:59:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says, citing a source, that Erika is in DC right now, or at least was yesterday or the day before, and that it seems that when Erika is in DC the Department of War attacks on the host start doubling."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "when she's in DC, the uh, Department of War attacks against me start doubling."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10888"
+    },
+    {
+     "k": "Supports",
+     "v": "C-13672"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare dated DC trips by Erika with the timing of hostile pieces about the host."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13714",
+   "header": "**C-13714** Host Says Her College Video Has Her Playing a Police Officer Who Arrests an Adderall Dealer",
+   "label": "Host Says Her College Video Has Her Playing a Police Officer Who Arrests an Adderall Dealer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:57:49"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her college video was meant to be funny, that she arrested a dealer who was selling Adderall in it, and that she played the police officer."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And I made mine like obviously funny and arrested a dealer who was selling Aderall."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2807.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10868"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "View the video linked in the description to confirm its content."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13716",
+   "header": "**C-13716** Host Says the Smear Included a Video of a Woman Whose Profile Says She Is Indian",
+   "label": "Host Says the Smear Included a Video of a Woman Whose Profile Says She Is Indian",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:00:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the smear package included a video of a woman whose profile says she is Indian, which she and her husband laughed at."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "they even put a video of a some girl who her profile says she's Indian"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-30"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11089, N-10867"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive the video and profile that the smear used."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13717",
+   "header": "**C-13717** Host Says Fake Porn Cannot Pass Because Her Tattoos and Belly Ring Are Missing",
+   "label": "Host Says Fake Porn Cannot Pass Because Her Tattoos and Belly Ring Are Missing",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:00:26"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the images in the smear omit two of her tattoos that would have been visible in the shot and a belly ring she has talked about, so the body shown is not hers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Two of them would have been seen in this shot. And um they also were missing a belly ring."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11089, N-10867"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the images with the host's past podcast descriptions of her tattoos and belly ring."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13718",
+   "header": "**C-13718** Host Predicts the Black Robe Mafia of Judges and Lawyers Will Be Exposed",
+   "label": "Host Predicts the Black Robe Mafia of Judges and Lawyers Will Be Exposed",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:01:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she believes the black robe mafia, meaning judges and lawyers working on behalf of the state, will be exposed, and points to efforts to bankrupt her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I think by the end of this we're also the black robe mafia is going to be exposed as well."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11090"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the judges and lawyers she means; none is named in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13719",
+   "header": "**C-13719** Host Says She Got Fired for Saying Gaza Is a Genocide",
+   "label": "Host Says She Got Fired for Saying Gaza Is a Genocide",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:04:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she will not change her mind about Gaza being a genocide and that she got fired for saying so, and points to being banned from Australia."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And I will not be changing my mind about Gaza being a genocide. I got fired for that."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10063"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the host's employment history and the stated reasons for her departure from Daily Wire."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13720",
+   "header": "**C-13720** Host Plays Wear Forbidden Parody Showing Smear Ideas Like an Underground Casino and Lizard Person",
+   "label": "Host Plays Wear Forbidden Parody Showing Smear Ideas Like an Underground Casino and Lizard Person",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:05:52"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host plays a parody video from Wear Forbidden in which a strategy meeting says they cannot beat Candace on the facts and proposes smears such as an underground casino, lizard person and joining ISIS."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We'll tell everyone she runs an underground casino."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2808.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11091"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the Wear Forbidden account, the video's date and its creator."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13721",
+   "header": "**C-13721** Host Says the Smear's Author Is an Andrew Wilson-Affiliated Old-School Person",
+   "label": "Host Says the Smear's Author Is an Andrew Wilson-Affiliated Old-School Person",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:06:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says, apparently and with \"who knows\", that this is a person like an old school \"graer\" (garbled in the transcript) affiliated with Andrew Wilson."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Apparently, this is the person is like an old school graer Andrew Wilson affiliated person."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-18, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10867, N-11091"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask the host which person she means and the basis for the Wilson affiliation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 6. Meme Register",
+    ""
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-1",
+   "header": "**M-1** (meme) Grieving Widow",
+   "label": "(meme) Grieving Widow",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:01:33"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "because the widow right the widow I'm the widow."
+    },
+    {
+     "k": "Context",
+     "v": "Host mocks the widow framing she says Erika expects to be painted as profound."
+    },
+    {
+     "k": "Tags",
+     "v": "widow, framing"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-7",
+   "header": "**M-7** (meme) Catholic/Evangelical/Jewish identity flip",
+   "label": "(meme) Catholic/Evangelical/Jewish identity flip",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:05:48"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I guess it's now okay to admit that she's a hybrid."
+    },
+    {
+     "k": "Context",
+     "v": "Host reacts to Erika calling herself an evangelical Catholic hybrid."
+    },
+    {
+     "k": "Tags",
+     "v": "hybrid, faith"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-13",
+   "header": "**M-13** (meme) Fake and Gay",
+   "label": "(meme) Fake and Gay",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "01:02:15"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "We have reached the comedy era of this fake and gay world."
+    },
+    {
+     "k": "Context",
+     "v": "Host reads a viewer comment using the phrase while reviewing the smear."
+    },
+    {
+     "k": "Tags",
+     "v": "comment, fake and gay"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-26",
+   "header": "**M-26** (meme) Gaslight",
+   "label": "(meme) Gaslight",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:05:48"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "The earliest thing that they gaslit me over"
+    },
+    {
+     "k": "Context",
+     "v": "Host says TPUSA gaslit her over Erika's Catholicism."
+    },
+    {
+     "k": "Tags",
+     "v": "gaslight, faith"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-28",
+   "header": "**M-28** (meme) Christ is King",
+   "label": "(meme) Christ is King",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "01:04:55"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "You can get yourself a Christ is King shirt."
+    },
+    {
+     "k": "Context",
+     "v": "Host plugs the shirt in the closing merch reminder."
+    },
+    {
+     "k": "Tags",
+     "v": "merch, closing"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-32",
+   "header": "**M-32** (meme) Hit Piece",
+   "label": "(meme) Hit Piece",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:01:33"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "this is not a leftist hit piece."
+    },
+    {
+     "k": "Context",
+     "v": "Host rejects the idea that the Vanity Fair profile is a hit piece."
+    },
+    {
+     "k": "Tags",
+     "v": "hit piece, opener"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-35",
+   "header": "**M-35** (meme) Rabbit Hole",
+   "label": "(meme) Rabbit Hole",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:10:44"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "It's not It's not a rabbit hole."
+    },
+    {
+     "k": "Context",
+     "v": "Host rebuts Erika's no-bandwidth rabbit hole line on Israel."
+    },
+    {
+     "k": "Tags",
+     "v": "rabbit hole, Israel"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-37",
+   "header": "**M-37** (meme) Grifter",
+   "label": "(meme) Grifter",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:05:48"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "she needs to keep up the faith grift"
+    },
+    {
+     "k": "Context",
+     "v": "Host calls Erika's faith talk a grift."
+    },
+    {
+     "k": "Tags",
+     "v": "grift, faith"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-44",
+   "header": "**M-44** (meme) It's Giving",
+   "label": "(meme) It's Giving",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:04:15"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "It's giving Breaking Bad."
+    },
+    {
+     "k": "Context",
+     "v": "Host describes the headline photo's motel-like setting."
+    },
+    {
+     "k": "Tags",
+     "v": "giving, photo"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:21:33"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "And again, it's giving Mean Girls when she says it's the only thing that fits her."
+    },
+    {
+     "k": "Context",
+     "v": "Host compares Erika's only-thing-that-fit line to Mean Girls."
+    },
+    {
+     "k": "Tags",
+     "v": "giving, Mean Girls"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-45",
+   "header": "**M-45** (meme) Spiritual Warfare",
+   "label": "(meme) Spiritual Warfare",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "01:04:11"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "We are in a spiritual battle."
+    },
+    {
+     "k": "Context",
+     "v": "Host closes by framing the fight as spiritual."
+    },
+    {
+     "k": "Tags",
+     "v": "spiritual, closing"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-75",
+   "header": "**M-75** (meme) I'll Say Allegedly",
+   "label": "(meme) I'll Say Allegedly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:26:24"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I will also tell you now and I will say allegedly"
+    },
+    {
+     "k": "Context",
+     "v": "Host hedges the claim that Mikey McCoy gatekept the will appointment."
+    },
+    {
+     "k": "Tags",
+     "v": "allegedly, hedge"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-81",
+   "header": "**M-81** (meme) Bibi Net and Yahoo",
+   "label": "(meme) Bibi Net and Yahoo",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:47:45"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "July 9th is when BB Netanyahu was in Washington DC."
+    },
+    {
+     "k": "Context",
+     "v": "Host puns on Netanyahu's name when dating the archive coincidence."
+    },
+    {
+     "k": "Tags",
+     "v": "Netanyahu, pun"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-95",
+   "header": "**M-95** (meme) Emotional Response Asset",
+   "label": "(meme) Emotional Response Asset",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:36:47"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Pentagon Erika is like the Department of War's emotional asset, whatever it is."
+    },
+    {
+     "k": "Context",
+     "v": "Host riffs on Erika as an asset of the Department of War."
+    },
+    {
+     "k": "Tags",
+     "v": "asset, Erika"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-159",
+   "header": "**M-159** (meme) Widow Peaks",
+   "label": "(meme) Widow Peaks",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:05:48"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "let's go through some of these uh widow peaks as I am now terming them."
+    },
+    {
+     "k": "Context",
+     "v": "Host coins the term for the profile's widow-themed highlights."
+    },
+    {
+     "k": "Tags",
+     "v": "widow, coinage"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-160",
+   "header": "**M-160** (meme) Everybody Grieves Differently World Tour",
+   "label": "(meme) Everybody Grieves Differently World Tour",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:22:21"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Erika was completing the Everybody Grieves Differently World's era tour."
+    },
+    {
+     "k": "Context",
+     "v": "Host mocks Erika's post-assassination appearances as a concert tour."
+    },
+    {
+     "k": "Tags",
+     "v": "tour, mockery"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-161",
+   "header": "**M-161** (meme) Black Robe Mafia",
+   "label": "(meme) Black Robe Mafia",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "01:00:26"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "the black robe mafia is going to be exposed as well"
+    },
+    {
+     "k": "Context",
+     "v": "Host names judges and lawyers working for the state."
+    },
+    {
+     "k": "Tags",
+     "v": "judges, lawyers"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    }
+   ]
+  }
+ ]
+}

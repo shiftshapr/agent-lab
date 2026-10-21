@@ -1,0 +1,7381 @@
+{
+ "format": "cka-source/1",
+ "episode": 22,
+ "blocks": [
+  {
+   "kind": "text",
+   "lines": [
+    "## 1. Meta-Data",
+    "",
+    "- **Episode**: 22",
+    "- **Monument**: cka",
+    "- **CKA seq**: 22",
+    "- **YouTube id**: iHav0PPzUz8",
+    "- **Candace Ep**: 255",
+    "- **Source**: Candace Owens YouTube",
+    "- **Video Timestamp Range**: 00:00:00–01:02:51",
+    "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
+    "- **Transcript SHA-256**: 509201122ed79de97e030313c375fbcb13502e612ab382589b777bb8300a1cb2",
+    "",
+    "- **Episode Ledger Summary**:",
+    "  - Tip-minted Nodes (supplement_2026-10d): N-834, N-11220, N-11221, N-11222",
+    "  - Hole-minted Nodes (reintro-ep022): N-10207, N-10274, N-10277, N-10299, N-10355, N-10452, N-10467, N-10549, N-10673, N-10849, N-10853",
+    "  - Tip-minted Nodes (reintro-ep022): N-11020",
+    "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
+    "  - Claim Range: C-1998–C-2064",
+    "  - New Nodes Introduced: N-200, N-203, N-10203, N-10204, N-10205",
+    "  - Reused Nodes Appearing: N-201, N-204, N-2, N-36, N-40, N-50, N-68, N-82, N-199, N-10000, N-10012, N-10027, N-10028, N-10047, N-10048, N-10056, N-10070, N-10074, N-10106, N-10134, N-10148, N-10185, N-10187, N-10190, N-10202, N-10345, N-10206, N-10209, N-10268, N-10454",
+    "  - (see registers)",
+    "",
+    "## I. Meta-Data",
+    "",
+    "- **Episode Title:** \"BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255\"",
+    "- **Series Title:** Bride of Charlie (Monument)",
+    "- **Episode Number:** 22 (Batch 2)",
+    "- **Channel / Creator:** @RealCandaceO / Candace Owens",
+    "- **Episode Date:** 2025-10-30",
+    "- **Source Used for Analysis:** Transcript (yt-dlp-manual captions, cleaned with video context)",
+    "- **Transcript Completeness Status:** Complete (full episode transcript provided)",
+    "- **Analyst / Agent Name:** Investigation Analysis Agent",
+    "- **Analysis Date:** 2026-03-11",
+    "- **Duration:** 1:02:51",
+    "- **YouTube ID:** iHav0PPzUz8",
+    "",
+    "**Episode 22 Ledger Summary**",
+    "",
+    "- Artifact Families Introduced: A-1290, A-1291, A-1292, A-1293, A-1294, A-1295, A-1296, A-1297, A-1298, A-1299, A-1300",
+    "- New Nodes Introduced (people):  N-200, N-201, N-14, N-203, N-204",
+    "- New Nodes Introduced (investigation targets): N-10203, N-10204, N-10205, N-10206",
+    "- Existing Nodes Reused: N-1 (Charlie Kirk, referenced throughout)",
+    "",
+    "---",
+    "",
+    "## II. Executive Summary",
+    "",
+    "This episode centers on three distinct artifact-anchored threads concerning activity around the September 10, 2025 Provo, Utah airport during and after the assassination of Charlie Kirk, plus a parallel thread documenting post-assassination pressure campaigns to remove Tucker Carlson from Turning Point USA's speaker lineup.",
+    "",
+    "Evidentiary material presented includes FlightRadar screenshots of a military-contracted plane performing a low-altitude loop over Provo Airport both before and ~26 minutes after the shooting; the public statement issued by Derek and Shelaine Maxfield on September 11 regarding tail number N888KG; FlightRadar records for Egyptian Air Force plane SU-BTT, including a three-year route history; an email tip (not displayed, only described) claiming the SU-BTT flight carried military subcontractors who disembarked in Provo on a discreet mission; a Josh Hammer Daily Mail op-ed calling for Tucker Carlson to be \"neutralized\"; a Stop Anti-Semitism X post comparing CNN's platforming of Ana Kasparian and TPUSA's refusal to drop Tucker Carlson to the start of the Holocaust; clips from a Seth Dillon / Dave Smith appearance on Piers Morgan; and a TPUSA internal text-chain screenshot in which Charlie Kirk references losing a $2M/year Jewish donor over the Tucker Carlson question.",
+    "",
+    "Investigatively, the episode advances questions about (a) the purpose and identity of personnel associated with the SU-BTT Egyptian military plane in Provo 9/4–9/10, (b) verification of the N888KG manifest and FBO routing, and (c) authenticity and provenance of the TPUSA text-chain screenshots. Structurally, the episode functions as the host's most aggressive consolidation of the \"foreign involvement\" thesis, paired with the first explicit invocation of host-tier anti-Israel political theology as a parallel interpretive frame.",
+    "",
+    "---",
+    "",
+    "## III. Artifact Register",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1290",
+   "header": "**A-1290** FlightRadar Military-Contracted Plane Screenshot Bundle",
+   "label": "FlightRadar Military-Contracted Plane Screenshot Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1290.1",
+   "header": "**A-1290.1** FlightRadar screenshot showing a military-contracted plane departing Biggs Army Airfield (El Paso, TX) at 6:13 a.m., dipping to ~300 ft over Provo Airport runway at 9:16 a.m. Utah time, then continuing to Kalispell, Montana before returning via the same Provo dip.",
+   "label": "FlightRadar screenshot showing a military-contracted plane departing Biggs Army Airfield (El Paso, TX) at 6:13 a.m., dipping to ~300 ft over Provo Airport runway at 9:16 a.m. Utah time, then continuing to Kalispell, Montana before returning via the same Provo dip.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:02:17"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1999, C-2001, N-10203*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1291",
+   "header": "**A-1291** Maxfield Statement Bundle (N888KG)",
+   "label": "Maxfield Statement Bundle (N888KG)",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1291.1",
+   "header": "**A-1291.1** Public statement issued by Derek and Shelaine Maxfield on the afternoon of September 11, 2025, read in full on air, addressing tail number N888KG, asserting the plane departed Provo with two pilots and no passengers, picked up Derek Maxfield and seven additional passengers at PGA (Page, Arizona), and that radar services with Denver FAA Center were terminated in mutual agreement approximately 10 miles from PGA.",
+   "label": "Public statement issued by Derek and Shelaine Maxfield on the afternoon of September 11, 2025, read in full on air, addressing tail number N888KG, asserting the plane departed Provo with two pilots and no passengers, picked up Derek Maxfield and seven additional passengers at PGA (Page, Arizona), and that radar services with Denver FAA Center were terminated in mutual agreement approximately 10 miles from PGA.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:07:26"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2005, C-2007, C-2008, N-94, N-200, N-10205*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1292",
+   "header": "**A-1292** FlightRadar Egyptian Air Force SU-BTT Bundle",
+   "label": "FlightRadar Egyptian Air Force SU-BTT Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1292.1",
+   "header": "**A-1292.1** FlightRadar screenshot showing Egyptian Air Force plane with tail number SU-BTT, described as having previously visited the United States only twice in the past year.",
+   "label": "FlightRadar screenshot showing Egyptian Air Force plane with tail number SU-BTT, described as having previously visited the United States only twice in the past year.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:12:53"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2015, N-22, N-10204*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1292.2",
+   "header": "**A-1292.2** FlightRadar three-year flight history for SU-BTT showing routine routing through Paris and landings in cities containing U.S. Air Force bases (Minot, ND noted for September 2025); Provo has no Air Force base.",
+   "label": "FlightRadar three-year flight history for SU-BTT showing routine routing through Paris and landings in cities containing U.S. Air Force bases (Minot, ND noted for September 2025); Provo has no Air Force base.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:18:38"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2024, N-22, N-10204*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1293",
+   "header": "**A-1293** Daily Mail Josh Hammer Op-Ed Bundle",
+   "label": "Daily Mail Josh Hammer Op-Ed Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1293.1",
+   "header": "**A-1293.1** Excerpt from Daily Mail op-ed by Josh Hammer stating Tucker's hosting of Nick Fuentes constitutes a \"war on MAGA and the modern American right\" and asserting that \"unless the fox is neutralized, the victim could be the entire extant GOP coalition itself.\"",
+   "label": "Excerpt from Daily Mail op-ed by Josh Hammer stating Tucker's hosting of Nick Fuentes constitutes a \"war on MAGA and the modern American right\" and asserting that \"unless the fox is neutralized, the victim could be the entire extant GOP coalition itself.\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:31:36"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2032, C-2051, N-14, N-22, N-201*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1294",
+   "header": "**A-1294** Stop Anti-Semitism X Post Bundle",
+   "label": "Stop Anti-Semitism X Post Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1294.1",
+   "header": "**A-1294.1** X post by the Stop Anti-Semitism account reading: \"CNN platforming Ana Kasparian, Turning Point USA refusing to cut Tucker Carlson, this is how the Holocaust started. Jew hatred normalized.\"",
+   "label": "X post by the Stop Anti-Semitism account reading: \"CNN platforming Ana Kasparian, Turning Point USA refusing to cut Tucker Carlson, this is how the Holocaust started. Jew hatred normalized.\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:34:20"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2036, N-38, N-22*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1295",
+   "header": "**A-1295** Piers Morgan Interview Clip Bundle (Seth Dillon / Dave Smith)",
+   "label": "Piers Morgan Interview Clip Bundle (Seth Dillon / Dave Smith)",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1295.1",
+   "header": "**A-1295.1** Clip of Seth Dillon on Piers Morgan stating that Tucker Carlson hosting Nick Fuentes was \"extremely irresponsible,\" and that it would have been \"a responsible thing and a good thing for the conservative movement if someone as prominent as Tucker with his large of audience as he has if he was standing in the way of Nick Fuentes becoming more mainstream.\"",
+   "label": "Clip of Seth Dillon on Piers Morgan stating that Tucker Carlson hosting Nick Fuentes was \"extremely irresponsible,\" and that it would have been \"a responsible thing and a good thing for the conservative movement if someone as prominent as Tucker with his large of audience as he has if he was standing in the way of Nick Fuentes becoming more mainstream.\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:35:53"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2038, N-38, N-39, N-22, N-201, N-204*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1295.2",
+   "header": "**A-1295.2** Clip of Seth Dillon on Piers Morgan asking Dave Smith about Tucker Carlson calling Christian Zionists \"heretics\" while having spoken glowingly at Charlie Kirk's memorial.",
+   "label": "Clip of Seth Dillon on Piers Morgan asking Dave Smith about Tucker Carlson calling Christian Zionists \"heretics\" while having spoken glowingly at Charlie Kirk's memorial.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:38:02"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2040, N-38, N-39, N-22, N-1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1295.3",
+   "header": "**A-1295.3** Clip of Seth Dillon on Piers Morgan describing Nick Fuentes' alleged comments including calling J.D. Vance \"fat and ugly\" with a \"brown family,\" glorification of Hitler, and animosity toward Jews, women, and minorities.",
+   "label": "Clip of Seth Dillon on Piers Morgan describing Nick Fuentes' alleged comments including calling J.D. Vance \"fat and ugly\" with a \"brown family,\" glorification of Hitler, and animosity toward Jews, women, and minorities.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:48:05"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2051, N-38, N-201, N-4*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1296",
+   "header": "**A-1296** TPUSA Text Chain Screenshot Bundle",
+   "label": "TPUSA Text Chain Screenshot Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1296.1",
+   "header": "**A-1296.1** Screenshot from internal TPUSA chat referencing Charlie Kirk stating TPUSA \"just lost another huge Jewish donor, 2 million a year, because we won't cancel Tucker\" and that he is \"thinking of inviting Candace.\"",
+   "label": "Screenshot from internal TPUSA chat referencing Charlie Kirk stating TPUSA \"just lost another huge Jewish donor, 2 million a year, because we won't cancel Tucker\" and that he is \"thinking of inviting Candace.\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:42:04"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2046, N-1, N-22, N-10206*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1297",
+   "header": "**A-1297** Daily Mail Headline on Kash Patel Bundle",
+   "label": "Daily Mail Headline on Kash Patel Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1297.1",
+   "header": "**A-1297.1** Daily Mail headline: \"Kash Patel shuts down Charlie Kirk foreign intelligence probe in an explosive feud with Trump's counter terror chief.\"",
+   "label": "Daily Mail headline: \"Kash Patel shuts down Charlie Kirk foreign intelligence probe in an explosive feud with Trump's counter terror chief.\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:21:18"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2027, N-69*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1298",
+   "header": "**A-1298** Viewer Email Bundle (David/Jonathan Interpretation)",
+   "label": "Viewer Email Bundle (David/Jonathan Interpretation)",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1298.1",
+   "header": "**A-1298.1** Email from a viewer read on air interpreting \"Charlie's David\" via the biblical David-Jonathan covenant narrative, in which Jonathan transferred his robe, armor, and symbols of rank to David, an act interpreted as a transfer of succession.",
+   "label": "Email from a viewer read on air interpreting \"Charlie's David\" via the biblical David-Jonathan covenant narrative, in which Jonathan transferred his robe, armor, and symbols of rank to David, an act interpreted as a transfer of succession.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:43:34"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: N-1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1299",
+   "header": "**A-1299** Episode Comment Bundle",
+   "label": "Episode Comment Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1299.1",
+   "header": "**A-1299.1** Viewer comment from \"Obsessed with sports\" stating that Egypt's tail numbers SUBND and SUBTT were present at PEACE 2025, and that tail number N1098L is concerning because Israeli defense companies allegedly manufacture air-launched drones from that platform for use as recon and loitering munitions.",
+   "label": "Viewer comment from \"Obsessed with sports\" stating that Egypt's tail numbers SUBND and SUBTT were present at PEACE 2025, and that tail number N1098L is concerning because Israeli defense companies allegedly manufacture air-launched drones from that platform for use as recon and loitering munitions.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:55:55"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2058, N-10203*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1300",
+   "header": "**A-1300** Josh Hammer Audio Clip Bundle",
+   "label": "Josh Hammer Audio Clip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1300.1",
+   "header": "**A-1300.1** Audio clip played on air of Josh Hammer stating: \"It brings me no pleasure to criticize Tucker Carlson as much as I have been doing. But he has become the leading tip of the spear of what can only be described as a cancerous force running to engulf the entire American right.\"",
+   "label": "Audio clip played on air of Josh Hammer stating: \"It brings me no pleasure to criticize Tucker Carlson as much as I have been doing. But he has become the leading tip of the spear of what can only be described as a cancerous force running to engulf the entire American right.\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:42:40"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2047, N-14, N-22*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3006",
+   "header": "**A-3006** Decentralized Intelligence Agency Tip Line Bundle",
+   "label": "Decentralized Intelligence Agency Tip Line Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3006.1",
+   "header": "**A-3006.1** Host verbal reference to the tip email address moretips@candaceowens.com, asking viewers for information on the Egyptian flight (verbal call for tips, nothing shown)",
+   "label": "Host verbal reference to the tip email address moretips@candaceowens.com, asking viewers for information on the Egyptian flight (verbal call for tips, nothing shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"please email us at moretips@candaceowens. com pertaining to this this Egyptian flight\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:27:23"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2029, N-3, N-10204*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3007",
+   "header": "**A-3007** Foreign Tipster Email Bundle",
+   "label": "Foreign Tipster Email Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3007.1",
+   "header": "**A-3007.1** Host verbal reference to an email from an unnamed person in a foreign country who claims intimate knowledge of the Egyptian plane flight (email not shown)",
+   "label": "Host verbal reference to an email from an unnamed person in a foreign country who claims intimate knowledge of the Egyptian plane flight (email not shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:14:07"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2019, C-2020, C-2023, C-2026, N-3, N-10204*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3008",
+   "header": "**A-3008** Mark FlightRadar N1098L Position Screenshot Bundle",
+   "label": "Mark FlightRadar N1098L Position Screenshot Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3008.1",
+   "header": "**A-3008.1** Screenshot on screen from FlightRadar of where plane N1098L was at the moment Charlie Kirk was shot, described by Mark as over Idaho about 20 minutes out of Provo",
+   "label": "Screenshot on screen from FlightRadar of where plane N1098L was at the moment Charlie Kirk was shot, described by Mark as over Idaho about 20 minutes out of Provo",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:56:45"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2060, N-67, N-10185*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3009",
+   "header": "**A-3009** Charlie Moral Blackmail Clip Bundle",
+   "label": "Charlie Moral Blackmail Clip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3009.1",
+   "header": "**A-3009.1** Audio clip played on air, introduced as an episode of the host's micro-series, in which a speaker says Charlie did not appreciate being morally blackmailed and would dig in his heels, with a line about Tucker getting two speeches at AmFest",
+   "label": "Audio clip played on air, introduced as an episode of the host's micro-series, in which a speaker says Charlie did not appreciate being morally blackmailed and would dig in his heels, with a line about Tucker getting two speeches at AmFest",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:41:06"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2045, N-1, N-22*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3010",
+   "header": "**A-3010** Norman Finkelstein Interview Trailer Bundle",
+   "label": "Norman Finkelstein Interview Trailer Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3010.1",
+   "header": "**A-3010.1** Trailer for the host's upcoming interview with Norman Finkelstein played on air (audio not transcribed in the corrected transcript)",
+   "label": "Trailer for the host's upcoming interview with Norman Finkelstein played on air (audio not transcribed in the corrected transcript)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:45:49"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2064, N-199*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3011",
+   "header": "**A-3011** Viewer Comment Bundle (Caitlyn Drip-Feed Question)",
+   "label": "Viewer Comment Bundle (Caitlyn Drip-Feed Question)",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3011.1",
+   "header": "**A-3011.1** Viewer comment from Caitlyn read on air asking whether the host is drip-feeding information about Charlie's death and the betrayals around him",
+   "label": "Viewer comment from Caitlyn read on air asking whether the host is drip-feeding information about Charlie's death and the betrayals around him",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:53:47"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2054, C-2056, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## IV. Node Register",
+    ""
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-69",
+   "header": "**N-69** Kash Patel",
+   "label": "Kash Patel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "FBI Director referenced in Daily Mail headline (A-1297.1) as having shut down a foreign intelligence probe related to Charlie Kirk's assassination. Investigative target due to executive-level decisions regarding investigative scope."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2027, A-1297.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-94",
+   "header": "**N-94** Derek Maxfield",
+   "label": "Derek Maxfield",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Co-owner (with wife Shelaine Maxfield) of plane N888KG that departed Provo at 1:20 p.m. Mountain time on 9/10; issued public statement on 9/11 defending the flight's innocuousness. Investigative target for manifest verification and potential federal coordination."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "3"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2005, C-2007, C-2008, A-1291.1, N-10205*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-200",
+   "header": "**N-200** Shelaine Maxfield",
+   "label": "Shelaine Maxfield",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Co-owner (with husband Derek Maxfield) of plane N888KG; co-signatory of the September 11 public statement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2007, A-1291.1, N-94*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-22",
+   "header": "**N-22** Tucker Carlson",
+   "label": "Tucker Carlson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host who interviewed Nick Fuentes; subject of a coordinated campaign (Hammer op-ed, Stop Anti-Semitism post, Seth Dillon commentary) demanding removal from TPUSA speaking lineup; mentioned by Charlie Kirk in TPUSA text chain as someone he fought to keep on the lineup."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "4"
+    },
+    {
+     "k": "Claim Count",
+     "v": "6"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2032, C-2036, C-2038, C-2040, C-2046, C-2047, A-1293.1, A-1294.1, A-1295.1, A-1295.2, A-1296.1, A-1300.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-201",
+   "header": "**N-201** Nick Fuentes",
+   "label": "Nick Fuentes",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Guest on Tucker Carlson's show; described by Seth Dillon as having animosity toward Jews, women, and minorities, having called J.D. Vance \"fat and ugly\" with a \"brown family,\" and having glorified Hitler."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2051, A-1295.3*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-38",
+   "header": "**N-38** Seth Dillon",
+   "label": "Seth Dillon",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Recurring post-assassination commentator; subject of Piers Morgan interview clips (A-1295.1, A-1295.2, A-1295.3) critiquing Tucker's hosting of Fuentes. Identified in the Hampton's event as having pressured Charlie Kirk on Israel views prior to the assassination."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "3"
+    },
+    {
+     "k": "Claim Count",
+     "v": "3"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2038, C-2040, C-2051, A-1295.1, A-1295.2, A-1295.3*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-39",
+   "header": "**N-39** Dave Smith",
+   "label": "Dave Smith",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Interviewee in Piers Morgan clips alongside Seth Dillon; subject of host framing as a truth-teller opposed to the cancellation campaign against Tucker."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1295.1, A-1295.2, N-38*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-203",
+   "header": "**N-203** Ana Kasparian",
+   "label": "Ana Kasparian",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of Stop Anti-Semitism X post (A-1294.1) referencing her CNN platforming as parallel evidence of \"Holocaust normalization.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2036, A-1294.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-204",
+   "header": "**N-204** Piers Morgan",
+   "label": "Piers Morgan",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host of interview program from which Seth Dillon/Dave Smith clips (A-1295) are sourced."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1295.1, A-1295.2, A-1295.3*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-4",
+   "header": "**N-4** JD Vance",
+   "label": "JD Vance",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Vice President; identified by Seth Dillon (A-1295.3) as a target of alleged Nick Fuentes insults (\"fat and ugly,\" \"brown family\")."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2051, A-1295.3, N-201*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-67",
+   "header": "**N-67** Mark Herman (director, Candace show)",
+   "label": "Mark Herman (director, Candace show)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here he explains the FlightRadar chart for the Biggs Army Airfield plane (altitude, airspeed, 3:16 p.m. UTC, minus 6 hours for 9:16 a.m. Utah time); the host later cites his UTC explanation and a correction he gave \"in my ear\", and in comments he says the N1098L plane was over Idaho, not Provo, when Charlie Kirk was shot."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1999*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10203",
+   "header": "**N-10203** Provo Airport Flight Anomaly Cluster",
+   "label": "Provo Airport Flight Anomaly Cluster",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Persistent investigative target encompassing the three suspicious flight events at Provo Airport on 9/10/2025: the military-contracted plane low dip (A-1290.1), the N888KG Maxfield plane departure (A-1291.1), and the SU-BTT Egyptian Air Force departure window (A-1292.1, A-1292.2). Also incorporates viewer-flagged tail N1098L (A-1299.1)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "4"
+    },
+    {
+     "k": "Claim Count",
+     "v": "5"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1999, C-2001, C-2005, C-2015, C-2058, A-1290.1, A-1291.1, A-1292.1, A-1299.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10204",
+   "header": "**N-10204** Egyptian Air Force SU-BTT Provo Mission Question",
+   "label": "Egyptian Air Force SU-BTT Provo Mission Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Persistent investigative target regarding purpose of Egyptian Air Force presence in Provo from 9/4–9/10, identity of personnel reportedly dropped off, and nature of any \"discreet mission\" alleged by the unnamed email tipster."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "3"
+    },
+    {
+     "k": "Claim Count",
+     "v": "3"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2015, C-2024, C-2021, C-2022, A-1292.1, A-1292.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10205",
+   "header": "**N-10205** N888KG Flight Manifest Verification",
+   "label": "N888KG Flight Manifest Verification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Persistent investigative target regarding the actual passenger manifest of plane N888KG during its 9/10/2025 movements, including the contested FBO routing (Million Air FBO vs. alternative), the alleged federal instruction for airport personnel to lie, and the discrepancy between the Maxfield statement and any independent flight records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "3"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2005, C-2007, C-2008, A-1291.1, N-94, N-200*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10206",
+   "header": "**N-10206** TPUSA Text Chain Authenticity Verification",
+   "label": "TPUSA Text Chain Authenticity Verification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Persistent investigative target regarding provenance, authenticity, and chain-of-custody of the TPUSA internal text-chain screenshot (A-1296.1) attributed to Charlie Kirk. Independent verification required before claims drawn from it can be elevated."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2046, A-1296.1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-3",
+   "header": "**N-3** Candace Owens",
+   "label": "Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host; speaks for herself throughout."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1998, C-2000, C-2002, C-2003, C-2004, C-2006, C-2009, C-2011, C-2012, C-2013, C-2014, C-2016, C-2017, C-2019, C-2020, C-2023, C-2025, C-2026, C-2028, C-2029, C-2030, C-2031, C-2034, C-2035, C-2037, C-2039, C-2041, C-2042, C-2043, C-2044, C-2048, C-2049, C-2050, C-2052, C-2053, C-2054, C-2056, C-2055, C-2057, C-2059, C-2061, C-2062, C-2063, C-2064*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-1",
+   "header": "**N-1** Charlie Kirk",
+   "label": "Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of the assassination; his texts, views and pressure from donors are discussed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1998, C-2000, C-2002, C-2003, C-2004, C-2006, C-2009, C-2010, C-2011, C-2012, C-2014, C-2016, C-2017, C-2019, C-2020, C-2023, C-2025, C-2026, C-2028, C-2029, C-2030, C-2031, C-2033, C-2034, C-2035, C-2037, C-2039, C-2041, C-2042, C-2043, C-2044, C-2045, C-2048, C-2050, C-2054, C-2056, C-2057, C-2059, C-2060, C-2061, C-2063*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-55",
+   "header": "**N-55** Josh Hammer",
+   "label": "Josh Hammer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Author of the Daily Mail op-ed about Tucker Carlson; discussed as a Hamptons and text-chain participant."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2031, C-2033, C-2034, C-2050, C-2053, C-2063*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-40",
+   "header": "**N-40** Tyler Robinson",
+   "label": "Tyler Robinson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Accused shooter; the host says he was not on the Woodbury building or campus."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2004*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-82",
+   "header": "**N-82** Brigitte Macron",
+   "label": "Brigitte Macron",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Referenced in the host's pattern comparison about defamation suits and debunks."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2013*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-50",
+   "header": "**N-50** Sigmund Freud",
+   "label": "Sigmund Freud",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of the host's claim about the book Assault on Truth."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2062*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-2",
+   "header": "**N-2** Erika Kirk",
+   "label": "Erika Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "TPUSA CEO; the host expects donor pressure on her over Tucker Carlson."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2002, C-2006, C-2009, C-2010, C-2011, C-2030, C-2031, C-2033, C-2039, C-2041, C-2044, C-2045, C-2052, C-2061, C-2064*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-199",
+   "header": "**N-199** Norman Finkelstein",
+   "label": "Norman Finkelstein",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Guest of the host's interview aired the day after this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2064*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-36",
+   "header": "**N-36** Benjamin Netanyahu",
+   "label": "Benjamin Netanyahu",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named in the host's account of what Seth Dillon pressed Charlie about."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2043*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-68",
+   "header": "**N-68** Schuyler",
+   "label": "Schuyler",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Producer addressed by the host about where the Seth Dillon clip came from."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2052*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10074",
+   "header": "**N-10074** Provo, Utah",
+   "label": "Provo, Utah",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing item reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1998, C-2000, C-2012, C-2025, C-2029*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10849",
+   "header": "**N-10849** Woodbury Building / Baugh Family / N88 Plane Connection Question",
+   "label": "Woodbury Building / Baugh Family / N88 Plane Connection Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing item reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2002, C-2003, C-2004*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10012",
+   "header": "**N-10012** Utah Valley University",
+   "label": "Utah Valley University",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing item reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2003*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10028",
+   "header": "**N-10028** Utah Valley University Campus",
+   "label": "Utah Valley University Campus",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing item reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2004*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10549",
+   "header": "**N-10549** Egyptian Plane Transponding Correlation",
+   "label": "Egyptian Plane Transponding Correlation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing item reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2006*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10190",
+   "header": "**N-10190** Signature FBO / Million Air FBO (entity cluster)",
+   "label": "Signature FBO / Million Air FBO (entity cluster)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing item reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2012*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10853",
+   "header": "**N-10853** Dairy Queen Timestamp UTC vs MST Reconciliation",
+   "label": "Dairy Queen Timestamp UTC vs MST Reconciliation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing item reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2016*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10207",
+   "header": "**N-10207** SUBTT (Egyptian military aircraft) Flight Tracking Question",
+   "label": "SUBTT (Egyptian military aircraft) Flight Tracking Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing item reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2014, C-2016*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11020",
+   "header": "**N-11020** Military Bot Activity Claim",
+   "label": "Military Bot Activity Claim",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing item reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2017*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10299",
+   "header": "**N-10299** TPUSA Egyptian Plane Story Suppression Attempt",
+   "label": "TPUSA Egyptian Plane Story Suppression Attempt",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing item reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2017, C-2020*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10202",
+   "header": "**N-10202** FBI Charlie Kirk Investigation Handling (Kash Patel)",
+   "label": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing item reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2023, C-2028*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10274",
+   "header": "**N-10274** BTT Minot AFB Stopover Question",
+   "label": "BTT Minot AFB Stopover Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing item reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2025*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10277",
+   "header": "**N-10277** Minot Air Force Base",
+   "label": "Minot Air Force Base",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing item reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2025*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10355",
+   "header": "**N-10355** Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute",
+   "label": "Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing item reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2028*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10000",
+   "header": "**N-10000** Turning Point USA",
+   "label": "Turning Point USA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing item reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2030, C-2044, C-2061, C-2063*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10268",
+   "header": "**N-10268** AmFest Speaker Removal Pattern",
+   "label": "AmFest Speaker Removal Pattern",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing item reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2030, C-2044, C-2045*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10070",
+   "header": "**N-10070** Daily Mail",
+   "label": "Daily Mail",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing item reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2031, C-2033*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10187",
+   "header": "**N-10187** Josh Hammer Text Messages Context",
+   "label": "Josh Hammer Text Messages Context",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing item reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2034*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10452",
+   "header": "**N-10452** Candace Owens Anti-Semite of Year 2024 Nomination",
+   "label": "Candace Owens Anti-Semite of Year 2024 Nomination",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing item reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2035*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10345",
+   "header": "**N-10345** Hampton Retreat Seth Dillon Confrontation",
+   "label": "Hampton Retreat Seth Dillon Confrontation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing item reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2037, C-2050*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10027",
+   "header": "**N-10027** The Hamptons",
+   "label": "The Hamptons",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing item reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2037*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10454",
+   "header": "**N-10454** Gaza Death Toll and Documentation Claims",
+   "label": "Gaza Death Toll and Documentation Claims",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing item reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2039*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10209",
+   "header": "**N-10209** TPUSA Faith / Christian Zionist Infiltration Question",
+   "label": "TPUSA Faith / Christian Zionist Infiltration Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing item reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2041*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10148",
+   "header": "**N-10148** Charlie Kirk Pre-Mortem Israel Position Claim",
+   "label": "Charlie Kirk Pre-Mortem Israel Position Claim",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing item reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2042*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10056",
+   "header": "**N-10056** Kirk-Israel Narrative Dispute",
+   "label": "Kirk-Israel Narrative Dispute",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing item reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2042*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10134",
+   "header": "**N-10134** Hamptons Weekend Retreat",
+   "label": "Hamptons Weekend Retreat",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing item reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2043*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10673",
+   "header": "**N-10673** Hamptons August 5–7 Intervention Event",
+   "label": "Hamptons August 5–7 Intervention Event",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing item reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2043*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10106",
+   "header": "**N-10106** Moral Blackmail by Donors",
+   "label": "Moral Blackmail by Donors",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing item reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2045*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10047",
+   "header": "**N-10047** Donor Intimidation of Charlie Kirk",
+   "label": "Donor Intimidation of Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing item reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2050, C-2061*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10467",
+   "header": "**N-10467** TPUSA Donor Targeting Pattern Question",
+   "label": "TPUSA Donor Targeting Pattern Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing item reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2061*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10048",
+   "header": "**N-10048** Charlie Kirk Assassination Investigation",
+   "label": "Charlie Kirk Assassination Investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing item reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2057*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10185",
+   "header": "**N-10185** Plane N1098L Investigation",
+   "label": "Plane N1098L Investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing item reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2059, C-2060*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-834",
+   "header": "**N-834** Casey Baugh",
+   "label": "Casey Baugh",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "03:53 in episode 22 as a co-owner of the Maxfield plane and as having his name on the Baugh Entrepreneurship Institute at UVU.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2002, C-2003, C-2004*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11220",
+   "header": "**N-11220** Stop Antisemitism",
+   "label": "Stop Antisemitism",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "raw": "X account the host calls the Stop Anti-Semitism account; its post tying CNN and TPUSA decisions to the start of the Holocaust is discussed, and the host says it named her top anti-Semite of the year."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2035*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11221",
+   "header": "**N-11221** Newsweek",
+   "label": "Newsweek",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "raw": "Publication where the host says Josh Hammer is editor-at-large."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2053*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11222",
+   "header": "**N-11222** LSA LLC",
+   "label": "LSA LLC",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "raw": "Owner the host names for plane N1098L (transcribed once as \"Lasai\"); the military-contracted plane that flew from Biggs Army Airfield to Montana."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2059*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## V. Claim Register",
+    ""
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1999",
+   "header": "**C-1999** Host Says Military-Contracted Plane Dipped Low Over Provo Airport at 9:16 a.m.",
+   "label": "Host Says Military-Contracted Plane Dipped Low Over Provo Airport at 9:16 a.m.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:17"
+    },
+    {
+     "k": "Claim",
+     "v": "The host says FlightRadar data shows a military-contracted plane from Biggs Army Airfield dipped to approximately 300 feet above the Provo Airport runway at 9:16 a.m. Utah time on September 10, 2025."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1290.1"
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10203"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain raw FlightRadar/ADS-B Exchange records for the plane's full track; cross-reference with FAA Biggs Army Airfield outbound logs for 9/10/2025."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2001",
+   "header": "**C-2001** Host Says Second Low Dip Came Approximately 26 Minutes After the Assassination",
+   "label": "Host Says Second Low Dip Came Approximately 26 Minutes After the Assassination",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:53"
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the same military-contracted plane from Biggs Army Airfield dipped again to approximately 300 feet over the Provo Airport runway approximately 26 minutes after Charlie Kirk was shot, during its return leg to El Paso."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1290.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10203"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Corroborate the timing of the second dip against the publicly established time of the shooting and FAA flight records."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2005",
+   "header": "**C-2005** Host Says N888KG Departed Provo at 1:20 p.m. on 9/10",
+   "label": "Host Says N888KG Departed Provo at 1:20 p.m. on 9/10",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:46"
+    },
+    {
+     "k": "Claim",
+     "v": "The host says plane N888KG, which she describes as the Baugh-Maxfield plane, departed Provo Airport at 1:20 p.m. Mountain time on September 10, 2025."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1291.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-94, N-834"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10205"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Cross-check against FAA departure logs and Provo Airport (PVU) records."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2007",
+   "header": "**C-2007** Maxfield statement on crew, passengers, and route",
+   "label": "Maxfield statement on crew, passengers, and route",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:26"
+    },
+    {
+     "k": "Claim",
+     "v": "Derek Maxfield publicly stated that the N888KG plane departed Provo on 9/10 at 1:20 p.m. Mountain time with two pilots and no passengers, flew to Page, Arizona (PGA), where Derek Maxfield plus seven additional passengers boarded for the return trip to Provo."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1291.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-94"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10205"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify pilot identities and PGA passenger manifest through FAA and PGA airport records; obtain airport surveillance footage of boarding."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2008",
+   "header": "**C-2008** Maxfield statement on FAA radar termination",
+   "label": "Maxfield statement on FAA radar termination",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:12"
+    },
+    {
+     "k": "Claim",
+     "v": "Derek Maxfield publicly stated that radar services with Denver FAA Center and N888KG were terminated in mutual agreement approximately 10 miles from PGA, consistent with standard practice at non-towered airports."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1291.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-94"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10205"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the FAA termination claim against Denver Center controller logs and FAA standard operating procedures for non-towered airports."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2015",
+   "header": "**C-2015** Host Says Egyptian Air Force Plane SU-BTT Arrived at Provo September 4 and Departed September 10",
+   "label": "Host Says Egyptian Air Force Plane SU-BTT Arrived at Provo September 4 and Departed September 10",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:53"
+    },
+    {
+     "k": "Claim",
+     "v": "The host says FlightRadar data shows Egyptian Air Force plane SU-BTT arrived at Provo Airport on September 4, 2025 and departed Provo on September 10, 2025 at 7:14 a.m. local time, with an interim layover at Wilmington, Delaware before continuing to Cairo."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1292.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10204"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm via raw FlightRadar history and ADS-B Exchange; cross-check Wilmington, Delaware airport logs; verify with Egyptian military public affairs and U.S. State Department foreign military landing notifications."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2024",
+   "header": "**C-2024** Host Says SU-BTT's Three-Year Routing Pattern Runs Through Paris to Air Force Base Cities",
+   "label": "Host Says SU-BTT's Three-Year Routing Pattern Runs Through Paris to Air Force Base Cities",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:38"
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the FlightRadar three-year history for SU-BTT shows the aircraft routinely flies through Paris, and that she noticed the trend that it always flies to an Air Force base."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1292.2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10204"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compile full U.S. landing history; cross-reference landing locations with known U.S. Air Force installations."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2021",
+   "header": "**C-2021** Email tipster claim: SU-BTT carried subcontractors dropped in Provo",
+   "label": "Email tipster claim: SU-BTT carried subcontractors dropped in Provo",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:53"
+    },
+    {
+     "k": "Claim",
+     "v": "The host says, citing an unnamed email tipster, that she can report as a fact that the SU-BTT flight carried Egyptian military subcontractors who were dropped off in Provo, Utah and did not make it back to Cairo when the plane departed."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "None displayed (verbally referenced)"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10204"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Independently verify through State Department foreign military landing records, hotel logs in Utah County 9/4–9/10, and Egyptian Air Force roster cross-checks."
+    },
+    {
+     "raw": "*Note: Artifact verbally referenced but not shown.*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2022",
+   "header": "**C-2022** Email tipster claim: discreet top-secret mission in Provo",
+   "label": "Email tipster claim: discreet top-secret mission in Provo",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:59"
+    },
+    {
+     "k": "Claim",
+     "v": "The same unnamed email tipster claims the Egyptian military personnel were in Provo on a top-secret, discreet mission, and that the tipster was \"scared for their life\" in providing this information."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "None displayed (verbally referenced)"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10204"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify independently; cross-reference with any joint U.S.–Egypt military exercise notifications or State Department disclosures."
+    },
+    {
+     "raw": "*Note: Artifact verbally referenced but not shown.*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2027",
+   "header": "**C-2027** Daily Mail headline on Kash Patel shutting down foreign intelligence probe",
+   "label": "Daily Mail headline on Kash Patel shutting down foreign intelligence probe",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:18"
+    },
+    {
+     "k": "Claim",
+     "v": "The Daily Mail published a headline stating \"Kash Patel shuts down Charlie Kirk foreign intelligence probe in an explosive feud with Trump's counter terror chief.\""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1297.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-69, N-1"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the underlying Daily Mail article; identify what specific probe was referenced; request FBI/Patel on-record response."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2032",
+   "header": "**C-2032** Josh Hammer op-ed \"neutralize\" language",
+   "label": "Josh Hammer op-ed \"neutralize\" language",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:36"
+    },
+    {
+     "k": "Claim",
+     "v": "Per the Daily Mail op-ed by Josh Hammer that the host reads, Hammer called Tucker's hosting of Nick Fuentes a \"war on MAGA and the modern American right,\" and stated that \"unless the fox is neutralized, the victim could be the entire extant GOP coalition itself.\""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1293.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-55, N-22, N-201"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full op-ed in original Daily Mail publication; document the \"neutralize\" framing in context."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2036",
+   "header": "**C-2036** Stop Anti-Semitism tweet equating CNN/TPUSA decisions with Holocaust origins",
+   "label": "Stop Anti-Semitism tweet equating CNN/TPUSA decisions with Holocaust origins",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:20"
+    },
+    {
+     "k": "Claim",
+     "v": "The Stop Anti-Semitism X account posted: \"CNN platforming Ana Kasparian, Turning Point USA refusing to cut Tucker Carlson, this is how the Holocaust started. Jew hatred normalized.\""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1294.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-22, N-203"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain original X post URL; preserve deletion history and engagement metrics."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2038",
+   "header": "**C-2038** Seth Dillon on Tucker/Fuentes \"irresponsibility\"",
+   "label": "Seth Dillon on Tucker/Fuentes \"irresponsibility\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:35:53"
+    },
+    {
+     "k": "Claim",
+     "v": "On Piers Morgan, Seth Dillon stated that Tucker Carlson hosting Nick Fuentes was \"extremely irresponsible,\" and that it would have been \"a responsible thing and a good thing for the conservative movement\" for Tucker to be \"standing in the way of Nick Fuentes becoming more mainstream.\""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1295.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-22, N-38, N-201, N-204"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain full unedited Piers Morgan interview; verify clip is unedited."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2040",
+   "header": "**C-2040** Seth Dillon on Tucker and Christian Zionist \"heretics\" framing",
+   "label": "Seth Dillon on Tucker and Christian Zionist \"heretics\" framing",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:02"
+    },
+    {
+     "k": "Claim",
+     "v": "On Piers Morgan, Seth Dillon asked Dave Smith about Tucker Carlson calling Christian Zionists \"heretics\" while having spoken glowingly at Charlie Kirk's memorial, pressing Smith to reconcile these positions."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1295.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-22, N-38, N-39, N-204"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain full unedited interview segment; verify context."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2051",
+   "header": "**C-2051** Seth Dillon on Nick Fuentes' alleged statements regarding J.D. Vance",
+   "label": "Seth Dillon on Nick Fuentes' alleged statements regarding J.D. Vance",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:48:05"
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip the host plays, which she indicates was from a separate show rather than Piers Morgan, Seth Dillon characterizes Nick Fuentes as having animosity toward Jews, having called J.D. Vance \"fat and ugly\" with a \"brown family,\" and as having engaged in \"glorification of Hitler.\""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1295.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-4, N-38, N-201, N-204"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify specific Fuentes quotes against primary source material; obtain full interview segment."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2046",
+   "header": "**C-2046** TPUSA text chain: Jewish donor loss and Candace invitation",
+   "label": "TPUSA text chain: Jewish donor loss and Candace invitation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:42:04"
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip the host plays, a speaker describing screenshots of an internal chat Charlie Kirk was doing with TPUSA says it reads \"Just lost another huge Jewish donor, 2 million a year, because we won't cancel Tucker. And I'm thinking of inviting Candace.\""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1296.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-22, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10206"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Independently verify the screenshot provenance, timestamp, and participants; confirm via TPUSA records or corroborating witnesses."
+    },
+    {
+     "raw": "*Note: Requires human verification.*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2047",
+   "header": "**C-2047** Josh Hammer audio clip on Tucker as \"cancerous force\"",
+   "label": "Josh Hammer audio clip on Tucker as \"cancerous force\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:42:40"
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip the host plays, a speaker not named on air (attributed in the archive to Josh Hammer) says: \"It brings me no pleasure to criticize Tucker Carlson as much as I have been doing. But he has become the leading tip of the spear of what can only be described as a cancerous force running to engulf the entire American right.\""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1300.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-55, N-22"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify original source of audio clip (interview, podcast, or other); confirm attribution."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2058",
+   "header": "**C-2058** Viewer comment: SUBND/SUBTT at PEACE 2025; N1098L drone concerns",
+   "label": "Viewer comment: SUBND/SUBTT at PEACE 2025; N1098L drone concerns",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:55:55"
+    },
+    {
+     "k": "Claim",
+     "v": "A viewer comment from \"Obsessed with sports\" the host reads says Egyptian tail numbers SUBND and SUBTT were at PEACE 2025 and that tail number N1098L is concerning since Israeli defense companies are now making air-launched drones for recon and as loitering munitions; the host says the commenter is claiming the plane is being used by Israeli defense companies, which she has not checked."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1299.1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10203"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify PEACE 2025 aircraft attendance records; independently confirm N1098L ownership, registration history, and any ties to Israeli defense manufacturers."
+    },
+    {
+     "raw": "*Note: Possible transcription error in \"After and Haiti\" fragment; flagged below.*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2018",
+   "header": "**C-2018** Host identifies show community as Decentralized Intelligence Agency",
+   "label": "Host identifies show community as Decentralized Intelligence Agency",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:07"
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she was going through the DCIA tips box, which she calls \"our decentralized intelligence agency tips box,\" when she found an email about the Egyptian flight."
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "...as going through the DCIA tips box, you know, our decentralized intelligence agency tips box. And I found a very interesting email. I'm going to be very careful here to make sure I do..."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1998",
+   "header": "**C-1998** Host says Egyptian military men were on the ground in Utah on 9/10",
+   "label": "Host says Egyptian military men were on the ground in Utah on 9/10",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:00:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she now knows that Egyptian military men were on the ground in Utah on September 10, the day of Charlie Kirk's assassination, and demands that the government release who they were and why they were there."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "there were some Egyptian military men that were on the ground on September 10th in Utah on the day of Charlie Kirk's assassination"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10074, N-10204"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Government or airport records of any Egyptian military personnel in Utah on September 10, 2025, and the basis for the host's claim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2000",
+   "header": "**C-2000** Military plane landed in Kalispell for under an hour before returning to Texas",
+   "label": "Military plane landed in Kalispell for under an hour before returning to Texas",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the military-contracted plane from Biggs Army Airfield continued to Kalispell, Montana, landed for just under an hour, then departed back to Texas, dipping again to just over 300 feet over the Provo runway on the return."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it continued on to Kalispell, Montana, and then it lands for just under an hour before it again departs back for Texas."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1290.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10203, N-10074"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2001"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "FlightRadar history of the plane showing the Kalispell stop duration and return track."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2002",
+   "header": "**C-2002** Maxfield plane co-owned by Casey Baugh",
+   "label": "Maxfield plane co-owned by Casey Baugh",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the plane owned by Derek and Shelaine Maxfield is also co-owned by a person named Casey Baugh, who she says did not register on internet radar."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Someone who didn't hit internet radar who also co-owns that plane with them is a person named Casey Baugh, B A U G H."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-94, N-200, N-834, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10849"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "FAA aircraft registration and ownership records for the Maxfield plane."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2003",
+   "header": "**C-2003** Casey Baugh's name is on an institute at UVU's Woodbury Building",
+   "label": "Casey Baugh's name is on an institute at UVU's Woodbury Building",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Casey Baugh has his name on the Baugh Entrepreneurship Institute at Utah Valley University, which operates out of the Woodbury Business Building."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the Baugh Entrepreneurship Institute, which operates out of the Woodbury Business Building, okay?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-834, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10849, N-10012"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "UVU website and records for the Baugh Entrepreneurship Institute and its location."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2004",
+   "header": "**C-2004** Host says Tyler Robinson was not on the Woodbury building or campus",
+   "label": "Host says Tyler Robinson was not on the Woodbury building or campus",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:29"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that, as is now known, Tyler Robinson was not on the Woodbury building or on campus at all, so she does not treat Casey Baugh as a suspect for providing access."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "of course, now we know that Tyler Robinson was not on the Woodbury building or on campus at all, for that matter."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-40, N-834, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10028, N-10849"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Charging documents and campus video establishing where Robinson was relative to the Woodbury Business Building."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2006",
+   "header": "**C-2006** Maxfield plane seemingly turned its transponder off",
+   "label": "Maxfield plane seemingly turned its transponder off",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:46"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Baugh-Maxfield plane drew attention because it seemingly turned its transponder off after departing Provo, which alarmed the public."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "they seemingly turned their transponder off. That alarmed the public."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-94, N-200, N-834, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10205, N-10549"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2005"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "ADS-B and FlightRadar coverage records for N888KG after the 1:20 p.m. departure."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2009",
+   "header": "**C-2009** Maxfield statement on return flight times and purpose",
+   "label": "Maxfield statement on return flight times and purpose",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Reading the Maxfield statement, the host says it states that Derek Maxfield boarded at Page with seven passengers, departed about 1:40 p.m., arrived at Provo about 3:15 p.m. Mountain time, and that the round trip was at his request and solely for his purposes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We departed that PGA Airport in Arizona at approximately 1:40 and arrived at PVU at approximately 3:15 p. m. Mountain time."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1291.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-94, N-200, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10205"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2007"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Flight logs and FAA records for N888KG's Provo-Page-Provo legs on September 10."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2010",
+   "header": "**C-2010** Maxfield statement says no one on the flight was contacted by law enforcement",
+   "label": "Maxfield statement says no one on the flight was contacted by law enforcement",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The Maxfield statement read on air says that, to their knowledge, no one associated with the N888KG flight had been contacted by law enforcement for any reason."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "To our knowledge, no one associated with yesterday's flight by N888KG has been contacted by law enforcement for any reason."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1291.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-94, N-200"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10205"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Utah or federal law-enforcement confirmation of whether the N888KG crew or passengers were interviewed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2011",
+   "header": "**C-2011** Host says pilots found the feds guarding the Maxfield flight details",
+   "label": "Host says pilots found the feds guarding the Maxfield flight details",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says pilots she consulted on the Maxfield flight manifest found that routine information was being guarded by the feds, and says airport personnel had been instructed to lie."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Even airport personnel had been instructed to lie actually."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-94, N-200"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10205, N-10203"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identification of the pilots and airport staff, and any instruction given to airport personnel about the flight."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2012",
+   "header": "**C-2012** Host cites a source saying a plane shifted from Million Air FBO to another FBO",
+   "label": "Host cites a source saying a plane shifted from Million Air FBO to another FBO",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:26"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says one person told her a plane was supposed to land at Million Air FBO but suddenly shifted to another FBO."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "there was one person who said they were supposed to land at Million Air FBO, but then suddenly they shifted to another FBO"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10190, N-10074"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "FBO arrival records and ramp logs for Provo for September 10, 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2013",
+   "header": "**C-2013** Host says the Brigitte Macron pattern is suing over side issues so the media says debunked",
+   "label": "Host says the Brigitte Macron pattern is suing over side issues so the media says debunked",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that in the Brigitte Macron case she went after people for defamation over a side claim, such as stealing her sister's ID, and the media then said the main claim had been debunked."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "She started going after people for defamation, not people that wasn't attacking them for the substance of the claim"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-82"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The court filings in the Macron defamation actions."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2014",
+   "header": "**C-2014** Host says the Egyptian plane had visited the US only twice in the prior year",
+   "label": "Host says the Egyptian plane had visited the US only twice in the prior year",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Egyptian military plane had previously been to the United States only twice in the past year, both times in the weeks leading up to Charlie Kirk's assassination."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "that Egyptian military plane had previously only ever been to the United States twice in that past year and both times it was in the lead up in the weeks leading up to Charlie Kirk's assassination"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1292.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10204, N-10207"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2015"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "FlightRadar or FAA records of SU-BTT's US arrivals from September 2024 to September 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2016",
+   "header": "**C-2016** Host admits she misread FlightRadar times as Mountain time",
+   "label": "Host admits she misread FlightRadar times as Mountain time",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host acknowledges that she read FlightRadar times as Mountain time when they are in Universal Time, which she says is why critics claimed the Egyptian flight left a couple of hours earlier than she reported."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I thought that I was looking at Mountain Time like a local time on Flight Radar. As Mark just explained, no, they do it according to Universal Time."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1292.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10853, N-10207"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2015"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Original FlightRadar record of SU-BTT's Provo departure time in UTC and local time."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2017",
+   "header": "**C-2017** Host says the user who caught her time-zone error was boosted by the military on X",
+   "label": "Host says the user who caught her time-zone error was boosted by the military on X",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the one Twitter user who caught her time-zone mistake was suddenly boosted in the algorithm and made a trending story, and says military bots run X."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Then I saw that the one random Twitter user that caught that mistake suddenly got boosted in the algorithm and they made it a trending story."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11020, N-10299"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Engagement and amplification data for the account and post that claimed the debunk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2019",
+   "header": "**C-2019** Tipster is a person from a foreign country with proximity to someone aboard",
+   "label": "Tipster is a person from a foreign country with proximity to someone aboard",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the email to her tip box came from someone in a foreign country claiming intimate knowledge of the flight, whom she describes as being in proximity to one of the individuals aboard."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it was someone from a foreign country. They wrote us claiming to have intimate knowledge regarding the flight."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3007.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10204"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2021"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verification of the tipster's identity and relationship to the flight, without exposing the source."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2020",
+   "header": "**C-2020** Host states as fact that the 9/4 stop was not routine servicing",
+   "label": "Host states as fact that the 9/4 stop was not routine servicing",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she is telling viewers as a fact that the Egyptian plane's September 4 stop in Utah was not routine servicing, as \"they\" claimed, and that it carried military subcontractors who were dropped off in Provo."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Well, I'm telling you that for a fact that plane was carrying military subcontractors and for a fact they were dropped off in Provo, okay?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3007.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10204, N-10299"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2021"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Passenger and crew manifests and customs records for SU-BTT on September 4 and 10-11, 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2023",
+   "header": "**C-2023** Host says she challenged Kash Patel to dispute her account of the flight",
+   "label": "Host says she challenged Kash Patel to dispute her account of the flight",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:59"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she almost demands that Kash Patel dispute her account, and that the aircraft was not in Utah for any routine servicing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "That aircraft was not in Utah for any routine servicing, okay?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3007.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-69"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10202, N-10204"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Any FBI or DOJ public statement about the purpose of SU-BTT's Provo visit."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2025",
+   "header": "**C-2025** SU-BTT 2025 routing: Cairo, Paris, Minot, then Provo",
+   "label": "SU-BTT 2025 routing: Cairo, Paris, Minot, then Provo",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "From the three-year FlightRadar history, the host says that in September 2025 the Egyptian plane went from Cairo to Paris to Minot, North Dakota, and then, on September 10, departed Provo, Utah at 7:14 a.m. local time."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it went from Cairo to Paris to France to Minot, North Dakota. On September 10th, it departed Provo."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1292.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10274, N-10277, N-10074"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2024"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "FlightRadar business-account history for SU-BTT, September 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2026",
+   "header": "**C-2026** Tipster did not say the secret mission was tied to Charlie Kirk",
+   "label": "Tipster did not say the secret mission was tied to Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the tipster never said the secret mission was related to Charlie Kirk and was explicit that she was not sure what the specific mission was, only that it was top secret."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "this individual never ever said that the mission, the secret mission, was related to Charlie Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3007.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10204"
+    },
+    {
+     "k": "Qualifies",
+     "v": "C-2022"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Follow-up with the tipster on the mission's nature, and any official explanation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2028",
+   "header": "**C-2028** Host says Kash Patel says only he should be looking into the case",
+   "label": "Host says Kash Patel says only he should be looking into the case",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:18"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that Kash Patel is saying he alone is the person supposed to be looking into the Kirk investigation and that everything people hear is a conspiracy."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "There's absolutely no reason for Kash Patel to say, \"Only I'm the person that's supposed to be looking into this.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1297.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-69"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10202, N-10355"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2027"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Patel's public statements about who is authorized to investigate and the reported feud with the counterterrorism chief."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2029",
+   "header": "**C-2029** Host asks viewers for tips on the Egyptian flight to moretips@candaceowens.com",
+   "label": "Host asks viewers for tips on the Egyptian flight to moretips@candaceowens.com",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:27:23"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host asks viewers who know anyone on the Egyptian flight manifest, or who saw people near Provo between September 4 and 10, to email moretips@candaceowens.com."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "If you have information, please email us at moretips@candaceowens. com pertaining to this this Egyptian flight, this military flight."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3006.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10204, N-10074"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Tips received at the address on the Egyptian flight and its passengers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2030",
+   "header": "**C-2030** Tucker hosted Nick Fuentes, prompting calls to cancel him from TPUSA events",
+   "label": "Tucker hosted Nick Fuentes, prompting calls to cancel him from TPUSA events",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:29:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Tucker Carlson hosted Nick Fuentes on his show, and that this led people to insist Tucker be cancelled from all future Turning Point USA events."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Tucker Carlson, in case you missed it, hosted Nick Fuentes on his show."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-22, N-201"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10268"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The Tucker Carlson-Nick Fuentes interview and statements from TPUSA about Tucker's future events."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2031",
+   "header": "**C-2031** Hammer op-ed called Tucker's act a heinous betrayal of Charlie",
+   "label": "Hammer op-ed called Tucker's act a heinous betrayal of Charlie",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:52"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Josh Hammer's Daily Mail op-ed states that Tucker Carlson hit a new low with a heinous betrayal of his friend Charlie Kirk, who is surely rolling in his grave."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Tucker Carlson just hit a new low with this heinous betrayal of my friend Charlie Kirk who is surely now rolling in his grave."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1293.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-55, N-22, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10070"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2032"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The published Daily Mail op-ed text."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2033",
+   "header": "**C-2033** Hammer op-ed accused Carlson of waging a jihad on the MAGA right",
+   "label": "Hammer op-ed accused Carlson of waging a jihad on the MAGA right",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Quoting the op-ed, the host reads that Carlson and his clan declared their jihad on the forces of civilizational sanity on the MAGA right and hope to build a neo-pagan, anti-Western, anti-biblical movement in its stead."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They hope to burn down MAGA and build a neo-pagan, anti-Western, anti-biblical movement in its stead."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1293.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-55, N-22"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10070"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2032"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The published Daily Mail op-ed text."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2034",
+   "header": "**C-2034** Host says Hammer lied about Charlie's views on Israel despite being on the text chain",
+   "label": "Host says Hammer lied about Charlie's views on Israel despite being on the text chain",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Josh Hammer lied over and over about Charlie's views on Israel changing even though Hammer was on the text message chain."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "who lied about Charlie's views on Israel changing even though he was on the text message chain."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-55, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10187"
+    },
+    {
+     "k": "Supports",
+     "v": "C-1352"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Hammer's public statements about Charlie's Israel views compared with the text-chain messages."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2035",
+   "header": "**C-2035** Host says Stop Antisemitism named her top antisemite of the year without an award",
+   "label": "Host says Stop Antisemitism named her top antisemite of the year without an award",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:33:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Stop Anti-Semitism account named her the top anti-Semite of the year last year but did not actually give her an award."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "That account awarded me last year the top anti-Semite of the year."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1294.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11220, N-10452"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The Stop Antisemitism account's 2024 list and any award announcement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2037",
+   "header": "**C-2037** Host says Seth Dillon pressed Charlie at the Hamptons summit over his changing views",
+   "label": "Host says Seth Dillon pressed Charlie at the Hamptons summit over his changing views",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:20"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Seth Dillon at the Hamptons summit a couple of weeks before Charlie died pressed him, led the pack questioning Charlie's changing views, and made Charlie feel his viewpoints had become unacceptable."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "this is the same Seth Dillon at that notorious Hampton's summit who I told you pressed Charlie and a couple weeks before he died was horrific to Charlie"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1295.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-38, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10345, N-10027"
+    },
+    {
+     "k": "Supports",
+     "v": "C-239"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Attendee accounts of the Hamptons summit and Seth Dillon's statements about it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2039",
+   "header": "**C-2039** Dave Smith says Candace and Fuentes grew because of opposition to Gaza",
+   "label": "Dave Smith says Candace and Fuentes grew because of opposition to Gaza",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:35:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip, Dave Smith tells Seth Dillon that people upset about Candace and Nick Fuentes becoming so huge have no one but themselves to blame, because the support behind them came from opposing the destruction of Gaza."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And the reason why they got so much support behind them is cuz they were against this destruction of Gaza"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1295.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-39, N-38, N-3, N-201"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10454"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The full Piers Morgan or related interview with Dave Smith."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2041",
+   "header": "**C-2041** Dave Smith says he disagreed with Charlie on Christian Zionism",
+   "label": "Dave Smith says he disagreed with Charlie on Christian Zionism",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:02"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip, Dave Smith says Tucker's criticism concerned evangelical Christians in general and that he too disagreed with Charlie Kirk on that point."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Yeah, I disagreed with Charlie on that, too."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1295.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-39, N-22, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10209"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2040"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The full clip and context of Smith's remarks."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2042",
+   "header": "**C-2042** Host says Charlie said two days before his death he had to leave the pro-Israel cause",
+   "label": "Host says Charlie said two days before his death he had to leave the pro-Israel cause",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:47"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie Kirk, two days before he was killed, was explicit that he was left with no choice but to leave the pro-Israel cause, which she says means he did not die a Christian Zionist."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "2 days before Charlie Kirk was killed, he was explicit in saying he was left with no choice but to leave the pro-Israel cause"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10148, N-10056"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The source of Charlie's reported statement two days before his death (messages or recorded remarks)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2043",
+   "header": "**C-2043** Host says the Hamptons session was August 5 and 6 and pressed Charlie on Netanyahu",
+   "label": "Host says the Hamptons session was August 5 and 6 and pressed Charlie on Netanyahu",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:32"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Seth Dillon pressed Charlie on what he had said about Netanyahu at the Hamptons session, which she places on August 5th and 6th (she asks if it was those dates)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "was it August 5th and 6th, pressing him on the things that he said about Bibi Netanyahu."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-38, N-1, N-36"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10134, N-10673"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Calendar, travel and attendee records for the Hamptons gathering in early August 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2044",
+   "header": "**C-2044** Host says Charlie fought to keep Tucker on the TPUSA speaking list in his last texts",
+   "label": "Host says Charlie fought to keep Tucker on the TPUSA speaking list in his last texts",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:41:06"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie fought tooth and nail to keep Tucker Carlson on the TPUSA speaking list and that this was virtually his last public words from private text exchanges."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He fought tooth and nail to make sure that Tucker Carlson stayed on the Turning Point USA speaking list."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1, N-22"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10268, N-10000"
+    },
+    {
+     "k": "Supports",
+     "v": "C-362"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The text-chain messages showing Charlie's instruction to keep Tucker on the roster."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2045",
+   "header": "**C-2045** Clip: Charlie did not appreciate being morally blackmailed and would dig in",
+   "label": "Clip: Charlie did not appreciate being morally blackmailed and would dig in",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:41:06"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "A clip played on air says Charlie said he did not appreciate being morally blackmailed, dug in his heels each time, and suggested that Tucker might get two speeches at AmFest."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I don't appreciate being morally blackmailed.\" And, you know, and every time people would say that to him, he would dig his heels in."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3009.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-22"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10106, N-10268"
+    },
+    {
+     "k": "Supports",
+     "v": "C-715"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The original episode or message from which the clip is drawn and its source text."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2048",
+   "header": "**C-2048** Host says she took Charlie's David remark to mean slaying Goliath",
+   "label": "Host says she took Charlie's David remark to mean slaying Goliath",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:42:49"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that, asked in the Q&A what Charlie meant by wanting her to be his David, she gave the obvious answer of slaying a Goliath."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "What do you think Charlie meant when he said he wanted you to be his David?\" And I took the obvious answer, which was to slay a Goliath"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1298.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Supports",
+     "v": "C-1782"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The original message in which Charlie used the David reference."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2049",
+   "header": "**C-2049** Viewer email reads David-Jonathan robe and armor as a transfer of succession",
+   "label": "Viewer email reads David-Jonathan robe and armor as a transfer of succession",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:43:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads a viewer email saying Jonathan gave David his robe, armor and symbols of rank, which has been interpreted as a transfer of succession."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "an act that has been interpreted as a transfer of succession."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1298.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The biblical text (1 Samuel) and scholarship on the Jonathan-David covenant."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2050",
+   "header": "**C-2050** Host says Dillon and Hammer harassed Charlie and now claim his legacy",
+   "label": "Host says Dillon and Hammer harassed Charlie and now claim his legacy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the people now claiming charge of Charlie's legacy, naming Seth Dillon and Josh Hammer, are the same people who were harassing him and making him ill with threats and money, with Dillon pressing him at the Hamptons and Hammer on the text chain hearing what he was going through."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the very same people that were making Charlie ill with the threats, with the money, uh who were pressing him at the Hampton, Seth Dillon, Josh Hammer on the text"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-38, N-55, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10345, N-10047"
+    },
+    {
+     "k": "Supports",
+     "v": "C-239"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Text-chain messages and Hamptons attendee accounts documenting the pressure."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2052",
+   "header": "**C-2052** Host says the Fuentes clip was not from Piers Morgan",
+   "label": "Host says the Fuentes clip was not from Piers Morgan",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:48:05"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Asking her producer, the host says the clip of Seth Dillon on Nick Fuentes was not on Piers Morgan but on a separate show of his."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Okay, it wasn't on Piers Morgan, right, Schuyler?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1295.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-38, N-68, N-204"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Qualifies",
+     "v": "C-2051"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The original broadcast and date of the Seth Dillon clip about Nick Fuentes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2053",
+   "header": "**C-2053** Host says Josh Hammer is editor-at-large at Newsweek",
+   "label": "Host says Josh Hammer is editor-at-large at Newsweek",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:49:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Josh Hammer is the editor-at-large at Newsweek."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Josh Hammer is actually the editor-at-large at Newsweek."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-55"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11221"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Newsweek's masthead for Josh Hammer."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2054",
+   "header": "**C-2054** Host says she is drip-feeding to identify the rats on the ship",
+   "label": "Host says she is drip-feeding to identify the rats on the ship",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:53:47"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Responding to a viewer comment, the host says she is deliberately drip-feeding information and setting bait, letting people lie, to work out who betrayed Charlie."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I am trying to figure out who the rats are on the ship and that is why I've been intentionally setting bait"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3011.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The statements by those she names later, compared against the evidence she holds."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2056",
+   "header": "**C-2056** Host says she knows some of the rats for certain but not everyone",
+   "label": "Host says she knows some of the rats for certain but not everyone",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:55:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she knows for certain that there are rats on the ship and knows some of them, but does not know everybody who has betrayed Charlie, and will not out them yet so the others cannot protect themselves."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I know that there's rats on the ship. Some I know for certain"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3011.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identification of the individuals the host has in mind and her evidence."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2055",
+   "header": "**C-2055** Host says her book Make Him a Sandwich is out",
+   "label": "Host says her book Make Him a Sandwich is out",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:53:47"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her book Make Him a Sandwich is out and available at makehimasandwich.com to support her independent work."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Also, the book I am so happy. Make Him a Sandwich is finally out."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The book's publication record."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2057",
+   "header": "**C-2057** Host says she does not know who pulled the trigger, with two investigations running",
+   "label": "Host says she does not know who pulled the trigger, with two investigations running",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:55:17"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she does not actually know who pulled the trigger and killed Charlie Kirk, and that there are two running investigations, who betrayed Charlie and who actually killed him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I don't know actually who pulled the trigger and killed Charlie Kirk, right?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10048"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Later statements by the host on a shooter and on the betrayal question."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2059",
+   "header": "**C-2059** Host identifies N1098L as the LSA LLC plane that flew to Montana and turned around",
+   "label": "Host identifies N1098L as the LSA LLC plane that flew to Montana and turned around",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:55:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the second plane in the viewer's comment is the LSA LLC plane N1098L, which flew up to Montana and turned around, and says she has not back-checked the commenter's claim that Israeli defense companies use it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "So, that second plane is the LSA LLC one."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1299.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10185, N-11222"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2058"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "FAA registration of N1098L and its owner LSA LLC, and any link to defense contractors."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2060",
+   "header": "**C-2060** Mark says N1098L was in Idaho when Charlie was shot, about 20 minutes out",
+   "label": "Mark says N1098L was in Idaho when Charlie was shot, about 20 minutes out",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:56:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Mark says a screenshot shows N1098L was in Idaho at the moment Charlie was shot; the host adds that it was about 20 minutes out and did not get over Provo until about 20 minutes after he was shot."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "here's a screenshot of where that plane was at the moment Charlie was shot."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3008.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-67, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10185, N-10203"
+    },
+    {
+     "k": "Qualifies",
+     "v": "C-2001"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "FlightRadar track for N1098L around 9:35 to 10:05 a.m. Mountain time."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2061",
+   "header": "**C-2061** Host says Erika Kirk will face the same donor pressure Charlie did over Tucker",
+   "label": "Host says Erika Kirk will face the same donor pressure Charlie did over Tucker",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:59:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says it will be tough for Erika Kirk because she will feel the same pressure from top Jewish donors that Charlie did, and that there are likely financial consequences behind the scenes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it's going to be tough for Erika. It's got to be tough for Erika in this moment because she's going to be feeling that pressure"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10047, N-10467"
+    },
+    {
+     "k": "Supports",
+     "v": "C-1993"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Erika Kirk and TPUSA's donor communications about Tucker Carlson's future appearances."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2062",
+   "header": "**C-2062** Host says Sigmund Freud was factually defending his pedophile friends",
+   "label": "Host says Sigmund Freud was factually defending his pedophile friends",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:00:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Discussing the book Assault on Truth, the host says Sigmund Freud was factually defending his pedophile friends and that modern psychology was brought to America and Hollywood."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Sigmund Freud was factually defending his pedophile friends."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-50"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The book Assault on Truth and its sourcing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2063",
+   "header": "**C-2063** Host says Hammer started the struggle session because Dave Smith beat him on the TPUSA stage",
+   "label": "Host says Hammer started the struggle session because Dave Smith beat him on the TPUSA stage",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:01:23"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Josh Hammer was angry after being destroyed by Dave Smith on the Turning Point USA stage and privately started the struggle session because the students were impacted and wanted to follow Dave Smith."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Josh Hammer was angry after he got destroyed by Dave Smith on Turning Point USA stage, so he privately started the struggle section uh session"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-55, N-39"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Footage of the Hammer-Dave Smith TPUSA exchange and the later struggle-session clips."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2064",
+   "header": "**C-2064** Host announces a Norman Finkelstein interview airing the next day",
+   "label": "Host announces a Norman Finkelstein interview airing the next day",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:02:15"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that tomorrow is a Norm Finkelstein interview, and earlier shows a trailer for it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "tomorrow is a Norm Finkelstein interview."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3010.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-199"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The interview's release date and video."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 6. Meme Register",
+    ""
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-30",
+   "header": "**M-30** (meme) Nothing to See Here",
+   "label": "(meme) Nothing to See Here",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:11:14"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "ke right away, they just got out in front of it and were like there's nothing to see here. And we discovered and I broke the story that there was a..."
+    },
+    {
+     "k": "Context",
+     "v": "Later reuse of Nothing to See Here in CKA seq 22."
+    },
+    {
+     "k": "Tags",
+     "v": "dismissal, official_line, sarcasm, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:15:53"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Nothing to see here."
+    },
+    {
+     "k": "Context",
+     "v": "Host mocks the routine-servicing explanation for the Egyptian plane."
+    },
+    {
+     "k": "Tags",
+     "v": "dismissal, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-12",
+   "header": "**M-12** (meme) Decentralized Intelligence Agency",
+   "label": "(meme) Decentralized Intelligence Agency",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:14:07"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "ething. Anyways, I was going through the DCIA tips box, you know, our decentralized intelligence agency tips box. And I found a very interesting em..."
+    },
+    {
+     "k": "Context",
+     "v": "DIA tip-network refrain. (CKA seq 22)"
+    },
+    {
+     "k": "Tags",
+     "v": "reuse, pass2"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:27:23"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "please email us at moretips@candaceowens. com"
+    },
+    {
+     "k": "Context",
+     "v": "Host asks for tips on the Egyptian flight via the tip address."
+    },
+    {
+     "k": "Tags",
+     "v": "dia, tips"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-54",
+   "header": "**M-54** (meme) Psyop",
+   "label": "(meme) Psyop",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:38:02"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "This is a psychological operation."
+    },
+    {
+     "k": "Context",
+     "v": "Host frames the Seth Dillon clip as a psyop."
+    },
+    {
+     "k": "Tags",
+     "v": "psyop, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-26",
+   "header": "**M-26** (meme) Gaslight",
+   "label": "(meme) Gaslight",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "01:00:34"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "gaslighting us when we all see Charlie get shot"
+    },
+    {
+     "k": "Context",
+     "v": "Host describes Zionist psychological operations as gaslighting."
+    },
+    {
+     "k": "Tags",
+     "v": "gaslight, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-18",
+   "header": "**M-18** (meme) Make Him a Sandwich",
+   "label": "(meme) Make Him a Sandwich",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:53:47"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Make Him a Sandwich is finally out."
+    },
+    {
+     "k": "Context",
+     "v": "Host plugs her book and website."
+    },
+    {
+     "k": "Tags",
+     "v": "plug, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-15",
+   "header": "**M-15** (meme) We Don't Know But We Know",
+   "label": "(meme) We Don't Know But We Know",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:53:47"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "We don't know know, but we know."
+    },
+    {
+     "k": "Context",
+     "v": "Host jokes about the restocked stand cups."
+    },
+    {
+     "k": "Tags",
+     "v": "merch, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-246",
+   "header": "**M-246** (meme) Mansplaining",
+   "label": "(meme) Mansplaining",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:02:17"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Happy to provide some mansplaining."
+    },
+    {
+     "k": "Context",
+     "v": "Mark offers to explain the FlightRadar chart; the host later thanks him for mansplaining."
+    },
+    {
+     "k": "Tags",
+     "v": "mark, running bit"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:56:45"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Thank you for mansplaining."
+    },
+    {
+     "k": "Context",
+     "v": "Host thanks Mark after his N1098L explanation."
+    },
+    {
+     "k": "Tags",
+     "v": "mark, running bit"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-247",
+   "header": "**M-247** (meme) Seth Dillon Level Struggle Session",
+   "label": "(meme) Seth Dillon Level Struggle Session",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:23:13"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Seth Dillon level struggle session"
+    },
+    {
+     "k": "Context",
+     "v": "Host teases the segment on Tucker Carlson and Seth Dillon."
+    },
+    {
+     "k": "Tags",
+     "v": "struggle session, running bit"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:34:20"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "put Dave Smith through a struggle session"
+    },
+    {
+     "k": "Context",
+     "v": "Host describes Seth Dillon's interview of Dave Smith."
+    },
+    {
+     "k": "Tags",
+     "v": "struggle session, running bit"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## VI. Optional Flags",
+    "",
+    "- **Artifact verbally referenced but not shown:** C-2021 and C-2022 reference an email received via the \"DCIA tips box\" from an unnamed foreign individual. The email itself was not displayed on screen, and the host's report of its contents is the sole basis for these claims.",
+    "",
+    "- **Requires human verification:** C-2046 depends entirely on the authenticity of the TPUSA internal text-chain screenshot (A-1296.1). Independent verification of the screenshot's provenance, participants, and timestamp is required before this claim can be elevated.",
+    "",
+    "- **Possible transcription error:** A-1299.1 contains the fragment \"After and Haiti's the tail number N1098L\" which appears to be a corrupted transcription. The intended reference is unclear from context.",
+    "",
+    "- **Timestamp uncertainty:** Exact publication dates for A-1293.1 (Hammer Daily Mail op-ed), A-1294.1 (Stop Anti-Semitism tweet), A-1295.1/A-1295.2/A-1295.3 (Piers Morgan interview), A-1297.1 (Daily Mail headline), and A-1300.1 (Hammer audio clip) are inferred as approximately 2025-10-29 (\"yesterday\" relative to the 2025-10-30 upload) but not independently confirmed.",
+    "",
+    "- **Claim failed admission test:** Host allegations not inscribed include: (a) \"feds were guarding this just like they were guarding the Dairy Queen\"; (b) \"airport personnel had been instructed to lie\"; (c) \"there was one person who said they were supposed to land at Million Air FBO, but then suddenly they shifted to another FBO\"; (d) Casey Baugh's UVU Baugh Entrepreneurship Institute and plane co-ownership (no displayed artifact); (e) the Maxfields running \"a human sex trafficking charity.\" These remain in the record as host allegations pending artifact support in future episodes.",
+    "",
+    "- **Transcript ambiguity:** A-1295.1, A-1295.2, and A-1295.3 are described as audio clips played on air but specific source URL/program is not stated. The \"Candace micro-series\" framing in the segment introducing A-1296.1 (\"another episode of our new smash hit HBO series, micro-series\") is unclear in provenance.",
+    "",
+    "---",
+    "",
+    "**Output Quality Checklist Verification:**",
+    "",
+    "- [x] Every claim has at least one artifact anchor (with documented exceptions for verbally-referenced-only sources, flagged)",
+    "- [x] Every claim has at least one node",
+    "- [x] Every artifact has a Related line",
+    "- [x] Every node has a Related line",
+    "- [x] No episode-wide artifact bundle exists",
+    "- [x] People nodes use the global people ledger (N-69 through N-4)",
+    "- [x] Non-person investigation targets use the 1000-series (N-10203 through N-10206)",
+    "- [x] No speculative claims inscribed as evidence-backed claims",
+    "- [x] Names preserved exactly as appearing in transcript (Seth Dillon, Josh Hammer, Ana Kasparian, Dave Smith, J.D. Vance, Piers Morgan, Tucker Carlson, Nick Fuentes, Derek/Shelaine Maxfield, Casey Baugh, Kash Patel)",
+    "- [x] Formatting consistent throughout"
+   ]
+  }
+ ]
+}

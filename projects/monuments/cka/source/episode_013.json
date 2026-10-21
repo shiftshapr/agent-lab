@@ -1,0 +1,9567 @@
+{
+ "format": "cka-source/1",
+ "episode": 13,
+ "blocks": [
+  {
+   "kind": "text",
+   "lines": [
+    "## 1. Meta-Data",
+    "",
+    "- **Episode**: 13",
+    "- **Monument**: cka",
+    "- **CKA seq**: 13",
+    "- **YouTube id**: adJ4LNGp84I",
+    "- **Candace Ep**: 246",
+    "- **Source**: Candace Owens YouTube",
+    "- **Video Timestamp Range**: 00:00:00–00:51:29",
+    "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
+    "- **Model Version**: MiniMax-M2.5",
+    "- **Transcript SHA-256**: 485249b3a83122df784d65092a124fe221777e005fc429793ac75572c8a2611c",
+    "",
+    "- **Episode Ledger Summary**:",
+    "  - Tip-minted Nodes (supplement_2026-10e): N-11269, N-11270, N-11271, N-11272, N-11273",
+    "  - Hole-minted Nodes (reintro-ep013): N-193, N-10158, N-10159, N-10160, N-10209, N-10406",
+    "  - Tip-minted Nodes (reintro-ep013): N-10968, N-11153, N-11170",
+    "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
+    "  - Claim Range: C-1153–C-1236",
+    "  - (see registers)",
+    "",
+    "---",
+    "",
+    "# Episode 13 Analysis – Candace Ep 246",
+    "",
+    "## I. Meta-Data",
+    "",
+    "- Episode: Monument Episode 13 (Batch 3) – \"BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246\"",
+    "- Series: Bride of Charlie",
+    "- Episode Number: 13",
+    "- Channel / Creator: @RealCandaceO (Candace Owens)",
+    "- Episode Date: 2025-10-01",
+    "- Source Used: YouTube captions cleaned with video context",
+    "- Transcript Completeness: Full; minor subtitle/AI artifact errors noted by host",
+    "- Analyst / Agent Name: Monument Analysis Agent",
+    "- Analysis Date: 2026-03-15",
+    "",
+    "### Episode X Ledger Summary",
+    "- Artifact Families Introduced: A-1196, A-1197, A-1198, A-1199, A-1200, A-1201, A-1202, A-1203, A-1204, A-1205, A-1206, A-1207, A-1208",
+    "  - New Nodes Introduced: N-135, N-136, N-137, N-138, N-139, N-140, N-141, N-142, N-10152, N-10153, N-10154, N-10155, N-10157",
+    "  - Reused Nodes Appearing: N-3, N-40, N-125, N-134, N-10156, N-5, N-32, N-49, N-57, N-93, N-97, N-117, N-129, N-10000, N-10003, N-10006, N-10011, N-10012, N-10014, N-10017, N-10026, N-10052, N-10056, N-10078, N-10082, N-10115, N-10131, N-10135, N-10139, N-10144, N-10146, N-10147, N-10148, N-10898, N-10900, N-11217, N-11096, N-11103, N-11274",
+    "",
+    "Third, a Phil Lyman campaign endorsement by George Zinn is documented via Wayback Machine dating back to at least June 6, 2024; this is presented to address earlier speculation rather than to advance new claims.",
+    "",
+    "Fourth, a video clip of Benjamin Netanyahu meeting influencer Debra Lea is read/played, with Netanyahu naming TikTok and X – and Elon Musk – as the principal platforms in a described influence \"battle.\" Fifth, host-read/displayed tweets between Megyn Kelly, \"Florida Dad,\" and Konstantin Kisin are used as artifacts to frame pressure on Kelly. Sixth, a producer-supplied note identifying a former IDF soldier as TikTok's new Public Policy Manager of Hate Speech is read aloud.",
+    "",
+    "The episode also contains extensive speculation about overseas \"military operation\" framing, \"Robbie Hild\" identity skepticism, and a rumored Tyler Robinson / Mike Mitchell connection; these are recorded here only under Optional Flags for failure to meet the Claim Admission Test.",
+    "",
+    "---",
+    "",
+    "## III. Artifact Register",
+    "",
+    "### A-1196 Shaner Broderick Deleted Video Bundle",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1196.1",
+   "header": "**A-1196.1** Video clip: Shaner Broderick and Lyman-family aunt review/tracing the shooter's route on camera; aunt states \"I wondered if the girl had given him stuff…if there is an accomplice.\"",
+   "label": "Video clip: Shaner Broderick and Lyman-family aunt review/tracing the shooter's route on camera; aunt states \"I wondered if the girl had given him stuff…if there is an accomplice.\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:10:44"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (artifact clearly stated, video played)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1154, C-1167, N-40, N-128, N-142, N-10152*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "### A-1197 Phil Lyman Campaign Endorsement Bundle",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1197.1",
+   "header": "**A-1197.1** Screenshot: Phil Lyman campaign website endorsement by George Zinn",
+   "label": "Screenshot: Phil Lyman campaign website endorsement by George Zinn",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:03:00"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1156, N-40, N-42, N-10157*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1197.2",
+   "header": "**A-1197.2** Wayback Machine capture confirming the Zinn endorsement text has been present at least since 2024-06-06",
+   "label": "Wayback Machine capture confirming the Zinn endorsement text has been present at least since 2024-06-06",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:03:55"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1156, N-40, N-42*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "### A-1198 State Farm Stadium Booking Report",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1198.1",
+   "header": "**A-1198.1** Host testimonial – sourced from \"many sources at Turning Point USA\" – confirming State Farm Stadium for Charlie Kirk's memorial was secured via direct White House call to the event coordinator; the displaced booking was an RV show.",
+   "label": "Host testimonial – sourced from \"many sources at Turning Point USA\" – confirming State Farm Stadium for Charlie Kirk's memorial was secured via direct White House call to the event coordinator; the displaced booking was an RV show.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:01:30"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (host-source reporting)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1155, N-1, A-1199.1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "### A-1199 Case Personnel Report Bundle",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1199.1",
+   "header": "**A-1199.1** Host-source reporting: new FBI SAC in Utah (\"Robert Bohls\"), installed by Kash Patel, recently moved from a long DC tenure",
+   "label": "Host-source reporting: new FBI SAC in Utah (\"Robert Bohls\"), installed by Kash Patel, recently moved from a long DC tenure",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:04:53"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (host source)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1158, N-133, N-10154*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1199.2",
+   "header": "**A-1199.2** Host-source reporting: Andrew Zenger named as new CEO and lead surgeon at the regional hospital receiving Charlie Kirk",
+   "label": "Host-source reporting: Andrew Zenger named as new CEO and lead surgeon at the regional hospital receiving Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:04:53"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (host source)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1158, N-134, N-10154*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1199.3",
+   "header": "**A-1199.3** Host-source reporting: Judge Tony F. Graf Jr. appointed May 2025 by Governor Spencer Cox to the fourth district court; presides over Tyler Robinson case",
+   "label": "Host-source reporting: Judge Tony F. Graf Jr. appointed May 2025 by Governor Spencer Cox to the fourth district court; presides over Tyler Robinson case",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:06:17"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (host source)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1158, N-135, N-10154*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1199.4",
+   "header": "**A-1199.4** Host-source reporting: new (unnamed) coroner on the case",
+   "label": "Host-source reporting: new (unnamed) coroner on the case",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:06:17"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (host source)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1158, N-10154*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "### A-1200 Netanyahu–Debra Lea Influencer Meeting Clip",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1200.1",
+   "header": "**A-1200.1** Video clip: Benjamin Netanyahu meets on camera with US social-media influencer Debra Lea to discuss shaping US opinion",
+   "label": "Video clip: Benjamin Netanyahu meets on camera with US social-media influencer Debra Lea to discuss shaping US opinion",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:27:00"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (clip played on air)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1187, C-1192, C-1190, N-139, N-140*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "### A-1201 Florida Dad Tweet Bundle",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1201.1",
+   "header": "**A-1201.1** X post by \"Florida Dad\" addressed to Megyn Kelly: \"If you can't separate yourself from Candace Owens, many of us are going to separate ourselves from you…\" followed by \"We do not have to align with everyone that claims to be of the right when their motives and history are as shady as hers.\"",
+   "label": "X post by \"Florida Dad\" addressed to Megyn Kelly: \"If you can't separate yourself from Candace Owens, many of us are going to separate ourselves from you…\" followed by \"We do not have to align with everyone that claims to be of the right when their motives and history are as shady as hers.\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:35:01"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1202, N-137, N-46 (Megyn Kelly)*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "### A-1202 Megyn Kelly Reply Tweet Bundle",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1202.1",
+   "header": "**A-1202.1** X reply by Megyn Kelly to Florida Dad refusing to condemn Candace Owens or Tucker Carlson",
+   "label": "X reply by Megyn Kelly to Florida Dad refusing to condemn Candace Owens or Tucker Carlson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:35:51"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1204, N-46 (Megyn Kelly), N-137*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "### A-1203 Konstantin Kisin Tweet Bundle",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1203.1",
+   "header": "**A-1203.1** X post by Konstantin Kisin addressed to Megyn Kelly: expresses concern with Kelly's refusal to separate from Candace Owens and Tucker Carlson; characterizes their behavior as \"extreme and so deranged\"",
+   "label": "X post by Konstantin Kisin addressed to Megyn Kelly: expresses concern with Kelly's refusal to separate from Candace Owens and Tucker Carlson; characterizes their behavior as \"extreme and so deranged\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:35:51"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1205, N-138, N-46 (Megyn Kelly)*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1203.2",
+   "header": "**A-1203.2** X reply by Megyn Kelly to Konstantin Kisin: \"The more one insists that I say what one demands me to, the more committed I get in my refusal.\" (and follow-up: \"Your response proves the opposite of what it purports to.\")",
+   "label": "X reply by Megyn Kelly to Konstantin Kisin: \"The more one insists that I say what one demands me to, the more committed I get in my refusal.\" (and follow-up: \"Your response proves the opposite of what it purports to.\")",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:38:30"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1204, N-46 (Megyn Kelly), N-138*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "### A-1204 Producer Note – TikTok IDF Personnel Report",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1204.1",
+   "header": "**A-1204.1** Producer note read on air identifying \"Erica Mindel\" / \"Erica Mindel\" as American Israeli Jewish former IDF soldier, serving as Public Policy Manager of Hate Speech at TikTok since July 2025",
+   "label": "Producer note read on air identifying \"Erica Mindel\" / \"Erica Mindel\" as American Israeli Jewish former IDF soldier, serving as Public Policy Manager of Hate Speech at TikTok since July 2025",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:43:16"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (third-party producer report)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1214, N-136, N-140 (Larry Ellison), N-10157*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "### A-1205 TPUSA USU Attendee Email",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1205.1",
+   "header": "**A-1205.1** Email read on air from an attendee of the TPUSA event at Utah State University on 2025-09-30 characterizing it as \"scripted\" with \"absent\" open dialogue",
+   "label": "Email read on air from an attendee of the TPUSA event at Utah State University on 2025-09-30 characterizing it as \"scripted\" with \"absent\" open dialogue",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:41:41"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (fan email)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1211, N-1 (Charlie Kirk – TPUSA reference)*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "### A-1206 Michael Burt Legal History Report",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1206.1",
+   "header": "**A-1206.1** Comment read on air (from \"The Menagerie by Drea Lee\"): one of Tyler Robinson's lawyers, Michael Burt, previously represented Richard Ramirez (\"the Nightstalker\")",
+   "label": "Comment read on air (from \"The Menagerie by Drea Lee\"): one of Tyler Robinson's lawyers, Michael Burt, previously represented Richard Ramirez (\"the Nightstalker\")",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:46:36"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (comment-supplied)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1222, N-141 (Michael Burt), N-? (Richard Ramirez)*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "### A-1207 FBI / ADL Co-Location Report",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1207.1",
+   "header": "**A-1207.1** Comment read on air (from \"Marzy\"): \"The FBI just cut ties with the ADL after Turning Point USA criticism. They share a building.\"",
+   "label": "Comment read on air (from \"Marzy\"): \"The FBI just cut ties with the ADL after Turning Point USA criticism. They share a building.\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:47:19"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low (comment-supplied)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1225, N-10152*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "### A-1208 TransClip: Epstein-VPN / Israeli-Origin Ownership Comment",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1208.1",
+   "header": "**A-1208.1** Comment read on air referencing ExpressVPN's acquisition / founding by an Israeli billionaire, framed as a privacy/opsec concern",
+   "label": "Comment read on air referencing ExpressVPN's acquisition / founding by an Israeli billionaire, framed as a privacy/opsec concern",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:47:19"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low (comment-supplied)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: N-10152 (tenuous; primarily commentary)*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3100",
+   "header": "**A-3100** Decentralized Intelligence Agency Tip Line Bundle",
+   "label": "Decentralized Intelligence Agency Tip Line Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3100.1",
+   "header": "**A-3100.1** Host verbal reference to the tip email address (asked to send hospital CEO and surgeon information)",
+   "label": "Host verbal reference to the tip email address (asked to send hospital CEO and surgeon information)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"If you know that information, please send it to us at tips@canniswowens. com.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:05:55"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1160, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3100.2",
+   "header": "**A-3100.2** Host verbal call for tips on who the woman in the footage was",
+   "label": "Host verbal call for tips on who the woman in the footage was",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"if you have any tips pertaining to who the woman was that was caught, uh, please let me know.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:16:40"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1174, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3100.3",
+   "header": "**A-3100.3** Host verbal instruction to send tips rather than videos and links, and idea of a second tip line",
+   "label": "Host verbal instruction to send tips rather than videos and links, and idea of a second tip line",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"please use tips. com\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:17:20"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1175, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3100.4",
+   "header": "**A-3100.4** Host verbal closing call for tips to the tips box",
+   "label": "Host verbal closing call for tips to the tips box",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"only if you have a tip uh that can help us crack this mystery\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:50:50"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1235, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3101",
+   "header": "**A-3101** Rachel Day Security Guard Comment Bundle",
+   "label": "Rachel Day Security Guard Comment Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3101.1",
+   "header": "**A-3101.1** Viewer comment from Rachel Day read on air asking why no security guard pulled a gun once shots rang out",
+   "label": "Viewer comment from Rachel Day read on air asking why no security guard pulled a gun once shots rang out",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Is it me or is it strange that not a single security guard pulled a gun once shots rang out?\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:45:40"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1220, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3102",
+   "header": "**A-3102** Lily New York Post Letter Comment Bundle",
+   "label": "Lily New York Post Letter Comment Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3102.1",
+   "header": "**A-3102.1** Viewer comment from Lily read on air alleging a fake letter was planted in the New York Post",
+   "label": "Viewer comment from Lily read on air alleging a fake letter was planted in the New York Post",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Now they planted a fake letter in the same New York Post and their minions.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:48:10"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1230, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3103",
+   "header": "**A-3103** Basel Paras Debate Question Bundle",
+   "label": "Basel Paras Debate Question Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3103.1",
+   "header": "**A-3103.1** Viewer comment from Basel Paras read on air asking the host to debate Ben Shapiro, Brandon Tatum and PBD",
+   "label": "Viewer comment from Basel Paras read on air asking the host to debate Ben Shapiro, Brandon Tatum and PBD",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"would you want to debate the more prominent commentators like Ben Shapiro, Brandon Tatum, and PBD on the topics of Israel, Mossad, and Palestine?\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:44:10"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1218, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3104",
+   "header": "**A-3104** Russian-Language White Lotus Headline Bundle",
+   "label": "Russian-Language White Lotus Headline Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3104.1",
+   "header": "**A-3104.1** Headline translated from Russian about a white lotus sect training fighters, shown on screen by the host",
+   "label": "Headline translated from Russian about a white lotus sect training fighters, shown on screen by the host",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:21:48"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1184, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3105",
+   "header": "**A-3105** TPUSA Faith Packet Bundle",
+   "label": "TPUSA Faith Packet Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3105.1",
+   "header": "**A-3105.1** Host verbal reference to a TPUSA Faith packet submitted to her that mentions Israel eight times (not shown)",
+   "label": "Host verbal reference to a TPUSA Faith packet submitted to her that mentions Israel eight times (not shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"they're handing out TPUSA faith packets and like Israel is mentioned eight times\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:42:50"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1213, C-1215, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3106",
+   "header": "**A-3106** Host Text Messages With Charlie Kirk Bundle",
+   "label": "Host Text Messages With Charlie Kirk Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3106.1",
+   "header": "**A-3106.1** Host verbal reference to text messages with Charlie Kirk about Israel and speech (not shown)",
+   "label": "Host verbal reference to text messages with Charlie Kirk about Israel and speech (not shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"I have those text messages with him\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:32:30"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1199, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3107",
+   "header": "**A-3107** Paid Tipster Message Bundle",
+   "label": "Paid Tipster Message Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3107.1",
+   "header": "**A-3107.1** Host recounts a message from a paid live-show tipster saying the FBI is hiding doorbell-cam footage showing the shooter with a woman (message previously received, not shown)",
+   "label": "Host recounts a message from a paid live-show tipster saying the FBI is hiding doorbell-cam footage showing the shooter with a woman (message previously received, not shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"I have been trying to reach out to you everywhere. The FBI is hiding footage.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:08:50"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1164, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## IV. Node Register",
+    "",
+    "### People",
+    ""
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-128",
+   "header": "**N-128** Shaner Broderick",
+   "label": "Shaner Broderick",
+   "lines": [
+    {
+     "raw": "Family member of Phil Lyman who recorded footage at the Lyman property reviewing the shooter's route, deleted his social media after contact, and is named by host as the source of the camera footage clip played on air."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1196.1, C-1167, N-40, N-142*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-42",
+   "header": "**N-42** George Zinn",
+   "label": "George Zinn",
+   "lines": [
+    {
+     "raw": "Local figure who appears as one of ~20 featured endorsements on Phil Lyman's campaign website; the endorsement has been publicly accessible since at least 2024-06-06 per Wayback."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1197.1, A-1197.2, C-1156, N-40*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-133",
+   "header": "**N-133** Robert Bohls",
+   "label": "Robert Bohls",
+   "lines": [
+    {
+     "raw": "FBI Special Agent in Charge recently installed over the Utah bureau by Kash Patel; previously held a long tenure in DC. First major case: Charlie Kirk assassination."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1199.1, C-1158, N-10154*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-134",
+   "header": "**N-134** Andrew Zenger",
+   "label": "Andrew Zenger",
+   "lines": [
+    {
+     "raw": "Recently appointed CEO and lead surgeon at the regional hospital where Charlie Kirk was taken; flagged by host because the hospital was not the nearest and did not rank highly for trauma/neck-wound capability."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium-High (involves routing question)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1199.2, C-1158, N-10154, N-1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-135",
+   "header": "**N-135** Judge Tony F. Graf Jr.",
+   "label": "Judge Tony F. Graf Jr.",
+   "lines": [
+    {
+     "raw": "Recently appointed to the fourth district court in May 2025 by Governor Spencer Cox; presides over Tyler Robinson case."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1199.3, C-1158, N-10154*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-136",
+   "header": "**N-136** Erica Mindel",
+   "label": "Erica Mindel",
+   "lines": [
+    {
+     "raw": "Self-described in host's producer note as American Israeli Jewish former IDF soldier; named as TikTok Public Policy Manager of Hate Speech since July 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1204.1, C-1214, N-10152*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-137",
+   "header": "**N-137** Florida Dad (X handle)",
+   "label": "Florida Dad (X handle)",
+   "lines": [
+    {
+     "raw": "X account characterized by host as \"Ziobot\"/pro-Israel; initiated the social-media pressure exchange with Megyn Kelly over separation from Candace Owens."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1201.1, C-1202*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-138",
+   "header": "**N-138** Konstantin Kisin",
+   "label": "Konstantin Kisin",
+   "lines": [
+    {
+     "raw": "X account / commenter who joined the Florida Dad → Megyn Kelly thread; described by host as an \"agent of Israel.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1203.1, A-1203.2, C-1205*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-139",
+   "header": "**N-139** Debra Lea",
+   "label": "Debra Lea",
+   "lines": [
+    {
+     "raw": "Host of the influencer meeting with Netanyahu; raised the question about evangelical support post-Kirk assassination."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1200.1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-140",
+   "header": "**N-140** Larry Ellison",
+   "label": "Larry Ellison",
+   "lines": [
+    {
+     "raw": "Named by host as a party in the TikTok deal and as openly identifying as \"an agent of Israel.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1200.1 (context), A-1204.1 (context)*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-141",
+   "header": "**N-141** Michael Burt",
+   "label": "Michael Burt",
+   "lines": [
+    {
+     "raw": "Defense attorney named in on-air comment as previously representing Richard Ramirez (\"the Nightstalker\"); said to be one of Tyler Robinson's lawyers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1206.1, C-1222*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-142",
+   "header": "**N-142** Unidentified Lyman-Family Woman (Shaner's aunt)",
+   "label": "Unidentified Lyman-Family Woman (Shaner's aunt)",
+   "lines": [
+    {
+     "raw": "Speaker in A-1196.1 footage; produced the statement \"I wondered if the girl had given him stuff…if there is an accomplice.\" Identity not publicly established in the episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High (cooperative witness)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1196.1, C-1167, N-128, N-40, N-10152*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "### Investigation Targets",
+    ""
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10152",
+   "header": "**N-10152** Unidentified Female / \"Accomplice\" in Shooter Footage",
+   "label": "Unidentified Female / \"Accomplice\" in Shooter Footage",
+   "lines": [
+    {
+     "raw": "Persistent target referenced across host reporting, anonymous tip, and Shaner Broderick footage; the FBI has not, per host, publicly identified or released her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "3"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1196.1, A-1207.1, C-1154, C-1167, N-142, N-128*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10153",
+   "header": "**N-10153** \"Robbie Hild\" Identity Verification",
+   "label": "\"Robbie Hild\" Identity Verification",
+   "lines": [
+    {
+     "raw": "X-handle candidate allegedly from Washington; named by viewer's reverse-image search. Per host, no one has come forward to personally identify him, raising the possibility of a synthetic identity."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1196.1, N-128 (Shaner Broderick context)*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10154",
+   "header": "**N-10154** Case-Personnel Cluster Anomalies",
+   "label": "Case-Personnel Cluster Anomalies",
+   "lines": [
+    {
+     "raw": "Composite target covering the simultaneous arrival of new senior figures (FBI SAC \"Robert Bohls,\" hospital CEO/surgeon Andrew Zenger, Judge Tony F. Graf Jr., unnamed new coroner) onto the case."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "3"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium-High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1198.1, A-1199.1–A-1199.4, C-1158, N-133, N-134, N-135*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10155",
+   "header": "**N-10155** Autopsy Record – Utah Privacy Statute Application",
+   "label": "Autopsy Record – Utah Privacy Statute Application",
+   "lines": [
+    {
+     "k": "Discrete legal target",
+     "v": "confirmation that an autopsy was conducted and that Utah statutory default is privacy absent family release."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1199.4, C-1161, C-1162, N-1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10156",
+   "header": "**N-10156** Hospital Routing Anomaly",
+   "label": "Hospital Routing Anomaly",
+   "lines": [
+    {
+     "raw": "Discrete question why Charlie was transported to a regional hospital that was neither nearest nor ranked highly for neck trauma capability."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1199.2, C-1158, N-134*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10157",
+   "header": "**N-10157** TPUSA Faith Packet / Israel References Claim",
+   "label": "TPUSA Faith Packet / Israel References Claim",
+   "lines": [
+    {
+     "raw": "Composite target referencing an attendee-submitted TPUSA Faith Packet said to mention Israel eight times; framed as a Turning Point directionality question."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1205.1 (context), A-1204.1 (context)*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10968",
+   "header": "**N-10968** The New York Times",
+   "label": "The New York Times",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Newspaper. First cited in this episode, where the host says the New York Times has reported on Russian and Ukrainian spies (intro moved from ep45, 2026-10-19)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1183*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-1",
+   "header": "**N-1** Charlie Kirk",
+   "label": "Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of the assassination; the host relays his views on Israel, security and his friendship with her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1159, C-1160, C-1185, C-1188, C-1199, C-1200, C-1201, C-1208, C-1216, C-1217, C-1219, C-1220, C-1221, C-1230, C-1231*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-3",
+   "header": "**N-3** Candace Owens",
+   "label": "Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host; speaks for herself throughout."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1153, C-1160, C-1163, C-1164, C-1168, C-1169, C-1170, C-1171, C-1172, C-1173, C-1174, C-1175, C-1176, C-1178, C-1179, C-1181, C-1183, C-1182, C-1184, C-1185, C-1186, C-1189, C-1197, C-1198, C-1199, C-1200, C-1201, C-1203, C-1206, C-1207, C-1210, C-1212, C-1213, C-1215, C-1216, C-1218, C-1219, C-1220, C-1224, C-1226, C-1228, C-1229, C-1230, C-1231, C-1232, C-1233, C-1234, C-1235, C-1236*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-5",
+   "header": "**N-5** Donald Trump",
+   "label": "Donald Trump",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "President; the host alleges his TikTok stance was theater."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1194*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-22",
+   "header": "**N-22** Tucker Carlson",
+   "label": "Tucker Carlson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named with the host as the target of demands that Megyn Kelly condemn them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1153, C-1186, C-1189, C-1203, C-1210*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-32",
+   "header": "**N-32** Dave Rubin",
+   "label": "Dave Rubin",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named by the host among the agents who criticized her Blumenthal retweet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1207*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-36",
+   "header": "**N-36** Benjamin Netanyahu",
+   "label": "Benjamin Netanyahu",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Speaker in the influencer clip played by the host."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1189, C-1191, C-1193, C-1194*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-40",
+   "header": "**N-40** Tyler Robinson",
+   "label": "Tyler Robinson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Charged suspect in the Kirk shooting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1181, C-1224*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-46",
+   "header": "**N-46** Megyn Kelly",
+   "label": "Megyn Kelly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Target of the pressure campaign over Candace Owens and Tucker Carlson."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1153, C-1200, C-1203, C-1208, C-1209, C-1210*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-49",
+   "header": "**N-49** Max Blumenthal",
+   "label": "Max Blumenthal",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Commentator whose retweet by the host triggered pressure from friends, per the host."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1206, C-1207*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-57",
+   "header": "**N-57** Patrick Bet-David",
+   "label": "Patrick Bet-David",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "One of the commentators the host says she would debate."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1218*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-61",
+   "header": "**N-61** Phil Lyman",
+   "label": "Phil Lyman",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Utah politician whose family owned the property near the shooting; subject of the host's footage requests."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1157, C-1163, C-1164, C-1165, C-1166, C-1171, C-1172, C-1173, C-1177, C-1178*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-93",
+   "header": "**N-93** Alex Jones",
+   "label": "Alex Jones",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Mentioned for an employee the host says was on a Ukrainian hit list."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1186*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-97",
+   "header": "**N-97** Ben Shapiro",
+   "label": "Ben Shapiro",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "One of the commentators the host says she would debate."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1196, C-1218*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-117",
+   "header": "**N-117** Marissa Streit",
+   "label": "Marissa Streit",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named by the host as the sender of a text resembling Kisin's tweet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1206*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-129",
+   "header": "**N-129** Kayleigh McEnany",
+   "label": "Kayleigh McEnany",
+   "lines": [
+    {
+     "raw": "Fox News host the host names (transcribed Kayleigh McEnany, likely Kayleigh McEnany) in the Lyman interview recollection."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1172*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-193",
+   "header": "**N-193** David Horowitz",
+   "label": "David Horowitz",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named by the host as the father of a Horowitz linked to the TikTok deal."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1196*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-58",
+   "header": "**N-58** Brandon Tatum",
+   "label": "Brandon Tatum",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Commentator the host says she would not debate."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1218*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10000",
+   "header": "**N-10000** Turning Point USA",
+   "label": "Turning Point USA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Organization whose events, Faith packet and personnel the host questions."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1212, C-1213, C-1221, C-1232*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10003",
+   "header": "**N-10003** Charlie-Candace Friendship Continuity",
+   "label": "Charlie-Candace Friendship Continuity",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the host's statement that she and Charlie never criticized each other publicly."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1219*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10006",
+   "header": "**N-10006** Fox News",
+   "label": "Fox News",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Network on which the host says Lyman spoke."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1172*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10011",
+   "header": "**N-10011** TMZ",
+   "label": "TMZ",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Outlet that published the doorbell-cam footage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1168, C-1172, C-1173*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10012",
+   "header": "**N-10012** Utah Valley University",
+   "label": "Utah Valley University",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Campus where the shooting took place; subject of the host's remarks about Russian and CIA ties."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1166, C-1179, C-1181, C-1182*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10014",
+   "header": "**N-10014** Federal Bureau of Investigation",
+   "label": "Federal Bureau of Investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Agency the host says withheld the woman from the public."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1169, C-1170, C-1226*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10017",
+   "header": "**N-10017** Charlie Kirk May 2 Letter Misrepresentation",
+   "label": "Charlie Kirk May 2 Letter Misrepresentation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the alleged fake letter."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1230*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10026",
+   "header": "**N-10026** Israel",
+   "label": "Israel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Country at the center of the host's Netanyahu clip, TikTok and Kirk remarks."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1189, C-1191, C-1199, C-1216, C-1217*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10052",
+   "header": "**N-10052** Doorbell-Cam Footage Provenance",
+   "label": "Doorbell-Cam Footage Provenance",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for how TMZ obtained the footage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1164, C-1168, C-1173*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10056",
+   "header": "**N-10056** Kirk-Israel Narrative Dispute",
+   "label": "Kirk-Israel Narrative Dispute",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the host's account of Kirk's changing view of Israel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1216*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10078",
+   "header": "**N-10078** TPUSA Financial Apparatus Investigation",
+   "label": "TPUSA Financial Apparatus Investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the awaited financial report."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1231*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10082",
+   "header": "**N-10082** CIA",
+   "label": "CIA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Agency the host links to UVU."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1182*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10115",
+   "header": "**N-10115** Soviet Education Infiltration",
+   "label": "Soviet Education Infiltration",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the viewer remark on the UVU president."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1179*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10131",
+   "header": "**N-10131** PragerU",
+   "label": "PragerU",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Organization linked by the host to the Horowitz family."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1196*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10135",
+   "header": "**N-10135** Doorbell Footage Completeness Question",
+   "label": "Doorbell Footage Completeness Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the footage the FBI allegedly withheld."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1164*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10139",
+   "header": "**N-10139** Operation Mocking Pastor",
+   "label": "Operation Mocking Pastor",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the host's pastor-funding remarks."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1233, C-1234*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10144",
+   "header": "**N-10144** Phil Lyman Proximity and Behavior Investigation",
+   "label": "Phil Lyman Proximity and Behavior Investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the host's exchange with Lyman."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1165, C-1171*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10146",
+   "header": "**N-10146** Phil Lyman Location Discrepancy",
+   "label": "Phil Lyman Location Discrepancy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for Lyman's statements about where he watched the footage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1172*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10147",
+   "header": "**N-10147** Unidentified Goth Person in Broderick Companion Photo",
+   "label": "Unidentified Goth Person in Broderick Companion Photo",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the person next to Shaner."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1176, C-1177, C-1178*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10148",
+   "header": "**N-10148** Charlie Kirk Pre-Mortem Israel Position Claim",
+   "label": "Charlie Kirk Pre-Mortem Israel Position Claim",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for why Kirk turned against Israel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1217*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10158",
+   "header": "**N-10158** ADL–FBI Partnership Structure",
+   "label": "ADL–FBI Partnership Structure",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the shared-building claim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1226*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10159",
+   "header": "**N-10159** Connecticut FBI Field Office Deployment Anomaly",
+   "label": "Connecticut FBI Field Office Deployment Anomaly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the Connecticut building remark."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1226*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10160",
+   "header": "**N-10160** Tyler Robinson Defense Selection Anomaly",
+   "label": "Tyler Robinson Defense Selection Anomaly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the defense lawyer comment."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1224*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10209",
+   "header": "**N-10209** TPUSA Faith / Christian Zionist Infiltration Question",
+   "label": "TPUSA Faith / Christian Zionist Infiltration Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the Faith packet remark."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1213, C-1215*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10406",
+   "header": "**N-10406** Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
+   "label": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the pressure campaign on Kelly."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1153, C-1200, C-1201, C-1203, C-1208, C-1210*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10898",
+   "header": "**N-10898** New York Post",
+   "label": "New York Post",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Outlet cited for the alleged fake letter and a spy story."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1183, C-1230*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10900",
+   "header": "**N-10900** Daily Wire",
+   "label": "Daily Wire",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Employer where the host says she read VPN ads."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1228*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11096",
+   "header": "**N-11096** TikTok Israel Moderation Claim",
+   "label": "TikTok Israel Moderation Claim",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the content-strike claim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1198*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11103",
+   "header": "**N-11103** TikTok",
+   "label": "TikTok",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Platform at the center of the Netanyahu clip and the host's censorship claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1194, C-1195, C-1196, C-1197, C-1198*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11153",
+   "header": "**N-11153** Anti-Defamation League",
+   "label": "Anti-Defamation League",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Organization the host says shares a building with the FBI."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1197, C-1226*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11170",
+   "header": "**N-11170** International Fellowship of Christians and Jews",
+   "label": "International Fellowship of Christians and Jews",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Organization the host says funds pastors."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1233, C-1234*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11217",
+   "header": "**N-11217** Utah State University",
+   "label": "Utah State University",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Site of the TPUSA event described by an attendee."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1212*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11269",
+   "header": "**N-11269** Ukrainian Hit List Claim",
+   "label": "Ukrainian Hit List Claim",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The host's assertion that Charlie Kirk, she, Tucker Carlson and a former Alex Jones employee were on a Ukrainian hit list."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1185, C-1186*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11270",
+   "header": "**N-11270** ExpressVPN Israeli Ownership Claim",
+   "label": "ExpressVPN Israeli Ownership Claim",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The comment and host remarks that Israel is taking over ExpressVPN and other VPN services and that ExpressVPN was started by an Israeli billionaire."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1227, C-1228, C-1229*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11271",
+   "header": "**N-11271** Security Guards Did Not Draw Guns Question",
+   "label": "Security Guards Did Not Draw Guns Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The viewer question and host agreement that no security guard drew a weapon when the shots rang out, and the host's remark on the security firm's earnings from Charlie."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1220, C-1221*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11272",
+   "header": "**N-11272** Charlie Kirk Laptop Access Question",
+   "label": "Charlie Kirk Laptop Access Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The host's statement that she knows who had access to Charlie Kirk's laptop and has questions about that."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1231*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11273",
+   "header": "**N-11273** Foreign Operatives and New Identities Hypothesis",
+   "label": "Foreign Operatives and New Identities Hypothesis",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The host's hunch that the shooting was a military operation by people from overseas, with new identities, supported by a Russian headline and a New York Times report."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1183, C-1184*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11274",
+   "header": "**N-11274** Shaner Broderick Account Deletion",
+   "label": "Shaner Broderick Account Deletion",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The deletion of Shaner Broderick's Facebook, LinkedIn and Instagram content after the host contacted him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1163*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## V. Claim Register",
+    ""
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1154",
+   "header": "**C-1154** Host Says Woman Was Seen With Shooter in Footage From Nearby Houses",
+   "label": "Host Says Woman Was Seen With Shooter in Footage From Nearby Houses",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:00:49"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says it has been confirmed that a woman was with the shooter in footage captured by houses near the venue, and that the FBI had not at the time of the episode publicly released or acknowledged that footage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1196.1"
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10152"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the underlying doorbell-camera footage independently; cross-check against FBI public statements and the TMZ September 11 release."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1156",
+   "header": "**C-1156** Host Shows George Zinn Endorsement on Phil Lyman's Campaign Website Since at Least June 2024",
+   "label": "Host Shows George Zinn Endorsement on Phil Lyman's Campaign Website Since at Least June 2024",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says George Zinn was featured as one of about twenty endorsers on Phil Lyman's campaign website, and shows on the Wayback Machine that the endorsement text was present no later than June 6, 2024."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1197.1, A-1197.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-42, N-61"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify current status of the endorsement on the live Lyman campaign site; obtain Wayback snapshots across the full 2024-2025 window."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1155",
+   "header": "**C-1155** Host Says State Farm Stadium Memorial Venue Was Secured via White House Intervention, Displacing a Scheduled RV Show",
+   "label": "Host Says State Farm Stadium Memorial Venue Was Secured via White House Intervention, Displacing a Scheduled RV Show",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:01:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she was told that Turning Point USA did not book State Farm Stadium in advance, and that the White House placed a personal call to the event coordinator and obtained the date by asking a previously booked event, apparently an RV show, to move or reschedule."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1198.1"
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Cross-check White House and TPUSA communications logs; verify the RV-show organizer account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1167",
+   "header": "**C-1167** Lyman family member on camera suggested a \"girl\" may have acted as accomplice with the shooter",
+   "label": "Lyman family member on camera suggested a \"girl\" may have acted as accomplice with the shooter",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:44"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In footage recorded by Shaner Broderick, his aunt (identified as a Lyman family member) states on camera that she wondered if \"the girl\" had given the shooter items and that there might have been an accomplice."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1196.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-40, N-128, N-142"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10152"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify and interview the female speaker; obtain the original unwiped file; secure any raw footage she retained."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1158",
+   "header": "**C-1158** Host Says Several New Officials Appeared in the Case Around the Time of the Assassination",
+   "label": "Host Says Several New Officials Appeared in the Case Around the Time of the Assassination",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says multiple senior officials involved in the case were recent appointments at the time of the event: FBI SAC Robert Bohls (installed by Kash Patel after a long DC tenure), hospital CEO and lead surgeon Andrew Zenger, Judge Tony F. Graf Jr. (fourth district court, appointed May 2025 by Governor Cox), and a new (unnamed) coroner."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1199.1, A-1199.2, A-1199.3, A-1199.4"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-133, N-134, N-135, N-41, N-69"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10154, N-10156"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm each appointment's date and predecessor; verify Andrew Zenger's direct involvement in Charlie Kirk's surgical care."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1161",
+   "header": "**C-1161** Host Says Autopsy of Charlie Kirk Was Conducted",
+   "label": "Host Says Autopsy of Charlie Kirk Was Conducted",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:17"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she was told that, despite public rumors to the contrary, an autopsy of Charlie Kirk was performed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1199.4 (host source)"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10155"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify through official medical examiner channels or court filings."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1162",
+   "header": "**C-1162** Host Says Utah Autopsy Reports Are Kept Private Unless Family Wishes Release",
+   "label": "Host Says Utah Autopsy Reports Are Kept Private Unless Family Wishes Release",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:17"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that, as she has learned, autopsy reports in Utah are kept private, and the only way the report would be released is if the immediate family wished it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1199.4 (host source)"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10155"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm against the current Utah Code provision on medical examiner reports and the practice of the named office."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1187",
+   "header": "**C-1187** Host Says Netanyahu Met on Camera With US Social-Media Influencer Debra Lea",
+   "label": "Host Says Netanyahu Met on Camera With US Social-Media Influencer Debra Lea",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:27:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Benjamin Netanyahu conducted an on-camera meeting with US influencers including Debra Lea to discuss shaping US opinion, and plays a clip in which Lea asks him about Charlie Kirk's assassination and the potential loss of evangelical support for Israel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1200.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-139, N-36, N-1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the original full footage and timestamp metadata; identify any co-attendees not named in the clip."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1192",
+   "header": "**C-1192** Netanyahu Names TikTok and X (and Elon Musk) as Principal Platforms of Described \"Battle\" in Clip Host Plays",
+   "label": "Netanyahu Names TikTok and X (and Elon Musk) as Principal Platforms of Described \"Battle\" in Clip Host Plays",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:29:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip of the influencer meeting the host plays, Netanyahu identifies TikTok and X as the most important battlegrounds, expresses hope that the TikTok deal will go through, and describes Elon Musk as a friend to be spoken with."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1200.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the full exchange; verify the exact statements against the unedited clip."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1190",
+   "header": "**C-1190** Netanyahu Calls Social Media the Most Important Battlefield in Clip Host Plays",
+   "label": "Netanyahu Calls Social Media the Most Important Battlefield in Clip Host Plays",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip of the influencer meeting the host plays, Netanyahu says, in essence, that the means of fighting must match the battlefield and identifies social media as the most important battlefield of the present moment."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1200.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the full quote in its original-language form; identify the context (who prompted the metaphor)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1202",
+   "header": "**C-1202** \"Florida Dad\" Account on X Demanded Megyn Kelly Separate From Candace Owens",
+   "label": "\"Florida Dad\" Account on X Demanded Megyn Kelly Separate From Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:35:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the X post the host shows, an account identifying as \"Florida Dad\" told Megyn Kelly she must separate from Candace Owens, or \"many of us\" would separate from Kelly."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1201.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-137, N-3, N-46"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive the original post; identify the account's operator; map its network of similar accounts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1204",
+   "header": "**C-1204** Megyn Kelly publicly refused to condemn Candace Owens or Tucker Carlson in the thread",
+   "label": "Megyn Kelly publicly refused to condemn Candace Owens or Tucker Carlson in the thread",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:35:17"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host shows a post in which Megyn Kelly replies to Florida Dad that she has no obligation to separate herself from anyone and that if he needs her to condemn Candace or Tucker for their opinions in order to listen to her, she may not be for him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1202.1, A-1203.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-137, N-46, N-22, N-3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Capture full thread context including replies not quoted on air."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1205",
+   "header": "**C-1205** Konstantin Kisin joined the X pressure thread against Megyn Kelly",
+   "label": "Konstantin Kisin joined the X pressure thread against Megyn Kelly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:35:51"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the X post the host reads, Konstantin Kisin wrote to Megyn Kelly characterizing Candace Owens' and Tucker Carlson's behavior as \"extreme and so deranged\" and questioning why Kelly was not confronting them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1203.1, A-1203.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-138, N-22, N-3, N-46"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the post is from the same handle the host means; identify its operator and pattern of activity."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1214",
+   "header": "**C-1214** Producer Note Says TikTok Public Policy Manager of Hate Speech Since July 2025 Is a Former IDF Soldier",
+   "label": "Producer Note Says TikTok Public Policy Manager of Hate Speech Since July 2025 Is a Former IDF Soldier",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:43:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "A note from the host's producer, which she reads on air, says that Erica Mindel is a former IDF soldier and TikTok's Public Policy Manager of Hate Speech since July 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1204.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-136"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the named individual's employment, role title, and dates through LinkedIn, TikTok corporate disclosures, or press releases."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1225",
+   "header": "**C-1225** Viewer Comment Says FBI Cut Ties With ADL and the Two Share a Building",
+   "label": "Viewer Comment Says FBI Cut Ties With ADL and the Two Share a Building",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "A viewer comment the host reads, from Marzy, says the FBI just cut ties with the ADL after Turning Point USA criticism and that the two share a building and are one and the same; the host adds that she thinks the building is in Connecticut."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1207.1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify against FBI press releases; identify the shared facility; check for any state or federal disclosure."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1222",
+   "header": "**C-1222** Viewer Comment Says One of Tyler Robinson's Lawyers Previously Represented Richard Ramirez",
+   "label": "Viewer Comment Says One of Tyler Robinson's Lawyers Previously Represented Richard Ramirez",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:46:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "A viewer comment the host reads says that one of Tyler Robinson's defense lawyers, Michael Burt, previously represented Richard Ramirez (\"the Nightstalker\")."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1206.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-141, N-40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify against state bar records and published case dockets for both Ramirez and Robinson."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1211",
+   "header": "**C-1211** TPUSA event at USU on 2025-09-30 felt scripted and lacked open dialogue, per attendee email",
+   "label": "TPUSA event at USU on 2025-09-30 felt scripted and lacked open dialogue, per attendee email",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:41:41"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "An attendee of the TPUSA event at Utah State University on 2025-09-30 wrote to the show characterizing the event as scripted, lacking open dialogue, and not authentic."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1205.1"
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain independent attendee statements; compare against TPUSA's published event format."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1180",
+   "header": "**C-1180** Host says old photos show a younger Tyler Robinson visiting his uncle Mikey, whom she links to a Ukrainian battalion",
+   "label": "Host says old photos show a younger Tyler Robinson visiting his uncle Mikey, whom she links to a Ukrainian battalion",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:27"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says it is a fact that there are old photos of a younger Tyler Robinson visiting his \"uncle Mikey\", who she says works with a Ukrainian battalion and is a military man; she adds that she cannot confirm the uncle is Mike Mitchell and that this is still theory territory."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "It is a fact that Tyler Robinson, we can't confirm that this is Mike Mitchell, but there are old photos of Tyler Robinson when he's a lot younger visiting his uncle Mikey."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-40, N-125"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10151"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the photos the host refers to and establish who \"uncle Mikey\" is; check any Mike Mitchell link against the public record."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1153",
+   "header": "**C-1153** Host says agents are surrounding Megyn Kelly to demand she denounce the host and Tucker Carlson",
+   "label": "Host says agents are surrounding Megyn Kelly to demand she denounce the host and Tucker Carlson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:00:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that, for no apparent reason, \"agents\" she compares to Mr. Smith in the Matrix are, she guesses, surrounding Megyn Kelly and demanding that Kelly make a statement against the host and Tucker Carlson."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the agents like I think of them as like Mr. Smith in the Matrix have around I guess they're surrounding Megyn Kelly and demanding that she makes a statement against me and Tucker Carlson."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-46, N-22"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10406"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Collect the public posts demanding that Megyn Kelly denounce Candace Owens and Tucker Carlson and establish whether the accounts are coordinated."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1157",
+   "header": "**C-1157** Host says locals describe George Zinn as a fixture at Republican events",
+   "label": "Host says locals describe George Zinn as a fixture at Republican events",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says other locals told her that George Zinn is very involved in Republican politics and shows up to a lot of events, and that Phil Lyman's people would have controlled the campaign website that featured him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "other locals told us that George Zinn, for whatever reason, is very in involved in Republican politics."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1197.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-42, N-61"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Interview the locals and check county and state Republican event records for George Zinn's attendance."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1159",
+   "header": "**C-1159** Host says the receiving hospital was not the nearest and ranked low for neck trauma",
+   "label": "Host says the receiving hospital was not the nearest and ranked low for neck trauma",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the regional hospital to which Charlie Kirk was taken was not the nearest hospital to the university and ranked extremely low among the hospitals best equipped for the neck wound he suffered."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "although that was not the nearest hospital from the university and it also ranked extremely low in terms of the most uh best equipped hospital"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10156"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Map hospital distances from the campus and compare published trauma-level designations of the nearer hospitals with the hospital used."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1160",
+   "header": "**C-1160** Host asks for information on whether the new hospital CEO and surgeon worked on Charlie",
+   "label": "Host asks for information on whether the new hospital CEO and surgeon worked on Charlie",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she would like to learn whether the new hospital CEO and surgeon, Andrew Zenger, worked on Charlie Kirk, and asks anyone with that information to email the tip address."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I think it would be interesting to learn whether or not that new CEO and surgeon worked on Charlie."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3100.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1, N-134"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10156"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core,dia"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the surgical team roster from the hospital or the death certificate and records through the family."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1163",
+   "header": "**C-1163** Host says Shaner Broderick deleted his social accounts after she asked him a question",
+   "label": "Host says Shaner Broderick deleted his social accounts after she asked him a question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Shaner Broderick deleted his Facebook and LinkedIn and wiped his Instagram after she asked him a question before going live, and that her team had captured his content beforehand."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "just deleted his Facebook and just outright deleted his LinkedIn page because I asked him a question before we even went live."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-128"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11274"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare archived captures of his accounts against the current state and ask him directly why he deleted them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1164",
+   "header": "**C-1164** Host says a paid tipster told her the FBI is hiding doorbell footage",
+   "label": "Host says a paid tipster told her the FBI is hiding doorbell footage",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:42"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that on a previous live show someone paid to inform her that the FBI was hiding footage, and that the tipster said the shooter is seen changing clothes with a woman and gave the name of another Lyman family member."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "someone paid money uh to inform us that there was footage that the FBI was hiding."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3107.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10052, N-10135"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the earlier paid message and the tipster's identity, and compare her description with the doorbell footage released by TMZ."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1165",
+   "header": "**C-1165** Host says Phil Lyman has been open that his family owned the property",
+   "label": "Host says Phil Lyman has been open that his family owned the property",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:42"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Phil Lyman has been forthcoming that his family owned the property near the shooting and that this is not mysterious."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He has been forthcoming about the fact that his family owned that property."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-61"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10144"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check county property records for Lyman family parcels on the route."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1166",
+   "header": "**C-1166** Host says Utah Valley University bought its acreage from the Lyman family",
+   "label": "Host says Utah Valley University bought its acreage from the Lyman family",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says UVU in many ways purchased the acreage for the university from Phil Lyman's family."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "UVU in many ways purchased uh the university from his family, right? That the the acreage from his family for that university."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-61"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10012"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Search Utah County deed and university land-acquisition records for the Lyman family transaction."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1168",
+   "header": "**C-1168** Host says TMZ already had the doorbell-cam footage on the morning of September 11",
+   "label": "Host says TMZ already had the doorbell-cam footage on the morning of September 11",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:15"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that the very next morning, September 11, TMZ already had the doorbell-cam footage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "you should recall that the very next morning on September the 11th, TMZ already had the doorbell cam footage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10011, N-10052"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Establish TMZ's first publication time and source for the doorbell footage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1169",
+   "header": "**C-1169** Host says the aunt is the woman who handed her footage to the FBI",
+   "label": "Host says the aunt is the woman who handed her footage to the FBI",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:15"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the woman heard on Shaner's clip is the person who handed her footage to the FBI, and that she now has both her source and the aunt's own words indicating that a woman was with the shooter."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "now we have actually the woman who handed over her footage to the FBI saying, \"I wondered if that woman was an accomplice, ladies and gentlemen."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1196.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-142, N-128"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10152, N-10014"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm the aunt's identity and whether she gave footage to the FBI and, if so, which files."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1170",
+   "header": "**C-1170** Host says the FBI did not tell the public during the manhunt that a woman was involved",
+   "label": "Host says the FBI did not tell the public during the manhunt that a woman was involved",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the FBI already had the footage and, during the 33-hour manhunt, chose not to inform the public that it was also looking for a woman."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "during this 33-hour manhunt, not to inform the public that they were also looking for a woman"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10014, N-10152"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review FBI press briefings from September 10 to 12 for any mention of a second person."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1171",
+   "header": "**C-1171** Host says Phil Lyman reacted angrily and asked whether she was involved in the shooting",
+   "label": "Host says Phil Lyman reacted angrily and asked whether she was involved in the shooting",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that after she asked Phil Lyman to track down the footage he became angry, said unkind things to her and asked whether she had something to do with the shooting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He's angry. I mean, he said really not nice things to me. He started asking me if I had something to do with the shooting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-61"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10144"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the text or message exchange between the host and Phil Lyman."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1172",
+   "header": "**C-1172** Host says Lyman told Fox News he had not seen the footage while his cousin gave it to TMZ",
+   "label": "Host says Lyman told Fox News he had not seen the footage while his cousin gave it to TMZ",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Phil Lyman said on a Fox News segment with Kayleigh McEnany that he was at a cousin's house watching live and seeing the footage for the first time, while the cousin had already given footage to TMZ."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "You were watching it live with Kayleigh McEnany on Fox News. That's what you said during that segment, right?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-61, N-129"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10006, N-10011, N-10146"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pull the Fox News segment and compare Lyman's statements about where he was with the footage timeline."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1173",
+   "header": "**C-1173** Host says either the cousin or the feds gave the footage to TMZ",
+   "label": "Host says either the cousin or the feds gave the footage to TMZ",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says there are only two options for how TMZ got the footage: the Lyman cousin gave it to TMZ, or federal agents gave a portion of it to TMZ."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Either your cousin gave it to TMZ or the feds gave a portion of it to TMZ"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-61"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10011, N-10052"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask TMZ about its source and check the footage's chain of custody."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1174",
+   "header": "**C-1174** Host asks for tips on who the woman was",
+   "label": "Host asks for tips on who the woman was",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host asks viewers with any tips about who the woman caught on camera was to contact her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "if you have any tips pertaining to who the woman was that was caught, uh, please let me know."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3100.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10152"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core,dia"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Cross-check submissions to the tip line against the footage and the Lyman family network."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1175",
+   "header": "**C-1175** Host asks viewers to send tips rather than videos and says she may open a second line",
+   "label": "Host asks viewers to send tips rather than videos and says she may open a second line",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:58"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host asks viewers to use the tips address for information instead of sending videos, TikToks and links, and says the inbox is overloaded so she may set up a second line."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "there's only so much data that an inbox can take and we might have to just make a second a second line is what I think we should do."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3100.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core,dia"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm whether a second tip line was opened in later episodes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1176",
+   "header": "**C-1176** Host says one person next to Shaner was found to be from Austria",
+   "label": "Host says one person next to Shaner was found to be from Austria",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:58"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says they discovered that one of the people pictured next to Shaner was from Austria."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We discover that one person was from Austria."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-128"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10147"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the Austrian national and verify his link to the Lyman family."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1177",
+   "header": "**C-1177** Host says Phil Lyman does not know the goth individual",
+   "label": "Host says Phil Lyman does not know the goth individual",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:58"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Phil Lyman has been clear that he does not know the goth-looking individual pictured with Shaner."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Phil Lemon does not know this individual."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-61, N-128"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10147"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare Lyman's statements on who the two people were across interviews and messages."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1178",
+   "header": "**C-1178** Host says viewers identified the goth person as Robbie Hild but she doubts it",
+   "label": "Host says viewers identified the goth person as Robbie Hild but she doubts it",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says several viewers found a person going by the name Robbie Hild, allegedly from Washington, and she doubts it is his true identity because no one has come forward saying they know him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "A person going by the name Robbie Hild who is allegedly from Washington."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10153, N-10147"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the Robbie Hild identity through school, social media and residence records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1179",
+   "header": "**C-1179** Host passes on a viewer saying the UVU president majored in Soviet studies",
+   "label": "Host passes on a viewer saying the UVU president majored in Soviet studies",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:15"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says one viewer wrote that UVU has an unusual dedication and that its president majored in Soviet studies, which the host calls a direct pipeline from Russia to America."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "even the president, I'm I'm blanking on her name, it like majored in Soviet studies."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10012, N-10115"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the UVU president's published biography and degrees."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1181",
+   "header": "**C-1181** Host says she has a hunch the shooting was a military operation by people from overseas",
+   "label": "Host says she has a hunch the shooting was a military operation by people from overseas",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she has a stronger-than-theory hunch that the killing was a military operation and that the people who executed it are from overseas, while saying she is still in theory territory."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I'm starting to get a stronger than a theory and more of a hunch that this was a a military operation and people that executed this are actually from overseas."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10012"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify any documentary evidence for foreign operatives; none is cited on air."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1183",
+   "header": "**C-1183** Host cites New York Times reporting on Russian and Ukrainian spies with new IDs",
+   "label": "Host cites New York Times reporting on Russian and Ukrainian spies with new IDs",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:32"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the New York Times has reported on Russian and Ukrainian spies building new lives with new IDs in America and in Brazil."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the New York Times has reported on uh Russian Ukrainian spies that are building new lives from themselves with new IDs uh in America, in Brazil"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10968, N-11273"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the New York Times article the host refers to."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1182",
+   "header": "**C-1182** Host says UVU has strong ties to the CIA",
+   "label": "Host says UVU has strong ties to the CIA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that UVU has strong ties to the CIA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "when you look at UVU campus and their strong ties um to the CIA, things start to get really interesting"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10012, N-10082"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the documented CIA recruitment or partnership programs at UVU."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1184",
+   "header": "**C-1184** Host shows a translated Russian headline about a white lotus sect training fighters",
+   "label": "Host shows a translated Russian headline about a white lotus sect training fighters",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:48"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host shows a headline translated from Russian about a white lotus sect, which she says is training fighters and has been declassified, and suspects the same is happening in America."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it is telling about white lotus sect of all things."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3104.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11273"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find the original Russian article and check its claims against declassified material."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1185",
+   "header": "**C-1185** Host says Charlie and she were on a hit list",
+   "label": "Host says Charlie and she were on a hit list",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:48"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says it is a fact that Charlie Kirk was on a hit list and that she was also on it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Charlie was on a um a hit list. I also was on that hit list."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11269"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Establish which list is meant and obtain it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1186",
+   "header": "**C-1186** Host says Tucker and an Alex Jones employee were on a Ukrainian hit list",
+   "label": "Host says Tucker and an Alex Jones employee were on a Ukrainian hit list",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:56"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Tucker Carlson was on the hit list and that a man who worked for Alex Jones and was killed was similarly on a Ukrainian hit list; she cannot recall his name."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I forgot the name of the individual that worked for Alex Jones who got killed, but he was similarly on a Ukrainian hit list."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-22, N-93, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11269"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the Alex Jones employee and the Ukrainian list referenced."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1188",
+   "header": "**C-1188** Host plays Debra Lea saying Charlie Kirk was her first mentor in the space",
+   "label": "Host plays Debra Lea saying Charlie Kirk was her first mentor in the space",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:27:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the played clip Debra Lea describes Charlie Kirk as a big mentor of hers and her first mentor in the space."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "who was a big mentor of mine, he's my first mentor in the space."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1200.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-139, N-1"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full clip and Lee's background and past public statements about Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1189",
+   "header": "**C-1189** Host plays Debra Lea asking Netanyahu about losing evangelical support",
+   "label": "Host plays Debra Lea asking Netanyahu about losing evangelical support",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:27:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the played clip Debra Lea says evangelicals are the reason Israel has been supported in the public sphere beyond Jews and asks Netanyahu what the backup plan is if Israel loses evangelical support."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "evangelicals are the reason that Israel has been supported in public sphere outside of just Jews."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1200.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-139, N-36, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10026"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full clip and the event details."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1191",
+   "header": "**C-1191** Host plays Netanyahu saying the challenge to Israel's support is funded by money",
+   "label": "Host plays Netanyahu saying the challenge to Israel's support is funded by money",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the played clip, as the host presents it, Netanyahu says much of the systematic challenge to Israel's base of support in the United States is done with money from NGOs and governments and that Israel must fight back through influencers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "A lot of this is done with money. Money of NOS's vast money of governments faster."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1200.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-36"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10026"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the full exchange in the original clip, including who spoke each line."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1193",
+   "header": "**C-1193** Host plays Netanyahu saying he must give direction to Jewish people and non-Jewish friends",
+   "label": "Host plays Netanyahu saying he must give direction to Jewish people and non-Jewish friends",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:29:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the played clip the speaker says he has to give direction to the Jewish people and to non-Jewish friends and does not expect to succeed with everyone."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "give direction to the Jewish people and give direction to our non-Jewish friends"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1200.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-36"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the line and speaker in the full clip."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1194",
+   "header": "**C-1194** Host says Trump wanted to hand TikTok to Israel-aligned friends",
+   "label": "Host says Trump wanted to hand TikTok to Israel-aligned friends",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:49"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Donald Trump's stated worry about China owning TikTok was theater and that he wanted to hand TikTok over to his Zionist friends."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "No, you wanted to hand it over to your Zionist friends."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-5"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11103"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare Trump statements on the TikTok deal with the final ownership structure."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1195",
+   "header": "**C-1195** Host says Larry Ellison is part of the TikTok deal and calls himself an agent of Israel",
+   "label": "Host says Larry Ellison is part of the TikTok deal and calls himself an agent of Israel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:49"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Larry Ellison is part of the TikTok deal and is clear that he is an agent of Israel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it's Larry Ellison who has made he's very clear about the fact that he's a agent of Israel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-140"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11103"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find Ellison's exact public statement and the TikTok deal terms."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1196",
+   "header": "**C-1196** Host says a Horowitz, son of David Horowitz, is part of the TikTok deal",
+   "label": "Host says a Horowitz, son of David Horowitz, is part of the TikTok deal",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:49"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the deal includes a Horowitz, the son of David Horowitz, whom she links to the origins of PragerU, the David Horowitz Foundation and Ben Shapiro in Los Angeles."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Horowitz, the son of David Harowitz, David Harowitz from which all of uh the connections Prageru"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-193, N-97"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10131, N-11103"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify which Horowitz is meant and check the TikTok deal investor list."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1197",
+   "header": "**C-1197** Host says an ADL spokesperson was caught on a mic saying something must be done about TikTok",
+   "label": "Host says an ADL spokesperson was caught on a mic saying something must be done about TikTok",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:49"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says an ADL spokesperson was caught on a microphone saying the ADL needs to do something about TikTok."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "just like the ADL spokesperson said when he was caught um on the mic was like, \"We need to do something about Tik Tok"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11153, N-11103"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find the recording of the ADL spokesperson."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1198",
+   "header": "**C-1198** Host says content got strikes after a self-described proud Zionist executive was installed at TikTok",
+   "label": "Host says content got strikes after a self-described proud Zionist executive was installed at TikTok",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:58"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that after TikTok installed an executive who said she was a proud Zionist and spent time in Israel, the host's content immediately received strikes, and that nothing bad about Israel can be said on TikTok now."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we saw instantly that our content was getting strikes you can't say anything bad right now about Israel on TikTok"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11096, N-11103"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the strike notices and the executive's identity and statements."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1199",
+   "header": "**C-1199** Host says she has text messages showing Charlie worried about Israel and speech",
+   "label": "Host says she has text messages showing Charlie worried about Israel and speech",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:58"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie Kirk was very worried about what Israel was doing to come inward on speech and that she has text messages with him on it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "was very worried about what Israel was doing to come inward on speech and I have those text messages with him"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3106.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10026"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain and authenticate the text messages."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1200",
+   "header": "**C-1200** Host says Megyn Kelly tweeted her episode asking to hear Charlie in his own words",
+   "label": "Host says Megyn Kelly tweeted her episode asking to hear Charlie in his own words",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:10"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Megyn Kelly tweeted her episode saying to listen to Charlie in his own words, and that Florida Dad replied by demanding she separate from the host."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Megyn Kelly tweeted her episode and said, \"Listen to Charlie in his own words about what he was going through.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1201.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-46, N-1, N-137, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10406"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate Kelly's original post and the reply chain."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1201",
+   "header": "**C-1201** Host says she lived what Charlie went through with pretend friends",
+   "label": "Host says she lived what Charlie went through with pretend friends",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:10"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she lived what Charlie was going through, where people pretending to be friends turn out to be agents close to ruining your life if you do not do what they want."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I lived what uh Charlie was going through where suddenly you realize these people that are pretending to be your friends"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10406"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Corroborate through Charlie's messages or associates describing similar pressure."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1203",
+   "header": "**C-1203** Host reads Megyn Kelly saying a close friend is under enough pressure and her fight is with the left",
+   "label": "Host reads Megyn Kelly saying a close friend is under enough pressure and her fight is with the left",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:35:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads Kelly's reply saying Tucker is a close friend, the host is under enough pressure without gratuitous shots from Kelly, and her fight is with the left, not these two."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He's a close friend and she is under enough pressure without gratuitous shots from me. My fight is with the left, not these two."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1202.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-46, N-22, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10406"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Capture the full original Kelly post."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1206",
+   "header": "**C-1206** Host Says Kisin's Argument Is Nearly Verbatim a Text from Marissa Streit",
+   "label": "Host Says Kisin's Argument Is Nearly Verbatim a Text from Marissa Streit",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:35:51"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Konstantin Kisin's tweet is almost verbatim a text message she received from Marissa Streit after she retweeted Max Blumenthal."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "almost verbatim a text message that I received from Marissa Stright when I like retweeted Max Blumenthal"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1203.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-138, N-117, N-49, N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the text message and compare it with the Kisin post."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1207",
+   "header": "**C-1207** Host says Dave Rubin and others reacted to her Blumenthal retweet",
+   "label": "Host says Dave Rubin and others reacted to her Blumenthal retweet",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:04"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that when she retweeted Max Blumenthal, agents such as Dave Rubin asked her, \"don't you see what you did.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "and then like all of the agents like Dave Rubin all them were like don't you see what you did"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-32, N-49, N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the messages from Rubin and others."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1208",
+   "header": "**C-1208** Host says Charlie dug in his heels the way Kelly did",
+   "label": "Host says Charlie dug in his heels the way Kelly did",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:44"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Kelly's refusal mirrors Charlie, who said he was done and was digging his heels in because they know what this is."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "This was Charlie. He was like, \"I'm done. I'm just done. I'm digging my heels in because they know what this is.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1203.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-46, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10406"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify when and to whom Charlie expressed this."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1209",
+   "header": "**C-1209** Host Reads Kisin Asking Why Lies on the Right Should Not Be Challenged",
+   "label": "Host Reads Kisin Asking Why Lies on the Right Should Not Be Challenged",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads a reply from Kisin saying he demands nothing of Kelly and asks why lies told by prominent people on the right should not be challenged like lies on the left, and Kelly answering that his response proves the opposite."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I demand nothing of you. And in coming from a position of great respect"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1203.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-138, N-46"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Capture the full thread."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1210",
+   "header": "**C-1210** Host predicts a press attack on Kelly if she does not denounce them",
+   "label": "Host predicts a press attack on Kelly if she does not denounce them",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host predicts that if Kelly does not denounce her and Tucker Carlson, the next layer will be a full-blown press attack on Kelly."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Then they will send the next layer which is a full-blown press attack."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-46, N-22, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10406"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Monitor media coverage of Kelly after October 1, 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1212",
+   "header": "**C-1212** Host says other emails also called the USU event controlled",
+   "label": "Host says other emails also called the USU event controlled",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:42:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she received other emails from people saying the TPUSA event felt very much controlled."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I got received other emails of people saying that um they felt that it was very much controlled"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1205.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-11217"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain those emails."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1213",
+   "header": "**C-1213** Host says TPUSA Faith packets mention Israel eight times",
+   "label": "Host says TPUSA Faith packets mention Israel eight times",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:42:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says people told her TPUSA Faith packets being handed out mention Israel eight times, that someone submitted the packet to her, and that she read it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "they're handing out TPUSA faith packets and like Israel is mentioned eight times. Someone submitted it to me."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3105.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10157, N-10209, N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the packet and count the Israel references."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1215",
+   "header": "**C-1215** Host says she knows who is behind the Faith packet",
+   "label": "Host says she knows who is behind the Faith packet",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:43:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that after reading the packet she called it ridiculous and said she knows who is behind it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "It's ridiculous. And I know who's behind that. I do."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3105.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10157, N-10209"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask the host for the person she means and verify authorship."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1216",
+   "header": "**C-1216** Host says she and Charlie went to Israel together and he loved it",
+   "label": "Host says she and Charlie went to Israel together and he loved it",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:43:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie authentically loved Israel when they started out, for the same reasons the two went to Israel together."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Charlie authentically when we started out loved Israel for the the same reasons we went to Israel together."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10026, N-10056"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Establish the dates and participants of the trip."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1217",
+   "header": "**C-1217** Host says Israel's behavior turned Charlie against it",
+   "label": "Host says Israel's behavior turned Charlie against it",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:43:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie saw Israel's tactics for controlling speech and found them problematic, and that their behavior turned him against them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And it was their behavior that turned him against them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10026, N-10148"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Corroborate with Charlie's messages and public statements."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1218",
+   "header": "**C-1218** Host says she would debate Shapiro and PBD but not Brandon Tatum",
+   "label": "Host says she would debate Shapiro and PBD but not Brandon Tatum",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she would debate Patrick Bet-David and Ben Shapiro but not Brandon Tatum, whom she loves like a brother."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I would debate PBD. I would debate Ben Shapiro. I wouldn't de debate Brandon Tatum because I love Brandon Tatum like a brother."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3103.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-97, N-57, N-58, N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "None needed beyond the audio; check whether any debate was later scheduled."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1219",
+   "header": "**C-1219** Host says she and Charlie never threw each other under the bus publicly",
+   "label": "Host says she and Charlie never threw each other under the bus publicly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie and she never threw each other under any buses publicly and that when they disagreed they did so privately."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Charlie and I never threw each other under any buses publicly. And when we did disagree, we had those disagreements uh privately."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10003"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare with public statements by either to check for disputes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1220",
+   "header": "**C-1220** Host says it is strange that no security guard drew a gun",
+   "label": "Host says it is strange that no security guard drew a gun",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:45:57"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host agrees it is strange that no security guard pulled a gun when shots rang out, and says the guards seemed to know no more shots were coming."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Uh yes, I think it is strange actually. I thought about that after the fact and they seem to know that not more was coming."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3101.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11271"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review event video of the security team's reaction and TPUSA's security plan."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1221",
+   "header": "**C-1221** Host says the security firm earned large sums from Charlie",
+   "label": "Host says the security firm earned large sums from Charlie",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:45:57"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the security firm was making a lot of money off Charlie and that it was taken on by Turning Point USA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the amount of money that they were making off of Charlie because Charlie ended up buying Turning Point USA, ended up taking on that security firm."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-11271"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review TPUSA contracts and payments to the security vendor."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1223",
+   "header": "**C-1223** Comment says Ramirez shared a jail with Sean Penn in 1987",
+   "label": "Comment says Ramirez shared a jail with Sean Penn in 1987",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:46:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "A viewer comment read by the host says Richard Ramirez was in the same jail as Sean Penn in 1987, when Penn was serving 33 days."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Ramirez was in the same jail as Sean Penn in 1987, who was serving 33 days."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1206.1"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check jail records for 1987."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1224",
+   "header": "**C-1224** Host says she has not explored the Tyler Robinson lawyer claim",
+   "label": "Host says she has not explored the Tyler Robinson lawyer claim",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:46:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she has not explored the claim about Tyler Robinson's lawyer and that her focus is on solving who did this."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I have not explored that."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1206.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-40, N-141"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10160"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check later episodes for follow-up."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1226",
+   "header": "**C-1226** Host endorses that the FBI and ADL share a building, possibly in Connecticut",
+   "label": "Host endorses that the FBI and ADL share a building, possibly in Connecticut",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the FBI and ADL share a building, which she thinks is in Connecticut."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I hope you guys uh know that they share a building, I think, in Connecticut."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1207.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10158, N-10159, N-11153, N-10014"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the address of any FBI facility and ADL office in Connecticut."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1227",
+   "header": "**C-1227** Comment says Israel is taking over ExpressVPN and other VPN sites",
+   "label": "Comment says Israel is taking over ExpressVPN and other VPN sites",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "A viewer comment read by the host says Israel is taking over ExpressVPN and other VPN websites."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Israel is taking over ExpressVPN and other VPN websites"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1208.1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11270"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check ownership records of ExpressVPN and other VPN companies."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1228",
+   "header": "**C-1228** Host says she read ExpressVPN ads while at Daily Wire",
+   "label": "Host says she read ExpressVPN ads while at Daily Wire",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she used to read ads for ExpressVPN when she worked for the Daily Wire."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I used to read ads for them, ExpressVPN, when I was uh working for Daily Wire."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11270, N-10900"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check ad schedules from the Daily Wire era."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1229",
+   "header": "**C-1229** Host says ExpressVPN was started by an Israeli billionaire",
+   "label": "Host says ExpressVPN was started by an Israeli billionaire",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that once she found that ExpressVPN was started by an Israeli billionaire she took it to be a spying thing, which she calls her conspiracy theory."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "once I found that it was started by an Israeli billionaire"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11270"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify ExpressVPN founders and owners from corporate filings."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1230",
+   "header": "**C-1230** Comment says a fake letter was planted in the New York Post",
+   "label": "Comment says a fake letter was planted in the New York Post",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "A viewer comment read by the host says a false statement was made that Candace was not friends with Charlie and that a fake letter was planted in the New York Post."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Now they planted a fake letter in the same New York Post and their minions."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3102.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10898, N-10017"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Authenticate the letter and trace its release."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1231",
+   "header": "**C-1231** Host says she knows who had access to Charlie's laptop",
+   "label": "Host says she knows who had access to Charlie's laptop",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:48:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she knows who had access to Charlie's laptop, has questions about that and will wait for a financial report."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Yeah, I know who had access to Charlie's laptop and I have questions about that"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11272, N-10078"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the laptop custodian and access logs."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1232",
+   "header": "**C-1232** Host says she has question marks about people at TPUSA",
+   "label": "Host says she has question marks about people at TPUSA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:48:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she has question marks about a couple of people at Turning Point USA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And I got question marks about a couple of people over at Turning Point USA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask which people."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1233",
+   "header": "**C-1233** Host says pastors take money from an agent of Israel such as IFCJ",
+   "label": "Host says pastors take money from an agent of Israel such as IFCJ",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:48:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says pastors who say they take no money from Israel take money from an agent of Israel or an organization like the International Fellowship of Christians and Jews."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "they take money from an agent of Israel or an organization like the you know international fellowship of Christian and Jews"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11170, N-10139"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review IFCJ grants and donor filings."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1234",
+   "header": "**C-1234** Host says IFCJ gathers pastors and pays off people",
+   "label": "Host says IFCJ gathers pastors and pays off people",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:49:17"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says IFCJ has people gathering pastors and paying off people."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "but then they have you like um gathering pastors and paying off people."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11170, N-10139"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review IFCJ expenditure."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1235",
+   "header": "**C-1235** Host asks for tips to crack the mystery and says tips shape the show",
+   "label": "Host asks for tips to crack the mystery and says tips shape the show",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:50:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the show takes influence only from the people who write to its tips box and asks for tips that can help crack the mystery."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "only if you have a tip uh that can help us crack this mystery"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3100.4"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "dia, relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review tip line submissions."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1236",
+   "header": "**C-1236** Host says the show is not funded by outside groups",
+   "label": "Host says the show is not funded by outside groups",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:50:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the show is not funded by any outside groups."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We actually are not funded uh by any outside groups."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review show sponsorship and funding disclosures."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 6. Meme Register",
+    ""
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-81",
+   "header": "**M-81** (meme) Bibi Net and Yahoo",
+   "label": "(meme) Bibi Net and Yahoo",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:31:58"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "...anything bad right now about Israel on TikTok and this is because it's what BBNet and Yahoo has willed right they want to censor speech which was something that Charlie was..."
+    },
+    {
+     "k": "Context",
+     "v": "Wave 3 mint – first transcript introduction. Host punning nickname for Netanyahu"
+    },
+    {
+     "k": "Tags",
+     "v": "wave3"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-77",
+   "header": "**M-77** (meme) Operation Mocking Pastor",
+   "label": "(meme) Operation Mocking Pastor",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:47:19"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I hope this is the year of the shady pastor after operation mocking pastor uh learning why they can say we don't take money from Israel but they..."
+    },
+    {
+     "k": "Context",
+     "v": "Reuse of Operation Mocking Pastor (first introduced in episode 4 at 00:55:47)."
+    },
+    {
+     "k": "Tags",
+     "v": "wave3, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-76",
+   "header": "**M-76** (meme) Genocide Is Always Wrong",
+   "label": "(meme) Genocide Is Always Wrong",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:35:51"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "...your friend and you're like what did I do wrong like I just said genocide is always wrong I just retweeted Max Blumenthal something they said that was sensible and they come..."
+    },
+    {
+     "k": "Context",
+     "v": "Reuse of Genocide Is Always Wrong (first introduced in episode 3 at 00:56:16)."
+    },
+    {
+     "k": "Tags",
+     "v": "wave3, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-41",
+   "header": "**M-41** (meme) Sock Puppet",
+   "label": "(meme) Sock Puppet",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:31:58"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I call them military bots and they they're just like sock puppets who just say wonderful things about Israel all the time."
+    },
+    {
+     "k": "Context",
+     "v": "Host describes X bot swarms as military sock puppets."
+    },
+    {
+     "k": "Tags",
+     "v": "bots, astroturf, israel"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-42",
+   "header": "**M-42** (meme) Scripted",
+   "label": "(meme) Scripted",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:41:41"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "There was full agreement that all were disappointed. The event was scripted."
+    },
+    {
+     "k": "Context",
+     "v": "Audience / host report that a TPUSA campus event felt pre-written."
+    },
+    {
+     "k": "Tags",
+     "v": "staged, event, host_charge"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-15",
+   "header": "**M-15** (meme) We Don't Know But We Know",
+   "label": "(meme) We Don't Know But We Know",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:49:37"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "e um made it happen. We should have done it sooner. Obviously, uh, we don't know, but we know. And soon, ladies and gentlemen, we will know. We wil..."
+    },
+    {
+     "k": "Context",
+     "v": "We don't know but we know refrain. (CKA seq 13)"
+    },
+    {
+     "k": "Tags",
+     "v": "reuse, pass2"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-12",
+   "header": "**M-12** (meme) Decentralized Intelligence Agency",
+   "label": "(meme) Decentralized Intelligence Agency",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:05:55"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "If you know that information, please send it to us at tips@canniswowens. com."
+    },
+    {
+     "k": "Context",
+     "v": "Host asks for tips on the hospital CEO and surgeon."
+    },
+    {
+     "k": "Tags",
+     "v": "dia,tips"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:16:40"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "if you have any tips pertaining to who the woman was that was caught, uh, please let me know."
+    },
+    {
+     "k": "Context",
+     "v": "Host asks for tips on the woman in the footage."
+    },
+    {
+     "k": "Tags",
+     "v": "dia,tips"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:17:20"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "please use tips. com"
+    },
+    {
+     "k": "Context",
+     "v": "Host asks viewers to send tips instead of videos and links."
+    },
+    {
+     "k": "Tags",
+     "v": "dia,tips"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 4"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:50:50"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "only if you have a tip uh that can help us crack this mystery"
+    },
+    {
+     "k": "Context",
+     "v": "Host closes on the tips box."
+    },
+    {
+     "k": "Tags",
+     "v": "dia,tips"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-274",
+   "header": "**M-274** (meme) Mr. Smith Agents",
+   "label": "(meme) Mr. Smith Agents",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:00:00"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "the agents like I think of them as like Mr. Smith in the Matrix"
+    },
+    {
+     "k": "Context",
+     "v": "First use as the episode opens."
+    },
+    {
+     "k": "Tags",
+     "v": "agents,matrix"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:34:10"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "that's why I say they're Mr. Smith from the Matrix"
+    },
+    {
+     "k": "Context",
+     "v": "Host repeats the label while describing Kisin and Florida Dad."
+    },
+    {
+     "k": "Tags",
+     "v": "agents,matrix"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:38:30"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Okay, this is how the agents work."
+    },
+    {
+     "k": "Context",
+     "v": "Host explains the pattern after Kelly's replies."
+    },
+    {
+     "k": "Tags",
+     "v": "agents,matrix"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## VI. Optional Flags",
+    "",
+    "- Speculation / Framing Premise (failed Claim Admission Test): \"I feel like we are in stronger than a theory and more of a hunch that this was a military operation and people that executed this are actually from overseas.\" Recorded as framing premise only – no artifact anchor.",
+    "- Speculation / Framing Premise: \"Tyler Robinson … we can't confirm that this is Mike Mitchell\" – speculation on identity substitution; no artifact anchor.",
+    "- Speculation / Framing Premise: Skepticism about \"Robbie Hild\"'s true identity – labeled N-10153 for tracking, but not inscribed as a claim.",
+    "- Artifact verbally referenced but not shown: Russian-language translated article about \"White Lotus sect\" training fighters (article cited but not displayed in the transcript).",
+    "- Transcript ambiguity: The \"FBI\" new head is referred to by host as \"Robert Bohls\" (possibly phonetic / partial nickname); spelling uncertain – preserved exactly.",
+    "- Transcript ambiguity: \"Erica Mindel\" / \"Erica Mindel\" – spelling varies within the host's own narration.",
+    "- Transcript ambiguity: AI-generated subtitles in A-1196.1 were flagged by host as incorrect (\"is\" instead of \"if\"); content captured from corrected play-back.",
+    "- Transcript ambiguity: \"Andrew Zenger\" spelling not independently verified in this episode.",
+    "- Name uncertainty: The \"Lyman family member\" speaker in A-1196.1 is not named; flagged for verification.",
+    "- Timestamp uncertainty: Many claim timestamps are approximate to the segment range where the artifact is introduced on air.",
+    "",
+    "---",
+    "",
+    "### End of Episode 13 Analysis",
+    ""
+   ]
+  }
+ ]
+}

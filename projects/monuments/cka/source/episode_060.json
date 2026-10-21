@@ -1,0 +1,8870 @@
+{
+ "format": "cka-source/1",
+ "episode": 60,
+ "blocks": [
+  {
+   "kind": "text",
+   "lines": [
+    "## 1. Meta-Data",
+    "",
+    "- **Episode**: 60",
+    "- **Monument**: cka",
+    "- **CKA seq**: 60",
+    "- **YouTube id**: 9naMwS0kMBE",
+    "- **Candace Ep**: 293",
+    "- **Source**: Candace Owens YouTube",
+    "- **Video Timestamp Range**: 00:00:00–01:24:05",
+    "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
+    "- **Transcript SHA-256**: 4ff884e8b88d089e5a5ddcb0facbdda169075c76bb9db2e13f6bf6d6be1cad05",
+    "",
+    "- **Episode Ledger Summary**:",
+    "  - Tip-minted Nodes (supplement_2026-10): N-717, N-718, N-11035, N-11036, N-11037, N-11039",
+    "  - Hole-minted Nodes (reintro-ep060): N-10437, N-10548, N-10560, N-10664",
+    "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
+    "  - Claim Range: C-5334–C-5430",
+    "  - New Nodes Introduced: N-476, N-477, N-478, N-479, N-10430, N-10431",
+    "  - Reused Nodes Appearing: N-17, N-22, N-27, N-36, N-37, N-46, N-82, N-117, N-190, N-270, N-521, N-10000, N-10004, N-10027, N-10117, N-10122, N-10131, N-10139, N-10149, N-10267, N-10340, N-10341, N-10342, N-10358, N-10367, N-10370, N-10417, N-10422, N-10426, N-10436, N-10694, N-11038",
+    "  - (see registers), N-11",
+    "",
+    "## 2. Executive Summary",
+    "",
+    "Episode 60 is a long-form live studio collaboration with independent researcher Baron Coleman, structured as a wide-ranging cross-reference exercise rather than a single linear narrative. Coleman appears as a recurring on-air collaborator who has retired from prior employment to investigate the Charlie Kirk assassination full-time. The artifact surface in this episode is comparatively small relative to its rhetorical volume: only seven discrete evidentiary items are actually shown, read aloud, or played on screen.",
+    "",
+    "The artifacts include a Dave Rubin X post regarding Candace's past comments about Charlie Kirk, an archived Miss Arizona USA–era tweet from Erika Kirk about the 2012 Aurora theater shooting, a 1980s interview clip of Katherine Pollard Griggs describing the U.S. military as a \"mind control operation,\" displayed flight records (Flightradar24-style) of the planes that carried Erika Kirk and Andrew Kolvet from Arizona to Utah after the assassination, a prior Baron Coleman confrontation clip with a commenter named \"Joe,\" a displayed list of free online logic courses, and a Jerusalem Post headline tying World Jewish Congress President Ronald Lauder to Trump's Greenland push.",
+    "",
+    "Most other substantive investigative claims – including the allegation that Bibi Netanyahu offered to \"take Turning Point to the next level,\" the \"what happens when you die\" question allegedly posed at an August Aspen donor retreat, Andrew Kolvet's account of tarmac crying, the alleged PragerU employee grooming story, and the priest's pre-assassination visit – are advanced verbally by the host or guest and are not anchored to a displayed artifact in this episode.",
+    "",
+    "Episode 60 functions structurally as a connective tissue episode. It advances three persistent investigative threads: (1) the timing/sequence discrepancies around Erika Kirk and Andrew Kolvet in the 24–48 hours after September 10, (2) the host's broader theory that the U.S. security/military apparatus is institutionally corrupt at the command level, and (3) ongoing pressure on the official narrative of Charlie Kirk's assassination. The plane-records display is the single most concrete new evidentiary item in this episode.",
+    "",
+    "## 6. Meme Register",
+    ""
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-21",
+   "header": "**M-21** (meme) Conspiracy Girly",
+   "label": "(meme) Conspiracy Girly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "01:23:36"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "g ghetto. Yeah. Um and we have that gear for you guys. Of course, our conspiracy girly gear, which is my favorite. Buy a mug. Um and I'm sure you w..."
+    },
+    {
+     "k": "Context",
+     "v": "Conspiracy girly self-label. (CKA seq 60)"
+    },
+    {
+     "k": "Tags",
+     "v": "reuse, pass2"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-35",
+   "header": "**M-35** (meme) Rabbit Hole",
+   "label": "(meme) Rabbit Hole",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:00:01"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "It's exceptional amount of rabbit holes that we have to jump through today."
+    },
+    {
+     "k": "Context",
+     "v": "Host opens the Coleman collaboration promising many rabbit holes."
+    },
+    {
+     "k": "Tags",
+     "v": "rabbit hole, opener"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-38",
+   "header": "**M-38** (meme) MK Ultra",
+   "label": "(meme) MK Ultra",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:14:50"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "when we start to unpack our military MK Ultra project looking glass literally there are satanic connections in the military"
+    },
+    {
+     "k": "Context",
+     "v": "Host ties MK Ultra and Project Looking Glass to alleged satanic military links."
+    },
+    {
+     "k": "Tags",
+     "v": "mk ultra, military"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-75",
+   "header": "**M-75** (meme) I'll Say Allegedly",
+   "label": "(meme) I'll Say Allegedly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "01:13:55"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I will say that allegedly."
+    },
+    {
+     "k": "Context",
+     "v": "Host hedges the Cattle Baron's Ball money laundering tip."
+    },
+    {
+     "k": "Tags",
+     "v": "allegedly, hedge"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-76",
+   "header": "**M-76** (meme) Genocide Is Always Wrong",
+   "label": "(meme) Genocide Is Always Wrong",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:32:00"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "he was the original person that was upset when I said genocide is always wrong."
+    },
+    {
+     "k": "Context",
+     "v": "Host recalls Rubin's reaction to her genocide statement."
+    },
+    {
+     "k": "Tags",
+     "v": "genocide, rubin"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-77",
+   "header": "**M-77** (meme) Operation Mocking Pastor",
+   "label": "(meme) Operation Mocking Pastor",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:46:48"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-330"
+    },
+    {
+     "k": "Quote",
+     "v": "this sort of operation mocking pastor"
+    },
+    {
+     "k": "Context",
+     "v": "Coleman uses the host's coinage for pastors repeating the same messaging."
+    },
+    {
+     "k": "Tags",
+     "v": "mocking pastor, influence op"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-84",
+   "header": "**M-84** (meme) Bend the Knee",
+   "label": "(meme) Bend the Knee",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:39:17"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "because I don't want to bend the knee to Bibi Netanyahu"
+    },
+    {
+     "k": "Context",
+     "v": "Host says she refuses to submit to pressure over Israel."
+    },
+    {
+     "k": "Tags",
+     "v": "bend the knee, israel"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-66",
+   "header": "**M-66** (meme) Fed Slop",
+   "label": "(meme) Fed Slop",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "01:20:45"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "people are waking up and noticing the fed slop"
+    },
+    {
+     "k": "Context",
+     "v": "Host reads viewer Cody's comment."
+    },
+    {
+     "k": "Tags",
+     "v": "fed slop, viewer comment"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-16",
+   "header": "**M-16** (meme) Mommy Sleuth",
+   "label": "(meme) Mommy Sleuth",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "01:20:45"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "The mommy sleuths are sleuthing."
+    },
+    {
+     "k": "Context",
+     "v": "Host reads viewer Cody's comment praising crowd investigators."
+    },
+    {
+     "k": "Tags",
+     "v": "mommy sleuth, viewer comment"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-28",
+   "header": "**M-28** (meme) Christ is King",
+   "label": "(meme) Christ is King",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "01:14:50"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Christ is king. Totally agree with that"
+    },
+    {
+     "k": "Context",
+     "v": "Host reads and endorses a viewer comment."
+    },
+    {
+     "k": "Tags",
+     "v": "christ is king, viewer comment"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-12",
+   "header": "**M-12** (meme) Decentralized Intelligence Agency",
+   "label": "(meme) Decentralized Intelligence Agency",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "01:22:57"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Email us at moretips@candaceowens. com."
+    },
+    {
+     "k": "Context",
+     "v": "Host asks for tips by email at the end of the show."
+    },
+    {
+     "k": "Tags",
+     "v": "dia, tips, tip line"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-138",
+   "header": "**M-138** (meme) Don't Be a Joe",
+   "label": "(meme) Don't Be a Joe",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "01:20:45"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "So don't be a Joe. Don't be a Joe is what Blanton has just written."
+    },
+    {
+     "k": "Context",
+     "v": "Running joke from Coleman's crash-out clip aimed at a commenter named Joe."
+    },
+    {
+     "k": "Tags",
+     "v": "joe, inside joke"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-139",
+   "header": "**M-139** (meme) High IQ Outfit",
+   "label": "(meme) High IQ Outfit",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "01:19:04"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "It's a high IQ outfit, Joe."
+    },
+    {
+     "k": "Context",
+     "v": "Host and Coleman mock the commenter Joe as not smart enough for the show."
+    },
+    {
+     "k": "Tags",
+     "v": "high iq, joe"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-140",
+   "header": "**M-140** (meme) White Walkers Among Us",
+   "label": "(meme) White Walkers Among Us",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:22:03"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "there's a bunch of white walkers among us"
+    },
+    {
+     "k": "Context",
+     "v": "Host describes people harmed in childhood who act without a soul."
+    },
+    {
+     "k": "Tags",
+     "v": "white walkers, cult"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 3. Artifact Register",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1654",
+   "header": "**A-1654** Dave Rubin X Post Bundle",
+   "label": "Dave Rubin X Post Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1654.1",
+   "header": "**A-1654.1** Dave Rubin X post claiming Candace Owens stated she \"hated Charlie Kirk\" and ranted about Jared and Ivanka during a dinner at Rubin's home.",
+   "label": "Dave Rubin X post claiming Candace Owens stated she \"hated Charlie Kirk\" and ranted about Jared and Ivanka during a dinner at Rubin's home.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:28:43"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5372, C-5373, N-32*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1655",
+   "header": "**A-1655** Miss Arizona USA Twitter Archive Bundle",
+   "label": "Miss Arizona USA Twitter Archive Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1655.1",
+   "header": "**A-1655.1** Erika Kirk tweet from her Miss Arizona USA era (account now run by Candace Canales), responding to a critic by stating \"One of my best friends was in the theater\" regarding the 2012 Aurora theater shooting.",
+   "label": "Erika Kirk tweet from her Miss Arizona USA era (account now run by Candace Canales), responding to a critic by stating \"One of my best friends was in the theater\" regarding the 2012 Aurora theater shooting.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:09:46"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5350, N-2, N-478*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1656",
+   "header": "**A-1656** Katherine Griggs Interview Clip Bundle",
+   "label": "Katherine Griggs Interview Clip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1656.1",
+   "header": "**A-1656.1** Video interview clip of Katherine Pollard Griggs, wife of Colonel George Griggs (NATO/special operations), stating that the U.S. military is a mind control operation that recruits sexual deviants for intelligence work and is run by \"satanic\" elements.",
+   "label": "Video interview clip of Katherine Pollard Griggs, wife of Colonel George Griggs (NATO/special operations), stating that the U.S. military is a mind control operation that recruits sexual deviants for intelligence work and is run by \"satanic\" elements.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:19:31"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5365, C-5366, N-476, N-477*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1657",
+   "header": "**A-1657** Flight Records Display Bundle",
+   "label": "Flight Records Display Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1657.1",
+   "header": "**A-1657.1** Flight tracking display (Flightradar24-style) showing two planes – Andrew Kolvet's plane and Erika Kirk's plane (N102DZ) – including departure times and arrival at Provo at 4:36 PM, with an approximately 1 hour 5 minute gap between the two flights.",
+   "label": "Flight tracking display (Flightradar24-style) showing two planes – Andrew Kolvet's plane and Erika Kirk's plane (N102DZ) – including departure times and arrival at Provo at 4:36 PM, with an approximately 1 hour 5 minute gap between the two flights.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "01:08:11"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5414, N-2, N-10430*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1658",
+   "header": "**A-1658** Baron Coleman Joe Confrontation Video Bundle",
+   "label": "Baron Coleman Joe Confrontation Video Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1658.1",
+   "header": "**A-1658.1** Prior Baron Coleman YouTube clip in which Coleman confronted commenter \"Joe\" regarding logic fallacies in defense of Mitch Snow/Fort Huachuca discussion.",
+   "label": "Prior Baron Coleman YouTube clip in which Coleman confronted commenter \"Joe\" regarding logic fallacies in defense of Mitch Snow/Fort Huachuca discussion.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "01:16:11"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5424, N-330*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1659",
+   "header": "**A-1659** Logic Class Resource Display Bundle",
+   "label": "Logic Class Resource Display Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1659.1",
+   "header": "**A-1659.1** On-screen display of free logic course resources (Stanford online course, Irving M. Copi \"Introduction to Logic\" textbook listing, Master Books homeschool curriculum).",
+   "label": "On-screen display of free logic course resources (Stanford online course, Irving M. Copi \"Introduction to Logic\" textbook listing, Master Books homeschool curriculum).",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "01:18:36"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5424, N-330*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1660",
+   "header": "**A-1660** Jerusalem Post Greenland Headline Bundle",
+   "label": "Jerusalem Post Greenland Headline Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1660.1",
+   "header": "**A-1660.1** Jerusalem Post headline stating that World Jewish Congress President Ronald Lauder is involved in Trump's push for Greenland.",
+   "label": "Jerusalem Post headline stating that World Jewish Congress President Ronald Lauder is involved in Trump's push for Greenland.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:40:58"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5386, C-5387, N-479*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2758",
+   "header": "**A-2758** Dave Rubin Peter Thiel Photo Post Bundle",
+   "label": "Dave Rubin Peter Thiel Photo Post Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2758.1",
+   "header": "**A-2758.1** Host verbal reference to Dave Rubin's X post of a photo of Rubin and the host at Peter Thiel's house (described, not clearly shown)",
+   "label": "Host verbal reference to Dave Rubin's X post of a photo of Rubin and the host at Peter Thiel's house (described, not clearly shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:33:19"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5375, C-5376, C-5377, N-3, N-32, N-521, N-27, N-10004*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2759",
+   "header": "**A-2759** Shaffer Security Group Chat Messages Bundle",
+   "label": "Shaffer Security Group Chat Messages Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2759.1",
+   "header": "**A-2759.1** Host verbal reference to her written group chat messages with Charlie Kirk and Tyler Bowyer about not trusting Shaffer Security (not shown)",
+   "label": "Host verbal reference to her written group chat messages with Charlie Kirk and Tyler Bowyer about not trusting Shaffer Security (not shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:49:40"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5390, N-3, N-1, N-11, N-11038*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2760",
+   "header": "**A-2760** AmFest Charlie Kirk Audio Bundle",
+   "label": "AmFest Charlie Kirk Audio Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2760.1",
+   "header": "**A-2760.1** Host verbal reference to audio of Charlie Kirk played at AmFest saying he wanted Erika to take over (not played in this episode)",
+   "label": "Host verbal reference to audio of Charlie Kirk played at AmFest saying he wanted Erika to take over (not played in this episode)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:51:30"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5393, N-3, N-1, N-2, N-10664*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2761",
+   "header": "**A-2761** Printed Transcript of Take-Over Statement Bundle",
+   "label": "Printed Transcript of Take-Over Statement Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2761.1",
+   "header": "**A-2761.1** Host verbal reference to a physical printout of a transcript of Charlie Kirk's take-over statement brought by Erika Kirk's side (not shown)",
+   "label": "Host verbal reference to a physical printout of a transcript of Charlie Kirk's take-over statement brought by Erika Kirk's side (not shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:53:04"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5396, N-3, N-2, N-1, N-10664*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2762",
+   "header": "**A-2762** Decentralized Intelligence Agency Tip Line Bundle",
+   "label": "Decentralized Intelligence Agency Tip Line Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2762.1",
+   "header": "**A-2762.1** Host verbal reference to the tip email address moretips@candaceowens.com (verbal call for tips)",
+   "label": "Host verbal reference to the tip email address moretips@candaceowens.com (verbal call for tips)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Email us at moretips@candaceowens. com.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "01:22:57"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5429, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 4. Node Register",
+    ""
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-330",
+   "header": "**N-330** Baron Coleman",
+   "label": "Baron Coleman",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Independent investigator and YouTuber now working full-time on the Charlie Kirk assassination case. Co-host for this episode and recurring collaborator."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1658.1, A-1659.1, C-5424*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-32",
+   "header": "**N-32** Dave Rubin",
+   "label": "Dave Rubin",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Commentator and former associate of Candace Owens. Subject of an X post dispute in this episode and host of an alleged prior incident involving a former PragerU employee."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1654.1, C-5372, C-5373*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-476",
+   "header": "**N-476** Katherine Pollard Griggs",
+   "label": "Katherine Pollard Griggs",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Wife of Colonel George Griggs. Subject of interview clip played in this episode describing U.S. military as a mind control operation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1656.1, C-5365, C-5366, N-477*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-477",
+   "header": "**N-477** Colonel George Griggs",
+   "label": "Colonel George Griggs",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "U.S. Marine Corps officer; head of special operations under Admiral Kelso/NATO; intelligence career spanning Vietnam and continuing under General Wilhelm; husband of Katherine Pollard Griggs. Described in the clip as the source for Katherine Griggs's military claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1656.1, C-5365, N-476*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-478",
+   "header": "**N-478** Jessica Ghawi",
+   "label": "Jessica Ghawi",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Victim of the 2012 Aurora theater shooting; previously survived the Toronto Eaton Centre food court shooting weeks earlier; previously lived in New Braunfels, Texas."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1655.1, C-5350*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-479",
+   "header": "**N-479** Ronald Lauder",
+   "label": "Ronald Lauder",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "President of the World Jewish Congress; named in Jerusalem Post headline as allegedly involved in Trump's push for Greenland."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1660.1, C-5386, C-5387*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-15",
+   "header": "**N-15** Justin Streiff",
+   "label": "Justin Streiff",
+   "lines": [
+    {
+     "raw": "Associate of Erika Kirk referenced in connection with verification of Andrew Kolvet's flight arrangements and tarmac arrival sequence."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5414, N-10430*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10430",
+   "header": "**N-10430** Plane Records Timing Discrepancy",
+   "label": "Plane Records Timing Discrepancy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Persistent discrepancy between Andrew Kolvet's account (flying alone with pent-up anxiety) and the flight record evidence (planes landed approximately one hour apart, with question of whether Kolvet's wife was aboard and whether Erika waited on the tarmac)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1657.1, C-5414, N-2, N-15*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10431",
+   "header": "**N-10431** Aspen Donor Retreat \"What Happens When You Die\" Question",
+   "label": "Aspen Donor Retreat \"What Happens When You Die\" Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Unverified allegation that a donor asked Charlie Kirk what would happen if he died at an Aspen donor retreat (August 15–17, 2025), and that this is now being cited as evidence of his succession wishes. Two attendees contacted reportedly do not recall the exchange."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: N-1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11",
+   "header": "**N-11** Tyler Bowyer",
+   "label": "Tyler Bowyer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Person"
+    },
+    {
+     "raw": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5414*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-3",
+   "header": "**N-3** Candace Owens",
+   "label": "Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host; speaks for herself throughout."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5334, C-5335, C-5336, C-5338, C-5343, C-5345, C-5346, C-5347, C-5349, C-5351, C-5352, C-5353, C-5361, C-5362, C-5363, C-5367, C-5368, C-5369, C-5370, C-5371, C-5374, C-5375, C-5376, C-5377, C-5378, C-5379, C-5380, C-5381, C-5382, C-5383, C-5384, C-5385, C-5389, C-5390, C-5391, C-5392, C-5393, C-5394, C-5395, C-5396, C-5397, C-5398, C-5399, C-5400, C-5401, C-5402, C-5403, C-5404, C-5406, C-5407, C-5408, C-5409, C-5410, C-5411, C-5412, C-5413, C-5415, C-5416, C-5417, C-5418, C-5419, C-5420, C-5421, C-5422, C-5423, C-5428, C-5429, C-5430*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10000",
+   "header": "**N-10000** Turning Point USA",
+   "label": "Turning Point USA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Turning Point USA; subject of the purge, drone and leak claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5334, C-5335, C-5336, C-5337, C-5338, C-5339, C-5343, C-5345, C-5385*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11035",
+   "header": "**N-11035** TPUSA Employee Purge and Leak Hunt",
+   "label": "TPUSA Employee Purge and Leak Hunt",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "Reported firing of 30 to 40 TPUSA employees in a hunt for leaks, including a staffer whose laptop held screenshots of the host's timeline."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5334, C-5335, C-5336*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-14",
+   "header": "**N-14** Andrew Kolvet",
+   "label": "Andrew Kolvet",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "TPUSA spokesperson; the host recounts his tarmac account, the Netanyahu offer and the surgeon quote."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5335, C-5369, C-5370, C-5406, C-5410, C-5411, C-5413, C-5416, C-5417, C-5418, C-5419, C-5420*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10267",
+   "header": "**N-10267** TPUSA Drone Disclosure Discrepancy",
+   "label": "TPUSA Drone Disclosure Discrepancy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5339*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-2",
+   "header": "**N-2** Erika Kirk",
+   "label": "Erika Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Widow and TPUSA CEO; the host questions her accounts of the planes, the hospital arrival and the take-over statement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5340, C-5341, C-5346, C-5347, C-5348, C-5393, C-5394, C-5395, C-5396, C-5397, C-5399, C-5401, C-5402, C-5403, C-5407, C-5408, C-5410, C-5411, C-5412, C-5413, C-5417, C-5419, C-5420*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10417",
+   "header": "**N-10417** Fort Huachuca Erika Presence Investigation",
+   "label": "Fort Huachuca Erika Presence Investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5340, C-5341, C-5342*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-270",
+   "header": "**N-270** Dan Flood",
+   "label": "Dan Flood",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Dan Flood; the host and Coleman discuss his role, promotion and the night-before text."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5342, C-5343, C-5344, C-5345, C-5346, C-5355, C-5406, C-5422*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10694",
+   "header": "**N-10694** Dan Flood Role and Behavior Assessment",
+   "label": "Dan Flood Role and Behavior Assessment",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5342, C-5343, C-5344, C-5345, C-5346*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-1",
+   "header": "**N-1** Charlie Kirk",
+   "label": "Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of the assassination; the host reports his statements, donor pressure and alleged succession wishes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5344, C-5345, C-5361, C-5368, C-5382, C-5384, C-5385, C-5390, C-5391, C-5392, C-5393, C-5394, C-5395, C-5396, C-5398, C-5399, C-5400, C-5401, C-5404, C-5405, C-5406, C-5407, C-5408, C-5409, C-5412*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10340",
+   "header": "**N-10340** Night-Before Text Messages to Andrew Kolvet and Dan Flood",
+   "label": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5344, C-5406*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11036",
+   "header": "**N-11036** Aurora Theater Shooting Pattern Inquiry",
+   "label": "Aurora Theater Shooting Pattern Inquiry",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The host's and Coleman's examination of the 2012 Aurora theater shooting, victim Jessica Ghawi and links to other shootings and military presence."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5349, C-5351, C-5352, C-5353, C-5354, C-5355, C-5356, C-5357, C-5358, C-5359, C-5360*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-17",
+   "header": "**N-17** Rob McCoy",
+   "label": "Rob McCoy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Pastor the host links to shooting victims and to the Operation Mocking Pastor theme."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5351, C-5352, C-5389*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10426",
+   "header": "**N-10426** New Braunfels Texas Security Personnel Cluster",
+   "label": "New Braunfels Texas Security Personnel Cluster",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5355, C-5356, C-5422*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-717",
+   "header": "**N-717** Bill Cooper",
+   "label": "Bill Cooper",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "14:50 in episode 60. Author the host calls the original conspiracy theorist who predicted military-linked mass shootings.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5362*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10436",
+   "header": "**N-10436** TPUSA Faith Military Infiltration Claim",
+   "label": "TPUSA Faith Military Infiltration Claim",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5363*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-82",
+   "header": "**N-82** Brigitte Macron",
+   "label": "Brigitte Macron",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Brigitte Macron; the host links her story to military child abuse themes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5367*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-36",
+   "header": "**N-36** Benjamin Netanyahu",
+   "label": "Benjamin Netanyahu",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Benjamin Netanyahu; the host reports an offer to take TPUSA to the next level."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5368, C-5370*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10342",
+   "header": "**N-10342** Bibi Netanyahu TPUSA Funding Offer",
+   "label": "Bibi Netanyahu TPUSA Funding Offer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5368, C-5369, C-5370*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-117",
+   "header": "**N-117** Marissa Streit",
+   "label": "Marissa Streit",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Marissa Streit, PragerU CEO, said by the host to be working on a documentary."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5371*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-718",
+   "header": "**N-718** Shabbos Kestenbaum",
+   "label": "Shabbos Kestenbaum",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "29:52 in episode 60 (spelled Shabazz, Shabos and Kestenbaum in the transcript). Filmmaker the host says is making a documentary with Marissa Streit.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5371*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10131",
+   "header": "**N-10131** PragerU",
+   "label": "PragerU",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5371, C-5378*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-521",
+   "header": "**N-521** Peter Thiel",
+   "label": "Peter Thiel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Peter Thiel; subject of Rubin's photo post and the alleged bridge loan."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5375, C-5377, C-5381, C-5383*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-27",
+   "header": "**N-27** Kanye West",
+   "label": "Kanye West",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Kanye West; the host dates a visit to see him to 2018."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5376, C-5377, C-5384*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10004",
+   "header": "**N-10004** Kanye Tweet About Candace Owens",
+   "label": "Kanye Tweet About Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5376, C-5384*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11037",
+   "header": "**N-11037** Dave Rubin PragerU Employee Grooming Allegation",
+   "label": "Dave Rubin PragerU Employee Grooming Allegation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The host's allegation that Dave Rubin and his husband pushed a young former PragerU colleague toward a first date and kiss, which she says ended her friendship with Rubin."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5378, C-5379, C-5380, C-5381*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-22",
+   "header": "**N-22** Tucker Carlson",
+   "label": "Tucker Carlson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Mentioned in the host's remark about pastors telling followers to unfollow him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5389*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10139",
+   "header": "**N-10139** Operation Mocking Pastor",
+   "label": "Operation Mocking Pastor",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5389*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11038",
+   "header": "**N-11038** Shaffer Security",
+   "label": "Shaffer Security",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "raw": "Security firm the host says she distrusted and warned Charlie Kirk and Tyler Bowyer about in a group chat."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5390*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10422",
+   "header": "**N-10422** GATE / Gifted Education Program Investigation",
+   "label": "GATE / Gifted Education Program Investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5391, C-5392*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10664",
+   "header": "**N-10664** Charlie Kirk Aspen Audio Authenticity Question",
+   "label": "Charlie Kirk Aspen Audio Authenticity Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5393, C-5394, C-5395, C-5396, C-5401, C-5402*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-37",
+   "header": "**N-37** Bill Ackman",
+   "label": "Bill Ackman",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Bill Ackman; the host asks whether the take-over statement was made at his house."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5397*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10437",
+   "header": "**N-10437** Aspen Donor Recall Verification",
+   "label": "Aspen Donor Recall Verification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5399, C-5400*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10027",
+   "header": "**N-10027** The Hamptons",
+   "label": "The Hamptons",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5402, C-5403*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-190",
+   "header": "**N-190** Mikey McCoy",
+   "label": "Mikey McCoy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Mikey McCoy; Coleman says Kirk ran emergency drills with him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5405*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11039",
+   "header": "**N-11039** Erika Kirk Foreknowledge Question",
+   "label": "Erika Kirk Foreknowledge Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The host's question and stated opinion on whether Erika Kirk knew Charlie Kirk would die the next day."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5408*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-46",
+   "header": "**N-46** Megyn Kelly",
+   "label": "Megyn Kelly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Megyn Kelly; the host says the priest account was told to her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5409*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10117",
+   "header": "**N-10117** Jezebel/Etsy Hex on Charlie Kirk",
+   "label": "Jezebel/Etsy Hex on Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5409*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10122",
+   "header": "**N-10122** Jezebel",
+   "label": "Jezebel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5409*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10548",
+   "header": "**N-10548** Tarmac Hug Account Discrepancy",
+   "label": "Tarmac Hug Account Discrepancy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5410, C-5411*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10560",
+   "header": "**N-10560** Tarmac Hug Timeline Reconciliation Question",
+   "label": "Tarmac Hug Timeline Reconciliation Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5410, C-5416, C-5417, C-5418*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10149",
+   "header": "**N-10149** Hospital Routing Discrepancy",
+   "label": "Hospital Routing Discrepancy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5413*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10341",
+   "header": "**N-10341** Andrew Kolvet Surgeon Bullet Description",
+   "label": "Andrew Kolvet Surgeon Bullet Description",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5419, C-5420, C-5421*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10358",
+   "header": "**N-10358** Surgeon Quotation Authenticity Question",
+   "label": "Surgeon Quotation Authenticity Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5419, C-5420, C-5421*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-361",
+   "header": "**N-361** Mitch Snow",
+   "label": "Mitch Snow",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Mitch Snow; the Fort Huachuca witness at the center of Operation Debunk Mitch."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5423, C-5425, C-5426*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10367",
+   "header": "**N-10367** Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
+   "label": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5423, C-5425, C-5426*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10370",
+   "header": "**N-10370** Fort Huachuca Morning Meeting Investigation",
+   "label": "Fort Huachuca Morning Meeting Investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5426*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 5. Claim Register",
+    ""
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5372",
+   "header": "**C-5372** Dave Rubin X Post Asserts Candace Expressed Hatred of Charlie Kirk",
+   "label": "Dave Rubin X Post Asserts Candace Expressed Hatred of Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Dave Rubin posted on X that Candace Owens, during a dinner at his home, said she hated Charlie Kirk and ranted about Jared and Ivanka."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1654.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-32, N-3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain archived copy of the Dave Rubin X post and corroborate the original wording and posting timestamp."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5373",
+   "header": "**C-5373** Candace Owens Rejects Rubin Characterization of Dinner Comments",
+   "label": "Candace Owens Rejects Rubin Characterization of Dinner Comments",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:06"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Candace Owens states that her husband has no memory of any discussion of Charlie Kirk at the dinner and that her remark about Jared and Ivanka was a light joke about their perceived perfection, not a \"rant.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1654.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-32, N-3, N-1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare Rubin's account with contemporaneous messages, third-party witnesses, or recordings if any exist; document any additional corroborating witnesses."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5350",
+   "header": "**C-5350** Erika Kirk Miss Arizona USA Tweet References Aurora Theater Friend",
+   "label": "Erika Kirk Miss Arizona USA Tweet References Aurora Theater Friend",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:46"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the 2012 tweet the host shows from the Miss Arizona USA account during Erika Kirk's reign, Erika replied that one of her best friends was in the theater during the Aurora shooting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1655.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the named friend; cross-reference with the published Aurora victim list; verify any prior connection between Erika Kirk and the Aurora theater victim cohort or New Braunfels, Texas."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5365",
+   "header": "**C-5365** Katherine Griggs States U.S. Military Is a Mind Control Operation",
+   "label": "Katherine Griggs States U.S. Military Is a Mind Control Operation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:05"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip the host plays, an interviewer puts to Katherine Pollard Griggs that through her association with her husband, Colonel George Griggs, she has come to understand that the U.S. military is literally run by sexual deviants and is a mind control operation that seeks out people like Jeffrey Dahmer, Kaczynski, McVeigh and Oswald for intelligence work because they are 'so easy to control'; she answers 'Truly' and 'Yes'."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1656.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-476, N-477"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the full unedited interview; verify the date and original broadcast; trace Colonel George Griggs's service record against cited commands (Admiral Kelso, General Wilhelm, NATO Defense College Rome, Princeton Class of 1959)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5366",
+   "header": "**C-5366** Host Says Griggs Worked for the Government and Her Account Is How the Military Works",
+   "label": "Host Says Griggs Worked for the Government and Her Account Is How the Military Works",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:03"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Katherine Griggs worked for the government, so her account was not some conspiracy theory but how it works, and that even a slight look into the history of the U.S. military and programs like MK Ultra shows this."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1656.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-476"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "This is a host stance claim, not independently verifiable; document only as recorded concurrence against A-1656.1."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5414",
+   "header": "**C-5414** Host Says Flight Records Show ~1 Hour 5 Minute Gap Between Kolvet and Erika Planes",
+   "label": "Host Says Flight Records Show ~1 Hour 5 Minute Gap Between Kolvet and Erika Planes",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:08:11"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk's plane (N102DZ), carrying a priest, Erika Kirk, Tyler Bowyer and Elizabeth McCoy, left at 2:19 p.m. ('it's an hour and 5 minutes') and arrived in Provo at 4:36 p.m., and that she was told Andrew Kolvet was on one of the two planes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1657.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-11, N-217, N-14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10430"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain independent FAA or Flightradar24 archived records for both flights on 2025-09-10; verify exact departure/arrival times, passenger manifests if obtainable, and post-landing taxi routes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5386",
+   "header": "**C-5386** Jerusalem Post Reports Lauder Involved in Trump Greenland Push",
+   "label": "Jerusalem Post Reports Lauder Involved in Trump Greenland Push",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:40:58"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The Jerusalem Post reports that World Jewish Congress President Ronald Lauder is involved in President Trump's push for Greenland."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1660.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-479"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the full Jerusalem Post article; identify the specific role attributed to Lauder; check for corroborating or contradictory reporting from other outlets."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5387",
+   "header": "**C-5387** Host Concurs Greenland Push Is Donor-Driven, Not America-First",
+   "label": "Host Concurs Greenland Push Is Donor-Driven, Not America-First",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:41:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Baron Coleman says, and the host agrees, that Trump's Greenland push is not consistent with America-first policy and appears driven by a donor or supporter's financial interest rather than national interest."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1660.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-330, N-479, N-5"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Document host stance claim against A-1660.1; investigate reported financial interests of Lauder or associated parties in Greenland."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5424",
+   "header": "**C-5424** Host Says Baron Coleman Publicly Confronted Commenter \"Joe\" on Prior Episode",
+   "label": "Host Says Baron Coleman Publicly Confronted Commenter \"Joe\" on Prior Episode",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:16:11"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host plays a prior Baron Coleman YouTube video clip that she says shows Coleman confronting commenter \"Joe\" over logic fallacies related to Mitch Snow and Fort Huachuca coverage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1658.1, A-1659.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-330, N-361"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the full Coleman confrontation clip and the referenced \"Operation Debunk Mitch\" series; document context as part of Coleman's investigative output."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5427",
+   "header": "**C-5427** Host reads viewer comment praising mommy sleuths",
+   "label": "Host reads viewer comment praising mommy sleuths",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:20:45"
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads on air a comment from viewer Cody saying people are waking up to the \"fed slop\" and \"the mommy sleuths are sleuthing,\" framing crowd investigators as active; the line is the viewer's, not the host's own statement."
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "...ople are waking up and noticing the fed slop. The mommy sleuths are sleuthing. Candace is going max. Baron is spitting truth. God is on our side. We a..."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Preserve as viewer comment read on air; cross-link M-16 Mommy Sleuth meme when register present."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5334",
+   "header": "**C-5334** Coleman Hears TPUSA Purged 30 to 40 Employees Hunting a Leak",
+   "label": "Coleman Hears TPUSA Purged 30 to 40 Employees Hunting a Leak",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:00:59"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Baron Coleman says he heard that Turning Point USA purged 30 to 40 people, that they were looking for a leak, and that TPUSA is terrified of leaks about what it has been doing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I heard there were 30 to 40 people purged, that they were looking for the leak."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-330, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-11035"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain TPUSA headcount and separation records or named former employees to confirm the size and timing of the reported purge."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5335",
+   "header": "**C-5335** Host Says Kolvet Saw Timeline Screenshots on a Staffer's Laptop",
+   "label": "Host Says Kolvet Saw Timeline Screenshots on a Staffer's Laptop",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:01:39"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she heard that TPUSA brought an employee into an office, made her bring up her laptop, and Andrew Kolvet saw that it held screenshots of the host's timeline, which caused panic in the office."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "they made her bring her laptop up and they Andrew saw in her laptop that she had screenshots the timeline from my show."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-11035"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the employee through the host's source and obtain any termination paperwork or messages; ask TPUSA to confirm or deny."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5336",
+   "header": "**C-5336** Host Says the Staffer Was Not Her Leaker and Leaks Continue",
+   "label": "Host Says the Staffer Was Not Her Leaker and Leaks Continue",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:01:39"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says TPUSA fired every person the employee was friends with, that the employee was not the person leaking to the host, and that she knows for a fact that leaks inside TPUSA are still there."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They panicked and they fired every single person that she was friends with, who she knows, and she was not the person that was leaking to me. So, the leak is still there."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-11035"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the list of separated employees with the host's source network; this can only be tested through the host's sources."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5337",
+   "header": "**C-5337** Coleman Puts TPUSA Workforce at Six or Seven Hundred",
+   "label": "Coleman Puts TPUSA Workforce at Six or Seven Hundred",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Baron Coleman says TPUSA is an organization of only about 600 or 700 people, and that if it can fire 40 and keep the lights on the next day it has a problem with how it is managing the organization."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "if you can get rid of 40 people in an organization of only 6 or 700"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-330"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check TPUSA's Form 990 and public headcount statements against the 600 to 700 figure."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5338",
+   "header": "**C-5338** Host and Coleman Say Last YouTuber Who Said DOGE Effort Got a Cease and Desist",
+   "label": "Host and Coleman Say Last YouTuber Who Said DOGE Effort Got a Cease and Desist",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host and Coleman say the last YouTuber who suggested TPUSA might need a DOGE effort received a cease and desist letter from lawyers acting for TPUSA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Last YouTuber that said that got a cease and desist letter. That's right."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-330, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the YouTuber and obtain the cease and desist letter and its date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5339",
+   "header": "**C-5339** Host Says TPUSA Lawyer Now Concedes Drones Existed but for Media Only",
+   "label": "Host Says TPUSA Lawyer Now Concedes Drones Existed but for Media Only",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says TPUSA's account of the drones has kept changing until a lawyer said there were drones, but they were for the media only and not for the security team."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "finally a lawyer's like, \"Okay, there were drones, but they were for the media only and not for his security team.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10267, N-10000"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5304"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare TPUSA's cease and desist letter and public statements on drones with UVU's event approvals and any drone permits."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5340",
+   "header": "**C-5340** Host Says Everyone in the Unreleased Film Is Tied to Fort Huachuca",
+   "label": "Host Says Everyone in the Unreleased Film Is Tied to Fort Huachuca",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:42"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says everyone in the film that was never released is related to Fort Huachuca and the Sierra Vista area."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Then we sort of learned that everybody in this movie that never premiered or it never was released is related to Fort Huachuca and the Sierra Vista area"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10417"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the film and its cast and crew and check each person's documented Sierra Vista or Fort Huachuca connection."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5341",
+   "header": "**C-5341** Host Says Erika Kirk Has Said Her Mother Held DOD Contracts",
+   "label": "Host Says Erika Kirk Has Said Her Mother Held DOD Contracts",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:42"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk has been very open that her mother had Department of Defense contracts, and that once you look into what the mother did, Erika is clearly familiar with Fort Huachuca."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Erika has been very open about the fact that her mother DOD contracts"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10417"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find Erika Kirk's own public statements about her mother's DOD work and federal contract records for the mother's employer."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5342",
+   "header": "**C-5342** Host Says Dan Flood's Father Ran Intel at Fort Huachuca",
+   "label": "Host Says Dan Flood's Father Ran Intel at Fort Huachuca",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:42"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she learned that Dan Flood's father ran Intel at Fort Huachuca."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Dan Flood's father ran Intel at Fort Huachuca."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-270"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10417, N-10694"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check obituaries, military and law-enforcement records for Dan Flood's father and any Fort Huachuca assignment; compare with the Robert Flood biography in episode 59."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5343",
+   "header": "**C-5343** Host Reports Tip That Dan Flood Was Promoted at TPUSA",
+   "label": "Host Reports Tip That Dan Flood Was Promoted at TPUSA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:42"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she received a solid tip that Dan Flood has not been fired and has been promoted at Turning Point USA, and she says that if true it is stunning."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we received a solid tip yesterday that Dan Flood, not only has he not been fired, he's been promoted at Turning Point USA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-270"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10694"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask TPUSA for Dan Flood's current title and start date in any security role; look for staff listings or event credentials."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5344",
+   "header": "**C-5344** Host Says Flood's Protectee Warned Him Someone Would Kill Him",
+   "label": "Host Says Flood's Protectee Warned Him Someone Would Kill Him",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:43"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that Dan Flood's protectee told him within a few days that someone was probably going to kill him and then died, which she calls, in her opinion, prime evidence Flood failed at his job."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "you had a protectee of yours tell you within a few days that that someone was probably going to kill him. And then he died."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-270, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10340, N-10694"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the night-before text messages and any security briefings showing what Charlie Kirk told Flood and when."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5345",
+   "header": "**C-5345** Host Says Insider Reports Charlie Planned to Demote Dan Flood",
+   "label": "Host Says Insider Reports Charlie Planned to Demote Dan Flood",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:43"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her Turning Point insider told her that before Charlie Kirk died there was a back and forth between Kirk and Dan Flood in which Kirk was going to demote Flood."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "my Turning Point insider told me that before Charlie died, there was some sort of back and forth between him and Dan Flood where he was going to demote Dan Flood."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1, N-270"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10694, N-10000"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Seek internal TPUSA messages or a second source on any planned change to Flood's role in August or September 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5346",
+   "header": "**C-5346** Host Says Flood Guarded Erika at White House Charlie Kirk Day",
+   "label": "Host Says Flood Guarded Erika at White House Charlie Kirk Day",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Dan Flood was protecting Erika Kirk at the White House when the Charlie Kirk Day was held, after Erika became CEO without removing him from the security team."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he was protecting her at the White House when they did the Charlie Kirk Day"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-270, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10694"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5323"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review photos and press pool footage of the White House event for Flood and the rest of Erika Kirk's detail."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5347",
+   "header": "**C-5347** Host Plans to Reveal Erika's Parents Worked With Person Accused Over Children",
+   "label": "Host Plans to Reveal Erika's Parents Worked With Person Accused Over Children",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she will reveal the next day that Erika Kirk's parents worked with somebody who was accused of something to do with children."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I've even got something that I'm I'm going to reveal tomorrow about her parents having worked with somebody that was accused something to do with children."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the following episode for the named individual and test the allegation against court or investigative records; treat as unverified until then."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5348",
+   "header": "**C-5348** Coleman Says Miss Arizona USA Titleholder Controls the Official Account",
+   "label": "Coleman Says Miss Arizona USA Titleholder Controls the Official Account",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:02"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Baron Coleman, teeing up an emailed tip, says the reigning Miss Arizona USA controls the pageant's social media account, that old tweets from each reign stay online, and that Erika Kirk's tweets from her reign can still be read."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Miss Arizona USA has the same thing. That the Miss Arizona USA, whoever's the reigning Miss Arizona USA, gets control of that account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1655.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-330, N-2"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm with the Miss Arizona USA organization how the account is handled each year and capture the archived timeline."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5349",
+   "header": "**C-5349** Host Describes Aurora Gunman as Looking Military",
+   "label": "Host Describes Aurora Gunman as Looking Military",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:44"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the 2012 Aurora theater shooter walked in wearing tactical gear and throwing smoke grenades, which she says looks pretty military in retrospect."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "some guy walks in in tactical gear, but this was like he was like throwing smoke grenades. I mean, looks in retrospect pretty military."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11036"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the host's description with trial testimony and the official report on the gunman's equipment."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5351",
+   "header": "**C-5351** Host Links Rob McCoy to Thousand Oaks Victims and Borderline Bar Victims",
+   "label": "Host Links Rob McCoy to Thousand Oaks Victims and Borderline Bar Victims",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:46"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Pastor Rob McCoy is intimately involved with the victims of the Thousand Oaks Borderline Bar and Grill shooting, and that those at the bar were there because they had survived the Las Vegas shooting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Rob McCoy's the pastor thousand Oaks you know pastor he's intimately involved with the victims of the shooting. It's the people that are at the Borderline Bar and Grill are there because they were all at the Las Vegas shooting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-17"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11036"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check McCoy's documented role after the Borderline shooting and verify the share of victims who were Route 91 survivors."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5352",
+   "header": "**C-5352** Host Says Rob McCoy Was in Nashville for the School Shooting",
+   "label": "Host Says Rob McCoy Was in Nashville for the School Shooting",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:46"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Rob McCoy happens to be in Nashville when there is another shooting, same story, which she describes as the official account that a trans person she calls Audrey Hale went crazy and shot up an elementary school."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Then Rob McCoy happens to be in Nashville and oh there's another shooting same story you know this trans person Audrey Hale just went crazy and decided to shoot up an elementary school"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-17"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11036"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate McCoy's travel and speaking schedule for March 2023 and verify whether he was in Nashville that day."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5353",
+   "header": "**C-5353** Host Floats That Military Is Killing Targets and Blaming Others",
+   "label": "Host Floats That Military Is Killing Targets and Blaming Others",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she asked Coleman whether mass shootings could be targets where the military goes in and kills people and then blames a transgender person or a die-hard MAGA guy."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I said to you what if there are just targets and the military is just going in and killing people and then blaming it on on some like at all times a transgender person"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-330"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11036"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "This is a hypothesis, not a finding; test case by case against court records and ballistic and autopsy evidence for each named shooting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5354",
+   "header": "**C-5354** Coleman Says Jessica Ghawi Left Toronto Food Court Minutes Before Shooting",
+   "label": "Coleman Says Jessica Ghawi Left Toronto Food Court Minutes Before Shooting",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:10"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Baron Coleman says Jessica Ghawi was in the Toronto mall food court in 2012, paid her bill minutes before the shooting started, and left after a feeling in her stomach, then died weeks later in the Aurora shooting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Jessica Ghawi was in that food court. She paid her bill at like I don't remember 6:20 or something like that and 3 minutes later the shooting started"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-330, N-478"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11036"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare with Ghawi's own blog post about leaving the Eaton Centre food court and the Toronto police timeline."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5355",
+   "header": "**C-5355** Coleman Says Ghawi Used to Live in New Braunfels, Texas",
+   "label": "Coleman Says Ghawi Used to Live in New Braunfels, Texas",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Baron Coleman says Jessica Ghawi used to live in New Braunfels, Texas, and he asks what goes on in New Braunfels, the town the host links to Dan Flood."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "she used to live in New Braunfels Texas of all places. Bam that's another thing"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-330, N-478, N-270"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11036, N-10426"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check Ghawi's residence history and any link between her New Braunfels period and people named in the Kirk case."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5356",
+   "header": "**C-5356** Coleman Says Man Killed With Ghawi Flew In From New Braunfels",
+   "label": "Coleman Says Man Killed With Ghawi Flew In From New Braunfels",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Baron Coleman says the man who died with Jessica Ghawi had flown in from New Braunfels, Texas, to see her and go to the Aurora movie."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And he had flown in from New Braunfels Texas to see her to go to this movie in Aurora Colorado."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-330, N-478"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11036, N-10426"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the companion from the victim list and confirm his hometown and travel from public reporting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5357",
+   "header": "**C-5357** Host Says Officers Carried Ghawi to a Police Car Instead of Leaving Her",
+   "label": "Host Says Officers Carried Ghawi to a Police Car Instead of Leaving Her",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:48"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that, rather than leaving her where she lay, two police officers went into the theater, pulled Jessica Ghawi into a police car and took her to a hospital."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "rather than leaving her where she is two police officers go into the theater and they pull her into a police car and personally say that they take her to a hospital."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-478"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11036"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare with the Aurora police report, 911 logs and the coroner's findings on Ghawi's death."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5358",
+   "header": "**C-5358** Host Says Buckley Air Force Base Operated Near Aurora From 2000 to 2021",
+   "label": "Host Says Buckley Air Force Base Operated Near Aurora From 2000 to 2021",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:32"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Aurora, Colorado had the Buckley Air Force Base from the year 2000 to 2021, which is now a Space Force base, so there is a military presence there."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "It was the Buckley Air Force Base from the year 2000 to 2021."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11036"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check Buckley's service history and the date it was redesignated a Space Force base."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5359",
+   "header": "**C-5359** Host Says Many Aurora Victims Were Military Guys",
+   "label": "Host Says Many Aurora Victims Were Military Guys",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that in the Aurora theater alone there were a ton of military guys among the victims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "in that theater alone there were a ton of military guys that were victims of the shooting"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11036"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Tabulate the military service of the 12 killed and 70 wounded from the court victim list."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5360",
+   "header": "**C-5360** Host Says Ghawi Was Not in Her Father's Obituary",
+   "label": "Host Says Ghawi Was Not in Her Father's Obituary",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Jessica Ghawi's father's obituary did not mention her though he was mentioned in hers, and that the father adopted a young boy after she left the house."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "His daughter who was tragically murdered not terribly long before he died was not mentioned in his obituary."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-478"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11036"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the father's obituary and Ghawi's obituary and any adoption record."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5361",
+   "header": "**C-5361** Host Says Charlie Was to Speak in Colorado Springs the Day After UVU",
+   "label": "Host Says Charlie Was to Speak in Colorado Springs the Day After UVU",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:04"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie Kirk was scheduled to speak in the Colorado Springs area the day after the Utah Valley University event."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Colorado Springs area whatever you want to call it which I told you Charles was to speak at the next day after UVU"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the TPUSA fall 2025 tour schedule for the Colorado stop and its venue."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5362",
+   "header": "**C-5362** Host Says Bill Cooper Predicted Military Dark Projects Before Mass Shootings",
+   "label": "Host Says Bill Cooper Predicted Military Dark Projects Before Mass Shootings",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:23"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Bill Cooper, whom she calls the original conspiracy theorist, spoke about the military and dark military projects before there were any mass shootings and predicted that the shootings would come."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Bill Cooper had made a lot of predictions who was supposed to be the original conspiracy theorist who before there were any mass shootings was speaking about the military"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-717"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate Cooper's recorded lectures and the dates and wording of any statement about future mass shootings."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5363",
+   "header": "**C-5363** Host Says Satanists Run Military Psychological Operations and Children Are Trafficked on Bases",
+   "label": "Host Says Satanists Run Military Psychological Operations and Children Are Trafficked on Bases",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says there are actual Satanists running psychological operations in the military and that she is learning about children being trafficked onto military bases, while making clear she means the top and not rank-and-file troops."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "when we have actual Satanists that are running psychological operations in our military how are we supposed to feel that we're being protected when we are learning about children being trafficked on onto military bases?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10436"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask for the specific cases, courts-martial or investigations she relies on for trafficking on military bases."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5364",
+   "header": "**C-5364** Griggs Clip: Husband Said Beirut Bombing Was Known in Advance",
+   "label": "Griggs Clip: Husband Said Beirut Bombing Was Known in Advance",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip, the interviewer states and Katherine Griggs affirms that her husband told her the intelligence community knew the bombing of the Marine barracks in Beirut was coming before it occurred."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And in fact he told you that they knew the bombing was coming down in Beirut before it occurred."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1656.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-476, N-477"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the full interview and test the claim against the Long Commission report on the 1983 Beirut barracks bombing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5367",
+   "header": "**C-5367** Host Says Jean-Michel Trogneux Disappears After Joining the Military",
+   "label": "Host Says Jean-Michel Trogneux Disappears After Joining the Military",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:03"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Jean-Michel Trogneux disappears after he joins the military and is stationed in Germany, and that where he went is not known, and ties it to the same military child abuse themes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And Jean Michel Trogneux disappears after he joins the military and is stationed over in Germany and to where he goes we don't know."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-82"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check French military service records and civil registry entries for Jean-Michel Trogneux."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5368",
+   "header": "**C-5368** Host Says Netanyahu Made Charlie Kirk an Offer to Take TPUSA to the Next Level",
+   "label": "Host Says Netanyahu Made Charlie Kirk an Offer to Take TPUSA to the Next Level",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:46"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that Bibi Netanyahu made an offer to Charlie Kirk to take Turning Point to the next level."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Bibi Netanyahu made an offer to Charlie Kirk to take Turning Point to the next level."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-36, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10342"
+    },
+    {
+     "k": "Supports",
+     "v": "C-4114, C-2134"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Seek the text of any Netanyahu-side communication to Kirk or TPUSA and testimony from those present at the Hamptons discussions."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5369",
+   "header": "**C-5369** Host Says Andrew Kolvet Told Her About the Netanyahu Offer",
+   "label": "Host Says Andrew Kolvet Told Her About the Netanyahu Offer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:26"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says it was Andrew Kolvet, the TPUSA spokesperson, who told her about the Netanyahu offer, and that it did not come from a random conspiracy theorist."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "That was told to me from Andrew Kolvet. Okay? That's not some random conspiracy theorist. Uh it's the spokesperson for Turning Point USA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-14"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10342"
+    },
+    {
+     "k": "Supports",
+     "v": "C-4114"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask Kolvet whether he made the statement; look for the host's recorded call or texts with him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5370",
+   "header": "**C-5370** Host Says Someone in Kolvet's Orbit Confirmed the Offer and That He Lost Money",
+   "label": "Host Says Someone in Kolvet's Orbit Confirmed the Offer and That He Lost Money",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:26"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Netanyahu offer was confirmed by somebody in Andrew Kolvet's personal orbit, who said Kolvet told them he lost money when it happened, and she says she does not know what Netanyahu wanted in exchange."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Yes, that's been confirmed by somebody in you know Andrew Kolvet's personal orbit who said that when that happened Andrew said he lost money."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-14, N-36"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10342"
+    },
+    {
+     "k": "Supports",
+     "v": "C-4118"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the person in Kolvet's orbit and obtain a statement; compare with the family-friend tip in episode 39."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5371",
+   "header": "**C-5371** Host Says PragerU CEO Is Working on a Documentary Billed as a Takedown of Her",
+   "label": "Host Says PragerU CEO Is Working on a Documentary Billed as a Takedown of Her",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:29:52"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Marissa Streit, the Prager University CEO, is working on a documentary with a man she names as Shabbos Kestenbaum, who is telling people it will be a takedown of Candace Owens."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And uh he's going around telling everybody it's going to be a takedown of Candace Owens and that's what her new focus is at Prager University"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-117, N-718"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10131"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask PragerU and the filmmaker to confirm the project's existence and subject; the host spells the name variously."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5374",
+   "header": "**C-5374** Host Says Rubin Was Upset When She Said Genocide Is Always Wrong",
+   "label": "Host Says Rubin Was Upset When She Said Genocide Is Always Wrong",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:32:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Dave Rubin was the original person upset when she said genocide is always wrong, and that he replied asking how she could make that statement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he was the original person that was upset when I said genocide is always wrong. So it was like Dave Rubin replied and was like, \"How could you say this?\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-32"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve Rubin's reply post and the date of the host's genocide statement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5375",
+   "header": "**C-5375** Host Says Rubin Posted a Photo From Peter Thiel's House Calling Thiel a Cyborg",
+   "label": "Host Says Rubin Posted a Photo From Peter Thiel's House Calling Thiel a Cyborg",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:33:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Dave Rubin posted a picture of himself and her with a caption saying they were at Peter Thiel's house in LA and that she never mentioned to him that Thiel was a humanoid cyborg."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He posts a picture of me and him and he says, \"And as long as we are doing this, here we are at Peter Thiel's house in LA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2758.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-32, N-521"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Capture Rubin's post and the photo's metadata to confirm date and location."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5376",
+   "header": "**C-5376** Host Says the Thiel House Photo Was From a 2018 Trip to See Kanye",
+   "label": "Host Says the Thiel House Photo Was From a 2018 Trip to See Kanye",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:33:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the photo with Rubin at Peter Thiel's house was from 2018, the trip when she went to see Kanye West."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "This is I do remember actually it was 2018 because this was the trip when I went to go see Kanye."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2758.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-27, N-32, N-521"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10004"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Cross-check with the November 2018 timeline of the host's visit with Kanye West and the Kanye tweet about her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5377",
+   "header": "**C-5377** Host Says She Met Peter Thiel for the First Time That Day",
+   "label": "Host Says She Met Peter Thiel for the First Time That Day",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:08"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she did not know Peter Thiel before then, that Eric Weinstein suggested going to Thiel's house, and that she first met Thiel at his party in LA the same day she first met Kanye."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I don't know Peter Thiel. I literally don't know Peter Thiel. So I met him at his LA he was having a party or whatever."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2758.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-521, N-27"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check photographs and other attendee accounts of the 2018 gathering."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5378",
+   "header": "**C-5378** Host Says Rubin Hired a Young Member of Her PragerU Team",
+   "label": "Host Says Rubin Hired a Young Member of Her PragerU Team",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:44"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Dave Rubin hired a young person, perhaps 18 or 19, who worked on her team at Prager University, to move to Miami and work for Rubin and his husband."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Dave Rubin um hired a a person who worked with me on my team, not exclusively for me, at Prager University."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-32"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11037, N-10131"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the employee through PragerU or Rubin staff lists and ask him to confirm or deny the host's account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5379",
+   "header": "**C-5379** Host Says Rubin Said He Thought the Employee Was Secretly Gay",
+   "label": "Host Says Rubin Said He Thought the Employee Was Secretly Gay",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:35:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Rubin told her and her husband that he and his husband thought the shy young employee was secretly gay and had been egging him to experiment and hook up with a guy."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We We think he's secretly gay. And uh so we've been like at, you know, egging him to like just like experiment and to like hook up with a guy"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-32"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11037"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Seek the host's husband's recollection and any contemporaneous messages; Rubin has not responded in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5380",
+   "header": "**C-5380** Host Alleges Rubin Pushed the Employee to Go on a Date and Have a First Kiss",
+   "label": "Host Alleges Rubin Pushed the Employee to Go on a Date and Have a First Kiss",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:29"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Rubin told her they pushed the young employee to go on a date with a guy and have his first kiss, after which the employee quit and moved, she thinks to Texas, and she says it was obvious to her they were grooming him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "What ends up happening is he then says that they compelled him or supported him, not compelled him, but pushed him and pushed him to go on a date with a guy and to have his first kiss."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-32"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11037"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Treat as the host's allegation; the employee's own account is the necessary corroboration."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5381",
+   "header": "**C-5381** Host Says the Grooming Episode Is Why She Stopped Being Friends With Rubin",
+   "label": "Host Says the Grooming Episode Is Why She Stopped Being Friends With Rubin",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:29"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that story is the reason she stopped being friends with Dave Rubin and that she never shared it until his post, and she adds that Rubin has told her he has done drugs with Peter Thiel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "That's the reason I stopped being friends with Dave Rubin. I never shared that story until the audacity of this person who has told me about how he's done drugs with Peter Thiel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-32, N-521"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11037"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare with earlier episodes in which the host described her break with Rubin."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5382",
+   "header": "**C-5382** Host Says Rubin Called Someone Cheap and Cited It in a Falling Out With Charlie",
+   "label": "Host Says Rubin Called Someone Cheap and Cited It in a Falling Out With Charlie",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:29"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Dave Rubin complained that someone was 'such a cheap ass' and that it was one of the reasons he and Charlie Kirk had a falling out; she then recounts Rubin complaining that Peter Thiel charged him interest on a $5 million bridge loan."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "that he complained he's such a cheap ass, okay? That it was one of the reasons him and Charlie had a falling out."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-32, N-1, N-521"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask the host which person made the complaint and what the dispute was; seek Rubin's or Kirk-side account of the falling out."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5383",
+   "header": "**C-5383** Host Says Peter Thiel Lent Rubin $5 Million as a Bridge Loan With Interest",
+   "label": "Host Says Peter Thiel Lent Rubin $5 Million as a Bridge Loan With Interest",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Dave Rubin asked billionaire Peter Thiel for $5 million to buy a house in a swanky neighborhood, that it was written as a bridge loan, and that Thiel then asked for interest."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he went to his friend, billionaire Peter Thiel, and asked for $5 million and they wrote it as like a bridge loan or whatever."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-32, N-521"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check property and lien records for Rubin's purchase and ask either party to confirm or deny the loan terms."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5384",
+   "header": "**C-5384** Host Says Rubin Was Present When Charlie Hired Her and at the Kanye Tweet Event",
+   "label": "Host Says Rubin Was Present When Charlie Hired Her and at the Kanye Tweet Event",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:02"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Dave Rubin was there when Charlie Kirk hired her and when the Kanye tweet happened at an event all three attended, so he knew she and Charlie were friends until the end."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He was there when Charlie hired me. He was there uh when the Kanye tweet happened because of an event that all three of us were there."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-32, N-1, N-27"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10004"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check Rubin's own past accounts of the hiring and the Kanye tweet event."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5385",
+   "header": "**C-5385** Host Says Donor Pressure Was Changing Charlie's Views on Israel",
+   "label": "Host Says Donor Pressure Was Changing Charlie's Views on Israel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie Kirk's viewpoints on Israel changed over the last year because of pressure from donors who tried to control what he said and thought and who he could invite to his own events."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Over the last year they had been changing because of the pressure that was coming to him by donors to control what he was saying and thinking and who he could invite to his own events."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain messages from Kirk to donors, staff or the host from 2024 and 2025 describing the pressure and his changing views on Israel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5388",
+   "header": "**C-5388** Host Says Evangelical Churches Are Seeing a Mass Exodus",
+   "label": "Host Says Evangelical Churches Are Seeing a Mass Exodus",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:46:48"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Protestant and Evangelical churches are definitely experiencing a mass exodus."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the Protestant churches the Evangelical churches are definitely uh experi- experiencing a mass exodus."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare with Pew, Gallup and denominational membership data for 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5389",
+   "header": "**C-5389** Host Says Pastors Like Rob McCoy Rehabilitate Pedophiles While Telling Followers to Unfollow Tucker",
+   "label": "Host Says Pastors Like Rob McCoy Rehabilitate Pedophiles While Telling Followers to Unfollow Tucker",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:46:48"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says pastors like Rob McCoy are constantly trying to rehabilitate pedophiles and then tell people that to be saved they just have to unfollow Tucker Carlson on Twitter."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We've got these pastors like Rob McCoy constantly trying to rehabilitate pedophiles and then they'll look at you dead in the face and be like hey if you want to be saved just got to unfollow Tucker Carlson on Twitter."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-17, N-22"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10139"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask for the specific cases and sermons; the host's framing is hyperbolic, so look for documented McCoy statements on offenders and Tucker Carlson."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5390",
+   "header": "**C-5390** Host Says She Has Messages Showing She Distrusted Shaffer Security",
+   "label": "Host Says She Has Messages Showing She Distrusted Shaffer Security",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:49:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she has written messages showing she ranted at Charlie Kirk and Tyler Bowyer in a group chat, saying she did not trust Shaffer Security."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I ranted at him and Tyler Bowyer in a group chat. I actually read it backwards and I was like, \"Gosh, I was really aggressive there.\" saying that I did not trust Shaffer Security."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2759.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1, N-11"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11038"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the group chat export with dates; ask Bowyer and TPUSA to confirm the exchange and Shaffer Security's contract with TPUSA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5391",
+   "header": "**C-5391** Host Says Charlie's Former School Is Now Called Quest Academy",
+   "label": "Host Says Charlie's Former School Is Now Called Quest Academy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:49:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the school Charlie Kirk attended, which she has called his 'X-Men school', is now called Quest Academy and had a different name when he went there."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I called his ex-men school which is now called Quest Academy and now I it it was previously called something else when Charlie went there"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10422"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the school's former name and Kirk's enrollment dates from yearbooks or school records; the transcript spelling is garbled."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5392",
+   "header": "**C-5392** Host Theorizes the Military Seeks Out Gifted Children to Make State Weapons",
+   "label": "Host Theorizes the Military Seeks Out Gifted Children to Make State Weapons",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:49:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she thinks the military seeks out gifted children, tests them and tries to turn them into state weapons, and that bad things can happen if they refuse to serve the deep state."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "there is an angle here where I think the military is actually seeking out gifted children and putting them through testing and seeing if they can turn them into state weapons"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10422"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "A theory, not a finding; look for documented military screening of gifted programs and Kirk's participation in any such program."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5393",
+   "header": "**C-5393** Host Says Audio of Charlie Wanting Erika to Take Over Was Played at AmFest",
+   "label": "Host Says Audio of Charlie Wanting Erika to Take Over Was Played at AmFest",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:51:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that at AmFest, when Erika Kirk came out, TPUSA played audio of Charlie Kirk saying he wanted Erika to take over for him, and she asks why there is audio but no video."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "when they had Amfest and Erika came out, they played audio of Charlie saying that he wanted Erika to take over for him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2760.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10664"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the AmFest broadcast and the full original recording, including date, venue and any video, and have it forensically authenticated."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5394",
+   "header": "**C-5394** Host Says Wanting Erika to Take Over Contradicts Charlie's Stated View on Working Mothers",
+   "label": "Host Says Wanting Erika to Take Over Contradicts Charlie's Stated View on Working Mothers",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:51:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie Kirk's consistent public position was that, with young kids, a woman should not work outside the home if she can avoid it, which she says conflicts with the claim he wanted Erika to take over."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "when it comes up to a woman working outside the home with young kids, his basic opinion is at all costs, please don't do it if you don't have to."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10664"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compile Kirk's recorded statements on mothers working outside the home and compare their dates with the alleged August statement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5395",
+   "header": "**C-5395** Host Says TPUSA's Story Is That Charlie Wanted Erika to Take Over if Anything Happened",
+   "label": "Host Says TPUSA's Story Is That Charlie Wanted Erika to Take Over if Anything Happened",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:52:18"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the TPUSA side's story has been that if anything ever happened to Charlie Kirk, he wanted Erika to take over."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "their story has been that if anything ever happened to him, he wanted Erika to take over."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10664"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Collect every TPUSA and Erika Kirk statement of this claim with date and venue and compare with the Aspen attendee accounts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5396",
+   "header": "**C-5396** Host Says Erika's Side Handed Her a Printed Transcript of the Take-Over Statement",
+   "label": "Host Says Erika's Side Handed Her a Printed Transcript of the Take-Over Statement",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:53:04"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that when she sat down with Erika Kirk, after she had said nothing on her show about the statement, they had a physical printout of a transcript of Charlie saying he wanted Erika to take over, which she says is proof for a claim she had not made."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "they had prepared a response to a question that I wasn't asking. Meaning that they had a physical printout of a transcript"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2761.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10664"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask for the transcript, its source recording and its date; examine whether the printout matches any event recording."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5397",
+   "header": "**C-5397** Host Says Erika's Side Placed the Statement at an August Aspen Donor Retreat",
+   "label": "Host Says Erika's Side Placed the Statement at an August Aspen Donor Retreat",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:53:59"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she asked whether the statement was made at Bill Ackman's house, and Erika's side answered no, it was at a donor retreat in Aspen in August."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And I said, \"Was this at Was this at Bill Ackman's house?\" And they said, \"No, it was at a donor retreat in Aspen.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-37, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10431"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the Aspen retreat guest list, agenda and any recording."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5398",
+   "header": "**C-5398** Host Says a Donor Allegedly Asked Charlie What Happens if You Die",
+   "label": "Host Says a Donor Allegedly Asked Charlie What Happens if You Die",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:53:59"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that after she found out who was at the Aspen retreat and reached out, they alleged that somebody had asked Charlie Kirk 'What happens if you die?', which she calls a weird question, and she adds that he died a month later."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I reach out and then they alleged that this was a question that somebody had asked and said, \"What happens if you die?\" which is kind of a weird question."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10431"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the asker and each attendee who recalls the question; the host says she can now name the donor."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5399",
+   "header": "**C-5399** Host Says Two Aspen Attendees Do Not Remember Charlie Saying Erika Should Take Over",
+   "label": "Host Says Two Aspen Attendees Do Not Remember Charlie Saying Erika Should Take Over",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:54:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she asked two attendees of the small, exclusive Aspen donor retreat and neither remembers Charlie Kirk saying he wanted Erika to take over."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Very small group, exclusive group of donors in Aspen in August and thus far two do not remember Charlie saying that."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10431, N-10437"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask the remaining attendees on the record; the host says she has contacted only two."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5400",
+   "header": "**C-5400** Host Says One Attendee Recalls Charlie Saying He Hires People to Run Things",
+   "label": "Host Says One Attendee Recalls Charlie Saying He Hires People to Run Things",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:55:26"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says one Aspen attendee remembers Charlie Kirk describing how TPUSA would grow and, when asked how he could do all of it, apparently answering that he hires people under him to run things."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "what one person remembers, which sounds much more sensible, was that during Charlie's conversation, he's like saying how Turning Point is going to grow and they're asking, \"How are you going to do all of this? Like you're one person.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10431, N-10437"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain a signed account from the attendee and compare it with any recording of the event."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5401",
+   "header": "**C-5401** Host Says She Cannot Confirm Charlie Said Erika Should Take Over",
+   "label": "Host Says She Cannot Confirm Charlie Said Erika Should Take Over",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:56:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she is trying to confirm that Charlie Kirk said he wanted Erika to take over, cannot so far, and that the obvious step is for TPUSA to release the video."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I'm saying thus far I'm trying to confirm the story, I can't. And it's bothering me because the obvious thing is they should release the video."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10664"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Request the unedited video of the retreat or speech and an attendee confirmation; treat the statement as unverified until then."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5402",
+   "header": "**C-5402** Coleman Says He Is Told There Was Audio and Video of the Event in the Hamptons",
+   "label": "Coleman Says He Is Told There Was Audio and Video of the Event in the Hamptons",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:56:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Baron Coleman says he is told there was audio and visual recording of the event in the Hamptons, and adds that he no longer believes audio or video without someone in the room confirming it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I'm told that there was audio and visual at that event in the Hamptons."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-330"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10664, N-10027"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask TPUSA whether a recording exists and of which event; the host and Coleman later say they were unsure whether the question came from the Hamptons or Aspen."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5403",
+   "header": "**C-5403** Host Says Erika Told Her the Statement Was Made in Aspen",
+   "label": "Host Says Erika Told Her the Statement Was Made in Aspen",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:57:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that Erika Kirk told her the take-over statement was made in Aspen, while Coleman says he had thought the what-happens-when-you-die question came from the Hamptons."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I was told by Erika it was Aspen."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2, N-330"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10431, N-10027"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pin down Erika Kirk's own account of venue and date, and compare it with the Hamptons attendee accounts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5404",
+   "header": "**C-5404** Host Gives August 15 to 17 as Dates of the Aspen Retreat",
+   "label": "Host Gives August 15 to 17 as Dates of the Aspen Retreat",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:58:22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Aspen donor event took place on August 15 to 17, less than a month before Charlie Kirk died."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "August 15th to 17th. So, less than less than a month [clears throat] before he died."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10431"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the event listing, hotel or venue records and attendee list for August 15 to 17, 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5405",
+   "header": "**C-5405** Coleman Says Charlie Ran Emergency Drills With Mikey McCoy",
+   "label": "Coleman Says Charlie Ran Emergency Drills With Mikey McCoy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:58:22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Baron Coleman says Charlie Kirk did military-style training drills with Mikey McCoy, telling him that if anything happens he should just go, walk or run, and that they rehearsed it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he's like, \"If anything happens, just go. Walk. Run.\" They were doing They were like doing rehearsals. They were They were running drills."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-330, N-1, N-190"
+    },
+    {
+     "k": "Supports",
+     "v": "C-1896"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain Mikey McCoy's and Kolvet's own descriptions of the drills and any video of them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5406",
+   "header": "**C-5406** Host Says TPUSA Had to Confirm Charlie Messaged Kolvet and Dan Flood the Night Before",
+   "label": "Host Says TPUSA Had to Confirm Charlie Messaged Kolvet and Dan Flood the Night Before",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:58:22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that first TPUSA would say she was a liar, then had to confirm that Charlie Kirk messaged Andrew Kolvet and Dan Flood the night before and said he was worried he was going to be assassinated."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "first they were going to say I was a liar, then they had to confirm that it was true that Charlie messaged not only Andrew Kolodny, but Dan Flood the night before and said that he was worried he was going to be assassinated."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1, N-14, N-270"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10340"
+    },
+    {
+     "k": "Supports",
+     "v": "C-4063"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the texts or TPUSA's public confirmation, with timestamps; the transcript spells Kolvet as Kolodny."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5407",
+   "header": "**C-5407** Coleman Says Erika Held the Necklace Charlie Never Took Off and Tried to Find It",
+   "label": "Coleman Says Erika Held the Necklace Charlie Never Took Off and Tried to Find It",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:59:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Baron Coleman says Erika Kirk had custody of the necklace Charlie never took off and was frantic to find it immediately after the assassination."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "she also had custody of the necklace that he never took off um and that she was crazy to try to find immediately in the aftermath."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-330, N-2, N-1"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify who recovered the necklace and when, using hospital property logs and Erika Kirk's statements."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5408",
+   "header": "**C-5408** Coleman Says He Believes Erika Knew Charlie Would Die the Next Day",
+   "label": "Coleman Says He Believes Erika Knew Charlie Would Die the Next Day",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:00:24"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Baron Coleman says his biggest question is whether Erika Kirk knew Charlie was going to die the next day, and that in his opinion the answer is yes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Because I think the answer to that question is yes. In my opinion, I think the answer is yes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-330, N-2, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11039"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "This is the host's stated opinion without a cited basis in this segment; look for any document or testimony of what Erika Kirk knew on September 9 and 10."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5409",
+   "header": "**C-5409** Host Says a Priest Came to Pray 48 Hours Before About the Jezebel Article",
+   "label": "Host Says a Priest Came to Pray 48 Hours Before About the Jezebel Article",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:00:24"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that, according to what Megyn Kelly was told, a priest came over to pray about the Jezebel article 48 hours before the assassination, which she finds strange given Charlie Kirk's humor about hostile articles."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "and that the priest came over to pray 48 hours before to pray about this Jezebel article."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-46, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10117, N-10122"
+    },
+    {
+     "k": "Supports",
+     "v": "C-810"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the priest and date of the visit and compare with the Megyn Kelly interview where the account was given."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5410",
+   "header": "**C-5410** Host Says Kolvet Told Her He Ran Into Erika's Arms and Cried on the Tarmac",
+   "label": "Host Says Kolvet Told Her He Ran Into Erika's Arms and Cried on the Tarmac",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:01:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Andrew Kolvet told her on the phone that he was anxious and pent up on the plane, and that as soon as it landed he got off and ran into Erika's arms on the tarmac and cried."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "As soon as the plane landed I deep got off of the plane and ran into Erika's arms on the tarmac and boohoo cried."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-14, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10548, N-10560"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5414"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the host's phone records and notes of the calls and compare with Kolvet's public account and airport footage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5411",
+   "header": "**C-5411** Host Says the Two Planes Landed an Hour Apart",
+   "label": "Host Says the Two Planes Landed an Hour Apart",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:02:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that Kolvet's and Erika Kirk's planes landed an hour apart and that she finds it odd Erika waited an hour on the tarmac instead of going to the hospital."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Their planes landed an hour apart. Mhm. So, I just thought it was interesting that she waited to go to the hospital"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1657.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-14, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10430, N-10548"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5414"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pull the FAA and Flightradar24 data for both flights and compare it with the minute-by-minute arrival accounts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5412",
+   "header": "**C-5412** Host Says Erika Told Her She Learned Charlie Was Dead Before Takeoff",
+   "label": "Host Says Erika Told Her She Learned Charlie Was Dead Before Takeoff",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:02:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk told her that she found out Charlie Kirk was dead before they took off in Arizona."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "she did tell me that she found out Charlie was dead before they took off in Arizona."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10430"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare this with Erika Kirk's other accounts of when she learned of the death and with any call logs."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5413",
+   "header": "**C-5413** Host Says Erika and Kolvet Entered the Hospital by Different Doors",
+   "label": "Host Says Erika and Kolvet Entered the Hospital by Different Doors",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:02:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that after Erika Kirk waited for Kolvet, they went into the hospital by different entrances, with Erika through the back and Kolvet through the front."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "they then went into different entries into the hospital. Erika went through the back and Andrew went through the front."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2, N-14"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10149"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check hospital security footage and staff accounts of the arrival of each."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5415",
+   "header": "**C-5415** Host Says the Scottsdale Plane Was Identified as the Yrefy Guy",
+   "label": "Host Says the Scottsdale Plane Was Identified as the Yrefy Guy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:08:11"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that she was told the plane going into Scottsdale belongs to the Yrefy guy, and she corrects herself that she should say it is what she was told and not what she determined."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I was able to determine that that's the Yrefy guy. So, which could make sense. That's what I was told."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1657.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10430"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5414"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the aircraft owner from FAA registration records; the term Yrefy is as spelled in the transcript."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5416",
+   "header": "**C-5416** Host Says Kolvet's Story Implied He Flew Alone but She Was Told He Flew With His Wife",
+   "label": "Host Says Kolvet's Story Implied He Flew Alone but She Was Told He Flew With His Wife",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:08:11"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Kolvet's account of pent-up anxiety left her with the impression that he flew alone, but she was then told he flew with his wife, which she says creates a discrepancy."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I got the impression that he flew alone. And then I was told that he actually flew with his wife and I thought, \"Okay, that's interesting.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1657.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-14"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10430, N-10560"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5414"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the flight manifest with Kolvet's own statements about who flew with him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5417",
+   "header": "**C-5417** Host Says Erika Did Not Know Whether Kolvet Flew With His Wife",
+   "label": "Host Says Erika Did Not Know Whether Kolvet Flew With His Wife",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:09:42"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that when she asked Erika Kirk and Justin Streiff who was on the planes, and whether Kolvet flew with his wife, Erika sat quietly as if she did not know; Coleman adds that surely Erika would have seen the wife."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And Erika sat quietly like she didn't know the answer to whether or not he flew with his wife."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2, N-15, N-14"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10560"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask Erika Kirk and Justin Streiff for their accounts of that exchange and the date it happened."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5418",
+   "header": "**C-5418** Host Says Justin Streiff Confirmed Kolvet Flew With His Wife",
+   "label": "Host Says Justin Streiff Confirmed Kolvet Flew With His Wife",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:10:18"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Justin Streiff said he would find out whether Kolvet flew with his wife, and then came back and said yes, Kolvet flew with his wife."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And so Justin Streiff then said to me I'll get back to you and I'll find out if Andrew flew with his wife and he did."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1657.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-15, N-14"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10560, N-10430"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5414"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the message in which Strieff replied and the passenger manifest if available."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5419",
+   "header": "**C-5419** Host Says Erika Told Her to Her Face That Kolvet Went Rogue on the Surgeon Quote",
+   "label": "Host Says Erika Told Her to Her Face That Kolvet Went Rogue on the Surgeon Quote",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:11:11"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk told her to her face that Andrew Kolvet went rogue over the surgeon story, which the host did not believe because of HIPAA concerns for a seasoned surgeon."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Erika told me to my face that Andrew went rogue and I never trusted that because of HIPAA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2, N-14"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10341, N-10358"
+    },
+    {
+     "k": "Supports",
+     "v": "C-4080"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare with Kolvet's statement in episode 47 and any account from the surgeon."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5420",
+   "header": "**C-5420** Host Says Her Source Told Her the Surgeon Quote Came From Erika",
+   "label": "Host Says Her Source Told Her the Surgeon Quote Came From Erika",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:11:11"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her source told her that Erika Kirk was on the phone and that the quotation about the bullet came from Erika, not from Kolvet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "when my source told me that Erika was on the phone and that the quotation came from Erika"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2, N-14"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10341, N-10358"
+    },
+    {
+     "k": "Supports",
+     "v": "C-4080"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the source and obtain a second confirmation of who relayed the surgeon's words."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5421",
+   "header": "**C-5421** Host Says a Person Close to the Surgeon Said They Called Him After Her Episode",
+   "label": "Host Says a Person Close to the Surgeon Said They Called Him After Her Episode",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:11:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the person close to the surgeon told her that TPUSA panicked about her episode and called the surgeon to ask why the bullet did not go through, and he said he did not know why it did not if it was a .30-06."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "they did this cuz they panicked about my episode and then they called the surgeon and it's like, well why is there no why didn't it go through"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10341, N-10358"
+    },
+    {
+     "k": "Supports",
+     "v": "C-594"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the person close to the surgeon and ask for an on-record account; the surgeon is named in prior episodes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5422",
+   "header": "**C-5422** Host Says Tipster Claims Cattle Baron's Ball Money Launders Payments to Dirty Cops",
+   "label": "Host Says Tipster Claims Cattle Baron's Ball Money Launders Payments to Dirty Cops",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:13:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the person who gave her the tip about Dan Flood said money is being funneled through the Cattlemen's Ball, or Cattle Baron's Ball, as a money laundering operation to pay off dirty cops, with the funds said to go to the American Cancer Society."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "said that money is being funneled that it's just a money laundering operation to pay off dirty cops through the Cattlemen's Ball, Cattle Baron's Ball um if you will"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-270"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10426"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5278"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the Cattle Baron's Ball's filings and American Cancer Society grants; the allegation is unverified and the host says to investigate it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5423",
+   "header": "**C-5423** Host Says Critics Ran Operation Debunk Mitch to Pressure Coleman Over Mitch Snow",
+   "label": "Host Says Critics Ran Operation Debunk Mitch to Pressure Coleman Over Mitch Snow",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:14:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that during Operation Debunk Mitch critics tried to stop Baron Coleman from discussing Fort Huachuca by saying Mitch Snow's baby mama from 20 years ago had something to say."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "This is when they were running Operation Debunk Mitch and they were basically being like, you can't even prod the narrative on Fort Wackachuca because Mitch's baby mama from 20 years ago has something to say"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1658.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-330, N-361"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10367"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5424"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the Operation Debunk Mitch posts and the baby mama's statement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5425",
+   "header": "**C-5425** Coleman Says the Host Verified Mitch Snow Was at the Base Through a Police Report",
+   "label": "Coleman Says the Host Verified Mitch Snow Was at the Base Through a Police Report",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:17:23"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip the host plays, Baron Coleman says the host verified that Mitch Snow was at the base, that she had the police report, and that Snow's son later confirmed the police report."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "She had the police report. His son later confirmed the police report was So that's number one. Two. What about the building he said he used?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1658.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-330, N-361, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10367"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5424"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the police report and the son's confirmation as cited in the host's Fort Huachuca episodes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5426",
+   "header": "**C-5426** Coleman Says Someone at the Base Confirmed the Building and Blacked-Out Windows",
+   "label": "Coleman Says Someone at the Base Confirmed the Building and Blacked-Out Windows",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:17:23"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip the host plays, Baron Coleman says the host called someone at the base who confirmed that the building Mitch Snow named is used, that its windows are blacked out and that it is set up as a secure facility."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "She called someone at the base and they said, yeah. Yeah. Um in fact they do use that building and they black out the windows and it's set up as sort of a a secure facility."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1658.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-330, N-361, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10367, N-10370"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5424"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the base contact and obtain a written or on-record confirmation of the building and its use."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5428",
+   "header": "**C-5428** Coleman Says He Retired From His Other Job to Investigate Full-Time",
+   "label": "Coleman Says He Retired From His Other Job to Investigate Full-Time",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:22:18"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Baron Coleman says he has retired from his other job and is now doing his investigative channel full-time."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "as Candace mentioned, I I've retired from my other job and I'm doing this full-time now."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-330"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm via Coleman's own channel announcements; this is self-reported."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5429",
+   "header": "**C-5429** Host Asks Viewers to Email moretips@candaceowens.com",
+   "label": "Host Asks Viewers to Email moretips@candaceowens.com",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:22:57"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host asks viewers to send tips by email to moretips@candaceowens.com after she says she gave them a lot to process and cannot wait to see the emails."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Email us at moretips@candaceowens. com."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2762.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Record tip volume and follow-up in later episodes where the host cites emailed tips."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5430",
+   "header": "**C-5430** Host Says Her Work Is Not Funded by Zionists",
+   "label": "Host Says Her Work Is Not Funded by Zionists",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:22:57"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that her independent work is not funded by Zionists and that she is only being attacked by them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "If you want to support our independent work, we are not being funded by Zionists, obviously."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review her disclosed funding sources and sponsor list; the host offers no documents in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    }
+   ]
+  }
+ ]
+}

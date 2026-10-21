@@ -1,0 +1,8028 @@
+{
+ "format": "cka-source/1",
+ "episode": 137,
+ "blocks": [
+  {
+   "kind": "text",
+   "lines": [
+    "## 1. Meta-Data",
+    "",
+    "- **Episode**: 137",
+    "- **Monument**: cka",
+    "- **CKA seq**: 137",
+    "- **YouTube id**: 1CFDtD0IgEg",
+    "- **Candace Ep**: 371",
+    "- **Source**: Candace Owens YouTube",
+    "- **Video Timestamp Range**: 00:00:00–00:54:28",
+    "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
+    "- **Transcript SHA-256**: 4e547f289a22113447c93d2ca9fef0dd0e07226713c206cab6e09945e3c02cb8",
+    "",
+    "- **Episode Ledger Summary**:",
+    "  - Tip-minted Nodes (supplement_2026-10b): N-11144",
+    "  - Claim Range: C-11751–C-11824",
+    "  - (see registers)",
+    "",
+    "# Episode Analysis: CKA 137 / Monument Ep 137 / Batch Ep 117",
+    "",
+    "## I. Meta-Data",
+    "",
+    "- Episode Title: \"VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371\"",
+    "- Series Title: Bride of Charlie (Candace Owens)",
+    "- Episode Numbers: CKA 137 · Monument Ep 137 · Batch 117",
+    "- Channel / Creator: @RealCandaceO (Candace Owens)",
+    "- Episode Date: 2026-08-04",
+    "- Source Used for Analysis: Auto-captions transcript (en), with video timestamp references",
+    "- Transcript Completeness Status: Full transcript with chapter markers",
+    "- Analyst / Agent Name: Investigative Analysis Agent",
+    "- Analysis Date: 2026-08-04",
+    "- Ledger Continuation Summary:",
+    "  - Artifact Families Introduced: A-2236, A-2237, A-2238, A-2239, A-2240, A-2241, A-2242, A-2243, A-2244, A-2245",
+    "  - New Nodes Introduced: N-10776, N-10779",
+    "  - Reused Nodes Appearing: N-506, N-2, N-5, N-11, N-22, N-40, N-69, N-125, N-244, N-367, N-378, N-591, N-681, N-748, N-10006, N-10012, N-10026, N-10028, N-10070, N-10090, N-10110, N-10151, N-10323, N-10344, N-10541, N-10634, N-10715, N-10725, N-10731, N-10732, N-10751, N-10754, N-10772, N-10773, N-10774, N-11057, N-10778, N-783, N-11145, N-10777",
+    "  - Existing Nodes Reused: None in this episode beyond standard references",
+    "",
+    "---",
+    "",
+    "## II. Executive Summary",
+    "",
+    "This episode presents several read-aloud or displayed external sources that anchor discrete investigative claims within the Bride of Charlie series. The host reads excerpts from Frank Turek's appearance on Nicholas Bowling's podcast (citing Exodus 22:22 and Deuteronomy 19 against her), displays a CNN September 11 article stating the screwdriver was found \"near the recovered rifle,\" plays a clip of Officer Christopher Bagley trial testimony about his review (or non-review) of rooftop video, and presents a screenshot from Benny Johnson's show placing Andrew Kolvet at the Asher Adams Hotel in Salt Lake City. The host also plays Sky News investigative footage regarding Tomahawk missile evidence in the Iran school bombing and a Mark Levin audio segment on arming Iranian protesters – artifacts that anchor geopolitical claims but do not advance the Charlie Kirk investigation directly. The episode also introduces a verbal-source claim (no displayed artifact) about a Sept 9 UVU campus scoping incident involving a person who claimed to be Senator Mike Lee's bodyguard.",
+    "",
+    "The episode advances the following structural threads in the series: (1) the screwdriver-narrative evolution (now anchored to a primary CNN source); (2) the Officer Bagley testimony anomaly regarding rooftop video review; (3) the Turning Point hotel location, now confirmed via a screenshot artifact; (4) the black nitrile gloves / door compartment question, supported by an email artifact and host-verified; (5) a UVU pre-event scoping claim based on a verbal source. Non-Charlie segments on Iran function as rhetorical context for the host's broader claims about US government credibility but introduce two anchorable artifact claims (Sky News; Mark Levin).",
+    "",
+    "---",
+    "",
+    "## III. Artifact Register",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2236",
+   "header": "**A-2236** Frank Turek / Nicholas Bowling Podcast Clip Bundle",
+   "label": "Frank Turek / Nicholas Bowling Podcast Clip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2236.1",
+   "header": "**A-2236.1** Frank Turek clip citing Exodus 22:22 and Deuteronomy 19 against Candace Owens",
+   "label": "Frank Turek clip citing Exodus 22:22 and Deuteronomy 19 against Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:03:17"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (read-aloud)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11755*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2237",
+   "header": "**A-2237** Woodworker Email Bundle",
+   "label": "Woodworker Email Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2237.1",
+   "header": "**A-2237.1** Email stating black nitrile gloves are most resistant to CA glue / spray activator",
+   "label": "Email stating black nitrile gloves are most resistant to CA glue / spray activator",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:07:24"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (read-aloud)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11763, C-11764, N-10779*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2238",
+   "header": "**A-2238** CNN Article Bundle (Sept 11, 2025)",
+   "label": "CNN Article Bundle (Sept 11, 2025)",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2238.1",
+   "header": "**A-2238.1** CNN article: \"Authorities found a screwdriver near the recovered rifle\"",
+   "label": "CNN article: \"Authorities found a screwdriver near the recovered rifle\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:17:01"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (displayed headline excerpt)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11783, N-10777*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2239",
+   "header": "**A-2239** Sky News Investigation Bundle (Iran school bombing)",
+   "label": "Sky News Investigation Bundle (Iran school bombing)",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2239.1",
+   "header": "**A-2239.1** Sky News clip – Pete Hegseth exchange confirming investigation of school strike",
+   "label": "Sky News clip – Pete Hegseth exchange confirming investigation of school strike",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:37:35"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (played clip)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11808*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2239.2",
+   "header": "**A-2239.2** Iranian state-linked news agency footage showing Tomahawk tail fins",
+   "label": "Iranian state-linked news agency footage showing Tomahawk tail fins",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:38:43"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (played clip)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11808*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2240",
+   "header": "**A-2240** Mark Levin Audio Clip Bundle",
+   "label": "Mark Levin Audio Clip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2240.1",
+   "header": "**A-2240.1** Mark Levin segment on arming Iranian protesters / \"ran red with blood\" testimony",
+   "label": "Mark Levin segment on arming Iranian protesters / \"ran red with blood\" testimony",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:43:17"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (played audio)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11815*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2241",
+   "header": "**A-2241** Andrew Kolvet Hotel Screenshot Bundle",
+   "label": "Andrew Kolvet Hotel Screenshot Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2241.1",
+   "header": "**A-2241.1** Still image from Benny Johnson show (Sept 11) showing Andrew Kolvet at Asher Adams Hotel",
+   "label": "Still image from Benny Johnson show (Sept 11) showing Andrew Kolvet at Asher Adams Hotel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:34:29"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (displayed screenshot)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11803*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2242",
+   "header": "**A-2242** Officer Bagley Testimony Bundle",
+   "label": "Officer Bagley Testimony Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2242.1",
+   "header": "**A-2242.1** Trial exchange – defense attorney questioning Bagley on whether he reviewed rooftop video between suspect's jump and his arrival",
+   "label": "Trial exchange – defense attorney questioning Bagley on whether he reviewed rooftop video between suspect's jump and his arrival",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:19:22"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (played audio)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11786, N-10778*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2243",
+   "header": "**A-2243** Blake Neff X Post Bundle",
+   "label": "Blake Neff X Post Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2243.1",
+   "header": "**A-2243.1** Neff post accusing Candace of harassing \"another random Utah police officer\"",
+   "label": "Neff post accusing Candace of harassing \"another random Utah police officer\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:13:19"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (read-aloud)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11776*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2244",
+   "header": "**A-2244** Daily Mail Press Request Bundle",
+   "label": "Daily Mail Press Request Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2244.1",
+   "header": "**A-2244.1** Daily Mail inquiry: \"What steps are you taking if the worst happens and you are raided by law enforcement?\"",
+   "label": "Daily Mail inquiry: \"What steps are you taking if the worst happens and you are raided by law enforcement?\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:14:31"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (read-aloud direct quote)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11778*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2245",
+   "header": "**A-2245** Viewer Comment Bundle (Catholic funeral/cremation)",
+   "label": "Viewer Comment Bundle (Catholic funeral/cremation)",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2245.1",
+   "header": "**A-2245.1** Isabella comment: cremation contrary to Catholic teaching; mock funeral query",
+   "label": "Isabella comment: cremation contrary to Catholic teaching; mock funeral query",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:49:05"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (read-aloud)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11819*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2491",
+   "header": "**A-2491** CIA / DIA Merch Plug Bundle",
+   "label": "CIA / DIA Merch Plug Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2491.1",
+   "header": "**A-2491.1** On-air CIA hat / Candace Intelligence Agency merch plug (verbally referenced; treat as host-presented merch beat).",
+   "label": "On-air CIA hat / Candace Intelligence Agency merch plug (verbally referenced; treat as host-presented merch beat).",
+   "lines": [
+    {
+     "k": "Video Timestamp",
+     "v": "00:52:11"
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "...y a shirt to support us, a sweatshirt. Our iconic Candace intelligent agency hats, our CIA hats, but we are the decentralized intelligence agency. Yeah, that one. The green one's my..."
+    },
+    {
+     "k": "Confidence",
+     "v": "medium"
+    },
+    {
+     "raw": "*Related: C-11823, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2884",
+   "header": "**A-2884** UVU Sept 9 Scoping Source Bundle",
+   "label": "UVU Sept 9 Scoping Source Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2884.1",
+   "header": "**A-2884.1** Host verbal reference to a source who talks to UVU about the Sept 9 campus scoping incident and Mike Lee's office being contacted (nothing shown)",
+   "label": "Host verbal reference to a source who talks to UVU about the Sept 9 campus scoping incident and Mike Lee's office being contacted (nothing shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:09:13"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11768, C-11770, C-11771, C-11772, C-11773, C-11774, C-11775, N-1, N-3, N-40, N-783*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2885",
+   "header": "**A-2885** Robertson Reader Emails Bundle",
+   "label": "Robertson Reader Emails Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2885.1",
+   "header": "**A-2885.1** Host verbal reference to reader emails and sources about Allan Robertson's San Bernardino departure and the USU threat-assessment reason for his presence (not shown)",
+   "label": "Host verbal reference to reader emails and sources about Allan Robertson's San Bernardino departure and the USU threat-assessment reason for his presence (not shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:23:21"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11791, C-11792, C-11793, C-11796, N-1, N-3, N-506, N-748*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2886",
+   "header": "**A-2886** Viewer Comment Bundle",
+   "label": "Viewer Comment Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2886.1",
+   "header": "**A-2886.1** Host reads a viewer comment saying Officer Bagley slipped and said Allen in his testimony",
+   "label": "Host reads a viewer comment saying Officer Bagley slipped and said Allen in his testimony",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"he actually does slip and say Allen at one point, so he definitely knew who the person was.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:30:07"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11795, N-3, N-506, N-748*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2886.2",
+   "header": "**A-2886.2** Host reads the Dog Whisperer comment about Blake having blackouts",
+   "label": "Host reads the Dog Whisperer comment about Blake having blackouts",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Blake don't remember nothing.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:47:08"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11816, N-1, N-159, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2886.3",
+   "header": "**A-2886.3** Host reads the Kate Grand Rapids comment that no other rooftop officers had body cam",
+   "label": "Host reads the Kate Grand Rapids comment that no other rooftop officers had body cam",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Uh, no other rooftop officers had body cam.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:51:22"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11821, N-3, N-506*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2887",
+   "header": "**A-2887** Security Aide Rehabilitation Offer Bundle",
+   "label": "Security Aide Rehabilitation Offer Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2887.1",
+   "header": "**A-2887.1** Host verbal reference to an anonymous country-music figure paying for her security aide's rehabilitation in Florida (nothing shown)",
+   "label": "Host verbal reference to an anonymous country-music figure paying for her security aide's rehabilitation in Florida (nothing shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:31:05"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11797, C-11798, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## IV. Node Register",
+    ""
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10776",
+   "header": "**N-10776** UVU Campus Sept 9 Scoping Incident",
+   "label": "UVU Campus Sept 9 Scoping Incident",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Persistent claim that on Sept 9, 2025 an unidentified individual scoped UVU campus and gave Mike Lee bodyguard cover story to UVU security. Source is verbal (host's \"source from UVU\"), not artifact-documented."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related:*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10777",
+   "header": "**N-10777** Screwdriver Narrative Evolution",
+   "label": "Screwdriver Narrative Evolution",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Persistent discrepancy between Sept 11 CNN framing (\"near the rifle\") and Kash Patel / Bongino clarification (\"on the rooftop\"). Both positions are artifact-anchored within this episode and prior context."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-2238.1, C-11783*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10778",
+   "header": "**N-10778** Officer Bagley Rooftop Video Review Question",
+   "label": "Officer Bagley Rooftop Video Review Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Persistent discrepancy between host's expected investigative practice (review all rooftop footage between suspect jump and officer arrival) and Bagley's testimony that he did not do so."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-2242.1, C-11786*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10779",
+   "header": "**N-10779** Black Nitrile Gloves / Door Compartment Evidence",
+   "label": "Black Nitrile Gloves / Door Compartment Evidence",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Persistent question regarding black nitrile gloves observed in door compartment; whether they are woodworking/CA-glue gloves per host's woodworker-email source."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-2237.1, C-11763, C-11764*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-1",
+   "header": "**N-1** Charlie Kirk",
+   "label": "Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of the assassination; the host refers to him in claims about the investigation and the funeral."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11754, C-11756, C-11761, C-11762, C-11765, C-11766, C-11768, C-11771, C-11782, C-11792, C-11813, C-11816, C-11818*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-2",
+   "header": "**N-2** Erika Kirk",
+   "label": "Erika Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Widow and TPUSA CEO; the host questions her conduct after the assassination."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11754, C-11781, C-11818*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-3",
+   "header": "**N-3** Candace Owens",
+   "label": "Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host; speaks for herself throughout."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11751, C-11752, C-11753, C-11754, C-11756, C-11757, C-11758, C-11759, C-11760, C-11761, C-11762, C-11765, C-11766, C-11767, C-11768, C-11771, C-11772, C-11773, C-11774, C-11775, C-11777, C-11779, C-11780, C-11781, C-11782, C-11784, C-11785, C-11789, C-11790, C-11791, C-11792, C-11793, C-11794, C-11795, C-11796, C-11797, C-11798, C-11799, C-11800, C-11801, C-11802, C-11804, C-11805, C-11806, C-11810, C-11811, C-11813, C-11812, C-11814, C-11816, C-11817, C-11818, C-11820, C-11821, C-11822*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-5",
+   "header": "**N-5** Donald Trump",
+   "label": "Donald Trump",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Donald Trump; named in the host's account of the Iran school strike statements."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11805, C-11807, C-11814*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-7",
+   "header": "**N-7** Frank Turek",
+   "label": "Frank Turek",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Frank Turek; the podcast clip and the host's response to his Bible-based remarks."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11751, C-11756, C-11757, C-11765, C-11822*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11",
+   "header": "**N-11** Tyler Bowyer",
+   "label": "Tyler Bowyer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Tyler Bowyer; tied by internet sleuths to the Salt Lake City hotel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11802*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-14",
+   "header": "**N-14** Andrew Kolvet",
+   "label": "Andrew Kolvet",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Andrew Kolvet; his Sept 11 news hit from the hotel room."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11801, C-11802*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-22",
+   "header": "**N-22** Tucker Carlson",
+   "label": "Tucker Carlson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Tucker Carlson; mentioned in Turek's rhetoric and the host's account of Neff's history."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11817, C-11822*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-40",
+   "header": "**N-40** Tyler Robinson",
+   "label": "Tyler Robinson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Tyler Robinson; the accused. The host discusses what has and has not been shown against him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11752, C-11758, C-11759, C-11760, C-11761, C-11762, C-11774, C-11775*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-69",
+   "header": "**N-69** Kash Patel",
+   "label": "Kash Patel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Kash Patel; named in the screwdriver clarification and the transparency promises."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11781, C-11784*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-89",
+   "header": "**N-89** Benny Johnson",
+   "label": "Benny Johnson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Benny Johnson; host of the show on which Kolvet appeared from the hotel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11802*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-125",
+   "header": "**N-125** Mike Mitchell",
+   "label": "Mike Mitchell",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Mike Mitchell; the host's 'Mike Mitchell' undercover-officer account of the surrender (name matched by sound; see flags)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11759*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-159",
+   "header": "**N-159** Blake Neff",
+   "label": "Blake Neff",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Blake Neff; the host answers his X post and questions his hotel and Sept 10 memory."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11752, C-11753, C-11758, C-11777, C-11799, C-11800, C-11801, C-11816, C-11817*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-244",
+   "header": "**N-244** Mark Levin",
+   "label": "Mark Levin",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Mark Levin; his Iran remarks and the host's claim Trump follows him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11814*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-367",
+   "header": "**N-367** Danny Philip",
+   "label": "Danny Philip",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Danny Philip; named as the person with Neff in Salt Lake City."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11800*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-378",
+   "header": "**N-378** Dan Bongino",
+   "label": "Dan Bongino",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Dan Bongino; named in the screwdriver clarification and transparency promises."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11781, C-11784*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-506",
+   "header": "**N-506** Christopher Bagley",
+   "label": "Christopher Bagley",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Officer Christopher Bagley; his testimony on the rooftop video, body cam and companion."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11753, C-11785, C-11787, C-11788, C-11789, C-11790, C-11793, C-11794, C-11795, C-11821*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-591",
+   "header": "**N-591** Pete Hegseth",
+   "label": "Pete Hegseth",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Pete Hegseth; his statements on the Iran school strike."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11805, C-11807*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-681",
+   "header": "**N-681** Jon Bray",
+   "label": "Jon Bray",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Jon Bray; credited with showing the road mic glass is sticky."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11767*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-748",
+   "header": "**N-748** Allan Robertson",
+   "label": "Allan Robertson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Allan Robertson; USU officer on the rooftop, subject of the Brady and threat-assessment update."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11791, C-11792, C-11793, C-11795, C-11796*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10006",
+   "header": "**N-10006** Fox News",
+   "label": "Fox News",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Fox News; the network Neff was let go from, per the host."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11817*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10012",
+   "header": "**N-10012** Utah Valley University",
+   "label": "Utah Valley University",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Utah Valley University; site of the Sept 10 event and the Sept 9 incident."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11768, C-11771*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10026",
+   "header": "**N-10026** Israel",
+   "label": "Israel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Israel; the host's religious characterization of the state."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11811*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10028",
+   "header": "**N-10028** Utah Valley University Campus",
+   "label": "Utah Valley University Campus",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Utah Valley University Campus; location of the Sept 9 scoping."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11772*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10070",
+   "header": "**N-10070** Daily Mail",
+   "label": "Daily Mail",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Daily Mail; sender of the press request about a raid."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11780*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10090",
+   "header": "**N-10090** Screwdriver Evidence Question",
+   "label": "Screwdriver Evidence Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Screwdriver Evidence Question; reused for the leak-origin and planting claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11782*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10110",
+   "header": "**N-10110** Tyler Robinson Evidence Gaps",
+   "label": "Tyler Robinson Evidence Gaps",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Tyler Robinson Evidence Gaps; reused for the host's list of unshown evidence."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11758*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10151",
+   "header": "**N-10151** Mike Mitchell Undercover Role Verification",
+   "label": "Mike Mitchell Undercover Role Verification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Mike Mitchell Undercover Role Verification; reused for the surrender story."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11759*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10323",
+   "header": "**N-10323** Charlie Kirk Burial Status / Catholic Funeral Mass",
+   "label": "Charlie Kirk Burial Status / Catholic Funeral Mass",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Charlie Kirk Burial Status / Catholic Funeral Mass; reused for the funeral comment."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11818*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10344",
+   "header": "**N-10344** Candace Owens Security Arrangement",
+   "label": "Candace Owens Security Arrangement",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Candace Owens Security Arrangement; reused for the aide's rehabilitation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11797, C-11798*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10541",
+   "header": "**N-10541** Strait of Hormuz / US-Iran War Context",
+   "label": "Strait of Hormuz / US-Iran War Context",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Strait of Hormuz / US-Iran War Context; reused for the Iran war claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11804, C-11812*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10634",
+   "header": "**N-10634** Tyler Robinson Roommate Question",
+   "label": "Tyler Robinson Roommate Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Tyler Robinson Roommate Question; reused for the boyfriend testimony."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11761*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10715",
+   "header": "**N-10715** Blake Neff September 10th Movement Discrepancy",
+   "label": "Blake Neff September 10th Movement Discrepancy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Blake Neff September 10th Movement Discrepancy; reused for his hotel and memory claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11799, C-11800, C-11801*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10725",
+   "header": "**N-10725** Officer Bagley Body-Cam Battery Anomaly",
+   "label": "Officer Bagley Body-Cam Battery Anomaly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Officer Bagley Body-Cam Battery Anomaly; reused for the body cam claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11785, C-11821*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10731",
+   "header": "**N-10731** Screwdriver Footage Graininess Discrepancy",
+   "label": "Screwdriver Footage Graininess Discrepancy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Screwdriver Footage Graininess Discrepancy; reused for the Patel and Bongino clarification."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11784*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10732",
+   "header": "**N-10732** Salt Lake City Hotel Identification Gap",
+   "label": "Salt Lake City Hotel Identification Gap",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Salt Lake City Hotel Identification Gap; reused for the Asher Adams hotel claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11799, C-11801, C-11802*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10751",
+   "header": "**N-10751** Charlie Kirk Cremation/Burial Status Verification",
+   "label": "Charlie Kirk Cremation/Burial Status Verification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Charlie Kirk Cremation/Burial Status Verification; reused for the mock funeral remark."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11818*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10754",
+   "header": "**N-10754** Rooftop Movement Tactical Analysis",
+   "label": "Rooftop Movement Tactical Analysis",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Rooftop Movement Tactical Analysis; reused for the crawl debunk claim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11820*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10772",
+   "header": "**N-10772** Officer Bagley Rooftop Companion Identification",
+   "label": "Officer Bagley Rooftop Companion Identification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Officer Bagley Rooftop Companion Identification; reused for the companion and Robertson claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11753, C-11789, C-11790, C-11793, C-11795*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10773",
+   "header": "**N-10773** Body Cam Battery Failure Circumstances",
+   "label": "Body Cam Battery Failure Circumstances",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Body Cam Battery Failure Circumstances; reused for the missing warning claim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11785*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10774",
+   "header": "**N-10774** Allan Robertson Brady List Entry / San Bernardino Transfer",
+   "label": "Allan Robertson Brady List Entry / San Bernardino Transfer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Allan Robertson Brady List Entry / San Bernardino Transfer; reused for the Robertson update."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11791, C-11796*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11057",
+   "header": "**N-11057** Blake Neff Employment History Account",
+   "label": "Blake Neff Employment History Account",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Blake Neff Employment History Account; reused for the Fox and Tucker remarks."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11816, C-11817*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-783",
+   "header": "**N-783** Mike Lee",
+   "label": "Mike Lee",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "09:13 in episode 137 (spelled Mike Shamway Lee in the transcript). Utah senator the host says was slated to attend the Sept 10 UVU event and whose name was used as a cover story.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11768, C-11770, C-11769, C-11771, C-11772, C-11773*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11144",
+   "header": "**N-11144** USU Officers Threat Assessment at UVU Explanation",
+   "label": "USU Officers Threat Assessment at UVU Explanation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The host's account that Utah State University officers including Allan Robertson were at UVU on Sept 10 to assess a planned USU Kirk event 10 days later, not in coordination with Charlie's security or UVU police."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11792*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11145",
+   "header": "**N-11145** Minab Iran School Strike",
+   "label": "Minab Iran School Strike",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Place"
+    },
+    {
+     "raw": "The strike on an elementary school in Minab, Iran, early in the US-Iran war, discussed through the Sky News investigation and the Trump and Hegseth statements."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11804, C-11805, C-11806, C-11807, C-11809, C-11810, C-11811, C-11813*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## V. Claim Register",
+    ""
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11755",
+   "header": "**C-11755** Frank Turek invoked Exodus 22:22 and Deuteronomy 19 in commentary directed at Candace Owens on Nicholas Bowling's podcast",
+   "label": "Frank Turek invoked Exodus 22:22 and Deuteronomy 19 in commentary directed at Candace Owens on Nicholas Bowling's podcast",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:17"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Frank Turek, on a Nicholas Bowling podcast episode airing roughly Aug 3, 2026, cited Exodus 22:22 and Deuteronomy 19 in commentary accusing Candace Owens of falsely accusing people."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2236.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-7"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full Nicholas Bowling podcast episode audio/transcript to verify the exact wording and surrounding context."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11763",
+   "header": "**C-11763** Woodworker Email Says Black Nitrile Gloves Are Most Resistant to CA Glue and Adhesive",
+   "label": "Woodworker Email Says Black Nitrile Gloves Are Most Resistant to CA Glue and Adhesive",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:24"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "A woodworker email received by Candace Owens's production states that black nitrile gloves are the most resistant to CA glue (super glue) and spray activator adhesive."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2237.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10779"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify CA glue / nitrile glove compatibility through woodworking safety data sheets or trade sources."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11783",
+   "header": "**C-11783** CNN article on Sept 11, 2025 reported screwdriver was found \"near the recovered rifle\"",
+   "label": "CNN article on Sept 11, 2025 reported screwdriver was found \"near the recovered rifle\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "A CNN article dated September 11, 2025 stated that authorities recovered a screwdriver near the rifle believed used in the Charlie Kirk shooting, framing the screwdriver as evidence the shooter may have disassembled/reassembled the firearm."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2238.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10777"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare this framing against the later (approx. Sept 15, 2025) Kash Patel / Bongino statement that the screwdriver was on the rooftop; obtain the original CNN article in full."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11786",
+   "header": "**C-11786** Officer Bagley testified he did not review rooftop video between the suspect jumping off and his arrival",
+   "label": "Officer Bagley testified he did not review rooftop video between the suspect jumping off and his arrival",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "During cross-examination, Officer Christopher Bagley testified that he did not review the police department video footage to determine whether anyone else had been on the rooftop between the suspect's jump and his own arrival."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2242.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-506"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10778"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain trial transcripts or full video of Bagley's testimony to confirm wording and any clarification given."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11803",
+   "header": "**C-11803** Host Says Andrew Kolvet Appeared on Benny Johnson's Show from a Room at the Asher Adams Hotel in Salt Lake City on Sept 11, 2025",
+   "label": "Host Says Andrew Kolvet Appeared on Benny Johnson's Show from a Room at the Asher Adams Hotel in Salt Lake City on Sept 11, 2025",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:29"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says a still she shows from Benny Johnson's show on September 11, 2025 shows Andrew Kolvet broadcasting from a room at the Asher Adams (Autograph Collection) Hotel in Salt Lake City."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2241.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-89, N-14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm via hotel guest logs (subject to availability) or via further visual artifacts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11808",
+   "header": "**C-11808** Sky News investigation identified Tomahawk missile tail fins in footage of the Iranian school strike",
+   "label": "Sky News investigation identified Tomahawk missile tail fins in footage of the Iranian school strike",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:05"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "A Sky News investigation, drawing on footage from an Iranian state-linked news agency of a strike on buildings near the school, identified the distinctive tail fins of a Tomahawk missile; Sky News also stated a US carrier strike group was within range and that Tomahawks are precision-guided with onboard cameras."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2239.1, A-2239.2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Watch the full Sky News documentary segment; cross-reference carrier strike group positioning via Pentagon releases."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11815",
+   "header": "**C-11815** Mark Levin publicly called for arming Iranian protesters",
+   "label": "Mark Levin publicly called for arming Iranian protesters",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:43:17"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In an audio segment the host plays, Mark Levin urges arming Iranian protesters and references testimony from a protest leader describing Iranian streets running \"red with blood.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2240.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-244"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the original Levin broadcast (date, program) for full context."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11776",
+   "header": "**C-11776** Blake Neff publicly accused Candace Owens of harassing a random Utah police officer",
+   "label": "Blake Neff publicly accused Candace Owens of harassing a random Utah police officer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Blake Neff posted on X accusing Candace Owens of harassing \"another random Utah police officer,\" accusing her of seeking dirt on him via former Marines, and characterizing her work as harassment for her \"grift.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2243.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-159"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate Neff's exact X post URL to confirm timestamp and surrounding context."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11778",
+   "header": "**C-11778** Daily Mail press request asked Candace Owens about contingency planning in case of a law enforcement raid",
+   "label": "Daily Mail press request asked Candace Owens about contingency planning in case of a law enforcement raid",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The Daily Mail, in a press request received by Candace Owens's team on or about Aug 3, 2026, asked what steps she is taking \"if the worst happens and you are raided by law enforcement.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2244.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm via Daily Mail editorial record or correspondence log."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11764",
+   "header": "**C-11764** Host states her team fact-checked the woodworker email claim and verified its accuracy",
+   "label": "Host states her team fact-checked the woodworker email claim and verified its accuracy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Candace Owens states her team looked up and verified the woodworker's email claim that black nitrile gloves are the most resistant to CA glue/spray activator, characterizing it as \"100% true.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2237.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10779"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Request the team's fact-check documentation; cross-reference with independent woodworking/safety sources."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11819",
+   "header": "**C-11819** Some Catholic funeral homes in Arizona offer cremation services, contrary to standard Catholic doctrine",
+   "label": "Some Catholic funeral homes in Arizona offer cremation services, contrary to standard Catholic doctrine",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:49:05"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Candace Owens states that, contrary to Catholic doctrine prohibiting cremation, certain Catholic funeral homes in Arizona do in fact offer cremation services; she confirmed this via her own lookup."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2245.1 (viewer comment prompting the lookup)"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Cross-reference with the Diocese of Phoenix / Catholic Diocese of Arizona guidelines and named funeral homes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11824",
+   "header": "**C-11824** Host identifies show community as Decentralized Intelligence Agency",
+   "label": "Host identifies show community as Decentralized Intelligence Agency",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:53:44"
+    },
+    {
+     "k": "Claim",
+     "v": "The host says, while plugging merch, 'we are the decentralized intelligence agency'."
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "...lligent agency hats, our CIA hats, but we are the decentralized intelligence agency. Yeah, that one. The green one's my favorite. The hunter green one is the one that I wear around to..."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11823",
+   "header": "**C-11823** CIA hat merch framed as Candace / Decentralized Intelligence Agency brand",
+   "label": "CIA hat merch framed as Candace / Decentralized Intelligence Agency brand",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:53:41"
+    },
+    {
+     "k": "Claim",
+     "v": "The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand."
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "...y a shirt to support us, a sweatshirt. Our iconic Candace intelligent agency hats, our CIA hats, but we are the decentralized intelligence agency. Yeah, that one. The green one's my..."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2491.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Confidence",
+     "v": "medium"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm on-screen merch graphic if available; reuse M-14 when exact Candace Intelligence Agency phrase airs."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11751",
+   "header": "**C-11751** Host Says Turek Is Trending on X for Using the Bible to Say She Should Be Struck Down",
+   "label": "Host Says Turek Is Trending on X for Using the Bible to Say She Should Be Struck Down",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:00:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Frank Turek is going viral and trending on X for seemingly using the Bible to message that she should be struck down, and that it is not the first time he has done so."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Frank Turek is actually going viral right now, trending on X for seemingly using the Bible to message that I should be struck down."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-7, N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Capture the Turek post or podcast clip and X trending data for 2026-08-03 to 2026-08-04 to confirm the trend and the wording."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11752",
+   "header": "**C-11752** Host Says Neff Accuses Her of Putting Innocent Lives at Risk",
+   "label": "Host Says Neff Accuses Her of Putting Innocent Lives at Risk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:00:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Blake Neff claims she is putting innocent lives at risk, and she replies that he does so himself by continually calling for Tyler Robinson's conviction in the absence of evidence."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "But no, Blakey says I'm putting innocent lives at risk. Really? How?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-3, N-40"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate Neff's X post making the 'innocent lives at risk' statement and compare it with his public statements on the Robinson case."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11753",
+   "header": "**C-11753** Host Says Yesterday's Episode Solved Who Was on the Rooftop With Officer Bagley",
+   "label": "Host Says Yesterday's Episode Solved Who Was on the Rooftop With Officer Bagley",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:00:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that in the previous episode her team solved the mystery of who was on the rooftop at the Losee Center with Officer Bagley, and that Neff did not thank her for it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "for having solved the mystery of who was on the rooftop at Loy Center with Officer Bagley."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-506, N-159"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10772"
+    },
+    {
+     "k": "Supports",
+     "v": "C-11702"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the host's identification of the companion in episode 136 with Bagley's testimony and the 12:47 PM bystander footage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11754",
+   "header": "**C-11754** Host Says Erika Was on a Corporate Zoom Call Laughing at Emojis Within Six Days",
+   "label": "Host Says Erika Was on a Corporate Zoom Call Laughing at Emojis Within Six Days",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:01:27"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a sarcastic list of the public-relations story the host says she is being asked to accept, she states that Erika Kirk took over the entire company and was on a corporate Zoom call laughing at emojis within six days of her husband's assassination."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "is on a corporate Zoom call laughing at emojis within six days of her husband's public assassination?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-1, N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the video or screenshots of the TPUSA corporate Zoom call and its date to test the six-day claim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11756",
+   "header": "**C-11756** Turek Says the Lies and Slander After Kirk's Death Are Demonic and Names Candace Owens",
+   "label": "Turek Says the Lies and Slander After Kirk's Death Are Demonic and Names Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:17"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the Nicholas Bowling podcast clip, Frank Turek says that since Charlie Kirk was murdered there have been lies, accusations and slander, calls this spiritual warfare and demonic activity, and says he is talking about Candace Owens."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "This is spiritual warfare. This is demonic activity. >> Yeah. I'm talking about Candace Owens."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2236.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-7, N-3, N-1"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full Nicholas Bowling podcast audio to confirm the wording and who spoke each line."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11757",
+   "header": "**C-11757** Turek Says Owens Insinuates Murder Accusations Without Evidence",
+   "label": "Turek Says Owens Insinuates Murder Accusations Without Evidence",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the podcast clip, Frank Turek says Candace Owens accuses or insinuates that people are guilty of murder without evidence 'left and right' and calls that evil."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "You don't accuse people of murder without evidence, but that's what she's doing left and right. She's insinuating it left and right."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2236.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-7, N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare Turek's characterization with the host's actual statements about named individuals across the series."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11758",
+   "header": "**C-11758** Host Says the Prosecution Side Never Showed Video of the Shot, a Gun Link or the Screwdriver Drop",
+   "label": "Host Says the Prosecution Side Never Showed Video of the Shot, a Gun Link or the Screwdriver Drop",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:58"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the bar was low: all that was needed was video of Tyler Robinson taking the shot, a connection of the gun to the crime scene, or video of him dropping the screwdriver and assembling the gun on the rooftop, and none of this has been shown."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "All they had to do uh, was show us the video of him taking the shot. All they had to do was somehow connect the gun to the crime scene."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-40, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10110"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the preliminary hearing exhibit list and discovery for any footage of the shooting or evidence linking the rifle to the scene."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11759",
+   "header": "**C-11759** Host Says the Claim That Robinson's Parents Turned Him In Was Never Backed With Evidence",
+   "label": "Host Says the Claim That Robinson's Parents Turned Him In Was Never Backed With Evidence",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:54"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that, from the beginning, the claim that Tyler Robinson's parents turned him in was never shown, and that instead the public heard a story about Mike Mitchell, whom she describes as an undercover officer his entire life, pressuring Robinson to come in peacefully or officers would knock in the doors."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Nothing they have said since the very beginning. Tyler Robinson's parents turned them in. Had they showed us that? Nope."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-40, N-125, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10151"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check court filings and the Washington County statements for the surrender sequence and for who contacted Robinson's parents and the pastor."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11760",
+   "header": "**C-11760** Host Says the Claim Robinson Was in a Relationship With a Transgender Person Has Not Checked Out",
+   "label": "Host Says the Claim Robinson Was in a Relationship With a Transgender Person Has Not Checked Out",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:54"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says people have lied about Tyler Robinson at every stage, including by describing him as transgender or in a relationship with a transgender person, and that this has not checked out."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "including by describing him as a a transgendered or or being in a relationship with somebody that's transgendered. That hasn't checked out."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-40, N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare official statements and hearing testimony about Robinson's relationship with the host's characterization."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11761",
+   "header": "**C-11761** Host Says the Boyfriend's Testimony Was That Robinson Was Not Political and Never Discussed Kirk",
+   "label": "Host Says the Boyfriend's Testimony Was That Robinson Was Not Political and Never Discussed Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:54"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says testimony from Tyler Robinson's boyfriend was that Robinson was not into politics and that they never discussed Charlie Kirk in their relationship, which she contrasts with the claim of a politically motivated murder."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We heard testimony from his boyfriend who says, \"No, he wasn't into politics. We never discussed Charlie Kirk ever in our relationship."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-40, N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10634"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the preliminary hearing transcript of the roommate or partner testimony and check the exact words on politics and Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11762",
+   "header": "**C-11762** Host Says There Is More Evidence Kirk Was Killed by an Exploding Mic Than by Robinson From the Rooftop",
+   "label": "Host Says There Is More Evidence Kirk Was Killed by an Exploding Mic Than by Robinson From the Rooftop",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:32"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that, from where she sits, there is currently more evidence that Charlie Kirk was killed by an exploding microphone than that he was shot from the Losee rooftop by Tyler Robinson."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "there is currently more evidence that Charlie Kirk was killed from an exploding mic than there is that he was shot from uh Loy Rooftop by Tyler Robinson."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-40, N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "List the host's evidence for the microphone theory and the prosecution's exhibits for the rooftop shot and compare them side by side."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11765",
+   "header": "**C-11765** Host Says Turek Said He Stuck His Fingers Into Kirk's Neck and Tasted Blood",
+   "label": "Host Says Turek Said He Stuck His Fingers Into Kirk's Neck and Tasted Blood",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Frank Turek told the public he stuck his fingers into Charlie Kirk's neck, had blood all over him and could taste it in his mouth, and asks when he would have put on black nitrile gloves."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Frank told us he stuck his fingers right into Charlie's neck. He had blood all over him. He could taste it in his mouth."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-7, N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10779"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find Turek's original interview or retelling and confirm the exact words about his fingers and the blood."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11766",
+   "header": "**C-11766** Host Says the Unreleased 911 Call Has Voices in the Back Saying to Get Something Off Him",
+   "label": "Host Says the Unreleased 911 Call Has Voices in the Back Saying to Get Something Off Him",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her team broke the story that the still-unreleased 911 call captures people in the back of the vehicle saying 'Get that off of him', and she floats that this could relate to the gloves."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We've also broke the story that the 911 call, which is yet to be released. They hear them in the back saying, \"Get that off of him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10779"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the 911 call audio and CAD record from Utah County dispatch and check for the phrase and the speakers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11767",
+   "header": "**C-11767** Host Recalls Jon Bray Showed the Road Microphone Glass Is Very Sticky",
+   "label": "Host Recalls Jon Bray Showed the Road Microphone Glass Is Very Sticky",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Jon Bray showed that the glass for the Rode microphone is very sticky, and that woodworkers use black nitrile gloves to handle superglue because adhesive wipes off easily."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Remember John Bray showed us that that glass for the road mic is very, very, very sticky."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2237.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-681, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10779"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review John Bray's earlier demonstration and the microphone's materials to see whether the adhesive claim holds."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11768",
+   "header": "**C-11768** Host Says Senator Mike Lee Was Slated to Attend the September 10 UVU Event",
+   "label": "Host Says Senator Mike Lee Was Slated to Attend the September 10 UVU Event",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Utah Senator Mike Lee was slated to attend the Charlie Kirk event at Utah Valley University on September 10, and that this is not unusual because local politicians and donors often come to say a few words."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Senator Lee was actually slated to attend the Charlie Kirk event at UVU on September 10th."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2884.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-783, N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10012, N-10776"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask Senator Lee's office and TPUSA for the event invitation list and whether Lee was ever confirmed as an attendee."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11770",
+   "header": "**C-11770** Host Says Lee Cancelled Early That Week Because of NDAA Votes",
+   "label": "Host Says Lee Cancelled Early That Week Because of NDAA Votes",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that, as the DC story goes, Senator Lee cancelled early in the week because votes on the National Defense Authorization Act were taking place in Washington, and that TPUSA knew he was coming."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "that week the senator had to cancel very early on in the week due to the National Defense Authorization Act"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2884.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-783"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10776"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the Senate schedule and NDAA floor votes for the week of September 8, 2025 and any Lee office statement about the cancellation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11769",
+   "header": "**C-11769** Host Gives Background on Mike Lee's Birth and Father",
+   "label": "Host Gives Background on Mike Lee's Birth and Father",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Mike Lee was born in Arizona, spent most of his upbringing in Utah and comes from a well-to-do family, with a father who was founding dean of BYU's law school program."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "His father was actually the founding dean of BYU's law school program."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-783"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check Lee's official biography for his birthplace and his father's role at BYU Law."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11771",
+   "header": "**C-11771** Host Says Her UVU Source Says Lee Was Contacted After the Assassination About Something Unusual the Day Before",
+   "label": "Host Says Her UVU Source Says Lee Was Contacted After the Assassination About Something Unusual the Day Before",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:37"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says a UVU source told her that after the assassination Mike Lee was contacted because of something unusual that took place on campus the day before the shooting, after he had already cancelled."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I've got a source that UVU tells me that after the assassination of Charlie, Mike Lee was contacted due to something unusual that took place on campus the day before the shooting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2884.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-783, N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10776, N-10012"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask UVU police and Senator Lee's office whether Lee's office was contacted after September 10, 2025 about a campus incident and what was said."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11772",
+   "header": "**C-11772** Host Says a Suspicious Person on UVU Campus on September 9 Told Security He Was Lee's Bodyguard",
+   "label": "Host Says a Suspicious Person on UVU Campus on September 9 Told Security He Was Lee's Bodyguard",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:58"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that on September 9 a person who looked suspicious and appeared to be scoping out the UVU campus was approached by security and said he was Senator Mike Lee's bodyguard checking the area ahead of the event, and was let go."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he told the campus security that he was Senator Mike Lee's bodyguard, scoping out the area to ensure that the senator was going to be safe ahead of the event."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2884.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-783, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10776, N-10028"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Request UVU security and police incident logs, radio traffic and any field-contact record for September 9, 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11773",
+   "header": "**C-11773** Host Says Lee's Office Had Already Cancelled and Lee Has No Security Team",
+   "label": "Host Says Lee's Office Had Already Cancelled and Lee Has No Security Team",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:58"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Lee's office had already cancelled by the time of the September 9 incident, and that her own digging suggests Lee does not have a security apparatus or team, so the bodyguard story was untrue."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And I have done some digging and it also appears that Mike Lee is pretty down to earth. He doesn't actually have a security apparatus, a security team."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2884.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-783, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10776"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask Lee's Senate office whether any staff or security accompanied him to Utah events in September 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11774",
+   "header": "**C-11774** Host Says the Scoper Knew Enough to Offer a Plausible Cover Story and That Few People Had the Attendee List",
+   "label": "Host Says the Scoper Knew Enough to Offer a Plausible Cover Story and That Few People Had the Attendee List",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:11"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the person on campus had enough information to give a legitimate-sounding excuse, and that only a small group would have known the attendee list, a group she argues would not include Tyler Robinson."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "there was only a small group of people who would have been privy to that knowledge, who would have been privy of the attendee list."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2884.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-40, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10776"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify who at TPUSA, UVU and campus clubs had access to the attendee list before September 9."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11775",
+   "header": "**C-11775** Host Lists Who Would Have Known Lee's Attendance and Says No Footage of the Man Is Known",
+   "label": "Host Lists Who Would Have Known Lee's Attendance and Says No Footage of the Man Is Known",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says TPUSA event staff, club students, university planners and possibly UVU police would have known who was attending Lee's planned appearance, and says 'No footage must exist' of the man who scoped the campus the day before."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Certainly Turning Point USA event staff would have known. Club students would have known."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2884.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-783, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10776"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask UVU for camera coverage of the September 9 contact and a list of everyone who received the VIP attendee list."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11777",
+   "header": "**C-11777** Host Quotes Neff Saying She Suggests the Officer Moved to Utah a Year Before and Earlier Targeted a Sergeant",
+   "label": "Host Quotes Neff Saying She Suggests the Officer Moved to Utah a Year Before and Earlier Targeted a Sergeant",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads Neff's post as saying she suggests it is suspicious that the officer moved to Utah a year before Charlie's shooting, and that she earlier went after a police sergeant two weeks before and then got bored."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "suggests that is suspiciously timed that he moved to Utah a year before Charlie's shooting"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2243.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-3"
+    },
+    {
+     "k": "Supports",
+     "v": "C-11776"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate Neff's exact X post to confirm the sergeant and move-date wording."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11779",
+   "header": "**C-11779** Host Says TPUSA-Side Accounts Are Calling for Her Home to Be Raided Over the Rooftop Video",
+   "label": "Host Says TPUSA-Side Accounts Are Calling for Her Home to Be Raided Over the Rooftop Video",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says people on TPUSA's platform are calling for her home to be raided for sharing the video of the man on the rooftop who looks like he has military experience."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "posting people on your platform that are calling for my home to be raided for sharing the video of the guy who certainly looks like he's got some military experience on the rooftop."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the specific posts calling for a raid of the host's home and who amplified them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11780",
+   "header": "**C-11780** Host Says the Daily Mail Request Concerned the Rooftop Footage Her Team Released",
+   "label": "Host Says the Daily Mail Request Concerned the Rooftop Footage Her Team Released",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Daily Mail press request arrived the day before and was about the footage her team released of the rooftop man tactically crawling across the Losee Center and jumping off like Spider-Man."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we actually received a press request from the Daily Mail yesterday regarding the footage that we released of the rooftop man"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2244.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10070"
+    },
+    {
+     "k": "Supports",
+     "v": "C-11778"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the Daily Mail request email to confirm date, sender and the full question list."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11781",
+   "header": "**C-11781** Host Says Bongino, Patel, Erika Kirk and TPUSA Publicly Promised Transparency",
+   "label": "Host Says Bongino, Patel, Erika Kirk and TPUSA Publicly Promised Transparency",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the consistent public messaging from Dan Bongino, Kash Patel, Erika Kirk and Turning Point USA was that they wanted nothing but transparency, and says her own team did not edit the videos or lie about what was on the footage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Dan Bongino, Kash Patel, Erika Kirk, Turning Point USA. We didn't edit the videos. We don't lie about what was on the footage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-378, N-69, N-2, N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Collect each named person's public transparency statements and test them against what has been released."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11782",
+   "header": "**C-11782** Host Says the Screwdriver Story Began With a Law Enforcement Leak Placing It Near the Rifle",
+   "label": "Host Says the Screwdriver Story Began With a Law Enforcement Leak Placing It Near the Rifle",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:02"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the screwdriver story surfaced less than 24 hours after the assassination through a law enforcement leak to the press, and the initial leak said it was found near the rifle rather than on the Losee rooftop."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We learned about the screwdriver because someone in law enforcement leaked information to the press."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2238.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10777, N-10090"
+    },
+    {
+     "k": "Supports",
+     "v": "C-11783"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the September 11, 2025 reports and their anonymous law-enforcement sources, and compare them with later official accounts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11784",
+   "header": "**C-11784** Host Says Public Backlash Followed the CNN Screwdriver Story and Patel and Bongino Clarified Four Days Later It Was on the Rooftop",
+   "label": "Host Says Public Backlash Followed the CNN Screwdriver Story and Patel and Bongino Clarified Four Days Later It Was on the Rooftop",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says blue-collar readers revolted against the CNN screwdriver story, and that four days later Kash Patel and Dan Bongino clarified that the footage is grainy but the screwdriver was found on the rooftop."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "4 days later we hear from Kash Patel and Dan Bongino and they clarify that you know the footage is grainy uh but the screwdriver was actually found on the rooftop"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2238.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-69, N-378, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10777, N-10731"
+    },
+    {
+     "k": "Supports",
+     "v": "C-10923"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the September 15, 2025 Patel and Bongino statements and compare them with the September 11 CNN wording."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11785",
+   "header": "**C-11785** Host Says Bagley's Body Cam Died Without the Expected Warning Beeps or Red Flashing",
+   "label": "Host Says Bagley's Body Cam Died Without the Expected Warning Beeps or Red Flashing",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Officer Bagley's body cam died seemingly without warning at the right time, and that there should have been beeping or flashing red before it shut off."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "his body cam dies seemingly without warning at exactly the right time. And there's a ton of warning that should have been happening."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-506, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10725, N-10773"
+    },
+    {
+     "k": "Supports",
+     "v": "C-10867"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the body cam model's warning-behavior specification and the Axon audit log for Bagley's device."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11787",
+   "header": "**C-11787** Bagley Testified He First Saw the Suspect Jump Off the Building When He Reviewed Video at the Police Department",
+   "label": "Bagley Testified He First Saw the Suspect Jump Off the Building When He Reviewed Video at the Police Department",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the played testimony, Officer Bagley says people were up on the roof looking for an individual who ran north, and that it was not until he went to the police department and saw the video that he knew the individual had jumped off the building."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it wasn't until I went to the PD and actually saw him jump off of the building that I knew he was off the building."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2242.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-506"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10778"
+    },
+    {
+     "k": "Supports",
+     "v": "C-10873"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full trial transcript of Bagley's cross-examination and the police department video he reviewed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11788",
+   "header": "**C-11788** Bagley Said He Did Not Notice Anybody on the Roof; Defense Put It to Him That He Did Not Review the Video",
+   "label": "Bagley Said He Did Not Notice Anybody on the Roof; Defense Put It to Him That He Did Not Review the Video",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:18"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the played testimony, Bagley answers 'I didn't notice anybody' when asked whether he checked for anyone on the roof between the suspect's jump and his arrival, and the defense attorney then puts to him that he did not review the video to see whether anybody had been on or disturbed the scene."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "So, you did not review the video to see if there was someone between you that individual jumping off and you coming on"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2242.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-506"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10778"
+    },
+    {
+     "k": "Supports",
+     "v": "C-11786"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare this exchange with the court record to confirm Bagley's final answer."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11789",
+   "header": "**C-11789** Host Says Somebody Did Get on the Rooftop Before Bagley at 12:44",
+   "label": "Host Says Somebody Did Get on the Rooftop Before Bagley at 12:44",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:54"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she can exclusively tell viewers that the answer to whether anybody got on the rooftop before Officer Bagley, after the person Bagley says shot Charlie Kirk jumped off and before he arrived at 12:44 p.m., is yes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I can exclusively tell you guys that the answer to that question is yes. Yes, somebody did get on that rooftop before you, didn't he, Officer Bagley?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2242.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-506, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10772, N-10778"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain rooftop video between the jump and 12:44 p.m. and identify anyone who appears on the Losee roof before Bagley."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11790",
+   "header": "**C-11790** Host Says the Unknown Person Could Have Planted the Screwdriver",
+   "label": "Host Says the Unknown Person Could Have Planted the Screwdriver",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:54"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that if Bagley found a screwdriver and somebody was on the rooftop after the shooter left, it is plausible that this unknown person could have planted the screwdriver."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it's plausible that this unknown person could have planted the screwdriver."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-506, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10777, N-10772"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Establish a time-stamped chain of custody for the screwdriver and who was on the roof before it was logged."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11791",
+   "header": "**C-11791** Host Says Emails About a Different Allen Were Wrong and Peers Say Robertson Left San Bernardino on Good Terms",
+   "label": "Host Says Emails About a Different Allen Were Wrong and Peers Say Robertson Left San Bernardino on Good Terms",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says many emails misspelled Allan Robertson's name and described a different Allen, and that other people tied to San Bernardino police told her he was not let go or transferred over conduct issues and left willingly on good terms to raise his kids."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He said he abs absolutely was not let go or transferred over any conduct issues."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2885.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-748, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10774"
+    },
+    {
+     "k": "Qualifies",
+     "v": "C-11715"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain Robertson's San Bernardino employment separation records and the Brady list entry details."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11792",
+   "header": "**C-11792** Host Says Robertson and His Partner Were at UVU on a Threat Assessment for a USU Event 10 Days Later",
+   "label": "Host Says Robertson and His Partner Were at UVU on a Threat Assessment for a USU Event 10 Days Later",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:54"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Allan Robertson and his partner from Utah State University police were on the Losee rooftop area because they were doing a threat assessment for a Charlie Kirk event planned at USU 10 days later, not in coordination with Charlie's security or UVU police."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They were there because they were doing a threat assessment for their event that was 10 days later."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2885.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-748, N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11144"
+    },
+    {
+     "k": "Supports",
+     "v": "C-11702"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the USU police event-planning records and request logs for the planned USU Kirk event and the officers' September 10 assignment."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11793",
+   "header": "**C-11793** Host Says Robertson's Presence Required Police Reports and Bagley Could Have Identified Them",
+   "label": "Host Says Robertson's Presence Required Police Reports and Bagley Could Have Identified Them",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:47"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that because of their presence the USU officers would have had to file police reports and were in communication with Bagley's chief on video, so it makes no sense that Bagley pretends he could not find out who they were."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "So it's just very odd that officer Bagley is pretending he couldn't find out who these officers were when they were in communication with his chief."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2885.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-506, N-748, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10772"
+    },
+    {
+     "k": "Supports",
+     "v": "C-11692"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Request the USU and UVU police reports from September 10 and the bystander video showing communication with the UVU chief."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11794",
+   "header": "**C-11794** Host Says No Email Defended Bagley and Her Gut Says He Could Have Answered More",
+   "label": "Host Says No Email Defended Bagley and Her Gut Says He Could Have Answered More",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:26:23"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that among the many emails about Christopher Bagley and his history there were 'not many people or any people' defending him, and her gut tells her he could have answered more questions on the stand if he had wanted to."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "there were not many people or any people in our inbox that were defending Christopher Bagley, which is interesting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-506, N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review Bagley's personnel and disciplinary history through records requests to UVU police."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11795",
+   "header": "**C-11795** Viewer Comment Says Bagley Slipped and Said Allen in Testimony",
+   "label": "Viewer Comment Says Bagley Slipped and Said Allen in Testimony",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads a viewer comment saying Officer Bagley slips in his testimony and says 'Allen' at one point, so he definitely knew the person; the host says she will check whether he said the name in court."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he actually does slip and say Allen at one point, so he definitely knew who the person was."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2886.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-506, N-748, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10772"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the trial recording for the moment Bagley says 'Allen' and the question asked."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11796",
+   "header": "**C-11796** Host Says by All Accounts Robertson Left San Bernardino Voluntarily and Shuts Down That Lead",
+   "label": "Host Says by All Accounts Robertson Left San Bernardino Voluntarily and Shuts Down That Lead",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says by all accounts Allan Robertson left on his own volition because he had young kids and wanted to leave city life, and that she is shutting down that lead."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "by all accounts, it seems like he left by on his own valition and he just he has young kids and wanted to leave the city life."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2885.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-748, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10774"
+    },
+    {
+     "k": "Qualifies",
+     "v": "C-11715"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm through a San Bernardino records request that his separation was voluntary and why a Brady entry exists."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11797",
+   "header": "**C-11797** Host Says an Unnamed Country Music Figure Will Pay for Her Security Man's Rehabilitation in Florida",
+   "label": "Host Says an Unnamed Country Music Figure Will Pay for Her Security Man's Rehabilitation in Florida",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:05"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says a person in the country music world, who does not want to be named or credited, will pay for the entire stay and rehabilitation in Florida of Ian, her security person who suffered harm in Russia."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We had a person reach out who is in the country music world who does not want to be named or get any credit and he is going to pay for the entire thing"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2887.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10344"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "This can only be confirmed through the host's team; ask for confirmation of the arrangement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11798",
+   "header": "**C-11798** Host Says Russia's Ministry of Health and a Catholic Family in Russia Helped Her Security Man",
+   "label": "Host Says Russia's Ministry of Health and a Catholic Family in Russia Helped Her Security Man",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:32:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host thanks Russia's Ministry of Health, the Catholic family in Russia who visited him and brought their children, and the team in Russia, saying everyone there was amazing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "also to Russia's Ministry of Health, how grateful we are, everybody that was involved in this"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2887.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10344"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask the host's team for the date and nature of the incident in Russia and the hospital records, if shared."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11799",
+   "header": "**C-11799** Host Says Neff First Said Orem, Then Salt Lake City for the Night of September 10",
+   "label": "Host Says Neff First Said Orem, Then Salt Lake City for the Night of September 10",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:32:57"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Blake Neff at first thought he stayed in Orem on the night of September 10, then said he maybe misspoke, then said he stayed in Salt Lake City."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He at first thought he stayed in Orum, then said he maybe misspoke. Then he remembered that actually no, he stayed in Salt Lake City."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10715, N-10732"
+    },
+    {
+     "k": "Supports",
+     "v": "C-11025"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Re-listen to Neff's original statements and compare his Orem and Salt Lake City versions with hotel records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11800",
+   "header": "**C-11800** Host Says Neff Does Not Remember Where He Went With Danny Philip in Salt Lake City",
+   "label": "Host Says Neff Does Not Remember Where He Went With Danny Philip in Salt Lake City",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:32:57"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Neff did not remember what he did in Salt Lake City, that he was with Danny Philip, where the two went or how they got around."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He didn't even remember that he was with Danny Phillip or where him and Danny Phillip went, how they got the whole thing is crazy."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-367, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10715"
+    },
+    {
+     "k": "Supports",
+     "v": "C-11026"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask Neff and Philip for their September 10 itinerary and transportation records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11801",
+   "header": "**C-11801** Host Says Some TPUSA Team Members Stayed at the Asher Adams Autograph Collection Hotel but Not That Neff Did",
+   "label": "Host Says Some TPUSA Team Members Stayed at the Asher Adams Autograph Collection Hotel but Not That Neff Did",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:32:57"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her team determined that at least some members of the TPUSA team stayed at the Asher Adams Autograph Collection hotel in Salt Lake City, and that she cannot say definitively Neff was with them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We were able to determine that the some members at least of the Turning Point USA team stayed at the Asher Adams um autograph collection hotel in Salt Lake City."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2241.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10732, N-10715"
+    },
+    {
+     "k": "Supports",
+     "v": "C-11803"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain hotel registration or invoice records for the TPUSA party on September 10, 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11802",
+   "header": "**C-11802** Host Says Internet Sleuths Located the Hotel From Kolvet's Background and Tied Tyler Bowyer Too",
+   "label": "Host Says Internet Sleuths Located the Hotel From Kolvet's Background and Tied Tyler Bowyer Too",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:17"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says internet sleuths tracked the hotel from the background of Andrew Kolvet's September 11 Benny Johnson hit and also tied Tyler Bowyer to it, comparing the process to the documentary Don't F with Cats."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Internet Slooh's got him and Tyler Bowyer. And here's the Asher Adams Hotel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2241.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-11, N-89, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10732"
+    },
+    {
+     "k": "Supports",
+     "v": "C-11803"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the original sleuth post that matched the room background and what it says about Bowyer."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11804",
+   "header": "**C-11804** Host Says the US Bombed an Elementary School in Iran Killing 156 Including 120 Students and 26 Teachers",
+   "label": "Host Says the US Bombed an Elementary School in Iran Killing 156 Including 120 Students and 26 Teachers",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:35:32"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that at the start of the Iran war the United States, at Israel's instruction in her view, bombed an elementary school in Iran, killing 156 people including 120 students and 26 teachers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "156 people were murdered, including 120 students and 26 teachers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11145, N-10541"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare casualty figures for the school strike across Iranian, UN and Western reports; the host's 156 differs from the 175 in the played Sky clip."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11805",
+   "header": "**C-11805** Host Says Trump and Hegseth First Denied the Strike, Then Hegseth Said an Investigation Was Under Way",
+   "label": "Host Says Trump and Hegseth First Denied the Strike, Then Hegseth Said an Investigation Was Under Way",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:17"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Donald Trump first said Iran did it, Pete Hegseth followed with the same message, tomahawk missiles were then revealed, and Hegseth came back saying they were committed to investigating."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "At first, Trump actually came out and he said, \"No, we didn't do it. It was Iran.\" Pete Hexth followed up with the same message."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2239.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-5, N-591, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11145"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Collect the dated Trump and Hegseth statements on the school strike and the formal investigation announcement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11806",
+   "header": "**C-11806** Host Says Officials Then Claimed the IRGC Built Missiles Under the School and Sky News Debunked It",
+   "label": "Host Says Officials Then Claimed the IRGC Built Missiles Under the School and Sky News Debunked It",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says officials pivoted to saying the IRGC was building missiles underneath the school, and that Sky News did an entire investigation debunking every attempt by the US to explain the strike."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Sky News did an entire investigation. You should watch the entire piece. They debunked every attempt that uh the US tried to put out."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2239.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11145"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the Sky News investigation and the official US statements about missiles beneath the school to compare."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11807",
+   "header": "**C-11807** In a Sky News Clip Trump Says the Strike Was Done by Iran and Hegseth Says It Is Still Being Investigated",
+   "label": "In a Sky News Clip Trump Says the Strike Was Done by Iran and Hegseth Says It Is Still Being Investigated",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the Sky News clip, Donald Trump says his opinion based on what he has seen is that the strike was done by Iran, and Pete Hegseth says it was Iran but that they are certainly investigating."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "My opinion, based on what I've seen, that was done by Iran."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2239.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-5, N-591"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11145"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the original press-conference recordings for both quotes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11809",
+   "header": "**C-11809** Sky Clip Says an Analyst Spotted the School in 2019 but the Change Was Not Passed Up the Chain",
+   "label": "Sky Clip Says an Analyst Spotted the School in 2019 but the Change Was Not Passed Up the Chain",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a Sky News segment the host plays, one analyst reviewing intelligence on potential targets reportedly spotted the school in 2019 and allegedly noted changes on an intelligence tool, but this was not passed up the chain."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "One analyst reviewing intelligence on potential targets did reportedly spot the school in 2019."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2239.1"
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11145"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the full Sky News report and any DoD inquiry findings about the 2019 analyst note."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11810",
+   "header": "**C-11810** Host Says the School Strike Was Not a Mistake and Targeted Children Knowingly",
+   "label": "Host Says the School Strike Was Not a Mistake and Targeted Children Knowingly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:40:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the school bombing was not a mistake because the US military's intelligence knew every person moving in the school and chose to bomb it, and that the government then lied about it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They knew every body that was moving in that school and they chose to bomb it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11145"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the DoD formal investigation findings once released for the target-selection chain."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11811",
+   "header": "**C-11811** Host Says the Strike Was a Sacrifice to Demons by People Who Worship Baal",
+   "label": "Host Says the Strike Was a Sacrifice to Demons by People Who Worship Baal",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:40:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her honest belief is that the school strike was a sacrifice to demons by people who worship Baal, that Israel is a colony that worships Baal and murder, and that this is the plan for America."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "My honest belief, my honest belief is because we are looking at people who worship Bal and it was a sacrifice to demons."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11145, N-10026"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Treat as the host's stated religious belief; no records exist to confirm or refute it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11813",
+   "header": "**C-11813** Host Says Government That Lied About the School Could Cover Up Charlie Kirk's Murder",
+   "label": "Host Says Government That Lied About the School Could Cover Up Charlie Kirk's Murder",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:42:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that if you think people who lie like this about the school strike would not be capable of hiding the murder of Charlie Kirk, they just killed 150 kids and did not blink when they lied to you."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "if you think that people that lie like that would not be capable of hiding up the murder of Charlie Kirk, they just killed 150 kids and didn't blink when they lied to you."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11145"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Treat as the host's analogy; compare government denials in both matters against dated records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11812",
+   "header": "**C-11812** Host Says the US Has Struck Iranian Bridges and Water Supplies",
+   "label": "Host Says the US Has Struck Iranian Bridges and Water Supplies",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:41:46"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the United States has been bombing Iran's bridges and striking its water so people cannot drink, and that this is uniting Iranians rather than producing protesters to arm."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "bombing their bridges and striking their water so they can't drink water"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10541"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check humanitarian and UN reports on strikes against Iranian bridges and water infrastructure."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11814",
+   "header": "**C-11814** Host Says Trump Retweets and Takes Advice From Mark Levin",
+   "label": "Host Says Trump Retweets and Takes Advice From Mark Levin",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:42:27"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Trump takes calls and retweets from Mark Levin, whom she calls a psychopath, and that Levin wants Iranians armed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Whose call was he taking? Who is he retweeting? Psychos like actual psychopaths like Mark Levvin"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2240.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-5, N-244, N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review Trump's reposts and Levin communications during the Iran war to check the host's characterization."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11816",
+   "header": "**C-11816** Host Says She Does Not Believe Charlie Was Close to Blake",
+   "label": "Host Says She Does Not Believe Charlie Was Close to Blake",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:08"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she does not believe anything about Charlie Kirk being close to Blake Neff, and that she and Charlie would have given him a nickname."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I don't believe anything about Charlie being close to Blake."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2886.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11057"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Collect public evidence of Kirk's working relationship with Neff, such as texts, show credits and on-air mentions."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11817",
+   "header": "**C-11817** Host Says Tucker Carlson Helped Neff After Fox Let Him Go and Neff Now Targets Tucker",
+   "label": "Host Says Tucker Carlson Helped Neff After Fox Let Him Go and Neff Now Targets Tucker",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:48:02"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Neff sits in his current seat only because Tucker Carlson did what he could to help him after he was let go from Fox, and that Neff repays Tucker by targeting him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the only reason he's sitting there is because Tucker Carlson uh did what he could to help him after he got let go from the from Fox"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-22, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11057, N-10006"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify Neff's departure from Fox News and any Tucker Carlson role in his hiring."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11818",
+   "header": "**C-11818** Host Says Isabella's Comment Raises a Mock Funeral and Cremation She Covered Earlier",
+   "label": "Host Says Isabella's Comment Raises a Mock Funeral and Cremation She Covered Earlier",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:48:02"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads Isabella's comment asking why Erika would honor Charlie's wishes regarding a Catholic funeral, saying 'they' betrayed him in his life and that he never wanted a Catholic funeral, and says she covered an idea of a mock funeral being done with Charlie potentially cremated."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "That's what's odd about the entire thing and why we covered um this idea of a mock funeral that was done and potentially him being cremated."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2245.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10751, N-10323"
+    },
+    {
+     "k": "Supports",
+     "v": "C-11819"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain burial or cremation records and funeral home statements for Charlie Kirk's funeral arrangements."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11820",
+   "header": "**C-11820** Host Says TPUSA's First Response to the Rooftop Footage Was to Debunk It",
+   "label": "Host Says TPUSA's First Response to the Rooftop Footage Was to Debunk It",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:50:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that instead of thanking her for releasing the rooftop footage, TPUSA-side responders tried to debunk it with remarks like 'a baby could do that crawl', and that a normal person would see the man as experienced."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Their first thing to do when we release the footage rather than saying thank you is to try to debunk it. Like, oh, a baby could do that crawl."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10754"
+    },
+    {
+     "k": "Supports",
+     "v": "C-11460"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Collect the TPUSA-aligned posts reacting to the footage and the 'baby could do that crawl' comment."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11821",
+   "header": "**C-11821** Viewer Comment Says No Other Rooftop Officers Had Body Cams",
+   "label": "Viewer Comment Says No Other Rooftop Officers Had Body Cams",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:51:22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads a viewer comment from Kate Grand Rapids saying no other rooftop officers had body cams, and responds that maybe theirs died too."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Kate Grand Rapids writes, \"Uh, no other rooftop officers had body cam.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2886.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10725"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask UVU and USU police which officers on the rooftop wore body cams and obtain their footage logs."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-11822",
+   "header": "**C-11822** Host Says Turek Previously Asked Why the Mossad Had Not Killed Her and Tucker Carlson",
+   "label": "Host Says Turek Previously Asked Why the Mossad Had Not Killed Her and Tucker Carlson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:52:11"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Frank Turek has used similar rhetoric before, including a segment asking why the Mossad had not killed Candace Owens and Tucker Carlson."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Like he did this whole thing where he was like, \"Why hasn't the Mossad killed Candace and Tucker Carlson?\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-7, N-3, N-22"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find the earlier Turek segment with the Mossad remark and confirm the wording."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 6. Meme Register",
+    ""
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-24",
+   "header": "**M-24** (meme) Yanking and Banking",
+   "label": "(meme) Yanking and Banking",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:00:01"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Happy Tuesday. It's yanking bank Tuesdays. We're going to do some yanking and banking around a few topics."
+    },
+    {
+     "k": "Context",
+     "v": "Host elevates the phrase into a show-day motif and audience refrain."
+    },
+    {
+     "k": "Tags",
+     "v": "running_gag, show_theme"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:47:08"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "She writes, \"Yanking and banking my way through the school pickup to get home and watch the PGO.\" Love that."
+    },
+    {
+     "k": "Context",
+     "v": "Wave 3 MemeLink backfill: Yanking and Banking at 00:47:08 (audit missing_memelink)."
+    },
+    {
+     "k": "Tags",
+     "v": "reuse, memelink_backfill"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-12",
+   "header": "**M-12** (meme) Decentralized Intelligence Agency",
+   "label": "(meme) Decentralized Intelligence Agency",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:52:11"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Our iconic Candace intelligent agency hats, our CIA hats, but we are the decentralized intelligence agency"
+    },
+    {
+     "k": "Context",
+     "v": "Closing merch plug restates DCIA / CIA twin brand."
+    },
+    {
+     "k": "Tags",
+     "v": "merch, brand_joke"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-14",
+   "header": "**M-14** (meme) Candace Intelligence Agency",
+   "label": "(meme) Candace Intelligence Agency",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:52:11"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Our iconic Candace intelligent agency hats, our CIA hats, but we are the decentralized intelligence agency"
+    },
+    {
+     "k": "Context",
+     "v": "Same merch beat names Candace Intelligence Agency hats."
+    },
+    {
+     "k": "Tags",
+     "v": "merch, brand_joke"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-25",
+   "header": "**M-25** (meme) Iron Sharpens Iron",
+   "label": "(meme) Iron Sharpens Iron",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:52:11"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Remember that iron sharpens iron."
+    },
+    {
+     "k": "Context",
+     "v": "Wave 3 MemeLink backfill: Iron Sharpens Iron at 00:52:11 (audit missing_memelink)."
+    },
+    {
+     "k": "Tags",
+     "v": "reuse, memelink_backfill"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-66",
+   "header": "**M-66** (meme) Fed Slop",
+   "label": "(meme) Fed Slop",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:01:27"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "let them eat Christian slop"
+    },
+    {
+     "k": "Context",
+     "v": "Host says the PR directive is to let them eat Christian slop."
+    },
+    {
+     "k": "Tags",
+     "v": "slop, pr"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:39:34"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "routinely feed slop to the masses"
+    },
+    {
+     "k": "Context",
+     "v": "Host says the government routinely feeds slop to the public over the school strike."
+    },
+    {
+     "k": "Tags",
+     "v": "slop, iran"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-144",
+   "header": "**M-144** (meme) The Preggo",
+   "label": "(meme) The Preggo",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:00:01"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "his pregnancy brain started to kick in again"
+    },
+    {
+     "k": "Context",
+     "v": "Host jokes Bagley's testimony shows pregnancy brain."
+    },
+    {
+     "k": "Tags",
+     "v": "pregnancy, bagley"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-80",
+   "header": "**M-80** (meme) Jog Your Memory",
+   "label": "(meme) Jog Your Memory",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:18:36"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "to jog your memory, this is how officer Bagley responded"
+    },
+    {
+     "k": "Context",
+     "v": "Host introduces the Bagley testimony clip."
+    },
+    {
+     "k": "Tags",
+     "v": "jog memory, bagley"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:34:29"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "now with that jogging your memory"
+    },
+    {
+     "k": "Context",
+     "v": "Host asks Neff whether the hotel photo jogs his memory."
+    },
+    {
+     "k": "Tags",
+     "v": "jog memory, neff"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-18",
+   "header": "**M-18** (meme) Make Him a Sandwich",
+   "label": "(meme) Make Him a Sandwich",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:52:11"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "new signed bundles of Blackout and Make Him a Sandwich"
+    },
+    {
+     "k": "Context",
+     "v": "Host plugs signed book bundles at the close."
+    },
+    {
+     "k": "Tags",
+     "v": "merch, book"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-10",
+   "header": "**M-10** (meme) Happy Warrior",
+   "label": "(meme) Happy Warrior",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:52:11"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "remember to be happy warriors because that's what Charlie Kirk would want"
+    },
+    {
+     "k": "Context",
+     "v": "Host signs off with the happy warrior refrain."
+    },
+    {
+     "k": "Tags",
+     "v": "closing, happy warrior"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-28",
+   "header": "**M-28** (meme) Christ is King",
+   "label": "(meme) Christ is King",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:52:11"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "they say Christ is king"
+    },
+    {
+     "k": "Context",
+     "v": "Host reads a commenter's Christ is King sign-off."
+    },
+    {
+     "k": "Tags",
+     "v": "comment, closing"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-11",
+   "header": "**M-11** (meme) Mossad",
+   "label": "(meme) Mossad",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:52:11"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Why hasn't the Mossad killed Candace and Tucker Carlson"
+    },
+    {
+     "k": "Context",
+     "v": "Host recites Turek's earlier Mossad remark."
+    },
+    {
+     "k": "Tags",
+     "v": "mossad, turek"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-37",
+   "header": "**M-37** (meme) Grifter",
+   "label": "(meme) Grifter",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:02:15"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "when you get on this like Christian grift"
+    },
+    {
+     "k": "Context",
+     "v": "Host labels Turek's Bible-verse approach a Christian grift."
+    },
+    {
+     "k": "Tags",
+     "v": "grift, turek"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-74",
+   "header": "**M-74** (meme) Believe Your Own Eyes",
+   "label": "(meme) Believe Your Own Eyes",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:07:24"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "telling them not to believe their own eyes"
+    },
+    {
+     "k": "Context",
+     "v": "Host says blue-collar workers do not buy influencers telling them to doubt their eyes."
+    },
+    {
+     "k": "Tags",
+     "v": "own eyes, influencers"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-44",
+   "header": "**M-44** (meme) It's Giving",
+   "label": "(meme) It's Giving",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:30:07"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "So, it's giving shady Baggley. It's giving shady."
+    },
+    {
+     "k": "Context",
+     "v": "Host closes the Allan Robertson update on Bagley."
+    },
+    {
+     "k": "Tags",
+     "v": "its giving, bagley"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-54",
+   "header": "**M-54** (meme) Psyop",
+   "label": "(meme) Psyop",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:50:36"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "What what psychological operation do you think you can impart upon the people"
+    },
+    {
+     "k": "Context",
+     "v": "Host asks what psychological operation TPUSA thinks it can run on viewers."
+    },
+    {
+     "k": "Tags",
+     "v": "psyop, rooftop"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-192",
+   "header": "**M-192** (meme) Here to Help",
+   "label": "(meme) Here to Help",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:00:01"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "you guys know I'm here to help"
+    },
+    {
+     "k": "Context",
+     "v": "Host jokes she is helping Bagley fill gaps in his testimony."
+    },
+    {
+     "k": "Tags",
+     "v": "help, bagley"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:13:19"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "you're welcome, Turning Point USA"
+    },
+    {
+     "k": "Context",
+     "v": "Host says she is doing TPUSA a favor by surfacing leads."
+    },
+    {
+     "k": "Tags",
+     "v": "help, tpusa"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:32:57"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "us being helpful, never ever ever getting the credit"
+    },
+    {
+     "k": "Context",
+     "v": "Host says her team keeps helping and never gets credit."
+    },
+    {
+     "k": "Tags",
+     "v": "help, credit"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 4"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:34:29"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "We're always here to help."
+    },
+    {
+     "k": "Context",
+     "v": "Host closes the hotel segment with the help bit."
+    },
+    {
+     "k": "Tags",
+     "v": "help, neff"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## VI. Optional Flags",
+    "",
+    "- **Name uncertainty:** \"Allan Robertson\" (USU officer) – host clarifies spelling as A-L-A-N, distinct from \"Allen\" (A-L-L-E-N) and a verbal slip \"Allan Robinson\" appears at one point (autocorrected on air). Preservation: \"Allan Robertson.\"",
+    "- **Name uncertainty:** \"Blake Neff\" (Turning Point) – host uses both \"Blake Neff\" (in displayed X post text) and \"Blake Neff\" (rhetorical). Preservation: \"Blake Neff\" per displayed artifact.",
+    "- **Name uncertainty:** \"Frank Turek\" (commentator) – host uses both \"Frank Turek\" and \"Frank Turek\" interchangeably; standard spelling is \"Turek.\" Preservation: \"Frank Turek.\"",
+    "- **Artifact verbally referenced but not shown:** UVU Sept 9 scoping incident (source described but no document/screenshot shown); Allan Robertson Brady list / San Bernardino emails (described but not displayed); Country music donor paying for Ian's rehab (described but no document shown).",
+    "- **Spelling variant on hotel:** Host refers to \"Andrew Kolvet\" (rhetorical) vs \"Andrew Kolvet\" (proper name in screenshot context). Preservation: \"Andrew Kolvet.\"",
+    "- **Transcript ambiguity:** Host's auto-correction in real time at ~30:07 – possible transcription note for \"Allan Robinson\" verbal slip is intentional (not a typo).",
+    "- **Possible transcription error:** Host says \"Alfa says he didn't do that\" (~21:54) – likely referring to Officer Bagley / defense attorney; surrounding context suggests this is a verbal aside rather than a named speaker.",
+    "- **Claim failed admission test:** Host's broader interpretive claims about US government, Baal worship, Israel, and Iran policy are not inscribed as claims (no artifact anchor for the interpretive framing; Sky News / Levin clips anchor only the specific factual claims above).",
+    "",
+    "---",
+    "",
+    "End of Analysis – CKA 137 / Monument Ep 137 / Batch Ep 117"
+   ]
+  }
+ ]
+}

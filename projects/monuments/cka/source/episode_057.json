@@ -1,0 +1,6933 @@
+{
+ "format": "cka-source/1",
+ "episode": 57,
+ "blocks": [
+  {
+   "kind": "text",
+   "lines": [
+    "## 1. Meta-Data",
+    "",
+    "- **Episode**: 57",
+    "- **Monument**: cka",
+    "- **CKA seq**: 57",
+    "- **YouTube id**: BKcOm32ZEGk",
+    "- **Candace Ep**: 290",
+    "- **Source**: Candace Owens YouTube",
+    "- **Video Timestamp Range**: 00:00:00–00:56:21",
+    "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
+    "- **Transcript SHA-256**: 9d571c5e39368da2d0dcbf89e5a2db6cd0af4a443b631215c547c80343eab731",
+    "",
+    "- **Episode Ledger Summary**:",
+    "  - Tip-minted Nodes (supplement_2026-10): N-716, N-11027, N-11028, N-11029, N-11030, N-11031, N-11032, N-11033",
+    "  - Hole-minted Nodes (reintro-ep057): N-521, N-532",
+    "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
+    "  - Claim Range: C-5066–C-5141",
+    "  - New Nodes Introduced: N-454, N-455, N-456, N-457, N-458, N-10414, N-10415",
+    "  - Reused Nodes Appearing: N-5, N-22, N-30, N-82, N-201, N-10000, N-10063, N-10270, N-10385, N-10388, N-10404, N-10416, N-10422, N-11034, N-10424, N-10454, N-10413",
+    "  - (see registers)",
+    "",
+    "## 2. Executive Summary",
+    "",
+    "This episode centers on Candace Owens's presentation of three external source bundles – a YouTube channel called \"Be Inspired\" discussing Project Looking Glass / Y2K / Mandela Effect / The Matrix parallels; a written article plus accompanying video about a purported \"satanic human sacrifice\" staged at CERN's Large Hadron Collider grounds (with CERN's \"prank\" response); and a Daily Wire parody video dropped on Candace's old social media accounts that she characterizes as gangstalking. A short Mike Pompeo interview clip on framing history books regarding Gaza is also presented. The host uses these artifacts to advance a broader interpretive thesis about pre-2012 timeline convergence, the spiritual nature of elite conflict, and Charlie Kirk's apparent foreknowledge of his own death.",
+    "",
+    "Most evidentiary weight in this episode is carried by the Be Inspired clip and the CERN coverage; the Pompeo clip and Daily Wire video are presented as secondary supporting material. The episode references (but does not display in this episode) prior text-message artifacts involving Charlie Kirk that were shown in earlier episodes.",
+    "",
+    "The structural importance of this episode lies in: (1) introducing the Project Looking Glass / 2012-bottleneck framework that the host explicitly links to Charlie's death; (2) presenting the CERN ritual claim as further corroboration of a satanic-scientific conspiracy thesis; and (3) flagging the Daily Wire video as part of an alleged ongoing \"stalking\" pattern.",
+    "",
+    "## 6. Meme Register",
+    ""
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-21",
+   "header": "**M-21** (meme) Conspiracy Girly",
+   "label": "(meme) Conspiracy Girly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:02:53"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "touched upon this uh at the end of last episode. Uh, obviously I'm a conspiracy girly and I'm thrilled that we get to dive a little bit deeper on t..."
+    },
+    {
+     "k": "Context",
+     "v": "Conspiracy girly self-label. (CKA seq 57)"
+    },
+    {
+     "k": "Tags",
+     "v": "reuse, pass2"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-5",
+   "header": "**M-5** (meme) happy coincidence",
+   "label": "(meme) happy coincidence",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:21:23"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "You just cannot pretend that all of this is one big unhappy coincidence."
+    },
+    {
+     "k": "Context",
+     "v": "Wave 3 MemeLink backfill: happy coincidence at 00:21:23 (audit missing_memelink)."
+    },
+    {
+     "k": "Tags",
+     "v": "reuse, memelink_backfill"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-34",
+   "header": "**M-34** (meme) Deep State",
+   "label": "(meme) Deep State",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:00:00"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "a little bit of feedback for the deep state, the deep globalized state."
+    },
+    {
+     "k": "Context",
+     "v": "Host opens with a joke addressed to the deep state about the cornucopia."
+    },
+    {
+     "k": "Tags",
+     "v": "deep state, opener"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-75",
+   "header": "**M-75** (meme) I'll Say Allegedly",
+   "label": "(meme) I'll Say Allegedly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:19:49"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "the script for The Matrix was stolen allegedly."
+    },
+    {
+     "k": "Context",
+     "v": "Host hedges the claim about the Matrix script."
+    },
+    {
+     "k": "Tags",
+     "v": "allegedly, hedge"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-28",
+   "header": "**M-28** (meme) Christ is King",
+   "label": "(meme) Christ is King",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:26:01"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Christ is king is hateful."
+    },
+    {
+     "k": "Context",
+     "v": "Host cites the pushback against the phrase as evidence of an anti-Christ agenda."
+    },
+    {
+     "k": "Tags",
+     "v": "christ is king"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-18",
+   "header": "**M-18** (meme) Make Him a Sandwich",
+   "label": "(meme) Make Him a Sandwich",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:47:28"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Make him a sandwich and blackout, both hands by me."
+    },
+    {
+     "k": "Context",
+     "v": "Host plugs her books in the merch segment."
+    },
+    {
+     "k": "Tags",
+     "v": "merch, books"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-135",
+   "header": "**M-135** (meme) Mask Down",
+   "label": "(meme) Mask Down",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:44:43"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Everyone's just gone mask down"
+    },
+    {
+     "k": "Context",
+     "v": "Host says elites have dropped the mask after the Pompeo clip; the transcript at 00:40:52 renders a similar line as 'mass down'."
+    },
+    {
+     "k": "Tags",
+     "v": "mask down, pompeo"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-136",
+   "header": "**M-136** (meme) This Planet Is Ghetto",
+   "label": "(meme) This Planet Is Ghetto",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:02:53"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "This planet is ghetto. That's how I feel."
+    },
+    {
+     "k": "Context",
+     "v": "Host says she feels like an alien on a planet whose rules do not make sense."
+    },
+    {
+     "k": "Tags",
+     "v": "alien, ghetto"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:02:53"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "It is ghetto here, right?"
+    },
+    {
+     "k": "Context",
+     "v": "Host repeats the line after saying cats think humanity is ghetto."
+    },
+    {
+     "k": "Tags",
+     "v": "alien, ghetto"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-137",
+   "header": "**M-137** (meme) Cornucopia",
+   "label": "(meme) Cornucopia",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:00:00"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "All you guys had to do was to keep the cornucopia."
+    },
+    {
+     "k": "Context",
+     "v": "Host opens with the Fruit of the Loom Mandela effect bit."
+    },
+    {
+     "k": "Tags",
+     "v": "cornucopia, mandela effect, opener"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:01:13"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Yep, yep, yep. It had a cornucopia."
+    },
+    {
+     "k": "Context",
+     "v": "Host reads chat agreeing the logo had a cornucopia."
+    },
+    {
+     "k": "Tags",
+     "v": "cornucopia, mandela effect"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:11:03"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Let's just pretend that, you know, there was no Corticopia."
+    },
+    {
+     "k": "Context",
+     "v": "Host revives the bit as an example of being told not to ask questions."
+    },
+    {
+     "k": "Tags",
+     "v": "cornucopia, mandela effect"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 3. Artifact Register",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1628",
+   "header": "**A-1628** Be Inspired YouTube Channel Clip Bundle",
+   "label": "Be Inspired YouTube Channel Clip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1628.1",
+   "header": "**A-1628.1** Be Inspired clip – Y2K intro and Mandela Effect segment",
+   "label": "Be Inspired clip – Y2K intro and Mandela Effect segment",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:08:22–00:09:57"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5083, C-5088, C-5087, N-10413, N-454*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1628.2",
+   "header": "**A-1628.2** Be Inspired clip – Project Looking Glass segment with Bill Wood testimony",
+   "label": "Be Inspired clip – Project Looking Glass segment with Bill Wood testimony",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:13:05–00:15:23"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5083, C-5088, N-10413, N-454*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1628.3",
+   "header": "**A-1628.3** Be Inspired clip – The Matrix / 2012 convergence / CIA document segment",
+   "label": "Be Inspired clip – The Matrix / 2012 convergence / CIA document segment",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:17:07–00:18:12"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5088, C-5087, N-10413*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1629",
+   "header": "**A-1629** CERN Ritual Article Bundle",
+   "label": "CERN Ritual Article Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1629.1",
+   "header": "**A-1629.1** Article: \"CERN discovers satanic human sacrifice taking place at the Large Hadron Collider grounds\" (read verbatim by host)",
+   "label": "Article: \"CERN discovers satanic human sacrifice taking place at the Large Hadron Collider grounds\" (read verbatim by host)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:36:29–00:37:29"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5107, C-5108, N-10414*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1630",
+   "header": "**A-1630** CERN Ritual Video Bundle",
+   "label": "CERN Ritual Video Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1630.1",
+   "header": "**A-1630.1** Video footage of cloaked figures in black robes encircling a woman in white at a large statue (described by host; recording by insider, posted by YouTuber)",
+   "label": "Video footage of cloaked figures in black robes encircling a woman in white at a large statue (described by host; recording by insider, posted by YouTuber)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:38:17–00:39:04"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5107, C-5108, N-10414*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1631",
+   "header": "**A-1631** Daily Wire Egyptian Airways Parody Video Bundle",
+   "label": "Daily Wire Egyptian Airways Parody Video Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1631.1",
+   "header": "**A-1631.1** Daily Wire video dropped on Candace's old socials: Egyptian Airways parody ad with highlighted words \"watched,\" \"followed,\" \"we will follow\" and a plane bursting into flames",
+   "label": "Daily Wire video dropped on Candace's old socials: Egyptian Airways parody ad with highlighted words \"watched,\" \"followed,\" \"we will follow\" and a plane bursting into flames",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:40:52–00:42:30"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (video explicitly displayed)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5114, N-10416, N-3*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1632",
+   "header": "**A-1632** Pompeo Gaza History Book Clip Bundle",
+   "label": "Pompeo Gaza History Book Clip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1632.1",
+   "header": "**A-1632.1** Mike Pompeo interview segment on framing history books regarding Gaza",
+   "label": "Mike Pompeo interview segment on framing history books regarding Gaza",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:43:34–00:44:43"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (clip explicitly played)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5118, N-455*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1633",
+   "header": "**A-1633** Charlie Kirk Text Message Reference Bundle",
+   "label": "Charlie Kirk Text Message Reference Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1633.1",
+   "header": "**A-1633.1** Text message exchange in which Charlie Kirk told Candace he was a time traveler (shown in earlier episodes; referenced in this episode)",
+   "label": "Text message exchange in which Charlie Kirk told Candace he was a time traveler (shown in earlier episodes; referenced in this episode)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (in prior episode); Medium (this episode reference only)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5068, N-1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Optional Flag: Artifact verbally referenced but not shown in this episode; shown in a prior episode.*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1633.2",
+   "header": "**A-1633.2** Text message from Charlie Kirk quoted by host: \"I'm not allowed to go anywhere. I feel so important\"",
+   "label": "Text message from Charlie Kirk quoted by host: \"I'm not allowed to go anywhere. I feel so important\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:04:18"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (quote reproduced, not displayed on screen per transcript)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: N-10415*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1634",
+   "header": "**A-1634** Comment Section Read-Aloud Bundle",
+   "label": "Comment Section Read-Aloud Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1634.1",
+   "header": "**A-1634.1** Read-aloud comment from \"Carly\" (previous episode): father was an MP in 1982 investigating pentagrams on a military base, later forced off child-abuse investigation",
+   "label": "Read-aloud comment from \"Carly\" (previous episode): father was an MP in 1982 investigating pentagrams on a military base, later forced off child-abuse investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:47:28–00:48:52"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (personal testimony)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5123, N-457*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1634.2",
+   "header": "**A-1634.2** Read-aloud comment from \"Marzy\" (today's episode): claim that ICE agents receive training and recruitment from Israel/IDF",
+   "label": "Read-aloud comment from \"Marzy\" (today's episode): claim that ICE agents receive training and recruitment from Israel/IDF",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:51:51"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low (unattributed)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5130, N-458*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1634.3",
+   "header": "**A-1634.3** Read-aloud comment from \"Anderson\" (today's episode): personal testimony about sleep paralysis (\"hatman shadow man\"), being in a \"gate\" program as a child, and being given the \"pink drink\" (fluoride)",
+   "label": "Read-aloud comment from \"Anderson\" (today's episode): personal testimony about sleep paralysis (\"hatman shadow man\"), being in a \"gate\" program as a child, and being given the \"pink drink\" (fluoride)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:53:21"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low (personal testimony)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related:*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2756",
+   "header": "**A-2756** Viewer Comments Read Aloud Bundle (supplement)",
+   "label": "Viewer Comments Read Aloud Bundle (supplement)",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2756.1",
+   "header": "**A-2756.1** Read-aloud comment from 'Docket Dakota' quoting 'Reality is catching up with me. Taking my inner child. I'm fighting for custody with these responsibilities that they entrusted me.' and the host's reply",
+   "label": "Read-aloud comment from 'Docket Dakota' quoting 'Reality is catching up with me. Taking my inner child. I'm fighting for custody with these responsibilities that they entrusted me.' and the host's reply",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:49:41"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5125, C-5126, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2756.2",
+   "header": "**A-2756.2** Read-aloud comment from 'Macy' asking why 'they' do not scrub the internet of the host and whether this is a planned awakening, with the host's reply",
+   "label": "Read-aloud comment from 'Macy' asking why 'they' do not scrub the internet of the host and whether this is a planned awakening, with the host's reply",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:49:41"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5127, C-5128, C-5129, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2756.3",
+   "header": "**A-2756.3** Read-aloud comment from 'Alyssa' recommending an interview with Cathy O'Brien and her book Transformation of America",
+   "label": "Read-aloud comment from 'Alyssa' recommending an interview with Cathy O'Brien and her book Transformation of America",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:50:49"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5131, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2756.4",
+   "header": "**A-2756.4** Read-aloud comment from 'Benny' about a Nick Fuentes show remark on Epstein and teen girls",
+   "label": "Read-aloud comment from 'Benny' about a Nick Fuentes show remark on Epstein and teen girls",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:53:21"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5138, C-5139, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2757",
+   "header": "**A-2757** Pompeo Assange Fact Check Verbal Reference Bundle",
+   "label": "Pompeo Assange Fact Check Verbal Reference Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2757.1",
+   "header": "**A-2757.1** Host verbal reference to Tucker Carlson's exposure about Pompeo and Assange, with an on-air producer fact check (nothing shown)",
+   "label": "Host verbal reference to Tucker Carlson's exposure about Pompeo and Assange, with an on-air producer fact check (nothing shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:42:37"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5116, C-5117, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 4. Node Register",
+    "",
+    ""
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-454",
+   "header": "**N-454** Bill Wood",
+   "label": "Bill Wood",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Former Navy Seal with high-level clearance; Project Camelot interviewee whose testimony about Project Looking Glass is the central source in the Be Inspired clip."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1628.2, C-5083, N-10413*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-455",
+   "header": "**N-455** Mike Pompeo",
+   "label": "Mike Pompeo",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Former US Secretary of State / CIA director; presents in A-1632.1 advocating framing of Gaza history in textbooks to favor Israeli narrative."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1632.1, C-5118*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-456",
+   "header": "**N-456** Bill Montgomery",
+   "label": "Bill Montgomery",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Referenced by host as deceased military figure; alleged to have co-founded Turning Point USA with Charlie Kirk and to have orchestrated Charlie's early \"Shaffer security.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low (requires verification of identity and TPUSA co-founder status)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1633 family context*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Optional Flag: Name uncertainty – host identifies him as a Turning Point USA co-founder; this role attribution requires verification against public TPUSA founding records.*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-457",
+   "header": "**N-457** Carly",
+   "label": "Carly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Commenter (previous episode); daughter of an MP who allegedly investigated pentagrams on a US military base in 1982."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1634.1, C-5123*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-458",
+   "header": "**N-458** Marzy",
+   "label": "Marzy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Commenter (today's episode); raises ICE/IDF training claim that the host then discusses."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1634.2, C-5130*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-67",
+   "header": "**N-67** Mark Herman (director, Candace show)",
+   "label": "Mark Herman (director, Candace show)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here the host brings him on to explain CERN; he describes its 1954 founding, the Higgs boson search, the Large Hadron Collider, and the 2012 \"God particle\" observation, prefacing that he is not a particle physicist. No claim anchor; registered for cross-episode continuity."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: None*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10413",
+   "header": "**N-10413** Project Looking Glass Allegation",
+   "label": "Project Looking Glass Allegation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Persistent investigative target",
+     "v": "claim that a US military/CIA device capable of viewing future timelines was shut down after 2012 convergence; supported by whistleblower Bill Wood testimony and a referenced CIA document."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "3"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1628.1, A-1628.2, A-1628.3, C-5083, C-5088, C-5087, N-454*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10414",
+   "header": "**N-10414** CERN Satantic Ritual Claim",
+   "label": "CERN Satantic Ritual Claim",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative target",
+     "v": "episode's presentation of a \"satanic human sacrifice\" at CERN grounds, CERN's \"prank\" framing, and host's challenge to that framing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1629.1, A-1630.1, C-5107, C-5108*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10415",
+   "header": "**N-10415** Charlie Kirk Premonition Pattern",
+   "label": "Charlie Kirk Premonition Pattern",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Persistent investigative target across the series",
+     "v": "Charlie Kirk's alleged foreknowledge (via text messages to Candace) that he would die young and that his death would relate to Turning Point USA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1633.1, A-1633.2, C-5068, C-5092, N-1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10416",
+   "header": "**N-10416** Daily Wire Stalking Pattern",
+   "label": "Daily Wire Stalking Pattern",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative target",
+     "v": "ongoing alleged \"gangstalking\" pattern by Daily Wire against Candace Owens, with the Egyptian Airways parody video (A-1631.1) cited as the latest escalation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low (single video artifact; pattern claim is broader)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1631.1, C-5114, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-1",
+   "header": "**N-1** Charlie Kirk",
+   "label": "Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of the host's account of premonitions, security, gifted schooling and dreams."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5066, C-5069, C-5070, C-5071, C-5072, C-5073, C-5074, C-5075, C-5076, C-5082, C-5084, C-5085, C-5086, C-5089, C-5090, C-5091, C-5093, C-5094, C-5095, C-5099, C-5100, C-5101, C-5110, C-5109, C-5111, C-5112, C-5113, C-5115, C-5119, C-5120, C-5121, C-5125, C-5126, C-5135, C-5136, C-5137, C-5138, C-5139, C-5140, C-5141*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-3",
+   "header": "**N-3** Candace Owens",
+   "label": "Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host; speaks for herself throughout."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5067, C-5069, C-5072, C-5074, C-5075, C-5076, C-5081, C-5082, C-5085, C-5086, C-5091, C-5093, C-5095, C-5097, C-5098, C-5099, C-5100, C-5101, C-5102, C-5110, C-5109, C-5111, C-5112, C-5113, C-5115, C-5116, C-5117, C-5119, C-5122, C-5124, C-5125, C-5126, C-5127, C-5128, C-5129, C-5131, C-5132, C-5133, C-5134, C-5135, C-5136, C-5137, C-5139, C-5140, C-5141*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-5",
+   "header": "**N-5** Donald Trump",
+   "label": "Donald Trump",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named by the host when she says she cannot support his actions and that he is controlled."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5096, C-5116, C-5117, C-5132, C-5134*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-22",
+   "header": "**N-22** Tucker Carlson",
+   "label": "Tucker Carlson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named by the host as having exposed the Pompeo and Assange story."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5116*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-30",
+   "header": "**N-30** George (Candace's husband)",
+   "label": "George (Candace's husband)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host's husband, named when she tells how they met and got engaged."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5075*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-82",
+   "header": "**N-82** Brigitte Macron",
+   "label": "Brigitte Macron",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of the lawsuit the host calls a mistake that spread the story."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5095*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-201",
+   "header": "**N-201** Nick Fuentes",
+   "label": "Nick Fuentes",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of a commenter's report and the host's statement that he is a federal informant."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5138, C-5139, C-5140*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-521",
+   "header": "**N-521** Peter Thiel",
+   "label": "Peter Thiel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named by the host (as 'Peter Thiel') as giving interviews about the Antichrist."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5096*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-532",
+   "header": "**N-532** Julian Assange",
+   "label": "Julian Assange",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named in the Pompeo and CIA discussion."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5116, C-5117*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10000",
+   "header": "**N-10000** Turning Point USA",
+   "label": "Turning Point USA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Organization Charlie founded and in which the host says he knew he would die."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5069, C-5070, C-5071, C-5094*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10063",
+   "header": "**N-10063** Gaza",
+   "label": "Gaza",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Place at issue in the Pompeo clip."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5119, C-5120, C-5121*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10270",
+   "header": "**N-10270** Macron Defamation Lawsuit Delaware Venue Question",
+   "label": "Macron Defamation Lawsuit Delaware Venue Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Topic for the Macron lawsuit the host calls a mistake."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5095*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10385",
+   "header": "**N-10385** Daily Wire Show Targeting Candace Owens / Tucker Carlson",
+   "label": "Daily Wire Show Targeting Candace Owens / Tucker Carlson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Topic for the host's complaints about the Daily Wire."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5099, C-5115*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10388",
+   "header": "**N-10388** Missing Money from Turning Point Action",
+   "label": "Missing Money from Turning Point Action",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Topic cited where the host describes Charlie telling them to take the money out of the organization."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5094*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10404",
+   "header": "**N-10404** Candace Owens Dream Vision of Andrew Kolvet",
+   "label": "Candace Owens Dream Vision of Andrew Kolvet",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Topic for the host's dream that Charlie was betrayed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5141*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10422",
+   "header": "**N-10422** GATE / Gifted Education Program Investigation",
+   "label": "GATE / Gifted Education Program Investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Topic for gifted-program claims about Charlie and commenters."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5073, C-5135, C-5136, C-5137*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10424",
+   "header": "**N-10424** Nick Fuentes Federal Informant Allegation",
+   "label": "Nick Fuentes Federal Informant Allegation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Topic for the claim that Fuentes is a federal informant."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5138, C-5139, C-5140*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10454",
+   "header": "**N-10454** Gaza Death Toll and Documentation Claims",
+   "label": "Gaza Death Toll and Documentation Claims",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Topic for the host's claim that Palestinian deaths would be written out of textbooks."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5119*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-716",
+   "header": "**N-716** Cathy O'Brien",
+   "label": "Cathy O'Brien",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "51:51 in episode 57, reading a comment recommending her and her book Transformation of America.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5131, A-2756.3*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11027",
+   "header": "**N-11027** Be Inspired (YouTube Channel)",
+   "label": "Be Inspired (YouTube Channel)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "raw": "YouTube channel whose clips on Y2K, the Mandela effect and Project Looking Glass the host plays and links in the comments."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5076, C-5077, C-5078, C-5079, C-5080, C-5089, C-5090*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11028",
+   "header": "**N-11028** Project Camelot",
+   "label": "Project Camelot",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "raw": "Interview project that the Be Inspired clip says interviewed Bill Wood and other Looking Glass whistleblowers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5084*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11029",
+   "header": "**N-11029** CERN",
+   "label": "CERN",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "raw": "European Organization for Nuclear Research in Geneva, home of the Large Hadron Collider; source of the ritual footage and of Mark's history of the Higgs search."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5103, C-5104, C-5105, C-5106, C-5110, C-5109, C-5111, C-5112*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11030",
+   "header": "**N-11030** Mandela Effect Claims",
+   "label": "Mandela Effect Claims",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The host's and the Be Inspired clip's examples of collective false memory presented as evidence of timeline changes (Fruit of the Loom cornucopia, Berenstain Bears, Pikachu's tail)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5067, C-5078, C-5079, C-5080, C-5081*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11031",
+   "header": "**N-11031** Host Platform Suppression and Travel Ban Claims",
+   "label": "Host Platform Suppression and Travel Ban Claims",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The host's claims that she was demonetized and throttled on YouTube, banned from countries and had event hosts threatened."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5127, C-5128, C-5129*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11032",
+   "header": "**N-11032** Pompeo Assange Murder Option Claim",
+   "label": "Pompeo Assange Murder Option Claim",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The claim, attributed by the host to Tucker Carlson, that Mike Pompeo at the CIA tried to have Julian Assange murdered, and the on-air fact check."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5116, C-5117*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11033",
+   "header": "**N-11033** Project Monarch",
+   "label": "Project Monarch",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "Alleged program that the host calls the precursor to what the Nazis did in the United States, about traumatizing children."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5131*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11034",
+   "header": "**N-11034** Charlie Kirk Early Security Arrangement",
+   "label": "Charlie Kirk Early Security Arrangement",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The host's account that Charlie Kirk had required, orchestrated security (Shaffer security, arranged by Bill Montgomery) from about 2017."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5070, C-5071, C-5072*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 5. Claim Register",
+    ""
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5083",
+   "header": "**C-5083** Project Looking Glass described as future-timeline viewing device shut down at 2012 convergence",
+   "label": "Project Looking Glass described as future-timeline viewing device shut down at 2012 convergence",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:05"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The Be Inspired clip (A-1628.2) presents whistleblower Bill Wood's account that the US military once had access to a device called Project Looking Glass that could supposedly view potential future timelines and was shut down because all timelines converged around 2012, which he places at December 21, 2012."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1628.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-454"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10413"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the original Project Camelot interview with Bill Wood; check declassified military/CIA records and FOIA releases for any program matching the description."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5088",
+   "header": "**C-5088** CIA document explores consciousness moving through time",
+   "label": "CIA document explores consciousness moving through time",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The Be Inspired clip (A-1628.3) references a CIA-released document that explores consciousness as something that can move through time outside the physical world, including remote viewing and timelines."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1628.3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10413"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the referenced CIA document in the CIA FOIA reading room or CREST archive; identify its actual title, declassification date, and contents."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5087",
+   "header": "**C-5087** Host concurs that The Matrix parallels Project Looking Glass / simulated-reality themes",
+   "label": "Host concurs that The Matrix parallels Project Looking Glass / simulated-reality themes",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Project Looking Glass idea that thoughts influenced future outcomes is reminiscent of a theme of The Matrix, a film she calls way ahead of its time, before playing a Be Inspired clip (A-1628.3) that connects The Matrix (1999) to Project Looking Glass."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1628.3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10413"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare The Matrix's documented production context (Wachowskis, 1999) with declassified Project Looking Glass timeline; separately assess the host's adjacent claim that \"the script for The Matrix was stolen allegedly.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5107",
+   "header": "**C-5107** Article describes satanic human sacrifice staged at CERN Large Hadron Collider grounds",
+   "label": "Article describes satanic human sacrifice staged at CERN Large Hadron Collider grounds",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:29"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "An article read verbatim in the episode describes a \"satanic human sacrifice\" staged on the grounds of CERN's Large Hadron Collider, with a cloaked group in long flowing black robes walking around before a woman moves onto the floor and is stabbed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1629.1, A-1630.1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10414"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the YouTuber who originally published the video; verify the date and circumstances of the alleged incident; determine whether any criminal investigation was opened."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5108",
+   "header": "**C-5108** CERN spokesperson characterized the ritual as a \"prank\"",
+   "label": "CERN spokesperson characterized the ritual as a \"prank\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:29"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The episode presents that a CERN spokesperson characterized the staged ritual as a \"prank\" and expressed concern about unauthorized recording and publication."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1629.1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10414"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate CERN's official statement on the incident; identify the spokesperson and the date of the statement; determine whether the woman depicted has been identified."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5114",
+   "header": "**C-5114** Daily Wire video uses \"watched\"/\"followed\"/\"we will follow\" language with Candace's face",
+   "label": "Daily Wire video uses \"watched\"/\"followed\"/\"we will follow\" language with Candace's face",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:40:52"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "A Daily Wire video dropped on Candace Owens's old social media accounts presents an Egyptian Airways parody using her face and including highlighted text \"watched,\" \"followed,\" and \"we will follow,\" followed by imagery of a plane bursting into flames."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1631.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10416"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the Daily Wire video directly on its original publication platform; verify the date it was posted on Candace's social media accounts; confirm whether it was targeted specifically at her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5118",
+   "header": "**C-5118** Pompeo advocates history-book framing that excludes Gaza victim focus",
+   "label": "Pompeo advocates history-book framing that excludes Gaza victim focus",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:43:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip the host plays, Mike Pompeo says history books should not write about 'the victims of Gaza', then says he should be more precise: there were victims in Gaza and civilian casualties in every war, but the victims were the people of Israel and the aggressor was the Iranian regime and its proxy Hamas; he says this requires each person to talk about it in real time with their children and grandchildren."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1632.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-455"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the original Pompeo interview (publication, host, date) and watch in full context; verify whether the quoted framing matches the full statement; check whether accompanying applause is from a single event or edited."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5068",
+   "header": "**C-5068** Host Says Charlie Kirk Told Her by Text That He Was a Time Traveler",
+   "label": "Host Says Charlie Kirk Told Her by Text That He Was a Time Traveler",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host references (from earlier episodes, via prior text-message display) a text exchange in which Charlie Kirk told Candace Owens he was a time traveler and that he had to \"find\" her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1633.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10415"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the specific text messages in the earlier episode(s) where they were displayed; capture exact wording and date stamps."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5092",
+   "header": "**C-5092** Charlie Kirk asserted his death would relate to Turning Point USA",
+   "label": "Charlie Kirk asserted his death would relate to Turning Point USA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:15"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host presents Charlie Kirk's assertion (via referenced text messages) that from the moment he signed onto Turning Point USA, he knew he would die young and that his death would be related to Turning Point USA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1633.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10415"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the specific text messages in which Charlie makes this claim; verify the timing relative to TPUSA founding (2012) and Charlie's death."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5123",
+   "header": "**C-5123** Carly's father was an MP investigating pentagrams on a military base in 1982",
+   "label": "Carly's father was an MP investigating pentagrams on a military base in 1982",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "A viewer comment from Carly that the host reads says her father was a Military Police officer stationed with \"Lieutenant Aquino\" in 1982, was investigating pentagrams on the base, and was made to stop investigating when child-abuse cases came up, under the rationale \"MPs don't investigate felonies.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1634.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-457"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the military base, the \"Lieutenant Aquino\" referenced, and whether any contemporaneous investigation records (1982-era) can corroborate the pentagram and child-abuse investigation claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5130",
+   "header": "**C-5130** ICE agents receive training and recruitment from Israel / IDF",
+   "label": "ICE agents receive training and recruitment from Israel / IDF",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:51:51"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Read-aloud commenter Marzy, whom the host calls a moderator, presents the claim that some ICE agents get training and recruitment from Israel directly from the IDF."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1634.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-458"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify any documented ICE–Israeli-government training partnerships; check DHS, ICE, and Israeli Ministry of Public Security public records for formal training agreements."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5066",
+   "header": "**C-5066** Host says Charlie knew he would die young and so did the agents around him",
+   "label": "Host says Charlie knew he would die young and so did the agents around him",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:00:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she will never get over the fact that Charlie Kirk knew he was going to die young, and that she is starting to believe the agents who surrounded him throughout his life knew too."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I don't think I will ever get over the fact that Charlie Kirk knew that he was going to die young. And I am starting to believe that so did the agents that surrounded him throughout his entire life."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10415"
+    },
+    {
+     "k": "Supports",
+     "v": "C-4702"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the Charlie Kirk text messages the host has shown in earlier episodes in which he describes dying young; identify who the host means by 'the agents' and what evidence she has that they knew."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5067",
+   "header": "**C-5067** Host asserts Fruit of the Loom logo had a cornucopia",
+   "label": "Host asserts Fruit of the Loom logo had a cornucopia",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:00:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host asserts that the Fruit of the Loom logo had a cornucopia and that people who disagree are 'in the wrong timeline'."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "you guys tried to convince us that Fruit of the Loom never had a cornucopia, right? There was one. We all know that."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11030"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare dated Fruit of the Loom logos and packaging from the company's trademark filings and archived advertising to establish whether a cornucopia ever appeared."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5069",
+   "header": "**C-5069** Charlie Kirk and host met in 2017 or early 2018",
+   "label": "Charlie Kirk and host met in 2017 or early 2018",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she and Charlie Kirk met in 2017, at the top of 2018, when Turning Point was not yet the large organization it later became."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we met in 2017, top of 2018, so I would say obviously Turning Point was an organization, but it wasn't the organization."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the host's earliest dated communications and joint appearances with Charlie Kirk, and public Turning Point USA size and budget figures for 2017-2018."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5070",
+   "header": "**C-5070** Charlie required security at all times and it was orchestrated by Bill Montgomery",
+   "label": "Charlie required security at all times and it was orchestrated by Bill Montgomery",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that in 2017-2018 Charlie Kirk was required to have security on him at all times, that this was orchestrated, and that his Shaffer security was arranged by the late Bill Montgomery."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he was required to have security on him at all times. That was orchestrated. His security, Shaffer security was orchestrated uh by Bill Montgomery."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-456"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-11034"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify who Bill Montgomery was and when he died; obtain records of who contracted Shaffer security for Charlie Kirk and Turning Point USA in 2017-2018."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5071",
+   "header": "**C-5071** Bill Montgomery from the military allegedly co-founded Turning Point USA with Charlie",
+   "label": "Bill Montgomery from the military allegedly co-founded Turning Point USA with Charlie",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Bill Montgomery came from the military and founded Turning Point USA with Charlie Kirk, and that Charlie wanted to go to West Point but started Turning Point USA at 18."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he was from the military, one of the he founded Turning Point USA with Charlie. Charlie wanted to go to West Point and then instead started Turning Point USA when he was 18 years old."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-456"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-11034"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check Turning Point USA founding documents, early IRS filings and contemporaneous press for the founders and whether Montgomery is named; confirm whether Charlie Kirk applied to or sought West Point."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5072",
+   "header": "**C-5072** Charlie texted that he was not allowed to go anywhere and felt important",
+   "label": "Charlie texted that he was not allowed to go anywhere and felt important",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie Kirk texted her something like 'I'm not allowed to go anywhere. I feel so important' about his security, and that she now finds this objectively weird in retrospect."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the security, him texting, saying, \"I'm not allowed to go anywhere. I feel so important,\" I think was the exact message."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1633.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11034, N-10415"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the exact text from the host's message archive with its date and compare with her recollection that it was 'the exact message'."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5073",
+   "header": "**C-5073** Host Says Charlie's Mother Refused to Let Them Drug Him and He Was Sent to a Gifted School",
+   "label": "Host Says Charlie's Mother Refused to Let Them Drug Him and He Was Sent to a Gifted School",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:18"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie Kirk told her that when he was very young they wanted to drug him but his mother said no, and that he was instead pulled out of regular school and sent to a special school for the gifted."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "when he was really young, they wanted to drug him, but his mother said no."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10422"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify which gifted school Charlie Kirk attended (the host asks viewers to find out) and check school records or biographical accounts of his early education."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5074",
+   "header": "**C-5074** Host says street lights went out when Charlie ran after sundown",
+   "label": "Host says street lights went out when Charlie ran after sundown",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:08"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that Charlie Kirk went on runs after sundown and street lights would go out as he ran, which she describes as inexplicable."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he would go on runs. I think I told you guys this after sundown and when he was running street lights would go out"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10415"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask people who ran with or lived near Charlie Kirk for first-hand accounts and check whether the host described this in an earlier episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5075",
+   "header": "**C-5075** Host says she got engaged 18 days after meeting her husband and Charlie was there",
+   "label": "Host says she got engaged 18 days after meeting her husband and Charlie was there",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:48"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she got engaged 18 days after meeting her husband George, that Charlie Kirk was present for it, and that she felt she already knew him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "how I got engaged 18 days later. No one believes me. They don't want to accept it except maybe Charlie Kirk because he was there for it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-30, N-1"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare with the host's earlier public accounts of meeting and getting engaged to George Farmer, including dates."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5076",
+   "header": "**C-5076** Host calls Project Looking Glass a CIA program revealed by whistleblowers",
+   "label": "Host calls Project Looking Glass a CIA program revealed by whistleblowers",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:54"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Project Looking Glass was a real government CIA program, that 'this actually happened', and that it was revealed by whistleblowers from the military and scientists who said the government could peer into the future."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "another shady government CIA program uh which came to be known as project looking glass. This actually happened. These were whistleblowers that came out like with all of these projects."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10413, N-11027"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5083"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find declassified CIA or Department of Defense records referring to a program named Looking Glass; identify named whistleblowers beyond Bill Wood and confirm they described the same device."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5077",
+   "header": "**C-5077** Clip says governments and corporations spent over 300 billion dollars on Y2K fixes",
+   "label": "Clip says governments and corporations spent over 300 billion dollars on Y2K fixes",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The Be Inspired clip says governments and corporations spent over $300 billion updating systems for Y2K, that it was one of the largest coordinated tech efforts in history, and that almost nothing happened at midnight."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Governments and corporations spent over $300 billion updating systems. It was one of the largest coordinated tech efforts in history."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1628.1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11027"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check contemporaneous estimates of global Y2K remediation spending (for example US Commerce Department and Gartner figures) against the clip's 300 billion dollar number."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5078",
+   "header": "**C-5078** Clip says millions remember Berenstain Bears spelled with an E",
+   "label": "Clip says millions remember Berenstain Bears spelled with an E",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The Be Inspired clip says millions remember the Berenstain Bears as 'Berenstein' with an E, while every book spells it 'Berenstain' with an A, and calls this the beginning of the Mandela effect."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Millions remember it as Berenstein with an E. But every book says Berenstain with an A."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1628.1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11027, N-11030"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the publisher's spelling history for the series and any survey data on how people remember the spelling."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5079",
+   "header": "**C-5079** Clip says the Mandela effect is named after people who remembered Mandela dying in prison",
+   "label": "Clip says the Mandela effect is named after people who remembered Mandela dying in prison",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:57"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The Be Inspired clip says the Mandela effect is named after people who remembered Nelson Mandela dying in prison years before he actually died."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "named after people who remembered Nelson Mandela dying in prison years before he actually did."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1628.1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11027, N-11030"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Trace the origin of the term 'Mandela effect' to Fiona Broome's 2009 coinage and compare with the clip's account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5080",
+   "header": "**C-5080** Clip guest says raising consciousness changes the world so old things no longer exist",
+   "label": "Clip guest says raising consciousness changes the world so old things no longer exist",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:57"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "An unnamed speaker in the Be Inspired clip says that as people raise consciousness the world morphs to a new resonance so that aspects of the old world no longer exist and people retain only phantom memories, citing Jiffy peanut butter and 'Luke I am your father'."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "As we go through our conscious progression, as we raise consciousness, the way we perceive the world and therefore all that will exist in our world will morph to that new resonance as a sympathetic resonance."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1628.1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11027, N-11030"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the speaker and the original interview; the claim is metaphysical and has no documentary test, so attribution is the checkable element."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5081",
+   "header": "**C-5081** Host says Pikachu had black at the end of his tail",
+   "label": "Host says Pikachu had black at the end of his tail",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:03"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Pikachu obviously had black at the end of his tail, presenting this as a Mandela effect example and saying someone \"hit delete\" on it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Pikachu had black at the end of his tail, obviously."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11030"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare Pokemon official artwork across 1996-present for the tip of Pikachu's tail."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5082",
+   "header": "**C-5082** Host says the deep state stole Looking Glass technology from ancient Sumer",
+   "label": "Host says the deep state stole Looking Glass technology from ancient Sumer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:03"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the deep state stole the Looking Glass device from the ancient Sumerian civilization in modern-day Iraq, incorporated it into a computer, and is apparently able to predict future outcomes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "they stole a device from the ancient Sumerian civilization that's located in modern modern day Iraq."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10413"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask the host for her source; no archaeological or declassified record is known to the transcript. Check whether Bill Wood or Project Camelot ever described a Sumerian origin."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5084",
+   "header": "**C-5084** Clip says Looking Glass timelines converge between 2012 and 2016, citing Project Camelot",
+   "label": "Clip says Looking Glass timelines converge between 2012 and 2016, citing Project Camelot",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:06"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The Be Inspired clip says multiple whistleblowers, including Bill Wood and others interviewed by Project Camelot, reported that every run of the device converged on a single fixed point somewhere between 2012 and 2016, after which the future became unpredictable."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "every time they ran the device, no matter what variables they changed, all future timelines converge to a single fixed point."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1628.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-454"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10413, N-11028"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5083"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "List the Project Camelot interviews on Looking Glass and check whether each named witness gave the 2012-2016 range or only December 21, 2012."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5085",
+   "header": "**C-5085** Host says the Mayan calendar backs up the 2012 limit",
+   "label": "Host says the Mayan calendar backs up the 2012 limit",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:23"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the 2012 limit on seeing the future was backed up by other things, including the Mayan civilization's calendar ending."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "That was backed up, by the way, by a lot of different things. Mayan civilization, the calendar, you remember that whole scare?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10413"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the host's reading of the Maya Long Count end date (2012) with Mesoamerican scholarship, which treats it as a cycle rollover."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5086",
+   "header": "**C-5086** Host says operators' conscious thoughts impacted the Looking Glass device",
+   "label": "Host says operators' conscious thoughts impacted the Looking Glass device",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says it was revealed about Project Looking Glass that the conscious thoughts of the people in the room while the device ran impacted the device, and that thoughts influenced future outcomes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the people who were in the room while this device was being operated their conscious thoughts impacted the device."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10413"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5083"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify which whistleblower account, if any, states that operators' thoughts affected outputs and whether the Be Inspired clip includes it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5089",
+   "header": "**C-5089** Clip says people report repeating numbers like 1111 as signals",
+   "label": "Clip says people report repeating numbers like 1111 as signals",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The Be Inspired clip says some people report seeing repeating numbers everywhere, such as 1111, 222 and 444, and treats them as glitches or signals tied to repeating cycles of the kind Looking Glass operators allegedly encountered."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Some people even report seeing repeating numbers everywhere like 1111, 222, 444, almost like little glitches or signals hidden in everyday life."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1628.3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10413, N-11027"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "No documentary test exists for the numbers claim; confirm only that the clip makes it and identify the clip's source."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5090",
+   "header": "**C-5090** Clip says whistleblowers claimed a confidential 2012 briefing acknowledged a convergence",
+   "label": "Clip says whistleblowers claimed a confidential 2012 briefing acknowledged a convergence",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The Be Inspired clip says some whistleblowers claimed a confidential briefing took place in 2012 in which certain agencies acknowledged a shift, a kind of convergence in human potential."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Some whistleblowers claimed that a confidential briefing took place where certain agencies acknowledged the shift, a kind of convergence in human potential."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1628.3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10413, N-11027"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5088"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify which whistleblowers described the briefing, its date and attendees, and whether any document or recording exists."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5091",
+   "header": "**C-5091** Host says the script for The Matrix was allegedly stolen",
+   "label": "Host says the script for The Matrix was allegedly stolen",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:49"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says people should look into how the script for The Matrix was stolen, allegedly."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "you should look into how even the script for The Matrix was stolen allegedly."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1628.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10413"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5087"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask the host which script-theft claim she means; check public litigation or credit disputes over The Matrix screenplay."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5093",
+   "header": "**C-5093** Host says she was handled and believes Charlie was managed",
+   "label": "Host says she was handled and believes Charlie was managed",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:23"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she believes Charlie Kirk was managed and that she herself was handled without recognizing that she had agents."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "because I do believe he was managed I mean I I've already said I was handled. I didn't recognize that I had agents."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10415"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask the host which earlier episodes describe her being handled and who the agents were; look for any documents or messages supporting either claim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5094",
+   "header": "**C-5094** Host says Charlie pushed back, told them to take the money, and they panicked and killed him",
+   "label": "Host says Charlie pushed back, told them to take the money, and they panicked and killed him",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that within the past year Charlie Kirk had started to push back, paraphrasing him as saying 'Take the money out of the organization', and that 'they' seem to have panicked and decided to kill him, and that the assassination catalyzed the loss of control they feared."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And then he goes, \"You know what? Take the money. Take the money out of the organization.\" And they panicked."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10388"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify who 'they' are and who the host says heard Charlie say to take the money out; seek messages, witnesses or financial records from the period before the assassination."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5095",
+   "header": "**C-5095** Host says the Macron lawsuit was a mistake that spread the story",
+   "label": "Host says the Macron lawsuit was a mistake that spread the story",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the lawsuit filed over her Brigitte Macron reporting was a mistake that was globally consequential and spread the story rather than stopping it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The lawsuit filing was a mistake. Obviously, it was globally consequential, right?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-82"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10270"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare public interest and coverage of the Macron story before and after the lawsuit was filed, and review the complaint and its docket."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5096",
+   "header": "**C-5096** Host says Peter Thiel gives interviews about the Antichrist",
+   "label": "Host says Peter Thiel gives interviews about the Antichrist",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says 'they' are obsessed with the Antichrist, 'maybe like people like Peter Thiel', who she says is going around giving interviews asking about the Antichrist."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Maybe like people like Peter Thiel, he's like going around giving interviews asking about the Antichrist."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-521"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate Peter Thiel's recorded lectures and interviews on the Antichrist, with dates, and see how the host characterizes them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5097",
+   "header": "**C-5097** Host says a report with doctors was produced to argue Christ is King is wrong",
+   "label": "Host says a report with doctors was produced to argue Christ is King is wrong",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:26:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says a report was produced and doctors were brought in to assert why 'Christ is king' is wrong."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They produced a report and brought in doctors to assert why Christ is king is wrong."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the report the host means, its authors, sponsoring organization and date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5098",
+   "header": "**C-5098** Host says Hollywood and removing the Bible from classrooms were designed to promote neopaganism",
+   "label": "Host says Hollywood and removing the Bible from classrooms were designed to promote neopaganism",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:26:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says 'they' set about removing the Bible from the classroom and creating Hollywood to mirror a Babylonian culture, training people to worship stars and to adopt neopaganism and atheism."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "removing the Bible from the classroom, creating Hollywood in general, which was supposed to mirror a Babylonian culture, training us to worship stars."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The claim attributes intent to unnamed actors; ask the host for primary sources on who created Hollywood or removed Bible reading and why."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5099",
+   "header": "**C-5099** Host says she lost a job in part for saying pornography is a spiritual weapon against men",
+   "label": "Host says she lost a job in part for saying pornography is a spiritual weapon against men",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:27:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she lost a job in part for saying that pornography is a spiritual weapon against men and that the history of pornography should be examined."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I lost a job in part for saying that pornography is a spiritual weapon against men and that we needed to look into the history of pornography."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10385"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the Daily Wire's stated reasons for her departure and the dates of her pornography remarks."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5100",
+   "header": "**C-5100** Host says various whistleblowers report that thoughts can impact future events",
+   "label": "Host says various whistleblowers report that thoughts can impact future events",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says it has been reported by various whistleblowers that people's thoughts could impact future events, and asks what would happen if everyone focused on goodness and God."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "if it is true, as it's been reported by various whistleblowers, that the that our thoughts could impact future events"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10413"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5083"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify those 'various whistleblowers' beyond the Be Inspired clip and check whether any made the claim on record."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5101",
+   "header": "**C-5101** Host says the moon landing involved rituals",
+   "label": "Host says the moon landing involved rituals",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:56"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that viewers should watch the moon landing and the rituals the people involved were doing, as evidence that modern science is run by Satanists."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "just go back and watch on the moon landing and the rituals that they were doing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10414"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask the host which moon landing footage and which ritual she means; compare with NASA mission records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5102",
+   "header": "**C-5102** Host says a Spectator UK article described COVID as mirroring a religion",
+   "label": "Host says a Spectator UK article described COVID as mirroring a religion",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:56"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says there was an article in the Spectator UK describing how they tried to establish COVID to mirror a religion, including ritual and masks as identifiers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "there was actually a really good article in the spect in in the spectator UK regarding how they tried to establish co to mirror a religion"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find the Spectator UK article the host refers to and check whether it makes the claim of deliberate establishment."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5103",
+   "header": "**C-5103** Mark says CERN was established in 1954 to research particle physics",
+   "label": "Mark says CERN was established in 1954 to research particle physics",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:32:57"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Mark, the show's director, says CERN was established in 1954 to research particle physics, after saying he is not a particle physicist and is a high school dropout who studies the subject recreationally."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "CERN was basically established in 1954 to research particle physics."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-67"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11029"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check CERN's founding date (convention ratified in 1954) against the CERN official history."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5104",
+   "header": "**C-5104** Mark says the Higgs boson was theorized in 1964",
+   "label": "Mark says the Higgs boson was theorized in 1964",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:32:57"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Mark says that in 1964 a group of scientists theorized the Higgs boson, that one of them was named Peter Higgs, he believes, and that this addressed one of the missing pieces in how massless particles gain mass."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "in 1964 a group of scientists theorized that there's something called a Higs Bzon."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-67"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11029"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the 1964 papers of Higgs, Englert-Brout and Guralnik-Hagen-Kibble."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5105",
+   "header": "**C-5105** Mark describes the LHC as a 17-mile tunnel up to 600 feet underground in Geneva",
+   "label": "Mark describes the LHC as a 17-mile tunnel up to 600 feet underground in Geneva",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:32:57"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Mark says CERN built the Large Hadron Collider, based in Geneva, Switzerland, in a 17-mile tunnel up to 600 feet underground in places, where particles are smashed together at high speed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the Large Hydron Collider, which is based in Geneva, Switzerland, and is a 17-mi tunnel underground up to 600 feet underground in some places"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-67"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11029"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check LHC specifications on the CERN website: circumference about 27 km and depth between about 50 and 175 m."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5106",
+   "header": "**C-5106** Mark says in 2012 CERN observed a reaction consistent with the Higgs boson called the God particle",
+   "label": "Mark says in 2012 CERN observed a reaction consistent with the Higgs boson called the God particle",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Mark says that in 2012 CERN observed a reaction consistent with the particle theorized in 1964, which some people called the God particle, and says it was an attempt to erase God from the story of creation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "in 2012, they observed a reaction that's consistent with this particle that was theorized back in 1964"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-67"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11029"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check CERN's 4 July 2012 announcement of a Higgs-like boson; the 'erase God' motive is Mark's interpretation and has no documentary test."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5110",
+   "header": "**C-5110** Host says the CERN ceremony took place under a Hindu deity statue",
+   "label": "Host says the CERN ceremony took place under a Hindu deity statue",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:17"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the ceremony in the CERN footage takes place under a Hindu deity and compares the statue to Shiva, and that it is a massive statue."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "this ceremony which again is taking place under a uh Hindu deity"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1630.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10414, N-11029"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the statue (CERN has a Shiva Nataraja statue gifted by India in 2004) and where the footage was recorded."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5109",
+   "header": "**C-5109** Host says a CERN PR person said staging a satanic ritual took their sense of humor too far",
+   "label": "Host says a CERN PR person said staging a satanic ritual took their sense of humor too far",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:29"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the PR person at the facility gave a statement saying they were taking their sense of humor too far by staging a satanic ritual."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "someone at the facility gave a statement and said they were the PR guy said they were taking their sense of humor too far by staging a satanic ritual."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1629.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10414, N-11029"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5108"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the actual CERN statement and the outlet that quoted it; confirm the wording and the speaker."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5111",
+   "header": "**C-5111** Host says an insider recorded the ritual and gave it to a YouTuber who published it",
+   "label": "Host says an insider recorded the ritual and gave it to a YouTuber who published it",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:17"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says somebody who worked at CERN recorded the ritual and gave it to a YouTuber who published it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Somebody who worked there recorded it, got it to a YouTuber who then published it"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1630.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10414, N-11029"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5107"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the YouTuber and the original upload date; check whether the recorder has been identified publicly."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5112",
+   "header": "**C-5112** Host says the CERN spokesperson confirmed the ceremony was real and unauthorized to record",
+   "label": "Host says the CERN spokesperson confirmed the ceremony was real and unauthorized to record",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:17"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the spokesperson confirmed that the ceremony was real and that the person who recorded it had no permission to record or publish it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the spokesperson confirmed it's real and this person had no permission to record it"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1630.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10414, N-11029"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5108"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the spokesperson statement and compare with the host's paraphrase."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5113",
+   "header": "**C-5113** Host says audio of the CERN footage includes a man swearing, which she takes as not a prank",
+   "label": "Host says audio of the CERN footage includes a man swearing, which she takes as not a prank",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:04"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that in the footage you hear heavy breathing and a man saying an expletive, which she takes to mean he did not think it was a prank."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "You then hear heavy breathing and you hear a guy saying f doesn't seem like it was a prank to him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1630.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10414"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the original video audio and note the exact words and where the footage cuts off."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5115",
+   "header": "**C-5115** Host says Daily Wire gangstalking has gone on for two years behind the scenes",
+   "label": "Host says Daily Wire gangstalking has gone on for two years behind the scenes",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:40:52"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Daily Wire's behavior toward her is 'like gangstalking' and has been going on consistently for two years behind the scenes, and is now visible openly, and that she regards the Egyptian Air video as a threat."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it's just been going on for two years consistently behind the scenes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1631.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10416, N-10385"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask the host for dated examples of the earlier behind-the-scenes behavior; compare with her earlier episodes on Daily Wire conduct."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5116",
+   "header": "**C-5116** Host says Tucker Carlson exposed Pompeo trying to have Assange murdered",
+   "label": "Host says Tucker Carlson exposed Pompeo trying to have Assange murdered",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:42:37"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Tucker Carlson had exposed that during his time at the CIA, she believes Mike Pompeo tried to have Julian Assange murdered."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Tucker had exposed um that during his time at the CIA, I believe it was Mike Pompeo"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2757.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-22, N-455, N-532"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11032"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate Tucker Carlson's broadcast on the CIA and Assange; check Yahoo News's 2021 reporting on CIA discussions of kidnapping or killing Assange and Pompeo's public response."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5117",
+   "header": "**C-5117** Host says her producers confirmed Pompeo discussed options to take out Assange",
+   "label": "Host says her producers confirmed Pompeo discussed options to take out Assange",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:42:37"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says after a producer fact check that she was correct and that Pompeo discussed options to take out Julian Assange."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I was correct. Yeah, he discussed options to take out Assange just to make sure we're above bar there."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2757.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-455, N-532"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11032"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check Pompeo's on-record statements about whether he discussed killing Assange and the 2021 Yahoo News report that CIA officials considered it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5119",
+   "header": "**C-5119** Host says Pompeo's remarks mean the killing of Palestinians is edited out of textbooks",
+   "label": "Host says Pompeo's remarks mean the killing of Palestinians is edited out of textbooks",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:43:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Pompeo is discussing editing textbooks to remove the fact that tens of thousands of Palestinian women, children and innocent men were murdered because it is not good for their aims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The part about how they murdered tens and thousands of Palestinian women and children and innocent men because it's just not good for their aims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1632.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-455"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10454, N-10063"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5118"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the full Pompeo remarks with the host's paraphrase; Pompeo speaks of history books and talking to children, not textbooks specifically."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5120",
+   "header": "**C-5120** Pompeo says the next generation will not remember October 7 the same way",
+   "label": "Pompeo says the next generation will not remember October 7 the same way",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:43:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip Mike Pompeo says the next generation of young people will not remember October 7th in the same way, in Israel, America and the world."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The next generation of of young people won't remember October 7th in the same way."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1632.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-455"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10063"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5118"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find the original Pompeo event and full video to confirm the setting, date and wording."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5121",
+   "header": "**C-5121** Pompeo says there were victims in Gaza but the victims were the people of Israel",
+   "label": "Pompeo says there were victims in Gaza but the victims were the people of Israel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:43:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip Pompeo says there were victims in Gaza and civilian casualties in every war, but that the victims were the people of the nation state of Israel and the aggressor was the Iranian regime through its proxy Hamas."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "There there were victims in Gaza, right? There it's true. Um there are civilian casualties in every war that's ever been fought, but the victims were the people of the nation state of Israel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1632.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-455"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10063"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5118"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare against the full unedited Pompeo remarks; the clip as aired has a partial self-correction that the host omits."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5122",
+   "header": "**C-5122** Host says the audience applauded Pompeo's statement",
+   "label": "Host says the audience applauded Pompeo's statement",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:43"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the audience started applauding after Pompeo's remarks about the history books."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I just love that they started applauding."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1632.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-455"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5118"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Watch the full video to see whether applause follows that line and what the event was."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5124",
+   "header": "**C-5124** Host says her channels now exist in Spanish, Portuguese and French",
+   "label": "Host says her channels now exist in Spanish, Portuguese and French",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her show also has channels in Spanish, Portuguese and French, with links in the description."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we also have channels in Spanish, Portuguese, and French."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the channel list linked from the episode description."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5125",
+   "header": "**C-5125** Host says she believes Charlie became too aware of his captivity and was told he could not be a person",
+   "label": "Host says she believes Charlie became too aware of his captivity and was told he could not be a person",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:49:41"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host agrees with a viewer comment that Charlie Kirk was becoming too aware of his own captivity, saying he started realizing 'whoa, am I allowed to be a person outside of this thing?' and that their answer came back forcefully as no."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he started realizing like, whoa, am I allowed to be a person outside of this thing? And their answer came back forcefully, which was no."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2756.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10415"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the verse or message Charlie sent the host and the context in which she says it was written."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5126",
+   "header": "**C-5126** Host says the quote the commenter cited is a verse Charlie sent her",
+   "label": "Host says the quote the commenter cited is a verse Charlie sent her",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:49:41"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Replying to a viewer comment from Dakota that includes the lines 'Reality is catching up with me' and 'taking my inner child', the host says the commenter is referring to the Ye 'Power' verse that Charlie Kirk sent her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "You're referring to the Ye 'Power' verse that Charlie sent to me."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2756.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10415"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the verse and its text from the message the host references; the 'Ye 'Power' verse' wording is likely a transcription error for a Kanye West lyric."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5127",
+   "header": "**C-5127** Host says YouTube demonetized her and she was throttled, leading to building her website",
+   "label": "Host says YouTube demonetized her and she was throttled, leading to building her website",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:50:49"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that in the previous year they knocked her down, demonetized her on YouTube and throttled her, which is why she built the Candace Owens website."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "That's why we ended up building the Candace Owens website was because they knocked us. They demonetized us on YouTube. They were throttling us."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2756.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11031"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check YouTube monetization notices and channel analytics around the period she cites, and the launch date of candaceowens.com."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5128",
+   "header": "**C-5128** Host says she was banned from a country when she tried to tour",
+   "label": "Host says she was banned from a country when she tried to tour",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:50:49"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she wanted to go on tour to speak and was banned from a country again, adding that she is literally banned from countries."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we wanted to go on tour and so I could speak and they banned me from a country again."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2756.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11031"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify which countries barred her, with dates and government notices."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5129",
+   "header": "**C-5129** Host says people were called and threatened for hosting her at speaking events",
+   "label": "Host says people were called and threatened for hosting her at speaking events",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:50:49"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she was being canceled from speaking events and people were being called up and threatened for hosting her on stage, all in 2024 (transcribed as 20124)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "calling people up and threatening them for hosting me on stage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2756.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11031"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the events, hosts and callers; the transcript date is garbled as '20124' and she first said 'last year, 2024 rather'."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5131",
+   "header": "**C-5131** Host says she knows about Project Monarch as precursor to Nazi traumatization of children",
+   "label": "Host says she knows about Project Monarch as precursor to Nazi traumatization of children",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:51:51"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Replying to commenter Alyssa, who recommended interviewing Cathy O'Brien, the host says she knows about Project Monarch and has discussed it on the show as the precursor to what the Nazis did here, which was about traumatizing children."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I know about Project Monarch. We've spoken about it on this show um as being the precursor to what the Nazis did here"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2756.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-716"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11033"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find the earlier episode where the host discussed Project Monarch; check historical sources on Operation Paperclip and the Monarch allegations, which are contested."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5132",
+   "header": "**C-5132** Host says Zionists control Trump's entire cabinet and Trump has no thoughts of his own",
+   "label": "Host says Zionists control Trump's entire cabinet and Trump has no thoughts of his own",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:52:43"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that once she realized it, she concluded Donald Trump does not have his own thoughts, is not controlling anything, and that the Zionists are controlling his entire cabinet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he does not have his own thoughts and he is not controlling anything and that the Zionists are controlling his entire cabinet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-5"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The claim is a sweeping characterization; ask the host which cabinet members she means and what evidence she relies on."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5133",
+   "header": "**C-5133** Host says Zionists have controlled the US military since they killed JFK",
+   "label": "Host says Zionists have controlled the US military since they killed JFK",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:52:43"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Zionists already have control of the US military, which she says they have had since they killed JFK."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Why would I want Zionists to have control, which they already have since they killed JFK, of our military today"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask the host for evidence tying the JFK assassination to a group she calls Zionists; compare with the JFK Records Collection."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5134",
+   "header": "**C-5134** Host says she has retired from politics and cannot support Trump",
+   "label": "Host says she has retired from politics and cannot support Trump",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:52:43"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she has already retired from politics, has always been 'never Trump', and cannot support what Trump is doing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I've already retired from politics."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-5"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare with the host's earlier public statements about Trump and her political activity."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5135",
+   "header": "**C-5135** Anderson says he was in GATE as a kid and was given the pink drink",
+   "label": "Anderson says he was in GATE as a kid and was given the pink drink",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:53:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Read-aloud commenter Anderson says he was in a gifted program (GATE) as a child and was given the pink drink; the host says she also was given it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I was in gate as a kid. The pink drink."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1634.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10422"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify what the pink drink was and the school district; the commenter is anonymous."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5136",
+   "header": "**C-5136** Host says students were forced to drink fluoride which burns the pineal gland",
+   "label": "Host says students were forced to drink fluoride which burns the pineal gland",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:53:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host asks whether viewers were all forced to drink fluoride in class, and says that now we know it burns the pineal glands."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "that it burns your pineal glands."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1634.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10422"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check peer-reviewed literature on fluoride accumulation in the pineal gland; the claim that it burns the gland is not established."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5137",
+   "header": "**C-5137** Host says her cousin thinks hearing tests are frequency tests used to mark kids",
+   "label": "Host says her cousin thinks hearing tests are frequency tests used to mark kids",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:53:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her cousin thinks that hearing tests given to children are really frequency tests and kids who hear certain frequencies are marked."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "my cousin thinks that even when they make us take hearing tests that they're actually doing frequency tests and if certain kids can hear certain frequencies, they mark them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1634.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10422"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The claim is second-hand from an unnamed cousin; no document is identified."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5138",
+   "header": "**C-5138** Commenter says Nick Fuentes called Epstein's 13 and 14 year old victims barely legal",
+   "label": "Commenter says Nick Fuentes called Epstein's 13 and 14 year old victims barely legal",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:54:39"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Read-aloud commenter Benny says that on 'his show' the previous night (the host's reply identifies him as Nick Fuentes) he said people should stop talking about pedophilia in relation to Epstein and called teen girls, some 13 and 14, barely legal."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He called the teen girls some that are 13 and 14 barely legal"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2756.4"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-201"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10424"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the Fuentes show episode and timestamp and compare with the commenter's paraphrase."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5139",
+   "header": "**C-5139** Host says Nick Fuentes flipped as if given instructions and is a federal informant",
+   "label": "Host says Nick Fuentes flipped as if given instructions and is a federal informant",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:54:59"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that as soon as she had Nick Fuentes on her show he flipped as if somebody gave him instructions, and that on looking into him it was obvious he is a federal informant."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He's a federal informant."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2756.4"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-201"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10424"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain any court, FOIA or journalistic records alleging Fuentes cooperated with federal authorities; ask the host for the evidence she looked at."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5140",
+   "header": "**C-5140** Host says the one-person 30-06 rooftop shooter was the federal talking point",
+   "label": "Host says the one-person 30-06 rooftop shooter was the federal talking point",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:55:11"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the account that Charlie Kirk was taken out by a .30-06 rifle fired by one shooter on the rooftop was the federal talking points and that Fuentes was aligned with it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Those were the federal talking points."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1, N-201"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10424"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Transcript is garbled in this passage; verify exactly which statements by Fuentes the host means against his show."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-5141",
+   "header": "**C-5141** Host says Charlie had recurring dreams about how he would die and she dreamed he was betrayed",
+   "label": "Host says Charlie had recurring dreams about how he would die and she dreamed he was betrayed",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:55:11"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie Kirk repeatedly had recurring dreams about how he would die and how it had to happen in a particular way, while she was having recurring dreams that he was betrayed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "having these recurring dreams about how he would die and how it had to happen in the same way that I was having recurring dreams about the fact that he was betrayed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10415, N-10404"
+    },
+    {
+     "k": "Supports",
+     "v": "C-4881"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the messages in which Charlie described the dreams and the host's own dream account from earlier episodes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    }
+   ]
+  }
+ ]
+}

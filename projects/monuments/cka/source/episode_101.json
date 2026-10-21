@@ -1,0 +1,6377 @@
+{
+ "format": "cka-source/1",
+ "episode": 101,
+ "blocks": [
+  {
+   "kind": "text",
+   "lines": [
+    "## 1. Meta-Data",
+    "",
+    "- **Episode**: 101",
+    "- **Monument**: cka",
+    "- **CKA seq**: 101",
+    "- **YouTube id**: FFQ9675oqRI",
+    "- **Candace Ep**: 335",
+    "- **Source**: Candace Owens YouTube",
+    "- **Video Timestamp Range**: 00:00:00–00:48:38",
+    "- **Extraction Timestamp (UTC)**: 2026-10-13T21:30:38Z",
+    "- **Transcript SHA-256**: 218c95ca794b9c37cf8f6732b6b3c50c03c20cf1089ea3220417c61705afcb10",
+    "- **Model Version**: claude-manual-extract-seq101",
+    "",
+    "- **Episode Ledger Summary**:",
+    "  - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused",
+    "  - Tip-minted Nodes (skeleton): N-606, N-607, N-608, N-609, N-612, N-10913, N-10915, N-10918",
+    "  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-14, N-22, N-30, N-69, N-159, N-193, N-212, N-220, N-222, N-224, N-266, N-370, N-579, N-589, N-602, N-10000, N-10026, N-10070, N-10081, N-10083, N-10194, N-10341, N-10447, N-10583, N-10637, N-10638, N-10651, N-10662, N-10664, N-298, N-10862, N-613, N-10916, N-10917, N-10914, N-610, N-611, N-10919",
+    "  - Claim Range: C-8986–C-9041",
+    "  - (see registers)",
+    "",
+    "## 2. Executive Summary",
+    "",
+    "The host opens by noting that 35 days have passed since she asked to see the footage of Charlie Kirk naming Erika Kirk as chairman and CEO, and that it has not been produced. She mocks Blake Neff for sharing a screen grab whose progress bars, she says, show how many of her episodes he has watched (A-2555.1). She then recaps the $10,000 bounty she put out the previous week for information on how the viral video of Erika Kirk leaving the White House Correspondents' Dinner came to be (A-2556). She also returns to the FARA filing of Show Faith by Works LLC, which she calls a propaganda arm of the Israeli Foreign Ministry. She shows a slide describing a mobile VR \"October 7th experience\" aimed at churches (A-2557.1).",
+    "",
+    "In the main segment the host replays Erika Kirk's pre-dinner video and the viral \"I just want to go home\" clip (A-2558), and reads posts that blamed the host for the incident (A-2559). She says the bounty brought in direct tips (A-2560). According to the first tipster, who works in politics and offered a sworn affidavit, a freelancing political operative was placed in advance to film the exit. The tipster says the moment was staged and spread through digital media teams to make it go viral, and that the person who recorded it appears to have worked with Turning Point USA. A second tipster sent a still from an unseen angle and wants a partial payment before sending the full 30-second clip. The host says she doubts that CNN's Sara Sidner recorded the video. She also points to near-identical \"this is why Trump needs a ballroom\" posts from Randy Fine, Andrew Kolvet and Meghan McCain (A-2561). She renews the 10K offer to members of the digital teams and repeats it at the close of the show.",
+    "",
+    "The host then plays Thomas Massie on Tucker Carlson's show (A-2562.1). Massie says $10 million, at least 95% of it from the Israeli lobby, has been spent against him through a PAC called MAGA Kentucky. In the third segment she says Andrew Kolvet works with Jessica Reed Kraus (House Inhabit), who she says posted a fake AI photo of her husband (A-2563.1). She walks through a Daily Mail article on Kraus's marriage that followed Ashley St. Clair's account of an escort-review site (A-2564.1). In the comments segment she lists her main questions for Erika Kirk and Turning Point USA: the surgeon \"steel neck\" quote, the three-way call, and the unproduced CEO video, which she says donors call AI. She also says Erika told her lawsuits against Brian Harpole were being prepared.",
+    "",
+    "## 3. Artifact Register",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2555",
+   "header": "**A-2555** Blake Neff Screen Grab Bundle",
+   "label": "Blake Neff Screen Grab Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2555.1",
+   "header": "**A-2555.1** Blake Neff's shared screen grab of his computer, with viewers zooming in on the progress bars of Candace episodes (shown)",
+   "label": "Blake Neff's shared screen grab of his computer, with viewers zooming in on the progress bars of Candace episodes (shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:00:54"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8987, N-159, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2556",
+   "header": "**A-2556** Decentralized Intelligence Agency WHCD Video Bounty Bundle",
+   "label": "Decentralized Intelligence Agency WHCD Video Bounty Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2556.1",
+   "header": "**A-2556.1** Host verbal reference to the bounty posted about a week earlier for footage or information on the Erika Kirk \"go home\" video (not shown)",
+   "label": "Host verbal reference to the bounty posted about a week earlier for footage or information on the Erika Kirk \"go home\" video (not shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"we put up a bounty for footage or information which would help us better understand how that remarkably timely footage of Erika saying that she wanted to go home after the White House Correspondents Dinner.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:00:54"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8988, N-2, N-3, N-10913*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2556.2",
+   "header": "**A-2556.2** Host verbal restatement of the $10,000 bounty for information on the video of Erika Kirk leaving the dinner (not shown)",
+   "label": "Host verbal restatement of the $10,000 bounty for information on the video of Erika Kirk leaving the dinner (not shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Last week we put out a bounty. I was not playing around. I said $10,000.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:05:41"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8993, N-2, N-3, N-10913*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2556.3",
+   "header": "**A-2556.3** Host verbal reference to the direct tips received in response to the 10K bounty (not shown)",
+   "label": "Host verbal reference to the direct tips received in response to the 10K bounty (not shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"So, we put out that 10K bounty. We just wanted proof of who recorded it. And lo and behold, we got a couple of very interesting direct tips, people keen to collect the 10K.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:11:18"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9001, C-9002, N-3, N-10913*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2556.4",
+   "header": "**A-2556.4** Host verbal renewal of the 10K \"no questions asked\" offer to members of the digital teams that received the video, with the tip line (20:38–21:21; not shown)",
+   "label": "Host verbal renewal of the 10K \"no questions asked\" offer to members of the digital teams that received the video, with the tip line (20:38–21:21; not shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"I will say 10K no questions asked. I will protect you as a source.\" / \"More tips at candaceowens. com.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:20:38"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9011, N-3, N-10913*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2556.5",
+   "header": "**A-2556.5** Host verbal closing request for White House Correspondents' Dinner tips, with the tip line (47:36–48:17; not shown)",
+   "label": "Host verbal closing request for White House Correspondents' Dinner tips, with the tip line (47:36–48:17; not shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"if you have any tips pertaining to the White House Correspondents Dinner 10K, no questions asked, even if you hate my guts.\" / \"More tips at candaceowens. com.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:47:36"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9041, N-3, N-10913*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2557",
+   "header": "**A-2557** Show Faith by Works FARA Filing Bundle",
+   "label": "Show Faith by Works FARA Filing Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2557.1",
+   "header": "**A-2557.1** Slide from the Show Faith by Works LLC FARA filing describing the mobile VR \"October 7th experience\" for churches (shown)",
+   "label": "Slide from the Show Faith by Works LLC FARA filing describing the mobile VR \"October 7th experience\" for churches (shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:03:31"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8989, C-8990, C-8992, N-10914, N-10662*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2558",
+   "header": "**A-2558** Erika Kirk WHCD Videos Bundle",
+   "label": "Erika Kirk WHCD Videos Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2558.1",
+   "header": "**A-2558.1** Video of Erika Kirk before the White House Correspondents' Dinner, behind sheer curtains (played)",
+   "label": "Video of Erika Kirk before the White House Correspondents' Dinner, behind sheer curtains (played)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"She carries light behind her eyes even when the dark turns.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:06:29"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8994, N-2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2558.2",
+   "header": "**A-2558.2** Viral clip of Erika Kirk leaving the dinner after shots were fired (played)",
+   "label": "Viral clip of Erika Kirk leaving the dinner after shots were fired (played)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"I just want to go home.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:06:50"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8995, C-9004, C-9005, C-9006, C-9007, N-2, N-370, N-10913, N-10637, N-10638*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2558.3",
+   "header": "**A-2558.3** Clip of Erika Kirk's speech describing the dinner seating and wine bottles (played)",
+   "label": "Clip of Erika Kirk's speech describing the dinner seating and wine bottles (played)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"And to make the night even more of a spectacle, every single 10-person table had 10 bottles of wine.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:09:41"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9000, N-2*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2559",
+   "header": "**A-2559** Reactions to the Erika Kirk Video Bundle",
+   "label": "Reactions to the Erika Kirk Video Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2559.1",
+   "header": "**A-2559.1** Graham Allen post on the \"go home\" clip (read aloud)",
+   "label": "Graham Allen post on the \"go home\" clip (read aloud)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"You can hear Erika Kirk say, 'I just want to go home. PRAY FOR HER. PRAY FOR OUR CHILDREN. HOW MUCH HORROR SHOULD ONE WOMAN have to be exposed to? Absolutely horrific.'\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:07:24"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8996, N-606, N-2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2559.2",
+   "header": "**A-2559.2** Mikhaila Peterson post on the video (read aloud)",
+   "label": "Mikhaila Peterson post on the video (read aloud)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"I don't want to share the video of Erika Kirk last night, but that is what PTSD looks like. Heartbreaking.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:07:24"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8997, N-607, N-2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2559.3",
+   "header": "**A-2559.3** Ian Miles Cheong post blaming the host (read aloud)",
+   "label": "Ian Miles Cheong post blaming the host (read aloud)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"All the endless conspiracy theorizing and attacks on Erika Kirk by Candace Owens led to this. It didn't have to be like this.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:07:24"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8998, N-602, N-2, N-3*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2559.4",
+   "header": "**A-2559.4** \"Bible in Context\" account post blaming the host and Tucker Carlson (read aloud)",
+   "label": "\"Bible in Context\" account post blaming the host and Tucker Carlson (read aloud)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Shots fired at the White House Correspondents Dinner at President and the First Lady were rushed off stage. This is what happens when propaganda and lies are spread online by people like Candace Owens and Tucker Carlson. Why do they want Trump dead?\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:08:50"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8999, N-3, N-22, N-5*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2560",
+   "header": "**A-2560** WHCD Video Bounty Tips Bundle",
+   "label": "WHCD Video Bounty Tips Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2560.1",
+   "header": "**A-2560.1** Host verbal account of the first tipster's story about a political operative positioned to record the video (not shown; name withheld)",
+   "label": "Host verbal account of the first tipster's story about a political operative positioned to record the video (not shown; name withheld)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:11:18"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9002, C-9003, C-9004, C-9005, N-10913, N-10000*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2560.2",
+   "header": "**A-2560.2** Still image from a second tipster's previously unseen angle of the exit video (described; host says it was checked and is not AI)",
+   "label": "Still image from a second tipster's previously unseen angle of the exit video (described; host says it was checked and is not AI)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:12:52"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9006, N-10913*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2561",
+   "header": "**A-2561** White House Ballroom Posts Bundle",
+   "label": "White House Ballroom Posts Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2561.1",
+   "header": "**A-2561.1** Randy Fine post on the ballroom (read aloud)",
+   "label": "Randy Fine post on the ballroom (read aloud)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"We'd better never again hear a peep from anyone complaining about a White House ballroom, huh?\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:16:21"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9008, N-222, N-10915*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2561.2",
+   "header": "**A-2561.2** Andrew Kolvet post on the ballroom (read aloud)",
+   "label": "Andrew Kolvet post on the ballroom (read aloud)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"This is why the president needs to build the White House ballroom\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:16:21"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9009, N-14, N-10915*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2561.3",
+   "header": "**A-2561.3** Meghan McCain post on the ballroom (read aloud)",
+   "label": "Meghan McCain post on the ballroom (read aloud)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"I don't want to hear one more thing about Trump's new ballroom at the White House.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:16:21"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9010, N-589, N-10915*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2562",
+   "header": "**A-2562** Tucker Carlson – Thomas Massie Interview Bundle",
+   "label": "Tucker Carlson – Thomas Massie Interview Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2562.1",
+   "header": "**A-2562.1** Clip of Thomas Massie on Tucker Carlson's show discussing outside spending in his Kentucky primary (played)",
+   "label": "Clip of Thomas Massie on Tucker Carlson's show discussing outside spending in his Kentucky primary (played)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"It's a single point lead for me. Um it's not very fluid. They've spent $10 million against me.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:22:49"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9013, C-9014, C-9015, C-9016, C-9017, N-579, N-22, N-298, N-608, N-609, N-10083, N-10916, N-10917, N-10918*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2563",
+   "header": "**A-2563** House Inhabit AI Photo Bundle",
+   "label": "House Inhabit AI Photo Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2563.1",
+   "header": "**A-2563.1** AI-generated photo posted by Jessica Reed Kraus (House Inhabit) showing the host's husband George in a silk shirt with Milo Yiannopoulos (shown)",
+   "label": "AI-generated photo posted by Jessica Reed Kraus (House Inhabit) showing the host's husband George in a silk shirt with Milo Yiannopoulos (shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:28:23"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9023, C-9024, N-610, N-30, N-220*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2564",
+   "header": "**A-2564** Daily Mail Jessica Reed Kraus Article Bundle",
+   "label": "Daily Mail Jessica Reed Kraus Article Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2564.1",
+   "header": "**A-2564.1** Daily Mail article on the marriage of Jessica Reed Kraus (House Inhabit) (shown and read aloud)",
+   "label": "Daily Mail article on the marriage of Jessica Reed Kraus (House Inhabit) (shown and read aloud)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"There his number was with its own review, quote, he's a white man, safe to see, and brought a donation as agreed.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:29:01"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9025, C-9026, C-9027, C-9028, C-9029, C-9030, N-10070, N-610, N-612*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2565",
+   "header": "**A-2565** Viewer Comments Bundle",
+   "label": "Viewer Comments Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2565.1",
+   "header": "**A-2565.1** Viewer comment (\"Design with them\") read on air about Erika Kirk not firing the security team",
+   "label": "Viewer comment (\"Design with them\") read on air about Erika Kirk not firing the security team",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"the fact that Erika didn't fire every single security officer and sue their company is the biggest red flag in world history.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:36:02"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9032, N-2, N-266*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 4. Node Register",
+    ""
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-1",
+   "header": "**N-1** Charlie Kirk",
+   "label": "Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The CEO-succession video the host has asked to see for 35 days is attributed to him. The host also says he was skilled at mimicking voices."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8986, C-9037, C-9038*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-2",
+   "header": "**N-2** Erika Kirk",
+   "label": "Erika Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Her viral \"I just want to go home\" exit from the White House Correspondents' Dinner is the subject of the host's bounty. The episode also covers her pre-dinner video, her speech, and the host's questions about the surgeon quote, the three-way call and the CEO video."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8986, C-8988, C-8993, C-8994, C-8995, C-8996, C-8997, C-8998, C-9000, C-9001, C-9004, C-9005, C-9007, C-9032, C-9034, C-9035, C-9036, C-9037, A-2556.1, A-2556.2, A-2558.1, A-2558.2, A-2558.3, A-2559.1, A-2559.2, A-2559.3, A-2565.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-3",
+   "header": "**N-3** Candace Owens",
+   "label": "Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host. She posts and renews the 10K bounty, relays the tips, and recounts her past conversation with Andrew Kolvet and what Erika Kirk told her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8987, C-8988, C-8993, C-8998, C-8999, C-9001, C-9011, C-9019, C-9020, C-9021, C-9022, C-9031, C-9032, C-9034, C-9038, C-9039, C-9040, C-9041, A-2555.1, A-2556.1, A-2556.2, A-2556.3, A-2556.4, A-2556.5, A-2559.3, A-2559.4*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-5",
+   "header": "**N-5** Donald Trump",
+   "label": "Donald Trump",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named in the ballroom talking point. Thomas Massie says Miriam Adelson has given him over $200 million, and the host says he is teaming up with AIPAC against Massie."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8999, C-9008, C-9010, C-9012, C-9017, A-2559.4*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-14",
+   "header": "**N-14** Andrew Kolvet",
+   "label": "Andrew Kolvet",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Transcript spellings \"Andrew Cole\", \"Andrew Kolvet\" and \"Andrew Kolvet that\". He posted the ballroom line. The host says he works with Jessica Reed Kraus and once asked her if she was a witch. She also says there is evidence he was in contact with Brian Harpole."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9009, C-9018, C-9019, C-9033, C-9035, C-9036, A-2561.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-22",
+   "header": "**N-22** Tucker Carlson",
+   "label": "Tucker Carlson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Interviewed Thomas Massie on his show and was blamed alongside the host in the \"Bible in Context\" post."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8999, C-9013, C-9014, A-2559.4, A-2562.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-30",
+   "header": "**N-30** George (Candace's husband)",
+   "label": "George (Candace's husband)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of the AI-generated silk-shirt photo posted by House Inhabit."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9023, C-9024, A-2563.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-69",
+   "header": "**N-69** Kash Patel",
+   "label": "Kash Patel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host says his emails were hacked the day after Alexis Wilkins' thread about her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9022*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-159",
+   "header": "**N-159** Blake Neff",
+   "label": "Blake Neff",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Shared a screen grab that the host says showed progress bars on her episodes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8987, A-2555.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-193",
+   "header": "**N-193** David Horowitz",
+   "label": "David Horowitz",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host says he wrote a piece about her and died shortly afterwards."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9021*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-212",
+   "header": "**N-212** Alexis Wilkins",
+   "label": "Alexis Wilkins",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Posted a thread tying the host to Russia, General Flynn and the Catholic Church."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9022*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-220",
+   "header": "**N-220** Milo Yiannopoulos",
+   "label": "Milo Yiannopoulos",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Referred to as \"Milo\"; depicted with the host's husband in the AI photo."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9023, C-9024, A-2563.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-222",
+   "header": "**N-222** Randy Fine",
+   "label": "Randy Fine",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Posted the ballroom line after the WHCD shooting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9008, A-2561.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-224",
+   "header": "**N-224** Shawn Ryan",
+   "label": "Shawn Ryan",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host believes Brian Harpole went on his show without TPUSA's permission."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9034*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-266",
+   "header": "**N-266** Brian Harpole",
+   "label": "Brian Harpole",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Erika Kirk told the host lawsuits against him were being prepared. The host also cites possible contact between him and Kolvet, and his Shawn Ryan appearance."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9032, C-9033, C-9034, A-2565.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-298",
+   "header": "**N-298** Miriam Adelson",
+   "label": "Miriam Adelson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named by Thomas Massie as a funder of MAGA Kentucky who has given over $200 million to the president."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9015, C-9016, C-9017, A-2562.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-370",
+   "header": "**N-370** Sara Sidner",
+   "label": "Sara Sidner",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Transcript spelling \"Sara Sidner\". The CNN reporter who first posted the exit video; the host doubts she recorded it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9007, A-2558.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-579",
+   "header": "**N-579** Thomas Massie",
+   "label": "Thomas Massie",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Kentucky congressman who says $10 million, mostly from the Israeli lobby, has been spent against him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9012, C-9013, C-9014, C-9015, C-9016, C-9017, A-2562.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-589",
+   "header": "**N-589** Meghan McCain",
+   "label": "Meghan McCain",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Posted the ballroom line after the WHCD shooting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9010, A-2561.3*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-606",
+   "header": "**N-606** Graham Allen",
+   "label": "Graham Allen",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "07:24 in episode 101. Posted that viewers could hear Erika Kirk say she wanted to go home and asked people to pray for her.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8996, A-2559.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-607",
+   "header": "**N-607** Mikhaila Peterson",
+   "label": "Mikhaila Peterson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "07:24 in episode 101. Posted that the Erika Kirk video showed \"what PTSD looks like.\" Aliases: Mikhaila Peterson.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8997, A-2559.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-602",
+   "header": "**N-602** Ian Miles Cheong",
+   "label": "Ian Miles Cheong",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "07:24 in episode 101. Posted that the host's \"conspiracy theorizing and attacks on Erika Kirk\" led to the incident.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8998, A-2559.3*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-608",
+   "header": "**N-608** Paul Singer",
+   "label": "Paul Singer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "23:39 in episode 101. Named by Thomas Massie as one of three funders of the MAGA Kentucky PAC.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9016, A-2562.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-609",
+   "header": "**N-609** John Paulson",
+   "label": "John Paulson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "23:39 in episode 101. Named by Thomas Massie as one of three funders of the MAGA Kentucky PAC.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9016, A-2562.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-610",
+   "header": "**N-610** Jessica Reed Kraus",
+   "label": "Jessica Reed Kraus",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "26:58 in episode 101. Influencer known as House Inhabit. The host says she works with Andrew Kolvet, posted an AI photo of the host's husband, and is the subject of a Daily Mail article on her marriage. Aliases: House Inhabit; House Inhabit; House Inhabit.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9018, C-9023, C-9025, C-9026, C-9027, C-9028, C-9029, C-9030, A-2563.1, A-2564.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-611",
+   "header": "**N-611** Dennis Prager",
+   "label": "Dennis Prager",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "26:58 in episode 101. The host says he wrote publicly about her and then fell down the stairs.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9020*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-612",
+   "header": "**N-612** Ashley St. Clair",
+   "label": "Ashley St. Clair",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "29:01 in episode 101. Former friend of Jessica Reed Kraus who described being present when Kraus found her husband's number on an escort-review site.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9026, C-9027, A-2564.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-613",
+   "header": "**N-613** Cardi B",
+   "label": "Cardi B",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "46:47 in episode 101. Rapper whose X exchange with the host the host says inspired her book \"Make Him a Sandwich.\"",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9040*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10000",
+   "header": "**N-10000** Turning Point USA",
+   "label": "Turning Point USA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The person alleged to have recorded the exit video appears to have worked with TPUSA. The host repeats her questions for TPUSA leadership."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8986, C-9003, C-9018, C-9032, C-9034, A-2560.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10026",
+   "header": "**N-10026** Israel",
+   "label": "Israel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The country the host says is behind the Show Faith by Works propaganda effort and the outside spending against Thomas Massie."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8989, C-8991, C-9015*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10070",
+   "header": "**N-10070** Daily Mail",
+   "label": "Daily Mail",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Published the article on Jessica Reed Kraus's marriage and the escort-review allegation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9025, C-9028, C-9029, C-9030, A-2564.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10081",
+   "header": "**N-10081** Israel Influence on US Politics",
+   "label": "Israel Influence on US Politics",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The FARA propaganda spending and the Israeli-lobby money in Thomas Massie's primary."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8991, C-9012, C-9015*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10083",
+   "header": "**N-10083** AIPAC",
+   "label": "AIPAC",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named by the host as teaming up with Trump against Massie, and by Massie as a source of the outside money."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9012, C-9015, A-2562.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10194",
+   "header": "**N-10194** TPUSA Succession Plan Disclosure Timeline",
+   "label": "TPUSA Succession Plan Disclosure Timeline",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The 35-day-old request to see footage of Charlie Kirk naming Erika Kirk as chairman and CEO."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8986, C-9037*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10341",
+   "header": "**N-10341** Andrew Kolvet Surgeon Bullet Description",
+   "label": "Andrew Kolvet Surgeon Bullet Description",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host calls the \"steel neck\" surgeon quote the biggest lie."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9035*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10447",
+   "header": "**N-10447** Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
+   "label": "Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host contrasts Erika Kirk's \"Andrew went rogue\" account with Erika initiating a three-way call."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9035, C-9036*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10583",
+   "header": "**N-10583** Aspen Donor Audio Integrity Question",
+   "label": "Aspen Donor Audio Integrity Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Donors are said to say the CEO-succession video is AI."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9037*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10637",
+   "header": "**N-10637** WHCD Incident Reconstruction",
+   "label": "WHCD Incident Reconstruction",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The White House Correspondents' Dinner shooting and Erika Kirk's exit."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8995, C-8999, A-2558.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10638",
+   "header": "**N-10638** Sara Sidner Original Video Source Verification",
+   "label": "Sara Sidner Original Video Source Verification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host doubts that Sidner recorded the exit video and suspects it was sent to her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9007, A-2558.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10651",
+   "header": "**N-10651** Brian Harpole Lawsuit Coordination Question",
+   "label": "Brian Harpole Lawsuit Coordination Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host cites evidence of possible contact between Kolvet and Harpole through military-bro YouTubers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9033*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10662",
+   "header": "**N-10662** 2025 FARA Propaganda Timeline Convergence",
+   "label": "2025 FARA Propaganda Timeline Convergence",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The Show Faith by Works filing and the increased Israeli propaganda spend."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8989, C-8990, C-8991, C-8992, A-2557.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10664",
+   "header": "**N-10664** Charlie Kirk Aspen Audio Authenticity Question",
+   "label": "Charlie Kirk Aspen Audio Authenticity Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The CEO-appointment footage that the host says has not been produced."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8986, C-9037, C-9038*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10862",
+   "header": "**N-10862** Harpole Shawn Ryan Statements vs Independent Review Findings",
+   "label": "Harpole Shawn Ryan Statements vs Independent Review Findings",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Erika Kirk told the host Harpole's Shawn Ryan appearance was unauthorized."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9034*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10913",
+   "header": "**N-10913** Erika Kirk WHCD Exit Video Staging Question",
+   "label": "Erika Kirk WHCD Exit Video Staging Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "k": "Investigation target",
+     "v": "whether the viral video of Erika Kirk saying \"I just want to go home\" as she left the 2026 White House Correspondents' Dinner after shots were fired was staged. The host's $10,000 bounty produced a tip from a person in politics who offered a sworn affidavit and named the alleged recorder. That person is described as a freelancing political operative who had done work with Turning Point USA and was positioned in advance. The tipster says the clip was shared among digital media teams to make it go viral. A second tipster holds an unseen 30-second angle. The host says she will withhold the operative's name until it is confirmed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8988, C-8993, C-9001, C-9002, C-9003, C-9004, C-9005, C-9006, C-9011, C-9041, A-2556.1, A-2556.2, A-2556.3, A-2556.4, A-2556.5, A-2558.2, A-2560.1, A-2560.2, N-2, N-10638*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10914",
+   "header": "**N-10914** Show Faith by Works LLC",
+   "label": "Show Faith by Works LLC",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "raw": "FARA-registered entity that the host describes as a propaganda arm of the Israeli Foreign Ministry. Its filing includes a detailed plan aimed at evangelical Christians. Part of that plan is a mobile VR \"October 7th experience\" trailer to be set up in church parking lots, built with Hollywood set designers and paired with biblical calls to action."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8989, C-8990, C-8992, A-2557.1, N-10662*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10915",
+   "header": "**N-10915** White House Ballroom Talking-Point Convergence",
+   "label": "White House Ballroom Talking-Point Convergence",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "k": "Investigation target",
+     "v": "the near-simultaneous posts by Randy Fine, Andrew Kolvet, Meghan McCain and others after the White House Correspondents' Dinner shooting, each saying the shooting showed why President Trump needs a White House ballroom. The host argues the uniform messaging suggests coordination."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9008, C-9009, C-9010, A-2561.1, A-2561.2, A-2561.3, N-222, N-14, N-589*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10916",
+   "header": "**N-10916** Thomas Massie Kentucky Primary Outside Spending",
+   "label": "Thomas Massie Kentucky Primary Outside Spending",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "k": "Investigation target",
+     "v": "the roughly $10 million spent against Representative Thomas Massie in his Republican primary in Kentucky. Massie says at least 95% of it came from the Israeli lobby, including the RJC, AIPAC and a PAC called MAGA Kentucky funded by Miriam Adelson, Paul Singer and John Paulson. He says the race has narrowed to a single-point lead."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9012, C-9013, C-9014, C-9015, C-9016, A-2562.1, N-579*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10917",
+   "header": "**N-10917** Republican Jewish Coalition",
+   "label": "Republican Jewish Coalition",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "raw": "Named by Thomas Massie as one of the Israeli-lobby proxies funding opposition to him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9015, A-2562.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10918",
+   "header": "**N-10918** MAGA Kentucky",
+   "label": "MAGA Kentucky",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "raw": "PAC that Thomas Massie says was funded jointly by Miriam Adelson, Paul Singer and John Paulson to oppose him, and that he calls \"neither MAGA nor Kentucky.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9016, A-2562.1, N-298, N-608, N-609*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10919",
+   "header": "**N-10919** Andrew Kolvet / House Inhabit PR Collaboration Question",
+   "label": "Andrew Kolvet / House Inhabit PR Collaboration Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "k": "Investigation target",
+     "v": "the host's allegation that Andrew Kolvet works with Jessica Reed Kraus (House Inhabit) and other YouTubers, using them as part of TPUSA's PR effort. She says Kraus is one of the people attacking her husband."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9018, C-9023, N-14, N-610*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 5. Claim Register",
+    ""
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8986",
+   "header": "**C-8986** 35 days since the host asked to see footage of Charlie Kirk naming Erika Kirk chairman and CEO",
+   "label": "35 days since the host asked to see footage of Charlie Kirk naming Erika Kirk chairman and CEO",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:00:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says it has been 35 days since she publicly requested to see the footage of Charlie Kirk naming Erika Kirk chairman and CEO in the event anything happened to him, and that it has not been produced."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it has been 35 days, 35 long days, since we have publicly, and politely I might add, we've requested to see the footage of Charlie Kirk naming his wife, Erika Kirk, as the chairman and CEO"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10194, N-10664"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Request the full, unedited source video of the Aspen remarks from Turning Point USA and check whether any video (as opposed to audio) has ever been published."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8987",
+   "header": "**C-8987** Blake Neff shared a screen grab showing progress bars on Candace episodes",
+   "label": "Blake Neff shared a screen grab showing progress bars on Candace episodes",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:00:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Blake Neff shared a screen grab of his computer to mock her. She says viewers zoomed in and noticed red progress bars showing how far he had watched her episodes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He accidentally revealed how many hours of the show he consumes when he shared a screen grab of his computer."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2555.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-3"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive Blake Neff's original post and its image at full resolution to confirm the visible progress bars and episode titles."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8988",
+   "header": "**C-8988** Bounty Posted for Footage or Information on the Erika Kirk \"Go Home\" Video",
+   "label": "Bounty Posted for Footage or Information on the Erika Kirk \"Go Home\" Video",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:00:54"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that a little over a week earlier she put up a bounty for footage or information to explain how the \"remarkably timely\" video of Erika Kirk saying she wanted to go home after the White House Correspondents' Dinner came to be."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "about a week ago, little over a week ago, we put up a bounty for footage or information which would help us better understand how that remarkably timely footage of Erika saying that she wanted to go home"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2556.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10913"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8578"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive the original bounty announcement (episode and posts) and its stated terms."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8989",
+   "header": "**C-8989** Show Faith by Works LLC is a FARA-registered propaganda arm of the Israeli Foreign Ministry",
+   "label": "Show Faith by Works LLC is a FARA-registered propaganda arm of the Israeli Foreign Ministry",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:01:56"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Show Faith by Works LLC is a FARA-registered propaganda arm of the Israeli Foreign Ministry."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Show Faith by Works LLC. That's that FARA registered propaganda arm of the Israeli Foreign Ministry."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2557.1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10914, N-10662, N-10026"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pull the Show Faith by Works LLC registration statement and foreign-principal exhibit from the DOJ FARA database."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8990",
+   "header": "**C-8990** The FARA filing states a goal of providing the \"October 7th experience\" at churches",
+   "label": "The FARA filing states a goal of providing the \"October 7th experience\" at churches",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:01:56"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Show Faith by Works filing states a goal to provide \"the October 7th experience,\" which she describes as coming to church parking lots."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "their stated goal to provide the October 7th experience. The October 7th experience coming to a church parking lot near you."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2557.1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10914, N-10662"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8837"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the exact wording of the \"October 7th experience\" in the filing's attached plan and its intended venues."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8991",
+   "header": "**C-8991** Israel is increasing its propaganda spend to about $750 million",
+   "label": "Israel is increasing its propaganda spend to about $750 million",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says recent news indicates the Israeli effort targeting evangelicals will increase its spend to about $750 million."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "with the recent news that they will be upping the spend to what is like $750 million, almost a billion dollars."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10026, N-10081, N-10662"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the news report and underlying Israeli budget documents stating the $750 million figure."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8992",
+   "header": "**C-8992** FARA filing describes a mobile VR trailer built with Hollywood set designers",
+   "label": "FARA filing describes a mobile VR trailer built with Hollywood set designers",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the filing's slide describes a mobile, reservable trailer built with Hollywood set designers. She says it includes a TV and wrap imagery of Israel or the Western Wall, a biblical call to action, and a VR experience of October 7."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They're going to build this trailer. They're going to use Hollywood set designers. Uh you're going to be able to reserve it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2557.1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10914, N-10662"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8837"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full slide deck attached to the FARA filing and any vendor contracts for the trailer build."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8993",
+   "header": "**C-8993** DIA: $10,000 bounty for information on the Erika Kirk exit video",
+   "label": "DIA: $10,000 bounty for information on the Erika Kirk exit video",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:41"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she put out a $10,000 bounty the previous week for more information on the video of Erika Kirk leaving the White House Correspondents' Dinner."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Last week we put out a bounty. I was not playing around. I said $10,000. $10,000 for more information regarding what?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2556.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10913"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8578"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive the bounty announcement and record any payouts made under it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8994",
+   "header": "**C-8994** Pre-dinner video showed Erika Kirk inside sheer curtains",
+   "label": "Pre-dinner video showed Erika Kirk inside sheer curtains",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host plays a video of Erika Kirk taken before the White House Correspondents' Dinner. She says it shows Erika inside sheer curtains in what she calls a \"classic bridal shot.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "why are you in Why are you inside of the sheer curtains? That's That's the That's a pretty classic bridal shot."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2558.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify who produced and first posted the pre-dinner video and where it was filmed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8995",
+   "header": "**C-8995** Viral video showed Erika Kirk saying \"I just want to go home\" after shots were fired",
+   "label": "Viral video showed Erika Kirk saying \"I just want to go home\" after shots were fired",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that after reports of shots fired at the dinner, a video of Erika Kirk saying \"I just want to go home\" came out and went viral."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "there's another video of Erika that comes out, and it's going viral, and she says that she wants to go home. Here it is. >> I just want to go home."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2558.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10913, N-10637"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Establish the earliest upload of the clip, its metadata and the device that recorded it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8996",
+   "header": "**C-8996** Graham Allen posted that Erika Kirk could be heard saying she wanted to go home",
+   "label": "Graham Allen posted that Erika Kirk could be heard saying she wanted to go home",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:24"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads a post by Graham Allen saying Erika Kirk could be heard saying \"I just want to go home\" and asking people to pray for her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "You can hear Erika Kirk say, 'I just want to go home. PRAY FOR HER. PRAY FOR OUR CHILDREN. HOW MUCH HORROR SHOULD ONE WOMAN have to be exposed to?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2559.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-606, N-2"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive Graham Allen's post with its timestamp relative to the clip's first upload."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8997",
+   "header": "**C-8997** Mikhaila Peterson posted that the video showed what PTSD looks like",
+   "label": "Mikhaila Peterson posted that the video showed what PTSD looks like",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:24"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads a post by Mikhaila Peterson saying that the video of Erika Kirk shows \"what PTSD looks like.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I don't want to share the video of Erika Kirk last night, but that is what PTSD looks like."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2559.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-607, N-2"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive Mikhaila Peterson's post with its date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8998",
+   "header": "**C-8998** Ian Miles Cheong posted that the host's attacks on Erika Kirk \"led to this\"",
+   "label": "Ian Miles Cheong posted that the host's attacks on Erika Kirk \"led to this\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads a post by Ian Miles Cheong saying that \"the endless conspiracy theorizing and attacks on Erika Kirk by Candace Owens led to this.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "All the endless conspiracy theorizing and attacks on Erika Kirk by Candace Owens led to this."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2559.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-602, N-2, N-3"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive Ian Miles Cheong's post with its timestamp."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8999",
+   "header": "**C-8999** \"Bible in Context\" post blamed the host and Tucker Carlson for the WHCD shooting",
+   "label": "\"Bible in Context\" post blamed the host and Tucker Carlson for the WHCD shooting",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads a post by the account \"Bible in Context\". It says the shooting at the dinner is what happens when propaganda and lies are spread by \"people like Candace Owens and Tucker Carlson.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "This is what happens when propaganda and lies are spread online by people like Candace Owens and Tucker Carlson."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2559.4"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-22"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10637"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive the \"Bible in Context\" post and identify the account's operator."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9000",
+   "header": "**C-9000** Erika Kirk said every 10-person table at the dinner had 10 bottles of wine",
+   "label": "Erika Kirk said every 10-person table at the dinner had 10 bottles of wine",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a speech clip played by the host, Erika Kirk says every 10-person table at the White House Correspondents' Dinner had 10 bottles of wine."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And to make the night even more of a spectacle, every single 10-person table had 10 bottles of wine."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2558.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the full speech recording and its venue and date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9001",
+   "header": "**C-9001** DIA: the 10K bounty produced direct tips on who recorded the video",
+   "label": "DIA: the 10K bounty produced direct tips on who recorded the video",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:18"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the 10K bounty, which sought proof of who recorded the video, brought in a couple of very interesting direct tips from people keen to collect it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "So, we put out that 10K bounty. We just wanted proof of who recorded it. And lo and behold, we got a couple of very interesting direct tips, people keen to collect the 10K."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2556.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10913"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Document the tip intake (dates, channels) and any vetting records for the submitted tips."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9002",
+   "header": "**C-9002** First tipster works in politics, offered a sworn affidavit and named the recorder",
+   "label": "First tipster works in politics, offered a sworn affidavit and named the recorder",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:18"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the first tipster works in politics and contacted her almost immediately after her show with a specific story and names. She says the tipster offered to sign a sworn affidavit and gave her the name of the person who recorded the video."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "this person reached out almost instantly following our show with a very specific story with very specific names, and they offered to sign a sworn affidavit."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2560.1, A-2556.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10913"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the signed affidavit, if executed, and independently verify the tipster's employment and access."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9003",
+   "header": "**C-9003** The alleged recorder appears to have worked with Turning Point USA",
+   "label": "The alleged recorder appears to have worked with Turning Point USA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:03"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "According to the host's tipster, the person who recorded the video appears to have done some work with Turning Point USA in the past."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it is a person who appears to have done some work with Turning Point USA in the past."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2560.1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10913, N-10000"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Once the name is released, check TPUSA vendor, contractor and event-staff records for the person."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9004",
+   "header": "**C-9004** Tipster alleges an operative was positioned in advance to film the exit",
+   "label": "Tipster alleges an operative was positioned in advance to film the exit",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:52"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "According to the host's tipster, a freelancing political operative, whose name the host is withholding, was allegedly positioned in advance with instructions to film that exact video at that place and time."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Apparently, this freelancing operative was positioned in advance with the specific instruction to take that exact video at that exact place at that exact time."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2560.1, A-2558.2"
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10913"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain venue credential lists and hotel security footage for the exit corridor, and the recorder's device metadata."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9005",
+   "header": "**C-9005** Tipster alleges the moment was staged and spread through digital media teams",
+   "label": "Tipster alleges the moment was staged and spread through digital media teams",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:52"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "According to the host's tipster, the operative was allegedly in contact with digital media teams. The tipster alleges the moment was staged, captured and deliberately shared among those teams so it would go viral."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The operative was allegedly in communication with digital media teams, and the entire moment was staged, captured, and then intentionally shared amongst those digital media teams and their operatives"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2560.1, A-2558.2"
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10913"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Trace the earliest shares of the clip across accounts and identify coordinated posting times among digital media teams."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9006",
+   "header": "**C-9006** Second tipster sent a still from a previously unseen angle",
+   "label": "Second tipster sent a still from a previously unseen angle",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:52"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says a second person sent a still from a video taken at an angle others have not seen. She says it was checked and is not AI, and that the sender wants a partial payment before sending the full 30-second video."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We checked that. That is not AI. It is definitively an angle that other people have not seen."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2560.2, A-2558.2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10913"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full 30-second video with original metadata and compare it with the viral clip."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9007",
+   "header": "**C-9007** Sara Sidner of CNN first posted the video but stopped short of saying she recorded it",
+   "label": "Sara Sidner of CNN first posted the video but stopped short of saying she recorded it",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:49"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says CNN's Sara Sidner first put the video online but stopped short of saying she recorded it, saying only that she was nearby when Erika Kirk walked out. The host believes the video was likely sent to Sidner."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I I didn't buy that Sara Sidner of uh of CNN, who initially put the video online, uh recorded it. She stopped short of saying that she recorded it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2558.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-370, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10638, N-10913"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8577"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask CNN and Sidner for the clip's provenance and the original file's metadata."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9008",
+   "header": "**C-9008** Randy Fine posted that no one should complain about a White House ballroom again",
+   "label": "Randy Fine posted that no one should complain about a White House ballroom again",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads Randy Fine's post after the shooting: \"We'd better never again hear a peep from anyone complaining about a White House ballroom, huh?\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We'd better never again hear a peep from anyone complaining about a White House ballroom, huh?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2561.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-222"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10915"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive Fine's post with its timestamp relative to the shooting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9009",
+   "header": "**C-9009** Andrew Kolvet posted that the shooting is why the president needs the ballroom",
+   "label": "Andrew Kolvet posted that the shooting is why the president needs the ballroom",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Andrew Kolvet posted that the shooting is why the president needs to build the White House ballroom."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The shooting made you think about a ballroom, Randy Fine, Andrew Kolvet? This is why the president needs to build the White House ballroom?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2561.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10915"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive Kolvet's post with its exact wording and timestamp."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9010",
+   "header": "**C-9010** Meghan McCain posted she did not want to hear more about Trump's ballroom",
+   "label": "Meghan McCain posted she did not want to hear more about Trump's ballroom",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads Meghan McCain's post after the shooting: \"I don't want to hear one more thing about Trump's new ballroom at the White House.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I don't want to hear one more thing about Trump's new ballroom at the White House."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2561.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-589, N-5"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10915"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive McCain's post and compare its timing with the other ballroom posts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9011",
+   "header": "**C-9011** DIA: 10K \"no questions asked\" offered to members of the digital teams",
+   "label": "DIA: 10K \"no questions asked\" offered to members of the digital teams",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host renews her offer of 10K \"no questions asked\" to anyone on the digital teams that received the video, promises source protection, and directs tips to candaceowens.com."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "if you were a part of the digital team that received uh that video, sounds like there were a few people who received that video, uh you again, I will say 10K no questions asked."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2556.4"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10913"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Track responses to the renewed offer and the identities of digital teams that received the clip before it went viral."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9012",
+   "header": "**C-9012** Trump is teaming up with AIPAC to unseat Thomas Massie",
+   "label": "Trump is teaming up with AIPAC to unseat Thomas Massie",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:42"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says President Trump is openly teaming up with AIPAC to unseat Thomas Massie."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Trump has made he's very vocal. He's teaming up with AIPAC to unseat an actually America First candidate."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-5, N-579"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10083, N-10916, N-10081"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review Trump's public statements and endorsements in the Kentucky primary and AIPAC-affiliated expenditures in the race."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9013",
+   "header": "**C-9013** Massie says he has a single-point lead and $10 million has been spent against him",
+   "label": "Massie says he has a single-point lead and $10 million has been spent against him",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:49"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip played by the host, Thomas Massie tells Tucker Carlson that he has a single-point lead in his primary and that $10 million has been spent against him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "It's a single point lead for me. Um it's not very fluid. They've spent $10 million against me."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2562.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-579, N-22"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10916"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check FEC independent-expenditure reports for the race and public polling at the time."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9014",
+   "header": "**C-9014** Massie's previous primaries were won by margins of 81, 76 and 75 points",
+   "label": "Massie's previous primaries were won by margins of 81, 76 and 75 points",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:49"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip, Tucker Carlson says Massie's earlier Republican primaries in his district were blowouts, with margins of 81%, 76 and 75. Massie agrees."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "So it was 81% margin, 76, 75, like full-on blowouts in the Republican primary in your district in Kentucky"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2562.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-22, N-579"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10916"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare with certified Kentucky primary results for Massie's prior races."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9015",
+   "header": "**C-9015** Massie says at least 95% of the money against him came from the Israeli lobby",
+   "label": "Massie says at least 95% of the money against him came from the Israeli lobby",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:39"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Thomas Massie says the money spent against him came from billionaires, and at least 95% of it from the Israeli lobby. He names the RJC, AIPAC, Miriam Adelson, Paul Singer and John Paulson."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it 95% of it, at least 95% has come from the Israeli lobby."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2562.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-579, N-298, N-608, N-609"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10916, N-10917, N-10083, N-10081, N-10026"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Total FEC-reported independent expenditures in the race by source."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9016",
+   "header": "**C-9016** Adelson, Singer and Paulson jointly funded a PAC called MAGA Kentucky",
+   "label": "Adelson, Singer and Paulson jointly funded a PAC called MAGA Kentucky",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:39"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Thomas Massie says Miriam Adelson, Paul Singer and John Paulson together funded a PAC called MAGA Kentucky to oppose him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Miriam Adelson, Paul Singer, and John Paulson went together. They funded a PAC called MAGA Kentucky, which is neither MAGA nor Kentucky"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2562.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-298, N-608, N-609, N-579"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10918, N-10916"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pull MAGA Kentucky's FEC filings for its donor list and expenditures."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9017",
+   "header": "**C-9017** Miriam Adelson has given over $200 million to the president",
+   "label": "Miriam Adelson has given over $200 million to the president",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:27"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Thomas Massie says Miriam Adelson has given over $200 million to the president, who puts her on stage and has said she influenced his policy toward Israel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "she's given over 200 million dollars to the president. He puts her on the stage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2562.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-298, N-5, N-579"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10916"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Total Adelson's FEC-reported contributions to Trump-aligned committees."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9018",
+   "header": "**C-9018** Andrew Kolvet has been working with Jessica Reed Kraus (House Inhabit)",
+   "label": "Andrew Kolvet has been working with Jessica Reed Kraus (House Inhabit)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:26:58"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host alleges that Andrew Kolvet works with YouTubers and \"really nasty people\", including Jessica Reed Kraus (House Inhabit). She says this was revealed a few weeks earlier."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "One of these people being House Inhabit, Jessica Reed Kraus, right? Uh she's been working with her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-610"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10919, N-10000"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the earlier revelation the host refers to and any messages or payments between Kolvet/TPUSA and Kraus."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9019",
+   "header": "**C-9019** Andrew Kolvet once asked the host whether she was a witch",
+   "label": "Andrew Kolvet once asked the host whether she was a witch",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:26:58"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that when they were on good terms, Andrew Kolvet called and asked her in earnest whether she was a witch. She says he asked because people who attacked her seemed to suffer misfortune quickly."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he asked me in in earnest if I was a witch because he saw that when people attack me, the rate at which something sort of boomerangs into their life is pretty fast."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-3"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Seek call records or Kolvet's account of the conversation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9020",
+   "header": "**C-9020** Dennis Prager wrote publicly about the host and then fell down the stairs",
+   "label": "Dennis Prager wrote publicly about the host and then fell down the stairs",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:26:58"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Kolvet was talking, she thinks specifically, about Dennis Prager, who she says wrote publicly about her and then fell down the stairs."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Dennis Prager, I think it was specifically who had written this whole thing about me publicly and then he fell down the stairs."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-611, N-3, N-14"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Date Prager's published piece about the host and the reported fall."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9021",
+   "header": "**C-9021** David Horowitz wrote a piece about the host and died shortly after",
+   "label": "David Horowitz wrote a piece about the host and died shortly after",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:26:58"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she believes David Horowitz wrote a large piece about her and died shortly afterwards. She notes that one of her first events was for his Freedom Center."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "David Horowitz, I believe, did this whole big piece and then very shortly thereafter, which was also very sad, I One of my first events I ever did was for his Freedom Center, he passed away."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-193, N-3"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Date Horowitz's piece and his death."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9022",
+   "header": "**C-9022** Kash Patel's emails were hacked the day after Alexis Wilkins' thread about the host",
+   "label": "Kash Patel's emails were hacked the day after Alexis Wilkins' thread about the host",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:23"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that the day after Alexis Wilkins posted a thread linking the host, General Flynn, Russia and the Catholic Church, Kash Patel's emails were hacked."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The day after she did that, Kash Patel's emails got hacked."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-212, N-69, N-3"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the date of Wilkins' thread with public reporting on the Patel email breach."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9023",
+   "header": "**C-9023** House Inhabit posted a fake AI photo of the host's husband in a silk shirt with Milo",
+   "label": "House Inhabit posted a fake AI photo of the host's husband in a silk shirt with Milo",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:23"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Jessica Reed Kraus (House Inhabit), who has been attacking her husband in recent weeks, posted an obviously fake AI photo of George in a silk shirt with Milo. She says the post claims he is gay."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "She is the one that posted that totally freakish, obviously fake AI photo of George wearing a silk shirt."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2563.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-610, N-30, N-220"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10919"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive the post and run AI-image provenance analysis on the photo."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9024",
+   "header": "**C-9024** Milo had never met the host's husband in London",
+   "label": "Milo had never met the host's husband in London",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:23"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Milo had never met her husband when both lived in London and that they did not move in the same circles."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Milo had of course had never met my husband when they lived in London at all."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2563.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-220, N-30"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Seek statements from Milo Yiannopoulos and George Farmer on whether they had met."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9025",
+   "header": "**C-9025** Daily Mail ran a spread on Jessica Reed Kraus's marriage and escort claims",
+   "label": "Daily Mail ran a spread on Jessica Reed Kraus's marriage and escort claims",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:29:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Daily Mail published a large article headlined to the effect that House Inhabit's \"marriage secrets\" were revealed. She says it covered escort claims, socialites calling her behavior insane, and her husband's texts about her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "they wrote MAGA influencer house and habits marriage secrets revealed insiders blow the lid on explosive escort claims"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2564.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-610"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10070"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive the Daily Mail article with its publication date and exact headline."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9026",
+   "header": "**C-9026** Jessica Reed Kraus attacked Ashley St. Clair at 3:00 a.m.",
+   "label": "Jessica Reed Kraus attacked Ashley St. Clair at 3:00 a.m.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:29:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she guesses the Daily Mail story arose after Jessica Reed Kraus attacked Ashley St. Clair, her former friend, online at about 3:00 a.m."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "It's 3:00 a. m. and she just randomly decides to attack someone. And that someone, her name is that she attacked was Ashley St. Clair."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2564.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-610, N-612"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive Kraus's posts about St. Clair with timestamps."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9027",
+   "header": "**C-9027** Ashley St. Clair says she was with Kraus when Kraus found her husband on an escort-review site",
+   "label": "Ashley St. Clair says she was with Kraus when Kraus found her husband on an escort-review site",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:29:49"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Ashley St. Clair publicly recounted being with Jessica Reed Kraus when Kraus discovered her husband listed on a site where sex workers rate clients."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Ashley decide to to just come out and tell the story about how she was with Jessica Reed Kraus when she found out that her husband was on some hooker websites."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2564.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-612, N-610"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive St. Clair's public account and her statement to the Daily Mail."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9028",
+   "header": "**C-9028** Daily Mail confirmed the review was real and the number was the husband's",
+   "label": "Daily Mail confirmed the review was real and the number was the husband's",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Daily Mail confirmed that the review was real and that the number was Kraus's husband's. She says it quoted a review posted October 5, 2024."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "So, the Daily Hit Mail did their due diligence. They went ahead and confirmed that the review was real, that it was his number."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2564.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-610"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10070"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the Daily Mail's stated verification method and the archived review."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9029",
+   "header": "**C-9029** Kraus did not deny the incident but disputed its characterization",
+   "label": "Kraus did not deny the incident but disputed its characterization",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads that Kraus did not deny the incident to the Daily Mail but disputed how it was described. Kraus attributed the listing to spammers targeting her family and said she has evidence her husband was at a friend's wedding when the review was posted."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Jessica Reed Kraus did not deny the incident, but she disputed the characterization of it"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2564.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-610"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10070"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain Kraus's full statement to the Daily Mail and the wedding evidence she cites."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9030",
+   "header": "**C-9030** Kraus's husband confirmed the number was his",
+   "label": "Kraus's husband confirmed the number was his",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:51"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Kraus's husband told the Daily Mail that the number was his but that he was not sure how it ended up on the Mr. Number app."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He said the number was his, but he wasn't really certain how it ended up on the Mr. Number app."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2564.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-610"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10070"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm the husband's quoted statement in the Daily Mail article."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9031",
+   "header": "**C-9031** The channel needs 12,000 more YouTube subscribers to reach 6 million",
+   "label": "The channel needs 12,000 more YouTube subscribers to reach 6 million",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:02"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her YouTube channel needs 12,000 more subscribers to reach 6 million."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We need 12,000 more subscribers on YouTube to hit 6 million."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check archived subscriber counts for the channel on May 7, 2026."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9032",
+   "header": "**C-9032** Erika Kirk told the host lawsuits against Brian Harpole were being prepared",
+   "label": "Erika Kirk told the host lawsuits against Brian Harpole were being prepared",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:02"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Responding to a viewer comment, the host says Erika Kirk told her they were preparing lawsuits against Brian Harpole, and that this does not seem to have happened."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "she did tell me she was they were preparing lawsuits against Brian Harpole. And that doesn't seem like that happened"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2565.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-266, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Search court dockets for any suit by Erika Kirk or TPUSA against Brian Harpole or his security company."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9033",
+   "header": "**C-9033** Evidence suggests Andrew Kolvet may have been in contact with Brian Harpole",
+   "label": "Evidence suggests Andrew Kolvet may have been in contact with Brian Harpole",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:02"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says there seems to be evidence, shown the previous day, that Andrew Kolvet may have been in contact with Brian Harpole, possibly through \"military bros\" YouTubers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "there seems to be evidence that actually Andrew Kolvet that might have been in some sort of communication, maybe by the YouTubers, those military bros, um with Brian Harpole."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-266"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10651"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the evidence shown in the prior episode and any messages between Kolvet, the YouTubers and Harpole."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9034",
+   "header": "**C-9034** Brian Harpole went on Shawn Ryan without TPUSA's permission, per Erika Kirk",
+   "label": "Brian Harpole went on Shawn Ryan without TPUSA's permission, per Erika Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk told her that Brian Harpole appeared on Shawn Ryan's show without TPUSA's permission, and that the host believes this."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I do believe the story, by the way, that he went on Shawn Ryan without their permission. She told me that"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-266, N-224, N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10862, N-10000"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask TPUSA and Harpole whether the appearance was cleared, and review any related contract terms."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9035",
+   "header": "**C-9035** The surgeon \"steel neck\" statement was a lie",
+   "label": "The surgeon \"steel neck\" statement was a lie",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the biggest lie was the claim that the surgeon said Charlie Kirk had a steel neck. She alleges Erika Kirk and Andrew Kolvet put words in the surgeon's mouth."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the biggest lie being that uh the surgeon said that he had a steel neck."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-2, N-14"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10341, N-10447"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain a statement from the treating surgeon on what, if anything, was said about the wound."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9036",
+   "header": "**C-9036** Erika Kirk said Kolvet \"went rogue\" though she initiated a three-way call",
+   "label": "Erika Kirk said Kolvet \"went rogue\" though she initiated a three-way call",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk claimed Andrew Kolvet \"went rogue\" when, according to the host, Erika initiated the phone call and it was a three-way call."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "why she would say that Andrew went rogue when she actually initiated the phone call and it was a three-way phone call."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-14"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10447"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain call logs showing who initiated the call with the surgeon and who participated."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9037",
+   "header": "**C-9037** Donors say the CEO-appointment video is AI and Charlie never said it",
+   "label": "Donors say the CEO-appointment video is AI and Charlie never said it",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:15"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says TPUSA claims to have a video of Charlie Kirk naming Erika as his successor but has not presented it. She says donors who were present call it completely AI and say Charlie never said it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They said they had a video. They're not presenting the video. Donors are saying that the video is completely AI and they were present and Charlie never said that."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10664, N-10583, N-10194"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify and interview the donors present at the Aspen event, and obtain the original recording for forensic audio analysis."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9038",
+   "header": "**C-9038** Charlie Kirk was skilled at mimicking voices",
+   "label": "Charlie Kirk was skilled at mimicking voices",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:44"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie Kirk was very good at mimicking voices and could \"do anyone's voice\". She says he told her he was always practicing voices, which she thinks dates from when he was young."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Very good at um mimicking voices. Like, he could just do anyone's voice."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10664"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Collect recordings of Charlie Kirk doing impressions and statements from friends about the skill."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9039",
+   "header": "**C-9039** A boycott call made the show's best merch sales day",
+   "label": "A boycott call made the show's best merch sales day",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:41:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that on the day of calls to boycott her merch, the show had its highest merch sales day ever."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "when they were calling for the boycott of um our merch, that it became our number one day of sales ever in the history of this show for merch."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the merch store's daily sales data with the date of the boycott call."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9040",
+   "header": "**C-9040** \"Make Him a Sandwich\" started from an X exchange with Cardi B",
+   "label": "\"Make Him a Sandwich\" started from an X exchange with Cardi B",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:46:47"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her book \"Make Him a Sandwich\" grew out of a spat with Cardi B on X, in which Cardi B told her to go make him a sandwich."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it starts with this weird rap battle I had one time with Cardi B on X"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-613, N-3"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive the original X exchange between the host and Cardi B."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9041",
+   "header": "**C-9041** DIA: closing request for WHCD tips with the 10K offer",
+   "label": "DIA: closing request for WHCD tips with the 10K offer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host closes the show by repeating the 10K \"no questions asked\" offer for tips on the White House Correspondents' Dinner video, even from people who dislike her, and directs tips to candaceowens.com."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "if you have any tips pertaining to the White House Correspondents Dinner 10K, no questions asked, even if you hate my guts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2556.5"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10913"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Track tips received through the candaceowens.com tip line after the episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 6. Meme Register",
+    ""
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-12",
+   "header": "**M-12** (meme) Decentralized Intelligence Agency",
+   "label": "(meme) Decentralized Intelligence Agency",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:00:54"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "about a week ago, little over a week ago, we put up a bounty for footage or information which would help us better understand how that remarkably timely footage of Erika saying that she wanted to go home after the White House Correspondents Dinner."
+    },
+    {
+     "k": "Context",
+     "v": "Host recaps the crowd-sourced bounty on the Erika Kirk exit video."
+    },
+    {
+     "k": "Tags",
+     "v": "dia, bounty, tips, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:05:41"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Last week we put out a bounty. I was not playing around. I said $10,000."
+    },
+    {
+     "k": "Context",
+     "v": "Host restates the $10,000 bounty to open the main segment."
+    },
+    {
+     "k": "Tags",
+     "v": "dia, bounty, tips, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:11:18"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "So, we put out that 10K bounty. We just wanted proof of who recorded it. And lo and behold, we got a couple of very interesting direct tips, people keen to collect the 10K."
+    },
+    {
+     "k": "Context",
+     "v": "Host reports that the bounty produced direct tips."
+    },
+    {
+     "k": "Tags",
+     "v": "dia, bounty, tips, payoff, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 4"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:21:21"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "More tips at candaceowens. com. Looking for who were the digital teams that were involved in getting that video out to the public. 10K no questions asked."
+    },
+    {
+     "k": "Context",
+     "v": "Host renews the 10K offer to digital team members and gives the tip line (beat begins 00:20:38)."
+    },
+    {
+     "k": "Tags",
+     "v": "dia, bounty, tip_line, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 5"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:47:36"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Again, if you have any tips pertaining to the White House Correspondents Dinner 10K, no questions asked, even if you hate my guts."
+    },
+    {
+     "k": "Context",
+     "v": "Closing tip request, followed at 00:48:17 by \"More tips at candaceowens. com.\""
+    },
+    {
+     "k": "Tags",
+     "v": "dia, bounty, tip_line, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-19",
+   "header": "**M-19** (meme) Go Max",
+   "label": "(meme) Go Max",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:01:56"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Okay, so at the top of the show, I just want to tell you guys Israel is going max on propaganda. Like super max on propaganda."
+    },
+    {
+     "k": "Context",
+     "v": "Host turns the Go Max battle cry against the Israeli propaganda effort (chapter title \"Israel goes max on propaganda\")."
+    },
+    {
+     "k": "Tags",
+     "v": "catchphrase, inversion, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-90",
+   "header": "**M-90** (meme) Erika, Go Home",
+   "label": "(meme) Erika, Go Home",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:07:24"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Erika, go home was the general public's idea for a very long time, and we were being told that that was not acceptable"
+    },
+    {
+     "k": "Context",
+     "v": "Host says Erika Kirk's \"I just want to go home\" line took the public's long-running advice."
+    },
+    {
+     "k": "Tags",
+     "v": "running_bit, sarcasm, new"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:08:50"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I specifically remember us telling Erika almost repeatedly to not be the CEO and to go home. Go home, be with your kids."
+    },
+    {
+     "k": "Context",
+     "v": "Host repeats the refrain against critics who blamed her for the incident."
+    },
+    {
+     "k": "Tags",
+     "v": "running_bit, sarcasm, new"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-75",
+   "header": "**M-75** (meme) I'll Say Allegedly",
+   "label": "(meme) I'll Say Allegedly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:11:18"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "And here is what we learned. And I'm going to say allegedly here."
+    },
+    {
+     "k": "Context",
+     "v": "Host hedges before relaying the bounty tipster's account."
+    },
+    {
+     "k": "Tags",
+     "v": "hedge, tips, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-83",
+   "header": "**M-83** (meme) Lo and Behold",
+   "label": "(meme) Lo and Behold",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:11:18"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "And lo and behold, we got a couple of very interesting direct tips, people keen to collect the 10K."
+    },
+    {
+     "k": "Context",
+     "v": "Ironic reveal marker for the bounty tips."
+    },
+    {
+     "k": "Tags",
+     "v": "reveal, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-26",
+   "header": "**M-26** (meme) Gaslight",
+   "label": "(meme) Gaslight",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:14:37"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "If we are able to confirm this in the coming days that this entire shot was staged, and I have a suspicion, I have a hunch, what will they say next? How hard are we going to get gaslit?"
+    },
+    {
+     "k": "Context",
+     "v": "Host anticipates the response if the exit video is shown to be staged."
+    },
+    {
+     "k": "Tags",
+     "v": "gaslight, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:37:12"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Uh why she would say that Andrew went rogue when she actually initiated the phone call and it was a three-way phone call. Like, uh why are we being gaslit about that?"
+    },
+    {
+     "k": "Context",
+     "v": "Host on Erika Kirk's \"went rogue\" account of the surgeon call."
+    },
+    {
+     "k": "Tags",
+     "v": "gaslight, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-91",
+   "header": "**M-91** (meme) World of Make-Believe",
+   "label": "(meme) World of Make-Believe",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:15:26"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "We are living in a world of make-believe. Everything about that White House correspondents shooting made very little sense."
+    },
+    {
+     "k": "Context",
+     "v": "Host frames the WHCD shooting and its aftermath as staged-feeling."
+    },
+    {
+     "k": "Tags",
+     "v": "running_bit, staged, new"
+    },
+    {
+     "k": "Confidence",
+     "v": "medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:17:46"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "But in this like new world of make-believe, which we seem to have stepped fully into since Charlie Kirk's assassination, they want us to believe the normal thing is this is why Trump needs a ballroom."
+    },
+    {
+     "k": "Context",
+     "v": "Host repeats the phrase about the ballroom talking point."
+    },
+    {
+     "k": "Tags",
+     "v": "running_bit, staged, new"
+    },
+    {
+     "k": "Confidence",
+     "v": "medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-66",
+   "header": "**M-66** (meme) Fed Slop",
+   "label": "(meme) Fed Slop",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:26:16"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "We're trying to get you to tell us a narrative that makes sense outside of fed sloppy text messages, full-blown confession coming from a kid who is supposed to have like a 4.3 GPA"
+    },
+    {
+     "k": "Context",
+     "v": "Host dismisses the official narrative's text-message evidence."
+    },
+    {
+     "k": "Tags",
+     "v": "fed_slop, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-79",
+   "header": "**M-79** (meme) Pass the Sniff Test",
+   "label": "(meme) Pass the Sniff Test",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:42:34"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I just get vibes, you know, it's like the White House Correspondents Dinner my vibes like not passing the sniff test."
+    },
+    {
+     "k": "Context",
+     "v": "Host on the WHCD video and the disputed CEO succession claim."
+    },
+    {
+     "k": "Tags",
+     "v": "sniff_test, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-1",
+   "header": "**M-1** (meme) Grieving Widow",
+   "label": "(meme) Grieving Widow",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:42:34"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "No one is buying this Erika Kirk is grieving bit. So, why do you keep saying it?"
+    },
+    {
+     "k": "Context",
+     "v": "Host rejects the framing that questioning Erika Kirk attacks a grieving widow."
+    },
+    {
+     "k": "Tags",
+     "v": "grieving_widow, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-18",
+   "header": "**M-18** (meme) Make Him a Sandwich",
+   "label": "(meme) Make Him a Sandwich",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:46:10"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Really excited about this one as you guys know, Make Him a Sandwich. You guys can get it on Amazon."
+    },
+    {
+     "k": "Context",
+     "v": "Host plugs her book for the next book club and challenges feminist viewers to read it."
+    },
+    {
+     "k": "Tags",
+     "v": "book, plug, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 7. Optional Flags",
+    "",
+    "- **DIA beats**: five beats received the full treatment (claim, verbal-reference artifact, M-12 occurrence): 00:00:54 (C-8988, A-2556.1), 00:05:41 (C-8993, A-2556.2), 00:11:18 (C-9001, A-2556.3), 00:20:38–00:21:21 (C-9011, A-2556.4; \"More tips at candaceowens. com\" at 21:21) and 00:47:36–00:48:17 (C-9041, A-2556.5; \"More tips at candaceowens. com\" at 48:17). The 21:21 and 48:17 tip-line hits are each treated as part of the offer they close, not as separate beats. The \"10K bounty\" mention at 11:18 (\"So, we put out that 10K bounty\") is in the same beat as the payoff. Related beats without a keyword hit were not given an M-12 occurrence: the host's possible partial payment to the second tipster (13:49, \"I might be out a couple of thousand dollars\") and the viewer comment \"let's gamble\" with the host's reply (39:44–40:21). The CIA / Candace Intelligence Agency phrase does not air, so M-14 is not used.",
+    "- **Artifacts verbally referenced but not shown**: A-2556.1–A-2556.5 (bounty and tip-line beats) and A-2560.1 (the first tipster's account; the operative's name is withheld). A-2560.2 (second tipster's still) may have been shown; the transcript only says it was sent and checked.",
+    "- **Name matching**: \"Andrew Cole\" (14:37), \"Andrew Kolvet\" (16:21), \"Andrew Kolvet that\"/\"Andrew Kolvet\" (26:58 onward) and \"Andrew Kolvet\" (32:44) are all mapped to N-14. \"Sara Sidner\" maps to N-370 Sara Sidner. \"Mikhaila Peterson\" (\"vilified for her father\") is taken to be Mikhaila Peterson (N-607); her father (Jordan Peterson) is not named, so he is not cited. \"House Inhabit\"/\"House Inhabit\" is kept as written and aliased to N-610 Jessica Reed Kraus (House Inhabit). \"Milo\" is matched to N-220 Milo Yiannopoulos. \"Taro\" (17:46, \"Get the camera behind Charlie's head\") is probably the existing node for Terryl Farnsworth, but the line is sarcasm, so it is not inscribed. \"General Flynn\" (26:58) is not matched to any node (nodes.tsv has only Conrad Flynn and David Flynn) and is not cited. \"Ian\" and \"Baron\" in a viewer comment (40:21) are probably Ian Carroll and Baron Coleman but are not cited.",
+    "- **Transcription ambiguities**: \"this Tommy Robinson story\" and \"Katie Hopkins trying to free Tommy Robinson\" (26:16) probably refer to Tyler Robinson and the official Charlie Kirk case narrative. They are kept as written and not inscribed. \"Mercel's and hot cells\" (14:37) is unclear. \"Daily Hit Mail\" (30:36) is kept as written. \"Standis cup\" (36:02) is presumably a Stanley-style merch cup. \"Dr. Stephanie Van Watson\" is in a sponsor read and is excluded.",
+    "- **Not inscribed as claims (admission test)**: the host's speculation that Andrew Kolvet might have texted someone to get the shot and that \"someone sold her grief\" (14:37); \"my every instinct is that the video was staged\" (opinion, though the tipster allegations are inscribed); the forecast that proof of staging would be \"really bad\" for MAGA (18:34); the question of why Trump needs a ballroom when he holds events at Mar-a-Lago and did not need one after Butler (17:05); \"Israel is at war with American minds\"/\"America's occupied\" (21:42, 25:30); the host's call to vote for Massie; Massie's description of Christians United for Israel as \"another wing of AIPAC and RJC\" (characterization); insults of Graham Allen, Jessica Reed Kraus and Blake Neff (\"Chex Mix maniac\" was Neff's insult of the host); the Matilda Wormwood and \"nobody puts baby in the corner\" bits; the claim that Kraus's co-workers called her a \"manic drunk\" (attributed hearsay without an artifact); the host's statement that she is \"completely embarrassed\" to have supported Trump; and grief reflections about Charlie Kirk.",
+    "- **Possible cross-episode links left out**: C-9035 (steel neck \"lie\") is related to C-4080/C-7706 (Kolvet posted the surgeon \"man of steel\" quote) but does not contradict that the post existed, so it is not linked. C-9037 (donors say the video is AI) may be in tension with C-5512 (ep 61, an Aspen donor recalls Charlie saying Erika would \"know what to do\"), but it is not the same proposition, so it is not linked. C-9012–C-9017 (Massie primary) are related to the ep 78 Turning Point Action / Massie claims (C-7044, C-7047) but make different propositions. C-9032 (Erika said lawsuits against Harpole were being prepared) is the reverse of C-8636 (Harpole's suit against the host) and is not linked.",
+    "- **Sponsor reads** (Nimi skincare, PDS Debt, Fatty 15) and the subscriber/Standis-cup merch promotion are excluded, apart from the subscriber count (C-9031) and the merch-boycott sales claim (C-9039).",
+    "- **Meta**: the skeleton's Video Timestamp Range (00:56:29) has been corrected to the transcript duration, 00:48:38.",
+    ""
+   ]
+  }
+ ]
+}

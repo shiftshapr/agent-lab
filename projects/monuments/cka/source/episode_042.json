@@ -1,0 +1,7788 @@
+{
+ "format": "cka-source/1",
+ "episode": 42,
+ "blocks": [
+  {
+   "kind": "text",
+   "lines": [
+    "## 1. Meta-Data",
+    "",
+    "- **Episode**: 42",
+    "- **Monument**: cka",
+    "- **CKA seq**: 42",
+    "- **YouTube id**: DqGNvi36ol8",
+    "- **Candace Ep**: 275",
+    "- **Source**: Candace Owens YouTube",
+    "- **Video Timestamp Range**: 00:00:00–00:53:59",
+    "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
+    "- **Transcript SHA-256**: 3c1f69671097bccc2394ca45fe92d4ded01f6adc3908c9f3aa68a3f9797749b9",
+    "",
+    "- **Episode Ledger Summary**:",
+    "  - Tip-minted Nodes (supplement_2026-10f): N-908, N-11335",
+    "  - Tip-minted Nodes (reintro-ep042): N-11057",
+    "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
+    "  - Claim Range: C-3652–C-3734",
+    "  - (see registers)",
+    "",
+    "# Episode 42 Analysis Record",
+    "",
+    "## 1. Meta-Data",
+    "",
+    "- Episode title: Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275",
+    "- Series title: Bride of Charlie investigation / Candace Owens",
+    "- Episode number: 42 (monument_ep 42 · batch_ep 22)",
+    "- Channel / creator: @RealCandaceO (Candace Owens)",
+    "- Episode date: 2025-12-05",
+    "- Source used for analysis: YouTube transcript (yt-dlp-manual caption source, cleaned with video context) + video timestamps",
+    "- YouTube ID: DqGNvi36ol8",
+    "- URL: https://www.youtube.com/watch?v=DqGNvi36ol8",
+    "- Duration: 53:59",
+    "- Transcript completeness status: Full transcript provided; cleaned (lexicon + paragraph merge). Music cues dropped.",
+    "- Analyst: Investigative Analysis Agent",
+    "- Analysis date: 2026-03-11",
+    "",
+    "Episode 42 Ledger Summary",
+    "",
+    "- Artifact Families Introduced: A-1501, A-1502, A-1503, A-1504, A-1505, A-1506, A-1507, A-1508, A-1509, A-1510, A-1511, A-1512",
+    "  - New Nodes Introduced: N-308, N-309, N-311, N-10312, N-10313",
+    "  - Reused Nodes Appearing: N-2, N-10311, N-310, N-10315, N-307, N-10314, N-11, N-22, N-30, N-61, N-69, N-75, N-278, N-282, N-10000, N-10275, N-10307",
+    "- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)",
+    "",
+    "---",
+    "",
+    "## II. Executive Summary",
+    "",
+    "Episode 42 advances two distinct lines within the Bride of Charlie record. The first centers on the dispute over TPUSA's December 15, 2025 live stream response. The artifact material presented includes an audio segment from the Charlie Kirk Show in which Blake Neff states the invitation response was directed and approved by Erika Kirk and that in-person attendance is \"intuitive\" for authenticity; a separate read-aloud of Nef's earlier \"sincere\" Phoenix invitation statement; and a subsequent Blake Neff X post asserting the engagement was \"not how you book a guest.\" A separate artifact documents the Charlie Kirk Show's reported fall to #94 on Apple Podcasts.",
+    "",
+    "The second line extends the UVU September 10 footwear and witness analysis. The host presents UVU footage emphasizing multiple young men wearing maroon shirts alone in the crowd, identifies UVU school colors as green and white, cites viewer emails linking maroon to airborne-forces identification conventions worldwide, and draws attention to two specific individuals (Jacob Kasparian and Adam Bartholomew) and to the apparent absence of family social media acknowledgement by Kasparian following the shooting. Additional artifacts include a PBS clip of witness Emmanuel Bierer and a follow-up phone-call summary with the individual who filmed one of two videos of the alleged roof subject. The episode also features an audio and lyric excerpt of The Game's track \"The Assassination of Candace Owens.\"",
+    "",
+    "The structural importance of the episode lies in compiling testimonial and on-screen material into two investigative streams: (1) the TPUSA invitation/authenticity dispute and (2) the UVU attendance pattern and witness selection, each anchored to discrete evidentiary families.",
+    "",
+    "---",
+    "",
+    "## III. Artifact Register",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1501",
+   "header": "**A-1501** Charlie Kirk Show Audio Bundle (12-05 broadcast segment)",
+   "label": "Charlie Kirk Show Audio Bundle (12-05 broadcast segment)",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1501.1",
+   "header": "**A-1501.1** Segment: \"Gina\" caller question on invitation mechanics",
+   "label": "Segment: \"Gina\" caller question on invitation mechanics",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:04:20–00:05:36"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3655, C-3660, N-311, N-159, N-2, N-10313*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1501.2",
+   "header": "**A-1501.2** Segment: Blake Neff response – Erika Kirk direction and in-person rationale",
+   "label": "Segment: Blake Neff response – Erika Kirk direction and in-person rationale",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:05:37–00:07:32"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3655, C-3660, C-3668, N-159, N-2, N-10313*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1502",
+   "header": "**A-1502** TPUSA Phoenix Live Stream Announcement Bundle",
+   "label": "TPUSA Phoenix Live Stream Announcement Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1502.1",
+   "header": "**A-1502.1** Blake Neff prior statement: Phoenix live stream \"sincere\" invitation",
+   "label": "Blake Neff prior statement: Phoenix live stream \"sincere\" invitation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:11:14–00:11:58"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3707, N-159, N-10313, N-2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1503",
+   "header": "**A-1503** The Game Song Bundle",
+   "label": "The Game Song Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1503.1",
+   "header": "**A-1503.1** Audio clip and read-aloud lyric excerpt of \"The Assassination of Candace Owens\"",
+   "label": "Audio clip and read-aloud lyric excerpt of \"The Assassination of Candace Owens\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:34:18–00:37:41"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3678, N-304, N-2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1504",
+   "header": "**A-1504** John McCain Ukraine Speech Clip Bundle",
+   "label": "John McCain Ukraine Speech Clip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1504.1",
+   "header": "**A-1504.1** John McCain addressing Ukraine protesters (Maidan material)",
+   "label": "John McCain addressing Ukraine protesters (Maidan material)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:18:45–00:19:19"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: N-10311*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1505",
+   "header": "**A-1505** UVU September 10 Footage Bundle",
+   "label": "UVU September 10 Footage Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1505.1",
+   "header": "**A-1505.1** Footage segment: young men alone wearing maroon shirts in crowd",
+   "label": "Footage segment: young men alone wearing maroon shirts in crowd",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:20:45–00:21:50"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3679, C-3704, N-10311, N-307, N-308*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1505.2",
+   "header": "**A-1505.2** Footage segment: Jacob Kasparian not ducking after shot",
+   "label": "Footage segment: Jacob Kasparian not ducking after shot",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:24:00–00:24:45"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3689, C-3691, N-307, N-10311*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1505.3",
+   "header": "**A-1505.3** Footage segment: Jacob Kasparian recording (grainy superimposition)",
+   "label": "Footage segment: Jacob Kasparian recording (grainy superimposition)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:25:00–00:25:35"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3691, N-307, N-10311*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1505.4",
+   "header": "**A-1505.4** Jacob Kasparian earlier-day social media post (dyed blue shirt)",
+   "label": "Jacob Kasparian earlier-day social media post (dyed blue shirt)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:24:50–00:25:25"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3690, N-307, N-10311*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1505.5",
+   "header": "**A-1505.5** Adam Bartholomew live-stream footage (full event)",
+   "label": "Adam Bartholomew live-stream footage (full event)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:26:30–00:28:00"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3695, C-3696, C-3698, N-308, N-309, N-10311*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1505.6",
+   "header": "**A-1505.6** Video segment: a person holding a maroon shirt",
+   "label": "Video segment: a person holding a maroon shirt",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:21:40–00:21:55"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3704, N-10311*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1506",
+   "header": "**A-1506** Blake Neff X Post Bundle",
+   "label": "Blake Neff X Post Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1506.1",
+   "header": "**A-1506.1** Tweet: \"Of course, it's not how you book a guest. We are not booking a guest…\"",
+   "label": "Tweet: \"Of course, it's not how you book a guest. We are not booking a guest…\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:46:13–00:46:55"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3700, N-159, N-10313*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1507",
+   "header": "**A-1507** Charlie Kirk Show Apple Podcasts Ranking Bundle",
+   "label": "Charlie Kirk Show Apple Podcasts Ranking Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1507.1",
+   "header": "**A-1507.1** Announcement of Charlie Kirk Show falling to #94 on Apple Podcasts",
+   "label": "Announcement of Charlie Kirk Show falling to #94 on Apple Podcasts",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:02:41–00:03:00"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3681, N-10312*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1508",
+   "header": "**A-1508** PBS Emmanuel Bierer Interview Bundle",
+   "label": "PBS Emmanuel Bierer Interview Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1508.1",
+   "header": "**A-1508.1** PBS News clip of Emmanuel Bierer describing UVU event",
+   "label": "PBS News clip of Emmanuel Bierer describing UVU event",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:32:42–00:33:55"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3713, N-310, N-10315*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1509",
+   "header": "**A-1509** Roof Shooter Video Follow-up Bundle",
+   "label": "Roof Shooter Video Follow-up Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1509.1",
+   "header": "**A-1509.1** Host follow-up phone-call summary with side-angle roof video shooter",
+   "label": "Host follow-up phone-call summary with side-angle roof video shooter",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:44:21–00:45:55"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3714, C-3719, C-3715, N-10314*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1510",
+   "header": "**A-1510** Anonymous Military Maroon Email Bundle",
+   "label": "Anonymous Military Maroon Email Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1510.1",
+   "header": "**A-1510.1** Email quotes from current/former military personnel on maroon color conventions",
+   "label": "Email quotes from current/former military personnel on maroon color conventions",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:22:10–00:23:45"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3659, N-10311*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1511",
+   "header": "**A-1511** Carrie Bartholomew X Post Bundle",
+   "label": "Carrie Bartholomew X Post Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1511.1",
+   "header": "**A-1511.1** Tweet from Carrie Bartholomew confirming she was in courtyard during shot",
+   "label": "Tweet from Carrie Bartholomew confirming she was in courtyard during shot",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:27:30–00:28:00"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3696, N-309, N-308, N-10311*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1512",
+   "header": "**A-1512** Audience Comment Bundle",
+   "label": "Audience Comment Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1512.1",
+   "header": "**A-1512.1** YouTube comment: \"Tyler Robinson can appear in court by video conference, but Turning Point USA says Candace cannot attend their debate by similar means.\"",
+   "label": "YouTube comment: \"Tyler Robinson can appear in court by video conference, but Turning Point USA says Candace cannot attend their debate by similar means.\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:01:32–00:02:30"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: N-10313*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3205",
+   "header": "**A-3205** Viewer Comment Bundle",
+   "label": "Viewer Comment Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3205.1",
+   "header": "**A-3205.1** Host reads the top viewer comment saying TPUSA took three months to respond then gave 24 hours",
+   "label": "Host reads the top viewer comment saying TPUSA took three months to respond then gave 24 hours",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"TPUSA takes them three months to respond. Also TPUSA, you have 24 hours to respond.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:01:33"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3652, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3205.2",
+   "header": "**A-3205.2** Host reads a viewer comment about a news station talking to memorial attendees for three hours",
+   "label": "Host reads a viewer comment about a news station talking to memorial attendees for three hours",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"a news station at the CK Memorial talked to attendees for three hours and none of them believed the FBI narrative.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:43:37"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3712, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3205.3",
+   "header": "**A-3205.3** Host reads a viewer comment calling Blake Neff a man fired by Tucker Carlson for racist remarks",
+   "label": "Host reads a viewer comment calling Blake Neff a man fired by Tucker Carlson for racist remarks",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"is a guy who was fired by Tucker Carlson for racist remarks.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:45:11"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3721, C-3722, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3205.4",
+   "header": "**A-3205.4** Host reads a viewer comment about a Bari Weiss interview of Erika Kirk on December 13",
+   "label": "Host reads a viewer comment about a Bari Weiss interview of Erika Kirk on December 13",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Bari Weiss is interviewing Erika Kirk on December 13th.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:49:14"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3732, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3206",
+   "header": "**A-3206** TikTok User Footage Bundle",
+   "label": "TikTok User Footage Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3206.1",
+   "header": "**A-3206.1** Host verbal reference to a TikTok user's claim about family footage and an FBI deletion request, and to footage he sent her (nothing shown)",
+   "label": "Host verbal reference to a TikTok user's claim about family footage and an FBI deletion request, and to footage he sent her (nothing shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:20:45"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3683, C-3684, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3207",
+   "header": "**A-3207** Decentralized Intelligence Agency Tip Line Bundle",
+   "label": "Decentralized Intelligence Agency Tip Line Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3207.1",
+   "header": "**A-3207.1** Host verbal reference to the tip email address more tips at candaceowens.com (verbal call for tips)",
+   "label": "Host verbal reference to the tip email address more tips at candaceowens.com (verbal call for tips)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"more tips candens. com.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:28:44"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3701, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## IV. Node Register",
+    "",
+    ""
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-1",
+   "header": "**N-1** Charlie Kirk",
+   "label": "Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of the investigation and central figure of all artifact-backed claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "0 (entry-level carryover from prior episodes)"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1501.1, A-1501.2, A-1503.1, A-1507.1, A-1512.1, C-3655, C-3678, C-3681*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-159",
+   "header": "**N-159** Blake Neff",
+   "label": "Blake Neff",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "TPUSA spokesperson featured in artifact-anchored audio segment and X post."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1501.2, A-1502.1, A-1506.1, C-3655, C-3660, C-3668, C-3707, C-3700, N-10313*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-14",
+   "header": "**N-14** Andrew Kolvet",
+   "label": "Andrew Kolvet",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "TPUSA figure referenced in connection with the live stream; spelling varies in transcript (\"Andrew Kolvet,\" \"Andrew Kolvet,\" \"Andrew Kolvet\") – see Optional Flags."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1501.1, A-1501.2, N-159, N-10313*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-304",
+   "header": "**N-304** The Game",
+   "label": "The Game",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Recording artist whose track \"The Assassination of Candace Owens\" is presented in the episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1503.1, C-3678, N-1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-307",
+   "header": "**N-307** Jacob Kasparian",
+   "label": "Jacob Kasparian",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Individual identified in UVU September 10 footage by host; subject of non-ducking, recording, and clothing-change observations. Spelled \"Jacob Kasparian\" once in transcript – see Optional Flags."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1505.2, A-1505.3, A-1505.4, C-3689, C-3691, C-3690, N-10311*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-308",
+   "header": "**N-308** Adam Bartholomew",
+   "label": "Adam Bartholomew",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Live-streamer of the UVU event; identified in host's footage analysis."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1505.5, C-3695, C-3698, N-309, N-10311*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-309",
+   "header": "**N-309** Carrie Bartholomew",
+   "label": "Carrie Bartholomew",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Spouse of Adam Bartholomew; confirmed in her own social media post as being in the courtyard during the shot."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1511.1, C-3696, N-308, N-10311*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-310",
+   "header": "**N-310** Emmanuel Bierer",
+   "label": "Emmanuel Bierer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Eyewitness featured in PBS interview clip; host notes his selection by mainstream media."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1508.1, C-3713, N-10315*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-311",
+   "header": "**N-311** \"Gina\" (Charlie Kirk Show caller)",
+   "label": "\"Gina\" (Charlie Kirk Show caller)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Caller who posed question to Blake Neff regarding invitation mechanics."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1501.1, N-159, N-10313*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10311",
+   "header": "**N-10311** Maroon Shirt Pattern at UVU September 10 Event",
+   "label": "Maroon Shirt Pattern at UVU September 10 Event",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Persistent observation of multiple young men alone in maroon shirts at UVU; potential identification protocol question."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1505.1, A-1505.2, A-1505.3, A-1505.4, A-1505.5, A-1505.6, A-1510.1, A-1511.1, C-3679, C-3704, C-3689, C-3691, C-3690, C-3695, C-3696, C-3698, C-3700, C-3659, N-307, N-308, N-309*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10312",
+   "header": "**N-10312** Charlie Kirk Show Apple Podcasts Ranking Decline",
+   "label": "Charlie Kirk Show Apple Podcasts Ranking Decline",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Persistent target tracking reported drop to #94 from prior top-10 status."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1507.1, C-3681, N-1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10313",
+   "header": "**N-10313** TPUSA December 15 Live Stream Event Verification",
+   "label": "TPUSA December 15 Live Stream Event Verification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Persistent target tracking the announced December 15, 2025 TPUSA live stream response, its invitation mechanics, Erika Kirk's attendance, and evidentiary handling."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1501.1, A-1501.2, A-1502.1, A-1506.1, A-1512.1, C-3655, C-3660, C-3668, C-3707, C-3700, C-3663, N-159, N-14, N-311, N-2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10314",
+   "header": "**N-10314** Roof Shooter Video Witness Follow-up",
+   "label": "Roof Shooter Video Witness Follow-up",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Persistent target tracking the two videos of the alleged roof subject, the side-angle shooter's testimony, and absence of federal or defense outreach."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1509.1, C-3714, C-3719, C-3715*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10315",
+   "header": "**N-10315** Mainstream Media Eyewitness Selection Pattern at UVU Event",
+   "label": "Mainstream Media Eyewitness Selection Pattern at UVU Event",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Persistent target tracking why Emmanuel Bierer was selected by PBS (and other networks) as a featured eyewitness despite his apparent obscurity."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1508.1, C-3713, N-310*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-2",
+   "header": "**N-2** Erika Kirk",
+   "label": "Erika Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "TPUSA CEO whose direction of the response is disputed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3670, C-3671, C-3730, C-3732, C-3733*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-3",
+   "header": "**N-3** Candace Owens",
+   "label": "Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host, speaks for herself throughout."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3652, C-3654, C-3658, C-3661, C-3662, C-3665, C-3666, C-3667, C-3669, C-3670, C-3671, C-3673, C-3674, C-3675, C-3677, C-3680, C-3683, C-3684, C-3682, C-3685, C-3692, C-3693, C-3694, C-3699, C-3701, C-3702, C-3703, C-3705, C-3708, C-3710, C-3711, C-3712, C-3716, C-3717, C-3718, C-3720, C-3722, C-3724, C-3725, C-3726, C-3727, C-3728, C-3729, C-3730, C-3731, C-3733, C-3734*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11",
+   "header": "**N-11** Tyler Bowyer",
+   "label": "Tyler Bowyer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named by the host as a late-night tweeter."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3672*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-22",
+   "header": "**N-22** Tucker Carlson",
+   "label": "Tucker Carlson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of the comment about Neff's past employment and the host's planned inquiry."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3721, C-3722, C-3726*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-30",
+   "header": "**N-30** George (Candace's husband)",
+   "label": "George (Candace's husband)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host's husband, whose scheduling for December 15 the host cites."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3673*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-40",
+   "header": "**N-40** Tyler Robinson",
+   "label": "Tyler Robinson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Defendant whose court case the roof filmer has not been drawn into."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3720*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-61",
+   "header": "**N-61** Phil Lyman",
+   "label": "Phil Lyman",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The person the host's remark about Tiffany Barker names (transcribed as Phil Lyman)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3705*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-69",
+   "header": "**N-69** Kash Patel",
+   "label": "Kash Patel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named in the host's aside."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3725*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-75",
+   "header": "**N-75** Tiffany Barker",
+   "label": "Tiffany Barker",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Cited by the host as an example of how a witness got a news hit."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3705*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-278",
+   "header": "**N-278** Bari Weiss",
+   "label": "Bari Weiss",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of the comment and host remark about an interview of Erika Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3732, C-3733*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-282",
+   "header": "**N-282** Adam Sosnick",
+   "label": "Adam Sosnick",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Source of the remark the host attributes to him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3726*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10000",
+   "header": "**N-10000** Turning Point USA",
+   "label": "Turning Point USA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Organization at the center of the invitation dispute."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3652, C-3656, C-3666, C-3672, C-3731*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10275",
+   "header": "**N-10275** Maroon Shirt Coordination Theory",
+   "label": "Maroon Shirt Coordination Theory",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host's theory that the maroon men were coordinated."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3693, C-3699, C-3701*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10307",
+   "header": "**N-10307** TPUSA Phoenix Livestream Verification Question",
+   "label": "TPUSA Phoenix Livestream Verification Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The Phoenix studio setting of the live stream."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3669*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11057",
+   "header": "**N-11057** Blake Neff Employment History Account",
+   "label": "Blake Neff Employment History Account",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The claims about his work for Tucker Carlson."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3721, C-3722*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11335",
+   "header": "**N-11335** FBI Footage Deletion Request Claim (TikTok User)",
+   "label": "FBI Footage Deletion Request Claim (TikTok User)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The host reports that a TikTok user claimed that, after he submitted videos shot by a family member to the FBI, the FBI asked him to delete the footage. The host says she does not know whether it is true and that the same individual later sent her footage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3683, C-3684*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-908",
+   "header": "**N-908** John McCain",
+   "label": "John McCain",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "17:54 in episode 42; the host identifies him as the speaker in a clip addressing protesters in Ukraine.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3675, C-3676, C-3677*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## V. Claim Register",
+    ""
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3655",
+   "header": "**C-3655** Blake Neff stated TPUSA invitation response was at direction and approval of Erika Kirk",
+   "label": "Blake Neff stated TPUSA invitation response was at direction and approval of Erika Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:37"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "On the Charlie Kirk Show, Blake Neff stated that the invitation-response announcement and all related actions were taken at the request, direction, and approval of Erika Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1501.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-159"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10313"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full unedited Charlie Kirk Show audio segment and any internal TPUSA communications referencing Erika Kirk's approval."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3660",
+   "header": "**C-3660** Blake Neff stated it is \"intuitive\" that in-person attendance is critical for authenticity",
+   "label": "Blake Neff stated it is \"intuitive\" that in-person attendance is critical for authenticity",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:44"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "On the Charlie Kirk Show, Blake Neff stated, \"I think it's pretty intuitive that given what is being said ... it's critical to be in person if you want to be authentic and to be detailed.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1501.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10313"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare this stated rationale against any prior TPUSA live stream format decisions, particularly those involving remote participation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3668",
+   "header": "**C-3668** Blake Neff's prior \"sincere\" Phoenix invitation did not require in-person attendance",
+   "label": "Blake Neff's prior \"sincere\" Phoenix invitation did not require in-person attendance",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In his earlier invitation statement, which the host reads aloud, Blake Neff said that if Candace is available TPUSA \"would sincerely welcome her participation in that live stream at our studio in Phoenix\"; the host says this was not a demand to be there in person."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1502.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10313"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the original December 3 (approx.) Blake Neff statement text and any follow-up communication that added an in-person condition."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3707",
+   "header": "**C-3707** The Game's released track contains the question \"Who really killed Charlie Kirk?\"",
+   "label": "The Game's released track contains the question \"Who really killed Charlie Kirk?\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:18"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The Game's song \"The Assassination of Candace Owens\" (audio excerpt and lyric read) includes the line \"Who really killed Charlie Kirk?\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1503.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-304, N-3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full released track and verify publication date, distribution platform, and producer credits."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3678",
+   "header": "**C-3678** UVU school colors are green and white, not maroon",
+   "label": "UVU school colors are green and white, not maroon",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that when she asked someone at UVU whether the school colors are maroon, he replied that they are green and white."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1505.1 (verbal confirmation referenced alongside footage)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10311"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify UVU official branding (athletics department, university communications) to confirm stated school colors."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3679",
+   "header": "**C-3679** Host Says UVU September 10 Footage Shows Numerous Young Men Alone Wearing Maroon Shirts",
+   "label": "Host Says UVU September 10 Footage Shows Numerous Young Men Alone Wearing Maroon Shirts",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:45–00:21:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says footage from UVU on September 10 shows multiple young men attending alone and wearing maroon shirts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1505.1, A-1505.6"
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10311"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Systematically catalog every maroon-shirted attendee visible in publicly available September 10 footage and cross-reference social media profiles."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3723",
+   "header": "**C-3723** Blake Neff X post states invitation was not guest booking and Candace declined",
+   "label": "Blake Neff X post states invitation was not guest booking and Candace declined",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:46:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Blake Neff posted on X that the invitation was \"not how you book a guest,\" that TPUSA \"never said that we were\" booking a guest, and that Candace \"was given the opportunity to join and declined.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1506.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10313"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the original X post with timestamp and any replies; obtain any direct communication records between TPUSA and Candace Owens's representatives."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3653",
+   "header": "**C-3653** Per Tweet Host Reads, The Charlie Kirk Show Fell to #94 on Apple Podcasts",
+   "label": "Per Tweet Host Reads, The Charlie Kirk Show Fell to #94 on Apple Podcasts",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:41"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per a tweet the host reads, The Charlie Kirk Show has fallen to #94 on Apple Podcasts despite a prior top-10 ranking and a prior #1 placement while Kirk was alive."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1507.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10312"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Cross-reference third-party Apple Podcasts tracking services to verify the ranking on the cited date and identify trend pattern."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3704",
+   "header": "**C-3704** PBS featured Emmanuel Bierer as eyewitness in Salt Lake City",
+   "label": "PBS featured Emmanuel Bierer as eyewitness in Salt Lake City",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:32:42–00:33:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says PBS and other networks featured Emmanuel Bierer as an eyewitness and that he was filmed in Salt Lake City rather than at UVU; she plays a PBS clip of him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1508.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-310"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10315"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the original PBS segment, identify the producer/assignment editor, and verify how Bierer was identified as a witness."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3689",
+   "header": "**C-3689** Host Says Jacob Kasparian Did Not Duck After the Shot Went Off",
+   "label": "Host Says Jacob Kasparian Did Not Duck After the Shot Went Off",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:00–00:24:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says UVU footage shows Jacob Kasparian remaining upright and not ducking after the shot, briefly handling his phone and walking away."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1505.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-307"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10311"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the original full-length footage to confirm the absence of ducking and any subsequent movement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3691",
+   "header": "**C-3691** Jacob Kasparian recorded the event on his phone",
+   "label": "Jacob Kasparian recorded the event on his phone",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:00–00:25:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says footage and a grainy superimposed image she shows depict Jacob Kasparian recording the event on his phone."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1505.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-307"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10311"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain any phone-recorded footage from Jacob Kasparian or his device via subpoena/preservation order."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3690",
+   "header": "**C-3690** Jacob Kasparian's earlier-day social media post depicted a different shirt",
+   "label": "Jacob Kasparian's earlier-day social media post depicted a different shirt",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:50–00:25:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Jacob Kasparian posted himself earlier on September 10 wearing a dyed blue shirt rather than the maroon shirt worn at UVU."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1505.4"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-307"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10311"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the original Facebook post with timestamp metadata; verify whether the timestamp was edited for timezone."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3695",
+   "header": "**C-3695** Host Says Adam Bartholomew Live-Streamed the Entire UVU Event",
+   "label": "Host Says Adam Bartholomew Live-Streamed the Entire UVU Event",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:26:30–00:28:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Adam Bartholomew live-streamed the entire UVU event on September 10."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1505.5"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-308"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10311"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full Adam Bartholomew livestream VOD and metadata for forensic review."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3696",
+   "header": "**C-3696** Carrie Bartholomew confirmed via tweet she was in the courtyard during the shot",
+   "label": "Carrie Bartholomew confirmed via tweet she was in the courtyard during the shot",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:27:30–00:28:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Carrie Bartholomew posted a photo and a tweet confirming where she was when the shot went off; the tweet the host reads says \"When we thought laying in the courtyard that we were about to get shot in the back or in the head\". The host separately says Carrie was standing by the bush."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1511.1, A-1505.5"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-309"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10311"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the original Carrie Bartholomew tweet with image metadata and timestamp."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3698",
+   "header": "**C-3698** Host Says Adam Bartholomew Did Not Stop Livestreaming to Find His Wife After the Shot",
+   "label": "Host Says Adam Bartholomew Did Not Stop Livestreaming to Find His Wife After the Shot",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:27:51–00:28:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that in his livestream footage Adam Bartholomew did not interrupt the broadcast to check on or locate his wife immediately after the shot."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1505.5"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-308, N-309"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10311"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the full Bartholomew livestream timeline and any subsequent communication regarding his wife's location."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3700",
+   "header": "**C-3700** Tyler Robinson was wearing a maroon shirt at the event",
+   "label": "Tyler Robinson was wearing a maroon shirt at the event",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:44"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Tyler Robinson, the alleged shooter, notoriously was wearing a maroon shirt at the UVU event."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1505.1 (referenced as background fact)"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10311"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Cross-reference court filings and law enforcement exhibits confirming Robinson's attire on September 10."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3681",
+   "header": "**C-3681** Multiple email correspondents state maroon is associated with airborne forces in multiple militaries",
+   "label": "Multiple email correspondents state maroon is associated with airborne forces in multiple militaries",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:10–00:23:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In emails the host reads from people she says are past or present military, one writer says airborne forces wear maroon in the UK, the USA, France and dozens of other militaries, and another says undercover police and FBI units often use a \"color of the day\" or unit color as a signal to others on the same mission."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1510.1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10311"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Cross-reference the email assertions against publicly available military uniform/identifier doctrine for airborne, QRF, and undercover units."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3713",
+   "header": "**C-3713** Only two videos of the alleged shooter on the roof exist",
+   "label": "Only two videos of the alleged shooter on the roof exist",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per host recollection, there are only two videos showing the alleged shooter on the roof – one from the side showing a crouched figure holding a gun."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1509.1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10314"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Catalog all publicly known September 10 roof footage and confirm whether additional footage exists in government holdings."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3714",
+   "header": "**C-3714** Roof video caller did not see subject take the shot and observed no recoil",
+   "label": "Roof video caller did not see subject take the shot and observed no recoil",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:21–00:45:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the individual who shot one of the two roof videos told her in a follow-up call that he did not see the subject take the shot and saw no recoil."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1509.1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10314"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain a sworn statement from the roof video caller and any forensic review of the footage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3719",
+   "header": "**C-3719** Roof video caller reports no contact from Robinson's defense or federal authorities",
+   "label": "Roof video caller reports no contact from Robinson's defense or federal authorities",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:45:11"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the roof video caller told her that Tyler Robinson's defense lawyer had not reached out to him, and that federal authorities had not reached out since she called him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1509.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10314"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify via court subpoena records and FBI/subpoena logs whether the caller was contacted by either party."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3715",
+   "header": "**C-3715** Roof video caller reports firearms-instruction background",
+   "label": "Roof video caller reports firearms-instruction background",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:21–00:45:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the roof video caller has experience with guns and teaches people to shoot."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1509.1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10314"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the caller's stated qualifications via credentialing records or instructors' registry."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3659",
+   "header": "**C-3659** Blake Neff Says Erika Kirk Heads This",
+   "label": "Blake Neff Says Erika Kirk Heads This",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip the host plays, Blake Neff says Erika Kirk 'heads this'."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1501.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-159"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10313"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain TPUSA corporate filings or official communications confirming Erika Kirk's current title and date of appointment."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3663",
+   "header": "**C-3663** Clip the Host Plays Has Blake Neff Saying TPUSA Response Live Stream Is Set for December 15",
+   "label": "Clip the Host Plays Has Blake Neff Saying TPUSA Response Live Stream Is Set for December 15",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:32"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip of The Charlie Kirk Show that the host plays, Blake Neff says a TPUSA response live stream is going forward and was announced for December 15 (2025)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1501.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10313"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Monitor TPUSA channels for confirmation and document the actual event for artifact capture."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3652",
+   "header": "**C-3652** Top Comment Says TPUSA Took Three Months to Respond Then Gave 24 Hours",
+   "label": "Top Comment Says TPUSA Took Three Months to Respond Then Gave 24 Hours",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:01:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads a top viewer comment saying that TPUSA took three months to respond and then gave the host 24 hours to respond to its invitation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "TPUSA takes them three months to respond. Also TPUSA, you have 24 hours to respond."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3205.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10313, N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Establish from TPUSA's December 3 to 5 posts and the date it first said it would respond whether a 24-hour deadline was ever stated to the host."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3654",
+   "header": "**C-3654** Caller Gina Says Invitation Tweet Posted at Midnight and Host Saw It Nine Hours Later",
+   "label": "Caller Gina Says Invitation Tweet Posted at Midnight and Host Saw It Nine Hours Later",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:20"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Caller Gina tells Blake Neff on the Charlie Kirk Show that, as she understands it, the invitation to the host was tweeted at midnight and the host did not see it until about nine hours later."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it was issued Blake I think at 12 on a tweet that you had but or midnight 12 not noon midnight and so it was like nine hours later before she even knew"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1501.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-311, N-159, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10313"
+    },
+    {
+     "k": "Supports",
+     "v": "C-3610"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pull the timestamp of Neff's invitation post on X and compare it with when the host first responded publicly."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3656",
+   "header": "**C-3656** Neff Says TPUSA Initially Thought No One Would Believe the Claims",
+   "label": "Neff Says TPUSA Initially Thought No One Would Believe the Claims",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:37"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Blake Neff says TPUSA did not address the host's claims for a long time because it initially thought no one would believe a lot of what was said and remembered the friendship Charlie had with her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we initially just thought no one would believe a lot of what was being said and we also just we we remembered the same friendship that Charlie had"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1501.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10313, N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare with TPUSA's earlier statements and staff messages about whether and when it chose not to respond."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3657",
+   "header": "**C-3657** Neff Says No Date Was Agreed When He Read the Statement",
+   "label": "Neff Says No Date Was Agreed When He Read the Statement",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:37"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Blake Neff says that when he read the initial statement on the show TPUSA had not yet agreed on a date and would announce one later."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We actually hadn't agreed on it at the time I read the statement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1501.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10313"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the Wednesday show audio and any internal scheduling messages showing when December 15 was chosen."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3658",
+   "header": "**C-3658** Neff Says Host Is Free to Attend in Person Once a Date Is Announced",
+   "label": "Neff Says Host Is Free to Attend in Person Once a Date Is Announced",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:37"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Blake Neff says that once TPUSA announced the date, the host was free to attend in person."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "once we announce it Candace is free to attend in person."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1501.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10313"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare with the text of the original Wednesday statement to see whether in-person attendance was stated then."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3661",
+   "header": "**C-3661** Neff Says Host Said Name the Time and Place and TPUSA Did",
+   "label": "Neff Says Host Said Name the Time and Place and TPUSA Did",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:44"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Blake Neff says the host had said \"you name the time, you name the place,\" and that TPUSA did exactly that."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Candace for her part had said you name the time, you name the place. That is what we did."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1501.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10313"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find the host's earlier public statement or message using the phrase and compare it with the December announcement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3662",
+   "header": "**C-3662** Neff Says Host Had No Difficulty Finding the Scheduled Time",
+   "label": "Neff Says Host Had No Difficulty Finding the Scheduled Time",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:44"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Blake Neff says he does not think the host had any difficulty finding out TPUSA's scheduled time because everyone found it out quite quickly."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I don't think she had any difficulty in finding out what our what our scheduled time was. It seems everyone found it out quite quickly."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1501.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10313"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check whether TPUSA sent the host or her team any direct notice before the public post."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3664",
+   "header": "**C-3664** Host Says Kolvet Was Remote While Neff Said In Person Is Critical",
+   "label": "Host Says Kolvet Was Remote While Neff Said In Person Is Critical",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:32"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that Andrew Kolvet was live streaming with Blake Neff and was not physically present while Neff said attendance must be in person to be authentic."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He's like, \"It's not authentic unless it's it's a person is in person and Andrew Kolvet is literally not in person as he's answering his questions.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1501.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-159"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10313"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Watch the December 5 Charlie Kirk Show video to confirm whether Kolvet appeared remotely."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3665",
+   "header": "**C-3665** Host Says Her Most Viral Debates Were Never In Person",
+   "label": "Host Says Her Most Viral Debates Were Never In Person",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her most contentious and most viral debates have never been held in person."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "My most contentious and my most viral debates have never been in person."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10313"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "List the host's past debates and their formats to confirm which were remote."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3666",
+   "header": "**C-3666** Host Says Original Offer Set No In-Person or 24-Hour Requirement",
+   "label": "Host Says Original Offer Set No In-Person or 24-Hour Requirement",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says TPUSA's original offer did not make in-person attendance a demand and did not say she had to respond within 24 hours."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They never made in person a point of their demands. Um they never also said that I had to respond within 24 hours."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1502.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10313, N-10000"
+    },
+    {
+     "k": "Supports",
+     "v": "C-3668"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the original December 3 statement and TPUSA posts for any mention of an in-person condition or a deadline."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3667",
+   "header": "**C-3667** Host Says Her Husband Ruled Out Monday",
+   "label": "Host Says Her Husband Ruled Out Monday",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her husband instantly told her she could not do Monday."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "my husband instantly said, \"No, you cannot do this Monday.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-30"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10313"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "This rests on the host's own account; confirm only through the host."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3669",
+   "header": "**C-3669** Neff's Earlier Statement Placed the Live Stream at TPUSA's Phoenix Studio",
+   "label": "Neff's Earlier Statement Placed the Live Stream at TPUSA's Phoenix Studio",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the earlier statement the host reads aloud, Blake Neff says TPUSA would sincerely welcome the host's participation in the live stream at its studio in Phoenix."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "If Candace is available, we would sincerely welcome her participation in that live stream at our studio in Phoenix."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1502.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10313, N-10307"
+    },
+    {
+     "k": "Supports",
+     "v": "C-3668"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the original statement text and video to verify the wording."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3670",
+   "header": "**C-3670** Host Says Statement Called Critics Antifa Members and Erika Approved It",
+   "label": "Host Says Statement Called Critics Antifa Members and Erika Approved It",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that, if Erika Kirk approved the statement as Neff stated, it was approved even though it referred to critics as Antifa members."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "she approved the statement that went out referring to people uh as Antifa members like making us akin to a basket of deplorables"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-3, N-159"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10313"
+    },
+    {
+     "k": "Supports",
+     "v": "C-3655"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the statement text and check whether it used the word Antifa for the host's audience."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3671",
+   "header": "**C-3671** Host Says She Would Join Especially If Erika Kirk Is There",
+   "label": "Host Says She Would Join Especially If Erika Kirk Is There",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she would especially like to make the December event work if Erika Kirk is going to be there, which she calls a game changer."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I would especially like to make this work if you are saying or implying that Erika Kirk is going to be there"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10313"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask TPUSA whether Erika Kirk was to appear at the December 15 live stream."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3672",
+   "header": "**C-3672** Host Says Kolvet Is on the Road and Not Correcting Tone",
+   "label": "Host Says Kolvet Is on the Road and Not Correcting Tone",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says TPUSA spokesperson Andrew Kolvet seems to be on the road and is not correcting the attitudes coming out, and that Tyler Bowyer has been late-night tweeting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Andrew Kolvet who seems to be on the road and isn't course correcting in the attitudes that are coming out"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-11"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10313, N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check Kolvet's public travel and Bowyer's posts around December 3 to 5."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3673",
+   "header": "**C-3673** Host Says Her Husband Cannot Make December 15",
+   "label": "Host Says Her Husband Cannot Make December 15",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:18"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her husband George shut down the idea that she could make December 15 work immediately and for a valid reason."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "There's no way in hell um that George can make the 15th work."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-30, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10313"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "This rests on the host's account; ask TPUSA what flexibility it offered on dates."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3674",
+   "header": "**C-3674** Host Says She Believes It Was a Deep State Assassination",
+   "label": "Host Says She Believes It Was a Deep State Assassination",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:54"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she believes the Kirk killing was a deep state assassination and reasons from how the CIA organizes color revolutions abroad."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "if we believe and know um and have the intuition that this is a deep state assassination, I do."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Treat as the host's stated belief; nothing in this passage is documented evidence."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3675",
+   "header": "**C-3675** Host Says Ukraine's 2014 Uprising and McCain Were a US Color Revolution",
+   "label": "Host Says Ukraine's 2014 Uprising and McCain Were a US Color Revolution",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:54"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host asserts that the 2014 Ukrainian uprising against Yanukovich, in which John McCain addressed protesters, was a United States military color revolution rather than an authentic one."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "when John McCain went over there and led the protesters in the streets, he was really representing the voice of the people. It was not another United States military color revolution."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1504.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-908, N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Treat as the host's sweeping historical assertion; assess against documented accounts of the 2013 to 2014 events."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3676",
+   "header": "**C-3676** Clip Has McCain Telling Ukrainians It Is Their Moment",
+   "label": "Clip Has McCain Telling Ukrainians It Is Their Moment",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "A clip the host identifies as John McCain addressing protesters in Ukraine includes the line \"People of Ukraine, this is your moment.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "People of Ukraine, this is your moment."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1504.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-908"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the source video and date of the McCain speech."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3677",
+   "header": "**C-3677** Host Says the Assassination Was as Organic as McCain Leading Ukraine",
+   "label": "Host Says the Assassination Was as Organic as McCain Leading Ukraine",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she believes the Kirk assassination was about as organic as John McCain leading the people of Ukraine, meaning she believes it was organized."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "that Charlie Kirk's assassination was about as organic as John McCain."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1504.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-908, N-3"
+    },
+    {
+     "k": "Supports",
+     "v": "C-3674"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Treat as the host's belief; the analogy itself is not evidence."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3680",
+   "header": "**C-3680** Host Says Three Men Shown Alone in Maroon After the Shot",
+   "label": "Host Says Three Men Shown Alone in Maroon After the Shot",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says footage shows a young man after the shot, another sitting under a tree after the shot and a third, all alone and wearing maroon, and other men in maroon including one in the bush."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Show you another person here sitting there under the tree after the shot and he's wearing maroon."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1505.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10311"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Catalog each frame the host showed and match the people to named attendees."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3683",
+   "header": "**C-3683** Host Says a TikTok User Claimed the FBI Told Him to Delete Family Footage",
+   "label": "Host Says a TikTok User Claimed the FBI Told Him to Delete Family Footage",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:23"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says a TikTok user claimed that someone in his family shot videos of the event and that the FBI asked him to delete the footage after he submitted it, and she says she does not know whether that is true."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "when he submitted them to the FBI, the FBI had asked him to delete that footage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3206.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11335, N-10311"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the TikTok user and preserve his submission record to the FBI; confirm with him whether a deletion request was made."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3684",
+   "header": "**C-3684** Host Says the TikTok User Sent Her Footage That Showed Kasparian",
+   "label": "Host Says the TikTok User Sent Her Footage That Showed Kasparian",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:32"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that when she got in touch with the same individual he sent her the footage, and her eye gravitated to another man in maroon who was alone and did not duck."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "when I got in touch with this individual and he sent me the footage, my eye immediately gravitated towards another person who happened to be wearing maroon"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3206.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-307"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11335, N-10311"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the original footage and its metadata from the individual."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3682",
+   "header": "**C-3682** Emailer Says Colors Let Military Observers Know Whom to Protect",
+   "label": "Emailer Says Colors Let Military Observers Know Whom to Protect",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads an emailer who says that in coordinated violent scenes people in identifiable colors help military observers know whom to protect or look for."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "especially in coordinated violent scenes, uh, making sure that people are in certain colors or in something that is identifiable is important so that military men can observe who to protect or who they're looking for"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1510.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10311"
+    },
+    {
+     "k": "Supports",
+     "v": "C-3681"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask military color-marking experts whether identifier colors are used this way; the emailer is unnamed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3685",
+   "header": "**C-3685** Host Says She Does Not Think Kasparian Shot Kirk",
+   "label": "Host Says She Does Not Think Kasparian Shot Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she does not think Jacob Kasparian shot Charlie Kirk and that she is only observing things she finds unusual."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I do not think he shot Harley Charlie Kirk"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1505.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-307, N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10311"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare with the host's later statements about Kasparian."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3686",
+   "header": "**C-3686** Host Says Kasparian Attended the Event Alone",
+   "label": "Host Says Kasparian Attended the Event Alone",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says it is unusual that Jacob Kasparian attended the event alone."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it's unusual that he attended the event alone."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1505.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-307"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10311"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review crowd footage for companions of Kasparian."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3687",
+   "header": "**C-3687** Host Says Kasparian's Facebook Post Was at 8:42 or 7:42 a.m.",
+   "label": "Host Says Kasparian's Facebook Post Was at 8:42 or 7:42 a.m.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Kasparian's earlier Facebook post of himself in a different shirt is stamped either 8:42 a.m. or 7:42 a.m., and she is unsure whether Facebook adjusted the time zone."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he had posted himself earlier that day at either 8:42 a. m. or 7:42 a. m."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1505.4"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-307"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10311"
+    },
+    {
+     "k": "Qualifies",
+     "v": "C-3690"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the original post with metadata to settle which time applies and the time zone."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3688",
+   "header": "**C-3688** Host Says Kasparian Moved from High Ground to a Lower Rung Before the Shot",
+   "label": "Host Says Kasparian Moved from High Ground to a Lower Rung Before the Shot",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Kasparian was up high on the campus and was at a lower rung two minutes before Charlie Kirk was shot."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He's up high. Um and then he's at the lower rung 2 minutes before Charlie gets shot."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1505.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-307, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10311"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Track Kasparian's position through crowd footage in the two minutes before 12:23."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3692",
+   "header": "**C-3692** Host Says Kasparian's Family Posted Nothing About the Assassination",
+   "label": "Host Says Kasparian's Family Posted Nothing About the Assassination",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says none of Kasparian's family members posted anything about the assassination that she could find, even though he is active online and it happened in their backyard."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "None of his family members posted anything about Charlie's assassination. He is active."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-307, N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10311"
+    },
+    {
+     "k": "Supports",
+     "v": "C-3293"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Social media audit; absence of posts is weak evidence about a private family."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3693",
+   "header": "**C-3693** Host Suspects Maroon Boys Were Tasked with Filming from Set Angles",
+   "label": "Host Suspects Maroon Boys Were Tasked with Filming from Set Angles",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she is beginning to suspect that the maroon-shirted men in general were tasked with taking footage from predetermined angles, and calls it a suspicion that may be wrong."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I am beginning to suspect that our maroon boys in general were tasked with taking footage from predetermined angles."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1505.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10275, N-10311"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify each maroon-shirted attendee and test whether their footage coincides with key angles."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3694",
+   "header": "**C-3694** Host Says She Never Said Anything About Bartholomew Before",
+   "label": "Host Says She Never Said Anything About Bartholomew Before",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:26:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she had never said anything about Adam Bartholomew, had only reviewed his footage, and that online users were clocking him as suspicious."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I have never ever said anything about Adam Bartholomew. I have reviewed his footage, but people online were clocking him as suspicious."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1505.5"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-308, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10311"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the host's earlier episodes for any mention of Bartholomew."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3697",
+   "header": "**C-3697** Host Says Carrie Bartholomew Stood Almost Directly Near Kasparian",
+   "label": "Host Says Carrie Bartholomew Stood Almost Directly Near Kasparian",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:27:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she learned by accident that Adam Bartholomew's wife Carrie was at the event, standing by the bush almost directly near Kasparian."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "his wife Carrie was there and she was standing by the bush actually almost directly near Jacob Kasparian."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1511.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-309, N-308, N-307"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10311"
+    },
+    {
+     "k": "Supports",
+     "v": "C-3696"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate both people in the same frame of the footage and photo."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3699",
+   "header": "**C-3699** Host Says All Footage Came from Maroon Boys and Was Algorithmically Boosted",
+   "label": "Host Says All Footage Came from Maroon Boys and Was Algorithmically Boosted",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:27:51"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she thinks all of the footage has come from the maroon-shirted men and that a lot of it was then algorithmically boosted."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I think all of our footage has come from Maroon Boys and a lot of that footage uh was then algorithmically boosted."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10275, N-10311"
+    },
+    {
+     "k": "Supports",
+     "v": "C-3693"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Map the earliest uploads of the main videos to the accounts of the people in maroon."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3701",
+   "header": "**C-3701** Host Asks Viewers to Identify the Maroon Men at more tips",
+   "label": "Host Asks Viewers to Identify the Maroon Men at more tips",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:44"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host asks viewers who recognize the maroon-shirted men she showed to email more tips (transcribed as 'candens.com'), and says she does not want general thoughts on the color."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "if you recognize these individuals in particular, more tips candens. com."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3207.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10311, N-10275"
+    },
+    {
+     "k": "Tags",
+     "v": "dia, relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Reconcile tips received with the host's later identifications."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3702",
+   "header": "**C-3702** Host Says Bierer Is a Former Oracle Engineer Believed from Germany",
+   "label": "Host Says Bierer Is a Former Oracle Engineer Believed from Germany",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Emmanuel Bierer is a former employee of Oracle, a software engineer, and she believes from Germany."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he's a former employee of Oracle. He's in engineering. Uh, I believe he's from Germany from what I looked into."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-310, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10315"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check public professional profiles for Bierer's employer history and location."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3703",
+   "header": "**C-3703** Host Says She Sees No Photos of Bierer at the Event",
+   "label": "Host Says She Sees No Photos of Bierer at the Event",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Bierer attended the event but that she does not see any photos of him there, and asks viewers for footage showing him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he attended the event but somehow I don't see any photos of him at the event"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-310, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10315"
+    },
+    {
+     "k": "Supports",
+     "v": "C-3704"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Request footage from attendees who recognize Bierer."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3705",
+   "header": "**C-3705** Host Says Barker Said Her Friendship Got the Early News Hit",
+   "label": "Host Says Barker Said Her Friendship Got the Early News Hit",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:32:42"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Tiffany Barker said that being friends with a political figure the transcript renders as Phil Lyman was the reason she got the news hit that morning."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Oh, I was friends with uh, you know, Phil Lyman and that's the reason that I was able to get the news hit in the morning."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-75, N-61, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10315"
+    },
+    {
+     "k": "Supports",
+     "v": "C-669"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the name in the HappyScribe transcript and the Barker interview source."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3706",
+   "header": "**C-3706** Bierer Says in the Clip He Heard a Loud Sound and Everyone Ducked",
+   "label": "Bierer Says in the Clip He Heard a Loud Sound and Everyone Ducked",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:32:42"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the PBS clip Emmanuel Bierer says he heard a loud sound, did not think it could be happening, and that everyone ducked."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I hear this loud sound and I'm like, \"That wasn't what I thought it was, is it?\" I was like, \"No, this can't be happening right now.\" And we all ducked."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1508.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-310"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10315"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full PBS segment and the date it aired."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3708",
+   "header": "**C-3708** Host Says The Game Has Dropped the Mixtape with the Track",
+   "label": "Host Says The Game Has Dropped the Mixtape with the Track",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:18"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that The Game has now dropped his mixtape with the song The Assassination of Candace Owens on it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The Game dropped his album, his mixtape with the song The Assassination of Candace Owens on it"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1503.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-304, N-3"
+    },
+    {
+     "k": "Supports",
+     "v": "C-3590"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the release date and platform of the mixtape."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3709",
+   "header": "**C-3709** Lyric Reads His Body Is Not Yet Settled in the Dirt",
+   "label": "Lyric Reads His Body Is Not Yet Settled in the Dirt",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:18"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads a lyric from the second verse, \"his body is not yet settled in the dirt. Why are you carrying on like that?\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "his body is not yet settled in the dirt. Why are you carrying on like that?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1503.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-304, N-1"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the lyric against the released track."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3710",
+   "header": "**C-3710** Host Says Her Book Is on Amazon and Direct from Her Site at 20 Percent Off",
+   "label": "Host Says Her Book Is on Amazon and Direct from Her Site at 20 Percent Off",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:42:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her book Make Him a Sandwich is on Amazon, that buying direct at makehimasandwich.com gives 20 percent off, and that signed copies are available only at candaceowens.com."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "if you want to get 20% off, you should head to make him a sandwichand. com. And you can buy it directly from us with no middleman."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the store listing for the offer."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3711",
+   "header": "**C-3711** Host Says Memberships to Club Candace and the Book Club Can Now Be Gifted",
+   "label": "Host Says Memberships to Club Candace and the Book Club Can Now Be Gifted",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:42:49"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says a membership to Club Candace or to the book club can now be gifted on her website."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "you can now gift someone a membership to Club Candace or to the book club on our website."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the site for the gift feature."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3712",
+   "header": "**C-3712** Commenter Says a News Station Heard Memorial Attendees for Three Hours with No Believers",
+   "label": "Commenter Says a News Station Heard Memorial Attendees for Three Hours with No Believers",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:43:37"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads a commenter who says a news station at the Charlie Kirk memorial talked to attendees for three hours and none of them believed the FBI narrative."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "a news station at the CK Memorial talked to attendees for three hours and none of them believed the FBI narrative."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3205.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the news station and obtain the unedited footage of the interviews."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3716",
+   "header": "**C-3716** Host Says the Side-Angle Filmer Recorded the Figure at 12:23",
+   "label": "Host Says the Side-Angle Filmer Recorded the Figure at 12:23",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that when she called the person who shot the side-angle roof video she put it to him that he was recording the figure at 12:23."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "because literally he's recording him at 12:23, right?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1509.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10314"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the video with metadata; the host does not say whether 12:23 is a clock or video time."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3717",
+   "header": "**C-3717** Host Says the Filmer Earlier Said He Saw Someone in Tactical Gear",
+   "label": "Host Says the Filmer Earlier Said He Saw Someone in Tactical Gear",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that the filmer had told her early on that the person in his video was not the person he saw and that he saw somebody in tactical gear."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he told us early on, \"That's not the person that I saw. I saw somebody in tactical gear."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1509.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10314"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare with earlier episodes where an eyewitness described tactical gear and confirm whether it is the same person."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3718",
+   "header": "**C-3718** Host Says the Filmer Says the Reassembling Claims Did Not Happen",
+   "label": "Host Says the Filmer Says the Reassembling Claims Did Not Happen",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the filmer told her he can say that claims of the shooter putting the gun back together did not happen."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I've seen so many people uh debating whether or not he put the gun back together.\" He's like, \"I can say that none of that happened.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1509.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10314"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask the filmer directly what his video does and does not show."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3720",
+   "header": "**C-3720** Host Says Only Two People Filmed the Roof Figure and One Seems Unsubpoenaed",
+   "label": "Host Says Only Two People Filmed the Roof Figure and One Seems Unsubpoenaed",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:45:11"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says only two people have camera footage of the figure on the roof and asks how the side-angle filmer has not been subpoenaed into the court case."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "There's only two people that have cameras of this person on the roof and you are telling me that he hasn't been like automatically subpoenaed into the court case."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1509.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-40, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10314"
+    },
+    {
+     "k": "Qualifies",
+     "v": "C-3719"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the Robinson docket and witness lists for the filmer."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3721",
+   "header": "**C-3721** Commenter Says Neff Was Fired by Tucker Carlson for Racist Remarks",
+   "label": "Commenter Says Neff Was Fired by Tucker Carlson for Racist Remarks",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:45:11"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads a commenter who says Blake Neff was fired by Tucker Carlson for racist remarks."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "is a guy who was fired by Tucker Carlson for racist remarks."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3205.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-22"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11057"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check contemporaneous reporting on the circumstances of Neff's departure from Fox News; the host did not endorse the claim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3722",
+   "header": "**C-3722** Host Says She Did Not Know Neff Used to Work for Tucker Carlson",
+   "label": "Host Says She Did Not Know Neff Used to Work for Tucker Carlson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:45:11"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she did not know that Blake Neff used to work for Tucker Carlson and says she will ask Carlson about him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I actually didn't know that Blake Neff used to work for Tucker Carlson."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3205.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-159, N-22"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11057"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask Carlson or his office about Neff's tenure on his program."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3724",
+   "header": "**C-3724** Host Says She Never Declined an Offer to Join the Live Stream",
+   "label": "Host Says She Never Declined an Offer to Join the Live Stream",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:46:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she never declined an offer to join the live stream, disputing Neff's post saying she was given the opportunity to join and declined."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I never declined an offer to join your live stream."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1506.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-159"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10313"
+    },
+    {
+     "k": "Contradicts",
+     "v": "C-3723"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the host's replies and any direct messages from December 3 to 5 for any refusal."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3725",
+   "header": "**C-3725** Host Says Patel Thinks His Girlfriend's Music Is Sensational",
+   "label": "Host Says Patel Thinks His Girlfriend's Music Is Sensational",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:18"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the FBI is run by Kash Patel and that he thinks his girlfriend's music is sensational."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it is being run by Kash Patel and he thinks his girlfriend's music is sensational."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-69, N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Treat as the host's aside; Patel's public comments on the music would be the source."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3726",
+   "header": "**C-3726** Host Says According to Sosnick Tucker Is Her Only Friend",
+   "label": "Host Says According to Sosnick Tucker Is Her Only Friend",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:18"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that according to Adam Sosnick, Tucker Carlson is her only friend."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "According to Adam Sosnick, Tucker's my only friend."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-282, N-22, N-3"
+    },
+    {
+     "k": "Supports",
+     "v": "C-3393"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare with Sosnick's original remark."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3727",
+   "header": "**C-3727** Host Says BLM Was a Scam and Its Backers Bought Houses",
+   "label": "Host Says BLM Was a Scam and Its Backers Bought Houses",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:48:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says BLM was a scam and that its people were buying themselves houses."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the truth ended up being the truth and BLM was a scam and they were buying themselves houses."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Treat as an off-topic assertion recorded as said."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3728",
+   "header": "**C-3728** Host Says She Will Livestream Her Live Response to TPUSA's Live Stream",
+   "label": "Host Says She Will Livestream Her Live Response to TPUSA's Live Stream",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:48:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she will live stream TPUSA's live stream and respond to it live."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we can confirm that we are going to live stream their live stream and live respond to the live stream."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10313"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check that a live response aired on December 15."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3729",
+   "header": "**C-3729** Host Says Neff's Introduction Was Ten Minutes on Her Character",
+   "label": "Host Says Neff's Introduction Was Ten Minutes on Her Character",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:49:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the entire introduction to the live stream announcement was Neff speaking for ten minutes and assassinating her character."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "their entire introduction to this live stream was him speaking for 10 minutes and assassinating my character"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10313"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Time the Wednesday segment to test the ten-minute claim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3730",
+   "header": "**C-3730** Host Says Neff Heavily Implies Erika Sanctioned the Statement",
+   "label": "Host Says Neff Heavily Implies Erika Sanctioned the Statement",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:49:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Neff heavily implies that Erika Kirk sanctioned the statement; she says he obviously did not write it himself and that, as CEO, it would follow that Erika would have read it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I don't love the fact that he heavily implies that Erika sanctioned that he obviously didn't write it himself"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10313"
+    },
+    {
+     "k": "Supports",
+     "v": "C-3655"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask TPUSA who drafted and who approved the statement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3731",
+   "header": "**C-3731** Host Says TPUSA Campus Events Require Students to Submit Questions Ahead",
+   "label": "Host Says TPUSA Campus Events Require Students to Submit Questions Ahead",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:50:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that, based on a flurry of emails, the new format of TPUSA campus events is that students have to tell TPUSA ahead of time what they will ask."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the new format of TPUSA campus events is that students have to tell them ahead of time what they're going to ask. We have received a flurry of emails to that effect."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Collect the emails and any TPUSA event rules on question submission."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3732",
+   "header": "**C-3732** Commenter Says Bari Weiss Interviews Erika Kirk on December 13",
+   "label": "Commenter Says Bari Weiss Interviews Erika Kirk on December 13",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:51:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads a commenter who says Bari Weiss is interviewing Erika Kirk on December 13."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Bari Weiss is interviewing Erika Kirk on December 13th."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3205.4"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-278, N-2"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check CBS announcements for the Weiss interview date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3733",
+   "header": "**C-3733** Host Says She Saw News of Weiss Sitting Down with Erika",
+   "label": "Host Says She Saw News of Weiss Sitting Down with Erika",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:51:18"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she saw some news about Bari Weiss sitting down with Erika Kirk, though she is unsure whether it is a New York Times or CBS event."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I saw some news about uh Barry sitting down with her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-278, N-2, N-3"
+    },
+    {
+     "k": "Supports",
+     "v": "C-3732"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm the venue and date of the interview."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3734",
+   "header": "**C-3734** Host Says Her Husband Said December 15 Absolutely Does Not Work",
+   "label": "Host Says Her Husband Said December 15 Absolutely Does Not Work",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:51:51"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her husband said December 15 absolutely does not work when she went to him after seeing the text or tweet confirmation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he said December 15th absolutely does not work."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-30"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10313"
+    },
+    {
+     "k": "Supports",
+     "v": "C-3673"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Rests on the host's account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 6. Meme Register",
+    ""
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-12",
+   "header": "**M-12** (meme) Decentralized Intelligence Agency",
+   "label": "(meme) Decentralized Intelligence Agency",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:28:44"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "if you recognize these individuals in particular, more tips candens. com."
+    },
+    {
+     "k": "Context",
+     "v": "Host asks viewers to identify the maroon-shirted men and email the tip address."
+    },
+    {
+     "k": "Tags",
+     "v": "tip line, dia"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-13",
+   "header": "**M-13** (meme) Fake and Gay",
+   "label": "(meme) Fake and Gay",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:37:41"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Everything is fake and gay."
+    },
+    {
+     "k": "Context",
+     "v": "Host jokes about what she would add to The Game's verse."
+    },
+    {
+     "k": "Tags",
+     "v": "fake and gay, joke"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:49:14"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "it's already feeling pretty fake and gay."
+    },
+    {
+     "k": "Context",
+     "v": "Host says the planned TPUSA live stream already feels fake before it has started."
+    },
+    {
+     "k": "Tags",
+     "v": "fake and gay, tpusa"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-18",
+   "header": "**M-18** (meme) Make Him a Sandwich",
+   "label": "(meme) Make Him a Sandwich",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:42:13"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "You got to get your girl and make him a sandwich book."
+    },
+    {
+     "k": "Context",
+     "v": "Host plugs the book as a Christmas gift."
+    },
+    {
+     "k": "Tags",
+     "v": "book, plug"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-19",
+   "header": "**M-19** (meme) Go Max",
+   "label": "(meme) Go Max",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:52:05"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Iron lady of America going max for Charlie."
+    },
+    {
+     "k": "Context",
+     "v": "Host reads a viewer comment praising her as going max for Charlie."
+    },
+    {
+     "k": "Tags",
+     "v": "go max, comment"
+    },
+    {
+     "k": "Confidence",
+     "v": "medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-34",
+   "header": "**M-34** (meme) Deep State",
+   "label": "(meme) Deep State",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:16:54"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "have the intuition that this is a deep state assassination, I do."
+    },
+    {
+     "k": "Context",
+     "v": "Host states her belief that the killing was a deep state assassination."
+    },
+    {
+     "k": "Tags",
+     "v": "deep state, assassination"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-66",
+   "header": "**M-66** (meme) Fed Slop",
+   "label": "(meme) Fed Slop",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:12:38"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "because we don't accept the fed slop."
+    },
+    {
+     "k": "Context",
+     "v": "Host says critics are lumped together as Antifa simply for not accepting the federal narrative."
+    },
+    {
+     "k": "Tags",
+     "v": "fed slop, antifa"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-130",
+   "header": "**M-130** (meme) Game Going to Recognize Game",
+   "label": "(meme) Game Going to Recognize Game",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:34:18"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "because Gameonna Recognize Game"
+    },
+    {
+     "k": "Context",
+     "v": "Host explains her reaction to The Game dropping the track."
+    },
+    {
+     "k": "Tags",
+     "v": "the game, recognize game"
+    },
+    {
+     "k": "Confidence",
+     "v": "medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-235",
+   "header": "**M-235** (meme) Maroon Boys",
+   "label": "(meme) Maroon Boys",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:25:30"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "our maroon boys in general were tasked with taking footage from predetermined angles."
+    },
+    {
+     "k": "Context",
+     "v": "Host coins and uses the name for the solo maroon-shirted men."
+    },
+    {
+     "k": "Tags",
+     "v": "maroon boys, theory"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:27:51"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I have a suspicion about the Maroon Boys."
+    },
+    {
+     "k": "Context",
+     "v": "Host repeats her suspicion about the maroon-shirted men."
+    },
+    {
+     "k": "Tags",
+     "v": "maroon boys, footage"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## VI. Optional Flags",
+    "",
+    "- Name uncertainty: \"Erika Kirk\" is used throughout this episode transcript; existing node is \"Erika Kirk.\" Spelling variance preserved as presented in this episode. Verify prior episodes for canonical spelling.",
+    "- Name uncertainty: \"Andrew Kolvet,\" \"Andrew Kolvet,\" \"Andrew Kolvet\" appear in this transcript for what appears to be the same individual. Spelling not normalized.",
+    "- Transcript ambiguity / possible transcription error: \"Jacob Kasparian\" appears consistently in this episode, but one reference reads \"Jacob Kasparian\" (at approximately 27:51, in context of Carrie Bartholomew's location). Treat as transcription error pending verification.",
+    "- Artifact verbally referenced but not shown: Some UVU footage stills (A-1505.3, A-1505.4, A-1505.6) were verbally described and superimposed rather than shown as clean still frames. Requires human verification.",
+    "- Timestamp uncertainty: Side-angle roof video shooter's follow-up call (A-1509.1) – exact date not specified in transcript.",
+    "- Timestamp uncertainty: A-1507.1 (Apple Podcasts ranking tweet) – original publication timestamp not specified.",
+    "- Transcript ambiguity: The Game's \"Zion and Nasam\" lyric may be a transcription artifact; the precise lyric should be verified against the released track.",
+    "- Claim failed admission test: \"Maroon boys were tasked with taking footage from predetermined angles\" (host's theory) – not inscribed; classified as Speculation.",
+    "- Claim failed admission test: \"None of [Jacob Kasparian's] family members posted anything about Charlie's assassination\" – not inscribed as artifact-anchored claim; classified as Investigative Observation pending social media audit.",
+    "- Claim failed admission test: Host framing premises (\"this is a deep state assassination,\" \"they are lying\") – not inscribed."
+   ]
+  }
+ ]
+}

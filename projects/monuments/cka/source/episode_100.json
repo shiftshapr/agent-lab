@@ -1,0 +1,6819 @@
+{
+ "format": "cka-source/1",
+ "episode": 100,
+ "blocks": [
+  {
+   "kind": "text",
+   "lines": [
+    "## 1. Meta-Data",
+    "",
+    "- **Episode**: 100",
+    "- **Monument**: cka",
+    "- **CKA seq**: 100",
+    "- **YouTube id**: k1b1NDCrNFs",
+    "- **Candace Ep**: 334",
+    "- **Source**: Candace Owens YouTube",
+    "- **Video Timestamp Range**: 00:00:00–01:08:59",
+    "- **Extraction Timestamp (UTC)**: 2026-10-13T21:30:15Z",
+    "- **Transcript SHA-256**: b431db12fe6cfaee417ec617c35007447f9925f4319f577ec5e0dc347f7bba8f",
+    "- **Model Version**: claude-manual-extract-seq100",
+    "",
+    "- **Episode Ledger Summary**:",
+    "  - Tip-minted Nodes (skeleton-gary): N-614",
+    "  - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused",
+    "  - Tip-minted Nodes (skeleton): N-600, N-601, N-604, N-605, N-10909",
+    "  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-15, N-22, N-30, N-60, N-97, N-159, N-163, N-211, N-221, N-224, N-229, N-266, N-270, N-330, N-361, N-366, N-130, N-10000, N-10126, N-10238, N-10367, N-10373, N-10375, N-10378, N-10385, N-10416, N-10417, N-10437, N-10449, N-10450, N-10472, N-10631, N-10643, N-10651, N-10898, N-10899, N-10900, N-11001, N-603, N-10912, N-602, N-10681, N-10911, N-10689, N-10910, N-10768",
+    "  - Claim Range: C-8921–C-8985",
+    "  - (see registers)",
+    "",
+    "## 2. Executive Summary",
+    "",
+    "The host opens with updates on Brian Harpole's defamation suit against her. She says his lawyers have begun sending preservation orders, including an email asking her team for Ian Carroll's address. She also reports that Douglas Blake Bednarz – who, she and Baron Coleman (A-2545.1) note, has repeatedly and explicitly accused Harpole of detonating a charge that killed Charlie Kirk (A-2546) – was served with a preservation order by Dhillon Law Group rather than being sued. She recounts her own contacts with Bednarz, who offered unseen UVU footage he never delivered and in December turned to pressing her about Harpole. She says she stopped replying in mid-December, suspecting a trap.",
+    "",
+    "The host revisits how military YouTubers tried to dissuade her from interviewing Mitch Snow. She reads messages in which one cited a Turning Point USA source saying TPUSA was giving her \"rope to hang herself\" while building a defamation suit (A-2548). She contrasts this with Harpole's filing, which says he ignored her three messages (A-2549.1) to avoid giving her an exclusive. She recalls Paramount Tactical accidentally airing Andrew Kolvet's Fort Huachuca alibi texts and shows a photo alibi she says carried the wrong dates (A-2550.1). She then reads her December 27 group text to Justin Streiff and Kolvet (A-2549.2) and her unanswered January 4 message to Dan Flood (A-2549.3).",
+    "",
+    "In the second segment the host responds to a Jeremy Boreing video (A-2551.1) in which he says Daily Wire revenue grew every year he led it, and cites records alleging that her husband George Farmer was arrested in Nashville in August 2023 for DUI. Boreing says he learned of it while she still worked for him. The host denies that any incident or contact occurred during her tenure. According to the host, the Daily Wire found an incident report in late summer 2024 and pitched it to the New York Post, which declined. She argues that the aim of Boreing amplifying Laura Loomer's claims is to prompt a DHS inquiry into George's citizenship, which she says is baseless. She also says Pendragon, not her, damaged the company's finances.",
+    "",
+    "The host raises the pending case against former Daily Wire camera operator Zachary Lewis, who is accused (not convicted) of child sexual abuse material offenses and who she says worked in the company's kids department. She also reads Boreing's X reply declining her invitation (A-2553), in which he says the arrest has nothing to do with him. In the comments she repeats that Blake Neff allegedly wrote Erika Kirk's speeches and that Aspen donors deny the CEO-appointment statement, and she says she received a new lead on Bednarz.",
+    "",
+    "## 3. Artifact Register",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2544",
+   "header": "**A-2544** Harpole Lawsuit Preservation Notices Bundle",
+   "label": "Harpole Lawsuit Preservation Notices Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2544.1",
+   "header": "**A-2544.1** Host verbal reference to preservation orders and an email from Harpole's lawyers asking her team for Ian Carroll's address (not shown)",
+   "label": "Host verbal reference to preservation orders and an email from Harpole's lawyers asking her team for Ian Carroll's address (not shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:02:12"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8921, C-8922, N-266, N-130, N-3, N-10651*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2544.2",
+   "header": "**A-2544.2** Host verbal reference to the preservation order Dhillon Law Group served on Blake Bednarz (not shown)",
+   "label": "Host verbal reference to the preservation order Dhillon Law Group served on Blake Bednarz (not shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:09:54"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8932, N-600, N-10909, N-10910*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2545",
+   "header": "**A-2545** Baron Coleman Podcast Clip Bundle",
+   "label": "Baron Coleman Podcast Clip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2545.1",
+   "header": "**A-2545.1** Baron Coleman podcast clip on Blake Bednarz's accusations against Harpole and his absence from the lawsuit (played)",
+   "label": "Baron Coleman podcast clip on Blake Bednarz's accusations against Harpole and his absence from the lawsuit (played)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Blake Bednarz basically accuses by name Brian Harpole every single day of murdering Charlie Kirk. Like frame by frame. He has a whole video called Judas Harpole.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:06:29"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8928, C-8929, N-330, N-600, N-266, N-10909*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2546",
+   "header": "**A-2546** Blake Bednarz Posts Bundle",
+   "label": "Blake Bednarz Posts Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2546.1",
+   "header": "**A-2546.1** Blake Bednarz's X posts accusing Brian Harpole of detonating a charge under Charlie Kirk's shirt (read aloud)",
+   "label": "Blake Bednarz's X posts accusing Brian Harpole of detonating a charge under Charlie Kirk's shirt (read aloud)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"This is who squeezed the trigger to initiate the detonation under Charlie's shirt. Brian Judas Harpole was wearing the controls under his clothes. I am 1 trillion percent certain.\" / \"A gun was never fired and a bullet did not hit his neck. The pendant-shaped charge was detonated by Brian Harpole.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:08:09"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8930, C-8931, N-600, N-266, N-1, N-10768*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2546.2",
+   "header": "**A-2546.2** Video clip of Blake Bednarz making his accusations against Harpole (played)",
+   "label": "Video clip of Blake Bednarz making his accusations against Harpole (played)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"he is pulling his shirt down because he does not want all the wires to be seen.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:09:54"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8931, N-600, N-266*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2547",
+   "header": "**A-2547** Tips Email Request Bundle",
+   "label": "Tips Email Request Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2547.1",
+   "header": "**A-2547.1** Host verbal reference to her earlier public request for UVU footage sent to the tips email address",
+   "label": "Host verbal reference to her earlier public request for UVU footage sent to the tips email address",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"If you've got any footage, please send it to us tips@kcsun. com.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:11:02"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8933, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2548",
+   "header": "**A-2548** Military YouTuber Messages Bundle",
+   "label": "Military YouTuber Messages Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2548.1",
+   "header": "**A-2548.1** Message from a military YouTuber citing a Turning Point USA source (read aloud)",
+   "label": "Message from a military YouTuber citing a Turning Point USA source (read aloud)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"dude, he didn't see Erika and Brian Harpool. He's just a con artist. My my source at Turning Point USA literally said they have all the documents and proof proof both Brian and Erika weren't there and they're purposefully giving Candace rope to hang herself with this. While they build a massive defamation lawsuit.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:14:35"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8937, N-266, N-2, N-361, N-10000, N-10899*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2548.2",
+   "header": "**A-2548.2** Second military YouTuber message threatening to tie the host to Mitch Snow (read aloud)",
+   "label": "Second military YouTuber message threatening to tie the host to Mitch Snow (read aloud)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"We can do it the hard way and tie her to a con artist with a horrible history of abuse against women and children and raising uh 130,000 dollars for him.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:15:30"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8938, N-361, N-10899*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2549",
+   "header": "**A-2549** Host Outreach Messages Bundle",
+   "label": "Host Outreach Messages Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2549.1",
+   "header": "**A-2549.1** Host's three text messages to Brian Harpole (shown and read aloud)",
+   "label": "Host's three text messages to Brian Harpole (shown and read aloud)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Hey Brian, reaching out again to see if you'd be willing to speak about the morning of the 9th. I'm obviously not trying to do anything other than debunk Mitch so that I can pivot and refocus the investigation, but I oddly can't get you to confirm or deny if you were there.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:17:14"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8939, N-266, N-361, N-3, N-10643*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2549.2",
+   "header": "**A-2549.2** Host's December 27 group text to Justin Streiff and Andrew Kolvet on Fort Huachuca (read aloud)",
+   "label": "Host's December 27 group text to Justin Streiff and Andrew Kolvet on Fort Huachuca (read aloud)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Putting you both on a chat here since there seems to be a gap between what Andrew communicates publicly and what the truth is. Very simple request. Mitch Snow is very certain he saw Brian Harpole departing a meeting at Fort Huachuca around 7:30 a. m. on September 9th.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:19:59"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8944, C-8945, C-8946, C-8948, C-8949, N-15, N-14, N-361, N-266, N-2, N-10373, N-10450*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2549.3",
+   "header": "**A-2549.3** Host's January 4 message to Dan Flood (read aloud)",
+   "label": "Host's January 4 message to Dan Flood (read aloud)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"My goal is pretty straightforward. I have an eyewitness who is certain he saw him at Fort Huachuca on the morning of the 9th and I just want to get a statement from him on that. Thank you.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:22:26"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8950, N-270, N-266, N-10651*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2550",
+   "header": "**A-2550** Kolvet Fort Huachuca Alibi Bundle",
+   "label": "Kolvet Fort Huachuca Alibi Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2550.1",
+   "header": "**A-2550.1** Photo alibi of Erika Kirk covering her phone with her children, sent to Andrew Kolvet (shown)",
+   "label": "Photo alibi of Erika Kirk covering her phone with her children, sent to Andrew Kolvet (shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:19:02"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8943, N-2, N-14, N-10472*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2551",
+   "header": "**A-2551** Jeremy Boreing Show Clip Bundle",
+   "label": "Jeremy Boreing Show Clip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2551.1",
+   "header": "**A-2551.1** Clip of Jeremy Boreing's show on Daily Wire revenue and the alleged George Farmer arrest (played)",
+   "label": "Clip of Jeremy Boreing's show on Daily Wire revenue and the alleged George Farmer arrest (played)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"In recent weeks, public records and documents have surfaced alleging that Candace's husband, George Farmer, was arrested in Nashville in August 2023 for DUI and leaving the scene of an accident.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:31:18"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8955, C-8956, C-8957, C-8958, N-366, N-30, N-10631, N-10689*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2552",
+   "header": "**A-2552** Shane Cashman X Post Bundle",
+   "label": "Shane Cashman X Post Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2552.1",
+   "header": "**A-2552.1** Shane Cashman's X post on Jeremy Boreing (read aloud)",
+   "label": "Shane Cashman's X post on Jeremy Boreing (read aloud)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Jeremy Boreing is Ted Bundy doing a Mr. Rogers impression.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:43:02"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8970, N-604, N-366*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2553",
+   "header": "**A-2553** Jeremy Boreing X Response Bundle",
+   "label": "Jeremy Boreing X Response Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2553.1",
+   "header": "**A-2553.1** Jeremy Boreing's X post declining the host's invitation (shown, opening section)",
+   "label": "Jeremy Boreing's X post declining the host's invitation (shown, opening section)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"this video is prime Candace, every manipulative rhetorical technique in the books. Okay, she makes roughly 236 claims.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:51:07"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8979, N-366*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2553.2",
+   "header": "**A-2553.2** Boreing X post section on Laura Loomer (read aloud)",
+   "label": "Boreing X post section on Laura Loomer (read aloud)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"I might respond that I've never made any any such claim, but Candace has already suggested that I'm working with Laura Loomer to launder accusations against her. I might respond that I haven't spoken privately to Laura Loomer in years.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:51:48"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8980, N-366, N-60*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2553.3",
+   "header": "**A-2553.3** Boreing X post section on the Daily Wire employee arrest (read aloud)",
+   "label": "Boreing X post section on the Daily Wire employee arrest (read aloud)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"You might think that there is one claim I simply have to address, that a Daily Wire employee was arrested for sex crimes involving a minor. Yeah, I think you should I think you should respond to that. But while that accusation is terrible, it has nothing to do with me.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:53:28"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8981, N-366, N-605, N-10912*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2553.4",
+   "header": "**A-2553.4** Boreing X post closing section on the invitation and his safety (read aloud)",
+   "label": "Boreing X post closing section on the invitation and his safety (read aloud)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"My audience is rightly concerned for my safety if I go to Candace's studio.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:54:14"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8982, N-366*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2554",
+   "header": "**A-2554** Zachary Lewis Case Bundle",
+   "label": "Zachary Lewis Case Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2554.1",
+   "header": "**A-2554.1** Host verbal reference to the Zachary Lewis case details she posted on her X feed (not shown on air)",
+   "label": "Host verbal reference to the Zachary Lewis case details she posted on her X feed (not shown on air)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:47:56"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8973, C-8976, N-605, N-10912*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 4. Node Register",
+    ""
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-1",
+   "header": "**N-1** Charlie Kirk",
+   "label": "Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Assassination victim. Bednarz's detonation theory, the Kirks' September 9 schedule and the Aspen appointment statement all concern him; the host says he was alive and among those she consulted about the Daily Wire's attacks."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8927, C-8928, C-8931, C-8946, C-8947, C-8948, C-8966, C-8984, A-2546.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-2",
+   "header": "**N-2** Erika Kirk",
+   "label": "Erika Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Her alleged Fort Huachuca presence, the Kolvet-relayed alibis, her Jesse Watters account, her speeches and the Aspen appointment statement are discussed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8937, C-8941, C-8942, C-8943, C-8945, C-8946, C-8947, C-8948, C-8949, C-8983, C-8984, A-2548.1, A-2549.2, A-2550.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-3",
+   "header": "**N-3** Candace Owens",
+   "label": "Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host; defendant in the Harpole suit. Relays her contacts with Bednarz, her messages to Harpole, Streiff, Kolvet and Flood, and her denials about her husband."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8921, C-8922, C-8923, C-8925, C-8926, C-8932, C-8933, C-8934, C-8935, C-8936, C-8937, C-8938, C-8939, C-8940, C-8942, C-8944, C-8948, C-8950, C-8951, C-8952, C-8954, C-8957, C-8958, C-8959, C-8963, C-8966, C-8968, C-8972, C-8977, C-8979, C-8982, C-8985, A-2544.1, A-2547.1, A-2549.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-14",
+   "header": "**N-14** Andrew Kolvet",
+   "label": "Andrew Kolvet",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Transcript spelling \"Andrew Kolvet\" in the comments. The host says he relayed Fort Huachuca alibi messages through Paramount Tactical and was a recipient of her December 27 group text."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8941, C-8942, C-8943, C-8944, C-8946, C-8949, A-2549.2, A-2550.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-15",
+   "header": "**N-15** Justin Streiff",
+   "label": "Justin Streiff",
+   "lines": [
+    {
+     "raw": "Transcript spelling \"Justin Streiff\". Co-recipient of the host's December 27 group text on Fort Huachuca."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8944, A-2549.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-22",
+   "header": "**N-22** Tucker Carlson",
+   "label": "Tucker Carlson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host says 17 of Boreing's 19 podcast episodes concern her and Carlson."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8972*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-30",
+   "header": "**N-30** George (Candace's husband)",
+   "label": "George (Candace's husband)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named as George Farmer. Subject of the alleged 2023 Nashville DUI arrest that Boreing and Laura Loomer cite, which the host denies; she says he introduced Daily Wire leadership to London investors."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8955, C-8957, C-8958, C-8959, C-8962, C-8963, C-8964, C-8965, C-8967, C-8968, C-8969, C-8979, A-2551.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-60",
+   "header": "**N-60** Laura Loomer",
+   "label": "Laura Loomer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Source of the allegations about George Farmer and Tracy Robinson that Boreing amplified; tagging DHS. Boreing says he has not spoken to her privately in years."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8955, C-8967, C-8969, C-8980, A-2553.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-97",
+   "header": "**N-97** Ben Shapiro",
+   "label": "Ben Shapiro",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named (\"Ben\") as working with the same lawyer to pursue the host in court."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8954*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-159",
+   "header": "**N-159** Blake Neff",
+   "label": "Blake Neff",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host repeats the allegation that he wrote Erika Kirk's speeches, and asks him to release the Aspen video."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8983, C-8984*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-163",
+   "header": "**N-163** Matt Walsh",
+   "label": "Matt Walsh",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "His documentaries' success is credited by the host for the Daily Wire's peak year before Pendragon."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8960*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-211",
+   "header": "**N-211** Jesse Watters",
+   "label": "Jesse Watters",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Transcript spelling \"Jesse Watters\". Erika Kirk's account to him of September 9 is contrasted with Kolvet's message."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8947*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-221",
+   "header": "**N-221** Brett Cooper",
+   "label": "Brett Cooper",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host alleges Boreing targeted her for wanting to marry and wrote a Lady Ballers role for her that she declined."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8971, C-8978*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-224",
+   "header": "**N-224** Shawn Ryan",
+   "label": "Shawn Ryan",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Transcript spelling \"Shawn Ryan\". Harpole's interview with him preceded Bednarz's theories."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8930*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-229",
+   "header": "**N-229** Alyssa Cordova",
+   "label": "Alyssa Cordova",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host alleges Boreing used her to pass material to Ian Miles Cheong."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8953*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-266",
+   "header": "**N-266** Brian Harpole",
+   "label": "Brian Harpole",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Transcript spellings \"Bryan Harsin\", \"Brian Hopple\", \"Bryant Harpole\", \"Brett Harrelson\", \"Brian Hurlbut\", \"Brian Harpool\" and \"Brian Harp\". Plaintiff in the defamation suit against the host; his lawyers' preservation orders, his non-response to her messages and Bednarz's accusations against him are discussed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8921, C-8922, C-8927, C-8928, C-8929, C-8930, C-8931, C-8935, C-8937, C-8939, C-8940, C-8944, C-8950, C-8951, C-8954, A-2544.1, A-2545.1, A-2546.1, A-2546.2, A-2548.1, A-2549.1, A-2549.2, A-2549.3*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-270",
+   "header": "**N-270** Dan Flood",
+   "label": "Dan Flood",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Harpole's business partner; the host's January 4 message to him went unanswered."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8950, A-2549.3*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-330",
+   "header": "**N-330** Baron Coleman",
+   "label": "Baron Coleman",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Transcript spellings \"Barron\" and \"Baron Coleman\". His podcast clip points out that Bednarz was not sued; the host agrees with his view that the filing reads like PR."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8928, C-8929, C-8951, A-2545.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-361",
+   "header": "**N-361** Mitch Snow",
+   "label": "Mitch Snow",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Fort Huachuca eyewitness; the military YouTubers' attacks on him and his sightings of Harpole and Erika Kirk are revisited."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8924, C-8925, C-8937, C-8938, C-8939, C-8944, C-8945, A-2548.1, A-2548.2, A-2549.1, A-2549.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-366",
+   "header": "**N-366** Jeremy Boreing",
+   "label": "Jeremy Boreing",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Transcript spelling \"Jeremy Boreing\". Former Daily Wire CEO whose video amplifies the George Farmer allegations; his X reply, Pendragon, his podcast and his conduct toward the host and Brett Cooper are discussed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8952, C-8953, C-8954, C-8955, C-8956, C-8957, C-8958, C-8959, C-8960, C-8961, C-8964, C-8970, C-8971, C-8972, C-8975, C-8978, C-8979, C-8980, C-8981, C-8982, A-2551.1, A-2552.1, A-2553.1, A-2553.2, A-2553.3, A-2553.4*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-130",
+   "header": "**N-130** Ian Carroll",
+   "label": "Ian Carroll",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Harpole's lawyers sought his address; the host says he guest-hosted during her maternity leave and relayed the military YouTubers' warnings."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8922, C-8923, C-8924, C-8926, A-2544.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-600",
+   "header": "**N-600** Douglas Blake Bednarz",
+   "label": "Douglas Blake Bednarz",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "06:29 in episode 100 (in a Baron Coleman clip). He publicly accuses Brian Harpole of detonating a charge that killed Charlie Kirk; per the host he was served a preservation order rather than sued, and earlier offered her UVU footage. Aliases: Blake Bednarz; Douglas Blake Bednarz.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8928, C-8929, C-8930, C-8931, C-8932, C-8934, C-8935, C-8936, C-8985, A-2544.2, A-2545.1, A-2546.1, A-2546.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-601",
+   "header": "**N-601** Father Klein",
+   "label": "Father Klein",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "21:38 in episode 100. The host says the Kirks' September 9 dinner was with him.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8948*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-602",
+   "header": "**N-602** Ian Miles Cheong",
+   "label": "Ian Miles Cheong",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "28:52 in episode 100. The host alleges he received material from Alyssa Cordova to attack Boreing's enemies.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8953*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-603",
+   "header": "**N-603** Caleb Robinson",
+   "label": "Caleb Robinson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "37:43 in episode 100. Named as the Daily Wire's interim CEO who traveled to London with George Farmer to meet investors (transcript spelling; see Optional Flags).",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8962*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-604",
+   "header": "**N-604** Shane Cashman",
+   "label": "Shane Cashman",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "43:02 in episode 100. Posted on X that Boreing is \"Ted Bundy doing a Mr. Rogers impression.\"",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8970, A-2552.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-605",
+   "header": "**N-605** Zachary Lewis",
+   "label": "Zachary Lewis",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "46:20 in episode 100. Former Daily Wire camera operator in the kids department; arrested and accused (not convicted) of child sexual abuse material offenses, with six felony counts pending per the host. Aliases: Zach Lewis.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8973, C-8974, C-8975, C-8976, C-8977, C-8981, A-2553.3, A-2554.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10000",
+   "header": "**N-10000** Turning Point USA",
+   "label": "Turning Point USA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "A TPUSA source is cited in the military YouTuber's message; the host says Erika Kirk stopped using Kolvet for PR; Neff speech claim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8937, C-8942, C-8983, A-2548.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10126",
+   "header": "**N-10126** London / UK",
+   "label": "London / UK",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Where George Farmer says he introduced Daily Wire leadership to investors."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8962*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10238",
+   "header": "**N-10238** Daily Wire Intern Covert Recording Operation",
+   "label": "Daily Wire Intern Covert Recording Operation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host restates that interns were flown to follow her to public events."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8952*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10367",
+   "header": "**N-10367** Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
+   "label": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Mitch Snow's videos and hotel receipts are cited as proof of his presence."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8925*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10373",
+   "header": "**N-10373** Brian Harpole Fort Huachuca Presence Verification",
+   "label": "Brian Harpole Fort Huachuca Presence Verification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host's December 27 request for evidence to debunk the Harpole sighting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8944, A-2549.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10375",
+   "header": "**N-10375** Fort Huachuca Sighting Verification",
+   "label": "Fort Huachuca Sighting Verification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The YouTubers' claims that Mitch Snow was never there, and the host's rebuttal."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8924, C-8925*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10378",
+   "header": "**N-10378** Andrew Kolvet Coordination with Attackers of Mitch Snow",
+   "label": "Andrew Kolvet Coordination with Attackers of Mitch Snow",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Kolvet's alibi texts read on Paramount Tactical."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8941*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10385",
+   "header": "**N-10385** Daily Wire Show Targeting Candace Owens / Tucker Carlson",
+   "label": "Daily Wire Show Targeting Candace Owens / Tucker Carlson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Boreing's podcast episodes about the host and Tucker Carlson, including his platforming of Loomer."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8955, C-8972*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10416",
+   "header": "**N-10416** Daily Wire Stalking Pattern",
+   "label": "Daily Wire Stalking Pattern",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Interns following the host, outside PR and alleged private investigators."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8952, C-8963*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10417",
+   "header": "**N-10417** Fort Huachuca Erika Presence Investigation",
+   "label": "Fort Huachuca Erika Presence Investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Mitch Snow's belief that he saw Erika Kirk leave a base hotel on September 8."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8945*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10437",
+   "header": "**N-10437** Aspen Donor Recall Verification",
+   "label": "Aspen Donor Recall Verification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Donors in attendance deny the CEO-appointment statement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8984*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10449",
+   "header": "**N-10449** Daily Wire Hungary Production Expenditure Investigation",
+   "label": "Daily Wire Hungary Production Expenditure Investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Pendragon's cost and Boreing's leave to shoot it in Hungary."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8960, C-8961*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10450",
+   "header": "**N-10450** Fort Huachuca PR Response Coordination Question",
+   "label": "Fort Huachuca PR Response Coordination Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host's group text to Streiff and Kolvet about back-channel messaging through YouTubers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8944, A-2549.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10472",
+   "header": "**N-10472** Fort Huachuca Alibi Investigation",
+   "label": "Fort Huachuca Alibi Investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Kolvet's relayed alibis for Erika Kirk, the wrong-date photo and the Watters account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8941, C-8943, C-8946, C-8947, C-8949, A-2550.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10631",
+   "header": "**N-10631** George Farmer / Tracy Robinson $6,987 Incident",
+   "label": "George Farmer / Tracy Robinson $6,987 Incident",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The incident Boreing and Loomer cite, the 2024 Daily Wire pitch to the New York Post, and the host's denials."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8955, C-8957, C-8958, C-8959, C-8964, C-8965, C-8967, A-2551.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10643",
+   "header": "**N-10643** Harpole Fort Huachuca Alibi Question",
+   "label": "Harpole Fort Huachuca Alibi Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host's three unanswered messages asking Harpole to confirm or deny."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8939, A-2549.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10651",
+   "header": "**N-10651** Brian Harpole Lawsuit Coordination Question",
+   "label": "Brian Harpole Lawsuit Coordination Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Preservation orders, the TPUSA-source message about a planned suit, shared counsel with the Daily Wire, and the filing's contents."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8921, C-8922, C-8927, C-8929, C-8932, C-8937, C-8940, C-8950, C-8951, C-8954, A-2544.1, A-2549.3*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10681",
+   "header": "**N-10681** Shawn Ryan Show Interview Clip Bundle",
+   "label": "Shawn Ryan Show Interview Clip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Harpole's Shawn Ryan interview, after which Bednarz began his theories."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8930*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10689",
+   "header": "**N-10689** Daily Wire Financial Status and IPO Effort",
+   "label": "Daily Wire Financial Status and IPO Effort",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Boreing's revenue-growth claim and the host's profit and Pendragon rebuttal."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8956, C-8960, A-2551.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10768",
+   "header": "**N-10768** Shaped Charge / Exploding Microphone Hypothesis",
+   "label": "Shaped Charge / Exploding Microphone Hypothesis",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Bednarz's posts claim a pendant-shaped charge was detonated by Harpole."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8931, A-2546.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10898",
+   "header": "**N-10898** New York Post",
+   "label": "New York Post",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host says it was pitched the George Farmer report in 2024 and declined."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8964, C-8965*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11001",
+   "header": "**N-11001** Valhalla VFT",
+   "label": "Valhalla VFT",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "raw": "Military-commentary YouTube channel (\"the Valhalla guy\"), distinct from Gary Melton's Paramount Tactical; the host groups the two among the military YouTubers who warned her off Mitch Snow (ep100)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8924, C-8926*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-614",
+   "header": "**N-614** Gary Melton",
+   "label": "Gary Melton",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Runs the Paramount Tactical YouTube channel (N-10899); named by first name in episode 100 (\"Andrew messaged Gary, that's Paramount Tactical\")."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8946, C-8949*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10899",
+   "header": "**N-10899** Paramount Tactical",
+   "label": "Paramount Tactical",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The military YouTubers who attacked Mitch Snow and read Kolvet's alibi texts on air; their host Gary is named."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8924, C-8926, C-8937, C-8938, C-8941, C-8946, C-8949, A-2548.1, A-2548.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10900",
+   "header": "**N-10900** Daily Wire",
+   "label": "Daily Wire",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host's former employer, whose finances, Pendragon, alleged stalking, the 2024 pitch about George Farmer and the Zachary Lewis case are discussed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8952, C-8953, C-8954, C-8956, C-8958, C-8959, C-8960, C-8961, C-8962, C-8963, C-8964, C-8966, C-8971, C-8973, C-8974, C-8975, C-8977, C-8978*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10909",
+   "header": "**N-10909** Blake Bednarz Preservation Order / Non-Suit Discrepancy",
+   "label": "Blake Bednarz Preservation Order / Non-Suit Discrepancy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "k": "Investigation target",
+     "v": "why the Harpole plaintiffs served Douglas Blake Bednarz – who explicitly and repeatedly accused Harpole of killing Charlie Kirk – with a preservation order rather than suing him, along with the host's earlier contacts with Bednarz and a new lead the host says she received about him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8927, C-8928, C-8929, C-8931, C-8932, C-8934, C-8935, C-8936, C-8985, A-2544.2, A-2545.1, N-600, N-266*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10910",
+   "header": "**N-10910** Dhillon Law Group",
+   "label": "Dhillon Law Group",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "raw": "Law firm (transcript spelling \"Dhillon Law Group\") that the host says served the preservation order on Blake Bednarz. She says Harpole's lawyer is the same one the Daily Wire used against her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8932, C-8954, A-2544.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10911",
+   "header": "**N-10911** Department of Homeland Security",
+   "label": "Department of Homeland Security",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "raw": "The federal department Laura Loomer is tagging to investigate George Farmer's citizenship disclosures; the host denies lying to DHS."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8968, C-8969*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10912",
+   "header": "**N-10912** Zachary Lewis Daily Wire Kids Case",
+   "label": "Zachary Lewis Daily Wire Kids Case",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "k": "Investigation target",
+     "v": "the pending child sexual abuse material case against former Daily Wire (Bentkey kids department) camera operator Zachary Lewis, arrested in May of the previous year. Includes when he was dismissed, what leadership knew, and whether parents were notified. Allegations only; no conviction."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8973, C-8974, C-8975, C-8976, C-8977, C-8981, A-2553.3, A-2554.1, N-605*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 5. Claim Register",
+    ""
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8921",
+   "header": "**C-8921** Harpole's lawyers have begun sending preservation orders",
+   "label": "Harpole's lawyers have begun sending preservation orders",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:01:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says lawyers for Brian Harpole, in his defamation suit against her, have begun sending out preservation orders instructing recipients not to delete texts, Signal messages, emails or other communications."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "they are beginning to send out what are known as preservation orders, okay?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2544.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-266, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10651"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the docket in Harpole v. Owens and any litigation-hold or preservation letters issued by plaintiff's counsel, with their recipients and dates."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8922",
+   "header": "**C-8922** Harpole's lawyers asked the host's team for Ian Carroll's address",
+   "label": "Harpole's lawyers asked the host's team for Ian Carroll's address",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Harpole's lawyers emailed her team asking her to provide Ian Carroll's address, which she says she has never had."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "their lawyers emailed my team wanting me to give them Ian Carroll's address."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2544.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-130, N-266, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10651"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the email from plaintiff's counsel to the host's team and any subsequent subpoena or preservation notice directed at Ian Carroll."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8923",
+   "header": "**C-8923** Ian Carroll guest-hosted during the host's maternity leave",
+   "label": "Ian Carroll guest-hosted during the host's maternity leave",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Ian Carroll was not a regular co-host or employee; he filled in while she was on maternity leave the previous year, and her show paid for his Airbnb."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he just filled in for me while I was on maternity leave last year and we paid for his Airbnb while he did so."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-130, N-3"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the show's episode archive and production payment records for the period Ian Carroll guest-hosted."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8924",
+   "header": "**C-8924** Military YouTubers claimed Mitch Snow never served or reached Fort Huachuca",
+   "label": "Military YouTubers claimed Mitch Snow never served or reached Fort Huachuca",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:03"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says YouTubers including Paramount Tactical and Valhalla initially claimed that Mitch Snow had never been at Fort Huachuca, was a fraud and had never served in the military. She says both claims were later disproven."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "First and foremost, that Mitch was never at Fort Huachuca, that he was a com- a complete fraud. He could not even get onto the base because he never even served in the military."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-361"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10899, N-10375, N-11001"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive the Paramount Tactical / Valhalla streams and posts from that period, and compare them with Mitch Snow's military service records (DD-214) and Fort Huachuca base-access logs."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8925",
+   "header": "**C-8925** Host says she verified Mitch Snow's videos' metadata and hotel receipts",
+   "label": "Host says she verified Mitch Snow's videos' metadata and hotel receipts",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:04"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Mitch Snow recorded videos while at Fort Huachuca, that she examined their metadata, and that he submitted his hotel receipts to her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He recorded videos while he was there because it was sort of a trip down memory lane from him from when he was serving. He also had submitted to me his hotel receipts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-361, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10375, N-10367"
+    },
+    {
+     "k": "Supports",
+     "v": "C-4409"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the original video files with their EXIF/metadata and the Fort Huachuca-area hotel folio for Mitch Snow's September 8–9, 2025 stay."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8926",
+   "header": "**C-8926** Ian Carroll relayed the military YouTubers' warnings to the host",
+   "label": "Ian Carroll relayed the military YouTubers' warnings to the host",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:04"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Ian Carroll, after failing to convince her, bowed out but delivered to her the warnings from the military YouTubers, who said they were in communication with lieutenant colonels."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Uh but of course did what they asked, delivered his warrant delivered their warnings, the military bro warnings."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-130, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10899, N-11001"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain Ian Carroll's messages to the host from that period and any communications between him and the Paramount Tactical / Valhalla hosts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8927",
+   "header": "**C-8927** People who publicly accused Harpole of murder have not been sued",
+   "label": "People who publicly accused Harpole of murder have not been sued",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says some people online publicly and explicitly accused Brian Harpole of murdering Charlie Kirk, yet they have not been sued for defamation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And yet mysteriously I've been sort of watching and paying attention and those people are not being sued for defamation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-266, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10909, N-10651"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Search federal and state court dockets for defamation suits filed by Brian Harpole against anyone other than the host."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8928",
+   "header": "**C-8928** Baron Coleman: Blake Bednarz accuses Harpole of murder daily",
+   "label": "Baron Coleman: Blake Bednarz accuses Harpole of murder daily",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:29"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a podcast clip played by the host, Baron Coleman says Blake Bednarz accuses Brian Harpole by name every day of murdering Charlie Kirk and has a video called \"Judas Harpole.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Blake Bednarz basically accuses by name Brian Harpole every single day of murdering Charlie Kirk. Like frame by frame. He has a whole video called Judas Harpole."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2545.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-330, N-600, N-266, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10909"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive Blake Bednarz's X, YouTube and X Spaces output, including the \"Judas Harpole\" video, with dates."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8929",
+   "header": "**C-8929** Baron Coleman: Bednarz is not named in the Harpole lawsuit",
+   "label": "Baron Coleman: Bednarz is not named in the Harpole lawsuit",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:17"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Baron Coleman says Blake Bednarz is not listed in Harpole's lawsuit, even though Bednarz's content names Harpole."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And yet, no, this Blake Bednarz's character is not listed in this lawsuit."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2545.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-330, N-600, N-266"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10909, N-10651"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the full Harpole complaint and its exhibits for any reference to Blake Bednarz or his posts, and check the list of named defendants."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8930",
+   "header": "**C-8930** Bednarz began his Harpole theories after the Shawn Ryan interview",
+   "label": "Bednarz began his Harpole theories after the Shawn Ryan interview",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host identifies the person Coleman refers to as Douglas Blake Bednarz. She says he began positing theories about Harpole after Harpole's interview with Shawn Ryan, which she calls disastrous."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The person he's referring to, a full name Douglas Blake Bednarz, and he certainly did not mince words when he began positing theories about Brian Harpole after Brian's disastrous interview with Shawn Ryan."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2546.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-600, N-266, N-224"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10681"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the publication date of Harpole's Shawn Ryan Show episode with the timestamps of Bednarz's first posts naming Harpole."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8931",
+   "header": "**C-8931** Bednarz posted that Harpole triggered a detonation under Charlie Kirk's shirt",
+   "label": "Bednarz posted that Harpole triggered a detonation under Charlie Kirk's shirt",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "According to tweets read aloud by the host, Blake Bednarz posted that Brian Harpole wore controls under his clothes, triggered a shaped charge under Charlie Kirk's shirt, and that no gun was fired."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "This is who squeezed the trigger to initiate the detonation under Charlie's shirt. Brian Judas Harpole was wearing the controls under his clothes. I am 1 trillion percent certain."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2546.1, A-2546.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-600, N-266, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10909, N-10768"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive the original Bednarz posts with URLs and timestamps, and compare the allegation with the autopsy and ballistics evidence in the Tyler Robinson case."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8932",
+   "header": "**C-8932** Bednarz was served a preservation order by Dhillon Law Group, not sued",
+   "label": "Bednarz was served a preservation order by Dhillon Law Group, not sued",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:54"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Blake Bednarz contacted her and told her that Dhillon Law Group had served him a preservation order rather than a lawsuit, because the firm believes he may hold material that could help its defamation case against her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I learned that Douglas Blake Bednarz had been served by Dhillon Law Group. But not with the lawsuit, but with a simple preservation order because they think he might have something that might help to prosecute me in a defamation suit."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2544.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-600, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10909, N-10910, N-10651"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the preservation letter served on Douglas Blake Bednarz, its date and signatory, and any later subpoena issued to him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8933",
+   "header": "**C-8933** Host earlier asked the public to send UVU footage to the tips email",
+   "label": "Host earlier asked the public to send UVU footage to the tips email",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:02"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that early in her investigation she asked the public to send any footage to her tips email address."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We had reached we said to everybody, \"If you've got any footage, please send it to us tips@kcsun. com.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2547.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive the episode or post in which the tips address was announced, and log the footage submissions it produced."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8934",
+   "header": "**C-8934** Bednarz claimed never-before-seen UVU footage from a contact",
+   "label": "Bednarz claimed never-before-seen UVU footage from a contact",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:02"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says a friend introduced her to Bednarz, who claimed to have never-before-seen footage of the UVU event from a contact who had been there and \"had everything.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "there's this guy who is purporting to have never before seen footage from the UVU event."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-600, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10909"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the host's message history with Bednarz and any footage or links he sent, and identify the UVU contact he cited."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8935",
+   "header": "**C-8935** Bednarz shifted to pushing Harpole material in December",
+   "label": "Bednarz shifted to pushing Harpole material in December",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:15"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Bednarz never sent the long footage he promised. She says that in December, around when Fort Huachuca was being discussed, he began sending her material about Brian Harpole and demanding that she present it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "My spidey senses went up in December. Right around the time that we began discussing Fort Huachuca when he suddenly shifted gears and began sending me stuff about Brian Harpole."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-600, N-266, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10909"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the dated message thread between the host and Bednarz for November–December 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8936",
+   "header": "**C-8936** Host stopped replying to Bednarz from mid-December",
+   "label": "Host stopped replying to Bednarz from mid-December",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:05"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that from mid-December she stopped responding to Bednarz because her gut told her something was not right, and that she is grateful she did because it may have been a trap."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I'm just not going to reply to you beginning in mid-December."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-600, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10909"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm from the message thread the date of the host's last reply to Bednarz."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8937",
+   "header": "**C-8937** YouTuber message cited a TPUSA source saying TPUSA was building a defamation suit",
+   "label": "YouTuber message cited a TPUSA source saying TPUSA was building a defamation suit",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "According to a message from a military YouTuber read by the host, a Turning Point USA source said TPUSA had documents proving Brian Harpole and Erika Kirk were not at Fort Huachuca. The source also said TPUSA was \"purposefully giving Candace rope to hang herself\" while building a defamation lawsuit."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "My my source at Turning Point USA literally said they have all the documents and proof proof both Brian and Erika weren't there and they're purposefully giving Candace rope to hang herself with this."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2548.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-266, N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10899, N-10651"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the sender and recipient of the message and the TPUSA source cited, and seek in discovery any TPUSA communications about the host before the Mitch Snow interview."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8938",
+   "header": "**C-8938** YouTuber message threatened to tie the host to Mitch Snow's alleged history",
+   "label": "YouTuber message threatened to tie the host to Mitch Snow's alleged history",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "According to a second message read by the host, the YouTuber threatened to \"do it the hard way\" and tie her to Mitch Snow, describing him as a con artist with a history of abuse. The host calls this a threat."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We can do it the hard way and tie her to a con artist with a horrible history of abuse against women and children and raising uh 130,000 dollars for him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2548.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-361, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10899"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Authenticate the message and its sender, and check court records before relying on any allegation about Mitch Snow's past."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8939",
+   "header": "**C-8939** Host sent Harpole three messages about his September 9 whereabouts",
+   "label": "Host sent Harpole three messages about his September 9 whereabouts",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host shows three messages she sent Brian Harpole, offering an off-record talk and asking him to confirm or deny where he was on the morning of September 9."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Hey Brian, just again reaching out in case you want to clarify your whereabouts in the morning of September 9th."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2549.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-266, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10643"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8669"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the message metadata (dates and delivery status) for the three texts, which are also exhibits in the Harpole filing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8940",
+   "header": "**C-8940** Harpole's filing says he did not reply so as not to give the host an exclusive",
+   "label": "Harpole's filing says he did not reply so as not to give the host an exclusive",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:03"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Harpole's filing explains that he did not answer her messages because he did not want to grant her an exclusive that would earn her money from clicks."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "his reason that he didn't respond to these messages was because he didn't want to grant me an exclusive."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-266, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10651"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8671"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Quote the relevant paragraph of the Harpole complaint and compare it with the TPUSA-source message about planning a lawsuit."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8941",
+   "header": "**C-8941** Paramount Tactical read Kolvet's Fort Huachuca alibi text on air",
+   "label": "Paramount Tactical read Kolvet's Fort Huachuca alibi text on air",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:03"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Paramount Tactical accidentally read Andrew Kolvet's text messages live on air. The texts asked him not to share publicly and gave a Fort Huachuca alibi saying the story was insane and Erika Kirk was at home with her children."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it was an alibi regarding Fort Huachuca, asserting that the story was insane and that Erika was at home with her children."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10899, N-10378, N-10472"
+    },
+    {
+     "k": "Supports",
+     "v": "C-4484"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive the Paramount Tactical livestream segment and obtain the full text exchange with Andrew Kolvet, with dates."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8942",
+   "header": "**C-8942** Erika Kirk told the host she had stopped using Kolvet as PR",
+   "label": "Erika Kirk told the host she had stopped using Kolvet as PR",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:02"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that during their December 15 sit-down, Erika Kirk told her she was no longer using Andrew Kolvet for PR because he \"kept going rogue.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Erika told me that she was no longer using Andrew as PR cuz he kept going rogue."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-14, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Seek any recording or notes of the December 15, 2025 meeting and TPUSA communications records showing Kolvet's PR role for Erika Kirk afterward."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8943",
+   "header": "**C-8943** Erika's photo alibi sent via Kolvet showed the wrong dates",
+   "label": "Erika's photo alibi sent via Kolvet showed the wrong dates",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:02"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host shows a photo she says Erika Kirk sent Andrew Kolvet as an alibi, of herself covering her phone with her children. The host says it carried the wrong dates."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it was a photo of her sending him a picture alibi of her covering her phone with her kids on the wrong dates."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2550.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-14"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10472"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the original image file and its metadata, and compare its capture date with September 8–9, 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8944",
+   "header": "**C-8944** Host's December 27 group text to Streiff and Kolvet on Mitch Snow's Harpole sighting",
+   "label": "Host's December 27 group text to Streiff and Kolvet on Mitch Snow's Harpole sighting",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:59"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads her December 27 group text to Justin Streiff and Andrew Kolvet. It says Mitch Snow is certain he saw Brian Harpole leaving a meeting at Fort Huachuca around 7:30 a.m. on September 9, and invites them to send evidence so she can debunk it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Mitch Snow is very certain he saw Brian Harpole departing a meeting at Fort Huachuca around 7:30 a. m. on September 9th."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2549.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-15, N-14, N-361, N-266, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10373, N-10450"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the December 27, 2025 group thread and any reply, along with Harpole's travel records for September 9, 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8945",
+   "header": "**C-8945** Mitch Snow believes he saw Erika leaving a base hotel on September 8",
+   "label": "Mitch Snow believes he saw Erika leaving a base hotel on September 8",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:58"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "According to the host's group text, Mitch Snow also believes he saw Erika Kirk leaving a hotel on the base on September 8 at around 6:45 p.m., with a man who looked like special forces."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he also believes that he saw Erika departing a hotel on the base on September 8th, accompanied by special a special forces looking guy."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2549.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-361, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10417"
+    },
+    {
+     "k": "Supports",
+     "v": "C-4347"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the guest records and security footage of the on-base hotel for the evening of September 8, 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8946",
+   "header": "**C-8946** Kolvet told Paramount Tactical that Erika was with Charlie at the office on the 9th",
+   "label": "Kolvet told Paramount Tactical that Erika was with Charlie at the office on the 9th",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:58"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Andrew Kolvet messaged Gary of Paramount Tactical that Erika Kirk was with Charlie Kirk at the office all day on September 9."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Andrew messaged Gary, that's Paramount Tactical, saying that Erika was with Charlie on the 9th at the office all day."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2549.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-2, N-1, N-614"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10899, N-10472"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain Kolvet's messages to the Paramount Tactical host and TPUSA office access logs for September 9, 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8947",
+   "header": "**C-8947** Erika told Jesse Watters that Charlie was at the office, not that she was with him",
+   "label": "Erika told Jesse Watters that Charlie was at the office, not that she was with him",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:58"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that in her Jesse Watters interview Erika Kirk said Charlie was at the office all day on September 9 and that they had dinner together, but never said she was with him at the office."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "But Erika herself told Jesse Watters that Charlie was at the office all day and never said that she was with him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-211, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10472"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the full Jesse Watters interview transcript for Erika Kirk's account of September 9."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8948",
+   "header": "**C-8948** The Kirks' September 9 dinner was with Father Klein",
+   "label": "The Kirks' September 9 dinner was with Father Klein",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she knows the Kirks had dinner together on the night of September 9 because it was with Father Klein."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Dinner that night together, which I am aware of because it was with Father Klein."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2549.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-601, N-2, N-1, N-3"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm the September 9, 2025 dinner and its location with Father Klein."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8949",
+   "header": "**C-8949** Paramount Tactical's Gary confirmed Kolvet's messages referred to the 9th",
+   "label": "Paramount Tactical's Gary confirmed Kolvet's messages referred to the 9th",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Gary of Paramount Tactical confirmed to her that Andrew Kolvet's messages concerned Erika Kirk's schedule on September 9, not September 8."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Gary has confirmed to me that Andrew's messages are related to Erika's schedule on the 9th and not the 8th."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2549.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-2, N-614"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10899, N-10472"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the Paramount Tactical host's statement and the dated Kolvet messages."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8950",
+   "header": "**C-8950** Host's January 4 message to Dan Flood went unanswered and is not in the filing",
+   "label": "Host's January 4 message to Dan Flood went unanswered and is not in the filing",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:26"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that on January 4 she messaged Dan Flood, Harpole's business partner, asking him to help arrange a conversation with Harpole about the eyewitness. She says he did not reply and that the message is not included in Harpole's filing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "On January 4th, I messaged him. And this is what I wrote him. I said, this was not included in the filing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2549.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-270, N-266, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10651"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the January 4, 2026 message and its delivery or read receipts, and check the Harpole complaint's exhibits for its omission."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8951",
+   "header": "**C-8951** Harpole's filing spends its first three pages calling the host antisemitic",
+   "label": "Harpole's filing spends its first three pages calling the host antisemitic",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Harpole filing reads to her like a PR campaign, and that she agrees with Baron Coleman's assessment that a federal judge would be upset by a lawsuit written to get on a magazine cover. Speaking as a hypothetical judge, she says, \"You spent the first three pages calling her an anti-Semite.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "You spent the first three pages calling her an anti-Semite."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-266, N-330, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10651"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the first pages of the Harpole complaint for references to antisemitism."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8952",
+   "header": "**C-8952** Boreing sent interns on planes to follow the host after she left the Daily Wire",
+   "label": "Boreing sent interns on planes to follow the host after she left the Daily Wire",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:27:59"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host alleges that after the Daily Wire fired her, Jeremy Boreing was behind sending interns on secret trips by plane to follow her to public events."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "sending interns on secret trips on onto planes uh to follow me to my public events."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-366, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10900, N-10238, N-10416"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain Daily Wire travel and expense records for interns who attended the host's 2024 public events."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8953",
+   "header": "**C-8953** Boreing used Alyssa Cordova to pass material to Ian Miles Cheong",
+   "label": "Boreing used Alyssa Cordova to pass material to Ian Miles Cheong",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:52"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host alleges that while she was at the Daily Wire, Jeremy Boreing used Alyssa Cordova to send material to Ian Miles Cheong to attack his enemies."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he used Alyssa Cordova, uh who would send things to Ian Miles Cheong, who's generally speaking very gross, uh to go after his enemies."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-366, N-229, N-602"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10900"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Seek communications between Alyssa Cordova and Ian Miles Cheong, and compare the timing with Cheong's posts about Daily Wire critics."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8954",
+   "header": "**C-8954** Harpole's lawyer is the one the Daily Wire used against the host",
+   "label": "Harpole's lawyer is the one the Daily Wire used against the host",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:52"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the lawyer who filed the Harpole suit is the same lawyer Jeremy Boreing, Ben Shapiro and the Daily Wire used to pursue her in court for two years."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "This is the lawyer that Jeremy Boreing and Ben and The Daily Wire worked with to pursue me for 2 years in court, uh just with the explicit goal of bankrupting me."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-366, N-97, N-266, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10910, N-10900, N-10651"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare counsel of record in Harpole v. Owens with counsel in the Daily Wire v. Owens arbitration."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8955",
+   "header": "**C-8955** Boreing platformed Laura Loomer's allegations against the host's husband",
+   "label": "Boreing platformed Laura Loomer's allegations against the host's husband",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that on his show the day before, Jeremy Boreing platformed Laura Loomer's attacks on her husband George."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "when Jeremy took to his show yesterday to essentially platform Laura Loomer Laura Loomer's attacks against my husband."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2551.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-366, N-60, N-30"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10385, N-10631"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive the Jeremy Boreing episode aired the day before this episode, with its run time and description."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8956",
+   "header": "**C-8956** Boreing says Daily Wire revenue grew every year he led it",
+   "label": "Boreing says Daily Wire revenue grew every year he led it",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:18"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip of his show played by the host, Jeremy Boreing says Daily Wire revenue grew every year for 10 straight years under his leadership, and that his last full quarter and year as CEO were the biggest in its history."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Every single year that I led The Daily Wire, we grew revenue. Every year, year over year, for 10 straight years."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2551.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-366"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10900, N-10689"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain Daily Wire revenue and profit figures by year, from investor materials or reporting such as Semafor's."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8957",
+   "header": "**C-8957** Boreing cites records alleging George Farmer's August 2023 Nashville DUI arrest",
+   "label": "Boreing cites records alleging George Farmer's August 2023 Nashville DUI arrest",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:58"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip, Jeremy Boreing says public records have surfaced alleging that the host's husband, George Farmer, was arrested in Nashville in August 2023 for DUI and leaving the scene of an accident, and says the host insists it is a different George Farmer."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "public records and documents have surfaced alleging that Candace's husband, George Farmer, was arrested in Nashville in August 2023 for DUI and leaving the scene of an accident."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2551.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-366, N-30, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10631"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Search Davidson County (Nashville) arrest and court records for August 2023 and confirm the identity of any George Farmer named."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8958",
+   "header": "**C-8958** Boreing says he learned of the arrest while the host worked for him",
+   "label": "Boreing says he learned of the arrest while the host worked for him",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:58"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Boreing says he learned of the arrest and charges shortly after they happened, while the host still worked at the Daily Wire, from people with access to court documents, and that he refused to speak out."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "shortly after it happened, back when Candace still worked for me at The Daily Wire. People who had access to the court documents approached me with them quite early"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2551.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-366, N-30, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10900, N-10631"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Establish the date of any incident report and compare it with the host's Daily Wire employment dates and Boreing's CEO tenure."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8959",
+   "header": "**C-8959** Host denies any incident or Daily Wire contact during her tenure",
+   "label": "Host denies any incident or Daily Wire contact during her tenure",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says no such incident happened while she was at the Daily Wire and that she was never contacted about one. She calls Boreing's account made up."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "There was never an incident that happened while I was at the Daily Wire. I was never contacted."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-366, N-30"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10900, N-10631"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the date of the incident report Laura Loomer published with the host's Daily Wire employment dates."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8960",
+   "header": "**C-8960** Pendragon drove the Daily Wire into the ground financially",
+   "label": "Pendragon drove the Daily Wire into the ground financially",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:35:24"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says revenue growth is not profit. She says Jeremy Boreing's Pendragon project, which she calls a tremendous financial risk that not even Disney Studios would have invested tens of millions of dollars in, drove the Daily Wire into the ground financially after the success of Matt Walsh's documentaries."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Pendragon, Jeremy's high school dream, drove the company into the ground financially"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-366, N-163"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10449, N-10689, N-10900"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain Pendragon Cycle production budgets and Daily Wire profit-and-loss statements for 2022–2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8961",
+   "header": "**C-8961** Boreing stepped aside as CEO to shoot Pendragon in Hungary",
+   "label": "Boreing stepped aside as CEO to shoot Pendragon in Hungary",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:54"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Boreing temporarily stepped down as CEO and went to Hungary to shoot Pendragon, so no one would have contacted him about her husband during that period."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He had to temporarily put a hold on being the CEO because he went to Hungary to shoot Pendragon."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-366"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10449, N-10900"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm the dates of Boreing's leave as CEO and of the Pendragon Cycle shoot in Hungary from Daily Wire announcements."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8962",
+   "header": "**C-8962** George Farmer introduced the Daily Wire's interim CEO to London investors",
+   "label": "George Farmer introduced the Daily Wire's interim CEO to London investors",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:43"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her husband traveled to London with the Daily Wire's interim CEO, Caleb Robinson, and introduced the company to his and his father's circle of investors."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They went to London, him and the co-CEO or the just the CEO at that time, the interim full CEO. Caleb Robinson, George introduced them to all of his circle of investor friends"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-30, N-603"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10126, N-10900"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain Daily Wire travel records and investor-meeting records for the London trip."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8963",
+   "header": "**C-8963** The Daily Wire hired outside PR and, per the host's lawyers, private investigators",
+   "label": "The Daily Wire hired outside PR and, per the host's lawyers, private investigators",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:43"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that after firing her the Daily Wire hired outside PR people, and that her lawyers believe it also hired private investigators to find damaging information on her and her husband."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "they themselves hired PR people, outside PR people. My lawyers believe that they had hired private eyes as well to find any and all relevant dirt on me and my husband."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-30"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10900, N-10416"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Seek in discovery Daily Wire vendor payments to PR firms and investigators in 2024."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8964",
+   "header": "**C-8964** The Daily Wire found the incident report in late summer 2024 and pitched it to the New York Post",
+   "label": "The Daily Wire found the incident report in late summer 2024 and pitched it to the New York Post",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says it was the Daily Wire, Boreing and their affiliates who found an incident report involving George Farmer in late summer 2024. She says her PR team was told they were trying to get the New York Post to publish it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "It is The Daily Wire and Jeremy Boreing and their affiliates that stumbled upon an instant report an instant report with George Farmer in the late summer of 2024."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-366, N-30"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10900, N-10898, N-10631"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Seek confirmation from the New York Post of any 2024 pitch about George Farmer and its source."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8965",
+   "header": "**C-8965** The New York Post, and then lower-rung outlets, declined to publish",
+   "label": "The New York Post, and then lower-rung outlets, declined to publish",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:18"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the New York Post declined to publish the report after looking into it, and that lower-tier outlets, possibly including the Daily Beast, also declined because they could not confirm it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "After looking into that report that he's referring to, The New York Post declined to publish. They then tried to go to lower-rung publications. I believe The Daily Beast might have been one of them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-30"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10898, N-10631"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain statements from the New York Post and Daily Beast on whether they received and declined the story in 2024."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8966",
+   "header": "**C-8966** Charlie Kirk was alive and among those the host consulted about the attacks",
+   "label": "Charlie Kirk was alive and among those the host consulted about the attacks",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:18"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie Kirk was alive when the Daily Wire was pitching the report and was one of the people she talked to about how deranged the attacks had become."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I want to be clear, Charlie was alive and well during this time. And actually was one of the people that I was speaking to about how insane and deranged their attacks had become."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10900"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the host's 2024 text messages with Charlie Kirk about the Daily Wire."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8967",
+   "header": "**C-8967** Loomer named Tracy Robinson and claimed three cover-ups of drunken arrests",
+   "label": "Loomer named Tracy Robinson and claimed three cover-ups of drunken arrests",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:18"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Laura Loomer named Tracy Robinson as a hit-and-run victim and claimed the host and her husband paid to cover up three drunken arrest incidents."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Citing and naming a person, remember Tracy Robinson, this is the hit-and-run victim, claiming that we paid to cover up three drunken arrest instances."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-60, N-30"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10631"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare Loomer's posts with the insurance record and any court or police records involving Tracy Robinson."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8968",
+   "header": "**C-8968** Host denies she and George lied to DHS about a DUI",
+   "label": "Host denies she and George lied to DHS about a DUI",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:42:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host denies that she and George hid a DUI conviction or lied to the Department of Homeland Security for his citizenship application, and says reporters will find nothing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "It is utterly untrue. We would have never taken that risk with children, and they will come up dry."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-30"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10911"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Through lawful channels only, compare George Farmer's naturalization disclosures with any arrest or conviction records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8969",
+   "header": "**C-8969** Loomer is tagging DHS leadership to investigate George Farmer",
+   "label": "Loomer is tagging DHS leadership to investigate George Farmer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:42:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Laura Loomer is tagging DHS, including Secretary of Homeland Security Markwayne Mullin, to urge an investigation of George for violating federal law."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "She is tagging Mark Meadows, the Secretary of Homeland Security, to tell them to look into George for violating federal laws, okay?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-60, N-30"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10911"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive Laura Loomer's X posts tagging DHS officials about George Farmer, and confirm who held the post of Secretary at the time."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8970",
+   "header": "**C-8970** Shane Cashman called Boreing \"Ted Bundy doing a Mr. Rogers impression\"",
+   "label": "Shane Cashman called Boreing \"Ted Bundy doing a Mr. Rogers impression\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:43:02"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads a post by Shane Cashman on X that says \"Jeremy Boreing is Ted Bundy doing a Mr. Rogers impression.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Shane Cashman said it best on X when he wrote this. He wrote, \"Jeremy Boreing is Ted Bundy doing a Mr. Rogers impression.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2552.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-604, N-366"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive the Shane Cashman X post with its URL and timestamp."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8971",
+   "header": "**C-8971** Host alleges Boreing sought to punish Brett Cooper for marrying",
+   "label": "Host alleges Boreing sought to punish Brett Cooper for marrying",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:43:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host alleges that Boreing tried to harm Brett Cooper, then 21 or 22, \"for the crime of her wanting to get married,\" including by legal pressure and by approaching her maid of honor to take over her show."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "please note what he attempted to do to Brett Cooper, who was she 21, 22 at the time, for the crime of her wanting to get married."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-366, N-221"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10900"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Seek Brett Cooper's account and any Daily Wire legal correspondence with her about her departure."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8972",
+   "header": "**C-8972** 17 of Boreing's 19 podcast episodes are about the host and Tucker Carlson",
+   "label": "17 of Boreing's 19 podcast episodes are about the host and Tucker Carlson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:57"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that since launching his new podcast Jeremy Boreing has made 19 episodes, 17 of them about her and Tucker Carlson."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Since launching his new podcast, Jeremy Boreing has done 19 shows that nobody has watched. You should know that 17 of them have been about me and Tucker Carlson."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-366, N-3, N-22"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10385"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Catalogue the titles and topics of every episode of Jeremy Boreing's podcast to date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8973",
+   "header": "**C-8973** Former Daily Wire camera operator Zachary Lewis faces child sexual abuse material charges",
+   "label": "Former Daily Wire camera operator Zachary Lewis faces child sexual abuse material charges",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:46:20"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Zachary Lewis, a long-time Daily Wire camera operator, was arrested the previous May and is accused of distributing child sexual abuse material while soliciting minors. She stresses that he has not been convicted."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he's been accused of distributing pornography of pre-pubescent kids in the process of soliciting other minors."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2554.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-605"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10912, N-10900"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the arrest record, charging documents and docket for Zachary Lewis."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8974",
+   "header": "**C-8974** Zachary Lewis worked in the Daily Wire's kids department",
+   "label": "Zachary Lewis worked in the Daily Wire's kids department",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:46:20"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Lewis worked in the Daily Wire's kids department (Bentkey), where kids' shows were filmed with children."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "this now former employee, Zachary Lewis, happens to have worked in The Daily Wire Kids department, where they filmed kids' shows with kids."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-605"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10912, N-10900"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check Bentkey production credits and Daily Wire employment records for Zachary Lewis's role."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8975",
+   "header": "**C-8975** Lewis was reportedly not immediately dismissed after his arrest",
+   "label": "Lewis was reportedly not immediately dismissed after his arrest",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she has been told, which she labels an allegation, that Lewis was not immediately dismissed by the Daily Wire after his May arrest."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I am told that he was not immediately dismissed from The Daily Wire, allegedly."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-605"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10912, N-10900"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Establish Lewis's termination date from Daily Wire records or statements and compare it with his arrest date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8976",
+   "header": "**C-8976** Six felony counts are pending against Lewis",
+   "label": "Six felony counts are pending against Lewis",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:56"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says six felony counts are pending against Lewis before a judge, and that she has posted the case details on her X feed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "There are currently six felony counts pending before the judge. I dropped the details of the case against him on my X feed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2554.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-605"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10912"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm the number and nature of the counts on the court docket."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8977",
+   "header": "**C-8977** The Daily Wire did not publicly fire Lewis as it did the host",
+   "label": "The Daily Wire did not publicly fire Lewis as it did the host",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:56"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she has been told the Daily Wire did not hold a public staff firing for Lewis as it did for her, and that other talent were reportedly unaware of the case."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I have been informed that they did not build a stage to gloriously fire Zach Lewis and to publicly hang him before the employees like they did with me."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-605, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10912, N-10900"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Seek accounts from Daily Wire employees on how Lewis's departure was announced internally."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8978",
+   "header": "**C-8978** Brett Cooper declined a Lady Ballers role that involved licking Boreing's face",
+   "label": "Brett Cooper declined a Lady Ballers role that involved licking Boreing's face",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:50:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Boreing wrote Lady Ballers with a role for Brett Cooper that involved licking his face, and that she declined it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Writing a movie script like Lady Ballers and inserting Brett Cooper into a role to lick your face which she declined to do."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-366, N-221"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10900"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review Lady Ballers casting records and the original script drafts, and seek Brett Cooper's account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8979",
+   "header": "**C-8979** Boreing declined on X the invitation to appear on the host's show",
+   "label": "Boreing declined on X the invitation to appear on the host's show",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:51:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she publicly invited Boreing on her show to discuss George, and that he declined in a long X post that said she makes \"roughly 236 claims.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we publicly invited him to come on to the show, discuss George and what he did and when you knew"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2553.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-366, N-30, N-3"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive Boreing's X response with its URL and timestamp."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8980",
+   "header": "**C-8980** Boreing says he has not spoken privately to Laura Loomer in years",
+   "label": "Boreing says he has not spoken privately to Laura Loomer in years",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:51:48"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In his X post, Boreing says he has not spoken privately to Laura Loomer in years. The host responds that he would use intermediaries such as his lawyer."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I might respond that I haven't spoken privately to Laura Loomer in years."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2553.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-366, N-60"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Seek communications between Boreing's associates or counsel and Laura Loomer in 2025–2026."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8981",
+   "header": "**C-8981** Boreing says the Daily Wire employee's arrest has nothing to do with him",
+   "label": "Boreing says the Daily Wire employee's arrest has nothing to do with him",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:53:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In his X post, Boreing says the accusation that a Daily Wire employee was arrested for sex crimes involving a minor is terrible but has nothing to do with him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "But while that accusation is terrible, it has nothing to do with me."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2553.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-366, N-605"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10912"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Establish what Daily Wire leadership knew about the Lewis case and when, and Boreing's role over the kids department at the time."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8982",
+   "header": "**C-8982** Boreing cites safety concerns about going to the host's studio",
+   "label": "Boreing cites safety concerns about going to the host's studio",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:54:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In his X post, Boreing says his audience is concerned for his safety if he goes to the host's studio. The host extends the offer for him to join virtually."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "My audience is rightly concerned for my safety if I go to Candace's studio."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2553.4"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-366, N-3"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive the full X post and any later reply to the host's offer of a virtual appearance."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8983",
+   "header": "**C-8983** Blake Neff allegedly wrote Erika Kirk's speeches",
+   "label": "Blake Neff allegedly wrote Erika Kirk's speeches",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:57:22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Responding to a viewer comment, the host repeats that Blake Neff was allegedly writing Erika Kirk's speech, according to people with direct knowledge who she says have since been fired from Turning Point USA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "like I told you Blake Neff was writing her speech allegedly. I'm told by people with direct knowledge who have since been fired from The Daily I've been fired from Turning Point USA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Seek drafts and metadata of Erika Kirk's speeches, and accounts from former TPUSA staff."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8984",
+   "header": "**C-8984** Aspen donors in attendance say the CEO-appointment statement did not happen",
+   "label": "Aspen donors in attendance say the CEO-appointment statement did not happen",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:58:02"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says donors who attended the Aspen event deny that Charlie Kirk said there that he appointed Erika Kirk as CEO, and she asks Blake Neff to release the video."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "You got donors who say that the Charlie voice saying that he appoints Erika as CEO which you guys alleged took place at the Aspen event. Donors that were in attendance say that that did not happen."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-1, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10437"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8029"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full Aspen event video and the attendee list, and interview attendees."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8985",
+   "header": "**C-8985** Host received a new lead about Blake Bednarz",
+   "label": "Host received a new lead about Blake Bednarz",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:06:06"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her team received an interesting lead about Blake Bednarz that day and will follow it up."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Actually, we had an interesting lead today about Blake Bednarz. So we'll follow that."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-600, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10909"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Track any follow-up the host publishes on the Bednarz lead."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 6. Meme Register",
+    ""
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-58",
+   "header": "**M-58** (meme) Useful Idiot",
+   "label": "(meme) Useful Idiot",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:51:48"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "e absolutely no respect for that you think are just deranged but dumb useful idiots that will take your money. And those who might not even know th..."
+    },
+    {
+     "k": "Context",
+     "v": "Later reuse of Useful Idiot in CKA seq 100."
+    },
+    {
+     "k": "Tags",
+     "v": "fed, residual_adjacent, chat_elevate, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-12",
+   "header": "**M-12** (meme) Decentralized Intelligence Agency",
+   "label": "(meme) Decentralized Intelligence Agency",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:11:02"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "We had reached we said to everybody, \"If you've got any footage, please send it to us tips@kcsun. com.\""
+    },
+    {
+     "k": "Context",
+     "v": "Host recalls her early crowd-sourced call for UVU footage via the tips inbox, which led to her contact with Blake Bednarz."
+    },
+    {
+     "k": "Tags",
+     "v": "tips, crowd_sourcing, dia, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-87",
+   "header": "**M-87** (meme) Military Bros",
+   "label": "(meme) Military Bros",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:04:04"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Uh but of course did what they asked, delivered his warrant delivered their warnings, the military bro warnings."
+    },
+    {
+     "k": "Context",
+     "v": "Host's mocking label for the veteran YouTubers (Paramount Tactical / Valhalla) who tried to dissuade her from interviewing Mitch Snow."
+    },
+    {
+     "k": "Tags",
+     "v": "roast, running_bit, fort_huachuca"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:18:03"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I also was wondering like who who was the source for these military bro YouTubers?"
+    },
+    {
+     "k": "Context",
+     "v": "Host asks who the Turning Point USA source behind the military YouTubers was."
+    },
+    {
+     "k": "Tags",
+     "v": "roast, running_bit, fort_huachuca"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:24:21"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "The first possible reason is that they really were, just as was expressed from the military bros, uh before I even hosted Mitch, plotting to trap me in a defamation lawsuit."
+    },
+    {
+     "k": "Context",
+     "v": "Host gives the first of two explanations for the reactions to the Fort Huachuca story."
+    },
+    {
+     "k": "Tags",
+     "v": "roast, running_bit, fort_huachuca"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-88",
+   "header": "**M-88** (meme) Ted Bundy Doing a Mr. Rogers Impression",
+   "label": "(meme) Ted Bundy Doing a Mr. Rogers Impression",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:43:02"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Shane Cashman said it best on X when he wrote this. He wrote, \"Jeremy Boreing is Ted Bundy doing a Mr. Rogers impression.\""
+    },
+    {
+     "k": "Context",
+     "v": "Host reads Shane Cashman's line about Jeremy Boreing, which her team found the most accurate description."
+    },
+    {
+     "k": "Tags",
+     "v": "roast, comedy, daily_wire"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:43:55"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Spot-on. He is Ted Bundy doing a Mr. Rogers impression."
+    },
+    {
+     "k": "Context",
+     "v": "Host repeats the line and applies it to Boreing's treatment of Brett Cooper."
+    },
+    {
+     "k": "Tags",
+     "v": "roast, comedy, daily_wire"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:50:07"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I'm just your regular old Mrs. Rogers who has spent the last week having my employees docked, their faces docked"
+    },
+    {
+     "k": "Context",
+     "v": "Host flips the bit onto herself while saying she is following the rules Boreing established."
+    },
+    {
+     "k": "Tags",
+     "v": "roast, comedy, daily_wire, callback"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-89",
+   "header": "**M-89** (meme) Grain of Crack Cocaine",
+   "label": "(meme) Grain of Crack Cocaine",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:59:44"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Just take whatever she says with a grain of crack cocaine and and you'll be fine."
+    },
+    {
+     "k": "Context",
+     "v": "Host repeats a line from an earlier episode, quoted back by a viewer, about how to take Laura Loomer's claims."
+    },
+    {
+     "k": "Tags",
+     "v": "comedy, roast, chat_elevate, loomer"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-28",
+   "header": "**M-28** (meme) Christ is King",
+   "label": "(meme) Christ is King",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:47:56"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "My offense was that I said Christ is king."
+    },
+    {
+     "k": "Context",
+     "v": "Host contrasts her public firing from the Daily Wire with how the company handled Zachary Lewis."
+    },
+    {
+     "k": "Tags",
+     "v": "faith, refrain, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "01:04:42"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Christ is king, and genocide is always wrong."
+    },
+    {
+     "k": "Context",
+     "v": "Host says she has not learned her lesson."
+    },
+    {
+     "k": "Tags",
+     "v": "faith, refrain, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-76",
+   "header": "**M-76** (meme) Genocide Is Always Wrong",
+   "label": "(meme) Genocide Is Always Wrong",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:47:56"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Is it deemed a worse internal offense to say Christ is king and to tweet out genocide is always wrong?"
+    },
+    {
+     "k": "Context",
+     "v": "Host asks whether her firing offense was treated as worse than the Lewis case."
+    },
+    {
+     "k": "Tags",
+     "v": "moral_claim, refrain, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "01:04:42"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Genocide is always wrong. I have to say, I have not learned my lesson."
+    },
+    {
+     "k": "Context",
+     "v": "Host reaffirms the line while reflecting on leaving the Daily Wire."
+    },
+    {
+     "k": "Tags",
+     "v": "moral_claim, refrain, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-23",
+   "header": "**M-23** (meme) Battle Bun",
+   "label": "(meme) Battle Bun",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "01:07:21"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "These came in our battle bun mugs."
+    },
+    {
+     "k": "Context",
+     "v": "Merch plug at the close of the show."
+    },
+    {
+     "k": "Tags",
+     "v": "merch, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-18",
+   "header": "**M-18** (meme) Make Him a Sandwich",
+   "label": "(meme) Make Him a Sandwich",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "01:08:05"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I'm going to make a sandwich. com, you can buy it directly from us."
+    },
+    {
+     "k": "Context",
+     "v": "Host plugs her book and book club, directing feminists to buy it from the site."
+    },
+    {
+     "k": "Tags",
+     "v": "book, merch, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 7. Optional Flags",
+    "",
+    "- **Artifacts verbally referenced but not shown**: A-2544.1 (preservation orders and the lawyers' email requesting Ian Carroll's address), A-2544.2 (the preservation order served on Bednarz), A-2547.1 (the earlier tips-email request) and A-2554.1 (the Zachary Lewis case details the host says she posted on X). The Harpole complaint itself is described but not shown in this episode.",
+    "- **DIA beat**: the only keyword hit is the recalled request \"please send it to us tips@kcsun. com\" (00:11:02). It was treated as a DIA beat (C-8933, A-2547.1, M-12), although it is a retrospective account of an earlier call for footage rather than a new request. The address is kept as transcribed and is likely a caption error for the show's tips address. The \"interesting lead today about Blake Bednarz\" (01:06:06) is a tip received but matched no keyword; it is recorded as C-8985 without an M-12 occurrence. M-14 does not air.",
+    "- **Name matching**: Harpole is transcribed as \"Bryan Harsin\" (00:00:01, 00:01:19), \"Brian Hopple\", \"Bryant Harpole\", \"Brett Harrelson\", \"Brian Hurlbut\", \"Brian Harpool\" and \"Brian Harp\"; all are mapped to N-266 from context. \"Barron\"/\"Baron Coleman\" is mapped to N-330 Baron Coleman, and \"Andrew Kolvet\" (comments) to N-14. \"Douglas Blake Bednarz\" and \"Blake Bednarz\" are treated as the same new person, N-600 Douglas Blake Bednarz. \"Dhillon Law Group\" is minted as N-10910 Dhillon Law Group; the integrator should reconcile it with the existing topic \"Dhillon Law Group / Show Faith by Works Connection\".",
+    "- **Uncertain identities**: \"Caleb Robinson\" (N-603), the Daily Wire interim CEO, is kept in the transcript spelling and is likely Caleb Robinson; the integrator should verify. \"Father Klein\" (N-601) could not be matched to any existing node. \"Gary\" of Paramount Tactical is folded into N-10899 rather than minted, because only his first name is given (the existing Gary Hamrick node is a different person, a pastor). \"Mark Meadows, the Secretary of Homeland Security\" (C-8969) is kept as transcribed; the name is likely wrong and no person node was minted. \"Matt Saracens\" (00:52:31, named as someone who could speak to Loomer for Boreing) is unmatched; it may be Matt Sarelson, who appears in prior claim C-8776. It is not inscribed.",
+    "- **Internal inconsistency**: Coleman's clip says Bednarz \"is not listed in this lawsuit\" (00:07:17), but at 00:11:02 the host says \"They're listing him in the lawsuit.\" This may mean the complaint shows his material without naming him as a defendant; it is preserved as spoken.",
+    "- **Defamation safety**: Bednarz's accusations against Harpole (C-8928, C-8931), the YouTuber's allegations about Mitch Snow's past (C-8938), the George Farmer arrest allegations (C-8957, C-8958, C-8967) and the Zachary Lewis charges (C-8973 to C-8977; not convicted) are all attributed and none is stated as fact.",
+    "- **Not inscribed as claims (admission test)**: The following were excluded as characterizations, opinions or rhetoric:",
+    "  - \"Daily Wire operates like a deranged cult\"",
+    "  - Boreing is \"a deranged psycho\" or has an \"obsessive personality\"",
+    "  - The claim that Boreing's ultimate goal is to have George's citizenship revoked (motive inference)",
+    "  - Speculation about why Erika Kirk could have been on base (her mother working with the military)",
+    "  - The insinuations about Boreing's wife and Armie Hammer",
+    "  - Boreing \"behaves like an e-girl\"",
+    "  - The suggestion that Erika Kirk reads from a prompter",
+    "  - Viewer comments on Blake Lively, Ryan Reynolds and Justin Baldoni",
+    "  - Viewer comments on Salem Media and Israel",
+    "  - The Fox News / Suzanne Scott comparison",
+    "- **Minor beats not inscribed**: Boreing's statement that he was approached \"more than once\" to speak out and refused (covered by C-8958); the host's claim that the Daily Wire was locked in a court battle with her at the time of the 2024 pitch; her account of a pre-planned embarrassing question at a Texas event; Steven Crowder being targeted by Boreing's \"minions\"; the channel approaching 6 million YouTube subscribers; the studio upgrade; and her lawyer Noah.",
+    "- **Cross-episode links left out**: C-8957/C-8967 versus C-8465/C-8467 (ep 94, Loomer's George Farmer allegations and the $6,987 Tracy Robinson record) are related but come from a different speaker and frame, so they are not linked. C-8941 is linked to C-4484 (ep 51), but not to C-4487.",
+    "- **Memes**: M-89 \"Grain of Crack Cocaine\" first appears in episode 096, so the integrator may want to backfill an occurrence there. M-87 \"Military Bros\" recurs in episodes 101, 113 and 135. M-88 \"Ted Bundy Doing a Mr. Rogers Impression\" recurs in episode 151.",
+    "- **Sponsor reads** (Dose, PureTalk, Balance of Nature) and merch and book-club promotion are excluded from claims.",
+    ""
+   ]
+  }
+ ]
+}

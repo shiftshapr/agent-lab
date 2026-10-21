@@ -1,0 +1,8256 @@
+{
+ "format": "cka-source/1",
+ "episode": 90,
+ "blocks": [
+  {
+   "kind": "text",
+   "lines": [
+    "## 1. Meta-Data",
+    "",
+    "- **Episode**: 90",
+    "- **Monument**: cka",
+    "- **CKA seq**: 90",
+    "- **YouTube id**: eLgD5yUVbko",
+    "- **Candace Ep**: 323",
+    "- **Source**: Candace Owens YouTube",
+    "- **Video Timestamp Range**: 00:00:00–01:08:25",
+    "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
+    "- **Transcript SHA-256**: ccc088e1afd1c59b5e5cc5c2b2958206b92ce5ce72a69a6b3b4672840c3aa324",
+    "",
+    "- **Episode Ledger Summary**:",
+    "  - Tip-minted Nodes (supplement_2026-10c): N-810, N-811",
+    "  - Hole-minted Nodes (reintro-ep090): N-10679, N-10703",
+    "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
+    "  - Claim Range: C-8020–C-8102",
+    "  - New Nodes Introduced: N-10593, N-10595, N-10596, N-10597",
+    "  - Hole-minted Nodes (wave3): N-420, N-421",
+    "  - Tip-minted Nodes (skeleton-caleb): N-603",
+    "  - Reused Nodes Appearing: N-10169, N-3, N-40, N-41, N-69, N-133, N-5, N-38, N-46, N-60, N-97, N-125, N-159, N-163, N-204, N-244, N-272, N-361, N-364, N-366, N-378, N-772, N-10000, N-10013, N-10024, N-10027, N-10029, N-10031, N-10271, N-10372, N-10416, N-10431, N-10568, N-10584, N-10628, N-10664, N-10900, N-10936, N-11002, N-11129, N-10594, N-10954, N-10598",
+    "  - (see registers)",
+    "",
+    "# EVOLUTION 90 ANALYSIS",
+    "",
+    "",
+    "## 2. Executive Summary",
+    "",
+    "Episode 90 advances two distinct investigative threads within the Bride of Charlie series while devoting the latter third to non-investigative commentary on U.S. presidential rhetoric toward Pope Leo XIV. On the Tyler Robinson track, host Candace Owens presents and reads aloud from two court filings – the defense's Motion to Exclude Still Photography (filed March 30, 2026) and a state filing on forensic extractions of electronics – to argue that the federal arrest and booking timeline presented publicly is internally inconsistent with documentary timestamps. Specifically, the defense motion is read as showing Robinson being Mirandized at 6:25 p.m. on September 11, 2025, with attorney Doug Terry named, before the official public timeline indicates police had identified a suspect. A second filing excerpt is read aloud in which the state concedes it does not intend to offer forensic-extraction evidence from seized electronics at the preliminary hearing.",
+    "",
+    "On the Turning Point USA / Erika Kirk track, the episode re-plays the Aspen audio clip of \"I appoint my wife to run Turning Point USA\" and presents host testimony that two Aspen-event donors contacted her to deny the statement occurred. The host also reads an Andrew Kolvet interview clip in which Kolvet admits pitches were received for a \"Charlie GPT\" product, and plays an internal Alliance Defending Freedom CEO video plus references an internal ADF board slide showing Daily Wire CEO Caleb Robinson on the board. Pope Leo XIV and Donald Trump are treated through artifact-anchored Truth Social posts, a papal video response, and a Trump press-conference clip defending an AI image. Structural importance: this episode formalizes the Tyler Robinson filing-timeline discrepancy as an artifact-anchored claim rather than a host inference and adds the federal forensic-extraction question to the registry.",
+    "",
+    "---",
+    "",
+    "## 3. Artifact Register",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1948",
+   "header": "**A-1948** Tyler Robinson Court Filing Bundle",
+   "label": "Tyler Robinson Court Filing Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1948.1",
+   "header": "**A-1948.1** Motion to Exclude Still Photography (filed March 30, 2026)",
+   "label": "Motion to Exclude Still Photography (filed March 30, 2026)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:30:32–00:34:00"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Extraction Timestamp",
+     "v": "2026-04-13"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8059, C-8060, C-8084, N-40, N-10593*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1948.2",
+   "header": "**A-1948.2** State Filing – Preliminary Hearing Evidence Notice (re: forensic extractions)",
+   "label": "State Filing – Preliminary Hearing Evidence Notice (re: forensic extractions)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:47:08–00:48:34"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8084, N-40, N-10595*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1949",
+   "header": "**A-1949** Aspen Audio Bundle",
+   "label": "Aspen Audio Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1949.1",
+   "header": "**A-1949.1** Audio recording – \"I appoint my wife to run Turning Point USA if something happens to me\"",
+   "label": "Audio recording – \"I appoint my wife to run Turning Point USA if something happens to me\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:12:25–00:13:17"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (audio-only; video withheld)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8028, C-8050, N-1, N-2, N-10594*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1950",
+   "header": "**A-1950** Andrew Kolvet Interview Bundle",
+   "label": "Andrew Kolvet Interview Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1950.1",
+   "header": "**A-1950.1** Andrew Kolvet interview clip – \"Charlie GPT\" pitches & forcing Ben Shapiro interview",
+   "label": "Andrew Kolvet interview clip – \"Charlie GPT\" pitches & forcing Ben Shapiro interview",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:13:17–00:14:10"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8031, C-8048, N-10597*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1951",
+   "header": "**A-1951** Alliance Defending Freedom Internal Materials Bundle",
+   "label": "Alliance Defending Freedom Internal Materials Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1951.1",
+   "header": "**A-1951.1** ADF CEO internal video – discussing Candace Owens litigation coordination with Erika Kirk",
+   "label": "ADF CEO internal video – discussing Candace Owens litigation coordination with Erika Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:21:42–00:23:21"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8048, N-2, N-3, N-10596*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1951.2",
+   "header": "**A-1951.2** ADF internal board presentation slide – Caleb Robinson board seat",
+   "label": "ADF internal board presentation slide – Caleb Robinson board seat",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:23:21"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low (referenced, partial)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8050, N-10596*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1952",
+   "header": "**A-1952** Trump Truth Social Bundle",
+   "label": "Trump Truth Social Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1952.1",
+   "header": "**A-1952.1** Trump Truth Social post attacking Pope Leo XIV",
+   "label": "Trump Truth Social post attacking Pope Leo XIV",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:52:54–00:54:07"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8090*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1953",
+   "header": "**A-1953** Pope Leo XIV Response Bundle",
+   "label": "Pope Leo XIV Response Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1953.1",
+   "header": "**A-1953.1** Pope Leo XIV video response – \"Blessed are the peacemakers\"",
+   "label": "Pope Leo XIV video response – \"Blessed are the peacemakers\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:57:23–00:58:29"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8094*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1954",
+   "header": "**A-1954** Trump Press Conference Bundle",
+   "label": "Trump Press Conference Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1954.1",
+   "header": "**A-1954.1** Trump press conference defending AI image of himself as Jesus",
+   "label": "Trump press conference defending AI image of himself as Jesus",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:59:24–01:01:34"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8098*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1955",
+   "header": "**A-1955** Discord Statement Bundle",
+   "label": "Discord Statement Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1955.1",
+   "header": "**A-1955.1** Discord statement published in The Hill – September 12, 2025",
+   "label": "Discord statement published in The Hill – September 12, 2025",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:42:44–00:43:32"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8076, N-40, N-10598*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1956",
+   "header": "**A-1956** Tyler Robinson Search Warrant Bundle",
+   "label": "Tyler Robinson Search Warrant Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1956.1",
+   "header": "**A-1956.1** Search warrant indicating 10:26 p.m. arrival at Washington County Sheriff's Office with parents",
+   "label": "Search warrant indicating 10:26 p.m. arrival at Washington County Sheriff's Office with parents",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:40:19"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low (verbally referenced only)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8073, N-40, N-10593*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1957",
+   "header": "**A-1957** TPUSA Aspen Donor Communication Bundle",
+   "label": "TPUSA Aspen Donor Communication Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1957.1",
+   "header": "**A-1957.1** Donor communications from Aspen event attendees denying Charlie said the appointment quote",
+   "label": "Donor communications from Aspen event attendees denying Charlie said the appointment quote",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:09:44–00:16:01"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low (verbally referenced only – no recording displayed)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8029, N-1, N-2, N-10594*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2956",
+   "header": "**A-2956** ADF Insider Emails Bundle",
+   "label": "ADF Insider Emails Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2956.1",
+   "header": "**A-2956.1** Host verbal reference to emails from people at Alliance Defending Freedom saying Ben Shapiro is working with Erika Kirk on suing the host (not shown)",
+   "label": "Host verbal reference to emails from people at Alliance Defending Freedom saying Ben Shapiro is working with Erika Kirk on suing the host (not shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:20:37"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8047, C-8054, N-3, N-97, N-2, N-38, N-10954*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2957",
+   "header": "**A-2957** September 11 Timeline Graphic Bundle",
+   "label": "September 11 Timeline Graphic Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2957.1",
+   "header": "**A-2957.1** Host's on-screen timeline of September 11 events scrolled through while narrating (7:00 a.m. to 8:00 p.m.)",
+   "label": "Host's on-screen timeline of September 11 events scrolled through while narrating (7:00 a.m. to 8:00 p.m.)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:34:37"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8061, C-8062, C-8063, C-8064, N-3, N-40, N-69, N-378*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2958",
+   "header": "**A-2958** Search Warrant Affidavit Text Bundle",
+   "label": "Search Warrant Affidavit Text Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2958.1",
+   "header": "**A-2958.1** Search warrant text read aloud describing the roommate's Discord messages",
+   "label": "Search warrant text read aloud describing the roommate's Discord messages",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Investigators interviewed that roommate who stated that his roommate, referring to Robinson, made a joke on Discord.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:41:45"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8074, C-8075, C-8077, N-40, N-54, N-10013*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2959",
+   "header": "**A-2959** State Filing Disclosure Passage Bundle",
+   "label": "State Filing Disclosure Passage Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2959.1",
+   "header": "**A-2959.1** State filing passage read aloud on when the defense received the evidence",
+   "label": "State filing passage read aloud on when the defense received the evidence",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Most of the evidence to be presented at the preliminary hearing including the DNA report regarding the rifle found at the scene was provided to the defense in October of 2025.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:47:08"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8085, C-8086, N-40*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2960",
+   "header": "**A-2960** Trump Pope Interview Clip Bundle",
+   "label": "Trump Pope Interview Clip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2960.1",
+   "header": "**A-2960.1** Clip of Trump answering a question about why he attacked Pope Leo on Truth Social",
+   "label": "Clip of Trump answering a question about why he attacked Pope Leo on Truth Social",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"I don't think he's doing a very good job. He likes crime, I guess.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:58:29"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8095, C-8096, N-5, N-420*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2961",
+   "header": "**A-2961** Trump AI Jesus Image Bundle",
+   "label": "Trump AI Jesus Image Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2961.1",
+   "header": "**A-2961.1** AI image of Trump as Jesus healing the sick shown on screen",
+   "label": "AI image of Trump as Jesus healing the sick shown on screen",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "01:00:23"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8097, N-5*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 4. Node Register",
+    ""
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-603",
+   "header": "**N-603** Caleb Robinson",
+   "label": "Caleb Robinson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Daily Wire chief executive; first named by the host at 00:23:21 in episode 90 (ADF board seat)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8050*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-420",
+   "header": "**N-420** Pope Leo XIV",
+   "label": "Pope Leo XIV",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "00:01 in episode 90. Aliases: Pope Leo, Pope Leo the 14th, His Holiness Pope Leo, Leo XIV.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8090, C-8094, C-8098, C-8089*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-421",
+   "header": "**N-421** Doug Terry",
+   "label": "Doug Terry",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "33:31 in episode 90.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8059, C-8060*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10593",
+   "header": "**N-10593** Tyler Robinson Filing Timeline Discrepancy",
+   "label": "Tyler Robinson Filing Timeline Discrepancy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Persistent inconsistency between defense-motion timestamps, search-warrant timestamps, and publicly reported federal booking timeline."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "3"
+    },
+    {
+     "k": "Claim Count",
+     "v": "3"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1948.1, A-1956.1, C-8059, C-8073, N-40*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10594",
+   "header": "**N-10594** Aspen Donor Inconsistency",
+   "label": "Aspen Donor Inconsistency",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host's claim that two Aspen-event donors deny the audio quote occurred at the event; audio vs. donor memory discrepancy."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1949.1, A-1957.1, C-8028, C-8029, N-1, N-2*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10595",
+   "header": "**N-10595** Forensic Extraction Evidence Presentation Question",
+   "label": "Forensic Extraction Evidence Presentation Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "State's stated intention not to offer forensic-extraction evidence from seized electronics at preliminary hearing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1948.2, C-8084, N-40*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10596",
+   "header": "**N-10596** Ben Shapiro / Daily Wire Influence on Alliance Defending Freedom",
+   "label": "Ben Shapiro / Daily Wire Influence on Alliance Defending Freedom",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Pattern of host assertions regarding Daily Wire personnel at ADF and ADF litigation coordination with Erika Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "3"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1951.1, A-1951.2, C-8048, C-8050*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10597",
+   "header": "**N-10597** Charlie GPT Pitch Question",
+   "label": "Charlie GPT Pitch Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Admitted pre-death pitches for AI \"Charlie GPT\" product and host's open question about whether a pitch was accepted."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1950.1, C-8031, N-1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10598",
+   "header": "**N-10598** Lance Twiggs Federal Asset Question",
+   "label": "Lance Twiggs Federal Asset Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host's speculative but anchored concern regarding Lance Twiggs's status in light of Discord statement and Robinson's relationship."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1948.2, A-1955.1, C-8076, N-40*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-3",
+   "header": "**N-3** Candace Owens",
+   "label": "Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host; speaks for herself throughout."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8020, C-8021, C-8022, C-8023, C-8024, C-8025, C-8026, C-8027, C-8030, C-8032, C-8033, C-8034, C-8035, C-8036, C-8037, C-8038, C-8039, C-8040, C-8041, C-8042, C-8043, C-8044, C-8045, C-8046, C-8047, C-8049, C-8051, C-8052, C-8053, C-8054, C-8055, C-8056, C-8057, C-8058, C-8061, C-8062, C-8063, C-8064, C-8065, C-8067, C-8068, C-8069, C-8070, C-8071, C-8072, C-8074, C-8075, C-8077, C-8079, C-8080, C-8081, C-8082, C-8083, C-8085, C-8086, C-8088, C-8091, C-8092, C-8093, C-8095, C-8096, C-8097, C-8099, C-8100, C-8101, C-8102*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-1",
+   "header": "**N-1** Charlie Kirk",
+   "label": "Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of the assassination; the host discusses the alleged Aspen remark and his views of Ben Shapiro."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8024, C-8027, C-8030, C-8032, C-8034, C-8035, C-8038, C-8040, C-8041, C-8042, C-8043, C-8044, C-8100, C-8102*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-2",
+   "header": "**N-2** Erika Kirk",
+   "label": "Erika Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Widow and TPUSA CEO; subject of the Aspen remark, the single-mother description and the ADF claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8020, C-8024, C-8030, C-8035, C-8038, C-8039, C-8040, C-8045, C-8047, C-8101*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-5",
+   "header": "**N-5** Donald Trump",
+   "label": "Donald Trump",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named in the episode; cited by new claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8088, C-8091, C-8092, C-8093, C-8095, C-8096, C-8097, C-8099*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-14",
+   "header": "**N-14** Andrew Kolvet",
+   "label": "Andrew Kolvet",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "TPUSA spokesperson; the host cites his Charlie GPT and Shapiro-interview remarks."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8032, C-8040, C-8043, C-8044*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-38",
+   "header": "**N-38** Seth Dillon",
+   "label": "Seth Dillon",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named in the episode; cited by new claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8047, C-8054*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-40",
+   "header": "**N-40** Tyler Robinson",
+   "label": "Tyler Robinson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Defendant; subject of the September 11 timeline and filing claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8055, C-8056, C-8057, C-8058, C-8061, C-8062, C-8063, C-8064, C-8065, C-8067, C-8069, C-8070, C-8072, C-8074, C-8075, C-8077, C-8079, C-8080, C-8082, C-8085, C-8086*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-41",
+   "header": "**N-41** Spencer Cox",
+   "label": "Spencer Cox",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named in the episode; cited by new claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8056*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-46",
+   "header": "**N-46** Megyn Kelly",
+   "label": "Megyn Kelly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named in the episode; cited by new claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8053*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-54",
+   "header": "**N-54** Lance Twiggs",
+   "label": "Lance Twiggs",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Robinson's roommate; the host calls him a federal informant."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8074, C-8075, C-8077, C-8079, C-8080, C-8081, C-8082, C-8083*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-60",
+   "header": "**N-60** Laura Loomer",
+   "label": "Laura Loomer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named in the episode; cited by new claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8088*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-69",
+   "header": "**N-69** Kash Patel",
+   "label": "Kash Patel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named in the episode; cited by new claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8063, C-8069, C-8070*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-97",
+   "header": "**N-97** Ben Shapiro",
+   "label": "Ben Shapiro",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Daily Wire co-founder; the host alleges he worked against her through donors, arbitration and ADF."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8040, C-8041, C-8042, C-8043, C-8044, C-8045, C-8046, C-8047, C-8051, C-8053, C-8054*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-125",
+   "header": "**N-125** Mike Mitchell",
+   "label": "Mike Mitchell",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named in the episode; cited by new claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8067, C-8068*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-159",
+   "header": "**N-159** Blake Neff",
+   "label": "Blake Neff",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "TPUSA communications figure; the host recounts his refusal to show the video."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8025, C-8026, C-8037, C-8071*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-163",
+   "header": "**N-163** Matt Walsh",
+   "label": "Matt Walsh",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named in the episode; cited by new claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8044*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-204",
+   "header": "**N-204** Piers Morgan",
+   "label": "Piers Morgan",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named in the episode; cited by new claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8041*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-244",
+   "header": "**N-244** Mark Levin",
+   "label": "Mark Levin",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named in the episode; cited by new claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8053*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-272",
+   "header": "**N-272** Nate Brooksby",
+   "label": "Nate Brooksby",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named in the episode; cited by new claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8067, C-8068, C-8069*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-361",
+   "header": "**N-361** Mitch Snow",
+   "label": "Mitch Snow",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named in the episode; cited by new claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8020*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-364",
+   "header": "**N-364** Cabot Phillips",
+   "label": "Cabot Phillips",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Daily Wire employee the host describes as Erika's ex-boyfriend and the subject of the playground encounter."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8020, C-8021, C-8022, C-8023*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-366",
+   "header": "**N-366** Jeremy Boreing",
+   "label": "Jeremy Boreing",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named in the episode; cited by new claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8041*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-378",
+   "header": "**N-378** Dan Bongino",
+   "label": "Dan Bongino",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named in the episode; cited by new claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8063*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-772",
+   "header": "**N-772** Paula White",
+   "label": "Paula White",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named in the episode; cited by new claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8088, C-8093*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10000",
+   "header": "**N-10000** Turning Point USA",
+   "label": "Turning Point USA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing organization reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8024, C-8025, C-8026, C-8030, C-8034, C-8036, C-8037, C-8038, C-8039, C-8101, C-8102*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10013",
+   "header": "**N-10013** Discord",
+   "label": "Discord",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing organization reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8074, C-8075, C-8077*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10024",
+   "header": "**N-10024** Kirk Assassination Investigation Timeline",
+   "label": "Kirk Assassination Investigation Timeline",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8055, C-8061, C-8062, C-8063, C-8064*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10027",
+   "header": "**N-10027** The Hamptons",
+   "label": "The Hamptons",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing place reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8027*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10029",
+   "header": "**N-10029** Washington County Sheriff's Office",
+   "label": "Washington County Sheriff's Office",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing organization reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8067, C-8068, C-8069, C-8072*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10031",
+   "header": "**N-10031** 33-Hour Surrender Timeline Signal",
+   "label": "33-Hour Surrender Timeline Signal",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8069, C-8070, C-8071*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10271",
+   "header": "**N-10271** Tyler Robinson Washington County Surveillance Footage Gap",
+   "label": "Tyler Robinson Washington County Surveillance Footage Gap",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8072*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10372",
+   "header": "**N-10372** Cabot Phillips Fort Huachuca Presence Verification",
+   "label": "Cabot Phillips Fort Huachuca Presence Verification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8020, C-8021*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10416",
+   "header": "**N-10416** Daily Wire Stalking Pattern",
+   "label": "Daily Wire Stalking Pattern",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8052*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10431",
+   "header": "**N-10431** Aspen Donor Retreat \"What Happens When You Die\" Question",
+   "label": "Aspen Donor Retreat \"What Happens When You Die\" Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8024, C-8027, C-8100*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10568",
+   "header": "**N-10568** Athanor Lodge / French Freemason Murder Trial",
+   "label": "Athanor Lodge / French Freemason Murder Trial",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8071*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10584",
+   "header": "**N-10584** Aspen Donor Event Memory Discrepancy",
+   "label": "Aspen Donor Event Memory Discrepancy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8030, C-8035*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10628",
+   "header": "**N-10628** Laura Loomer Involuntary Psychiatric Holds / Firearm Prohibition",
+   "label": "Laura Loomer Involuntary Psychiatric Holds / Firearm Prohibition",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8088*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10664",
+   "header": "**N-10664** Charlie Kirk Aspen Audio Authenticity Question",
+   "label": "Charlie Kirk Aspen Audio Authenticity Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8024, C-8034, C-8037, C-8038, C-8100*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10679",
+   "header": "**N-10679** Lance Twiggs Preliminary Hearing Testimony Limitation",
+   "label": "Lance Twiggs Preliminary Hearing Testimony Limitation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8079, C-8083*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10703",
+   "header": "**N-10703** Tyler Robinson Set-up Theory (Lance Twiggs as Actual Perpetrator)",
+   "label": "Tyler Robinson Set-up Theory (Lance Twiggs as Actual Perpetrator)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8080*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10900",
+   "header": "**N-10900** Daily Wire",
+   "label": "Daily Wire",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing organization reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8020, C-8042, C-8044, C-8045, C-8046, C-8049, C-8052*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10936",
+   "header": "**N-10936** Aspen CEO-Appointment Video Non-Release",
+   "label": "Aspen CEO-Appointment Video Non-Release",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8025, C-8026, C-8036*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10954",
+   "header": "**N-10954** Alliance Defending Freedom",
+   "label": "Alliance Defending Freedom",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing organization reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8047, C-8049, C-8051, C-8054*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11002",
+   "header": "**N-11002** Warner Valley, Utah",
+   "label": "Warner Valley, Utah",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing place reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8057, C-8058*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11129",
+   "header": "**N-11129** Freemasonry",
+   "label": "Freemasonry",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8070, C-8071*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-810",
+   "header": "**N-810** Mike Smith",
+   "label": "Mike Smith",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Utah County Sheriff; first named by the host at 00:38:30 in episode 90 (Brooksby's call about Mike Mitchell)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8068*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-811",
+   "header": "**N-811** Bishop Barron",
+   "label": "Bishop Barron",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Bishop; first named by the host at 00:55:46 in episode 90 (stood beside Paula White during the prayer). Transcript spelling: Bishop Barron."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8093*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 5. Claim Register",
+    ""
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8059",
+   "header": "**C-8059** Defense Motion Places Tyler Robinson Miranda Advisement at 6:25 p.m. on September 11",
+   "label": "Defense Motion Places Tyler Robinson Miranda Advisement at 6:25 p.m. on September 11",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:32:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The defense Motion to Exclude Still Photography records a Miranda advisement at the 3-hour-36-minute mark of an interview video, which the host identifies as 6:25 p.m. on September 11, 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1948.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10593"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain certified copy of motion and underlying video exhibit; cross-reference timestamp with booking and arrest records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8060",
+   "header": "**C-8060** Tyler Robinson requested attorney Doug Terry during Mirandization",
+   "label": "Tyler Robinson requested attorney Doug Terry during Mirandization",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:33:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the defense motion the host reads (A-1948.1), during the recorded Mirandization Robinson asked to speak with legal counsel, a fellow in Utah named Doug Terry, and said he thinks Terry's office is closed for the night."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1948.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-40, N-421"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify attorney representation records and the authenticity of the cited interview timestamp."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8084",
+   "header": "**C-8084** State does not intend to offer forensic-extraction evidence at preliminary hearing",
+   "label": "State does not intend to offer forensic-extraction evidence at preliminary hearing",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:08"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a state filing on preliminary-hearing evidence the host reads, the prosecution states it does not intend to offer evidence obtained through forensic extractions of electronics seized in the case, but does intend to offer two exhibits which used cameras to record the contents of text messages."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1948.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10595"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the underlying filing directly and confirm language; assess chain-of-custody implications."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8028",
+   "header": "**C-8028** Aspen audio contains the statement \"I appoint my wife to run Turning Point USA if something happens to me\"",
+   "label": "Aspen audio contains the statement \"I appoint my wife to run Turning Point USA if something happens to me\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "An audio recording played in the episode contains the phrase \"I appoint my wife to run Turning Point USA if something happens to me. Erika would do a great job.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1949.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10594"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Authenticate timestamp, venue, and speakers; obtain the unredacted video referenced by Turning Point USA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8031",
+   "header": "**C-8031** Andrew Kolvet stated pitches were received for \"Charlie GPT\"",
+   "label": "Andrew Kolvet stated pitches were received for \"Charlie GPT\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:17"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a recorded interview clip, Andrew Kolvet says he feels he has 'a Charlie GPT or something in the back of my head' and that they have been pitched multiple times on 'the weird AI thing'."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1950.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10597"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the date and outlet of the interview; obtain full interview transcript; verify whether any pitch was accepted."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8048",
+   "header": "**C-8048** Host Says ADF CEO Video Shows Discussion of Working With Erika Kirk Regarding Candace Owens",
+   "label": "Host Says ADF CEO Video Shows Discussion of Working With Erika Kirk Regarding Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:42"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says an internal Alliance Defending Freedom video of its CEO shows her discussing the fact that they were working with Erika regarding the host; in the clip the CEO describes a call with a large organization amid tension that \"has to do with Candace Owens\" and says she shared how they had thought about decisions such as whether to sue someone."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1951.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10596"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Authenticate the internal video; obtain the underlying ADF board materials."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8050",
+   "header": "**C-8050** Caleb Robinson holds a board seat at Alliance Defending Freedom",
+   "label": "Caleb Robinson holds a board seat at Alliance Defending Freedom",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says ADF insiders informed her, and showed her an internal presentation, that Daily Wire CEO Caleb Robinson is now on the ADF board of directors, one of what she thinks are eight seats."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1951.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-603"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10596"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Cross-check ADF public filings (Form 990, board roster) for Caleb Robinson's name and tenure."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8090",
+   "header": "**C-8090** Trump posted on Truth Social attacking Pope Leo XIV as weak on crime",
+   "label": "Trump posted on Truth Social attacking Pope Leo XIV as weak on crime",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:52:54"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "A Trump Truth Social post is read aloud in the episode calling Pope Leo XIV \"weak on crime\" and criticizing the Pope's positions on Iran, Venezuela, and criticism of the President."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1952.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-5, N-420"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the original Truth Social post and engagement metrics."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8094",
+   "header": "**C-8094** Pope Leo XIV publicly responded with the message \"blessed are the peacemakers\"",
+   "label": "Pope Leo XIV publicly responded with the message \"blessed are the peacemakers\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:57:23"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a video response played in the episode, Pope Leo XIV states his message is \"blessed are the peacemakers\" and that he does not view his role as political."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1953.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-420"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the original Vatican source video and transcript."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8098",
+   "header": "**C-8098** Trump defended the AI image of himself as Jesus by claiming he thought it depicted him as a doctor",
+   "label": "Trump defended the AI image of himself as Jesus by claiming he thought it depicted him as a doctor",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:01:05"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a press-conference clip, Trump defends the AI image of himself as Jesus by stating he thought it depicted him as a doctor / Red Cross worker."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1954.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-5"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify clip against White House press transcript."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8076",
+   "header": "**C-8076** Discord publicly stated no evidence Robinson planned the incident on Discord",
+   "label": "Discord publicly stated no evidence Robinson planned the incident on Discord",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:42:44"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a Discord statement published in The Hill on September 12, 2025, which the host reads, Discord says it identified an account associated with the suspect but found no evidence the suspect planned the incident or promoted violence on Discord."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1955.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10598"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the original Discord statement and The Hill article for exact text."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8073",
+   "header": "**C-8073** Search warrant records Tyler Robinson arriving at Washington County Sheriff's Office at 10:26 p.m. with parents",
+   "label": "Search warrant records Tyler Robinson arriving at Washington County Sheriff's Office at 10:26 p.m. with parents",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Host references a search warrant indicating Tyler Robinson arrived at the Washington County Sheriff's Office at 10:26 p.m. with his parents."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1956.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10593"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the search warrant docket entry and verify exact time/date stamps."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8029",
+   "header": "**C-8029** Two Aspen donors told host Charlie never made the appointment statement at the event",
+   "label": "Two Aspen donors told host Charlie never made the appointment statement at the event",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:25–00:16:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Host testifies that two TPUSA donors who attended the Aspen investor retreat contacted her to state that Charlie Kirk did not make the \"I appoint my wife\" statement at that event, and that Erika Kirk was not mentioned in a smaller follow-up dinner."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1957.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10594"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify and contact the donors for recorded testimony; obtain any contemporaneous notes or attendee lists."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8087",
+   "header": "**C-8087** State Says It Will Offer Camera Recordings of Text Messages Instead of Forensic Extractions",
+   "label": "State Says It Will Offer Camera Recordings of Text Messages Instead of Forensic Extractions",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the filing excerpt read aloud, the state intends to offer two exhibits that used cameras to record the contents of text messages, rather than forensic-extraction evidence."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1948.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-40, N-54"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10595, N-10598"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain filing directly; assess admissibility standards for photographs-vs-forensic-extraction under Utah rules of evidence."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8089",
+   "header": "**C-8089** Trump Attacks Pope Leo XIV Over Iran War Criticism",
+   "label": "Trump Attacks Pope Leo XIV Over Iran War Criticism",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:51:46–00:58:29"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Trump attacked Pope Leo XIV in a post, saying 'Pope Leo is weak on crime, terrible for foreign policy,' after the Pope's criticism of the Iran war, which she calls unjust."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1952.1, A-1953.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-5, N-420"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Cross-reference dates with Vatican liturgical calendar and Truth Social post timestamps."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8078",
+   "header": "**C-8078** Host Contends Feds Revised Messaging Platform From Discord to iMessage",
+   "label": "Host Contends Feds Revised Messaging Platform From Discord to iMessage",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:43:32"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Host asserts (based on the Discord statement and subsequent federal characterization) that the federal government initially described the messages as Discord and later revised the description to iMessage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1955.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10598"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain all federal court filings referencing the messaging platform used; compare earliest FBI statements with later court filings."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8066",
+   "header": "**C-8066** Host says her source reported local texts at about 7 p.m. that police had Tyler Robinson, an hour before the Cox press conference",
+   "label": "Host says her source reported local texts at about 7 p.m. that police had Tyler Robinson, an hour before the Cox press conference",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:57"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her source told her that around 7:00 p.m. people locally began receiving texts that police had Tyler Robinson and would pick him up in Warner Valley, 12 miles from St. George; she says this makes it strange that at 8:00 p.m. Governor Spencer Cox led a press conference with Kash Patel and Robert Bohls describing the suspect as on the run and releasing new stills."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I believe that my source was on the money when they said that they knew it was Tyler Robinson at 7:00."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-40, N-41, N-69, N-133"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the time-stamped local texts and dispatch logs for the Warner Valley pickup; compare against the 8:00 p.m. press-conference statements."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8020",
+   "header": "**C-8020** Host Describes Cabot Phillips as Erika's Ex-Boyfriend and Daily Wire Employee Tied to the Fort Huachuca Description",
+   "label": "Host Describes Cabot Phillips as Erika's Ex-Boyfriend and Daily Wire Employee Tied to the Fort Huachuca Description",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Cabot Phillips is Erika Kirk's ex-boyfriend (\"one of the many\") and a current Daily Wire employee, who was featured on her podcast when Mitch described a man he believed he saw with Erika at Fort Huachuca in September."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Erika's ex-boyfriend, one of the many, uh current Daily Wire employee, who was featured on my podcast when Mitch gave a description of the guy that he believed that he saw with Erika at Fort Huachuca"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-364, N-2, N-361"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10900, N-10372"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain Phillips's employment record and any statement from him or from the witness Mitch confirming or denying that the description matched him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8021",
+   "header": "**C-8021** Host Says Cabot Phillips Did Not Answer Her Text Asking If He Was at Fort Huachuca",
+   "label": "Host Says Cabot Phillips Did Not Answer Her Text Asking If He Was at Fort Huachuca",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she texted Cabot Phillips before naming him on the podcast, asking for a yes or no on whether he was at Fort Huachuca, and that he chose not to answer."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "You will recall that I texted Cabot Phillips before we mentioned him on the podcast, looking for a simple yes or no response."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-364"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10372"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the host's text thread with Phillips and any later statement from Phillips about his whereabouts in September 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8022",
+   "header": "**C-8022** Host Says Cabot Phillips Told Her at a Playground That People Doubt His Son Because of Her",
+   "label": "Host Says Cabot Phillips Told Her at a Playground That People Doubt His Son Because of Her",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:41"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that on a toddler playground Cabot Phillips confronted her, said of his child that \"because of you, people don't believe that he is my son,\" and pulled down his lip to show a tattoo; she says she has never discussed his tattoos or the child's paternity on the show."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he goes, oh, really? Because of you, people don't believe that he is my son. Okay."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-364"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Only the host and Phillips can confirm the encounter; Phillips's own account would be the test."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8023",
+   "header": "**C-8023** Host Says She Believes the Child Is Cabot Phillips's and Never Said Otherwise",
+   "label": "Host Says She Believes the Child Is Cabot Phillips's and Never Said Otherwise",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:15"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she believes the child is Cabot Phillips's, says she never made a claim otherwise, and asks listeners to consider the matter closed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I want to also state that I believe that that is Cabot Phillips' child. I never made the claim otherwise"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-364"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review earlier episodes for any host statement about the child's parentage to test 'never made the claim otherwise'."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8024",
+   "header": "**C-8024** Host Says Charlie's Alleged Appointment Statement Was Made at an Aspen Investor Retreat Weeks Before His Death",
+   "label": "Host Says Charlie's Alleged Appointment Statement Was Made at an Aspen Investor Retreat Weeks Before His Death",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:44"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the alleged statement appointing Erika as CEO and chairman was made, according to Turning Point, literally weeks before his death at an investor retreat in Aspen in front of donors, after someone asked what would happen if he died."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "took the stage in Aspen um at this investor retreat where he was giving an update on the company, and he stood in front of a bunch of donors"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1957.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10431, N-10664"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8028"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the retreat date, attendee list and program to establish when and where the remark was said to be made."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8025",
+   "header": "**C-8025** Host Says Turning Point Released Only the Audio and Declined to Show the Video",
+   "label": "Host Says Turning Point Released Only the Audio and Declined to Show the Video",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:52"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Turning Point declined to show video of the alleged Aspen remark and released only audio, even though it had said it caught the moment on video."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "When pushed, Turning Point declined to show the video. Instead, they chose only to release the audio."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10936"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8028"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask Turning Point whether video exists and obtain the original recording with metadata."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8026",
+   "header": "**C-8026** Host Says Blake Neff Refused to Show the Video and Called Her a Psychopathic Subway Killer",
+   "label": "Host Says Blake Neff Refused to Show the Video and Called Her a Psychopathic Subway Killer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:37"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Blake Neff, when she asked for the video, said she was a \"psychopathic subway killer that was wielding a knife\" and said Turning Point would never show it because \"it'll never be enough.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He said that I was a psychopathic subway killer that was wielding a knife."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-159"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10936"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the Neff statements (posts or messages) the host is paraphrasing and confirm the wording."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8027",
+   "header": "**C-8027** Host Says the Aspen Claim Was Never Previously Located in Aspen on Her Show and Many Assumed the Hamptons",
+   "label": "Host Says the Aspen Claim Was Never Previously Located in Aspen on Her Show and Many Assumed the Hamptons",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:37"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the show had never said the alleged statement happened in Aspen, that most people assumed it happened in the Hamptons, and that it happened in Aspen."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I guess I hadn't appreciated that we had never said that that happened in Aspen. Most people were assuming that that happened in the Hamptons. It did not happen in the Hamptons."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10027, N-10431"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare earlier TPUSA and Erika Kirk statements for the claimed venue of the remark."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8030",
+   "header": "**C-8030** Host Says the Two Donors Knew of Erika's AmFest Account but Not That Turning Point Placed the Remark at the Aspen Event",
+   "label": "Host Says the Two Donors Knew of Erika's AmFest Account but Not That Turning Point Placed the Remark at the Aspen Event",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the two donors had heard Erika at AmFest describe the statement but were not aware Turning Point was claiming it occurred at the Aspen event, and said Charlie never uttered those words there."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "they were not aware that Turning Point was making the claim that the statement occurred at that event."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1957.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10594, N-10584"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8029"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the donors through the host and compare their account with the AmFest remarks and the claimed venue."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8032",
+   "header": "**C-8032** Host Says the Term Charlie GPT Was First Used by Andrew Kolvet",
+   "label": "Host Says the Term Charlie GPT Was First Used by Andrew Kolvet",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:17"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the term \"Charlie GPT\" was first uttered by Andrew Kolvet in an interview, in which he claimed that after Charlie died they had pitches from companies wanting to create such a product."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "A term, by the way, that you should know was first uttered, Charlie GPT, in an interview by none other than our guy, Andrew Kolvet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1950.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-14, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10597"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8031"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the Kolvet interview and search earlier public uses of the term Charlie GPT."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8033",
+   "header": "**C-8033** Host Says She Has Been Pitched on an AI or Hologram Version of Herself",
+   "label": "Host Says She Has Been Pitched on an AI or Hologram Version of Herself",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:10"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she has been pitched on creating an AI Candace or hologram Candace so she would not have to attend so many places, and says it sounds more right to her that the Charlie GPT pitches took place before Charlie died."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I've certainly been in places where they've pitched me on like AI Candace, hologram Candace because it helps you not have to go to so many places at once."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10597"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The host would need to identify who pitched her; no external check beyond her records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8034",
+   "header": "**C-8034** Host Asks Whether Turning Point Accepted a Charlie GPT Offer Given the Donors' Account",
+   "label": "Host Asks Whether Turning Point Accepted a Charlie GPT Offer Given the Donors' Account",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:10"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her question is whether anyone took up an offer to create a Charlie GPT, because Aspen donors tell her Charlie never said the line."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "My question is, did they take someone up on their offer to create a Charlie GPT because I cannot stress this enough, the donors who were in attendance in Aspen are telling me that Charlie never said this."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10597, N-10664"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8031"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask Turning Point and its vendors whether any Charlie voice or AI product was commissioned, and request contracts or invoices."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8035",
+   "header": "**C-8035** Host Says Donors Report Charlie Never Raised Erika at Aspen and That Erika Was Not at the Presentation",
+   "label": "Host Says Donors Report Charlie Never Raised Erika at Aspen and That Erika Was Not at the Presentation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the donors told her that Charlie, on multiple occasions where he could have mentioned Erika, did not, that Erika was in Aspen but not at the exact presentation when questions were asked, and that a later dinner of about 12 people also did not mention her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Apparently Erika was up in Aspen, but was not at this exact presentation when the questions were asked."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1957.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10594, N-10584"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8029"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the dinner guest list and the schedule of Erika Kirk's movements in Aspen from attendees."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8036",
+   "header": "**C-8036** Host Says the Donors Want the Video Released and Say Turning Point Is Lying About Aspen",
+   "label": "Host Says the Donors Want the Video Released and Say Turning Point Is Lying About Aspen",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the donors told her to pursue the matter further because Turning Point is lying about the event, that it would be easy to release the video, and that they want it released."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "It would be very easy for them to drop this video, and they want it dropped."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1957.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10936"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Request the Aspen video from Turning Point and corroboration from additional attendees."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8037",
+   "header": "**C-8037** Host Says Blake Neff's Reaction Suggests an AI Program Was Used",
+   "label": "Host Says Blake Neff's Reaction Suggests an AI Program Was Used",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that if the donors are right, it would be evil that Turning Point used an AI program, and says Blake Neff's reaction to her suggests that they did because it is easier than releasing the video."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "If true, that they used an AI program, which Blake Neff's reaction to me, I've been around, suggests that they did because it's just so much easier."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-159"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10664, N-10597"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8028"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Forensic audio analysis of the Aspen clip; request the original device recording and chain of custody."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8038",
+   "header": "**C-8038** Host Says the Notion of a Fabricated Statement Implies a Plot to Remove Charlie and Install Erika",
+   "label": "Host Says the Notion of a Fabricated Statement Implies a Plot to Remove Charlie and Install Erika",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that if the audio was made up, it would signify a plot to remove Charlie and then use a Charlie GPT to convince the world it was his dying wish for his wife to replace him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Because the notion signifies that there that there was a plot, a plot to remove Charlie, and then to use Charlie GPT to convince the world"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10664, N-10597"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "This is the host's inference; the test is authentication of the audio and its origin."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8039",
+   "header": "**C-8039** Host Says Turning Point Insisted Erika Was Raised by a Single Mother and That This Is Untrue",
+   "label": "Host Says Turning Point Insisted Erika Was Raised by a Single Mother and That This Is Untrue",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Turning Point immediately and repeatedly insisted in interviews that Erika was raised by a single mother, and that the host has proven this objectively untrue."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "they also kept insisting immediately and through various interviews that Erika was raised by a single mother."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Collect the interviews where the single-mother description was used and compare with family and public records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8040",
+   "header": "**C-8040** Host Says Charlie Hated Ben Shapiro and That Erika and Kolvet Knew It",
+   "label": "Host Says Charlie Hated Ben Shapiro and That Erika and Kolvet Knew It",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she has proven that Charlie hated Ben Shapiro, that everyone knows it, and that Erika Kirk and Andrew Kolvet knew it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "First and foremost, I have told you, I have proven to you many times over that Charlie hated Ben. Everybody knows that."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1, N-97, N-2, N-14"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review Charlie-Ben communications and public statements (see earlier episode material) and ask Kolvet and Erika Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8041",
+   "header": "**C-8041** Host Says Jeremy Boreing Softened the Charlie-Ben Rift on Piers Morgan",
+   "label": "Host Says Jeremy Boreing Softened the Charlie-Ben Rift on Piers Morgan",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Jeremy Boreing, the former CEO of Daily Wire, on his Candace tour appearance on Piers Morgan, hedged and tried to make it sound good that Charlie and Ben did not get along."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "even Jeremy Boreing when he went on his like Candace tour, uh kind of caged his response and tried to make it sound good that the two of them did not get along when he was on Piers Morgan."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-366, N-204, N-1, N-97"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the Piers Morgan interview with Boreing and read his statement on Charlie and Shapiro."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8042",
+   "header": "**C-8042** Host Says Charlie Publicly Took Her Side After the 2024 Daily Wire Firing and Ben Lobbied Donors Against Her",
+   "label": "Host Says Charlie Publicly Took Her Side After the 2024 Daily Wire Firing and Ben Lobbied Donors Against Her",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that after she was fired from Daily Wire in early 2024, Charlie took her side in a big public way, and Ben Shapiro then worked behind the scenes to get a network of Jewish donors and writers to pressure Charlie to distance from her over anti-Semitism."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Ben then set to work behind the scenes getting like the Jewish network of donors and writers to peer pressure Charlie to distance from me because of anti-Semitism."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1, N-97"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10900"
+    },
+    {
+     "k": "Supports",
+     "v": "C-4366"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify donors or writers who pressed Charlie in 2024 and obtain any contemporaneous messages."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8043",
+   "header": "**C-8043** Host Says Kolvet Admitted in the New York Times Interview That He Effectively Forced Charlie to Interview Ben",
+   "label": "Host Says Kolvet Admitted in the New York Times Interview That He Effectively Forced Charlie to Interview Ben",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:05"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Andrew Kolvet admitted in the New York Times interview that he effectively forced Charlie to interview Ben Shapiro a few days before his death, and that Charlie did not like it and was upset with Kolvet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Andrew admitted in that same New York Times interview that we just showed you that he effectively forced Charlie to interview Ben a few days before his death."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1950.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-14, N-1, N-97"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the Times interview and check Kolvet's exact words about the Shapiro interview; ask Kolvet to confirm Charlie's reaction."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8044",
+   "header": "**C-8044** Host Says Ben Shapiro Used Caleb Robinson to Get on Charlie's Show With Matt Walsh as a Two-for-One",
+   "label": "Host Says Ben Shapiro Used Caleb Robinson to Get on Charlie's Show With Matt Walsh as a Two-for-One",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:05"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that after Charlie's death Ben Shapiro had Caleb Robinson negotiate for Ben to appear on Charlie's show, that only Matt Walsh was originally to appear, that Caleb proposed a two-for-one, and that Andrew Kolvet agreed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "they wanted to have only Matt Walsh on the show, and Caleb said, \"Well, how about a two-for-one special?\" Andrew Kolvet agreed to do that."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-97, N-603, N-163, N-14, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10900"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the booking communications between Daily Wire and the Charlie Kirk Show for the Walsh and Shapiro appearances."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8045",
+   "header": "**C-8045** Host Says Ben Shapiro Demanded on His Show That Erika Sue Her Over the Trailer",
+   "label": "Host Says Ben Shapiro Demanded on His Show That Erika Sue Her Over the Trailer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:37"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Ben Shapiro went on his show and demanded that Erika sue her for releasing a two-minute trailer, which she says contains only Erika's own words."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He went on his show and he demanded that Erika sue me for dropping a 2-minute trailer."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-97, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10900"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the Shapiro show segment and quote his statement on Erika suing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8046",
+   "header": "**C-8046** Host Says Ben Shapiro Has Been Suing Her in Arbitration for Two Years",
+   "label": "Host Says Ben Shapiro Has Been Suing Her in Arbitration for Two Years",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:37"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Ben Shapiro has been suing her for two years in arbitration court, so that the filings are not publicly readable."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "This is after he's been suing me for 2 years, okay? In arbitration court so people can't read"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-97"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10900"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Arbitration is generally non-public; confirm existence of the proceeding through the parties or any court filings to compel or confirm arbitration."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8047",
+   "header": "**C-8047** Host Says ADF Personnel Emailed Her That Ben Shapiro Is Working With Erika on Ways to Sue Her",
+   "label": "Host Says ADF Personnel Emailed Her That Ben Shapiro Is Working With Erika on Ways to Sue Her",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:37"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she received a flurry of emails last week from people at Alliance Defending Freedom saying Ben Shapiro is working with Erika on ways to sue her and has become suddenly influential at ADF, as has Seth Dillon."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "you know, Ben is working with Erika on ways to sue you. He's He's become suddenly very influential in Alliance Defending Freedom."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2956.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-97, N-2, N-38"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10954, N-10596"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8048"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the emails and identify the senders; ask ADF to confirm or deny any coordination with Shapiro or Erika Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8049",
+   "header": "**C-8049** Host Says ADF Sources Told Her Daily Wire Quietly Took a Board Seat That the Public Is Unaware Of",
+   "label": "Host Says ADF Sources Told Her Daily Wire Quietly Took a Board Seat That the Public Is Unaware Of",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her ADF sources told her the public is not aware that Daily Wire quietly took a seat on the ADF board of roughly eight seats, as proof that Daily Wire was driving the effort."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "they informed me that the public is not aware, but that they quietly took a board seat."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1951.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10954, N-10900, N-10596"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8050"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare ADF's published board list and Form 990 with the internal slide."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8051",
+   "header": "**C-8051** Host Says ADF Sources Told Her Ben Shapiro Was Driving the Bus Against Her Through ADF",
+   "label": "Host Says ADF Sources Told Her Ben Shapiro Was Driving the Bus Against Her Through ADF",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that ADF sources told her Ben was driving the bus and gunning for her through Alliance Defending Freedom, and she says Caleb Robinson has no legal experience, so the seat reads as a silent seat for Ben."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And they said that Ben was driving the bus um gunning for me through Alliance Defending Freedom."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1951.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-97, N-603"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10954, N-10596"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8050"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the ADF sources and obtain board minutes or communications on any litigation involving the host."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8052",
+   "header": "**C-8052** Host Says Daily Wire Has Been Harassing Her Since Firing, Including Blocking Speeches and Targeting Advertisers",
+   "label": "Host Says Daily Wire Has Been Harassing Her Since Firing, Including Blocking Speeches and Targeting Advertisers",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that, in her understanding of gang stalking, the Daily Wire has pursued her since the day it fired her, trying to stop speeches, having articles written and having people contact her advertisers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "trying to stop speeches, trying to get people to say things about me, having articles written, uh you know, trying to have other people reach out and go after my advertisers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10900, N-10416"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Document specific cancelled speeches and advertiser contacts and any evidence linking them to Daily Wire."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8053",
+   "header": "**C-8053** Host Compares Her View of Ben Shapiro to Megyn Kelly's Remark About Mark Levin",
+   "label": "Host Compares Her View of Ben Shapiro to Megyn Kelly's Remark About Mark Levin",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:20"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Megyn Kelly said of Mark Levin that there is a piece of her that feels he genuinely wants to hurt her, adds that it is as if he would be happy if someone killed Kelly, and says that is exactly how she feels about Ben Shapiro."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "There is a piece of her that feels like he genuinely wants to like hurt her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-46, N-244, N-97"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the Megyn Kelly show segment about Mark Levin to confirm what she actually said."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8054",
+   "header": "**C-8054** Host Says Four ADF Sources Named Ben Shapiro and One Also Named Seth Dillon",
+   "label": "Host Says Four ADF Sources Named Ben Shapiro and One Also Named Seth Dillon",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says one of the people at ADF mentioned Seth Dillon and that the other three all said Ben Shapiro."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "one of them mentioned Seth Dillon. The other three people at Alliance Defending Freedom all said Ben Shapiro."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2956.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-38, N-97"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10954, N-10596"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify and independently interview the four ADF sources."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8055",
+   "header": "**C-8055** Host Says Her September 29 Source Said Police Knew Tyler Robinson Was Their Man Before 7 PM on September 11",
+   "label": "Host Says Her September 29 Source Said Police Knew Tyler Robinson Was Their Man Before 7 PM on September 11",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:32"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says one of the earliest stories on the show, on September 29, was from a source with direct knowledge of the arrest who insisted police knew Tyler Robinson was their man before 7:00 p.m. on September 11."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it was known to the police that Tyler Robinson was the their guy before 7:00 p. m. on September 11th."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-40"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10593, N-10024"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8066"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain dispatch and text records from September 11 for Washington County law enforcement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8056",
+   "header": "**C-8056** Host Says Her Source Said Officials Lied About the Clothing Robinson Wore When Brought In",
+   "label": "Host Says Her Source Said Officials Lied About the Clothing Robinson Wore When Brought In",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:32"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her source told her that Governor Cox and police were lying about the clothing Robinson was wearing when he was brought in, saying he wore an outfit he was not wearing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Governor Cox and uh uh the police, they were lying about the clothing that he was wearing when he was brought in."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-41, N-40"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10593"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare booking photographs and property inventory with Cox's and police statements about clothing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8057",
+   "header": "**C-8057** Host Says Her Source Said Robinson Had Been Buying a Gun in Warner Valley",
+   "label": "Host Says Her Source Said Robinson Had Been Buying a Gun in Warner Valley",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:32"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her source added a detail that has not come out since: that Tyler Robinson had been buying a gun, another gun, in Warner Valley when police planned to pick him up there."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "that he was buying a gun, that Tyler Robinson had been buying a gun in Warner Valley."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-40"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11002, N-10593"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check firearms retailers or private sales in the Warner Valley area for September 10 to 11, 2025, and any ATF trace records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8058",
+   "header": "**C-8058** Host Says Her Source Said Police Learned Robinson Was Coming In Cooperatively After a Sea Change",
+   "label": "Host Says Her Source Said Police Learned Robinson Was Coming In Cooperatively After a Sea Change",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her source told her that police initially planned to pick Robinson up in Warner Valley but suddenly learned he was coming in cooperatively, and notes some speculate the plan had been for him to die in a shootout."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "But then suddenly there was some sea change and they learned that he was coming in cooperatively."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-40"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11002, N-10593"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Reconstruct the sequence of calls between the Robinson family, the family friend and law enforcement on the evening of September 11."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8061",
+   "header": "**C-8061** Host Says Robinson Was Captured on Camera Filling Up Gas in Cedar City at 7:15 AM",
+   "label": "Host Says Robinson Was Captured on Camera Filling Up Gas in Cedar City at 7:15 AM",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:37"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host presents a timeline of September 11 stating that at 7:15 a.m. Tyler Robinson was captured on camera filling up his gas at the Maverick gas station in Cedar City, after an FBI press conference at 7:00 a.m. confirming the weapon was found in the woods."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "At 7:15, Tyler Robinson is captured on camera filling up his gas at the Maverick gas station in Cedar City."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2957.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-40"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10024"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the Maverick surveillance footage and its time stamp."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8062",
+   "header": "**C-8062** Host Says the Gun Photo Released at 9:21 AM Was Not Robinson's Gun",
+   "label": "Host Says the Gun Photo Released at 9:21 AM Was Not Robinson's Gun",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:37"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that at 9:21 a.m. the New York Post exclusively revealed a photo of the gun used in the shooting, and that it was not actually Tyler Robinson's gun, which authorities would call a similar weapon."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "But I also should say this was not actually Tyler Robinson's gun. They're going to tell us it was a similar weapon."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2957.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-40"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10024"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the Post's gun photo with the recovered rifle's serial number and make and model in court records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8063",
+   "header": "**C-8063** Host Says Kash Patel and Dan Bongino Arrived at 5:30 PM and the FBI Posted New Photos at 6:17 PM",
+   "label": "Host Says Kash Patel and Dan Bongino Arrived at 5:30 PM and the FBI Posted New Photos at 6:17 PM",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:35:24"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host's timeline states that Kash Patel and Dan Bongino arrived on the scene at 5:30 p.m. and that at 6:17 p.m. the FBI Salt Lake City released another round of photos of the alleged shooter on X."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "5:30 p. m. Kash Patel and Dan Bongino arrive on the scene. At 6:17, the FBI Salt Lake City releases another round of photos of the alleged shooter on X."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2957.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-69, N-378, N-40"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10024"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check Patel's and Bongino's travel logs and the time stamp of the FBI Salt Lake City post."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8064",
+   "header": "**C-8064** Host Argues a 6:25 PM Interview on September 11 Means Robinson Was Already in Custody Before 6:17 PM",
+   "label": "Host Argues a 6:25 PM Interview on September 11 Means Robinson Was Already in Custody Before 6:17 PM",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host argues that for a 6:25 p.m. interview to begin on September 11 Robinson would have had to arrive at the police station before 6:17 p.m., when the FBI was still posting photos of the alleged shooter, and that the defense motion was filed March 30."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "in order for that interview to start, we should assume he arrived at the police station before 6:17 p. m."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2957.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-40"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10593, N-10024"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8059"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the exhibit video and its metadata cited in the motion to establish the actual time of the interview."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8065",
+   "header": "**C-8065** Host Says the 6:25 PM Reference Cannot Be September 12 Because Robinson Was Already Booked",
+   "label": "Host Says the 6:25 PM Reference Cannot Be September 12 Because Robinson Was Already Booked",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she cannot fathom the motion referring to the next day, since Robinson was already in custody and booked, and questions whether authorities never tried to speak to him until 6:25 p.m. on September 12."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I can't fathom that they would be referring to the next day because uh he was already in custody."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1948.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-40"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10593"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8059"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask the defense or the court to clarify the date of the video exhibit; check the booking record for the date and time."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8067",
+   "header": "**C-8067** Host Says Sheriff Brooksby Later Said Mike Mitchell Phoned Him About Getting Robinson to Turn Himself In",
+   "label": "Host Says Sheriff Brooksby Later Said Mike Mitchell Phoned Him About Getting Robinson to Turn Himself In",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:41"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Sheriff Nate Brooksby later said at a press conference that he received a phone call from Mike Mitchell, who said he was trying to get Tyler Robinson to turn himself in, and that the call was less than two minutes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "then we have uh Sheriff Broxby, which we will get from a a later press conference. He will say that that's when he received the phone call from Mike Mitchell"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-272, N-125, N-40"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10029, N-10593"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the press conference transcript and the sheriff's office phone records for the call."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8068",
+   "header": "**C-8068** Host Says Brooksby Then Called Utah County Sheriff Mike Smith About the Call",
+   "label": "Host Says Brooksby Then Called Utah County Sheriff Mike Smith About the Call",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Sheriff Brooksby then called the Utah County Sheriff Mike Smith to tell him about the call he received from Mike Mitchell."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And um then Sheriff Broxby calls the Utah County Sheriff Mike Smith to tell him about the call that he just got from Mike Mitchell."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-272, N-810, N-125"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10029"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain call logs and sheriff statements from both offices for the evening of September 11."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8069",
+   "header": "**C-8069** Host Says Brooksby's Press Conference Put Robinson's Arrival at the Police Station at 9:00 PM",
+   "label": "Host Says Brooksby's Press Conference Put Robinson's Arrival at the Police Station at 9:00 PM",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that according to Sheriff Nate Brooksby's press conference Tyler arrived at the police station at 9:00, which she says does not track with the other times, and that Kash Patel later said Robinson was booked in the 33rd hour."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They tell us that 9:00 that Tyler arrives at the police station. That's according to the press conference that is given by Sheriff Nate Broxby."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-272, N-40, N-69"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10029, N-10593, N-10031"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the press conference transcript with the 10:26 p.m. search warrant time and booking records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8070",
+   "header": "**C-8070** Host Says Kash Patel Later Said Robinson Was Booked in the 33rd Hour",
+   "label": "Host Says Kash Patel Later Said Robinson Was Booked in the 33rd Hour",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Kash Patel, and others, said that Tyler Robinson was booked in the 33rd hour, and the host says she thinks officials wanted to say 33 hours as a signal to one another."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Kash Patel will later say that. They're all saying in the 33rd hour."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-69, N-40"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10031, N-11129"
+    },
+    {
+     "k": "Supports",
+     "v": "C-162"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve Patel's statement on the 33rd hour and compute the interval from the shooting to booking."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8071",
+   "header": "**C-8071** Host Says Freemasonic Gangs Exist and Carry Out Hits and Blake Neff Objected to the 33 Symbolism",
+   "label": "Host Says Freemasonic Gangs Exist and Carry Out Hits and Blake Neff Objected to the 33 Symbolism",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Freemasonry exists globally and that she knows Freemasonic gangs carry out hits, citing assassin squads tied to Freemasonry in France shown weeks earlier, and says Blake Neff was upset when she pointed to 33 symbolism."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "France, assassin squads tied to Freemasonry. So, we can stop pretending that that's a figment of anyone's imagination, least of all mine."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-159"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11129, N-10568, N-10031"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the French Athanor Lodge trial reporting and Neff's statement on 33 symbolism."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8072",
+   "header": "**C-8072** Host Says the Tape of Robinson's Arrival Is Apparently Lost",
+   "label": "Host Says the Tape of Robinson's Arrival Is Apparently Lost",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that, apart from the disparity between 9:00 p.m. and 10:26 p.m., the tape of when Robinson arrived at the Washington County Sheriff's Office is apparently lost."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "by the way the tape is apparently lost of when he arrived."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1956.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-40"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10029, N-10271, N-10593"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8073"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "File a records request for the sheriff's office lobby and sally-port footage for September 11 and ask for the retention log."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8074",
+   "header": "**C-8074** Cox Says Robinson's Roommate Showed Investigators Discord Messages",
+   "label": "Cox Says Robinson's Roommate Showed Investigators Discord Messages",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:41:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip the host plays, Governor Spencer Cox says investigators identified Robinson's roommate, who said Robinson made a joke on Discord, then opened Discord and allowed investigators to photograph the screen as each message was shown."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He opened it and showed several messages to investigators and allowed investigators to take photos of the screen as each message was shown by Robinson's roommate."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2958.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-41, N-40, N-54"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10013, N-10598"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full search warrant affidavit and the photographs of the roommate's screen."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8075",
+   "header": "**C-8075** Cox Describes Messages About a Rifle Left in a Bush Wrapped in a Towel",
+   "label": "Cox Describes Messages About a Rifle Left in a Bush Wrapped in a Towel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:41:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip the host plays, Governor Spencer Cox says the messages from the contact Tyler stated a need to retrieve a rifle from a drop point, leaving the rifle in a bush, watching the area where it was left, and leaving it wrapped in a towel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "stating a need to retrieve a rifle from a drop point, leaving the rifle in a bush, messages related to a to visually watching the area where a rifle was left, and a message referring to having left the rifle wrapped in a towel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2958.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-41, N-40, N-54"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10013"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the affidavit's paraphrase with the full message thread released by the FBI."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8077",
+   "header": "**C-8077** Cox Says Messages Mentioned Engraving Bullets, a Scope and Changing Outfits",
+   "label": "Cox Says Messages Mentioned Engraving Bullets, a Scope and Changing Outfits",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:42:44"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip the host plays, Governor Spencer Cox says the messages also referred to engraving bullets, a scope and the rifle being unique, and that the contact Tyler said he had changed outfits."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The messages also referred to engraving bullets and a mention of a scope and the rifle being unique."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2958.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-41, N-40, N-54"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10013"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare with the released text chain and with the bullet engraving evidence in the charging documents."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8079",
+   "header": "**C-8079** Host Says the Defense Is in Discovery and Not Getting What It Asked For",
+   "label": "Host Says the Defense Is in Discovery and Not Getting What It Asked For",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:24"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the defense wants the chain of custody and the creation details of the messages, is in discovery, and is not getting what it asks for, while the prosecution says it does not plan to use the forensic text messages."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They're in discovery. They're not getting what they're asking for and now the prosecution is explicitly saying"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1948.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-40, N-54"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10595, N-10679"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8084"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review defense discovery motions and rulings in the Robinson docket."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8080",
+   "header": "**C-8080** Host Says Lance Twiggs Is in Her View Very Obviously a Federal Informant",
+   "label": "Host Says Lance Twiggs Is in Her View Very Obviously a Federal Informant",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:45:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that in her view Lance Twiggs is very obviously a federal informant working for the feds and would be the perfect person to set up Tyler Robinson."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Lance to me is very obviously a federal informant. He's working for and on behalf of the feds."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-54, N-40"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10598, N-10703"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "This is the host's inference; a records request for any informant or cooperation agreement with Twiggs, or a court filing disclosing one, would test it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8081",
+   "header": "**C-8081** Host Says Lance's Family Told Her Lance Was Taken In for Only a Couple of Hours and Then Released",
+   "label": "Host Says Lance's Family Told Her Lance Was Taken In for Only a Couple of Hours and Then Released",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:45:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Lance's family told her early on that it was insane that Lance was not taken into custody and was there only a couple of hours before being released back at home."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They said to me it was completely insane that Lance was not taken in for taken into custody. It was completely insane that he was basically there for a couple of hours"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-54"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10598"
+    },
+    {
+     "k": "Supports",
+     "v": "C-352"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain booking and release records, or sheriff's statements on Twiggs's detention."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8082",
+   "header": "**C-8082** Host Says Lance's Family Described a Bent Toward Violence and Said They Eventually Kicked Him Out",
+   "label": "Host Says Lance's Family Described a Bent Toward Violence and Said They Eventually Kicked Him Out",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:45:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Lance's family told her he has real issues and a bend toward violence, that they eventually had to kick him out of the house as he was raised, that they own the house Tyler Robinson and Lance live in, and that they say the relationship between Lance and the feds is unnatural."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They own the house that Tyler Robinson and Lance live in and they are telling you that the relationship between Lance and the feds is unnatural."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-54, N-40"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10598"
+    },
+    {
+     "k": "Supports",
+     "v": "C-217"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Interview family members on the record and review property records for the townhome."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8083",
+   "header": "**C-8083** Host Says Lance Twiggs Has Completely Disappeared and Seems to Be a Federal Asset",
+   "label": "Host Says Lance Twiggs Has Completely Disappeared and Seems to Be a Federal Asset",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:46:23"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the state's main claim to evidence is Lance Twiggs, that nothing is known about him, that he seems to have completely disappeared, and that to her this reads like a federal asset."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Now their number one claim to we have evidence is Lance Twiggs but we don't know anything about Lance Twiggs. He seems to have just completely disappeared."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-54"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10598, N-10679"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the preliminary hearing witness lists and public dockets for any testimony or statements from Twiggs."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8085",
+   "header": "**C-8085** Host Reads State Filing Passage Listing the Evidence Not Known to the Defense Six Months Before the Hearing",
+   "label": "Host Reads State Filing Passage Listing the Evidence Not Known to the Defense Six Months Before the Hearing",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:08"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The filing passage read aloud says that, with the exception of a photograph of a burnt note provided January 9, doorbell surveillance from a single property, a DNA report on items in the defendant's apartment and a tool marks report, each witness and exhibit has been known to the defense for at least six months before the preliminary hearing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "With the exception of a photograph of a burnt note which was provided on January 9th, doorbell surveillance from a single property, a DNA report regarding items found in the defendant's apartment and tool marks report"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1948.2, A-2959.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-40"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10595"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the filing and check each listed item's disclosure date against the discovery log."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8086",
+   "header": "**C-8086** Host Reads State Filing Passage Saying the Rifle DNA Report and Most Evidence Went to the Defense in October 2025",
+   "label": "Host Reads State Filing Passage Saying the Rifle DNA Report and Most Evidence Went to the Defense in October 2025",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:08"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The filing passage read aloud says most of the evidence to be presented at the preliminary hearing, including the DNA report regarding the rifle found at the scene, was provided to the defense in October of 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Most of the evidence to be presented at the preliminary hearing including the DNA report regarding the rifle found at the scene was provided to the defense in October of 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1948.2, A-2959.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-40"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10595"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the filing and the discovery log to confirm the October 2025 production date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8088",
+   "header": "**C-8088** Host Says Laura Loomer Was Forcibly Placed on a 5150 Hold and Is Advising Trump",
+   "label": "Host Says Laura Loomer Was Forcibly Placed on a 5150 Hold and Is Advising Trump",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:51:06"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Laura Loomer has been forcibly placed on 5150 holds and is nonetheless described by the host as one of Trump's top advisers, and that Paula White tells him he is akin to Jesus Christ."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Laura Loomer who have has been forcibly placed on site 5150 holds as his number one or one advisor."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-60, N-5, N-772"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10628"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check public court and medical-hold records, if any, and Loomer's own statements on the matter."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8091",
+   "header": "**C-8091** Host Reads Trump Post Saying He Likes Pope Leo's Brother Louis Better",
+   "label": "Host Reads Trump Post Saying He Likes Pope Leo's Brother Louis Better",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:52:54"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads a Trump post saying he likes Pope Leo's brother Louis much better, saying Louis \"gets it\" and Leo does not."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "\"I like his brother Louis much better than I like him.\" Oh, okay. Because Louis is all MAGA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1952.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-5, N-420"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Supports",
+     "v": "C-8090"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the original Truth Social post."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8092",
+   "header": "**C-8092** Host Reads Trump Post Saying the Church Chose Leo Because He Was Not American and Leo Would Not Be Pope Without Trump",
+   "label": "Host Reads Trump Post Saying the Church Chose Leo Because He Was Not American and Leo Would Not Be Pope Without Trump",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:54:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads a Trump post saying Pope Leo was not on any list and was put there by the church because he was not American, to deal with Trump, and that if Trump was not in the White House, Leo would not be in the Vatican."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "If I wasn't in the White House, Leo wouldn't be in the Vatican."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1952.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-5, N-420"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Supports",
+     "v": "C-8090"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the original post for exact text."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8093",
+   "header": "**C-8093** Host Says Bishop Barron Stood Beside Paula White During the Prayer and Gave an Excuse for Being There",
+   "label": "Host Says Bishop Barron Stood Beside Paula White During the Prayer and Gave an Excuse for Being There",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:55:46"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Bishop Barron stood beside Paula White during the prayer for Trump and offered an excuse for why he was there, and says he should have made a statement afterward that the prayer was wrong."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Bishop Barron standing beside Paula White during that prayer, and his excuse is why he was there."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-811, N-772, N-5"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the event video and Bishop Barron's published explanation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8095",
+   "header": "**C-8095** Host Plays Trump Clip Saying He Does Not Think the Pope Is Doing a Good Job and Citing COVID Arrests",
+   "label": "Host Plays Trump Clip Saying He Does Not Think the Pope Is Doing a Good Job and Citing COVID Arrests",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:58:29"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip played, Trump is asked why he attacked Pope Leo on Truth Social and answers that he does not think the Pope is doing a very good job and that he \"likes crime, I guess,\" and cites ministers and priests arrested during COVID."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I don't think he's doing a very good job. He likes crime, I guess."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2960.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-5, N-420"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the press conference transcript and date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8096",
+   "header": "**C-8096** Host Plays Trump Clip Calling Pope Leo a Very Liberal Person Who Does Not Believe in Stopping Crime",
+   "label": "Host Plays Trump Clip Calling Pope Leo a Very Liberal Person Who Does Not Believe in Stopping Crime",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:59:24"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip, Trump says he is not a fan of Pope Leo, calls him a very liberal person, and says he does not think the Pope believes in stopping crime or in stopping a country that wants a nuclear weapon."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He's a very liberal person. And he's a man that doesn't believe in stopping crime."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2960.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-5, N-420"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the press conference transcript."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8097",
+   "header": "**C-8097** Host Says Trump Posted an Image of Himself as Jesus and Drew Protestant Backlash",
+   "label": "Host Says Trump Posted an Image of Himself as Jesus and Drew Protestant Backlash",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:59:24"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Trump posted a picture of himself as Jesus Christ healing the sick and received backlash even from Protestants who said it was completely inappropriate."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he then dropped a picture of himself as Jesus Christ on top of that and got even backlash from the Protestants"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2961.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-5"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Supports",
+     "v": "C-8098"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the original post and contemporaneous reactions from Protestant leaders."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8099",
+   "header": "**C-8099** Host Says Her Team Could Not Find Any Record of Trump Ever Being a Doctor",
+   "label": "Host Says Her Team Could Not Find Any Record of Trump Ever Being a Doctor",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:01:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that after a producer note and asking 'Charlie GPT', nothing came up showing Trump was ever a doctor, which she contrasts with his explanation that he thought the image showed him as a Red Cross doctor."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it's not coming up for us that uh Trump was ever a doctor."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1954.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-5"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Supports",
+     "v": "C-8098"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Trivially checkable against Trump's biography; no record of medical training is known."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8100",
+   "header": "**C-8100** Host Says She Now Knows Who Was at the Event and Is Working on It",
+   "label": "Host Says She Now Knows Who Was at the Event and Is Working on It",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:06:51"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Responding to a viewer comment asking who asked Charlie who would replace him, the host says she now knows who was at that event, is working on it, and has background investigations going on."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I will get to the bottom of that. I know who was at that event now. I'm working on that."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10431, N-10664"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The host would need to publish the attendee list or identify the person who asked the question; an Aspen retreat guest list is the confirming record."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8101",
+   "header": "**C-8101** Host Says Turning Point Events Fake Their Question and Answer Segments as Pre-Planned",
+   "label": "Host Says Turning Point Events Fake Their Question and Answer Segments as Pre-Planned",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:07:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Agreeing with a viewer comment, the host says that in the events Erika is doing, the question and answer segments are pre-planned, says she has seen videos on this and says the show has received emails about it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "they're faking the question and answer segment like they're pre-planned. I've seen people doing videos about that. We have received emails."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Gather the videos and emails the host cites and compare against recordings of the events."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8102",
+   "header": "**C-8102** Host Says Turning Point Has Reversed Course on All of Charlie's Perspectives",
+   "label": "Host Says Turning Point Has Reversed Course on All of Charlie's Perspectives",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:07:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Turning Point has reversed course on all of Charlie's perspectives and continues to gaslight the public about it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "they have reversed course on all of his perspectives and they continue to gaslight us about it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare Charlie's stated positions with current Turning Point positions on specific issues."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 6. Meme Register",
+    ""
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-79",
+   "header": "**M-79** (meme) Pass the Sniff Test",
+   "label": "(meme) Pass the Sniff Test",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:09:44"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Didn't pass the sniff test for obvious reasons."
+    },
+    {
+     "k": "Context",
+     "v": "Host says the Aspen appointment story did not pass the sniff test."
+    },
+    {
+     "k": "Tags",
+     "v": "sniff test"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-231",
+   "header": "**M-231** (meme) Blakey the Neff",
+   "label": "(meme) Blakey the Neff",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:10:52"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Blake Neff, Blakey boy, Blakey the Neff, Neff to the Blakey."
+    },
+    {
+     "k": "Context",
+     "v": "Host riffs on Blake Neff's name while recounting his refusal to show the video."
+    },
+    {
+     "k": "Tags",
+     "v": "blake neff, nickname"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-232",
+   "header": "**M-232** (meme) Charlie GPT",
+   "label": "(meme) Charlie GPT",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:13:17"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "That right there, it turns out, might be Charlie GPT."
+    },
+    {
+     "k": "Context",
+     "v": "Host ties the term Charlie GPT to the Aspen audio and Kolvet's remark."
+    },
+    {
+     "k": "Tags",
+     "v": "charlie gpt, ai"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "01:01:34"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Can we ask Charlie GPT?"
+    },
+    {
+     "k": "Context",
+     "v": "Host jokingly asks Charlie GPT when Trump was a doctor."
+    },
+    {
+     "k": "Tags",
+     "v": "charlie gpt, joke"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-66",
+   "header": "**M-66** (meme) Fed Slop",
+   "label": "(meme) Fed Slop",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:31:45"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "if we all accept that this is all fed slop"
+    },
+    {
+     "k": "Context",
+     "v": "Host hedges on the theory that the plan was for Robinson to die in a shootout."
+    },
+    {
+     "k": "Tags",
+     "v": "fed slop"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-145",
+   "header": "**M-145** (meme) Show Trial",
+   "label": "(meme) Show Trial",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:45:16"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "This is the game. They they want to put on a show trial"
+    },
+    {
+     "k": "Context",
+     "v": "Host says prosecutors plan to show photos of Lance's phone rather than forensic evidence."
+    },
+    {
+     "k": "Tags",
+     "v": "show trial"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-23",
+   "header": "**M-23** (meme) Battle Bun",
+   "label": "(meme) Battle Bun",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "01:03:57"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "you asked for our battle bun activated merch"
+    },
+    {
+     "k": "Context",
+     "v": "Host announces battle bun activated merch."
+    },
+    {
+     "k": "Tags",
+     "v": "merch, battle bun"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-28",
+   "header": "**M-28** (meme) Christ is King",
+   "label": "(meme) Christ is King",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "01:05:24"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Christ is king indeed."
+    },
+    {
+     "k": "Context",
+     "v": "Host answers a viewer comment with the refrain."
+    },
+    {
+     "k": "Tags",
+     "v": "christ is king"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    }
+   ]
+  }
+ ]
+}

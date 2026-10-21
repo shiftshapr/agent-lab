@@ -1,0 +1,9112 @@
+{
+ "format": "cka-source/1",
+ "episode": 81,
+ "blocks": [
+  {
+   "kind": "text",
+   "lines": [
+    "## 1. Meta-Data",
+    "",
+    "- **Episode**: 81",
+    "- **Monument**: cka",
+    "- **CKA seq**: 81",
+    "- **YouTube id**: B9TyCs-6o_0",
+    "- **Candace Ep**: 314",
+    "- **Source**: Candace Owens YouTube",
+    "- **Video Timestamp Range**: 00:00:00–00:54:38",
+    "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
+    "- **Transcript SHA-256**: d1ee383a35dcc78f44448bfd05192752c07b8dad1bd660ea78d735058d0f0c43",
+    "",
+    "- **Episode Ledger Summary**:",
+    "  - Tip-minted Nodes (supplement_2026-10e): N-11296",
+    "  - Hole-minted Nodes (reintro-ep081): N-10611",
+    "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
+    "  - Claim Range: C-7245–C-7343",
+    "  - New Nodes Introduced: N-10547, N-10550, N-10551, N-10552",
+    "  - Reused Nodes Appearing: N-10548, N-10549, N-11, N-15, N-17, N-46, N-55, N-69, N-164, N-186, N-190, N-217, N-260, N-378, N-550, N-590, N-10056, N-10082, N-10093, N-10148, N-10163, N-10193, N-10195, N-10202, N-10206, N-10253, N-10340, N-10355, N-10403, N-10539, N-10546, N-10554, N-10560, N-10956, N-11114, N-11079",
+    "  - (see registers)",
+    "",
+    "# Episode 81 Analysis",
+    "",
+    "",
+    "## 2. Executive Summary",
+    "",
+    "This episode advances the Bride of Charlie investigation by presenting two principal evidentiary strands concerning the events of September 10, 2025 (the day of Charlie Kirk's assassination) and the immediate aftermath.",
+    "",
+    "The first strand centers on Joe Kent's claims, made on Tucker Carlson, that the FBI/National Counterterrorism Center was stopped from continuing to investigate Charlie Kirk's death. The episode captures Andrew Kolvet's on-air admission that he provided a private group-chat text dump to Joe Kent, then claims Kolvet later declined to publish those texts when Kent suggested it. Alex Clark, Jack Posobiec, and Laura Loomer X posts are read aloud, establishing the public pressure campaign against Kent and the accusation that he leaked material specifically to harm Erika Kirk.",
+    "",
+    "The second strand reconstructs Andrew Kolvet's location on September 10 via a displayed PR text chain (Kolvet, Justin Strief, Marina Minas, Aubrey) and an on-screen calendar graphic. The text chain shows Kolvet reporting \"this just loaded\" after a ~2-hour absence, while Minas simultaneously routes death-statement drafting to a 26-year-old employee because Andrew is \"on a plane.\" The episode cross-positions this with Egyptian-plane transponding data and the Yrefy sponsor plane's route. A Blake Neff audio clip (\"I put that phone away\") and a Joe Rogan podcast segment on Erika Kirk are also introduced as supporting artifacts.",
+    "",
+    "Investigatively, the episode converts previously rhetorical claims about Kolvet's solo plane flight into a specific timeline-anchored discrepancy that can be tested against FAA/flight records.",
+    "",
+    "---",
+    "",
+    "## 3. Artifact Register",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1877",
+   "header": "**A-1877** Tucker Carlson / Joe Kent Interview Clip Bundle",
+   "label": "Tucker Carlson / Joe Kent Interview Clip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1877.1",
+   "header": "**A-1877.1** Joe Kent on Tucker Carlson: FBI stopped NCTC from continuing investigation",
+   "label": "Joe Kent on Tucker Carlson: FBI stopped NCTC from continuing investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:01:20–00:03:52"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (audio read aloud in episode)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7247, C-7248*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1877.2",
+   "header": "**A-1877.2** Joe Kent on Tucker Carlson: West Wing encounter with Charlie Kirk re: Iran",
+   "label": "Joe Kent on Tucker Carlson: West Wing encounter with Charlie Kirk re: Iran",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:02:10"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7248*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1878",
+   "header": "**A-1878** Andrew Kolvet on Charlie Kirk Radio Show Clip Bundle",
+   "label": "Andrew Kolvet on Charlie Kirk Radio Show Clip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1878.1",
+   "header": "**A-1878.1** Kolvet admits providing text-message group-chat to Joe Kent",
+   "label": "Kolvet admits providing text-message group-chat to Joe Kent",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:08:30–00:11:16"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (audio read aloud)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7265*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1878.2",
+   "header": "**A-1878.2** Kolvet states Joe Kent suggested making texts public; Kolvet declined",
+   "label": "Kolvet states Joe Kent suggested making texts public; Kolvet declined",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:11:16–00:12:00"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7270*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1879",
+   "header": "**A-1879** Alex Clark X Post Bundle",
+   "label": "Alex Clark X Post Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1879.1",
+   "header": "**A-1879.1** Alex Clark X post accusing Joe Kent of degrading Erika",
+   "label": "Alex Clark X post accusing Joe Kent of degrading Erika",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:05:36"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (text read aloud)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7257*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1880",
+   "header": "**A-1880** Jack Posobiec / Laura Loomer X Exchange Bundle",
+   "label": "Jack Posobiec / Laura Loomer X Exchange Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1880.1",
+   "header": "**A-1880.1** Jack Posobiec X post listing Joe Kent's military credentials",
+   "label": "Jack Posobiec X post listing Joe Kent's military credentials",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:06:26–00:07:00"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (text read aloud)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7260*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1880.2",
+   "header": "**A-1880.2** Laura Loomer X reply accusing Kent of leaking to Candace to harm Erika",
+   "label": "Laura Loomer X reply accusing Kent of leaking to Candace to harm Erika",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:07:00–00:07:19"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7261*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1881",
+   "header": "**A-1881** September 10, 2025 PR Text Chain Bundle",
+   "label": "September 10, 2025 PR Text Chain Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1881.1",
+   "header": "**A-1881.1** PR group-chat text messages (Kolvet, Strief, Minas/Minas, Aubrey) Sept 10",
+   "label": "PR group-chat text messages (Kolvet, Strief, Minas/Minas, Aubrey) Sept 10",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:21:46–00:28:38"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (displayed/read in episode)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7296, C-7301, C-7305, C-7308, N-10547*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1881.2",
+   "header": "**A-1881.2** On-screen calendar graphic consolidating Sept 10 timeline with Egyptian-plane transponding overlay",
+   "label": "On-screen calendar graphic consolidating Sept 10 timeline with Egyptian-plane transponding overlay",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:29:39–00:31:14"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (host-constructed graphic)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7315, C-7323, N-10549*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1882",
+   "header": "**A-1882** Blake Neff Audio Clip Bundle",
+   "label": "Blake Neff Audio Clip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1882.1",
+   "header": "**A-1882.1** Blake Neff describes call to mother; phrase \"I put that phone away\"",
+   "label": "Blake Neff describes call to mother; phrase \"I put that phone away\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:33:30"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (audio read aloud)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7319, N-10550*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1883",
+   "header": "**A-1883** Joe Rogan Podcast Clip Bundle",
+   "label": "Joe Rogan Podcast Clip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1883.1",
+   "header": "**A-1883.1** Joe Rogan discusses Erika Kirk: CIA documentary appearance, pageant background",
+   "label": "Joe Rogan discusses Erika Kirk: CIA documentary appearance, pageant background",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:40:59–00:43:07"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7328*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1884",
+   "header": "**A-1884** Mark Levin / Eitan Fischberger X Post Bundle",
+   "label": "Mark Levin / Eitan Fischberger X Post Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1884.1",
+   "header": "**A-1884.1** Mark Levin X post questioning Erika's video as AI / \"total disgrace\"",
+   "label": "Mark Levin X post questioning Erika's video as AI / \"total disgrace\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:43:46"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (text read aloud)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7333*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1884.2",
+   "header": "**A-1884.2** Eitan Fischberger X post calling Joe Rogan's segment \"sick stuff\"",
+   "label": "Eitan Fischberger X post calling Joe Rogan's segment \"sick stuff\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:43:46–00:44:00"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7334*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1885",
+   "header": "**A-1885** Viewer Comments Bundle (from prior episode, read in this episode)",
+   "label": "Viewer Comments Bundle (from prior episode, read in this episode)",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1885.1",
+   "header": "**A-1885.1** \"Betty\" comment: Erika seeking spotlight compared to Ben Shapiro / Israel",
+   "label": "\"Betty\" comment: Erika seeking spotlight compared to Ben Shapiro / Israel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:48:17–00:48:30"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: N-2 (Erika Kirk, existing)*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1885.2",
+   "header": "**A-1885.2** \"Ted Bundy's ghost\" comment: reality show applications contradict limelight denial",
+   "label": "\"Ted Bundy's ghost\" comment: reality show applications contradict limelight denial",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:48:30–00:49:00"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: N-2 (Erika Kirk, existing)*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3127",
+   "header": "**A-3127** Second Section of the September 10 PR Text Chain Bundle",
+   "label": "Second Section of the September 10 PR Text Chain Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3127.1",
+   "header": "**A-3127.1** Second portion of the PR group chat shown on screen (Aubrey asking to confirm or deny, Streiff replying, Kolvet reply at 4:25 p.m. Utah time)",
+   "label": "Second portion of the PR group chat shown on screen (Aubrey asking to confirm or deny, Streiff replying, Kolvet reply at 4:25 p.m. Utah time)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:34:00"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7312, C-7313, C-7314, C-7320*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3128",
+   "header": "**A-3128** Streiff Text Message to Host Bundle",
+   "label": "Streiff Text Message to Host Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3128.1",
+   "header": "**A-3128.1** Host verbal reference to Justin Streiff's text to her saying Andrew's wife was on the plane (not shown)",
+   "label": "Host verbal reference to Justin Streiff's text to her saying Andrew's wife was on the plane (not shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:18:09"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7289*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3129",
+   "header": "**A-3129** Charlie Kirk Show Cut 16 Clip Bundle",
+   "label": "Charlie Kirk Show Cut 16 Clip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3129.1",
+   "header": "**A-3129.1** Radio clip (Cut 16) of an unidentified speaker saying the screenshots reached Candace via Joe Kent",
+   "label": "Radio clip (Cut 16) of an unidentified speaker saying the screenshots reached Candace via Joe Kent",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"The way that those screenshots got to Candace is via Joe Kent.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:08:08"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7263, C-7264, C-7266*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 4. Node Register",
+    "",
+    ""
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10547",
+   "header": "**N-10547** September 10 Plane Logistics Discrepancy",
+   "label": "September 10 Plane Logistics Discrepancy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Persistent inconsistency between Andrew Kolvet's stated location (Santa Barbara with wife, departing 3:19 p.m. Utah time) and PR text-chain timestamps indicating he was unavailable and \"on the plane\" during the 1:30–3:25 p.m. Utah window."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "4"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1881.1, A-1881.2, C-7296, C-7301, C-7305, C-7315, C-7323*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10548",
+   "header": "**N-10548** Tarmac Hug Account Discrepancy",
+   "label": "Tarmac Hug Account Discrepancy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host's recollection that Kolvet described being alone on a G5/G6 and \"collapsing\" into Erika's arms on the Provo tarmac, contrasted with later public story of his wife being on the plane; Erika did not corroborate the wife-on-plane fact when asked directly."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: N-10547*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10549",
+   "header": "**N-10549** Egyptian Plane Transponding Correlation",
+   "label": "Egyptian Plane Transponding Correlation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host's on-screen calendar shows Egyptian aircraft transponding at Provo and Scottsdale coinciding with key Sept 10 events (Andrew's \"this just loaded\" message; Yrefy plane landings). Underlying data source not independently sourced in episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1881.2, C-7315, C-7323*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10550",
+   "header": "**N-10550** Blake Neff \"Two Phones\" Implication",
+   "label": "Blake Neff \"Two Phones\" Implication",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host interprets Blake Neff's phrasing \"I put that phone away\" after calling his mother as implying possession of a second phone."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1882.1, C-7319*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10551",
+   "header": "**N-10551** Joe Kent Leak Accusation Chain",
+   "label": "Joe Kent Leak Accusation Chain",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Sequence of public accusations (Alex Clark, Laura Loomer, Andrew Kolvet on-air) that Joe Kent leaked material specifically to harm Erika Kirk. Host contests this framing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "3"
+    },
+    {
+     "k": "Claim Count",
+     "v": "3"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1879.1, A-1880.2, A-1878.1, C-7257, C-7261, C-7265*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10552",
+   "header": "**N-10552** Aubrey Termination Circumstances",
+   "label": "Aubrey Termination Circumstances",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host alleges Aubrey was assigned death-statement drafting on Sept 10 while Andrew was unavailable, later terminated in connection with an Uber-driver conversation reported by Marina."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1881.1, C-7305, C-7308*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-1",
+   "header": "**N-1** Charlie Kirk",
+   "label": "Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of the assassination; the host and Kent describe his Israel and Iran positions."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7249, C-7251, C-7252, C-7256, C-7269, C-7274, C-7275, C-7277, C-7278, C-7280, C-7281, C-7282, C-7283, C-7285, C-7292, C-7297, C-7303, C-7311, C-7335, C-7343*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-2",
+   "header": "**N-2** Erika Kirk",
+   "label": "Erika Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Widow and TPUSA CEO; central to the tarmac hug, plane and limelight claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7245, C-7258, C-7259, C-7262, C-7278, C-7284, C-7287, C-7290, C-7291, C-7304, C-7309, C-7318, C-7321, C-7329, C-7330, C-7331, C-7332, C-7337, C-7338, C-7339*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-3",
+   "header": "**N-3** Candace Owens",
+   "label": "Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host; speaks for herself throughout."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7245, C-7253, C-7254, C-7258, C-7259, C-7262, C-7266, C-7273, C-7275, C-7277, C-7278, C-7283, C-7284, C-7285, C-7286, C-7287, C-7288, C-7289, C-7290, C-7291, C-7292, C-7294, C-7295, C-7302, C-7321, C-7332, C-7335, C-7337, C-7338, C-7339, C-7340, C-7341, C-7342, C-7343*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11",
+   "header": "**N-11** Tyler Bowyer",
+   "label": "Tyler Bowyer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named by first name only ('Tyler') among the reported passengers on Charlie's plane."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7304*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-14",
+   "header": "**N-14** Andrew Kolvet",
+   "label": "Andrew Kolvet",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "TPUSA spokesman; subject of the PR chat, the plane account and the Kent texts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7263, C-7264, C-7266, C-7267, C-7268, C-7271, C-7272, C-7273, C-7278, C-7281, C-7283, C-7284, C-7285, C-7286, C-7287, C-7288, C-7289, C-7290, C-7291, C-7292, C-7294, C-7297, C-7298, C-7299, C-7300, C-7302, C-7303, C-7306, C-7311, C-7312, C-7313, C-7314, C-7320, C-7337, C-7341*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-15",
+   "header": "**N-15** Justin Streiff",
+   "label": "Justin Streiff",
+   "lines": [
+    {
+     "raw": "TPUSA COO; booked the planes and appears in the PR chat."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7281, C-7287, C-7288, C-7289, C-7293, C-7298, C-7313, C-7320*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-17",
+   "header": "**N-17** Rob McCoy",
+   "label": "Rob McCoy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Transcribed 'Rob McCoy'; Neff says Mikey called him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7318*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-22",
+   "header": "**N-22** Tucker Carlson",
+   "label": "Tucker Carlson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Interviewed Kent; the host says he called himself a friend of Erika."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7259, C-7275*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-46",
+   "header": "**N-46** Megyn Kelly",
+   "label": "Megyn Kelly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host says she told the truth and calls herself a friend of Erika."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7259, C-7275*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-55",
+   "header": "**N-55** Josh Hammer",
+   "label": "Josh Hammer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named by the host as a Zionist who lied about Charlie and threatened legal options."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7274, C-7279*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-60",
+   "header": "**N-60** Laura Loomer",
+   "label": "Laura Loomer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Posted that Kent may have leaked to the host to attack Erika."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7262*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-69",
+   "header": "**N-69** Kash Patel",
+   "label": "Kash Patel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "FBI director whom Kent's account implicates in stopping the NCTC investigation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7253, C-7254*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-99",
+   "header": "**N-99** Alex Clark",
+   "label": "Alex Clark",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Posted the accusation that Kent degraded Erika; recalled by the host for the boots photo."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7256, C-7258*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-159",
+   "header": "**N-159** Blake Neff",
+   "label": "Blake Neff",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Speaker in the clip about calling his mother after the shooting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7318*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-164",
+   "header": "**N-164** Rabbi Pesach Wolicki",
+   "label": "Rabbi Pesach Wolicki",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Rabbi the host says had a September 5 call with Streiff and Kolvet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7280, C-7281, C-7282*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-186",
+   "header": "**N-186** Stacy Sheridan",
+   "label": "Stacy Sheridan",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Transcribed 'Stacy Sheridan'; named among reported passengers (identification is a doubt)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7304*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-190",
+   "header": "**N-190** Mikey McCoy",
+   "label": "Mikey McCoy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of Blake Neff's clip describing calls after the shot."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7318*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-209",
+   "header": "**N-209** Joe Kent",
+   "label": "Joe Kent",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Former counterterrorism director whose Carlson interview and alleged leak drive the episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7245, C-7249, C-7250, C-7251, C-7252, C-7253, C-7254, C-7255, C-7258, C-7262, C-7266, C-7267, C-7271, C-7272, C-7335, C-7341, C-7342*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-217",
+   "header": "**N-217** Elizabeth McCoy",
+   "label": "Elizabeth McCoy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Transcribed Elizabeth McCoy; named among reported passengers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7304*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-260",
+   "header": "**N-260** Duncan Aviation",
+   "label": "Duncan Aviation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "FBO the host calls unusual and military-leaning."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7322*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-268",
+   "header": "**N-268** Joe Rogan",
+   "label": "Joe Rogan",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Podcast host whose segment on Erika is played."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7329, C-7330, C-7331*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-378",
+   "header": "**N-378** Dan Bongino",
+   "label": "Dan Bongino",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named in a viewer comment as trying to link the host and Kent."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7342*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-493",
+   "header": "**N-493** Marina Minas",
+   "label": "Marina Minas",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "TPUSA chief marketing officer (transcribed Marina Minas, Mina's); handled the statement drafting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7298, C-7306, C-7326*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-550",
+   "header": "**N-550** Aubrey Laitsch",
+   "label": "Aubrey Laitsch",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Staffer who drafted the death statement and was later fired (host says over an Uber driver conversation)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7298, C-7306, C-7307, C-7309, C-7310, C-7312, C-7326, C-7327*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-590",
+   "header": "**N-590** Bret Weinstein",
+   "label": "Bret Weinstein",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host says he released messages about Iran."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7276*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10056",
+   "header": "**N-10056** Kirk-Israel Narrative Dispute",
+   "label": "Kirk-Israel Narrative Dispute",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7251, C-7269, C-7274, C-7275, C-7280, C-7281, C-7335, C-7343*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10082",
+   "header": "**N-10082** CIA",
+   "label": "CIA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing organization reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7331*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10093",
+   "header": "**N-10093** Wirefy",
+   "label": "Wirefy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing organization; the transcript says 'Yrefy', the event sponsor whose plane the host discusses."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7321, C-7324, C-7325*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10148",
+   "header": "**N-10148** Charlie Kirk Pre-Mortem Israel Position Claim",
+   "label": "Charlie Kirk Pre-Mortem Israel Position Claim",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7274, C-7275, C-7280, C-7335*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10163",
+   "header": "**N-10163** Pre-Assassination Group Chat Content",
+   "label": "Pre-Assassination Group Chat Content",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7251, C-7263, C-7277, C-7343*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10193",
+   "header": "**N-10193** Mikey McCoy Call Log Verification",
+   "label": "Mikey McCoy Call Log Verification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7318*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10195",
+   "header": "**N-10195** Josh Hammer Defamation Threat",
+   "label": "Josh Hammer Defamation Threat",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7279*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10202",
+   "header": "**N-10202** FBI Charlie Kirk Investigation Handling (Kash Patel)",
+   "label": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7249, C-7250, C-7253*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10206",
+   "header": "**N-10206** TPUSA Text Chain Authenticity Verification",
+   "label": "TPUSA Text Chain Authenticity Verification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7263, C-7273, C-7277, C-7341*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10253",
+   "header": "**N-10253** Egyptian Military Plane Tracking Investigation",
+   "label": "Egyptian Military Plane Tracking Investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7316*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10340",
+   "header": "**N-10340** Night-Before Text Messages to Andrew Kolvet and Dan Flood",
+   "label": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7277, C-7278, C-7343*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10355",
+   "header": "**N-10355** Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute",
+   "label": "Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7253, C-7254*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10403",
+   "header": "**N-10403** Erika Kirk Handler Thesis",
+   "label": "Erika Kirk Handler Thesis",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7331*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10539",
+   "header": "**N-10539** Charlie Kirk Iran War Opposition (June 2025)",
+   "label": "Charlie Kirk Iran War Opposition (June 2025)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7252, C-7276*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10546",
+   "header": "**N-10546** Joe Kent Resignation Aftermath Pattern",
+   "label": "Joe Kent Resignation Aftermath Pattern",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7245, C-7250, C-7255*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10554",
+   "header": "**N-10554** Andrew Kolvet 9/10 Flight Itinerary",
+   "label": "Andrew Kolvet 9/10 Flight Itinerary",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7283, C-7286, C-7288, C-7289, C-7292, C-7294, C-7303, C-7304, C-7321, C-7325*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10560",
+   "header": "**N-10560** Tarmac Hug Timeline Reconciliation Question",
+   "label": "Tarmac Hug Timeline Reconciliation Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7285, C-7286, C-7287, C-7290, C-7291*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10611",
+   "header": "**N-10611** Erika Kirk Fearlessness vs. Threat Claim Inconsistency",
+   "label": "Erika Kirk Fearlessness vs. Threat Claim Inconsistency",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7278, C-7339*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10956",
+   "header": "**N-10956** Catholics for Catholics",
+   "label": "Catholics for Catholics",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing organization reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7340*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11079",
+   "header": "**N-11079** Operation Midnight Hammer",
+   "label": "Operation Midnight Hammer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7252*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11114",
+   "header": "**N-11114** AZ Tech and E3 Tech DoD EMP Contracts",
+   "label": "AZ Tech and E3 Tech DoD EMP Contracts",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7332*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11296",
+   "header": "**N-11296** Erika Kirk Spotlight-Seeking Dispute",
+   "label": "Erika Kirk Spotlight-Seeking Dispute",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "Dispute over Kolvet's claim that Erika never wanted the limelight versus the host's and a viewer's evidence that she sought roles and reality shows."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-7337, C-7338*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 5. Claim Register",
+    ""
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7247",
+   "header": "**C-7247** Joe Kent stated FBI halted NCTC investigation of Charlie Kirk assassination",
+   "label": "Joe Kent stated FBI halted NCTC investigation of Charlie Kirk assassination",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:10"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Joe Kent told Tucker Carlson that the National Counterterrorism Center was stopped by the FBI from investigating the Charlie Kirk assassination."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1877.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-22, N-1, N-209"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10547"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare Kent's claims against any FBI/NCTC public statements; review case-file jurisdiction transfers to Utah authorities."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7248",
+   "header": "**C-7248** Joe Kent described Charlie Kirk West Wing statement on Iran war",
+   "label": "Joe Kent described Charlie Kirk West Wing statement on Iran war",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:10"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Joe Kent recounted that, in June in the West Wing stairway, Charlie Kirk said loudly, 'Joe stopped us from getting into a war with Iran.'"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1877.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-209"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify via West Wing access logs and any corroborating witnesses to the June encounter."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7246",
+   "header": "**C-7246** Andrew Kolvet retweeted calls for Joe Kent's arrest",
+   "label": "Andrew Kolvet retweeted calls for Joe Kent's arrest",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:00:42"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Andrew Kolvet retweeted someone who suggested Joe Kent should be arrested for leaking classified documents."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1879.1 (related context); direct retweet not separately captured as artifact."
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-209"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10551"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm via archived Kolvet X timeline."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*[Flag: Claim partially artifact-anchored; underlying retweet not displayed]*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7257",
+   "header": "**C-7257** Alex Clark publicly accused Joe Kent of degrading Erika",
+   "label": "Alex Clark publicly accused Joe Kent of degrading Erika",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Alex Clark posted on X that Joe Kent actively participated in or encouraged behind-the-scenes degradation of Erika Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1879.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-99, N-209"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10551"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve Clark's full X thread and any cited evidence."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7260",
+   "header": "**C-7260** Jack Posobiec posted Joe Kent's military credentials",
+   "label": "Jack Posobiec posted Joe Kent's military credentials",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:26"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Jack Posobiec posted on X that Joe Kent has six bronze star medals with five oak leaf clusters across 11 combat deployments as a Green Beret."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1880.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-95, N-209"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Cross-check against DoD / military service records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7261",
+   "header": "**C-7261** Laura Loomer Said Kent May Have Leaked to Candace to Attack Erika",
+   "label": "Laura Loomer Said Kent May Have Leaked to Candace to Attack Erika",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Laura Loomer replied to Posobiec, as the host reads it, calling Joe Kent a known leaker and saying there is speculation that he may have been leaking information to Candace Owens to attack Erika Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1880.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-60, N-2, N-209, N-95"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10551"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve Loomer's full post; trace whether she cites source for the accusation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7265",
+   "header": "**C-7265** Kolvet admitted providing text messages to Joe Kent",
+   "label": "Kolvet admitted providing text messages to Joe Kent",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Andrew Kolvet stated on Charlie Kirk's radio show that he had provided the group-chat screengrabs to Joe Kent in the immediate aftermath of Charlie's death."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1878.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-1, N-209"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10551"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain full unedited radio segment; verify chain of custody."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7270",
+   "header": "**C-7270** Kent suggested making texts public; Kolvet declined",
+   "label": "Kent suggested making texts public; Kolvet declined",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Andrew Kolvet stated Joe Kent messaged him suggesting the texts be made public; Kolvet declined because of concern for innocent group-chat members."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1878.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-209"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10551"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify against any direct messaging logs or third-party corroboration."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7296",
+   "header": "**C-7296** Kolvet unavailable 1:30pm–3:25pm Utah time in PR chat",
+   "label": "Kolvet unavailable 1:30pm–3:25pm Utah time in PR chat",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:46"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the Sept 10 PR text chain the host shows, Andrew Kolvet sent no message from 1:30 p.m. until 3:25 p.m. Utah time, a period the host says he should have been available because communications is his job."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1881.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10547"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Timestamp-verify the chat export; cross-reference with FAA flight logs and cell-tower records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7301",
+   "header": "**C-7301** Kolvet stated \"this just loaded\" indicating plane travel",
+   "label": "Kolvet stated \"this just loaded\" indicating plane travel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the PR text chain the host shows, at 3:26 p.m. Utah time (as the host adjusts it) on Sept 10, Andrew Kolvet wrote in the PR chat: \"Sorry, on the plane, this just loaded.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1881.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10547"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the exact wording against export; check plane Wi-Fi / message buffering logs if obtainable."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7305",
+   "header": "**C-7305** Host Says Marina Minas Asked Aubrey to Draft Death Statement Because Andrew Was on a Plane",
+   "label": "Host Says Marina Minas Asked Aubrey to Draft Death Statement Because Andrew Was on a Plane",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that at approximately 2:05 p.m. Utah time on Sept 10, Marina Minas, TPUSA's chief marketing officer, called Aubrey and asked her to draft the staff death statement because Andrew was on a plane."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1881.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-493, N-550, N-14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10547, N-10552"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm via call detail records and corroborate with Aubrey directly if possible."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7308",
+   "header": "**C-7308** Host Says Aubrey Was Later Fired Over Uber-Driver Conversation",
+   "label": "Host Says Aubrey Was Later Fired Over Uber-Driver Conversation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Aubrey, who drafted the Sept 10 death statement, was later terminated in connection with a conversation with an Uber driver that Marina Minas reportedly overheard."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1881.1 (contextual); primary artifact not displayed."
+    },
+    {
+     "k": "Mentions",
+     "v": "N-493, N-550"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10552"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify with Aubrey or HR/witness records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*[Flag: Claim relies on host's narrative account; partial artifact anchor]*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7315",
+   "header": "**C-7315** Host's Calendar Graphic Shows Egyptian-Plane Transponding Overlapping Sept 10 Events",
+   "label": "Host's Calendar Graphic Shows Egyptian-Plane Transponding Overlapping Sept 10 Events",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:29:39"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per an on-screen calendar graphic the host shows, an Egyptian plane transponds 10:05-11:34 a.m. on Sept 10, and a second Egyptian-plane transponding block overlaps the Kolvet unavailability window that ended with his 'this just loaded' reply and Charlie's Scottsdale-to-Provo flight."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1881.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10547, N-10549"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Independently source the ADS-B / transponder data; verify aircraft identifiers and operators."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7323",
+   "header": "**C-7323** Host Says Yrefy Plane Routed Scottsdale–Provo–Santa Barbara–Scottsdale",
+   "label": "Host Says Yrefy Plane Routed Scottsdale–Provo–Santa Barbara–Scottsdale",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:35:39"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the plane she calls the Yrefy plane (after the event's sponsor, Yrefy) is shown on the on-screen calendar as routing Scottsdale → Provo (10:06 a.m.) → Santa Barbara (10:24 a.m.) → Scottsdale (1:44 p.m.) on Sept 10."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1881.2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10547, N-10549"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify against FAA flight plan / tail-number tracking."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7319",
+   "header": "**C-7319** Blake Neff's \"I put that phone away\" implies second phone",
+   "label": "Blake Neff's \"I put that phone away\" implies second phone",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:33:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Blake Neff, describing his call to his mother after the shooting, used the phrasing \"I put that phone away,\" which host interprets as implying possession of two phones."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1882.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10550"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Direct verification only possible via Blake Neff or device forensics."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*[Flag: Interpretive claim; underlying phrasing is artifact-anchored but the implication is host inference]*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7328",
+   "header": "**C-7328** Joe Rogan discussed Erika Kirk's CIA documentary and pageant history",
+   "label": "Joe Rogan discussed Erika Kirk's CIA documentary and pageant history",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:40:59"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip of his podcast that the host plays, Joe Rogan discusses Erika Kirk's appearance in what he characterizes as a CIA documentary, her pageant background, and speculation she was \"Charlie's handler.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1883.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-268"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify CIA documentary provenance and Erika's pageant participation against public records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7333",
+   "header": "**C-7333** Mark Levin Asked Whether Rogan Segment Was an AI Production",
+   "label": "Mark Levin Asked Whether Rogan Segment Was an AI Production",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:43:46"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per a tweet the host reads, Mark Levin, reacting to the Joe Rogan segment about Erika Kirk, asked 'Is this some AI production?' and said 'If not, what a total disgrace.'"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1884.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-244, N-268, N-2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve full tweet and any subsequent clarification."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7334",
+   "header": "**C-7334** Eitan Fischberger Called Joe Rogan Segment \"Sick Stuff\"",
+   "label": "Eitan Fischberger Called Joe Rogan Segment \"Sick Stuff\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:43:46"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per a tweet the host reads, Eitan Fischberger said, 'This is some sick stuff from Joe Rogan, as if Erika hasn't been through enough already.'"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1884.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-268"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve original tweet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7336",
+   "header": "**C-7336** Host denies pre-existing relationship with Joe Kent",
+   "label": "Host denies pre-existing relationship with Joe Kent",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:45:46"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Candace Owens states she had never had a single communication with Joe Kent until after Charlie Kirk's assassination."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "None (host testimony only)"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1, N-209"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10551"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify via message logs, witness statements, or platform records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*[Flag: Claim failed admission test – no artifact anchor in this episode]*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7245",
+   "header": "**C-7245** Host Says TPUSA Wants Revenge on Kent for Telling a Truth That Made Erika Look Foolish",
+   "label": "Host Says TPUSA Wants Revenge on Kent for Telling a Truth That Made Erika Look Foolish",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:00:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says it would certainly appear that Turning Point USA wants to exact revenge on Joe Kent because he told the truth about something that made Erika Kirk look very foolish."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it would certainly appear that Turning Point wants to exact revenge because you guessed it, Joe Kent told the truth about something and that something made Erika Kirk, Charlie's wife, look very foolish."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-209, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10546, N-10551"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify which Kent statement the host means and whether any TPUSA officer has tied the attacks on Kent to it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7249",
+   "header": "**C-7249** Kent Says FBI Told NCTC to Hand Everything to Utah Authorities",
+   "label": "Kent Says FBI Told NCTC to Hand Everything to Utah Authorities",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:10"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Joe Kent says the FBI will say it stopped the National Counterterrorism Center's work because it wanted everything turned over to the Utah state authorities, with the case going to trial and being very sensitive."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the FBI will say that that they stopped that because they wanted to have tr- every turn everything over to the Utah state authorities and everything's going to trial"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1877.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-209, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10202"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain FBI statements or inter-agency correspondence on the transfer of the investigation to Utah authorities and the NCTC's stand-down."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7250",
+   "header": "**C-7250** Kent Says There Was Still Linkage to Investigate That He Cannot Discuss",
+   "label": "Kent Says There Was Still Linkage to Investigate That He Cannot Discuss",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:10"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Joe Kent says that, despite the FBI's stated reason, there was still a lot to look into and linkage for the NCTC to investigate that he cannot get into."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "but there was still linkage for us to investigate that we needed to run down."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1877.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-209"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10202, N-10546"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask Kent, or review any NCTC tasking records he is free to release, for what leads were left open when the stand-down occurred."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7251",
+   "header": "**C-7251** Kent Says Public Texts Show Charlie Was Under Heavy Pressure From Pro-Israel Donors",
+   "label": "Kent Says Public Texts Show Charlie Was Under Heavy Pressure From Pro-Israel Donors",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Joe Kent says the text messages that have been made public show Charlie Kirk was under a lot of pressure from a lot of pro-Israel donors."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We know the pressure because of the text messages and text messages that have been made public that Charlie was under a lot of pressure from a lot of pro-Israel donors."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1877.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-209, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10056, N-10163"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare Kent's characterization with the full authenticated text of the leaked group-chat messages and the donors involved."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7252",
+   "header": "**C-7252** Kent Says Israel Was Expected to Ask for Another War After Midnight Hammer",
+   "label": "Kent Says Israel Was Expected to Ask for Another War After Midnight Hammer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Joe Kent says that at the end of the 12-day war and Operation Midnight Hammer it was known that the Israelis would come back and ask the United States to go to war again, and that Charlie was advocating to President Trump against such a war."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we knew at the end of the 12-day war, at the end of Midnight Hammer, that the Israelis were going to come back and ask us to go back to war again."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1877.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-209, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11079, N-10539"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check public reporting and administration records on Israeli requests for further US military action after June 2025, and Kirk's documented lobbying against it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7253",
+   "header": "**C-7253** Host Relays Kent: Investigative Leads Would Have Been Pursued but for Kash Patel",
+   "label": "Host Relays Kent: Investigative Leads Would Have Been Pursued but for Kash Patel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:52"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host relays Joe Kent as saying he does not know for sure but that there were things the NCTC would have investigated had it not been for Kash Patel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we had things that we would have investigated had it not been for Kash Patel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1877.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-209, N-69, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10202, N-10355"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full Carlson interview transcript and any FBI or Patel response specifying which leads were not pursued."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7254",
+   "header": "**C-7254** Host Says Kent-Patel Friction Had Already Been Reported in the Daily Mail",
+   "label": "Host Says Kent-Patel Friction Had Already Been Reported in the Daily Mail",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:52"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says it was already known that something was brewing between Joe Kent and Kash Patel, and that this made it into the Daily Mail and was covered on her show."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "that something was brewing between him and Kash Patel, right? That made it into the Daily Mail at some point."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-209, N-69, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10355"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the Daily Mail article on the Kent-Patel dispute and the earlier episode where the host covered it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7255",
+   "header": "**C-7255** Host Says Israel-First Crowd Demanded Prison for Kent Over Alleged Leaks",
+   "label": "Host Says Israel-First Crowd Demanded Prison for Kent Over Alleged Leaks",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Israel-first crowd immediately began demanding that Joe Kent spend time in prison for leaking what they claimed were classified documents."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The Israel first crowd, like I said, immediately began demanding that he spend time in prison for leaking what they claimed are classified documents."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-209"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10551, N-10546"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Collect the posts from Kolvet, Clark, Loomer and others calling for Kent's arrest or prosecution and note whether any cites specific documents."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7256",
+   "header": "**C-7256** Host Says Alex Clark Posed in High Boots on Charlie's Vigil Site Days After the Assassination",
+   "label": "Host Says Alex Clark Posed in High Boots on Charlie's Vigil Site Days After the Assassination",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Alex Clark is best known for posing in high boots on top of Charlie's vigil site just days after he was assassinated."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Alex Clark, best known for posing in high boots on top of Charlie's vigil site just a mere days after uh he was assassinated"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-99, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Supports",
+     "v": "C-1376"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find the published photograph and its date, and any statement from Clark or the outlet about the shoot."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7258",
+   "header": "**C-7258** Host Says She Has Never Heard Kent Say a Bad Word About Erika Kirk",
+   "label": "Host Says She Has Never Heard Kent Say a Bad Word About Erika Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she has never heard Joe Kent utter a bad word about Erika Kirk and has never heard from any person that Kent egged on attacks on Erika, and asks whether TPUSA will supply receipts for Alex Clark's accusation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Joe Kent, I have never heard uh utter a bad word about Erika Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1879.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-209, N-2, N-99, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10551"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask Clark or TPUSA for the specific statements or messages by Kent that they say degraded Erika; search Kent's public record for any such remark."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7259",
+   "header": "**C-7259** Host Says Carlson and Kelly Have Called Themselves Friends of Erika Kirk",
+   "label": "Host Says Carlson and Kelly Have Called Themselves Friends of Erika Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Tucker Carlson has said he is a friend of Erika Kirk and Megyn Kelly has said she is a friend of Erika Kirk, and that among public commentators who have gone after Erika, the host stands alone in the group she is usually lumped into."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Tucker Carlson has said he is a friend of Erika Kirk. Megyn Kelly has said she's a friend of Erika Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-22, N-46, N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the on-air statements in which Carlson and Kelly describe themselves as friends of Erika Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7262",
+   "header": "**C-7262** Host Says Kent Did Not Leak Her Anything to Attack Erika Kirk",
+   "label": "Host Says Kent Did Not Leak Her Anything to Attack Erika Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says it is completely untrue that Joe Kent leaked her anything for the purpose of attacking Erika Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Joe Kent did not leak me anything for the purpose of attacking Erika Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1880.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-209, N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10551"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The host's source records and Kent's own account are the only checks; ask Kent and Loomer for any evidence of the alleged leak."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7263",
+   "header": "**C-7263** Clip Speaker Says Kolvet Was One of Nine People in the Chat Group",
+   "label": "Clip Speaker Says Kolvet Was One of Nine People in the Chat Group",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:08"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the played clip (Cut 16, speaker not identified in the transcript), the speaker says Andrew Kolvet was in the chat group, one of nine people, and at first denied giving out the messages."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He was one of the nine people in the group and he admitted at first to be perfectly honest, at first he was denying it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3129.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10163, N-10206"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full Charlie Kirk Show segment, identify the speaker, and verify the membership of the nine-person group chat."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7264",
+   "header": "**C-7264** Clip Speaker Says Kolvet Admitted on Air He Gave the Texts to Someone in Government",
+   "label": "Clip Speaker Says Kolvet Admitted on Air He Gave the Texts to Someone in Government",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:08"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the played clip, the speaker says Kolvet admitted on his show that he gave the text messages to someone in the government."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He told us that that he gave them to someone in the government."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3129.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10551"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find the earlier Kolvet broadcast where he said he gave the messages to someone in government and compare his wording with this account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7266",
+   "header": "**C-7266** Clip Speaker Says Messages Were Kind of Verified as Passed From Kolvet to Kent to Candace",
+   "label": "Clip Speaker Says Messages Were Kind of Verified as Passed From Kolvet to Kent to Candace",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the played clip, the speaker says TPUSA kind of verified that the messages had been given by Andrew Kolvet to Joe Kent and that Kent passed them on to Candace Owens."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We kind of verified that the messages had been given by Andrew to Joe Kent and that Joe Kent had been the one to pass them on to Candace."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3129.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-209, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10551"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask TPUSA what verification was done; the host denies the chain, so compare with her account of how she obtained the chat."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7267",
+   "header": "**C-7267** Kolvet Says He Was Told He Could Trust Kent and Does Not Know What Happened to the Screen Grabs",
+   "label": "Kolvet Says He Was Told He Could Trust Kent and Does Not Know What Happened to the Screen Grabs",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:24"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Andrew Kolvet says he was told he could trust Joe Kent, that he provided the screen grabs to Kent, and that he does not know what happened to them afterward."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I was told I could trust Joe Kent. I provided the screen grabs to Joe Kent. And that I don't know what happened to them at that point."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1878.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-209"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10551"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask Kolvet who told him Kent could be trusted and what messages he exchanged with Kent about the screen grabs."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7268",
+   "header": "**C-7268** Kolvet Says TPUSA Has Given Everything It Knows Behind the Scenes",
+   "label": "Kolvet Says TPUSA Has Given Everything It Knows Behind the Scenes",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:24"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Andrew Kolvet says that behind the scenes TPUSA has given everything it knows, every single piece of information, to those who needed to know."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "that behind the scenes, we have given everything we know to give. Every single piece of information."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1878.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10551"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask TPUSA to identify to whom it gave information and when, for example investigators or government officials."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7269",
+   "header": "**C-7269** Show Host Says Leaked Texts Kicked Off the Theory That Israel or Jews Had Charlie Killed",
+   "label": "Show Host Says Leaked Texts Kicked Off the Theory That Israel or Jews Had Charlie Killed",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:24"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "On the radio show clip, a second speaker alongside Kolvet says the leaked private group-chat texts were used to kick off the conspiracy theory that Israel or the Jews had Charlie murdered, and both he and Kolvet say TPUSA does not believe that theory."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "kick off the big conspiracy theory that we've run into over and over again, which is that Israel or the Jews had Charlie murdered."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1878.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-14"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10056"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the show host and compare the characterization with the content of the leaked texts and with what the host of this episode actually alleges."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7271",
+   "header": "**C-7271** Kolvet Says Kent Suggested Releasing the Screen Grabs and They Appeared Weeks Later",
+   "label": "Kolvet Says Kent Suggested Releasing the Screen Grabs and They Appeared Weeks Later",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Andrew Kolvet says that after he declined Kent's suggestion to make the screen grabs public, they were made public another week or two later."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "But then, fast forward another week or two, and they were made public."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1878.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-209"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10551"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Date Kolvet's exchange with Kent and the first public appearance of the screen grabs to establish the gap."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7272",
+   "header": "**C-7272** Kolvet Says He Cannot Categorically Say Kent Leaked the Texts",
+   "label": "Kolvet Says He Cannot Categorically Say Kent Leaked the Texts",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Andrew Kolvet says he cannot 100 percent categorically say Joe Kent leaked the texts, and that someone on Kent's team or someone else may have leaked them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Can I 100% categorically say that he leaked them? No. But those are the facts. Maybe somebody on his team, maybe they got passed around, maybe somebody else leaked them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1878.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-209"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10551"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare with the claim in the earlier clip that TPUSA verified Kent as the source; ask TPUSA to reconcile the two statements."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7273",
+   "header": "**C-7273** Host Says Kolvet Himself Told Her About the Text Chain",
+   "label": "Host Says Kolvet Himself Told Her About the Text Chain",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Andrew Kolvet himself told her about the text chain, and that he was telling multiple people about it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he himself told me about the text chain. Andrew was telling multiple people about the text text text chain."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10206, N-10551"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain any messages or call records between the host and Kolvet that mention the chat; ask the other people Kolvet allegedly told."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7274",
+   "header": "**C-7274** Host Says TPUSA Stayed Mum on Charlie's Israel Stance While Zionists Like Josh Hammer Lied",
+   "label": "Host Says TPUSA Stayed Mum on Charlie's Israel Stance While Zionists Like Josh Hammer Lied",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Turning Point stayed entirely mum on Charlie's support for Israel and allowed Zionists who were harassing him in his last days, such as Josh Hammer, to lie about what Charlie was going through."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Turning Point chose to stay entirely mum on the topic of Charlie's support for Israel"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-55, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10056, N-10148"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Collect TPUSA's public statements on Charlie's Israel views between September 10, 2025 and now and compare with Hammer's public claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7275",
+   "header": "**C-7275** Host Says She, Kelly and Carlson Told the Truth That Charlie's Israel Views Were Changing",
+   "label": "Host Says She, Kelly and Carlson Told the Truth That Charlie's Israel Views Were Changing",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:43"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she, Megyn Kelly and Tucker Carlson each told the truth that Charlie Kirk was having changing opinions on Israel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Tucker Carlson told the truth. He was having changing opinions on Israel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-46, N-22, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10148, N-10056"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Gather the on-air statements by each of the three and the corroborating texts and witnesses about Charlie's evolving position."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7276",
+   "header": "**C-7276** Host Says Bret Weinstein Has Released His Messages About Iran",
+   "label": "Host Says Bret Weinstein Has Released His Messages About Iran",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:43"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Bret Weinstein has released his messages about Iran."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Bret Weinstein has released his messages about Iran."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-590"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10539"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate Weinstein's release of messages and check what they say about Charlie Kirk and Iran."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7277",
+   "header": "**C-7277** Host Says Her Release of the Text Chain Forced TPUSA to Confirm a Communication Under 24 Hours Before the Shooting",
+   "label": "Host Says Her Release of the Text Chain Forced TPUSA to Confirm a Communication Under 24 Hours Before the Shooting",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:43"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that after she released the text chain, TPUSA was forced to confess that a communication took place less than 24 hours before Charlie was shot and killed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "which then forced them to confess confess that there was a communication that took place less than 24 hours before Charlie was shot and killed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10163, N-10340, N-10206"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find the TPUSA or Hammer statements acknowledging the pre-assassination communication, with dates, to confirm the admission and its timing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7278",
+   "header": "**C-7278** Host Says Charlie Texted Security and Kolvet He Thought They Were Going to Kill Him, Which Erika Denied",
+   "label": "Host Says Charlie Texted Security and Kolvet He Thought They Were Going to Kill Him, Which Erika Denied",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:43"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie began texting his security and Andrew Kolvet, as Kolvet also told her, that he thought they were going to kill him, and that Erika initially denied this to the public."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Charlie began texting his security and Andrew Kolvet, which he also told me about, that he thought they were going to kill him, okay? Something that Erika initially denied to the public."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-14, N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10340, N-10611"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the texts to security and Kolvet and Erika Kirk's original public denial to compare wording and dates."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7279",
+   "header": "**C-7279** Host Says Josh Hammer Reacted by Saying He Was Exploring Legal Options",
+   "label": "Host Says Josh Hammer Reacted by Saying He Was Exploring Legal Options",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Josh Hammer was angry he got caught lying and responded that he was exploring legal options."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Josh Hammer was angry he got caught. \"I'm exploring legal options."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-55"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10195"
+    },
+    {
+     "k": "Supports",
+     "v": "C-1775"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve Hammer's statement about legal action and any filing that followed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7280",
+   "header": "**C-7280** Host Says the Rabbi Lied That Charlie Never Blinked on Israel",
+   "label": "Host Says the Rabbi Lied That Charlie Never Blinked on Israel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the rabbi lied and said that Charlie never blinked on Israel and is not ashamed, only angry he got caught."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The rabbi is not ashamed that he lied and said, \"Charlie never blinked on Israel.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-164, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10056, N-10148"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the rabbi (the host names Rabbi Wolicki a minute later in the show), find the original statement and compare it with the pre-assassination texts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7281",
+   "header": "**C-7281** Host Says Rabbi Wolicki Had a September 5 Call With Streiff and Kolvet While Charlie Was in Asia",
+   "label": "Host Says Rabbi Wolicki Had a September 5 Call With Streiff and Kolvet While Charlie Was in Asia",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:26"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that on September 5, while Charlie was away in Asia, Rabbi Pesach Wolicki had a call with Justin Streiff and Andrew Kolvet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "On September 5th, while Charlie was away in Asia, that Rabbi Wolicki um and with Rabbi Pesach Wolicki, who was the one who Charlie to be out, he had a a call with Justin Streiff and Andrew Kolvet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-164, N-15, N-14, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10056"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain call logs or calendar entries for September 5 and ask Wolicki, Streiff and Kolvet what the call covered."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7282",
+   "header": "**C-7282** Host Says Wolicki Holds No TPUSA Role but Claims to Be One of Charlie's Personal Advisers",
+   "label": "Host Says Wolicki Holds No TPUSA Role but Claims to Be One of Charlie's Personal Advisers",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:26"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Rabbi Wolicki does not have any role within Turning Point USA and claims to be one of Charlie's personal advisers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Rabbi Wolicki does not have any role within Turning Point USA. He claims to be one of Charlie's personal advisers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-164, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check TPUSA's staff, board and advisory lists for Wolicki and collect his own descriptions of his relationship with Charlie."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7283",
+   "header": "**C-7283** Host Says Kolvet Told Her He Flew Alone on a Massive Plane to Provo",
+   "label": "Host Says Kolvet Told Her He Flew Alone on a Massive Plane to Provo",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:04"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Andrew Kolvet told her on September 10 and the days after that he was on a massive plane all by himself, which she took to be a G5 or G6, racing to Provo alone after Charlie was shot."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He told me that he was on a massive plane all by himself. I was under the impression it was a G5 or a G6, and he was, after Charlie got shot, racing to Provo alone on this plane"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10548, N-10554"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the host's notes or messages from the September 10 conversations and the flight manifests for all TPUSA-related flights into Provo that day."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7284",
+   "header": "**C-7284** Host Says Kolvet Told Her He Collapsed Into Erika's Arms on the Tarmac",
+   "label": "Host Says Kolvet Told Her He Collapsed Into Erika's Arms on the Tarmac",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:56"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Kolvet told her that when the plane doors opened in Provo the first person he saw was Erika Kirk and that he collapsed into Erika's arms, using the word collapsed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The exact word he used was collapsed. He collapsed into Erika's arms."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10548"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Seek airport footage of the Provo tarmac on September 10 and any other account of the meeting between Kolvet and Erika Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7285",
+   "header": "**C-7285** Host Says She Is 10,000 Percent Certain of the Conversation and That She Thought It Was Charlie's Plane",
+   "label": "Host Says She Is 10,000 Percent Certain of the Conversation and That She Thought It Was Charlie's Plane",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:56"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she is 10,000 percent certain about her conversation with Kolvet and that she was immediately put under the impression that the plane was Charlie's plane."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "On that conversation, I am 10,000% certain, okay? I was also put immediately under the impression that it was Charlie's plane."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10548, N-10560"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The conversation exists only in the host's memory; ask Kolvet to state which plane he took and compare with manifests."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7286",
+   "header": "**C-7286** Host Says Kolvet's Account Later Shifted to Flying With His Wife From Santa Barbara",
+   "label": "Host Says Kolvet's Account Later Shifted to Flying With His Wife From Santa Barbara",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:43"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Kolvet's story later shifted to flying with his wife from Santa Barbara, and that she had understood him earlier as saying his wife flew separately and later after being asked whether she should fly to Utah."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Andrew told me his wife asked if he wanted her to then fly to Utah, and he told her, \"Of course.\" Okay? Conversation that I registered as his wife having flown separate and later from him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10548, N-10560, N-10554"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare Kolvet's successive public and private accounts of his travel and the wife's flight, with manifests."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7287",
+   "header": "**C-7287** Host Says She Asked Erika and Streiff Which People Flew on Which Plane Without Mentioning the Hug",
+   "label": "Host Says She Asked Erika and Streiff Which People Flew on Which Plane Without Mentioning the Hug",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that in her sit-down with Erika Kirk and Justin Streiff she asked who flew on each plane that day and whether Andrew flew with his wife, deliberately not mentioning the tarmac hug."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I asked them, \"Who flew on each plane on that day?\" And more specifically, I said, \"Did Andrew fly with his wife?\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2, N-15, N-14"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10548, N-10560"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the recording or notes of the host's interview with Erika Kirk and Streiff for the plane questions."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7288",
+   "header": "**C-7288** Host Says Streiff Said He Booked the Planes and Was Unsure the Wife Got on Hers",
+   "label": "Host Says Streiff Said He Booked the Planes and Was Unsure the Wife Got on Hers",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Justin Streiff told her he booked the planes, that Andrew's wife was supposed to be on the plane but he did not know if she got on it, and that he would double-check."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Justin Streiff told me that he he booked the planes. He said, \"Yeah, I booked the planes.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-15, N-14, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10548, N-10554"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Request the charter booking records Streiff arranged and the passenger lists for each leg."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7289",
+   "header": "**C-7289** Host Says Streiff Texted Next Day That the Wife Was on the Plane, With a Caveat",
+   "label": "Host Says Streiff Texted Next Day That the Wife Was on the Plane, With a Caveat",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Streiff later texted her that Kolvet's wife was on the plane, but excused his uncertainty by saying it was a crazy day and she might have found her own way there."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He texts me, says, \"She was on the plane.\" Um, and yeah, his excuse was like, \"I'm not sure because even though I scheduled her, sometimes, you know, it was such a crazy day, things could have changed,"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3128.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-15, N-14, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10548, N-10554"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the text message from Streiff to the host with its date and compare it with manifests and his in-person answer."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7290",
+   "header": "**C-7290** Host Says Erika Did Not Speak Up to Confirm the Wife Flew With Kolvet",
+   "label": "Host Says Erika Did Not Speak Up to Confirm the Wife Flew With Kolvet",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that when Streiff was unsure whether the wife flew with Andrew, Erika Kirk did not pipe up to confirm it and instead blanked her and stood there."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "But no, Erika blanked me. She did the Erika thing, the eye. She stood there."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-3, N-14"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10548, N-10560"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask Erika Kirk whether she recalls the wife being present at the tarmac meeting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7291",
+   "header": "**C-7291** Host Says It Makes No Sense for Erika to Wait an Hour for the PR Man Before Going to the Hospital",
+   "label": "Host Says It Makes No Sense for Erika to Wait an Hour for the PR Man Before Going to the Hospital",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:47"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says it does not make sense that any person would wait an hour for the PR man's plane to land before racing to the hospital to see a shot husband, and that this is why she felt they were lying."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "why would any person wait an hour for the PR guy to land before racing to the hospital to see their husband after he was shot."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-14, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10560, N-10548"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Establish when Erika Kirk landed in Provo, when she arrived at the hospital, and when Kolvet's plane landed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7292",
+   "header": "**C-7292** Host Says Kolvet Most Likely Flew Alone on Charlie's Plane",
+   "label": "Host Says Kolvet Most Likely Flew Alone on Charlie's Plane",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:47"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she now believes she has evidence that it is highly likely Andrew Kolvet flew by himself on Charlie's plane."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it is highly likely that Andrew flew by himself on Charlie's plane, plausibly Charlie's plane."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10547, N-10554, N-10548"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the manifest and flight track for Charlie's plane (Scottsdale to Provo) and Kolvet's boarding record."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7293",
+   "header": "**C-7293** Host Says Streiff Was Promoted to COO Seven Days Before the Shooting",
+   "label": "Host Says Streiff Was Promoted to COO Seven Days Before the Shooting",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:32"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Justin Streiff had been promoted to COO just seven days earlier, making him the number two person at the company on September 10."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Because he's been promoted to COO. Just 7 days earlier, he gets promoted to COO."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-15"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Supports",
+     "v": "C-896"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the internal memo announcing Streiff's promotion and its date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7294",
+   "header": "**C-7294** Host Says Kolvet's Public Story Is Home in Santa Barbara Then a 3:19 p.m. Utah Flight With His Wife",
+   "label": "Host Says Kolvet's Public Story Is Home in Santa Barbara Then a 3:19 p.m. Utah Flight With His Wife",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Kolvet's story now is that he was home with his wife in Santa Barbara when Charlie was shot and waited about three hours before flying private with her at 3:19 p.m. Utah time."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he was at home with his wife in Santa Barbara when Charlie was shot and then he mysteriously waits for 3 hours until he flies private with his wife at 3:19 p. m. Utah time."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1881.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10547, N-10554"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find Kolvet's own public statement of this itinerary and the FAA record of the Santa Barbara departure."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7295",
+   "header": "**C-7295** Host Says the Shown PR Chat Is in Pacific Time and Was Shifted One Hour to Utah Time",
+   "label": "Host Says the Shown PR Chat Is in Pacific Time and Was Shifted One Hour to Utah Time",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the messages she is showing are in Pacific time and that she adjusted every time forward one hour to Utah time."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "These messages that I'm about to show you, they are in Pacific time, so you're going to have to adjust them adjust them all forward 1 hour in your mind."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1881.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10547"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the chat export's time-zone metadata to confirm the offset and the corrected times."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7297",
+   "header": "**C-7297** Host Says Kolvet Told the Group at 1:02 p.m. Utah Time That They Could Confirm Charlie Was Shot",
+   "label": "Host Says Kolvet Told the Group at 1:02 p.m. Utah Time That They Could Confirm Charlie Was Shot",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:46"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that at 1:02 p.m. Utah time, 39 minutes after Charlie was shot at 12:23, Andrew Kolvet messaged the group saying they could confirm publicly that he had been shot."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "At 1:02 Utah time, so 39 minutes after Charlie is shot, 12:23, Andrew Kolvet messages the group and he says he's telling them for communications, we can confirm publicly that he's been shot."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1881.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10547"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the chat export for the message and compare with TPUSA's first public confirmation time."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7298",
+   "header": "**C-7298** Host Names the Four Members of the PR Chat: Streiff, Kolvet, Marina and Aubrey",
+   "label": "Host Names the Four Members of the PR Chat: Streiff, Kolvet, Marina and Aubrey",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:46"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the PR group chat consisted of Justin Streiff, Andrew Kolvet, Marina (the chief marketing officer) and Aubrey, who she says was later fired over an Uber ride that Marina overheard."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "In this group we have Justin Streiff, we have Andrew Kolvet, we have Marina Minas, and we have Aubrey, who is later going to be fired over an Uber ride that Marina overhears."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1881.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-15, N-14, N-493, N-550"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10552"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the member list from the chat export."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7299",
+   "header": "**C-7299** Host Says Kolvet Instantly Declined a CNN Request Relayed at 1:29 p.m.",
+   "label": "Host Says Kolvet Instantly Declined a CNN Request Relayed at 1:29 p.m.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:46"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that at 1:29 p.m. Utah time Kolvet was told CNN wanted someone on the show and that he instantly said no."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he is then informed uh that CNN wants to have someone on the show. Everyone's reaching out, right? To speak about it. And he instantly says no."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1881.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10547"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the chat export for the CNN request and his reply time."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7300",
+   "header": "**C-7300** Host Says a 1:30 p.m. Request About Morgan Went Unanswered Until 3:25 p.m.",
+   "label": "Host Says a 1:30 p.m. Request About Morgan Went Unanswered Until 3:25 p.m.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:46"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that at 1:30 p.m. Utah time Kolvet was asked whether Morgan could do a news hit at 8:00 p.m. Eastern and gave no response until he asked at 3:25 whether Morgan was on Fox."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Just a minute later at 1:30 p. m., he is asked, \"Can Morgan do a news hit at 8:00 p. m. Eastern?\" And there's no response, okay?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1881.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10547"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify who Morgan is and confirm the request and the 3:25 reply in the chat export."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7302",
+   "header": "**C-7302** Host Says Messages Cannot Load on a Plane Without Wi-Fi",
+   "label": "Host Says Messages Cannot Load on a Plane Without Wi-Fi",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says messages cannot load while on a plane that has no Wi-Fi, so Kolvet's \"this just loaded\" implies his messages were delayed by being airborne."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Messages, as we know, cannot load when you are on a plane if it's a plane that doesn't have Wi-Fi."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1881.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10547"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask aviation or messaging experts whether delayed delivery on a Wi-Fi-less aircraft fits, and whether Charlie's plane had Wi-Fi."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7303",
+   "header": "**C-7303** Host Says the 1:30 to 3:25 Window Matches Charlie's Plane and the Chain Makes It Look Like Kolvet Was Aboard",
+   "label": "Host Says the 1:30 to 3:25 Window Matches Charlie's Plane and the Chain Makes It Look Like Kolvet Was Aboard",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the time frame from 1:30 to 3:25 Utah time matches the time Charlie's plane was traveling, and that the text chain makes it look like Andrew, not the people the public was told about, was on it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "This time frame from 1:30 Utah time up until 3:25 Utah time matches with within the time frame that Charlie's plane is traveling."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1881.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10547, N-10554"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Match the chat times with the flight track and manifest of Charlie's plane."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7304",
+   "header": "**C-7304** Host Says Charlie's Plane Left Scottsdale at 2:31 p.m. and Landed in Provo at 3:31 With Erika, Tyler, Elizabeth McCoy and Stacy Sheridan Reported Aboard",
+   "label": "Host Says Charlie's Plane Left Scottsdale at 2:31 p.m. and Landed in Provo at 3:31 With Erika, Tyler, Elizabeth McCoy and Stacy Sheridan Reported Aboard",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie's plane was to leave Scottsdale at 2:31 p.m. and land in Provo at 3:31 p.m., and that the public is told Erika, Tyler, Elizabeth McCoy and Stacy Sheridan were on it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "that plane is going to leave at 2:31 p. m. from Scottsdale and land into Provo at 3:31 p. m. and we're going to be told that Erika and Tyler and Elizabeth McCoy and Stacy Sheridan are on this plane."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1881.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-11, N-217, N-186"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10554, N-10547"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the passenger manifest and FAA track for the Scottsdale to Provo flight."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7306",
+   "header": "**C-7306** Host Paraphrases Marina Telling Aubrey She Could Not Bring Herself to Draft the Statement",
+   "label": "Host Paraphrases Marina Telling Aubrey She Could Not Bring Herself to Draft the Statement",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Marina told Aubrey that Andrew was on a plane and that she did not have it within her to draft the death statement, so she asked Aubrey to do it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "because Andrew's currently on a plane and I don't have it within me to draft the statement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1881.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-493, N-550, N-14"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10552, N-10547"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask Aubrey or Marina for the call content; the wording is the host's paraphrase."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7307",
+   "header": "**C-7307** Host Says Aubrey Was a 26-Year-Old Given the Task of the Staff Death Statement",
+   "label": "Host Says Aubrey Was a 26-Year-Old Given the Task of the Staff Death Statement",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Aubrey, a 26-year-old, was made responsible for drafting the emotionally heavy statement in Andrew's stead."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Essentially, Aubrey, the what 26-year-old, is now responsible for the unbelievably emotionally heavy statement"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1881.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-550"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10552"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm Aubrey's age and role with her or with employment records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7309",
+   "header": "**C-7309** Host Says Aubrey and Her Fiance Were Fired Over an Uber Driver Conversation and Disloyalty to Erika",
+   "label": "Host Says Aubrey and Her Fiance Were Fired Over an Uber Driver Conversation and Disloyalty to Erika",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says TPUSA made Aubrey work insane hours through weekends and then fired her and her fiance because they had a conversation with an Uber driver and she was not loyal to Erika."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "make her work insane hours and then fire her. Through weekends, everything, and then fire her and her fiance because they had a conversation with an Uber driver. And she wasn't loyal to Erika."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-550, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10552"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5747"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask Aubrey for her termination paperwork and for the driver's account of the conversation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7310",
+   "header": "**C-7310** Host Says Aubrey Received No Bonus After the Organization Took In That Much Money",
+   "label": "Host Says Aubrey Received No Bonus After the Organization Took In That Much Money",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says TPUSA fired Aubrey and her fiance without even giving them a bonus after the organization took in that much money."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "only to then fire them and not even give them a bonus after they took in that much money."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-550"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10552"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Request payroll or severance records through Aubrey and compare with TPUSA's reported post-assassination revenue."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7311",
+   "header": "**C-7311** Host Says the Staff Email Confirming Charlie's Death Went Out at 2:27 p.m. Utah Time",
+   "label": "Host Says the Staff Email Confirming Charlie's Death Went Out at 2:27 p.m. Utah Time",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:26:18"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that at 2:27 p.m. Utah time the email went out to employees confirming that Charlie Kirk had passed away, drafted by a roughly 26-year-old, and that Kolvet then disappeared from the chat again."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "at 2:27 p. m. Mountain time, okay? Remember, this is all adjusted for Utah time. The email goes out to the employees confirming that Charlie Kirk has passed away."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1881.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10547"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the staff email with header timestamp and compare with the first public announcement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7312",
+   "header": "**C-7312** Host Says Aubrey Asked Her Boss at 3:49 p.m. Whether to Confirm or Deny the Email",
+   "label": "Host Says Aubrey Asked Her Boss at 3:49 p.m. Whether to Confirm or Deny the Email",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:27:11"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that at 3:49 p.m. Utah time Aubrey asked her unavailable boss whether she should confirm or deny the staff email to the press."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "At 3:49 Utah time, she's going to ask her boss, who's been unavailable, \"Should I confirm or deny?\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3127.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-550, N-14"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10547, N-10552"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the full chat export for the 3:49 message and its recipient."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7313",
+   "header": "**C-7313** Host Says Streiff Wrote \"Your Call, Andrew\" at 3:52 p.m. Despite Knowing He Booked the Planes",
+   "label": "Host Says Streiff Wrote \"Your Call, Andrew\" at 3:52 p.m. Despite Knowing He Booked the Planes",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:27:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Justin Streiff, who told her he booked the planes, jumped into the chat at 3:52 p.m. and wrote \"Your call, Andrew,\" which she says shows he should have known Andrew was unavailable."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he then jumps into the chat and he says, \"Your call, Andrew.\" It's your call. Obviously, it's true. That's at 3:52 p. m."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3127.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-15, N-14"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10547"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm the 3:52 message in the chat export and ask Streiff what he knew of Kolvet's whereabouts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7314",
+   "header": "**C-7314** Host Says Kolvet Did Not Reply Until 4:25 p.m. and Then Said His Internet Came Back On",
+   "label": "Host Says Kolvet Did Not Reply Until 4:25 p.m. and Then Said His Internet Came Back On",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says there was no response from Kolvet until 4:25 p.m. Utah time, when he gave another excuse, saying his internet just came back on."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Um and there is curiously again going to be no response from Andrew uh until 4:25 p. m. Mountain Utah time. And when he finally replies, he again is going to have another excuse."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3127.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10547"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm the 4:25 message in the chat export and compare with Kolvet's stated location and flight time."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7316",
+   "header": "**C-7316** Host Says an Egyptian Plane's Transponder Mysteriously Turned On at the Provo Tarmac",
+   "label": "Host Says an Egyptian Plane's Transponder Mysteriously Turned On at the Provo Tarmac",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:29:39"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says one Egyptian plane was transponding on a tarmac in Provo and that it mysteriously just turned on, which she felt should not be ignored."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "there was a one Egyptian plane that was just transponding on a tarmac in Provo. Mysteriously just turned on"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10549, N-10253"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2924"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Match the ADS-B record for the Egyptian aircraft at Provo on September 10 with any TPUSA or airport account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7317",
+   "header": "**C-7317** Host Says Aircraft Use Satellite Communication and the DoD Has Its Own Satellites",
+   "label": "Host Says Aircraft Use Satellite Communication and the DoD Has Its Own Satellites",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that, as a speculative backdrop, planes communicate by satellite rather than cell towers, that intelligence agencies use satellite phones outside landline and tower infrastructure, and that the Department of Defense has its own satellites."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Satellite phones are what intelligence age- agencies use because they sit outside of landline infrastructure, they sit outside of cell phone towers, and this is a fact."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10549"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask aviation communications experts whether in-flight messaging works as the host describes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7318",
+   "header": "**C-7318** Host Plays Neff Clip: He Says Mikey Called Erika Then His Father, Rob McCoy",
+   "label": "Host Plays Neff Clip: He Says Mikey Called Erika Then His Father, Rob McCoy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:32:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip, Blake Neff says that around the time he called his mother, \"he\" (apparently Mikey McCoy) called Erika, and then immediately called his dad, Rob McCoy."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I remember he calls Erika. I around the same time, I pull out my phone and I call my mom just to say, \"Hey, Mom, there's been a shooting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1882.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-190, N-2, N-17"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10193"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain Mikey McCoy's call log for the minutes after the shot and the full Neff interview."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7320",
+   "header": "**C-7320** Host Says Streiff Wrote That They May Need to Wait Until AK Is on the Ground",
+   "label": "Host Says Streiff Wrote That They May Need to Wait Until AK Is on the Ground",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:33:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that in the second part of the chat Andrew Kolvet wrote that his internet just came back on, and Justin Streiff wrote that they may need to wait until AK is on the ground."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Justin Streiff says, \"You you may need to wait until AK is on the ground.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3127.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-15, N-14"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10547"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm the message and its timestamp in the chat export; ask Streiff who AK was on the ground from."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7321",
+   "header": "**C-7321** Host Says Erika Told Her the Yrefy Plane Was the Plane in Question and Yrefy Sponsored the Event",
+   "label": "Host Says Erika Told Her the Yrefy Plane Was the Plane in Question and Yrefy Sponsored the Event",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she calls it the Yrefy plane because Yrefy is who Erika told her was on the plane, and that Yrefy was sponsoring the event."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Called the Yrefy plane cuz that's that's who Erika told me was on the plane, right? Yrefy was sponsoring the event."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10093, N-10554"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the tail number of the Yrefy-sponsored plane and the booking company; compare with the host's interview notes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7322",
+   "header": "**C-7322** Host Says Duncan Aviation Is Unusual Compared With Signature or Atlantic and Leans Military",
+   "label": "Host Says Duncan Aviation Is Unusual Compared With Signature or Atlantic and Leans Military",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Duncan Aviation is not where people usually fly in, that they usually use Signature or Atlantic, and that Duncan has a bent toward military and is for fixing planes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Duncan Aviation is not where you fly into. Usually you you fly into Signature, you fly into Atlantic. Duncan Aviation is particularly has a bent towards military and it is for fixing planes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-260"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-260, N-10549"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check Duncan Aviation's Provo services and who arrived there on September 10."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7324",
+   "header": "**C-7324** Host Says Egyptian Planes Began Transponding Right After the Yrefy Plane Landed at Provo and Scottsdale",
+   "label": "Host Says Egyptian Planes Began Transponding Right After the Yrefy Plane Landed at Provo and Scottsdale",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that when the Yrefy plane landed in Provo and then Scottsdale, an Egyptian plane began transponding right away each time."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it lands in Provo and then right away that Egyptian plane starts transponding. Then it lands in Scottsdale and right away that Egyptian plane starts transponding."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1881.2"
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10549, N-10093"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Overlay the ADS-B timestamps for the Yrefy plane's landings and the Egyptian aircraft's transponding."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7325",
+   "header": "**C-7325** Host Says the Yrefy Plane Is Somehow Associated With Turning Point USA",
+   "label": "Host Says the Yrefy Plane Is Somehow Associated With Turning Point USA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Yrefy plane stopped at Provo, Santa Barbara and Scottsdale, all places involved that day, and that it is somehow associated with Turning Point USA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And yes, this plane is somehow associated to Turning Point USA. It gives me the ick."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1881.2"
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10093, N-10554"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the plane's owner, the sponsor's relationship to TPUSA and the full September 10 flight log."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7326",
+   "header": "**C-7326** Host Says Aubrey Worked Long Days Without Sleep and Got No Raise Before Being Fired",
+   "label": "Host Says Aubrey Worked Long Days Without Sleep and Got No Raise Before Being Fired",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Aubrey had to write all of this, work seven-hour days without sleep, then did not get a raise and was fired because Marina spoke to an Uber driver."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "then work like 7-hour days, not sleep, only to then not get a raise and to be fired because Marina Mina's spoke to an Uber driver."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-550, N-493"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10552"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain Aubrey's pay and schedule records and the account of what Marina said to the driver."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7327",
+   "header": "**C-7327** Host Says Aubrey Denies Venting to the Uber Driver While the Driver Says They Vented",
+   "label": "Host Says Aubrey Denies Venting to the Uber Driver While the Driver Says They Vented",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:40:02"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Aubrey said she never vented to the Uber driver, whereas the Uber driver says they did."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "and she said she never did vent to the Uber driver. Uber driver says they vent."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-550"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10552"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the Uber driver and any statement from him; ask Aubrey for her account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7329",
+   "header": "**C-7329** Rogan Clip Says Erika Was on a Reality Show",
+   "label": "Rogan Clip Says Erika Was on a Reality Show",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:40:59"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the played Joe Rogan clip, one speaker says Erika Kirk was on a reality show, and another says that makes her a star."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "She seems she's having a good time. Well, she was on a reality show."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1883.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-268"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Supports",
+     "v": "C-6487"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the reality show and Erika Kirk's appearance in it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7330",
+   "header": "**C-7330** Rogan Clip Mentions a Video Compilation of Erika Making \"Demon Eyes\"",
+   "label": "Rogan Clip Mentions a Video Compilation of Erika Making \"Demon Eyes\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:40:59"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the Rogan clip, a speaker says there is a video of Erika making demon eyes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "There's a video of her making demon eyes, and every time she makes the eyes, the music"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1883.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-268"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find the compilation video and its source; this is recorded as said, not as a verified fact."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7331",
+   "header": "**C-7331** Host Says the Head of the CIA Appears in the Documentary Rogan Mentioned",
+   "label": "Host Says the Head of the CIA Appears in the Documentary Rogan Mentioned",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:43:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that although critics said the CIA did not produce the documentary Joe Rogan mentioned, in which Erika appears, the head of the CIA is in it, and that one has to get approval from the CIA to appear in a CIA documentary."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Okay, yes, but the head of the CIA is in it. Okay, you got to get approval from the CIA to be in a CIA documentary."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1883.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-268"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10082, N-10403"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the documentary, its producer, who appears in it and any CIA statement on its production."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7332",
+   "header": "**C-7332** Host Says Erika's Clip Concerns Her Mother's EMP Business Model, So She Was Not Acting",
+   "label": "Host Says Erika's Clip Concerns Her Mother's EMP Business Model, So She Was Not Acting",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:43:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the clip in question is Erika specifically referring to her mother's business model of EMPs, so she is not acting but involved."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "She's specifically referring to her mother's business model. EMPs. So, she's not acting. She's involved."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1883.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11114"
+    },
+    {
+     "k": "Supports",
+     "v": "C-4630"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find the source video, its date and sponsor, and Erika's mother's company filings on EMP work."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7335",
+   "header": "**C-7335** Host Says She Knew Charlie's Israel Mindset From Her Own Talks, Not From Kent",
+   "label": "Host Says She Knew Charlie's Israel Mindset From Her Own Talks, Not From Kent",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:45:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she told the truth about Charlie's headspace on Israel based on her own discussions with Charlie and did not need Joe Kent for that."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I told you the truth based off of my discussions with Charlie about where his head space was at when it came to Israel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1, N-209"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10148, N-10056"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Seek independent corroboration of the host's conversations with Charlie, such as messages or witnesses."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7337",
+   "header": "**C-7337** Host Says Kolvet Claimed Erika Never Wanted the Limelight",
+   "label": "Host Says Kolvet Claimed Erika Never Wanted the Limelight",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:48:17"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that Andrew Kolvet said Erika did not ever want the limelight, which she disputes, saying she cannot find a moment when Erika was not seeking it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "in response to Andrew Kolvet who said, \"Erika didn't want ever want the limelight.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1885.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11296"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate Kolvet's statement and compare with Erika's public record of seeking media roles."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7338",
+   "header": "**C-7338** Viewer Comment Read: Erika Applied to Numerous Reality Shows",
+   "label": "Viewer Comment Read: Erika Applied to Numerous Reality Shows",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:48:17"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "A viewer comment read by the host, which the host endorses, says Erika applied for numerous reality shows and so cannot claim she was not looking for the limelight."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "A woman who applied for numerous reality shows can never claim that she was not looking for the limelight."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1885.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11296"
+    },
+    {
+     "k": "Supports",
+     "v": "C-6487"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find casting records or application evidence for the reality shows the commenter refers to."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7339",
+   "header": "**C-7339** Host Says Erika Was Fine the Next Day and Said She Felt No Fear",
+   "label": "Host Says Erika Was Fine the Next Day and Said She Felt No Fear",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:49:10"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika was fine the next day and said she felt no fear, in contrast to the host's own fear and anxiety after watching Charlie be assassinated."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Not all of us could be like Erika who like was fine the next day and said she felt no fear."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10611"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate Erika Kirk's own statement saying she felt no fear and its date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7340",
+   "header": "**C-7340** Host Says Her Catholics for Catholics Event Was Her First Event in a Long Time",
+   "label": "Host Says Her Catholics for Catholics Event Was Her First Event in a Long Time",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:49:10"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she did her first event in a really long time, the Catholics for Catholics event, over the weekend, with anxiety beforehand and crowds at the airport afterward."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I did my first event in a really long time, you know, I had such anxiety um leading up to it, the Catholics for Catholics event"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10956"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the event listing and date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7341",
+   "header": "**C-7341** Host Says She Never Received Classified Information From Kent and Kolvet First Told Her About the Chat",
+   "label": "Host Says She Never Received Classified Information From Kent and Kolvet First Told Her About the Chat",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:52:39"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she never got classified information from Joe Kent and that the person who originally told her about the text chain was Andrew Kolvet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I never got classified information from Joe Kent. Like I said, the person who told me about the text chain originally was Andrew Kolvet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-209, N-14"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10551, N-10206"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The host's own communications records would be the check; ask Kent and Kolvet to confirm the sequence."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7342",
+   "header": "**C-7342** Viewer Comment Read: Bongino Tried to Link Candace and Joe Kent",
+   "label": "Viewer Comment Read: Bongino Tried to Link Candace and Joe Kent",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:52:39"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "A viewer comment read by the host says it is sad to see Dan Bongino become a little man trying to link Candace and Joe, and the host says they were all over it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "It is sad to see Bongino become a little man trying to link Candace and Joe."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-378, N-3, N-209"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10551"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find Bongino's on-air or posted remarks tying the host to Kent."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-7343",
+   "header": "**C-7343** Host Says the Group-Chat People Argued With Charlie the Night Before and Knew How Stressed He Was",
+   "label": "Host Says the Group-Chat People Argued With Charlie the Night Before and Knew How Stressed He Was",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:52:39"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the people who publicly said Charlie never blinked on Israel had been arguing with him the night before and knew how stressed and aggrieved he was."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "When they were arguing with him the night before, knew how stressed he was, knew how aggrieved he was."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10163, N-10340, N-10056"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the pre-assassination group-chat exchange with later public statements by its participants."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 6. Meme Register",
+    ""
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-23",
+   "header": "**M-23** (meme) Battle Bun",
+   "label": "(meme) Battle Bun",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:01:20"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I see the chat saying no battle bun today."
+    },
+    {
+     "k": "Context",
+     "v": "Host opens by confirming there is no battle bun today but promising battle."
+    },
+    {
+     "k": "Tags",
+     "v": "battle bun, opener"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-153",
+   "header": "**M-153** (meme) Sentencing TPUSA to More Truth",
+   "label": "(meme) Sentencing TPUSA to More Truth",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:14:11"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Your punishment is more truth. Mr. Blake Neff and Andrew Kolvet."
+    },
+    {
+     "k": "Context",
+     "v": "Host sentences Neff and Kolvet to more truth before the plane segment."
+    },
+    {
+     "k": "Tags",
+     "v": "more truth, punishment"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:48:17"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Your punishment is more truth."
+    },
+    {
+     "k": "Context",
+     "v": "Repeat of the line aimed at Kolvet before reading comments."
+    },
+    {
+     "k": "Tags",
+     "v": "more truth, punishment"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-26",
+   "header": "**M-26** (meme) Gaslight",
+   "label": "(meme) Gaslight",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:43:07"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "they were suddenly trying to gaslight us"
+    },
+    {
+     "k": "Context",
+     "v": "Host says critics tried to gaslight viewers about the CIA documentary."
+    },
+    {
+     "k": "Tags",
+     "v": "gaslight, cia"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-280",
+   "header": "**M-280** (meme) Justice for Aubrey",
+   "label": "(meme) Justice for Aubrey",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:37:21"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I'm going to start selling justice for Aubrey tees."
+    },
+    {
+     "k": "Context",
+     "v": "Host proposes merch for the fired staffer Aubrey."
+    },
+    {
+     "k": "Tags",
+     "v": "aubrey, merch, justice"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:40:02"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Justice for Aubrey. Justice for Aubrey."
+    },
+    {
+     "k": "Context",
+     "v": "Host repeats the cause at the start of the next segment."
+    },
+    {
+     "k": "Tags",
+     "v": "aubrey, justice"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:53:32"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I feel like I should be wearing an Aubrey hat."
+    },
+    {
+     "k": "Context",
+     "v": "Host jokes about Aubrey merch during the sign-off."
+    },
+    {
+     "k": "Tags",
+     "v": "aubrey, merch"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-281",
+   "header": "**M-281** (meme) Frequent Liar Miles",
+   "label": "(meme) Frequent Liar Miles",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:37:21"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "So, that's why we call this frequent liar miles."
+    },
+    {
+     "k": "Context",
+     "v": "Host names the pattern of TPUSA's shifting plane accounts."
+    },
+    {
+     "k": "Tags",
+     "v": "frequent liar miles, planes"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-282",
+   "header": "**M-282** (meme) Israel Firsters",
+   "label": "(meme) Israel Firsters",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:00:01"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "there was this instant stream of Israel firsters who accused him of leaking to me."
+    },
+    {
+     "k": "Context",
+     "v": "Host's label for pro-Israel critics attacking Kent."
+    },
+    {
+     "k": "Tags",
+     "v": "israel firsters, label"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:43:46"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "The Israel Firsters, Mark Levin, tweeted"
+    },
+    {
+     "k": "Context",
+     "v": "Host labels Levin and Fishberger's critics of Rogan."
+    },
+    {
+     "k": "Tags",
+     "v": "israel firsters, label"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-283",
+   "header": "**M-283** (meme) Hire Me",
+   "label": "(meme) Hire Me",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:51:52"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Hire me."
+    },
+    {
+     "k": "Context",
+     "v": "Host jokes she could supply human emotion to Turning Point's PR."
+    },
+    {
+     "k": "Tags",
+     "v": "hire me, tpusa pr, joke"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,6438 @@
+{
+ "format": "cka-source/1",
+ "episode": 114,
+ "blocks": [
+  {
+   "kind": "text",
+   "lines": [
+    "## 1. Meta-Data",
+    "",
+    "- **Episode**: 114",
+    "- **Monument**: cka",
+    "- **CKA seq**: 114",
+    "- **YouTube id**: WoXd4oLwd3w",
+    "- **Candace Ep**: 348",
+    "- **Source**: Candace Owens YouTube",
+    "- **Video Timestamp Range**: 00:00:00–01:02:38",
+    "- **Extraction Timestamp (UTC)**: 2026-10-13T21:43:48Z",
+    "- **Transcript SHA-256**: e59ef23947937abb11240bb4332ca23fd6de863e534d55478de53e8073ce29e1",
+    "- **Model Version**: claude-manual-extract-seq114",
+    "",
+    "- **Episode Ledger Summary**:",
+    "  - Hole-minted Nodes (reintro-ep114): N-10724, N-10863",
+    "  - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused",
+    "  - Tip-minted Nodes (skeleton): N-673, N-10969, N-10970",
+    "  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-6, N-9, N-14, N-22, N-36, N-37, N-46, N-60, N-69, N-85, N-97, N-99, N-104, N-190, N-217, N-265, N-266, N-278, N-298, N-361, N-378, N-418, N-433, N-597, N-643, N-665, N-10000, N-10006, N-10012, N-10014, N-10023, N-10111, N-10131, N-10264, N-10268, N-10324, N-10342, N-10367, N-10373, N-10384, N-10398, N-10417, N-10505, N-10571, N-10588, N-10594, N-10651, N-10671, N-10673, N-10675, N-10700, N-10870, N-10888, N-10968, N-674",
+    "  - Claim Range: C-9867–C-9925",
+    "  - (see registers)",
+    "",
+    "## 2. Executive Summary",
+    "",
+    "The host plays a viral clip from Tucker Carlson's interview with Mario Nawfal (A-2646.1). In it Carlson says Dan Bongino told him that Trump shut down the Butler investigation, and that Bongino became \"hysterical\" when Carlson raised Thomas Matthew Crooks's social media posts, which the public had been told did not exist. The host then plays Bongino's response video (A-2647.1). In it Bongino calls the claim \"100% made up\" and shows a November 21 Fox News article by Brooke Singman saying the FBI concluded Crooks acted alone and the case sits in \"pending inactive\" status (A-2647.2). He also shows his texts to Carlson (A-2647.3). The host argues that the November article predates the December conversation Carlson described. She also argues that Bongino's text telling Carlson to ask the president to release \"more information\" confirms that more information is being withheld. She says she is inclined to believe Butler was a real attempt that served as a \"gangster\" warning to Trump.",
+    "",
+    "The host next reads a New York Times piece on the White House's handling of the Epstein files (A-2648.1). According to the article, on July 12, 2025 Trump called Charlie Kirk and scolded him after the Turning Point USA Student Action Summit turned into \"an Epstein grievance fest.\" She places this on her timeline (A-2649.1) the day after Tucker Carlson's July 11 summit speech. She then sets Erika Kirk's July 14 Calvary Chapel speech in Long Beach, where Erika spoke after a pro-Israel introduction by James Kaddis (A-2650.1, A-2650.2), against a memory she says she had forgotten. After she taped an interview with Carlson in Maine that July (A-2651.1), the host says, Carlson told her he had just had dinner with Charlie and Erika Kirk and that Erika was \"hardcore on the anti-Israel train.\" The host calls this evidence that Erika Kirk changes her persona by audience, and she revisits the July 18 UVU request, the Yrefy sponsorship, the Hamptons retreat and the Aspen retreat.",
+    "",
+    "The host then turns to Bradley Hansell's September trip on SAM702 (A-2652.1). She says it ran Joint Base Andrews–Colorado Springs–Tucson–Fort Huachuca (September 8)–El Paso, and that the 19-hour stop at Fort Huachuca was the longest. She reads the Department of War FOIA office's reply to her request for the flight's passenger records (A-2653.1). The reply invokes \"unusual circumstances\", including consultation with other agencies, and places the request in a complex processing queue of about 3,534 open requests. She calls it an \"FOFU.\"",
+    "",
+    "In the final segments the host mocks an X trend summarising Laura Loomer's confrontation with her show (A-2654.1). She replays Erika Kirk's closing remarks at the Women's Leadership Summit after Erika was heckled (A-2655.1) and reads viewer comments (A-2656). She closes by inviting members of Charlie Kirk's family to reach out to her off the record (A-2657.1).",
+    "",
+    "## 3. Artifact Register",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2646",
+   "header": "**A-2646** Tucker Carlson–Mario Nawfal Interview Bundle",
+   "label": "Tucker Carlson–Mario Nawfal Interview Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2646.1",
+   "header": "**A-2646.1** Viral clip of Tucker Carlson's interview with Mario Nawfal on Butler, Dan Bongino and the Crooks social media posts (played)",
+   "label": "Viral clip of Tucker Carlson's interview with Mario Nawfal on Butler, Dan Bongino and the Crooks social media posts (played)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"I know that Trump shut down the investigation into Butler. That is a fact. Dan Bongino told me that when he worked at the FBI [snorts] and um Dan Bongino himself was terrified uh when I spoke to him in December.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:01:26"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9867, C-9868, C-9869, N-22, N-643, N-378, N-69, N-104, N-265, N-5*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2647",
+   "header": "**A-2647** Dan Bongino Response Bundle",
+   "label": "Dan Bongino Response Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2647.1",
+   "header": "**A-2647.1** Dan Bongino video responding to Tucker Carlson (played)",
+   "label": "Dan Bongino video responding to Tucker Carlson (played)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"However, accusing me and the president of a federal crime, obstructing justice, bizarrely, the president involved in covering up the investigation into his own attempted murder is seriously one of the most delusional things I've ever seen.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:05:21"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9871, N-378, N-22, N-5*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2647.2",
+   "header": "**A-2647.2** November 21 Fox News article by Brooke Singman on the FBI's Crooks conclusion (shown in Bongino's video)",
+   "label": "November 21 Fox News article by Brooke Singman on the FBI's Crooks conclusion (shown in Bongino's video)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"exclusive FBI concludes Trump shooter crooks acted alone after unprecedented global investigation.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:07:15"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9872, C-9873, N-673, N-378, N-104, N-10006, N-10014*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2647.3",
+   "header": "**A-2647.3** Text exchange between Tucker Carlson and Dan Bongino (displayed and read in Bongino's video)",
+   "label": "Text exchange between Tucker Carlson and Dan Bongino (displayed and read in Bongino's video)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"The president's a victim in a federal crime. And when he's ready for us to release more information about this crime, then I'll tell us. I suggest you give him a ring and tell him you want more. Let me know what he says.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:09:41"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9874, C-9875, N-378, N-22, N-69, N-5*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2648",
+   "header": "**A-2648** New York Times Epstein Files Article Bundle",
+   "label": "New York Times Epstein Files Article Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2648.1",
+   "header": "**A-2648.1** New York Times article \"inside the White House freakout over the Epstein files\" (read aloud)",
+   "label": "New York Times article \"inside the White House freakout over the Epstein files\" (read aloud)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"On July 12th, the president took to Truth Social to defend Pam Bondi against criticism and to urge his boys and gals to stop wasting time and energy on Jeffrey Epstein, somebody that nobody cares about.\" out. Trump told aids that he was very unhappy with some of his most influential supporters, including Charlie Kirk, Tucker Carlson, and Megyn Kelly, all of whom were publicly urging the administration to come clean. Kirk had held a Turning Point USA event the previous day that turned into an Epstein grievance fest with one speaker after another bashing Bondi over her handling of the situation. Trump had called Kirk and scolded him.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:16:11"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9879, C-9883, C-9884, C-9885, N-10968, N-10969, N-5, N-1, N-22, N-46, N-85, N-9*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2649",
+   "header": "**A-2649** July–August 2025 Timeline Bundle",
+   "label": "July–August 2025 Timeline Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2649.1",
+   "header": "**A-2649.1** Host's July–August 2025 timeline (SAS, the Trump call, the Long Beach flight, UVU, Maine, Yrefy, Hamptons, Aspen), plotted on air",
+   "label": "Host's July–August 2025 timeline (SAS, the Trump call, the Long Beach flight, UVU, Maine, Yrefy, Hamptons, Aspen), plotted on air",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:17:29"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9888, C-9889, C-9890, C-9895, C-9896, C-9897, C-9904, C-9905, C-9906, N-1, N-2, N-22, N-10000*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2650",
+   "header": "**A-2650** Erika Kirk Calvary Chapel Speech Bundle",
+   "label": "Erika Kirk Calvary Chapel Speech Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2650.1",
+   "header": "**A-2650.1** Clip of Erika Kirk's July 14, 2025 speech at the Calvary Chapel women's retreat (played)",
+   "label": "Clip of Erika Kirk's July 14, 2025 speech at the Calvary Chapel women's retreat (played)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"that the record of Israel is that there is constant invasion and warfare in the promised land. Because of this, the land rarely has a chance to flourish uninterrupted.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:20:49"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9893, N-2, N-665, N-10264, N-10970*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2650.2",
+   "header": "**A-2650.2** James Kaddis PragerU video (shown)",
+   "label": "James Kaddis PragerU video (shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"I'm an Egyptian pastor who supports Israel.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:21:49"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9894, N-665, N-10131*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2651",
+   "header": "**A-2651** Host's Tucker Carlson Maine Interview Bundle",
+   "label": "Host's Tucker Carlson Maine Interview Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2651.1",
+   "header": "**A-2651.1** Clip of the host's July 2025 interview on Tucker Carlson's show in Maine (played)",
+   "label": "Clip of the host's July 2025 interview on Tucker Carlson's show in Maine (played)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Since the 80s, Jeffrey Epste has been working for Israel. I don't know how I know that and Trump and Pam Bondi don't, but they got to bring me in.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:25:49"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9898, C-9899, N-3, N-22, N-9, N-5, N-85*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2652",
+   "header": "**A-2652** Bradley Hansell SAM702 Itinerary Bundle",
+   "label": "Bradley Hansell SAM702 Itinerary Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2652.1",
+   "header": "**A-2652.1** Bradley Hansell's September 2025 multi-leg itinerary (Joint Base Andrews–Colorado Springs–Tucson–Fort Huachuca–El Paso–Andrews), shown",
+   "label": "Bradley Hansell's September 2025 multi-leg itinerary (Joint Base Andrews–Colorado Springs–Tucson–Fort Huachuca–El Paso–Andrews), shown",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:42:15"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9912, C-9913, C-9914, N-433, N-10671, N-10384*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2653",
+   "header": "**A-2653** SAM702 FOIA Response Bundle",
+   "label": "SAM702 FOIA Response Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2653.1",
+   "header": "**A-2653.1** FOIA office response to the host's request for the SAM702 travel records (read aloud)",
+   "label": "FOIA office response to the host's request for the SAM702 travel records (read aloud)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Although we have already begun processing your requests, we will not be able to respond within the FOIA's 20-day statutory time period as there are unusual circumstances which impact our ability to quickly process your request.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:45:15"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9916, C-9917, C-9918, C-9919, N-433, N-10700, N-10671, N-10888*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2654",
+   "header": "**A-2654** X Trend on Laura Loomer Bundle",
+   "label": "X Trend on Laura Loomer Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2654.1",
+   "header": "**A-2654.1** X trending summary \"Loomer confronts Owens on show over Kirk conspiracy theories\" (shown)",
+   "label": "X trending summary \"Loomer confronts Owens on show over Kirk conspiracy theories\" (shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Loomer confronts Owens on show over Kirk conspiracy theories.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:52:09"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9920, N-60, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2655",
+   "header": "**A-2655** Erika Kirk Women's Leadership Summit Bundle",
+   "label": "Erika Kirk Women's Leadership Summit Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2655.1",
+   "header": "**A-2655.1** Clip of the end of Erika Kirk's Women's Leadership Summit speech after she was heckled (played)",
+   "label": "Clip of the end of Erika Kirk's Women's Leadership Summit speech after she was heckled (played)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Every choice made for a good reason makes a good mark in your soul. Every choice made for a bad reason makes a bad mark in your soul.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:53:58"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9921, N-2*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2656",
+   "header": "**A-2656** Viewer Comments Bundle",
+   "label": "Viewer Comments Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2656.1",
+   "header": "**A-2656.1** Viewer comment (Ally) read on air about Tucker Carlson not being invited by TPUSA",
+   "label": "Viewer comment (Ally) read on air about Tucker Carlson not being invited by TPUSA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Tucker recently said TPUSA didn't invite him this year. It adds to the theory that they took out Charlie because he gave Tucker a platform and was abandoning Israel.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:56:19"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9922, N-22, N-10000*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2656.2",
+   "header": "**A-2656.2** Viewer comment (Francesca) read on air asking why Charlie Kirk's parents are not speaking out",
+   "label": "Viewer comment (Francesca) read on air asking why Charlie Kirk's parents are not speaking out",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"You really need to investigate why Charlie's parents are not speaking out. An interview would make sense. I fear they have been forced to stand back.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:58:44"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9924, N-1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2657",
+   "header": "**A-2657** DIA Source Appeal Bundle",
+   "label": "DIA Source Appeal Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2657.1",
+   "header": "**A-2657.1** Host verbal appeal for Charlie Kirk's family members to reach out off the record, followed by a misspoken \"more tips\" address (nothing shown)",
+   "label": "Host verbal appeal for Charlie Kirk's family members to reach out off the record, followed by a misspoken \"more tips\" address (nothing shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Reach out. I'd love to talk to you. I'd keep it all off record. I promise.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "01:00:06"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9925, N-3, N-1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 4. Node Register",
+    ""
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-1",
+   "header": "**N-1** Charlie Kirk",
+   "label": "Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of the July 12, 2025 Trump call, the Student Action Summit donor pressure, the Maine vacation and dinner with Tucker Carlson, and the Hamptons and Aspen events on the host's timeline."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9878, C-9881, C-9882, C-9884, C-9885, C-9886, C-9887, C-9888, C-9889, C-9895, C-9896, C-9900, C-9901, C-9903, C-9904, C-9905, C-9906, C-9923, C-9924, C-9925, A-2648.1, A-2649.1, A-2656.2, A-2657.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-2",
+   "header": "**N-2** Erika Kirk",
+   "label": "Erika Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Her July 14 pro-Israel Calvary Chapel speech is set against Tucker Carlson's account of her anti-Israel views at a Maine dinner; her post-assassination conduct and Women's Leadership Summit remarks are criticised."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9890, C-9892, C-9893, C-9896, C-9900, C-9901, C-9902, C-9903, C-9904, C-9906, C-9907, C-9908, C-9909, C-9915, C-9921, A-2649.1, A-2650.1, A-2655.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-3",
+   "header": "**N-3** Candace Owens",
+   "label": "Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host; recalls her July 2025 Maine interview with Tucker Carlson, reads her team's FOIA response, and appeals for Kirk family members to reach out."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9870, C-9898, C-9899, C-9900, C-9903, C-9908, C-9911, C-9916, C-9920, C-9923, C-9925, A-2651.1, A-2654.1, A-2657.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-5",
+   "header": "**N-5** Donald Trump",
+   "label": "Donald Trump",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "According to Carlson's account, Bongino said Trump shut down the Butler investigation; the New York Times says Trump called Charlie Kirk on July 12, 2025 and scolded him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9867, C-9869, C-9871, C-9874, C-9875, C-9876, C-9877, C-9878, C-9879, C-9880, C-9882, C-9883, C-9884, C-9885, C-9910, A-2646.1, A-2647.1, A-2647.3, A-2648.1, A-2651.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-6",
+   "header": "**N-6** Elizabeth Lane",
+   "label": "Elizabeth Lane",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Cited by the host as having \"clocked\" Erika Kirk correctly in a long tweet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9907*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-9",
+   "header": "**N-9** Jeffrey Epstein",
+   "label": "Jeffrey Epstein",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host says he worked for Israel; Trump's Truth Social post told supporters to stop focusing on him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9880, C-9883, C-9886, C-9889, C-9899, A-2648.1, A-2651.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-14",
+   "header": "**N-14** Andrew Kolvet",
+   "label": "Andrew Kolvet",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Transcript spellings \"Andrew Kolvet\" and \"Andrew Kovets\". The host says Trump spoke in front of him and Charlie Kirk, and that Erika told her Kolvet \"went rogue.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9878, C-9903, C-9908*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-22",
+   "header": "**N-22** Tucker Carlson",
+   "label": "Tucker Carlson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Says in the Mario Nawfal interview that Bongino told him Trump shut down the Butler investigation; spoke at SAS on July 11, 2025; host recalls his remarks after her Maine interview."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9870, C-9867, C-9868, C-9869, C-9871, C-9872, C-9874, C-9881, C-9882, C-9884, C-9886, C-9887, C-9889, C-9898, C-9900, C-9901, C-9922, A-2646.1, A-2647.1, A-2647.3, A-2648.1, A-2649.1, A-2651.1, A-2656.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-36",
+   "header": "**N-36** Benjamin Netanyahu",
+   "label": "Benjamin Netanyahu",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Referred to as \"BB\"; the host says he called Charlie Kirk offering to take Turning Point to the next level."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9905*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-37",
+   "header": "**N-37** Bill Ackman",
+   "label": "Bill Ackman",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Transcript spelling \"Bill Ackman\". Tucker Carlson questioned the source of his wealth at SAS; the host says he sponsored the Hamptons retreat."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9887, C-9889, C-9904*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-46",
+   "header": "**N-46** Megyn Kelly",
+   "label": "Megyn Kelly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Transcript spelling \"Megyn Kelly\". Named in the New York Times article among the supporters Trump was unhappy with."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9884, C-9922, A-2648.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-60",
+   "header": "**N-60** Laura Loomer",
+   "label": "Laura Loomer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Called \"Larry Loomer\" by the host; subject of an X trend about confronting the host's show."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9920, A-2654.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-69",
+   "header": "**N-69** Kash Patel",
+   "label": "Kash Patel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named by Carlson as someone he called about the Crooks posts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9870, C-9874, A-2646.1, A-2647.3*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-85",
+   "header": "**N-85** Pam Bondi",
+   "label": "Pam Bondi",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The New York Times says Trump's July 12 Truth Social post defended her against criticism over Epstein."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9883, C-9885, A-2648.1, A-2651.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-97",
+   "header": "**N-97** Ben Shapiro",
+   "label": "Ben Shapiro",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named by the host as invited to AmFest under Erika Kirk's stewardship."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9909*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-99",
+   "header": "**N-99** Alex Clark",
+   "label": "Alex Clark",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host says Erika Kirk okayed Clark calling the host a liar."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9903*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-104",
+   "header": "**N-104** Thomas Matthew Crooks",
+   "label": "Thomas Matthew Crooks",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Transcript spellings \"Thomas Crooks\" and \"Matthew Crooks\". Carlson says the FBI lied about his social media history."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9870, C-9868, C-9872, C-9873, A-2646.1, A-2647.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-190",
+   "header": "**N-190** Mikey McCoy",
+   "label": "Mikey McCoy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host says he joined the Kirks' Maine vacation and that Katherine Locastro was once his assistant."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9890, C-9896*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-217",
+   "header": "**N-217** Elizabeth McCoy",
+   "label": "Elizabeth McCoy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Transcript \"Eliza and Elizabeth McCoy\". Said to have joined the Kirks' Maine vacation for the first time."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9896*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-265",
+   "header": "**N-265** Christopher Wray",
+   "label": "Christopher Wray",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Transcript spelling \"Chris Ray\". Named by Carlson as heading the previous FBI administration."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9868, A-2646.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-266",
+   "header": "**N-266** Brian Harpole",
+   "label": "Brian Harpole",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host says she reached out to him for evidence and received a lawsuit instead."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9911*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-278",
+   "header": "**N-278** Bari Weiss",
+   "label": "Bari Weiss",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Transcript spelling \"Bari Weiss\". The host says Erika Kirk appeared on stage with her saying those who do not support Israel have \"brain rot.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9902, C-9909*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-298",
+   "header": "**N-298** Miriam Adelson",
+   "label": "Miriam Adelson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Transcript spelling \"Miriam Adelson\". Cited in the host's Israel theme for Trump."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9880*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-361",
+   "header": "**N-361** Mitch Snow",
+   "label": "Mitch Snow",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host says he stumbled on a meeting at Fort Huachuca and is convinced he saw Erika Kirk leaving a hotel there on September 8."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9911, C-9915*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-378",
+   "header": "**N-378** Dan Bongino",
+   "label": "Dan Bongino",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Transcript spelling \"Dan Bongino\". According to Carlson, he said Trump shut down the Butler investigation; his response video and texts are played."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9870, C-9867, C-9869, C-9871, C-9872, C-9874, C-9875, C-9879, A-2646.1, A-2647.1, A-2647.2, A-2647.3*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-418",
+   "header": "**N-418** Derek Niekerk",
+   "label": "Derek Niekerk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Transcript spelling \"Derek Nerk\". Named as a bodyguard on Erika Kirk's July 14 Long Beach flight."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9890*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-433",
+   "header": "**N-433** Bradley Hansell",
+   "label": "Bradley Hansell",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Transcript spelling \"Bradley Hansell\". His September 2025 SAM702 trip around Fort Huachuca is the subject of the host's FOIA request."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9910, C-9912, C-9913, C-9914, C-9916, C-9917, C-9918, A-2652.1, A-2653.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-643",
+   "header": "**N-643** Mario Nawfal",
+   "label": "Mario Nawfal",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "00:01 in episode 114. Interviewed Tucker Carlson in the viral clip about Butler. Aliases: Mario Nofl; Mario Knoff.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9867, A-2646.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-673",
+   "header": "**N-673** Brooke Singman",
+   "label": "Brooke Singman",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named at 00",
+     "v": "07:15 in episode 114, by Dan Bongino in his response clip. Fox reporter whose November 21 article on the FBI's Crooks conclusion Bongino cites. Aliases: Brooke Singman.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9872, A-2647.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-597",
+   "header": "**N-597** Katherine Locastro",
+   "label": "Katherine Locastro",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "19:42 in episode 114. Young TPUSA employee, once Mikey McCoy's assistant, on Erika Kirk's July 14 Long Beach flight. Aliases: Katherine Loccastro.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9890*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-674",
+   "header": "**N-674** Jonathan Barcelo",
+   "label": "Jonathan Barcelo",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "19:42 in episode 114. Described as a Marine on Erika Kirk's July 14 Long Beach flight. Aliases: Jonathan Barcelo.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9890*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-665",
+   "header": "**N-665** James Kaddis",
+   "label": "James Kaddis",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "19:42 in episode 114. Egyptian pastor the host says runs Turning Point USA Faith and introduced Erika Kirk at his Calvary Chapel church. Aliases: James Kaddis.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9890, C-9891, C-9894, A-2650.1, A-2650.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10000",
+   "header": "**N-10000** Turning Point USA",
+   "label": "Turning Point USA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Organization behind the Student Action Summit, the AmFest line-up and the UVU tour discussed on the timeline."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9885, C-9888, C-9891, C-9909, C-9922, A-2649.1, A-2656.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10006",
+   "header": "**N-10006** Fox News",
+   "label": "Fox News",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Published the November 21 article Bongino cites."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9872, A-2647.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10012",
+   "header": "**N-10012** Utah Valley University",
+   "label": "Utah Valley University",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Site of the first stop of Charlie Kirk's fall tour, requested July 18."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9895*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10014",
+   "header": "**N-10014** Federal Bureau of Investigation",
+   "label": "Federal Bureau of Investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Carlson says it lied about Crooks's social media history; it concluded Crooks acted alone."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9868, C-9872, A-2647.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10023",
+   "header": "**N-10023** Epstein Israeli Intelligence Asset Allegation",
+   "label": "Epstein Israeli Intelligence Asset Allegation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host says Epstein trafficked weapons and people on behalf of Israel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9880, C-9899*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10111",
+   "header": "**N-10111** Crooks Federal-Radar Question",
+   "label": "Crooks Federal-Radar Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Carlson's account of Crooks's undisclosed social media posts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9868*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10131",
+   "header": "**N-10131** PragerU",
+   "label": "PragerU",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Hosts James Kaddis's \"Egyptian pastor who supports Israel\" video."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9894, A-2650.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10264",
+   "header": "**N-10264** Calvary Chapel Pro-Israel Coordination",
+   "label": "Calvary Chapel Pro-Israel Coordination",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Erika Kirk's July 14 speech at Calvary Chapel after a pro-Israel introduction."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9891, C-9893, A-2650.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10268",
+   "header": "**N-10268** AmFest Speaker Removal Pattern",
+   "label": "AmFest Speaker Removal Pattern",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "A viewer says Tucker Carlson was not invited this year; the host says Carlson and Megyn Kelly were pushed out."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9922*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10324",
+   "header": "**N-10324** Epstein Files Release Status",
+   "label": "Epstein Files Release Status",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The New York Times piece on the White House reaction to the Epstein files."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9879, C-9883*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10342",
+   "header": "**N-10342** Bibi Netanyahu TPUSA Funding Offer",
+   "label": "Bibi Netanyahu TPUSA Funding Offer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host restates that Netanyahu offered to take Turning Point to the next level and Charlie Kirk declined."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9905*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10367",
+   "header": "**N-10367** Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
+   "label": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Mitch Snow's encounter is restated as context for Hansell's trip."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9911, C-9915*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10373",
+   "header": "**N-10373** Brian Harpole Fort Huachuca Presence Verification",
+   "label": "Brian Harpole Fort Huachuca Presence Verification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host says she still cannot definitively state that Snow saw Harpole."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9911*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10384",
+   "header": "**N-10384** Davis-Monthan AFB September 9 Attendee Verification",
+   "label": "Davis-Monthan AFB September 9 Attendee Verification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Hansell's stop at Davis-Monthan in Tucson before Fort Huachuca."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9912, A-2652.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10398",
+   "header": "**N-10398** Turning Point USA Faith Structure",
+   "label": "Turning Point USA Faith Structure",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host says James Kaddis runs Turning Point USA Faith."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9891*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10417",
+   "header": "**N-10417** Fort Huachuca Erika Presence Investigation",
+   "label": "Fort Huachuca Erika Presence Investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Mitch Snow's belief that he saw Erika Kirk leaving a hotel at Fort Huachuca on September 8."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9915*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10505",
+   "header": "**N-10505** Erika Kirk Post-Assassination Conduct Composite",
+   "label": "Erika Kirk Post-Assassination Conduct Composite",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host's account of Erika Kirk's return to the office and her public demeanour."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9907, C-9921*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10571",
+   "header": "**N-10571** July 14, 2025 Long Beach Flight",
+   "label": "July 14, 2025 Long Beach Flight",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Erika Kirk's private flight to Long Beach with Locastro, Niekerk and Barcelo."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9890*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10588",
+   "header": "**N-10588** Butler PA Investigation Closure Verification",
+   "label": "Butler PA Investigation Closure Verification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Carlson's claim that Trump shut down the investigation, against Bongino's \"pending inactive\" article."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9867, C-9869, C-9871, C-9873, C-9875, C-9876*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10594",
+   "header": "**N-10594** Aspen Donor Inconsistency",
+   "label": "Aspen Donor Inconsistency",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host says Erika Kirk went to the August 15 Aspen retreat but not the meeting itself."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9906*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10651",
+   "header": "**N-10651** Brian Harpole Lawsuit Coordination Question",
+   "label": "Brian Harpole Lawsuit Coordination Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host says reaching out to Harpole produced a lawsuit."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9911*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10671",
+   "header": "**N-10671** SAM702 / Fort Huachuca September 9 Passenger Manifest",
+   "label": "SAM702 / Fort Huachuca September 9 Passenger Manifest",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The passenger list for Hansell's SAM702 legs, especially Tucson to Fort Huachuca, sought by FOIA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9912, C-9913, C-9914, C-9916, C-9917, A-2652.1, A-2653.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10673",
+   "header": "**N-10673** Hamptons August 5–7 Intervention Event",
+   "label": "Hamptons August 5–7 Intervention Event",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host revisits the Hamptons retreat that Charlie Kirk called an intervention."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9904*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10675",
+   "header": "**N-10675** Turning Point UVU Event Submission Chain",
+   "label": "Turning Point UVU Event Submission Chain",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host says it is still unknown who submitted the July 18 UVU request."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9895*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10700",
+   "header": "**N-10700** Pending FOIA Requests",
+   "label": "Pending FOIA Requests",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The SAM702 travel-log request now in a complex processing queue."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9916, C-9917, C-9919, A-2653.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10724",
+   "header": "**N-10724** Butler Shooting Insider Involvement Claim",
+   "label": "Butler Shooting Insider Involvement Claim",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host's theory that Butler was a real attempt not carried out by the person blamed, serving as a warning."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9877*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10863",
+   "header": "**N-10863** July 2025 Charlie Kirk Pressure Concurrent with UVU Booking",
+   "label": "July 2025 Charlie Kirk Pressure Concurrent with UVU Booking",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The UVU request came days after the SAS donor pressure and the Trump call."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9895*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10870",
+   "header": "**N-10870** Yrefy / Yrefy Sponsorship Contracts and July 25 Addendum",
+   "label": "Yrefy / Yrefy Sponsorship Contracts and July 25 Addendum",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host says Yrefy became the fall tour's number one sponsor through a contract addendum."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9897*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10888",
+   "header": "**N-10888** Department of War",
+   "label": "Department of War",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Hansell's department; its FOIA office invoked unusual circumstances."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9918, A-2653.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10968",
+   "header": "**N-10968** The New York Times",
+   "label": "The New York Times",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "raw": "Newspaper that published the piece on the White House reaction to the Epstein files, reporting that Trump called Charlie Kirk and scolded him on July 12, 2025. The host says the piece was well sourced and believes Dan Bongino was one of its sources."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9879, A-2648.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10969",
+   "header": "**N-10969** Trump–Charlie Kirk July 12, 2025 Scolding Call",
+   "label": "Trump–Charlie Kirk July 12, 2025 Scolding Call",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "k": "Investigation target",
+     "v": "the New York Times report that Donald Trump called Charlie Kirk on July 12, 2025, the day after Tucker Carlson's Student Action Summit speech, and scolded him over the event becoming \"an Epstein grievance fest.\" The host asks who prompted the call and places it on her pre-assassination timeline."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9881, C-9882, C-9885, A-2648.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10970",
+   "header": "**N-10970** Erika Kirk July 2025 Israel Stance Discrepancy",
+   "label": "Erika Kirk July 2025 Israel Stance Discrepancy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "k": "Investigation target",
+     "v": "the contrast between Erika Kirk's pro-Israel July 14, 2025 Calvary Chapel speech and Tucker Carlson's account to the host, days later in Maine, that Erika had been \"hardcore on the anti-Israel train\" at dinner, and her later pro-Israel public positions."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9893, C-9900, C-9901, C-9902, A-2650.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 5. Claim Register",
+    ""
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9867",
+   "header": "**C-9867** Tucker Carlson says Dan Bongino told him Trump shut down the Butler investigation",
+   "label": "Tucker Carlson says Dan Bongino told him Trump shut down the Butler investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:01:26"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip from his interview with Mario Nawfal, Tucker Carlson says Trump shut down the investigation into Butler and that Dan Bongino told him so."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I know that Trump shut down the investigation into Butler. That is a fact. Dan Bongino told me that when he worked at the FBI"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2646.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-22, N-378, N-5, N-643"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10588"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the Carlson–Bongino text exchanges Carlson says he still has, and FBI records on the Butler case status after January 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9868",
+   "header": "**C-9868** Carlson says he obtained Crooks social media posts the FBI said did not exist",
+   "label": "Carlson says he obtained Crooks social media posts the FBI said did not exist",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:01:26"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Carlson says he came into possession of many social media posts by Thomas Crooks from the months and years before the shooting, which the public had been told did not exist, and that the FBI had lied about this under Christopher Wray."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "accidentally came into possession of a lot of the social media posts that we were told didn't exist that were posted by Thomas Crooks in the months and years before the shooting"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2646.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-22, N-104, N-265"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10014, N-10111"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the posts Carlson holds against FBI public statements on Crooks's online history."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9869",
+   "header": "**C-9869** Bongino told Carlson to \"take it up with Trump\" in early December",
+   "label": "Bongino told Carlson to \"take it up with Trump\" in early December",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:24"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Carlson says that after a long series of texts and calls, Bongino told him to take it up with Trump because Trump had shut down the investigation, in about the first or second week of December."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he said, \"Look, take it up with Trump. He's the one who shut down the investigation.\" And that was, I think, the first or second week of December."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2646.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-378, N-22, N-5"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10588"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the December call and text records between Carlson and Bongino."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9870",
+   "header": "**C-9870** Host says the Butler story terrified Dan Bongino and Kash Patel",
+   "label": "Host says the Butler story terrified Dan Bongino and Kash Patel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Recapping Tucker Carlson's account that he asked Dan Bongino and Kash Patel why the public was told Thomas Matthew Crooks had no social media history, the host says the Butler story, \"perhaps the butler cover up\", terrified Bongino and Patel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "this story, the butler story, perhaps the butler cover up, whatever it is, terrified Dan Bongino and terrified Kash Patel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-22, N-378, N-69, N-104"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain Carlson's full account and Bongino's response; compare FBI statements on Crooks's online history against what was later disclosed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9871",
+   "header": "**C-9871** Bongino says the claim that Trump shut down the Butler investigation is made up",
+   "label": "Bongino says the claim that Trump shut down the Butler investigation is made up",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:15"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In his response video, Dan Bongino says Carlson's statement that the president shut down the Butler investigation is \"Totally, completely 100% made up.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He says that the president shut down the Butler investigation. Totally, completely 100% made up."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2647.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-378, N-22, N-5"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10588"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain FBI case-status records and any White House communications on the Butler investigation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9872",
+   "header": "**C-9872** Fox News reported on November 21 that the FBI concluded Crooks acted alone",
+   "label": "Fox News reported on November 21 that the FBI concluded Crooks acted alone",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:15"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Bongino shows a November 21 Fox News exclusive, which he says came from an interview with Brooke Singman, reporting that the FBI concluded the Trump shooter Crooks acted alone after an unprecedented global investigation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Here it was, November 21st, even before Tucker says he spoke to me in December. exclusive FBI concludes Trump shooter crooks acted alone after unprecedented global investigation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2647.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-378, N-673, N-104, N-22"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10006, N-10014"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the Fox News article of November 21 and the FBI statement it relies on."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9873",
+   "header": "**C-9873** The Crooks case sits in \"pending inactive\" status",
+   "label": "The Crooks case sits in \"pending inactive\" status",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:15"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "According to the article Bongino reads, the Crooks case currently sits in a \"pending inactive\" status; the host notes this predates the December conversation Carlson described."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The case that's the crooks case he says was shut down currently sits in a pending inactive status."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2647.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-378, N-104, N-22"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10588"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Request the FBI's case status for the Butler shooting investigation and the definition of \"pending inactive\" in FBI case management."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9874",
+   "header": "**C-9874** Bongino Texted Carlson to Ask the President for More Information",
+   "label": "Bongino Texted Carlson to Ask the President for More Information",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:41"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In texts Bongino displays, he told Carlson the president is a victim and that when he is ready for more information about the crime to be released he will say so, suggesting Carlson give him a ring."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The president's a victim in a federal crime. And when he's ready for us to release more information about this crime, then I'll tell us. I suggest you give him a ring and tell him you want more."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2647.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-378, N-22, N-5"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10588"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the complete text thread between Carlson and Bongino."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9875",
+   "header": "**C-9875** Host says Bongino's text confirms unreleased Butler information exists",
+   "label": "Host says Bongino's text confirms unreleased Butler information exists",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host argues that Bongino's text shows there is more information about Butler that the president is aware has not been released, which she says confirms Carlson's report."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "then there's more information that the president is aware has not been released to the public."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2647.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-378, N-5"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10588"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify withheld Butler investigation records through FOIA and congressional task force materials."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9876",
+   "header": "**C-9876** Trump did not fire the Secret Service agents who failed at Butler",
+   "label": "Trump did not fire the Secret Service agents who failed at Butler",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Trump did not fire the Secret Service agents who failed to protect him at Butler and said he was satisfied with the investigation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "If you almost get assassinated, uh, and you do not fire the Secret Service agents that failed to protect you on that day"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-5"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10588"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check Secret Service personnel actions and disciplinary records after July 13, 2024."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9877",
+   "header": "**C-9877** Host believes Butler was a real attempt meant as a warning",
+   "label": "Host believes Butler was a real attempt meant as a warning",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:03"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she is inclined to believe Butler was a real assassination attempt that had nothing to do with the person it was blamed on and served as a \"gangster\" warning to Trump, rather than a staged event."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "It actually had nothing to do with the person that it was blamed on. Um, and Trump did escape with his life and it was a warning."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-5"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10724"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the full Butler forensic and investigative record for evidence of other participants."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9878",
+   "header": "**C-9878** Host Speculates Trump Said in Front of Kirk and Kolvet He Would Cross Someone",
+   "label": "Host Speculates Trump Said in Front of Kirk and Kolvet He Would Cross Someone",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host speculates that Trump may have said in front of Charlie Kirk and Andrew Kolvet that he was going to take somebody's money and then cross them, and that this got back to some people."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "you willy-nilly said in front of Charlie Kirk and Andrew Kolvet that you were going to take somebody's money and then f them over"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-5, N-1, N-14"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask Andrew Kolvet whether such a remark was made and when."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9879",
+   "header": "**C-9879** The New York Times published a piece on the White House reaction to the Epstein files",
+   "label": "The New York Times published a piece on the White House reaction to the Epstein files",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:37"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the New York Times published a well-sourced piece \"inside the White House freakout over the Epstein files\", and she believes Dan Bongino was one of its sources."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "this is inside the White House freakout over the Epstein files."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2648.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-378, N-5"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10968, N-10324"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the New York Times article and its sourcing description."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9880",
+   "header": "**C-9880** Host says Epstein trafficked weapons and people on behalf of Israel",
+   "label": "Host says Epstein trafficked weapons and people on behalf of Israel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:37"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Jeffrey Epstein was involved in a trafficking ring, trafficking weapons and people on behalf of the state of Israel, and calls Trump saying he would screw over Miriam Adelson \"another Israel theme.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he was involved in a trafficking ring. Uh, he traffked weapons. He traffked people. He did it uh on behalf of the state of Israel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-9, N-5, N-298"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10023"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review released Epstein files and intelligence-related reporting for evidence of state sponsorship."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9881",
+   "header": "**C-9881** Host's timeline says instructions to kill Kirk went out after Tucker spoke at SAS",
+   "label": "Host's timeline says instructions to kill Kirk went out after Tucker spoke at SAS",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:11"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host alleges that, according to her timeline, things changed after Tucker Carlson took the stage at the Student Action Summit and instructions went out to kill Charlie Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Instructions went out to kill Charlie Kirk. That's just what the timeline tells us."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-22, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10969"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Establish communications among TPUSA donors and staff between July 11 and July 18, 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9882",
+   "header": "**C-9882** Tucker spoke at SAS on July 11 and Trump called Kirk on July 12",
+   "label": "Tucker spoke at SAS on July 11 and Trump called Kirk on July 12",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:11"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Tucker Carlson spoke at the Student Action Summit on July 11, 2025 and that Charlie Kirk received a phone call from the president on July 12."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Well, it turns out Tucker spoke on July 11th. And on July 12th, Charlie received a phone call from the president."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2648.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-22, N-1, N-5"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10969"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm the SAS speaking schedule and White House call logs for July 12, 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9883",
+   "header": "**C-9883** Trump's July 12 Truth Social post defended Bondi and dismissed Epstein",
+   "label": "Trump's July 12 Truth Social post defended Bondi and dismissed Epstein",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:11"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "According to the New York Times article the host reads, on July 12 the president used Truth Social to defend Pam Bondi and urge supporters to stop wasting time on Jeffrey Epstein."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "On July 12th, the president took to Truth Social to defend Pam Bondi against criticism and to urge his boys and gals to stop wasting time and energy on Jeffrey Epstein"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2648.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-5, N-85, N-9"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10968, N-10324"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve Trump's July 12, 2025 Truth Social post from the archive."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9884",
+   "header": "**C-9884** Trump told aides he was unhappy with Kirk, Carlson and Kelly",
+   "label": "Trump told aides he was unhappy with Kirk, Carlson and Kelly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:11"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "According to the New York Times, Trump told aides he was very unhappy with influential supporters including Charlie Kirk, Tucker Carlson and Megyn Kelly, who were publicly urging the administration to come clean."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Trump told aids that he was very unhappy with some of his most influential supporters, including Charlie Kirk, Tucker Carlson, and Megyn Kelly"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2648.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-5, N-1, N-22, N-46"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10968"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Seek confirmation from the article's sources or White House aides present."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9885",
+   "header": "**C-9885** Trump called Kirk and scolded him over the \"Epstein grievance fest\"",
+   "label": "Trump called Kirk and scolded him over the \"Epstein grievance fest\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:11"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "According to the New York Times, Kirk's Turning Point USA event the previous day turned into \"an Epstein grievance fest\" with speakers bashing Bondi, and Trump called Kirk and scolded him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Kirk had held a Turning Point USA event the previous day that turned into an Epstein grievance fest with one speaker after another bashing Bondi over her handling of the situation. Trump had called Kirk and scolded him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2648.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-5, N-85"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10969, N-10000, N-10968"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain call records or testimony from Kirk's staff about the July 12, 2025 call."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9886",
+   "header": "**C-9886** Charlie Kirk lost millions from pro-Israel donors over Tucker's Epstein remarks",
+   "label": "Charlie Kirk lost millions from pro-Israel donors over Tucker's Epstein remarks",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:29"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie Kirk lost millions of dollars from pro-Israel donors over Tucker Carlson calling out Epstein on stage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Charlie lost millions and millions of dollars on stage from his pro-Israel donors over uh Tucker calling out Epstein."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-22, N-9"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare TPUSA donor records and pledges before and after the July 2025 Student Action Summit."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9887",
+   "header": "**C-9887** Donors wanted Kirk to cancel Tucker over the Bill Ackman question",
+   "label": "Donors wanted Kirk to cancel Tucker over the Bill Ackman question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:29"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says donors wanted Charlie Kirk to cancel Tucker Carlson and were particularly angry that Carlson asked where Bill Ackman's money comes from."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They wanted him to cancel Tucker. Um they were angry that um in particular that he had Tucker Carlson had asked where Bill Ackman's money comes from."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-22, N-37"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Seek testimony from TPUSA staff or donors on post-speech demands."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9888",
+   "header": "**C-9888** The 2025 Student Action Summit ran July 11–13 in Tampa Bay",
+   "label": "The 2025 Student Action Summit ran July 11–13 in Tampa Bay",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:29"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Turning Point USA Student Action Summit ran July 11–13, 2025 in Tampa Bay, Florida, with Charlie Kirk's first speech at 4 p.m. Friday and his last ending at 1:10 p.m. Sunday."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we know that that's the student action summit, Turning Point USA student action summit in Tampa Bay, Florida. Uh, Charlie's first speech is at 4 p. m. on Friday."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2649.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the published 2025 SAS agenda."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9889",
+   "header": "**C-9889** Tucker's SAS speech raised Epstein, foreign-army citizenship and Ackman's wealth",
+   "label": "Tucker's SAS speech raised Epstein, foreign-army citizenship and Ackman's wealth",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie Kirk told Tucker Carlson to \"go Max\" despite donor alarm, and that Carlson called out Epstein, said people serving in foreign armies should be stripped of citizenship and mused about Bill Ackman's wealth."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He says that the people who serve in foreign armies should be stripped of their citizenship and he muses about where Bill Ackman's wealth comes from."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2649.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-22, N-1, N-37, N-9"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the full video of Carlson's July 11, 2025 SAS speech."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9890",
+   "header": "**C-9890** Erika Kirk flew privately to Long Beach on July 14 with Locastro, Niekerk and Barcelo",
+   "label": "Erika Kirk flew privately to Long Beach on July 14 with Locastro, Niekerk and Barcelo",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:42"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that on July 14, 2025 Erika Kirk took a private flight to Long Beach, California with Katherine Locastro (once Mikey McCoy's assistant), bodyguard Derek Niekerk and Marine Jonathan Barcelo, and spoke at James Kaddis's Calvary Chapel church."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "This July 14th date, Erika travels aboard a private flight to Long Beach, California. She's got Katherine Loccastro."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2649.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-597, N-190, N-418, N-674, N-665"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10571"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain flight records for the July 14, 2025 Long Beach flight and the church event schedule."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9891",
+   "header": "**C-9891** Host says James Kaddis is Egyptian and runs Turning Point USA Faith",
+   "label": "Host says James Kaddis is Egyptian and runs Turning Point USA Faith",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:42"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says James Kaddis is \"that icky guy who is Egyptian\" and runs Turning Point USA Faith, and that he is radically pro-Israel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "James Kaddis is that icky guy who is Egyptian and runs Turning Point USA faith."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-665"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10398, N-10264, N-10000"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check TPUSA Faith leadership listings and Calvary Chapel staff records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9892",
+   "header": "**C-9892** Erika Kirk did not attend the Student Action Summit",
+   "label": "Erika Kirk did not attend the Student Action Summit",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:49"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk did not show up to the 2025 Student Action Summit, which she calls unusual."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The first and foremost I realized Erika didn't show up to ZAS which was unusual."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review SAS 2025 event footage and attendee reports for Erika Kirk's presence."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9893",
+   "header": "**C-9893** Erika Kirk's July 14 speech framed Israel's constant warfare as a call to arms",
+   "label": "Erika Kirk's July 14 speech framed Israel's constant warfare as a call to arms",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:49"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip played, Erika Kirk says the record of Israel is constant invasion and warfare in the promised land; the host notes the pro-Israel introduction given by James Kaddis."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the record of Israel is that there is constant invasion and warfare in the promised land."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2650.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-665"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10970, N-10264"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full recording of the July 14, 2025 Calvary Chapel women's retreat."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9894",
+   "header": "**C-9894** James Kaddis made a PragerU video as an Egyptian pastor who supports Israel",
+   "label": "James Kaddis made a PragerU video as an Egyptian pastor who supports Israel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:49"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host shows what she says is James Kaddis's PragerU video, in which he says, \"I'm an Egyptian pastor who supports Israel.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "This is literally his Prageru video. I'm an Egyptian pastor who supports Israel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2650.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-665"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10131"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the PragerU video and confirm the speaker's identity."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9895",
+   "header": "**C-9895** The UVU request went in on July 18 and its submitter is unknown",
+   "label": "The UVU request went in on July 18 and its submitter is unknown",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the request for the UVU event went in on July 18, 2025, that it is still unknown who submitted it, and that it unusually secured the first spot of the semester tour."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Right after this on July 18th, uh that's when the request goes in for UVU. We still don't know who submitted that request."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2649.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10675, N-10012, N-10863"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2668"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the UVU event request record and submitter identity."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9896",
+   "header": "**C-9896** Charlie Kirk vacationed in Maine around July 20–30 with the McCoys",
+   "label": "Charlie Kirk vacationed in Maine around July 20–30 with the McCoys",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie Kirk vacationed in Maine for about two weeks from around July 20, and that Mikey and Elizabeth McCoy joined the Kirks on vacation for the first time and captured images later released after the assassination."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "July 20thish, Charlie vacationed in Maine for a couple of weeks."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2649.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-2, N-190, N-217"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check photo metadata of the Maine images and the McCoys' travel records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9897",
+   "header": "**C-9897** Yrefy became the fall tour's number one sponsor via an addendum",
+   "label": "Yrefy became the fall tour's number one sponsor via an addendum",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that during the same two weeks Yrefy came in as the number one sponsor of Charlie Kirk's fall tour through an addendum, despite an existing January–December contract, with its CEO set to travel to the first stop at UVU."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "why Rei comes in as the number one sponsor for Charlie Kirk's fall tour this is a total Israel coded company"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2649.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10870"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the Yrefy sponsorship contract and addendum dates."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9898",
+   "header": "**C-9898** Host went to Maine in July 2025 to tape Tucker Carlson's show",
+   "label": "Host went to Maine in July 2025 to tape Tucker Carlson's show",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:20"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her son was born on May 1 and that, in July, she went to Maine with her newborn and her husband to do Tucker Carlson's show, which she had forgotten."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "My son was born on May 1st. We were off air and then the first thing I did was I went with my newborn Roman and my husband up to Maine to do Tucker's show"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2651.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-22"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the release date of the host's interview on Tucker Carlson's show."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9899",
+   "header": "**C-9899** In the Maine interview the host said Epstein had worked for Israel since the 1980s",
+   "label": "In the Maine interview the host said Epstein had worked for Israel since the 1980s",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:49"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip of her July 2025 interview with Tucker Carlson, the host says Jeffrey Epstein had been working for Israel since the 1980s."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Since the 80s, Jeffrey Epste has been working for Israel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2651.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-9, N-22"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10023"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review released Epstein records for documented foreign-intelligence ties."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9900",
+   "header": "**C-9900** Tucker told the host he had just had dinner with Charlie and Erika Kirk in Maine",
+   "label": "Tucker told the host he had just had dinner with Charlie and Erika Kirk in Maine",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:27:15"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that after her interview, Tucker Carlson told her he had just had dinner with Charlie and Erika Kirk, who had just been there in Maine."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He said, \"I just had dinner with him and Erika. They were just here.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-22, N-1, N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10970"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask Tucker Carlson to confirm the date of the dinner; check the Kirks' July 2025 travel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9901",
+   "header": "**C-9901** Tucker said Erika Kirk was \"hardcore on the anti-Israel train\"",
+   "label": "Tucker said Erika Kirk was \"hardcore on the anti-Israel train\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:29"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host recalls Tucker Carlson saying that Erika Kirk was \"hardcore on the anti-Israel train\" and had gone in on the subject at dinner."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "She is like hardcore on the anti-Israel train and that she had gone in on dinner about everything"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-22, N-2, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10970"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask Tucker Carlson to confirm or deny the remark."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9902",
+   "header": "**C-9902** After the assassination Erika Kirk appeared with Bari Weiss saying anti-Israel people have \"brain rot\"",
+   "label": "After the assassination Erika Kirk appeared with Bari Weiss saying anti-Israel people have \"brain rot\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:47"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that soon after Charlie Kirk's death Erika Kirk was on stage with Bari Weiss saying anyone who does not support Israel has \"brain rot.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "as soon as Charlie passes away, she's up on stage with Bari Weiss saying anybody who doesn't support Israel has brain rot."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-278"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10970"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the CBS / Bari Weiss town hall transcript for the remark."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9903",
+   "header": "**C-9903** Erika Kirk had Kolvet deny the Catholic account and okayed Alex Clark calling the host a liar",
+   "label": "Erika Kirk had Kolvet deny the Catholic account and okayed Alex Clark calling the host a liar",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:08"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host alleges Erika Kirk instructed Andrew Kolvet to deny what the host said about Charlie Kirk and the Catholic church, and the next week okayed Alex Clark saying the host is a liar."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "she instructs um Andrew Kovets to deny what I said about Charlie in the Catholic church. Like literally the next week she okays Alex Clark coming out and saying I'm a liar."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-14, N-99, N-3, N-1"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare dates of Kolvet's denial and Clark's statement; seek TPUSA internal communications."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9904",
+   "header": "**C-9904** The Hamptons retreat was an intervention Erika Kirk attended",
+   "label": "The Hamptons retreat was an intervention Erika Kirk attended",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:33:05"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the August 5–6 Hamptons retreat, an influencer event sponsored by Bill Ackman, was described by Charlie Kirk as an intervention, and that Erika Kirk was present."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "This is Charlie Summit that Charlie himself described as an intervention that Erika was present at, but she would allow people to lie."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2649.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-2, N-37"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10673"
+    },
+    {
+     "k": "Supports",
+     "v": "C-79"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain attendee lists and Charlie Kirk's own descriptions of the Hamptons event."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9905",
+   "header": "**C-9905** Netanyahu offered to take TPUSA to the next level and Charlie declined",
+   "label": "Netanyahu offered to take TPUSA to the next level and Charlie declined",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:33:05"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says BB Netanyahu called Charlie Kirk offering to take Turning Point to the next level, that Kirk declined, and that she believes Trump said yes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "BB calls him, offers to take Turning Point to the next level in exchange for what? We still don't know. But Charlie declines."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2649.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-36, N-1, N-5"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10342"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Seek testimony from those aware of the Netanyahu call and any related offer documents."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9906",
+   "header": "**C-9906** Erika Kirk went to the August 15 Aspen retreat but not the meeting",
+   "label": "Erika Kirk went to the August 15 Aspen retreat but not the meeting",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:33:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that on August 15 Erika Kirk went to the Aspen investor retreat but did not attend the meeting itself, and that Charlie Kirk then appointed her a couple of weeks before he died, a timeline she says is \"not right.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Then August 15th, Erika goes to the Aster at the Aspen investor retreat, but she doesn't actually go to the meeting even though she's I guess going to be CEO or whatever."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2649.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10594"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask Aspen attendees whether Erika Kirk was in the room during the meeting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9907",
+   "header": "**C-9907** Erika Kirk was back in the office within two days of the assassination",
+   "label": "Erika Kirk was back in the office within two days of the assassination",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:10"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk was back in the office within two days, bringing her children there, and joined a Zoom call about six days after the shooting; she cites Elizabeth Lane's analysis of Erika's demeanour."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Within two days, Erika was back in the office walking around bringing her kids there."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-6"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10505"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Seek TPUSA staff accounts and building access records for September 12, 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9908",
+   "header": "**C-9908** Erika Kirk told the host that Andrew Kolvet went rogue",
+   "label": "Erika Kirk told the host that Andrew Kolvet went rogue",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:05"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk lied to her face by saying Andrew Kolvet \"went rogue.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The ability to lie to my face in the way that she lied to my face about saying that Andrew Kolvet went rogue."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-14, N-3"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Establish the date and context of the host's meeting with Erika Kirk and Kolvet's subsequent statements."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9909",
+   "header": "**C-9909** Under Erika Kirk TPUSA deepened its partnership with the IFCJ and invited Weiss and Shapiro to AmFest",
+   "label": "Under Erika Kirk TPUSA deepened its partnership with the IFCJ and invited Weiss and Shapiro to AmFest",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:40:29"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host, voicing Erika Kirk's approach, says that under her TPUSA asked Bari Weiss and Ben Shapiro to open at AmFest and went into a deeper partnership with the International Fellowship of Christians and Jews."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We're going into a deeper partnership with International Fellowship of Christian and Jews."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-278, N-97"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check AmFest 2025 speaker lists and any TPUSA–IFCJ partnership announcement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9910",
+   "header": "**C-9910** Bradley Hansell is Trump's under secretary for intelligence and security",
+   "label": "Bradley Hansell is Trump's under secretary for intelligence and security",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:41:20"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Bradley Hansell is Trump's appointed under secretary of defense for intelligence and security, one of the Pentagon's top intelligence officials."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he is Trump's appointed under secretary of defense for intelligence and security."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-433, N-5"
+    },
+    {
+     "k": "Supports",
+     "v": "C-9620"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm Hansell's title and confirmation record."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9911",
+   "header": "**C-9911** Reaching out to Brian Harpole produced a lawsuit rather than evidence",
+   "label": "Reaching out to Brian Harpole produced a lawsuit rather than evidence",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:42:15"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she cannot yet definitively state that Mitch Snow saw Brian Harpole, that she has seen no contrary evidence despite reaching out to Harpole, and that what she got was a lawsuit."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We have not seen any evidence to the contrary despite openly and kindly reaching out to Brian Harpole asking for that information. What we got was a lawsuit."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-266, N-361, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10373, N-10651, N-10367"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain Harpole's travel and location records for September 8–9, 2025 through the lawsuit's discovery."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9912",
+   "header": "**C-9912** Hansell flew Andrews–Colorado Springs–Tucson–Fort Huachuca, arriving September 8",
+   "label": "Hansell flew Andrews–Colorado Springs–Tucson–Fort Huachuca, arriving September 8",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:42:15"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Hansell's itinerary went from Joint Base Andrews to Colorado Springs, then to Davis-Monthan in Tucson, then to Fort Huachuca on September 8, and asks whom he picked up in Tucson."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And then he flew from Tucson to Fort Huachuca on a most crucial date um September 8th."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2652.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-433"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10671, N-10384"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the SAM702 manifest for the Tucson-to-Fort Huachuca leg."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9913",
+   "header": "**C-9913** The plane flew to El Paso on September 9 and stayed 4 hours 10 minutes",
+   "label": "The plane flew to El Paso on September 9 and stayed 4 hours 10 minutes",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:43:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that on September 9 the plane flew from Fort Huachuca to El Paso, arriving at 1:20 p.m. local, stayed on the ground 4 hours 10 minutes, and then returned to Joint Base Andrews."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "That same plane then flies from Fort Huachuca to El Paso and arrives at 1:20 p. m. local. Remains on the ground for 4 hours and 10 minutes"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2652.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-433"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10671"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pull ADS-B data for SAM702 on September 9, 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9914",
+   "header": "**C-9914** Hansell's 19-hour Fort Huachuca stop was the longest of the trip",
+   "label": "Hansell's 19-hour Fort Huachuca stop was the longest of the trip",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:43:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Hansell stayed 19 hours at Fort Huachuca, the longest stop of the trip, overnight, including a 20-minute helicopter tour of the border before leaving for El Paso; Colorado Springs was second at 16 hours."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Bradley Hansell remained on the ground the longest there for 19 hours. That's the longest stop in his trip."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2652.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-433"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10671"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain Fort Huachuca visitor and lodging records for Hansell on September 8–9, 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9915",
+   "header": "**C-9915** Mitch Snow is convinced he saw Erika Kirk leaving a Fort Huachuca hotel on September 8",
+   "label": "Mitch Snow is convinced he saw Erika Kirk leaving a Fort Huachuca hotel on September 8",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says September 8 is the day Mitch Snow is convinced he saw Erika Kirk leaving a hotel at Fort Huachuca, and asks which hotel Hansell stayed at."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "September 8th is significant because it's the day that Mitch Snow is convinced that he saw Erika Kirk at Fort Huachuca leaving a hotel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-361, N-2, N-433"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10417, N-10367"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain Fort Huachuca lodging registers for September 7–9, 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9916",
+   "header": "**C-9916** Host's team filed a FOIA request for Hansell's travel logs",
+   "label": "Host's team filed a FOIA request for Hansell's travel logs",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her team filed a FOIA request for Hansell's travel logs to learn who was aboard with him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "So, he decided to file an FOIA request for his travel logs."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2653.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-433, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10700, N-10671"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Track the FOIA request number and status."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9917",
+   "header": "**C-9917** The FOIA office invoked unusual circumstances, including inter-agency consultation",
+   "label": "The FOIA office invoked unusual circumstances, including inter-agency consultation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:45:15"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The FOIA response the host reads says it cannot respond within the 20-day statutory period because of unusual circumstances, which it defines to include consultation with other agencies or Department of War components with a substantial interest."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we will not be able to respond within the FOIA's 20-day statutory time period as there are unusual circumstances which impact our ability to quickly process your request."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2653.1"
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10700, N-10671"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask the FOIA office which agencies are being consulted, and appeal the delay."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9918",
+   "header": "**C-9918** Host says Hansell's flight was booked from his own office",
+   "label": "Host says Hansell's flight was booked from his own office",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:46:37"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Hansell works for the Department of War and that she confirmed the flight was booked from his office, so the geographic and volume exceptions do not apply."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He works for the Department of War and it was the flight was booked from his office. I've confirmed that."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2653.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-433"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10888"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the SAM702 mission request and booking office from the Air Force's 89th Airlift Wing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9919",
+   "header": "**C-9919** The request sits in a complex queue of about 3,534 open requests",
+   "label": "The request sits in a complex queue of about 3,534 open requests",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:32"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "According to the FOIA response, the request was placed in the complex processing queue, and the office's workload is approximately 3,534 open requests."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Our current administrative workload is approximately 3,534 open requests."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2653.1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10700"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the agency's annual FOIA report for its complex-queue backlog."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9920",
+   "header": "**C-9920** An X trend said Loomer confronted the host on her show",
+   "label": "An X trend said Loomer confronted the host on her show",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:52:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host shows an X trend titled \"Loomer confronts Owens on show over Kirk conspiracy theories\", which said Loomer appeared in person and that the host mocked Loomer's receipts; the host mocks the summary."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Check this out on X. Loomer confronts Owens on show over Kirk conspiracy theories."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2654.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-60, N-3"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive the X trend text and compare it with the episode in which the receipt segment aired."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9921",
+   "header": "**C-9921** Erika Kirk was heckled as a \"pedophile protector\" at the Women's Leadership Summit",
+   "label": "Erika Kirk was heckled as a \"pedophile protector\" at the Women's Leadership Summit",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:53:58"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the clip shows the end of Erika Kirk's Women's Leadership Summit speech, when she was heckled and called a \"pedophile protector.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "This is like the end of her speech when she got heckled and called a pedophile protector."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2655.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10505"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain unedited footage of the Women's Leadership Summit session."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9922",
+   "header": "**C-9922** Host says TPUSA was always going to push out Tucker Carlson and Megyn Kelly",
+   "label": "Host says TPUSA was always going to push out Tucker Carlson and Megyn Kelly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:56:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Responding to a viewer comment that Tucker Carlson said TPUSA did not invite him this year, the host says there was no question they were going to push out Tucker and Megyn Kelly."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Well, there was no question they were going to, you know, push out Tucker, push out Megan."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2656.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-22, N-46"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10268, N-10000"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare TPUSA 2025 and 2026 speaker lists and Carlson's statement on not being invited."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9923",
+   "header": "**C-9923** Host disputes a US magazine report that Charlie was afraid to talk to her",
+   "label": "Host disputes a US magazine report that Charlie was afraid to talk to her",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:57:49"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host disputes a US magazine article saying Charlie Kirk was afraid to talk to her, saying they traveled together for years."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The US magazine article, Charlie was afraid to talk to Candace."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the magazine article and compare it with travel and message records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9924",
+   "header": "**C-9924** Host says Charlie Kirk's parents were always fiercely private",
+   "label": "Host says Charlie Kirk's parents were always fiercely private",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:58:44"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Responding to a viewer asking why Charlie Kirk's parents are not speaking out, the host says they were always fiercely private, that she met them only a handful of times, and that she does not think they were forced to stand back."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They were always really private, so that didn't strike me as a surprise at all. They were fiercely private."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2656.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review public appearances and statements by Charlie Kirk's parents before and after September 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9925",
+   "header": "**C-9925** Host invites Kirk family members to reach out off the record",
+   "label": "Host invites Kirk family members to reach out off the record",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:00:06"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says some members of Charlie Kirk's family watch and support the show, and invites them to reach out, promising to keep it off the record; she then misspeaks the \"more tips\" address while meaning to plug support for the show."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I do know that some people in his family do watch and do support. Reach out. I'd love to talk to you. I'd keep it all off record. I promise."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2657.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Log any contact from Kirk family members through the show's tip channels."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 6. Meme Register",
+    ""
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-92",
+   "header": "**M-92** (meme) Paramount Not So Tactical",
+   "label": "(meme) Paramount Not So Tactical",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:08:17"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Take a listen to Dan Bongino pull the Paramount not so tactical."
+    },
+    {
+     "k": "Context",
+     "v": "Host reuses her nickname as a verb for Bongino accidentally confirming Carlson's point with his own texts."
+    },
+    {
+     "k": "Tags",
+     "v": "roast, nickname, comedy, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-82",
+   "header": "**M-82** (meme) Make That Make Sense",
+   "label": "(meme) Make That Make Sense",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:17:29"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Make it make sense. I'm open to other ideas. I don't want to be a conspiracy theory. Make that make sense."
+    },
+    {
+     "k": "Context",
+     "v": "Host demands an explanation for Trump scolding Charlie Kirk over speakers calling out Epstein."
+    },
+    {
+     "k": "Tags",
+     "v": "catchphrase, rhetorical_challenge, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-19",
+   "header": "**M-19** (meme) Go Max",
+   "label": "(meme) Go Max",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:18:45"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Charlie tells him to go Max despite the fact that donors are freaking out. He tells him to go Max."
+    },
+    {
+     "k": "Context",
+     "v": "Host recounts Charlie Kirk urging Tucker Carlson to go all out at SAS."
+    },
+    {
+     "k": "Tags",
+     "v": "catchphrase, charlie_kirk, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:21:49"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "She's telling Tucker to go Max."
+    },
+    {
+     "k": "Context",
+     "v": "Host repeats the phrase while contrasting Erika Kirk's speech with the pressure on Charlie."
+    },
+    {
+     "k": "Tags",
+     "v": "catchphrase, charlie_kirk, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-7",
+   "header": "**M-7** (meme) Catholic/Evangelical/Jewish identity flip",
+   "label": "(meme) Catholic/Evangelical/Jewish identity flip",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:19:42"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "we know Erika bounces sometimes she's Catholic sometimes she's you know Jewish sometimes she's um Judeo-Christian and this day she was Calvary Chapel"
+    },
+    {
+     "k": "Context",
+     "v": "Host on Erika Kirk calling Calvary Chapel her Sunday church in the July 14 speech."
+    },
+    {
+     "k": "Tags",
+     "v": "identity_flip, erika_kirk, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-1",
+   "header": "**M-1** (meme) Grieving Widow",
+   "label": "(meme) Grieving Widow",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:30:23"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "She's not a She wasn't a grieving widow in August and July."
+    },
+    {
+     "k": "Context",
+     "v": "Host argues Erika Kirk's pre-assassination conduct shows she was playing roles before she was widowed."
+    },
+    {
+     "k": "Tags",
+     "v": "erika_kirk, framing, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:32:16"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "She is whatever she needs to be on her way to empowerment. She was not a grieving widow."
+    },
+    {
+     "k": "Context",
+     "v": "Host repeats the line, citing Elizabeth Lane."
+    },
+    {
+     "k": "Tags",
+     "v": "erika_kirk, framing, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-86",
+   "header": "**M-86** (meme) That's My Opinion, I'm Sticking to It",
+   "label": "(meme) That's My Opinion, I'm Sticking to It",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:33:45"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "My opinion, I'm sticking to it, especially after reading that Epstein piece."
+    },
+    {
+     "k": "Context",
+     "v": "Host stands by her view that Trump said yes to Netanyahu while Charlie said no."
+    },
+    {
+     "k": "Tags",
+     "v": "catchphrase, stance, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-113",
+   "header": "**M-113** (meme) FOIA FU",
+   "label": "(meme) FOIA FU",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:47:32"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "This is an FOI AFU. An FOFU. That's what it is. I didn't know we could file for that."
+    },
+    {
+     "k": "Context",
+     "v": "Host mocks the FOIA office's indefinite-delay response on Hansell's SAM702 records."
+    },
+    {
+     "k": "Tags",
+     "v": "comedy, foia, wordplay"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:47:32"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "we can your number 3534 fifu Candace."
+    },
+    {
+     "k": "Context",
+     "v": "Host reprises the bit while paraphrasing the agency's queue position."
+    },
+    {
+     "k": "Tags",
+     "v": "comedy, foia, wordplay"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-111",
+   "header": "**M-111** (meme) Larry Loomer",
+   "label": "(meme) Larry Loomer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:52:09"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "That was a true Lumer receipt. We were happy to have Loomer here and we're grateful that X picked up the trend and recognized that Larry Loomer was in office."
+    },
+    {
+     "k": "Context",
+     "v": "Host mockingly thanks \"Larry Loomer\" for \"joining\" the show after an X trend summarised Loomer's confrontation."
+    },
+    {
+     "k": "Tags",
+     "v": "roast, nickname, comedy, receipts"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-75",
+   "header": "**M-75** (meme) I'll Say Allegedly",
+   "label": "(meme) I'll Say Allegedly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:55:18"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I totally forgot Erika was anti-Israel on July. Uh allegedly."
+    },
+    {
+     "k": "Context",
+     "v": "Host tacks on \"allegedly\" after restating Tucker Carlson's account of Erika Kirk's views."
+    },
+    {
+     "k": "Tags",
+     "v": "hedge, comedy, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-28",
+   "header": "**M-28** (meme) Christ is King",
+   "label": "(meme) Christ is King",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:58:44"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Totally agree. Christ is king. Truth is winning."
+    },
+    {
+     "k": "Context",
+     "v": "Host affirms a viewer comment ending \"Go, Max. Christ is king.\""
+    },
+    {
+     "k": "Tags",
+     "v": "refrain, comments, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-12",
+   "header": "**M-12** (meme) Decentralized Intelligence Agency",
+   "label": "(meme) Decentralized Intelligence Agency",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "01:00:06"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Reach out. I'd love to talk to you. I'd keep it all off record. I promise. Anyway, you guys, if you'd like to support the show, you can head over to more tips@candice. com."
+    },
+    {
+     "k": "Context",
+     "v": "Host appeals to Kirk family members to reach out off the record, then misspeaks the tips address while plugging support for the show."
+    },
+    {
+     "k": "Tags",
+     "v": "dia, tips, source_appeal"
+    },
+    {
+     "k": "Confidence",
+     "v": "medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 7. Optional Flags",
+    "",
+    "- **Duration**: the skeleton's Video Timestamp Range (00:56:29) did not match the transcript front matter (1:02:38); it has been set to 00:00:00–01:02:38. The skeleton's Ledger Summary claim-range lines and its stray template heading were replaced per spec.",
+    "- **Artifacts referenced but not shown or uncertain**: A-2649.1 (host's timeline; plotted on air, presumably on screen), A-2650.2 (James Kaddis PragerU video; \"This is literally his Prageru video\" suggests it was shown), A-2657.1 (verbal appeal only). The New York Times article, US magazine article and Elizabeth Lane's tweet are referenced; only the NYT text is read aloud (A-2648.1).",
+    "- **DIA scan**: one keyword hit, \"more tips@candice. com\" (01:00:06). The host misspoke it while meaning to plug support for the show, and corrected herself (\"Why would you guys give me more tips?\"). It directly follows her appeal to Kirk family members to \"Reach out ... I'd keep it all off record\". It is treated as a DIA beat (C-9925, A-2657.1, M-12), but the integrator may prefer to drop it given the slip. \"candace Owens. com\" at the same mark is a support/merch plug, not a DIA beat. The 19:42 remark \"I've received so many emails about him\" relays past tips without a request and is not inscribed.",
+    "- **Name matching**: \"Mario Nofl\" / \"Mario Knoff\" mapped to Mario Nawfal (title reused from staging episode 109). \"Katherine Loccastro\" reuses the staging title Katherine Locastro (episode 084). \"Derek Nerk\" mapped to N-418 Derek Niekerk (earlier drafts list Niekerk on the same Long Beach flight). \"Jonathan Barcelo\" is new (earlier draft spelling \"Jonathan Barcelo\"). \"James Kaddis\" / \"James Kaddis\" is minted as N-665 James Kaddis; the real spelling may be Kaddis and is unverified. \"Bradley Hansell\" maps to N-433 Bradley Hansell. \"Brooke Singman\" (named by Bongino) is minted as N-673 Brooke Singman. \"Chris Ray\" maps to N-265 Christopher Wray. \"Stacy taps on their shoulder\" (28:47) probably refers to Stacy Sheridan (existing node), but she is not cited because only the first name is given. \"Pete Hegsth\" (00:43, Pete Hegseth, existing node) is named only in passing and is not cited. \"Andy Shaker\", \"Jasmine\" and \"Justin\" in the Bongino clip are unidentified show staff and not minted. \"Elizabeth Lane\" is mapped to N-6.",
+    "- **Transcription ambiguities**: \"Fort Huachuca\" = Fort Huachuca; \"ZAS\" = SAS; \"why Rei\" = Yrefy; \"Aster at the Aspen investor retreat\" is kept as spoken; \"FOI AFU\" / \"FOFU\" / \"fifu\" are kept as spoken. The host's \"Larry Loomer\" is a deliberate nickname for Laura Loomer (N-60).",
+    "- **Cross-episode links**: C-9895 Supports C-2668 (July 18 UVU request), C-9904 Supports C-79 (Hamptons intervention), C-9910 Supports C-9620 (Hansell's title). Possible links left out: C-5164 (episode 58, Fort Huachuca-affiliated individuals saw Erika at the base; different source from Mitch Snow) and C-7996 (episode 89, Trump said to be satisfied with the Butler investigation; related but a different proposition).",
+    "- **Not inscribed as claims (admission test)**: \"Erika's a psychopath\" and related characterisations; \"Trump betrayed Charlie Kirk\"; \"Trump is very vain\"; the two-option staged-versus-warning framing (only the host's preferred option is inscribed, as C-9877); Bongino \"is just lying\" and the demeanour reading; \"Kash Patel ... constantly looks like he is in a state of terror\"; \"Trump, I believe, said yes\" (kept only as context in C-9905); \"the organization died with Charlie\"; rhetorical questions on who Hansell picked up or dropped off; the viewer joke about Ivanka and an Albanian nuclear bomb.",
+    "- **Minor beats not inscribed**: the host's sister on grief and memory loss; the host not answering calls or texts; the book club postponed to Monday; the \"six million\" mug merch; the host's daughter's fever; a viewer request about a TPUSA audit (\"Leah files\").",
+    "- **Sponsor reads** (Preborn, Dose, Cozy Earth and a home-loan ad) are excluded.",
+    ""
+   ]
+  }
+ ]
+}

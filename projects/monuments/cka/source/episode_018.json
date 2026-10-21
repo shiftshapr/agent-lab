@@ -1,0 +1,9048 @@
+{
+ "format": "cka-source/1",
+ "episode": 18,
+ "blocks": [
+  {
+   "kind": "text",
+   "lines": [
+    "## 1. Meta-Data",
+    "",
+    "- **Episode**: 18",
+    "- **Monument**: cka",
+    "- **CKA seq**: 18",
+    "- **YouTube id**: pc3pxRyNFZk",
+    "- **Candace Ep**: 251",
+    "- **Source**: Candace Owens YouTube",
+    "- **Video Timestamp Range**: 00:00:00–01:06:28",
+    "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
+    "- **Model Version**: MiniMax-M2.5",
+    "- **Transcript SHA-256**: 981eded19a8e9c778e179bd351be0fdb2fc90685371d2c9f8d34c238ce5cc8ce",
+    "",
+    "- **Episode Ledger Summary**:",
+    "  - Tip-minted Nodes (supplement_2026-10g): N-11375, N-11376, N-11377",
+    "  - Hole-minted Nodes (reintro-ep018): N-10454, N-10799",
+    "  - Tip-minted Nodes (reintro-ep018): N-869, N-11337",
+    "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
+    "  - Claim Range: C-1608–C-1709",
+    "  - New Nodes Introduced: N-174, N-175, N-176, N-178, N-10181, N-10182, N-10183, N-10185, N-10186, N-10188, N-10189, N-10190",
+    "  - Reused Nodes Appearing: N-10180, N-10184, N-10187, N-22, N-36, N-38, N-46, N-73, N-126, N-10000, N-10006, N-10012, N-10014, N-10027, N-10055, N-10063, N-10065, N-10095, N-10134, N-10139, N-10164, N-10169, N-10172, N-10175, N-10192, N-10315, N-10350",
+    "",
+    "This episode advances the medical and evidentiary thread of the investigation by introducing what the host describes as multi-source verified intelligence about the trajectory of the bullet recovered from Charlie Kirk. The host reads aloud an Andrew Kolvet tweet purporting to convey a surgeon's account of the bullet path, then asserts – as a fact-checked finding – that Charlie was shot from the front, that the bullet did not exit, and that no .30-06 projectile was logged on the death certificate., N-11",
+    "",
+    "A second investigative strand focuses on the on-the-ground witnesses: the viral clip of a witness being physically prevented from speaking, Fox News interviews with event volunteer Cooper Brown (affiliated with the Leadership Institute), and Jason Chaffetz's eyewitness statement locating the shot close and ahead of Charlie. The host additionally raises questions about Caldera Engineering's staffing and corporate history.",
+    "",
+    "A third strand concerns flight activity on the day of the shooting: a military tail-numbered plane (N1098L) allegedly contracted by Las Vegas Aviation LLC, and a second plane associated with Derek Maxfield whose ADSB transponder status is contested between Kash Patel and Derek Maxfield's public statements. The episode closes with a Josh Hammer text-message exchange and commentary on the Israel/Hamas peace announcement.",
+    "",
+    "The episode is structurally important as the first episode in the series to present the front-shot / no .30-06 finding as a \"verified\" assertion, and to introduce the dual-plane line of inquiry.",
+    "",
+    "## 6. Meme Register",
+    ""
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-28",
+   "header": "**M-28** (meme) Christ is King",
+   "label": "(meme) Christ is King",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "01:02:48"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "ub and a loyal fan and we never miss an episode. We love you so much. Christ is king. Tell her thank you. We're definitely a bit wild in the book c..."
+    },
+    {
+     "k": "Context",
+     "v": "Later reuse of Christ is King in CKA seq 18."
+    },
+    {
+     "k": "Tags",
+     "v": "faith, closing, chat_elevate, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-12",
+   "header": "**M-12** (meme) Decentralized Intelligence Agency",
+   "label": "(meme) Decentralized Intelligence Agency",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "01:05:14"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "solved. So, if you'd like to support us, obviously, you can join our decentralized intelligence agency. It is truly because people around the world..."
+    },
+    {
+     "k": "Context",
+     "v": "DIA tip-network refrain. (CKA seq 18)"
+    },
+    {
+     "k": "Tags",
+     "v": "reuse, pass2"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:28:07"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "...ks explain to us what it is that you know in this decentralized intelligent agency, given the information that I am telling you, okay? That it had it unless we have a bulle..."
+    },
+    {
+     "k": "Context",
+     "v": "DIA / DCIA brand line from corrected transcript (CKA seq 18)."
+    },
+    {
+     "k": "Tags",
+     "v": "tips_network, brand_joke, transcript_backfill"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:19:26"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "please do send it to us at mortips@candisowens. com."
+    },
+    {
+     "k": "Context",
+     "v": "Host asks for tips about the medical examiner by email."
+    },
+    {
+     "k": "Tags",
+     "v": "dia, tips, tip line"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 4"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:33:34"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Again, more tips at candaceowens. com."
+    },
+    {
+     "k": "Context",
+     "v": "Host asks for tips about Caldera Engineering by email."
+    },
+    {
+     "k": "Tags",
+     "v": "dia, tips, tip line"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 5"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "01:05:14"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Tips@canaryswans. com or moretips@canaryswans. com."
+    },
+    {
+     "k": "Context",
+     "v": "Closing request for tips by email before the host's break."
+    },
+    {
+     "k": "Tags",
+     "v": "dia, tips, tip line"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-190",
+   "header": "**M-190** (meme) Superman Neck",
+   "label": "(meme) Superman Neck",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:00:00"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I can now officially debunk that Marvel storyline"
+    },
+    {
+     "k": "Context",
+     "v": "Host opens by dismissing the healthy-bones miracle explanation for the stopped bullet."
+    },
+    {
+     "k": "Tags",
+     "v": "man of steel, bone density"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:06:02"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "where there are men of steel that are able, because they're young, to stop 3,000 lb of energy that is coming at them."
+    },
+    {
+     "k": "Context",
+     "v": "Host mocks the idea that a young man's bones could stop the bullet."
+    },
+    {
+     "k": "Tags",
+     "v": "man of steel, bone density"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:06:02"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Enough push-ups and asparagus, and you too can stop 3,000 lb of energy coming at you."
+    },
+    {
+     "k": "Context",
+     "v": "Host extends the joke about the surgeon's bone-density explanation."
+    },
+    {
+     "k": "Tags",
+     "v": "man of steel, bone density"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-321",
+   "header": "**M-321** (meme) Bullet Doing the Worm",
+   "label": "(meme) Bullet Doing the Worm",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:28:51"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "unless we have a bullet that's doing the worm like a WWE wrestler, okay? Bullets fire straight."
+    },
+    {
+     "k": "Context",
+     "v": "Host mocks any trajectory theory that requires the bullet to bend, asking ballistics people to map the straight path."
+    },
+    {
+     "k": "Tags",
+     "v": "ballistics, humor"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-322",
+   "header": "**M-322** (meme) Substitute Teachers",
+   "label": "(meme) Substitute Teachers",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:44:09"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "And we're not going to be nice to any substitute teachers they try to throw in there and try to calm down."
+    },
+    {
+     "k": "Context",
+     "v": "Host extends the high school class metaphor for the online investigation community to officials trying to calm it down."
+    },
+    {
+     "k": "Tags",
+     "v": "investigation community, humor"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 3. Artifact Register",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1251",
+   "header": "**A-1251** Andrew Kolvet Tweet Bundle",
+   "label": "Andrew Kolvet Tweet Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1251.1",
+   "header": "**A-1251.1** Andrew Kolvet tweet (read aloud) describing a surgeon who worked on Charlie stating the bullet should have exited and characterizing Charlie's bone density as \"man of steel\"",
+   "label": "Andrew Kolvet tweet (read aloud) describing a surgeon who worked on Charlie stating the bullet should have exited and characterizing Charlie's bone density as \"man of steel\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:02:50–00:03:30"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (paraphrase read aloud; tweet itself not displayed)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1610, C-1611, N-14, N-10180*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1252",
+   "header": "**A-1252** Event Witness Interdiction Clip Bundle",
+   "label": "Event Witness Interdiction Clip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1252.1",
+   "header": "**A-1252.1** Viral video clip showing a witness being physically pushed/shoved and prevented from speaking immediately after the shooting",
+   "label": "Viral video clip showing a witness being physically pushed/shoved and prevented from speaking immediately after the shooting",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:08:44–00:09:30"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1620, C-1626, N-174, N-10182*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1253",
+   "header": "**A-1253** Cooper Brown Interview Bundle",
+   "label": "Cooper Brown Interview Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1253.1",
+   "header": "**A-1253.1** Cooper Brown interview on Jesse Watters / Fox News the night of the shooting, identifying himself as a Leadership Institute volunteer assigned to manage the microphone",
+   "label": "Cooper Brown interview on Jesse Watters / Fox News the night of the shooting, identifying himself as a Leadership Institute volunteer assigned to manage the microphone",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:13:06–00:13:58"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1253.2",
+   "header": "**A-1253.2** Cooper Brown follow-up interview on Fox News the next day, describing 30 student volunteers and his microphone duties",
+   "label": "Cooper Brown follow-up interview on Fox News the next day, describing 30 student volunteers and his microphone duties",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:14:50–00:15:30"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1628, C-1629, C-1630, C-1631, C-1633, C-1634, N-174, N-175, N-10182*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1254",
+   "header": "**A-1254** Jason Chaffetz Fox News Clip Bundle",
+   "label": "Jason Chaffetz Fox News Clip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1254.1",
+   "header": "**A-1254.1** Jason Chaffetz on Fox News describing the shot as appearing \"in close proximity straight ahead\" and rebutting the far-building theory",
+   "label": "Jason Chaffetz on Fox News describing the shot as appearing \"in close proximity straight ahead\" and rebutting the far-building theory",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:23:00–00:24:35"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1649, N-175, N-10180, N-10181*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1255",
+   "header": "**A-1255** Phil Lyman Footage Bundle",
+   "label": "Phil Lyman Footage Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1255.1",
+   "header": "**A-1255.1** Phil Lyman footage showing two women outside the building stating they heard two shots",
+   "label": "Phil Lyman footage showing two women outside the building stating they heard two shots",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:27:27–00:28:07"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1658, N-10181*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1256",
+   "header": "**A-1256** Josh Hammer Text Messages Bundle",
+   "label": "Josh Hammer Text Messages Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1256.1",
+   "header": "**A-1256.1** Josh Hammer publicly released text exchange between himself and Charlie Kirk: \"Charlie Kirk, thank you for your help guys. A totally standard response…\" plus Hammer's reply asking about his \"first stop tomorrow\"",
+   "label": "Josh Hammer publicly released text exchange between himself and Charlie Kirk: \"Charlie Kirk, thank you for your help guys. A totally standard response…\" plus Hammer's reply asking about his \"first stop tomorrow\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:45:21–00:46:20"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1687, C-1688, N-14*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1257",
+   "header": "**A-1257** Trump Truth Social Statement Bundle",
+   "label": "Trump Truth Social Statement Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1257.1",
+   "header": "**A-1257.1** Trump Truth Social post announcing \"Israel and Hamas have both signed off on the first phase of our peace plan,\" with hostage release and troop withdrawal language",
+   "label": "Trump Truth Social post announcing \"Israel and Hamas have both signed off on the first phase of our peace plan,\" with hostage release and troop withdrawal language",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:48:09–00:48:45"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1693*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1258",
+   "header": "**A-1258** Jared Kushner Harvard Clip Bundle",
+   "label": "Jared Kushner Harvard Clip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1258.1",
+   "header": "**A-1258.1** Jared Kushner speaking at Harvard (Feb 15, 2024) describing Gaza as \"waterfront property\" and stating he would \"move the people out and then clean it up\"",
+   "label": "Jared Kushner speaking at Harvard (Feb 15, 2024) describing Gaza as \"waterfront property\" and stating he would \"move the people out and then clean it up\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:49:13–00:50:41"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1696, N-178*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1259",
+   "header": "**A-1259** Matt Walsh Commentary Clip Bundle",
+   "label": "Matt Walsh Commentary Clip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1259.1",
+   "header": "**A-1259.1** Matt Walsh commenting on Charlie Kirk's \"I have no choice but to leave the pro-Israel cause\" text message, calling it \"too on the nose\" and urging self-reflection by pro-Israel advocates",
+   "label": "Matt Walsh commenting on Charlie Kirk's \"I have no choice but to leave the pro-Israel cause\" text message, calling it \"too on the nose\" and urging self-reflection by pro-Israel advocates",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:53:09–00:53:57"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1699*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3284",
+   "header": "**A-3284** Decentralized Intelligence Agency Tip Line Bundle",
+   "label": "Decentralized Intelligence Agency Tip Line Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3284.1",
+   "header": "**A-3284.1** Host verbal call for tips about the medical examiner at the tip email address (mis-transcribed address)",
+   "label": "Host verbal call for tips about the medical examiner at the tip email address (mis-transcribed address)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"please do send it to us at mortips@candisowens. com.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:19:26"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1640, N-3, N-176*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3284.2",
+   "header": "**A-3284.2** Host verbal call for tips about Caldera Engineering at candaceowens.com",
+   "label": "Host verbal call for tips about Caldera Engineering at candaceowens.com",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Again, more tips at candaceowens. com.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:33:34"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1670, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3284.3",
+   "header": "**A-3284.3** Host verbal call for tips and invitation to join the decentralized intelligence agency at the closing (addresses mis-transcribed)",
+   "label": "Host verbal call for tips and invitation to join the decentralized intelligence agency at the closing (addresses mis-transcribed)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Tips@canaryswans. com or moretips@canaryswans. com.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "01:05:14"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1707, C-1709, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3285",
+   "header": "**A-3285** Rear Camera Footage of Charlie Bundle",
+   "label": "Rear Camera Footage of Charlie Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3285.1",
+   "header": "**A-3285.1** Host verbal reference to the footage from behind Charlie that she says she watched (not shown in this episode)",
+   "label": "Host verbal reference to the footage from behind Charlie that she says she watched (not shown in this episode)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:25:40"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1652, C-1653, N-3, N-1, N-10799*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3286",
+   "header": "**A-3286** Josh Hammer Hamptons Statement Bundle",
+   "label": "Josh Hammer Hamptons Statement Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3286.1",
+   "header": "**A-3286.1** Host verbal reference to Josh Hammer's public statement about the Hamptons retreat (not pulled up on air)",
+   "label": "Host verbal reference to Josh Hammer's public statement about the Hamptons retreat (not pulled up on air)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:44:20"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1684, C-1685, N-55, N-38*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 4. Node Register",
+    ""
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-14",
+   "header": "**N-14** Andrew Kolvet",
+   "label": "Andrew Kolvet",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Social media commentator who posted a long tweet recounting a conversation with a surgeon who worked on Charlie."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "3"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1251.1, C-1610, C-1611, C-1622, N-10180*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-174",
+   "header": "**N-174** Cooper Brown",
+   "label": "Cooper Brown",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Event volunteer who held the microphone at the Utah Valley event and gave multiple Fox News interviews; identified by host as not a TPUSA employee, not a UVU student, and as affiliated with the Leadership Institute."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "6"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1252.1, A-1253.1, A-1253.2, C-1620, C-1626, C-1628, C-1629, C-1630, C-1631, C-1633, C-1634, N-175, N-10182*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-175",
+   "header": "**N-175** Jason Chaffetz",
+   "label": "Jason Chaffetz",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Former politician and Fox News contributor who attended the Utah Valley event and provided eyewitness account that the shot came from close proximity straight ahead."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1254.1, C-1649, N-10180, N-10181*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-176",
+   "header": "**N-176** Deirdre Amaro",
+   "label": "Deirdre Amaro",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Utah State Medical Examiner as of May 2024, per host's research; reportedly from Missouri with prior California work."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1638, N-10183*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-94",
+   "header": "**N-94** Derek Maxfield",
+   "label": "Derek Maxfield",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Public figure (per host) who publicly addressed the second plane's ADSB transponder status, disputing Kash Patel's account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1679, C-1681, N-10186*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-163",
+   "header": "**N-163** Matt Walsh",
+   "label": "Matt Walsh",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Commentator whose reaction to the released Josh Hammer / Charlie Kirk text exchange is read/played."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1259.1, C-1699*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-178",
+   "header": "**N-178** Jared Kushner",
+   "label": "Jared Kushner",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Featured via Harvard speech clip regarding Gaza's \"waterfront property.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1258.1, C-1696*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10180",
+   "header": "**N-10180** Bullet Trajectory and Caliber Verification",
+   "label": "Bullet Trajectory and Caliber Verification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Persistent target",
+     "v": "whether the recovered projectile was a .30-06, where the fragment was recovered, and whether the death certificate reflects it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "4"
+    },
+    {
+     "k": "Claim Count",
+     "v": "3"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1251.1, A-1254.1, C-1612, C-1615, C-1617, N-14, N-175*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10181",
+   "header": "**N-10181** Multiple Shooter Theory",
+   "label": "Multiple Shooter Theory",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Persistent target",
+     "v": "whether more than one shooter / weapon was involved at the Utah Valley event."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "4"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1254.1, A-1255.1, C-1649, C-1658, C-1622, N-175*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10182",
+   "header": "**N-10182** Cooper Brown Identity Verification",
+   "label": "Cooper Brown Identity Verification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Persistent target",
+     "v": "verifying Cooper Brown's institutional affiliation, biographical claims, and presence at the event."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "3"
+    },
+    {
+     "k": "Claim Count",
+     "v": "4"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1252.1, A-1253.1, A-1253.2, C-1620, C-1626, C-1628, C-1633, C-1634, N-174, N-175*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10183",
+   "header": "**N-10183** Medical Examiner Inquiry – Weiss Amaro",
+   "label": "Medical Examiner Inquiry – Weiss Amaro",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Persistent target",
+     "v": "full background, prior work history, and case-handling record of the Utah state medical examiner."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1638, N-176*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10184",
+   "header": "**N-10184** Caldera Engineering Background Investigation",
+   "label": "Caldera Engineering Background Investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Persistent target",
+     "v": "founders, employees, Israel project history, and connections to other named figures in the series."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "3"
+    },
+    {
+     "k": "Claim Count",
+     "v": "3"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1664, C-1667, C-1665, C-1669*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10185",
+   "header": "**N-10185** Plane N1098L Investigation",
+   "label": "Plane N1098L Investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Persistent target",
+     "v": "chain of custody, contracting entity, and purpose of military tail-numbered aircraft seen near Utah on 9/10."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "3"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1671, C-1672, C-1673, N-10189*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10186",
+   "header": "**N-10186** Plane 888 / Maxfield Plane Investigation",
+   "label": "Plane 888 / Maxfield Plane Investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Persistent target",
+     "v": "ADSB transponder status, FBO destination change, and conflicting accounts from Kash Patel and Derek Maxfield."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "4"
+    },
+    {
+     "k": "Claim Count",
+     "v": "5"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1675, C-1676, C-1677, C-1678, C-1679, C-1681, C-1683, N-94*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10187",
+   "header": "**N-10187** Josh Hammer Text Messages Context",
+   "label": "Josh Hammer Text Messages Context",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Persistent target",
+     "v": "chronological placement and substantive content of the released text exchange relative to Charlie Kirk's known Israel-related shift."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1256.1, C-1687, C-1688, N-14, N-163*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10188",
+   "header": "**N-10188** Leadership Institute (entity)",
+   "label": "Leadership Institute (entity)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Organization identified by Cooper Brown as his employer and described by host as working \"hand-in-hand\" with TPUSA, YAL, and Students for Life on conservative coalition events."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1253.1, C-1628, N-174*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10189",
+   "header": "**N-10189** Las Vegas Aviation LLC (entity)",
+   "label": "Las Vegas Aviation LLC (entity)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Company identified by host as the owner/contractor of plane N1098L."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1672, N-10185*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10190",
+   "header": "**N-10190** Signature FBO / Million Air FBO (entity cluster)",
+   "label": "Signature FBO / Million Air FBO (entity cluster)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Two fixed-base operators referenced in connection with plane 888's last-minute destination change and contradicting employee statements."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1681, C-1683, N-10186*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11",
+   "header": "**N-11** Tyler Bowyer",
+   "label": "Tyler Bowyer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Person"
+    },
+    {
+     "raw": "TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1669*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-1",
+   "header": "**N-1** Charlie Kirk",
+   "label": "Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of the assassination; the host discusses his wound, his texts and his Catholicism."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1609, C-1613, C-1618, C-1637, C-1642, C-1643, C-1645, C-1647, C-1652, C-1653, C-1660, C-1661, C-1674, C-1684, C-1685, C-1689, C-1698, C-1702, C-1704*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-3",
+   "header": "**N-3** Candace Owens",
+   "label": "Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host; speaks for herself throughout."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1608, C-1609, C-1614, C-1616, C-1618, C-1619, C-1621, C-1623, C-1624, C-1625, C-1627, C-1632, C-1635, C-1636, C-1637, C-1639, C-1640, C-1641, C-1642, C-1643, C-1644, C-1645, C-1646, C-1647, C-1652, C-1653, C-1654, C-1655, C-1656, C-1657, C-1660, C-1661, C-1662, C-1663, C-1666, C-1668, C-1670, C-1674, C-1680, C-1682, C-1689, C-1690, C-1691, C-1692, C-1694, C-1695, C-1697, C-1698, C-1701, C-1702, C-1703, C-1704, C-1705, C-1706, C-1707, C-1708, C-1709*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-5",
+   "header": "**N-5** Donald Trump",
+   "label": "Donald Trump",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "US president; the host criticizes his Truth Social post on the Israel and Hamas deal."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1697*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-22",
+   "header": "**N-22** Tucker Carlson",
+   "label": "Tucker Carlson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named by the host in her remark about pastors preaching about him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1703*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-36",
+   "header": "**N-36** Benjamin Netanyahu",
+   "label": "Benjamin Netanyahu",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Israeli prime minister; the host says he said before October 7 that they must hit Hamas hard."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1694*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-38",
+   "header": "**N-38** Seth Dillon",
+   "label": "Seth Dillon",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named in Hammer's statement about the Hamptons retreat."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1684*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-46",
+   "header": "**N-46** Megyn Kelly",
+   "label": "Megyn Kelly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named in the host's remark about pastors preaching about her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1703*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-55",
+   "header": "**N-55** Josh Hammer",
+   "label": "Josh Hammer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Commentator; the host discusses his Hamptons statement, his texts with Charlie and his account of their call."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1684, C-1685, C-1686, C-1689*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-73",
+   "header": "**N-73** Erwin Steele",
+   "label": "Erwin Steele",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Steele family member the host says is big with Caldera Engineering; transcribed Steel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1662*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-126",
+   "header": "**N-126** \"Nick\" (UVU Student – Pseudonym)",
+   "label": "\"Nick\" (UVU Student – Pseudonym)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "On-the-ground source whose account of feds implanting memories the host relays."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1656, C-1657*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-869",
+   "header": "**N-869** Steve Witkoff",
+   "label": "Steve Witkoff",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "US negotiator the host names with Kushner at the Israel and Hamas talks."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1692*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10000",
+   "header": "**N-10000** Turning Point USA",
+   "label": "Turning Point USA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Organization whose media instruction and volunteer roles the host questions."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1623, C-1624, C-1625, C-1636*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10006",
+   "header": "**N-10006** Fox News",
+   "label": "Fox News",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Network on which Cooper Brown and Jason Chaffetz appeared."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1627, C-1647, C-1648, C-1650*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10012",
+   "header": "**N-10012** Utah Valley University",
+   "label": "Utah Valley University",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host campus of the 9/10 event."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1625, C-1655*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10014",
+   "header": "**N-10014** Federal Bureau of Investigation",
+   "label": "Federal Bureau of Investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Agency the host says is guarding information or whose staff are related to Chaffetz."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1651, C-1656, C-1682, C-1706*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10027",
+   "header": "**N-10027** The Hamptons",
+   "label": "The Hamptons",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Location of the August retreat Hammer's statement addresses."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1684, C-1685*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10055",
+   "header": "**N-10055** Federal Footage Sweep",
+   "label": "Federal Footage Sweep",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for camera-removal claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1643*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10063",
+   "header": "**N-10063** Gaza",
+   "label": "Gaza",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Place at the center of the host's discussion of the peace deal."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1690, C-1691, C-1692, C-1694, C-1695, C-1697*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10065",
+   "header": "**N-10065** Caldera Engineering",
+   "label": "Caldera Engineering",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Valve maker the host investigates."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1646, C-1662, C-1663, C-1666, C-1668, C-1670*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10095",
+   "header": "**N-10095** 9/10 Eyewitness Pattern Investigation",
+   "label": "9/10 Eyewitness Pattern Investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the multiple-shot witnesses."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1619*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10134",
+   "header": "**N-10134** Hamptons Weekend Retreat",
+   "label": "Hamptons Weekend Retreat",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for Hammer's statement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1684, C-1685*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10139",
+   "header": "**N-10139** Operation Mocking Pastor",
+   "label": "Operation Mocking Pastor",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the pastors remark."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1703*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10164",
+   "header": "**N-10164** Charlie Kirk Catholic Trajectory Verification",
+   "label": "Charlie Kirk Catholic Trajectory Verification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the Catholicism remark."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1702*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10169",
+   "header": "**N-10169** Josh Hammer Pre-Death Zoom Call Verification",
+   "label": "Josh Hammer Pre-Death Zoom Call Verification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the call-timing and purpose claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1686, C-1689*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10172",
+   "header": "**N-10172** Multiple Decoys Theory (4 Decoys Named)",
+   "label": "Multiple Decoys Theory (4 Decoys Named)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the decoy-rifle claim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1641*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10175",
+   "header": "**N-10175** UVU Left-Side Footage Black Hole",
+   "label": "UVU Left-Side Footage Black Hole",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the left-side blind spot."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1645, C-1660*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10192",
+   "header": "**N-10192** Camera Operator Behavior Pattern",
+   "label": "Camera Operator Behavior Pattern",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the camera-removal claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1644*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10315",
+   "header": "**N-10315** Mainstream Media Eyewitness Selection Pattern at UVU Event",
+   "label": "Mainstream Media Eyewitness Selection Pattern at UVU Event",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the witness-selection claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1619, C-1646, C-1655, C-1656, C-1657*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10350",
+   "header": "**N-10350** Charlie Kirk Catholicism Journey",
+   "label": "Charlie Kirk Catholicism Journey",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the Catholicism remark."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1702*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10454",
+   "header": "**N-10454** Gaza Death Toll and Documentation Claims",
+   "label": "Gaza Death Toll and Documentation Claims",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the Gaza destruction claim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1691*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10799",
+   "header": "**N-10799** Back-Camera Footage Discrepancy",
+   "label": "Back-Camera Footage Discrepancy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the rear footage claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1643, C-1644, C-1652, C-1653*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11337",
+   "header": "**N-11337** Hamas",
+   "label": "Hamas",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Organization named in the peace deal discussion."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1690*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11375",
+   "header": "**N-11375** Gaza Peace Deal First Phase Announcement (October 2025)",
+   "label": "Gaza Peace Deal First Phase Announcement (October 2025)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The reported first phase of an Israel and Hamas agreement with troop withdrawal and hostage release, and the Trump announcement and negotiators the host criticizes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1690, C-1692*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11376",
+   "header": "**N-11376** Military Bot Farm Allegation",
+   "label": "Military Bot Farm Allegation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The host's allegation that military-run bot farms operate on X and other platforms."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1701*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11377",
+   "header": "**N-11377** TPUSA Media Silence Instruction at the 9/10 Event",
+   "label": "TPUSA Media Silence Instruction at the 9/10 Event",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The host's report that a person was said to have been told not to speak to the media and that a TPUSA text told people not to speak to the media."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1623, C-1624*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 5. Claim Register",
+    ""
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1612",
+   "header": "**C-1612** Front Shot, No Exit",
+   "label": "Front Shot, No Exit",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:37"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she is telling viewers 100% that Charlie Kirk was shot from the front and the bullet did not exit, and that she has fact-checked this from multiple sources."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1251.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10180"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain autopsy / medical examiner records and forensic bullet trajectory report to verify entry-side determination."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1615",
+   "header": "**C-1615** Host Says Bullet Fragment Was Recovered From Charlie's Neck Near Shoulder Blade",
+   "label": "Host Says Bullet Fragment Was Recovered From Charlie's Neck Near Shoulder Blade",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:03"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that, as she has fact-checked with multiple sources, a bullet fragment was recovered from Charlie's neck, in line with the shoulder blade near the spine."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1251.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10180"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare against autopsy report and forensic pathology images for exact fragment location."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1617",
+   "header": "**C-1617** Host Says No .30-06 Projectile Appears on Charlie Kirk's Death Certificate",
+   "label": "Host Says No .30-06 Projectile Appears on Charlie Kirk's Death Certificate",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:02"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie Kirk's death certificate does not reflect a recovered .30-06 bullet, indicating that caliber was not recovered from his body."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1251.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10180"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain a certified copy of the death certificate and the medical examiner's full report."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1610",
+   "header": "**C-1610** Kolvet Tweet Substance",
+   "label": "Kolvet Tweet Substance",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads a long tweet by Andrew Kolvet in which he says he spoke with the surgeon who worked on Charlie, and describes the bullet as having been stopped by Charlie's bone density."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1251.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10180"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate original Kolbatz tweet and verify direct quotes and publication date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1611",
+   "header": "**C-1611** Surgeon Quoted on Bullet Stopped",
+   "label": "Surgeon Quoted on Bullet Stopped",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per Andrew Kolvet's tweet the host reads, the surgeon stated the bullet should have exited, that people behind Charlie could have been killed, and characterized the outcome as \"an absolute miracle.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1251.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10180"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the named surgeon (if given) and confirm statement through independent medical record review."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1620",
+   "header": "**C-1620** Viral Clip Witness Account",
+   "label": "Viral Clip Witness Account",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:44"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "A witness in the viral clip stated he was in the third row, heard a shot ring out, looked left and right, and saw Charlie slump with blood coming from the left side of his neck."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1252.1"
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10182"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the witness and obtain a signed statement consistent with his on-camera description."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1626",
+   "header": "**C-1626** Pusher Not TPUSA or UVU Affiliated",
+   "label": "Pusher Not TPUSA or UVU Affiliated",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she determined the man who physically pushed/shoved the witness in the viral clip was not a Turning Point USA employee, UVU student, or TPUSA student, but was brought in as a volunteer."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1252.1, A-1253.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-174"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10182"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the pusher and verify his institutional affiliation at the time of the event."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1628",
+   "header": "**C-1628** Cooper Brown Leadership Institute Affiliation",
+   "label": "Cooper Brown Leadership Institute Affiliation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:06"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Cooper Brown stated on Fox News that he works for the Leadership Institute, which partners with TPUSA, Young Americans for Liberty, and Students for Life on college campuses."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1253.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-174"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10182, N-10188"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm Leadership Institute employment records and verify the organization's claimed coalition roles."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1629",
+   "header": "**C-1629** Cooper Brown Fox News Night-Of Interview",
+   "label": "Cooper Brown Fox News Night-Of Interview",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:06"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Cooper Brown appeared on Jesse Watters' Fox News program the night of the shooting, and plays a clip of that appearance."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1253.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-174"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10182"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify timestamp and full segment via Fox News archives."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1630",
+   "header": "**C-1630** Cooper Brown Fox News Next-Day Interview",
+   "label": "Cooper Brown Fox News Next-Day Interview",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:58"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Cooper Brown appeared on Fox News again the day after the shooting, and plays a clip of that appearance."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1253.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-174"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10182"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify timestamp and full segment via Fox News archives."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1631",
+   "header": "**C-1631** Cooper Brown Microphone Role",
+   "label": "Cooper Brown Microphone Role",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Cooper Brown stated his event responsibility was managing the microphone – raising and lowering it for student questioners."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1253.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-174"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10182"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Cross-reference event staff logs or volunteer rosters provided by organizers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1633",
+   "header": "**C-1633** Cooper Brown Resume – Southern New Hampshire University",
+   "label": "Cooper Brown Resume – Southern New Hampshire University",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Cooper Brown's resume, on the website where he says he works with the institute, lists a very small college in New Hampshire, and she later asks anyone who attended Southern New Hampshire University with him and majored with him in politics to contact her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1253.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-174"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10182"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pull registrar verification or alumni records (subject to FERPA limits)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1634",
+   "header": "**C-1634** Same-Name SNHU Graduate Discrepancy",
+   "label": "Same-Name SNHU Graduate Discrepancy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that at the small New Hampshire college she found someone with Cooper Brown's name, but it was a girl who graduated in the year his resume gives; separately, the Phoenix-based number she was given links to somebody else, aged 32, with the same last name, and she says she does not know who he is."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1253.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-174"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10182"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm whether the female same-name individual is or is not the same person through independent records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1649",
+   "header": "**C-1649** Jason Chaffetz Eyewitness – Close, Ahead",
+   "label": "Jason Chaffetz Eyewitness – Close, Ahead",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Jason Chaffetz stated on Fox News that, \"if I had to guess,\" the shot looked to him like it was \"in close proximity straight ahead.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1254.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-175"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10180, N-10181"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm full segment and any subsequent Chaffetz statements on the topic."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1658",
+   "header": "**C-1658** Two-Shot Witness Account – Lyman Footage",
+   "label": "Two-Shot Witness Account – Lyman Footage",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:27:27"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says two women seen in Phil Lyman's footage outside the building said they heard two shots, and plays a clip from that footage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1255.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-61"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10181"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify and re-interview the two women, and compare against Phil Lyman's published footage metadata."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1638",
+   "header": "**C-1638** Host Says Dr. Deirdre Amaro Was Announced as New Utah State Medical Examiner in May 2024",
+   "label": "Host Says Dr. Deirdre Amaro Was Announced as New Utah State Medical Examiner in May 2024",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she received an emailed tip urging her to look into Dr. Deirdre Amaro, who she says was announced as the new Utah State Medical Examiner in May 2024 and came from Missouri (and, she thinks, also worked in California)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "(host-stated; no displayed primary artifact – see Optional Flags)"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-176"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10183"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate Utah state announcement and prior employment records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1664",
+   "header": "**C-1664** Israeli Individual Listed as Caldera Founder",
+   "label": "Israeli Individual Listed as Caldera Founder",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:39"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says someone emailed them a link, which she says was real, listing an Israeli individual as the founder of Caldera Engineering, though she says they have not been able to corroborate it and the listing may be an internet scraping error."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "(host-stated; web link referenced but full artifact not displayed – see Optional Flags)"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10184"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain Utah LLC formation records (pre-digitization, requires in-person request) and Israeli business registries."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1667",
+   "header": "**C-1667** Host Says Caldera Engineering Was Established in 1997",
+   "label": "Host Says Caldera Engineering Was Established in 1997",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:26"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Caldera Engineering was established in 1997."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "(host-stated; no primary artifact displayed – see Optional Flags)"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10184"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify via Utah Division of Corporations records and trademark filings."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1665",
+   "header": "**C-1665** Host Says Caldera Engineering Employee Has Professional Acting Background",
+   "label": "Host Says Caldera Engineering Employee Has Professional Acting Background",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:39"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that, per a tip she received, a person employed at Caldera Engineering has a professional acting background (theater school, plays), with no engineering background before the resume listing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "(host-stated; resume referenced but not displayed – see Optional Flags)"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10184"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify via LinkedIn / professional profile cross-checks."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1669",
+   "header": "**C-1669** Caldera Early Trademark Lawyer – Tyler Bowyer Connection",
+   "label": "Caldera Early Trademark Lawyer – Tyler Bowyer Connection",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:32:52"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the lawyer Caldera Engineering used for trademark purposes in Arizona in its early years, per early documents she reviewed, is a lawyer Tyler Bowyer of Turning Point USA introduced her to and whom she has worked with."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "(host-stated based on legal records review; primary filing not displayed – see Optional Flags)"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-11"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10184"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pull Arizona trademark filings and confirm attorney of record."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1671",
+   "header": "**C-1671** Host Says Plane N1098L Was a Military Aircraft",
+   "label": "Host Says Plane N1098L Was a Military Aircraft",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says a plane with tail number N1098L, which she says people have recognized as military and which had been used in the military, flew over Utah around the time of the shooting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "(host-stated; flight tracking not displayed – see Optional Flags)"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10185"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pull FAA registry for N1098L and prior military tail assignments."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1672",
+   "header": "**C-1672** Host Says Plane N1098L Was Owned/Contracted by Las Vegas Aviation LLC",
+   "label": "Host Says Plane N1098L Was Owned/Contracted by Las Vegas Aviation LLC",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Plane N1098L was owned by, or contracted through, Las Vegas Aviation LLC."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "(host-stated – see Optional Flags)"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10185, N-10189"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm ownership via FAA registry and Nevada Secretary of State filings for Las Vegas Aviation LLC."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1673",
+   "header": "**C-1673** Host Says Plane N1098L Flew From Texas to Utah Around the Time of the Shooting",
+   "label": "Host Says Plane N1098L Flew From Texas to Utah Around the Time of the Shooting",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Plane N1098L departed Texas and routed to Utah around the time of the shooting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "(host-stated – see Optional Flags)"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10185"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pull ADS-B Exchange / FlightAware historical track for N1098L on the date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1675",
+   "header": "**C-1675** Plane 888 – Maxfield Affiliation",
+   "label": "Plane 888 – Maxfield Affiliation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says a second plane, which she remembers as having '888' in its identification, is the plane of Derek Maxfield and his wife Shelaine Maxfield, who she says sold a beauty company."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "(host-stated – see Optional Flags)"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-94"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10186"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify aircraft registration, ownership, and any link to Derek/Shelaine Maxfield."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1676",
+   "header": "**C-1676** Host Says Plane 888's Intended Destination Was Page, Arizona",
+   "label": "Host Says Plane 888's Intended Destination Was Page, Arizona",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Plane 888's intended destination was Page, Arizona."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "(host-stated – see Optional Flags)"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10186"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify via filed flight plan and FBO records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1677",
+   "header": "**C-1677** Host Says Plane 888's ADSB Transponder Appeared to Turn Off",
+   "label": "Host Says Plane 888's ADSB Transponder Appeared to Turn Off",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the ADSB transponder on plane 888 appeared to turn off during the flight."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "(host-stated – see Optional Flags)"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10186"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pull historical ADSB / radar track for the aircraft on the date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1678",
+   "header": "**C-1678** Kash Patel – Plane Never Stopped Transponding",
+   "label": "Kash Patel – Plane Never Stopped Transponding",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:40:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Kash Patel told them plane 888 never stopped transponding."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "(host-stated; Kash Patel public statement not displayed – see Optional Flags)"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-69"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10186"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate Kash Patel's original statement (interview, press release, social media post) for verbatim wording."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1679",
+   "header": "**C-1679** Derek Maxfield – ATC Approval to Stop Transponding",
+   "label": "Derek Maxfield – ATC Approval to Stop Transponding",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:40:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Derek Maxfield stated on Instagram that the air traffic control center had agreed they could stop transponding."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "(host-stated; Derek Maxfield Instagram post not displayed – see Optional Flags)"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-94"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10186"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate Maxfield's original Instagram post and any corroborating ATC logs."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1681",
+   "header": "**C-1681** Host Says Plane 888 Changed Its FBO Destination at the Last Minute",
+   "label": "Host Says Plane 888 Changed Its FBO Destination at the Last Minute",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:40:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Plane 888 changed its FBO destination at the last minute, from Millionaire to Signature."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "(host-stated – see Optional Flags)"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10186, N-10190"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify via FBO records at Page, Arizona (Millionaire and Signature)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1683",
+   "header": "**C-1683** Host Says Signature FBO Person Gave Contradicting Statements",
+   "label": "Host Says Signature FBO Person Gave Contradicting Statements",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:41:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that a person at the Signature FBO initially confirmed that the plane had made multiple trips in recent days, then reversed to state no plane had ever landed there."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "(host-stated; secondhand report – see Optional Flags)"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10186, N-10190"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the employee and obtain signed statement; cross-check Signature FBO ramp logs."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1687",
+   "header": "**C-1687** Host Says Josh Hammer Released Text Messages",
+   "label": "Host Says Josh Hammer Released Text Messages",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:45:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Josh Hammer publicly released text messages between himself and Charlie Kirk in response to the prior episode, and reads them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1256.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-55, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10187"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify release date and source channel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1688",
+   "header": "**C-1688** Text Message Content – Standard Exchange",
+   "label": "Text Message Content – Standard Exchange",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:45:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The released texts include a \"thank you for your help guys\" message (attributed to Charlie Kirk) and a reply the host assumes is Josh Hammer's asking what Charlie's \"first stop tomorrow\" was."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1256.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-55, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10187"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full thread (including timestamps and any prior context messages) and verify against the surrounding calendar of Charlie Kirk's campus events."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1693",
+   "header": "**C-1693** Trump Truth Social – Israel/Hamas Phase One Announcement",
+   "label": "Trump Truth Social – Israel/Hamas Phase One Announcement",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:48:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Donald Trump posted on Truth Social announcing that Israel and Hamas had signed off on the first phase of a peace plan, including hostage release and partial troop withdrawal."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1257.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-5"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify exact post text and time stamp via Trump's Truth Social archive."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1696",
+   "header": "**C-1696** Jared Kushner Harvard Speech – Gaza \"Waterfront Property\"",
+   "label": "Jared Kushner Harvard Speech – Gaza \"Waterfront Property\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:49:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "At a Harvard appearance on February 15, 2024 (per the host), Jared Kushner said Gaza's \"waterfront property\" could be very valuable and that \"from Israel's perspective, I would do my best to move the people out and then clean it up.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1258.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-178"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify full Harvard event recording and transcript."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1699",
+   "header": "**C-1699** Host Says Matt Walsh Found Kirk's Text \"Too on the Nose\"",
+   "label": "Host Says Matt Walsh Found Kirk's Text \"Too on the Nose\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:52:15"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Matt Walsh thought Charlie Kirk's text messages were fake because the sentence about leaving the pro-Israel cause felt \"too on the nose\"; paraphrasing him, she says you must have done a lot to make Charlie write that statement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1259.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-163, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10187"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify clip source and full Matt Walsh segment."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1622",
+   "header": "**C-1622** Host Says Kolvet Was Not in Viral Push Video",
+   "label": "Host Says Kolvet Was Not in Viral Push Video",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Andrew Kolvet was not the man in the viral push video, and that she spoke to him and he flew into Utah after the shooting and was not on the ground."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1252.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify Kolbatz's travel timeline via receipts or communications."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1659",
+   "header": "**C-1659** Host identifies show community as Decentralized Intelligence Agency",
+   "label": "Host identifies show community as Decentralized Intelligence Agency",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:07"
+    },
+    {
+     "k": "Claim",
+     "v": "The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel."
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "...ks explain to us what it is that you know in this decentralized intelligent agency, given the information that I am telling you, okay? That it had it unless we have a bulle..."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1608",
+   "header": "**C-1608** Host Says This Is Her Last Show Before a Break",
+   "label": "Host Says This Is Her Last Show Before a Break",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:00:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says this episode is her last show before she takes a break from the program."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Last show until I take a much-needed break, and it's going to be a good one."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the episode release schedule on the channel with the break the host announces."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1609",
+   "header": "**C-1609** Host Says She Verified the Neck Injury Information but Will Not Name Her Sources",
+   "label": "Host Says She Verified the Neck Injury Information but Will Not Name Her Sources",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:01:22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she has positively verified something about Charlie Kirk's neck injury, but that she cannot say who gave her the information or which parties were involved, so as not to get anyone in trouble."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I can't tell you exactly who the information came from or which parties were involved in giving me this information cuz I don't want to get anybody in trouble"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10180"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask the host to document, privately or via an intermediary, the number and type of sources behind the neck-injury finding; compare with the autopsy and death-certificate record."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1613",
+   "header": "**C-1613** Kolvet Tweet Says Coroner Found the Bullet Just Beneath the Skin",
+   "label": "Kolvet Tweet Says Coroner Found the Bullet Just Beneath the Skin",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:37"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "As read aloud by the host, the Andrew Kolvet tweet says the bullet likely would have killed people standing behind Charlie and that the coroner found it just beneath the skin."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "It likely would have killed those standing behind him, too. In the end the coroner did find the bullet just beneath the skin."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1251.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10180"
+    },
+    {
+     "k": "Supports",
+     "v": "C-595"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the original Kolvet tweet and compare it with the autopsy findings; ask the Utah medical examiner's office where the projectile was recovered."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1614",
+   "header": "**C-1614** Host Says She Has Sat on the Bullet Finding for a Little Over a Week",
+   "label": "Host Says She Has Sat on the Bullet Finding for a Little Over a Week",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she fact-checked the front-shot and no-exit finding with multiple sources and had been sitting on it for a little over a week before airing it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I have fact-checked this information from multiple sources now. I've actually been sitting on this for a little bit over a week."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10180"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Establish when the host first received the finding, for example from her own messages with sources, and compare with earlier episodes that touched the bullet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1616",
+   "header": "**C-1616** Host Says Medical Examiners Tell Her Known Guns and Bullets Appear on the Death Certificate",
+   "label": "Host Says Medical Examiners Tell Her Known Guns and Bullets Appear on the Death Certificate",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:03"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that from conversations with quite a few medical examiners she understands that when the gun and the bullet are known, they are reflected on the death certificate."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I've spoken to quite a few, but when the gun and the bullet are known, they are reflected onto the death certificate, okay?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10180"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask Utah and other state medical examiners whether weapon and projectile details are entered on death certificates, and pull Utah's death-certificate standards."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1618",
+   "header": "**C-1618** Host Says Charlie Was Shot With a Completely Different, Smaller Gun",
+   "label": "Host Says Charlie Was Shot With a Completely Different, Smaller Gun",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:15"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that because the neck did not blow apart and the bullet did not exit, Charlie was shot with a completely different kind of gun from the rifle the authorities named, which would have gone through about seven necks."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "It means that he was shot with a completely different kind of gun, obviously, okay? The kind where this would make sense that it didn't cut through him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10180, N-10181"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the autopsy, wound-ballistics and projectile reports and have an independent forensic pathologist assess the wound and recovered fragment against the .30-06 and smaller calibers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1619",
+   "header": "**C-1619** Host Says On-the-Ground Witnesses Reported Multiple Shots but Got No Mainstream Interviews",
+   "label": "Host Says On-the-Ground Witnesses Reported Multiple Shots but Got No Mainstream Interviews",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says witnesses on the ground insisted they heard multiple shots, but those people were not the ones given mainstream media interviews."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "there were people who were insisting, by the way, they were on the ground, the witnesses that were insisting that they heard multiple shots."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10315, N-10095, N-10181"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Collect named witness statements and any police interview summaries on the number of shots heard, and compare with which witnesses the networks interviewed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1621",
+   "header": "**C-1621** Host Argues the Viral Witness Looked Left and Right After the Shot, Not Back",
+   "label": "Host Argues the Viral Witness Looked Left and Right After the Shot, Not Back",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the witness in the viral clip described looking left and then right after the shot, and argues that if a high-powered rifle had fired from 250 yards behind he would probably have looked back first."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "if a shot, a high-powered rifle, came from 250 yards behind you, you'd probably look back first, right?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1252.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10181"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the witness and interview him about where he was standing and which direction the sound seemed to come from; get the full unedited clip."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1623",
+   "header": "**C-1623** Host Says a Friend of the Man She Tried to Identify Said He Was Told Not to Speak to Media",
+   "label": "Host Says a Friend of the Man She Tried to Identify Said He Was Told Not to Speak to Media",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that after she posted a picture asking to identify a person from the viral clip, his friend left a nasty comment and then messaged her privately that, paraphrasing, he does not want to speak to media because he has been instructed not to, having got the Turning Point chapter into trouble before."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He doesn't want to speak to media because he's been instructed not to speak to media because he's gotten the Turning Point chapter into trouble before for speaking out in the media"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1252.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-11377"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the private message exchange and identify who instructed the man and which TPUSA chapter had earlier been in trouble over media comments."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1624",
+   "header": "**C-1624** Host Says the Excuse Given Was a TPUSA Text Telling People Not to Speak to Media",
+   "label": "Host Says the Excuse Given Was a TPUSA Text Telling People Not to Speak to Media",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:58"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the excuse offered for why the man was shut down was that Turning Point USA had sent a text saying nobody should speak to the media."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Turning Point USA what sent her on a text and said, \"Nobody speak to the media.\" That's what That was his excuse, by the way, for why he shut that guy up."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1252.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-11377"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask TPUSA for any message sent to chapters or volunteers about speaking to media on 9/10, and ask the people who received it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1625",
+   "header": "**C-1625** Host Says Campus Stops Are Normally Run by the Host School's Chapter",
+   "label": "Host Says Campus Stops Are Normally Run by the Host School's Chapter",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:58"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that in her experience of many campus stops, it is typically the chapter of the host school that does everything, which is why she found the volunteer's role odd."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I've done a lot of campus stops, and typically it's the chapter of that school that does everything."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10012"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the UVU event planning documents showing which organizations ran stage, security and volunteers for the 9/10 event."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1627",
+   "header": "**C-1627** Host Says the Man Who Shoved the Witness Is Cooper, Who Held the Microphone",
+   "label": "Host Says the Man Who Shoved the Witness Is Cooper, Who Held the Microphone",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:02"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the man who did the shoving is a young man named Cooper, who went on Fox News that night to give eyewitness testimony, and who she says was holding the microphone when the shot rang out."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "that young man, whose name is Cooper, and I'm very comfortable telling you this because well, he went on Fox News that very night to provide eyewitness testimony to exactly what he heard and what he saw"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1253.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-174, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10182, N-10006"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the viral shoving footage with Cooper Brown's Fox News appearances to confirm the two are the same person."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1632",
+   "header": "**C-1632** Host Says an Emailer Claiming to Be Cooper's Cousin Lives in Phoenix",
+   "label": "Host Says an Emailer Claiming to Be Cooper's Cousin Lives in Phoenix",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says one emailer claimed to be Cooper Brown's cousin and supplied his number, and that this cousin lives in Phoenix, Arizona."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "One email said, \"Hey, I'm actually his cousin and here is his number.\" Now, I noticed that that cousin happens to live in Phoenix, Arizona."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-174, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10182"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the original email and verify the sender's relationship to Cooper Brown without publishing private contact details."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1635",
+   "header": "**C-1635** Host Says the Number She Was Given Was Phoenix-Based and Tied to a 32-Year-Old With the Same Last Name",
+   "label": "Host Says the Number She Was Given Was Phoenix-Based and Tied to a 32-Year-Old With the Same Last Name",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the number given to her was Phoenix-based and was linked to another person, aged 32, with the same last name, which she says she cannot explain."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "a Phoenix-based number. So, I'm going, \"Who is this person? And why is it linking that number to somebody else who's 32 years old and has that same last name?\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-174, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10182"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Reconcile the number's carrier and listing records with Cooper Brown's stated Utah and New Hampshire history; the existing C-1634 may blend this with the same-name graduate."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1636",
+   "header": "**C-1636** Host Says Holding the Microphone Is Normally an Honor Given to Hard-Working TPUSA Students",
+   "label": "Host Says Holding the Microphone Is Normally an Honor Given to Hard-Working TPUSA Students",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says holding the microphone at Utah events is supposed to be an honor, that TPUSA students work hard on the events, and that it is odd they gave the microphone to a volunteer."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "That's supposed to be like kind of an honor at Utah events. Turning Point USA kids work really hard to put these events on."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1253.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-174, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10182, N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the UVU event volunteer roster and microphone assignment, and ask UVU chapter students who normally held the microphone."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1637",
+   "header": "**C-1637** Host Says the Rifle Shot Was Real but Did Not Hit Charlie",
+   "label": "Host Says the Rifle Shot Was Real but Did Not Hit Charlie",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:05"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the sound people heard was a recognizable rifle shot, but that Charlie was not hit with that rifle, and that no medical examiner's report or death certificate says otherwise."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We definitely did hear a very recognizable sound of a rifle shot. But I'm telling you that Charlie wasn't hit with that rifle."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10180, N-10181"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the autopsy and ballistics findings and the audio of the shot sequence to test whether the audible rifle shot and the fatal wound match."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1639",
+   "header": "**C-1639** Host Says a Tip Email Urged Her to Look Further Into the Medical Examiner",
+   "label": "Host Says a Tip Email Urged Her to Look Further Into the Medical Examiner",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she received an emailed tip insisting that the medical examiner is a person to look into further, and that the examiner is Dr. Deirdre Amaro."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "this person an email insisted to me that this is somebody that we should look further into. That's the medical examiner."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-176"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10183"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the tip email for its basis and verify the examiner's career record independently."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1640",
+   "header": "**C-1640** Host Asks Viewers With Knowledge of the Medical Examiner to Email Tips",
+   "label": "Host Asks Viewers With Knowledge of the Medical Examiner to Email Tips",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:26"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host asks viewers who know the Utah medical examiner personally or have a story about her to send it to the tip email address."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And uh if you've got something, you know this her personally, got a story, please do send it to us at mortips@candisowens. com."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3284.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-176"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10183"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Record tip volume and follow-up in later episodes where the host cites emailed tips about the examiner."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1641",
+   "header": "**C-1641** Host Says It Is Likely a Rifle Was Fired to Muffle the Sound of a Smaller Gun",
+   "label": "Host Says It Is Likely a Rifle Was Fired to Muffle the Sound of a Smaller Gun",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:26"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says it is likely that a rifle was fired to muffle the sound of a smaller gun, drawing on what she says are fed-style decoy operations, including decoy sounds."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "It is likely that a rifle was fired to muffle the sound of a smaller gun"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10181, N-10172"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain acoustic analyses of the shot audio from multiple recordings and ask forensic audio experts whether more than one weapon discharge can be identified."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1642",
+   "header": "**C-1642** Host Says Her Well-Informed Opinion Is the Shooter Was Much Closer, Likely in the Audience",
+   "label": "Host Says Her Well-Informed Opinion Is the Shooter Was Much Closer, Likely in the Audience",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:26"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says it is now her well-informed opinion that we are looking for a person who was a lot closer to Charlie and likely in the audience."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "that is now my well-informed opinion, well-informed opinion, that we are looking for a person that was a lot closer to Charlie and likely in the audience."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10181"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Map audience positions at the moment of the shot against the trajectory the host describes, using all available footage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1643",
+   "header": "**C-1643** Host Says of Many Cameras the One Behind Charlie Was Grabbed First",
+   "label": "Host Says of Many Cameras the One Behind Charlie Was Grabbed First",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:46"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that of the many cameras at the event, the one behind Charlie was the one grabbed first."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Another tons of other cameras, that one gets grabbed first."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10799, N-10055"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Establish the sequence in which each camera was removed or its card taken, from event staff, police logs and camera operator accounts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1644",
+   "header": "**C-1644** Host Says Tyler Bowyer Lied About Law Enforcement Instructing the Camera Removal",
+   "label": "Host Says Tyler Bowyer Lied About Law Enforcement Instructing the Camera Removal",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:56"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Tyler Bowyer lied, and that the person who took the cameras down was not instructed to do so by law enforcement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I told you, Tyler Bowyer lied. He just lied. The person who took the cameras down was absolutely not instructed to do so by law enforcement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-11, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10192, N-10799"
+    },
+    {
+     "k": "Contradicts",
+     "v": "C-1363"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain statements from the investigating agency about whether anyone instructed removal of the camera or SD card, and compare with Bowyer's account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1645",
+   "header": "**C-1645** Host Says There Is a Blind Spot in Footage to Charlie's Left",
+   "label": "Host Says There Is a Blind Spot in Footage to Charlie's Left",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she feels there is a remarkable blind spot on the left of Charlie in the footage available, and that she wants footage showing what Charlie would have seen looking slightly to his left."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I actually feel that there is this remarkable blind spot on the left of Charlie."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10175"
+    },
+    {
+     "k": "Supports",
+     "v": "C-1566"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Collect all video from the audience's left side and map camera fields of view across the tent area to confirm the gap."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1646",
+   "header": "**C-1646** Host Says Many Interviewed Witnesses Were Caldera Engineering-Connected People",
+   "label": "Host Says Many Interviewed Witnesses Were Caldera Engineering-Connected People",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that the cast of people who made it to mainstream media to talk about what they heard were connected to Caldera Engineering."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "all these Caldera engineering engineering connected people who made it to the mainstream media to talk about what they heard"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10065, N-10184, N-10315"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compile the list of media-interviewed witnesses and test each against employment or family ties to Caldera Engineering."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1647",
+   "header": "**C-1647** Host Says Jason Chaffetz Was in Communication With Charlie Before the Event",
+   "label": "Host Says Jason Chaffetz Was in Communication With Charlie Before the Event",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Jason Chaffetz, a former politician and Fox News contributor from Utah, attended the event and was apparently in communication with Charlie ahead of it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He apparently was in communication with Charlie ahead of the event"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-175, N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10006"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask Chaffetz or his office what contact he had with Charlie or his team before 9/10."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1648",
+   "header": "**C-1648** Host Says Chaffetz Rebutted the Idea the Shot Came From Far Away",
+   "label": "Host Says Chaffetz Rebutted the Idea the Shot Came From Far Away",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Chaffetz, appearing on a couple of Fox shows, rebutted the idea that the shot was fired from far away."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he was rebutting, cuz he was on a couple of shows, rebutting the idea that the shot was from far away."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1254.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-175"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10180, N-10181, N-10006"
+    },
+    {
+     "k": "Supports",
+     "v": "C-1649"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pull the Fox News segments in which Chaffetz addresses shot distance and compare wording."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1650",
+   "header": "**C-1650** Host Says Chaffetz Does Not Believe the Shot Came From the Losee Building",
+   "label": "Host Says Chaffetz Does Not Believe the Shot Came From the Losee Building",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:49"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that on Fox News, when others say the shot came from the Losee building, Chaffetz does not believe that."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "when he's on Fox News and people are saying the shot was from like the Losee building, he doesn't believe that."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1254.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-175"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10180, N-10006"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm in the Fox transcripts that Chaffetz rejects the building theory; the building name is transcribed as Losee and is probably the Losee Center."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1651",
+   "header": "**C-1651** Host Says Chaffetz's Parents Are in Government and in the FBI",
+   "label": "Host Says Chaffetz's Parents Are in Government and in the FBI",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:49"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Chaffetz has been honest about his background and that his parents are in government and, in her words, literally in the FBI."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "His parents are in the government. They're literally in the FBI."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-175"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10014"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the claim against Chaffetz's public biography; the statement is odd and may be garbled in transcription."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1652",
+   "header": "**C-1652** Host Theorizes the Plan Was to Withhold the Back Footage and Then Claim a .30-06 Was Recovered",
+   "label": "Host Theorizes the Plan Was to Withhold the Back Footage and Then Claim a .30-06 Was Recovered",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she thinks the plan was never to let footage from behind Charlie see daylight, so that they could say they instantly recovered a .30-06 bullet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "That way, they were going to say that they recovered a.30-06 bullet, right? Instantly, we recovered a.30-06 bullet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3285.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10799, N-10180"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Establish who controlled the back-camera footage and when it was first provided to investigators, and what the first official statements said about the recovered projectile."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1653",
+   "header": "**C-1653** Host Says the Back Footage Shows No Blood on Charlie's White Shirt Until He Falls Out of Frame",
+   "label": "Host Says the Back Footage Shows No Blood on Charlie's White Shirt Until He Falls Out of Frame",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that when she watched the footage from behind, there was not a single dot of blood on Charlie's white shirt until he falls out of frame and onto the ground, and the bullet did not pierce through."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "not only did the bullet not pierce through, but there wasn't a single dot of blood on Charlie's bleach white shirt until he falls out of frame and onto the ground."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3285.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10799, N-10180"
+    },
+    {
+     "k": "Supports",
+     "v": "C-516"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the unedited rear-camera footage and have it reviewed frame by frame by a forensic video analyst."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1654",
+   "header": "**C-1654** Host Says She Thinks Two Armed People Should Be Sought, One in the Audience and One With a Rifle",
+   "label": "Host Says She Thinks Two Armed People Should Be Sought, One in the Audience and One With a Rifle",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she thinks it is likely that what we should be looking for are two people who had weapons that day, one in the audience and one elsewhere with a rifle."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I think it is likely that what we should be looking for are two people that had weapons that day."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10181"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the positions of all people identified as armed or carrying on 9/10 and any alerts about a second weapon."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1655",
+   "header": "**C-1655** Host Says No UVU Students Were Put on Mainstream Media",
+   "label": "Host Says No UVU Students Were Put on Mainstream Media",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:26:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that among the many adults interviewed, no UVU students appeared in the mainstream media to say what they heard, and that Cooper is not a UVU or TPUSA student."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "There's no UVU kids that were in the mainstream media."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-174, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10315, N-10012"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Survey network coverage of 9/10 and count interviewees with verified UVU enrollment."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1656",
+   "header": "**C-1656** Host Relays Nick's Account That Feds Were Trying to Implant Memories",
+   "label": "Host Relays Nick's Account That Feds Were Trying to Implant Memories",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:26:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that Nick, a source on the ground, told her one of the first things he felt was that feds were coming around and trying to implant memories in the students."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "one of the first things he said to me was that I felt like they were coming around the feds were coming around and they were trying to implant memories into our heads."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-126, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10315, N-10014"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Interview Nick and other students about who approached them after the shooting, what was said and whether they identified themselves."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1657",
+   "header": "**C-1657** Host Relays Nick's Account of Unfamiliar People Saying They Heard One Shot",
+   "label": "Host Relays Nick's Account of Unfamiliar People Saying They Heard One Shot",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:26:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Nick told her unfamiliar people were walking around saying they had heard one shot, which he felt was meant to make students believe that."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "there were these people walking around that we didn't recognize and they were like you heard one shot you heard we heard one shot we heard one shot."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-126, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10315"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Collect other students' accounts of being approached and identify the people through badge, uniform or footage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1660",
+   "header": "**C-1660** Host Says the Shooter Was in the Audience and to the Left",
+   "label": "Host Says the Shooter Was in the Audience and to the Left",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says we probably now need to be looking for a shooter who was in the audience and to the left of Charlie."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we probably need to be now looking for a shooter that was in the audience and to the left."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10181, N-10175"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Determine who sat or stood to Charlie's left in the audience and obtain all video of that area."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1661",
+   "header": "**C-1661** Host Says the Bullet Entered the Front Left Lower Neck, Exploded the Artery and Did Not Exit",
+   "label": "Host Says the Bullet Entered the Front Left Lower Neck, Exploded the Artery and Did Not Exit",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:51"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the bullet went straight into the front left lower side of Charlie's neck, essentially exploded his artery and did not exit the back, but that a bullet fragment was found there."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "this one went straight into the front left lower side of his neck, essentially exploded his artery, and did not exit out of the back, but that is where a bullet fragment was found."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10180"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the autopsy wound description and imaging to test the entry location, laterality and fragment location the host gives."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1662",
+   "header": "**C-1662** Host Says the Steele Family Is Big With Caldera Engineering",
+   "label": "Host Says the Steele Family Is Big With Caldera Engineering",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:51"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erwin Steele and others of the Steele family were involved in the story and that it turns out the Steeles are big with Caldera Engineering."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Erwin Steele. This Steel. So many Steels were involved. It turns out the Steels are big with Caldera Engineering."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-73, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10065, N-10184"
+    },
+    {
+     "k": "Supports",
+     "v": "C-415"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pull Utah business filings for Caldera Engineering and check officers, owners and employees against the Steele family."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1663",
+   "header": "**C-1663** Host Says Longtime Valve Industry People Nearby Had Never Heard of Caldera Engineering",
+   "label": "Host Says Longtime Valve Industry People Nearby Had Never Heard of Caldera Engineering",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:29:43"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says people who work with valves, with 30 years in the industry and who live nearby, told her they had never heard of or dealt with Caldera Engineering or received its valves."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "people who work with valves, who've been in the industry for 30 years, that live nearby, and said, \"I have never heard of Caldera Engineering."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10065, N-10184"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify and contact valve distributors in the region to ask about Caldera Engineering's customers, catalog and market presence."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1666",
+   "header": "**C-1666** Host Says Caldera Engineering's Website Cited Projects in Israel",
+   "label": "Host Says Caldera Engineering's Website Cited Projects in Israel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:39"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Caldera Engineering had said, according to its website, that it did projects in Israel, though she does not know which projects."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Uh we obviously know that Caldera engineering had said that they did projects according to their website in Israel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10065, N-10184"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve archived versions of the Caldera Engineering website and list the projects and countries it cited."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1668",
+   "header": "**C-1668** Host Says Utah LLC Formation Documents From 1997 Cannot Be Obtained Online",
+   "label": "Host Says Utah LLC Formation Documents From 1997 Cannot Be Obtained Online",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:32:11"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that because Utah did not start digitizing LLC documents until the early 2000s, the base formation documents for Caldera Engineering, established in 1997, are not available online, though later changes and officers can be found."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "You can find LLC docs in general, but they didn't start digitizing those until the early 2000s."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10184, N-10065"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "File an in-person or mail records request with the Utah Division of Corporations for the original formation filings."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1670",
+   "header": "**C-1670** Host Asks for Tips on Caldera Engineering at candaceowens.com",
+   "label": "Host Asks for Tips on Caldera Engineering at candaceowens.com",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:33:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host asks listeners who know about Caldera Engineering, including engineers who buy its valves, to send tips to the candaceowens.com tip address."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I'd like to hear from you. Again, more tips at candaceowens. com."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3284.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10065, N-10184"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Record tip volume and follow-up in later episodes where the host cites emailed tips about Caldera."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1674",
+   "header": "**C-1674** Host Says Plane N1098L Dipped Real Low Near Utah",
+   "label": "Host Says Plane N1098L Dipped Real Low Near Utah",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the plane that left Texas went over to Utah right about the time Charlie was assassinated and that it dipped real low."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "right about the time uh that Charlie got assassinated. It dipped real low. It seemed like Who knows what this plane was being sent there for"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10185"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pull ADS-B altitude and track data for N1098L on 9/10 to test the descent and loiter behavior."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1680",
+   "header": "**C-1680** Host Says Multiple Pilots and Airport Workers Confirmed the Second Plane Was Weird That Day",
+   "label": "Host Says Multiple Pilots and Airport Workers Confirmed the Second Plane Was Weird That Day",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:40:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says multiple pilots, airport workers and others invested in the story have reached out, and multiple people confirmed that the second plane was a little bit weird that day."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "multiple pilots, people that work at these airports, people who are invested in the story have reached out and I'm grateful for that. Multiple people have confirmed that this plane was a little bit weird that day."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10186, N-10190"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain direct statements from the pilots and airport staff who contacted the host, and corroborate with FBO and FAA records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1682",
+   "header": "**C-1682** Host Says Information About the Flight Is Being Guarded, Including by Feds at the FBO",
+   "label": "Host Says Information About the Flight Is Being Guarded, Including by Feds at the FBO",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:40:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that multiple people confirmed something unusual about the flight, that they are guarding information about it, and that she dislikes that feds are guarding FBO information."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They are guarding information about this flight. That doesn't make sense to me. I don't like that we've got feds guarding like FBO information."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10190, N-10186, N-10014"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify any federal agency presence at the FBO and ask for the records on the ramp activity that day."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1684",
+   "header": "**C-1684** Host Says Josh Hammer's Statement Claimed He and Seth Dillon Did Not Press Charlie in the Hamptons",
+   "label": "Host Says Josh Hammer's Statement Claimed He and Seth Dillon Did Not Press Charlie in the Hamptons",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:20"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Josh Hammer issued a statement about the Hamptons retreat saying it was wonderful and that he and Seth Dillon did not press Charlie on anything."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he was releasing a statement about how wonderful the Hamptons retreat was and that him and Seth Dillon totally did not press Charlie on anything."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3286.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-55, N-38, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10134, N-10027"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain Hammer's original public statement and compare with attendee accounts of the retreat."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1685",
+   "header": "**C-1685** Host Says Hammer Said He Came to the Hamptons to Bring Signed Copies of His Book",
+   "label": "Host Says Hammer Said He Came to the Hamptons to Bring Signed Copies of His Book",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:20"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Hammer's statement said he came to the Hamptons because Charlie wanted him to bring signed copies of his book."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I came to the Hamptons because Charlie wanted me to bring signed copies of my book."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3286.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-55, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10134, N-10027"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify Hammer's statement and ask other attendees whether signed books were requested or distributed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1686",
+   "header": "**C-1686** Host Says Hammer's Texts Show the Call Fit Her Timeline",
+   "label": "Host Says Hammer's Texts Show the Call Fit Her Timeline",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:20"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Hammer's released text messages indicate that the call took place at the same time her timeline predicted, an evening call before Hammer tweeted the public-execution post, within a three-hour window."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it lets us know that the call happened at the exact same time that we we figured it would actually happen in our timeline."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1256.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-55"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10169, N-10187"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain call logs and message timestamps for Hammer and Charlie for 9/9 and compare with the retweet time."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1689",
+   "header": "**C-1689** Host Recounts Hammer's Story That Charlie Wanted Debate Help",
+   "label": "Host Recounts Hammer's Story That Charlie Wanted Debate Help",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:45:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Hammer's whole story was that Charlie reached out to him because Charlie wanted help strengthening his debate, and she notes that the reply text, which she assumes is Hammer's, asks about Charlie's first stop the next day."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "his whole story was that Charlie was reaching out to him because he wanted help to strengthen his debate."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1256.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-55, N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10169, N-10187"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compile Hammer's various accounts of the call's purpose and compare them with the text exchange."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1690",
+   "header": "**C-1690** Host Describes the Phased Israel and Hamas Deal as Partial Troop Withdrawal and Hostage Release",
+   "label": "Host Describes the Phased Israel and Hamas Deal as Partial Troop Withdrawal and Hostage Release",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:46:41"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host describes the reported peace agreement as phased, with Israel partially withdrawing its troops from Gaza and Hamas releasing the remaining hostages."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Israel is going to partially withdraw its troops from Gaza and Hamas is going to release the remaining hostages."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1257.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11375, N-10063, N-11337"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the published first-phase terms against the host's summary."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1691",
+   "header": "**C-1691** Host Says Hundreds of Thousands of Palestinians Are Missing and 85 Percent of Gaza Is Destroyed",
+   "label": "Host Says Hundreds of Thousands of Palestinians Are Missing and 85 Percent of Gaza Is Destroyed",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:46:41"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says hundreds of thousands of Palestinians are missing and that 85 percent of Gaza has been destroyed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "hundreds of thousands of Palestinians are missing and yeah, they have destroyed 85% of Gaza"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10454, N-10063"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare with UN and OCHA damage assessments and missing-persons counts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1692",
+   "header": "**C-1692** Host Says Witkoff and Kushner Led the US Side With Qatar, Egypt and Turkey Mediating",
+   "label": "Host Says Witkoff and Kushner Led the US Side With Qatar, Egypt and Turkey Mediating",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:29"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Steve Witkoff and Jared Kushner arrived Wednesday morning to represent the US in the Israel and Hamas talks, with mediators from Qatar, Egypt and Turkey also participating."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They arrived on Wednesday morning to represent the US negotiators from Israel and Hamas and the mediators from Qatar and Egypt and Turkey also participated"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-869, N-178, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11375, N-10063"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the participants and arrival timing against press reports of the talks."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1694",
+   "header": "**C-1694** Host Says Netanyahu Was on Camera Before October 7 Saying They Need to Hit Hamas So Hard",
+   "label": "Host Says Netanyahu Was on Camera Before October 7 Saying They Need to Hit Hamas So Hard",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:48:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Benjamin Netanyahu is on camera explicitly before October 7 saying they need to hit them so hard that they cannot come back."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Bibi Netanyahu is on camera explicitly before October 7th saying we need to hit them so hard that they can't come back."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-36, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10063"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the pre-October 7 Netanyahu video the host refers to and verify its date and wording."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1695",
+   "header": "**C-1695** Host Says Kushner Will Financially Benefit From Whatever Is Built in Gaza",
+   "label": "Host Says Kushner Will Financially Benefit From Whatever Is Built in Gaza",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:48:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Jared Kushner will financially benefit from whatever is built in Gaza's place."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Jared Kushner is is involved in He will financially benefit from whatever they build in its place."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1258.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-178, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10063"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Look for any Kushner-linked investment or development vehicle tied to Gaza reconstruction."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1697",
+   "header": "**C-1697** Host Says Trump Wants a Nobel for a Planned Ethnic Cleansing to Profit on the Land",
+   "label": "Host Says Trump Wants a Nobel for a Planned Ethnic Cleansing to Profit on the Land",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:50:41"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Trump wants a Nobel Peace Prize for what she calls a planned ethnic cleansing so that they could profit on the land and turn it into a beach town."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And Trump wants a Nobel Peace Prize, by the way. For the planned ethnic cleansing so that they could profit on the land and turn it into a beach town."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1258.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-5, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10063"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Assess against official US plans for Gaza reconstruction; this is the host's characterization."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1698",
+   "header": "**C-1698** Host Says Charlie's Released Message Said He Had No Choice but to Leave the Pro-Israel Cause",
+   "label": "Host Says Charlie's Released Message Said He Had No Choice but to Leave the Pro-Israel Cause",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:51:48"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that in the Charlie Kirk text message that struck Matt Walsh as too on the nose, Charlie wrote that he has no choice but to leave the pro-Israel cause."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I have no choice but to leave the pro-Israel cause."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-163, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10187"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the full Charlie Kirk text thread containing that sentence and establish its date and recipient; it is not in the A-1256.1 exchange as read."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1700",
+   "header": "**C-1700** Matt Walsh Says He Has Never Seen a Side Lose Support This Quickly",
+   "label": "Matt Walsh Says He Has Never Seen a Side Lose Support This Quickly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:53:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip the host plays, Matt Walsh says the pro-Israel side is losing the argument and that he has never seen any side of any argument lose this much support this quickly."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I've never seen any side of any argument lose this much support this quickly."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1259.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-163"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10187"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the original Walsh segment and compare with polling on US support for Israel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1701",
+   "header": "**C-1701** Host Says Military Bot Farms Operate on X and Other Platforms",
+   "label": "Host Says Military Bot Farms Operate on X and Other Platforms",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:58:39"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says there are military bot farms on X, so those arguing there are often not real people, and that there are fewer on Facebook and Instagram but bot farms there too."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "there's like military bot farms on X, which sucks, but that is reality and so you're not even fighting with real people."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11376"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Look for platform transparency reports or researcher studies of coordinated military accounts, and the host's evidence."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1702",
+   "header": "**C-1702** Host Says Charlie Was Very Interested in Catholicism and She Discussed It With Him",
+   "label": "Host Says Charlie Was Very Interested in Catholicism and She Discussed It With Him",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:59:18"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says money has been put behind Judeo-Christian programs, which she would talk about with Charlie because he was very interested in Catholicism."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "which was something that I would speak about with Charlie because he was in fact very interested in Catholicism."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10350, N-10164"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare with Charlie's public statements about Catholicism and accounts from people close to him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1703",
+   "header": "**C-1703** Host Says Too Many Pastors Preach About Megyn Kelly and Tucker Carlson",
+   "label": "Host Says Too Many Pastors Preach About Megyn Kelly and Tucker Carlson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:59:18"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says too many pastors get up on a stage and preach about Megyn Kelly and Tucker Carlson, which she says leads to broader questions among evangelicals."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it's too many pastors get up on a stage and preach about Megyn Kelly and Tucker Carlson."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-46, N-22, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10139"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Collect sermon clips naming Kelly or Carlson and check any common source."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1704",
+   "header": "**C-1704** Host Says She Can Tell Definitively That Charlie's Shot Did Not Come From Behind",
+   "label": "Host Says She Can Tell Definitively That Charlie's Shot Did Not Come From Behind",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:01:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that she can tell definitively that the shot that hit Charlie did not come from behind."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I can tell you definitively definitively, definitively, definitively That Charlie's shot did not come from behind."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10180, N-10181"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the autopsy entry-wound description with the trajectory models posted by ballistics analysts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1705",
+   "header": "**C-1705** Host Says She Is Not Saying No Shot Was Fired From Behind and Thinks There Were Two Shooters",
+   "label": "Host Says She Is Not Saying No Shot Was Fired From Behind and Thinks There Were Two Shooters",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:01:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she is not saying a shot was not fired from behind, and that her theory is two shooters, with the entry wound on the front and a smaller gun."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I'm not saying that a shot wasn't fired from behind. I'm not saying that. I said I I've given you my theory. I think there's two there's two shooters."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10181"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review acoustic and physical evidence for a second discharge location."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1706",
+   "header": "**C-1706** Host Says She Confirmed the Finding Through Multiple People and Did Not Trust the Feds",
+   "label": "Host Says She Confirmed the Finding Through Multiple People and Did Not Trust the Feds",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:01:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she went through great hoops, confirmed the finding with multiple people the right way and did not trust the feds."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I went through great hoops, multiple people I had to confirm it the right way and I did not trust the feds."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10180, N-10014"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask the host to state the number and kind of sources behind the finding."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1707",
+   "header": "**C-1707** Host Asks for Tips at tips and moretips Email Addresses",
+   "label": "Host Asks for Tips at tips and moretips Email Addresses",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:05:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host asks viewers to send tips about the topics discussed to a tips address and a moretips address, and says she will be lurking and putting together more pieces."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Tips@canaryswans. com or moretips@canaryswans. com. I will obviously be lurking. I will be putting together more pieces."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3284.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Record tip volume and follow-up in later episodes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1708",
+   "header": "**C-1708** Host Says She Expects More Explosive Revelations When She Returns",
+   "label": "Host Says She Expects More Explosive Revelations When She Returns",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:05:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the investigation is ongoing and that when she returns she expects to have even more explosive revelations."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I expect that when we get back I'm going to have even more explosive revelations for you."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the first episodes after the break with this forecast."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-1709",
+   "header": "**C-1709** Host Says People Around the World Are Joining the Decentralized Intelligence Agency and Giving Information",
+   "label": "Host Says People Around the World Are Joining the Decentralized Intelligence Agency and Giving Information",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:05:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says people around the world are joining her decentralized intelligence agency and giving information because they sense how evil and corrupt this is, and that she will protect them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "It is truly because people around the world are sensing how evil this was and how corrupt it is that they are joining in and giving information where they can."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3284.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Record tip volume and follow-up in later episodes where the host cites emailed tips."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    }
+   ]
+  }
+ ]
+}

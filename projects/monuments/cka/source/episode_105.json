@@ -1,0 +1,6180 @@
+{
+ "format": "cka-source/1",
+ "episode": 105,
+ "blocks": [
+  {
+   "kind": "text",
+   "lines": [
+    "## 1. Meta-Data",
+    "",
+    "- **Episode**: 105",
+    "- **Monument**: cka",
+    "- **CKA seq**: 105",
+    "- **YouTube id**: Pb7UlpRdW6U",
+    "- **Candace Ep**: 339",
+    "- **Source**: Candace Owens YouTube",
+    "- **Video Timestamp Range**: 00:00:00–00:53:39",
+    "- **Extraction Timestamp (UTC)**: 2026-10-13T21:29:39Z",
+    "- **Transcript SHA-256**: 9caf7f4e6900b57aa8316245f9dee50f6b95263f387bc66ce213bb573aaa6fe6",
+    "- **Model Version**: claude-manual-extract-seq105",
+    "",
+    "- **Episode Ledger Summary**:",
+    "  - Hole-minted Nodes (reintro-ep105): N-10814",
+    "  - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused",
+    "  - Tip-minted Nodes (skeleton): N-625, N-626, N-627, N-628, N-629, N-630, N-10930, N-10931, N-10932, N-10933, N-10935",
+    "  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-14, N-22, N-40, N-69, N-159, N-160, N-190, N-280, N-370, N-373, N-544, N-614, N-620, N-621, N-10000, N-10070, N-10075, N-10125, N-10197, N-10312, N-10318, N-10472, N-10515, N-10637, N-10638, N-10652, N-10888, N-10899, N-10923, N-10934, N-10929, N-624",
+    "  - Claim Range: C-9255–C-9309",
+    "  - (see registers)",
+    "",
+    "## 2. Executive Summary",
+    "",
+    "The host returns to what she calls a leaked White House Military Office email sent after the April 25 White House Correspondents' Dinner shooting. She says the shooting happened at 8:39 p.m. Eastern, that Sara Sidner of CNN uploaded the Erika Kirk \"I just want to go home\" clip at 9:25 p.m., and that about 25 minutes later follow-up instructions went out by email to the wrong internal teams. She shows her own verbatim retyping of the email (A-2581.1), which she says she made to protect her source from a \"canary\" tactic. According to the host, the email calls the clip the \"strongest emotional response asset\" of the incident and recommends that all channels amplify it with \"digital partners\" and \"approved surrogates.\" She says it came from the White House Communications Agency domain, which White House sources describe as a Department of Defense entity (A-2581.3). She names recipients including Karoline Leavitt's press office, Steven Cheung and several military communications staff (A-2581.2). She also says White House sources describe an unusual lack of a \"scramble\" before the 10:33 p.m. press conference, and that Erika Kirk visited the West Wing just before the dinner.",
+    "",
+    "The host links the email's talking points to later coverage: a headline calling Kash Patel a hero (A-2583.1), Erika Kirk's announcement that she would appear on the Charlie Kirk Show (A-2582.1), and her speech there on radicalization (A-2582.2). She then turns to data centers. She reads a Guardian article on the Stratos AI data center approved in Box Elder County, Utah, which is backed by Kevin O'Leary (A-2584.1), and plays part of O'Leary's interview with Tucker Carlson on surveillance and facial recognition (A-2585.1). She argues that the military, the press and Turning Point USA form an alliance pushing toward a surveillance state, and compares the WHCD messaging to the aftermath of Charlie Kirk's assassination.",
+    "",
+    "In the second half the host plays a May 8 Charlie Kirk Show clip in which Andrew Kolvet and Blake Neff discuss Preborn's sponsorship of her show and encourage viewers to email sponsors (A-2586.1). She says this contradicts Charlie Kirk's free-market principles and that the backlash led to her biggest day of merch sales. She mocks Paramount Tactical (Gary Melton) over a tweet saying it does not matter whose children appear in Erika Kirk's Fort Huachuca alibi photo (A-2587.1), and notes Tracy Martin's reported clarification that the boy is not Erika's son (A-2588.1). She closes on the 22-foot golden Trump statue unveiled at a Florida golf course (A-2589.1, A-2589.2). In the comments segment she asks whether Matthew Shupe, whom she describes as Harmeet Dhillon's PR agent, filmed the Erika Kirk clip.",
+    "",
+    "## 3. Artifact Register",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2581",
+   "header": "**A-2581** White House Military Office WHCD Email Bundle",
+   "label": "White House Military Office WHCD Email Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2581.1",
+   "header": "**A-2581.1** Host's verbatim Microsoft Word retyping of the White House Military Office email addendum on the Erika Kirk clip (shown on screen and read aloud)",
+   "label": "Host's verbatim Microsoft Word retyping of the White House Military Office email addendum on the Erika Kirk clip (shown on screen and read aloud)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Uh addendum Erika Kirk video clip. Video clip of Erika Kirk leaving the ballroom area and stating I just want to go home is driving the highest engagement of all incident related content across platforms. Our current digital assessment is strongest emotional response asset associ associated with incident high cross ideological circulation elevated repost velocity among political commentary accounts increasing use as symbolic framing device regarding media conduct and national stability narratives.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:06:45"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9255, C-9264, C-9265, C-9266, C-9267, C-9268, C-9275, N-2, N-10923, N-10888*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2581.2",
+   "header": "**A-2581.2** Host's reading of the email's sender domain and recipient list",
+   "label": "Host's reading of the email's sender domain and recipient list",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"The email was sent to Karoline Leavitt's press office and team so she can confirm its authenticity.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:10:20"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9269, C-9271, C-9272, C-9273, C-9274, N-280, N-160, N-625, N-621, N-620, N-626, N-10931*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2581.3",
+   "header": "**A-2581.3** Quote from White House sources describing the White House Communications Agency (read aloud)",
+   "label": "Quote from White House sources describing the White House Communications Agency (read aloud)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"The White House Correspondence Agency is a Department of Defense controlled military communications entity that is embedded inside of the White House itself.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:09:00"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9270, N-10931, N-10888*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2582",
+   "header": "**A-2582** Erika Kirk Post-WHCD Statements Bundle",
+   "label": "Erika Kirk Post-WHCD Statements Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2582.1",
+   "header": "**A-2582.1** Erika Kirk social media statement breaking her silence after the WHCD shooting (read aloud)",
+   "label": "Erika Kirk social media statement breaking her silence after the WHCD shooting (read aloud)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Saturday was yet another traumatic example of the evil in our country and the continued rise in political violence. I'm taking time to spend with my family. I will be joining the Charlie Kirk show Wednesday at 12:00 p. m. Eastern to briefly address what took place. Enough is enough.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:14:01"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9278, N-2, N-10515*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2582.2",
+   "header": "**A-2582.2** Clip of Erika Kirk's Wednesday Charlie Kirk Show remarks on radicalization (played)",
+   "label": "Clip of Erika Kirk's Wednesday Charlie Kirk Show remarks on radicalization (played)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"This is what got my husband killed. This is what has led to three legitimate attempts on President Trump's life.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:15:44"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9280, N-2, N-1, N-5*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2583",
+   "header": "**A-2583** Kash Patel WHCD Headline Bundle",
+   "label": "Kash Patel WHCD Headline Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2583.1",
+   "header": "**A-2583.1** Headline describing Kash Patel's reaction to the WHCD shooting (shown)",
+   "label": "Headline describing Kash Patel's reaction to the WHCD shooting (shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Kash Patel's stunning reaction as the shooter opened fired and White House correspondents dinner.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:15:02"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9279, N-69, N-10637*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2584",
+   "header": "**A-2584** Guardian Utah Data Center Article Bundle",
+   "label": "Guardian Utah Data Center Article Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2584.1",
+   "header": "**A-2584.1** Guardian article on the backlash to Utah's approval of the Stratos AI data center (shown and read aloud)",
+   "label": "Guardian article on the backlash to Utah's approval of the Stratos AI data center (shown and read aloud)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"The Stratos Artificial Intelligence Data Center footprint will cover more than 40,000 acres over three sites in Box Elder County in northwestern Utah.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:17:29"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9281, C-9282, C-9283, C-9284, C-9285, C-9286, N-627, N-628, N-10933, N-10125*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2585",
+   "header": "**A-2585** Tucker Carlson–Kevin O'Leary Interview Bundle",
+   "label": "Tucker Carlson–Kevin O'Leary Interview Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2585.1",
+   "header": "**A-2585.1** Clip of Kevin O'Leary's conversation with Tucker Carlson on AI, surveillance and the Utah data center (played)",
+   "label": "Clip of Kevin O'Leary's conversation with Tucker Carlson on AI, surveillance and the Utah data center (played)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"facial recognition technology has finally got to the resolution using AI's tools where it's going to run through your data center there'll be pictures of all of us in your data center\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:21:18"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9288, N-627, N-22, N-10933*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2586",
+   "header": "**A-2586** Charlie Kirk Show May 8 Sponsor Clip Bundle",
+   "label": "Charlie Kirk Show May 8 Sponsor Clip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2586.1",
+   "header": "**A-2586.1** Clip from the May 8 Charlie Kirk Show in which Andrew Kolvet and Blake Neff discuss Preborn's sponsorship of the host's show (played)",
+   "label": "Clip from the May 8 Charlie Kirk Show in which Andrew Kolvet and Blake Neff discuss Preborn's sponsorship of the host's show (played)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Pre-born is a uh is a sponsor of Candace Owens show. Um, and that is I I know frustrating because they've been a sponsor of our show and for a long time and we love the work that Preborn does.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:31:09"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9295, C-9296, N-14, N-159, N-3, N-10934*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2587",
+   "header": "**A-2587** Paramount Tactical Fort Huachuca Alibi Bundle",
+   "label": "Paramount Tactical Fort Huachuca Alibi Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2587.1",
+   "header": "**A-2587.1** Gary Melton (Paramount Tactical) tweet on the Fort Huachuca alibi photo (shown)",
+   "label": "Gary Melton (Paramount Tactical) tweet on the Fort Huachuca alibi photo (shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"The fact is we don't know. It hasn't been clarified by Erika, but it doesn't matter. The content of the picture was illre it was irrelevant. It was proof that she wasn't at Fort Huachuca on the night.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:38:02"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9302, N-614, N-2, N-10899, N-10472*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2587.2",
+   "header": "**A-2587.2** Host verbal reference to the earlier Paramount Tactical stream clip showing the Fort Huachuca alibi photo (not replayed)",
+   "label": "Host verbal reference to the earlier Paramount Tactical stream clip showing the Fort Huachuca alibi photo (not replayed)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:37:06"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9299, C-9300, C-9301, N-614, N-14, N-2, N-10899*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2588",
+   "header": "**A-2588** Tracy Martin Clarification Bundle",
+   "label": "Tracy Martin Clarification Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2588.1",
+   "header": "**A-2588.1** Host verbal reference to Tracy Martin's statement that the boy in the alibi photo is not Erika Kirk's son and that it was a playdate (not shown)",
+   "label": "Host verbal reference to Tracy Martin's statement that the boy in the alibi photo is not Erika Kirk's son and that it was a playdate (not shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:41:18"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9304, N-544, N-2, N-10472*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2589",
+   "header": "**A-2589** Golden Trump Statue Bundle",
+   "label": "Golden Trump Statue Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2589.1",
+   "header": "**A-2589.1** Footage of the unveiling ceremony of the golden Trump statue at a Florida golf course (shown)",
+   "label": "Footage of the unveiling ceremony of the golden Trump statue at a Florida golf course (shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:42:00"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9305, C-9306, N-5, N-629, N-10935*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2589.2",
+   "header": "**A-2589.2** Headline on the Hasidic Jewish donors behind the statue (shown)",
+   "label": "Headline on the Hasidic Jewish donors behind the statue (shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"The acetic Jews behind Florida's giant golden Trump statue.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:43:03"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9307, N-10935*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 4. Node Register",
+    ""
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-1",
+   "header": "**N-1** Charlie Kirk",
+   "label": "Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Assassination victim whose aftermath the host compares to the WHCD messaging; his free-market principles are set against his show's current hosts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9256, C-9280, C-9290, C-9291, C-9292, A-2582.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-2",
+   "header": "**N-2** Erika Kirk",
+   "label": "Erika Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of the military office amplification email, the West Wing visit, the Air Force Academy board appointment, her post-WHCD statements and the Fort Huachuca alibi photo dispute."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9255, C-9258, C-9259, C-9260, C-9261, C-9263, C-9264, C-9266, C-9267, C-9275, C-9278, C-9280, C-9290, C-9291, C-9299, C-9300, C-9301, C-9302, C-9304, A-2581.1, A-2582.1, A-2582.2, A-2587.1, A-2587.2, A-2588.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-3",
+   "header": "**N-3** Candace Owens",
+   "label": "Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host; retyped the email to protect her source and responds to the advertiser campaign against her sponsors."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9265, C-9294, C-9295, C-9297, C-9298, A-2586.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-5",
+   "header": "**N-5** Donald Trump",
+   "label": "Donald Trump",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Said by the host to have survived three shooting attempts in under two years; subject of the golden statue."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9256, C-9257, C-9280, C-9305, A-2582.2, A-2589.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-14",
+   "header": "**N-14** Andrew Kolvet",
+   "label": "Andrew Kolvet",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Transcript spellings \"Andrew Kolvet\", \"Andrew Kolvet\", \"Andrew Kolvet\". Co-host of the May 8 sponsor clip; host assumes he accompanied Erika Kirk to the West Wing and says he orchestrated the Fort Huachuca alibi."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9260, C-9295, C-9296, C-9299, C-9309, A-2586.1, A-2587.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-22",
+   "header": "**N-22** Tucker Carlson",
+   "label": "Tucker Carlson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Interviewed Kevin O'Leary about AI, surveillance and the Utah data center."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9288, A-2585.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-40",
+   "header": "**N-40** Tyler Robinson",
+   "label": "Tyler Robinson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named as the person Erika Kirk publicly forgave about a week after the assassination."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9290*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-69",
+   "header": "**N-69** Kash Patel",
+   "label": "Kash Patel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Described in a headline as a hero for telling people to get down during the WHCD shooting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9279, A-2583.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-159",
+   "header": "**N-159** Blake Neff",
+   "label": "Blake Neff",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Transcript spelling \"Blake Neff\". Co-host of the May 8 Charlie Kirk Show clip on Preborn and emailing sponsors."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9295, C-9296, A-2586.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-160",
+   "header": "**N-160** Steven Cheung",
+   "label": "Steven Cheung",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Transcript spelling \"Steven Cheung\". Named by the host as a recipient of the email."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9272, A-2581.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-190",
+   "header": "**N-190** Mikey McCoy",
+   "label": "Mikey McCoy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host assumes, but cannot confirm, that he accompanied Erika Kirk to the West Wing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9260*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-280",
+   "header": "**N-280** Karoline Leavitt",
+   "label": "Karoline Leavitt",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Her press office and team are named as recipients of the email."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9271, A-2581.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-370",
+   "header": "**N-370** Sara Sidner",
+   "label": "Sara Sidner",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Transcript spelling \"Sydney Sidner\". CNN reporter said to have uploaded the Erika Kirk clip at 9:25 p.m."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9263*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-373",
+   "header": "**N-373** Harmeet Dhillon",
+   "label": "Harmeet Dhillon",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Transcript spelling \"Harit Dylan\". Host says Matthew Shupe does PR for her and that she sat with Andrew Kolvet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9308, C-9309*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-544",
+   "header": "**N-544** Tracy Martin",
+   "label": "Tracy Martin",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Erika Kirk's longtime friend; reportedly clarified that the boy in the alibi photo is not Erika's son."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9304, A-2588.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-624",
+   "header": "**N-624** Vladimir Putin",
+   "label": "Vladimir Putin",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "05:04 in episode 105. Cited as a long-serving leader who has not faced comparable shooting attempts.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9257*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-625",
+   "header": "**N-625** Richard Smale",
+   "label": "Richard Smale",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "10:20 in episode 105. Described as a communications officer and information assurance engineer at the White House Communications Agency who received the email.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9272, A-2581.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-621",
+   "header": "**N-621** Gustav Anderly",
+   "label": "Gustav Anderly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "10:20 in episode 105. Described as an information systems manager at the White House Communications Agency who received the email.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9273, A-2581.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-620",
+   "header": "**N-620** Ryan Rippeon",
+   "label": "Ryan Rippeon",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "10:20 in episode 105. Described as commander of naval communications and a recipient of the email.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9273, A-2581.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-626",
+   "header": "**N-626** Michaela Mott",
+   "label": "Michaela Mott",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "11:19 in episode 105. Described as Navy and a recipient of the email.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9274, A-2581.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-627",
+   "header": "**N-627** Kevin O'Leary",
+   "label": "Kevin O'Leary",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "18:48 in episode 105. Shark Tank venture capitalist backing the Stratos data center; interviewed by Tucker Carlson. Aliases: Kevin O'Leary; O'Leary; Kevin O'Leary.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9284, C-9286, C-9288, A-2584.1, A-2585.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-628",
+   "header": "**N-628** Lee Perry",
+   "label": "Lee Perry",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "18:48 in episode 105. Box Elder County commissioner quoted in the Guardian article on the backlash.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9285, A-2584.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-614",
+   "header": "**N-614** Gary Melton",
+   "label": "Gary Melton",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "38:02 in episode 105. The person behind the Paramount Tactical account; tweeted that the alibi photo's content was irrelevant. Aliases: Paramount Tactical; Paramount Not So Tactical.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9300, C-9302, C-9303, A-2587.1, A-2587.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-629",
+   "header": "**N-629** Mark Burns",
+   "label": "Mark Burns",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "42:00 in episode 105. Evangelical pastor defending the golden Trump statue.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9306, A-2589.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-630",
+   "header": "**N-630** Matthew Shupe",
+   "label": "Matthew Shupe",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "47:33 in episode 105. Described as a PR agent for Harmeet Dhillon and Dhillon Law Group; the host asks whether he filmed the Erika Kirk WHCD clip.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9308*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10000",
+   "header": "**N-10000** Turning Point USA",
+   "label": "Turning Point USA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Organization the host places in an alliance with the White House and the military; its Charlie Kirk Show hosts are criticized over the advertiser campaign."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9289, C-9290, C-9292, C-9293, C-9295*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10070",
+   "header": "**N-10070** Daily Mail",
+   "label": "Daily Mail",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Erika Kirk said she came to DC to confront its reporters."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9261*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10075",
+   "header": "**N-10075** White House",
+   "label": "White House",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Site of Erika Kirk's West Wing visit and the 10",
+     "v": "33 p.m. press conference; base of the communications agency.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9260, C-9276, C-9277*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10125",
+   "header": "**N-10125** Utah",
+   "label": "Utah",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "State where the Stratos data center was approved."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9281, C-9282, C-9283, A-2584.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10197",
+   "header": "**N-10197** TPUSA Military-Personnel Network",
+   "label": "TPUSA Military-Personnel Network",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host says everyone at Turning Point USA now seems connected to the military."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9289*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10312",
+   "header": "**N-10312** Charlie Kirk Show Apple Podcasts Ranking Decline",
+   "label": "Charlie Kirk Show Apple Podcasts Ranking Decline",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host says the show, once top 10, now averages 380 views per episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9292*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10318",
+   "header": "**N-10318** Operation Mockingbird 2.0 Allegation",
+   "label": "Operation Mockingbird 2.0 Allegation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host frames the WHCD messaging as \"operation mockingbird on steroids.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9258*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10472",
+   "header": "**N-10472** Fort Huachuca Alibi Investigation",
+   "label": "Fort Huachuca Alibi Investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The children in Erika Kirk's alibi photo and Paramount Tactical's statements about them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9299, C-9300, C-9301, C-9302, C-9304, A-2587.1, A-2588.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10515",
+   "header": "**N-10515** Erika Kirk Twitter Silence Break Pattern",
+   "label": "Erika Kirk Twitter Silence Break Pattern",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Erika Kirk's post-WHCD statement breaking her silence."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9278, A-2582.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10637",
+   "header": "**N-10637** WHCD Incident Reconstruction",
+   "label": "WHCD Incident Reconstruction",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Timing of the shooting, the clip upload, the email and the press conference."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9256, C-9262, C-9264, C-9276, C-9277, C-9279, A-2583.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10638",
+   "header": "**N-10638** Sara Sidner Original Video Source Verification",
+   "label": "Sara Sidner Original Video Source Verification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Who filmed and first uploaded the Erika Kirk clip."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9263, C-9308*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10652",
+   "header": "**N-10652** Dhillon Law Group / Show Faith by Works Connection",
+   "label": "Dhillon Law Group / Show Faith by Works Connection",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host ties Matthew Shupe to Dhillon Law Group."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9308*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10814",
+   "header": "**N-10814** Pentagon–State Department–TPUSA Coordinated Messaging Operation",
+   "label": "Pentagon–State Department–TPUSA Coordinated Messaging Operation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The email's surrogate and digital-partner amplification instructions."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9258, C-9267, C-9268, C-9290*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10888",
+   "header": "**N-10888** Department of War",
+   "label": "Department of War",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host says the email came from the Department of Defense through the White House Communications Agency."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9258, C-9265, C-9270, A-2581.1, A-2581.3*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10899",
+   "header": "**N-10899** Paramount Tactical",
+   "label": "Paramount Tactical",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Account whose host showed and then disowned the relevance of the Fort Huachuca alibi photo."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9299, C-9300, C-9302, A-2587.1, A-2587.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10923",
+   "header": "**N-10923** White House Military Office Erika Kirk Amplification Email",
+   "label": "White House Military Office Erika Kirk Amplification Email",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "k": "Investigation target",
+     "v": "the email the host says was sent by the White House Military Office through the White House Communications Agency about 25 minutes after Sara Sidner's 9:25 p.m. upload of the Erika Kirk clip on the night of the April 25 WHCD shooting. According to the host's verbatim retyping, it calls the clip the \"strongest emotional response asset\" and recommends that all channels, digital partners and approved surrogates amplify it. It also expects aligned outside commentators to push themes on protective response, media conduct, political rhetoric and executive stability. The host names recipients including Karoline Leavitt's press office, Steven Cheung and several military communications staff, and calls for FOIA requests."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9255, C-9258, C-9264, C-9265, C-9266, C-9267, C-9268, C-9269, C-9271, C-9272, C-9273, C-9274, C-9275, A-2581.1, A-2581.2, N-2, N-10931*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10929",
+   "header": "**N-10929** Erika Kirk Air Force Academy Board of Visitors Appointment",
+   "label": "Erika Kirk Air Force Academy Board of Visitors Appointment",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "k": "Investigation target",
+     "v": "Erika Kirk's appointment to the U.S. Air Force Academy Board of Visitors in her late husband's place, which the host says was artificial and of unclear qualification."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9259, N-2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10930",
+   "header": "**N-10930** Erika Kirk Pre-WHCD West Wing Visit",
+   "label": "Erika Kirk Pre-WHCD West Wing Visit",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "k": "Investigation target",
+     "v": "Erika Kirk's visit to the West Wing just before the WHCD shooting, which the host says she can confirm; the host assumes but cannot confirm that Andrew Kolvet and Mikey McCoy went with her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9260, N-2, N-14, N-190*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10931",
+   "header": "**N-10931** White House Communications Agency",
+   "label": "White House Communications Agency",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "raw": "Department of Defense military communications unit embedded in the White House. The host says the amplification email was delivered from its military office domain and that several recipients hold positions there."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9269, C-9270, C-9272, C-9273, A-2581.2, A-2581.3, N-625, N-621*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10932",
+   "header": "**N-10932** WHCD Night White House \"No Scramble\" Readiness Question",
+   "label": "WHCD Night White House \"No Scramble\" Readiness Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "k": "Investigation target",
+     "v": "the host's White House sources say that on the Saturday evening of the WHCD, when the White House was not open for business, staff were unusually available and on standby, with no scramble before the 10:33 p.m. press conference."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9276, C-9277*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10933",
+   "header": "**N-10933** Stratos AI Data Center (Box Elder County, Utah)",
+   "label": "Stratos AI Data Center (Box Elder County, Utah)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "A proposed AI data center reported by the Guardian to cover more than 40,000 acres over three sites in Box Elder County, Utah. It would need about 9 gigawatts of power and is backed by Kevin O'Leary. County commissioners approved it despite thousands of objections. The host presents it as part of a push toward a surveillance state."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9281, C-9282, C-9283, C-9284, C-9285, C-9286, C-9288, A-2584.1, A-2585.1, N-627, N-628*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10934",
+   "header": "**N-10934** Charlie Kirk Show Sponsor-Pressure Campaign Against Candace Owens",
+   "label": "Charlie Kirk Show Sponsor-Pressure Campaign Against Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "k": "Investigation target",
+     "v": "the May 8 Charlie Kirk Show segment in which Andrew Kolvet and Blake Neff discussed Preborn sponsoring the host's show and encouraged viewers to email sponsors. The host links it to the same weekend's X campaign to boycott her advertisers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9294, C-9295, C-9296, C-9297, A-2586.1, N-14, N-159*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10935",
+   "header": "**N-10935** Florida Golden Trump Statue",
+   "label": "Florida Golden Trump Statue",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "A 22-foot golden statue of Donald Trump unveiled at a Florida golf course. Pastor John Mark Burns defended it, and the host says Hasidic Jewish donors backed it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9305, C-9306, C-9307, A-2589.1, A-2589.2, N-5, N-629*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 5. Claim Register",
+    ""
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9255",
+   "header": "**C-9255** White House Military Office email instructed immediate amplification of Erika Kirk",
+   "label": "White House Military Office email instructed immediate amplification of Erika Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the email she presented the day before was sent by the White House Military Office to immediately begin amplifying Erika Kirk after the WHCD shooting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the email that uh we presented that the White House military office sent out to immediately begin amplifying Erika Kirk of all people"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2581.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10923, N-10637"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "File FOIA requests for White House Military Office and White House Communications Agency email traffic on the evening of April 25, 2026."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9256",
+   "header": "**C-9256** Trump has survived three shooting assassination attempts in under two years",
+   "label": "Trump has survived three shooting assassination attempts in under two years",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says we are supposed to believe that President Trump has survived three separate shooting assassination attempts in just under two years, which she says would be unprecedented for a sitting president."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "a sitting president has survived not one, not two, but three separate shooting assassination attempts all in the span of just under two years"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-5"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10637"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compile Secret Service and FBI records of the Butler, West Palm Beach and WHCD incidents and their dates."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9257",
+   "header": "**C-9257** Putin has been president for 22 years without comparable shooting attempts",
+   "label": "Putin has been president for 22 years without comparable shooting attempts",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:04"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Vladimir Putin has been president of Russia for 22 years and has not faced a comparable pattern of shooting attempts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Like Vladimir Putin, as just one example, he has been the president of Russia for 22 years."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-624, N-5"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check Putin's years in office and the public record of assassination attempts against him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9258",
+   "header": "**C-9258** Host asserts the clip's amplification was designed by the military",
+   "label": "Host asserts the clip's amplification was designed by the military",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:04"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host asserts that the email proves the amplification of the Erika Kirk clip was designed by the military, and says the media will probably not want to cover it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "But now we have the proof at the very least that its amplification was designed by the military. That is a fact."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2581.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10923, N-10888, N-10814, N-10318"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Authenticate the email through the White House Communications Agency and the named recipients, and obtain any related tasking to digital partners."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9259",
+   "header": "**C-9259** Erika Kirk was appointed to the Air Force Academy Board of Visitors",
+   "label": "Erika Kirk was appointed to the Air Force Academy Board of Visitors",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:15"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk was appointed to the Air Force Academy Board of Visitors in her husband's place and questions whether she is qualified."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Dr. Erika Kirk was herself promoted to the Air Force Academy board of visitors in her husband's uhstead"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10929"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the appointment notice and membership roster of the U.S. Air Force Academy Board of Visitors."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9260",
+   "header": "**C-9260** Erika Kirk visited the West Wing just before the WHCD shooting",
+   "label": "Erika Kirk visited the West Wing just before the WHCD shooting",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:26"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she can confirm that Erika Kirk visited the West Wing just ahead of the WHCD shooting. She assumes, but cannot yet confirm, that Andrew Kolvet and Mikey McCoy went with her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "just ahead of the White House correspondence dinner shooting, Erika Kirk visited the West Wing"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-14, N-190"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10930, N-10075"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain White House visitor (WAVES) records for Erika Kirk, Andrew Kolvet and Mikey McCoy for the days before April 25, 2026."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9261",
+   "header": "**C-9261** Erika Kirk said she came to DC to confront Daily Mail reporters",
+   "label": "Erika Kirk said she came to DC to confront Daily Mail reporters",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk told the public that the purpose of her DC trip was to confront Daily Mail reporters, despite saying she was afraid to travel, and asks what she was doing in the West Wing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "she did this and braved everything to confront Daily Mail reporters"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10070, N-10930"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8588"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare Erika Kirk's public explanation of her DC trip with her West Wing visit records and schedule."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9262",
+   "header": "**C-9262** The WHCD shooting took place at 8:39 p.m. Eastern",
+   "label": "The WHCD shooting took place at 8:39 p.m. Eastern",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the WHCD shooting happened at 8:39 p.m. Eastern."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the shooting happened at 8:39 p. m. 8:39 p. m. Eastern."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10637"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm the time from Secret Service and Metropolitan Police incident reports."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9263",
+   "header": "**C-9263** Sara Sidner of CNN uploaded the Erika Kirk video at 9:25 p.m.",
+   "label": "Sara Sidner of CNN uploaded the Erika Kirk video at 9:25 p.m.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Sara Sidner of CNN uploaded the video of Erika Kirk at 9:25 p.m."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Sydney Sidner of CNN uploaded the video of Erika Kirk at 9:25 p. m."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-370, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10638"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8577"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive Sidner's original post with its timestamp and establish who filmed the clip."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9264",
+   "header": "**C-9264** About 25 minutes later the email went to the wrong internal teams",
+   "label": "About 25 minutes later the email went to the wrong internal teams",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that about 25 minutes after Sidner's upload, the White House Military Office sent follow-up instructions in an email that accidentally went to the wrong internal teams."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "approximately 25 minutes later, we revealed to you that the White House military office sent out follow-up instructions uh in an email that accidentally went out to the wrong internal teams"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2581.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-370"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10923, N-10637"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the email's header timestamps and distribution list through FOIA or the named recipients."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9265",
+   "header": "**C-9265** Host retyped the email verbatim to protect her source from a canary trap",
+   "label": "Host retyped the email verbatim to protect her source from a canary trap",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she typed the relevant portion of the email verbatim into Microsoft Word to protect her source from the Department of Defense's \"canary email tactic.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I just typed it the email verbatim onto uh Microsoft Word to protect my source from that canary email tactic that's employed by the Department of Defense"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2581.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10923, N-10888"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Seek authentication of the email text from a second source or through FOIA release of the original."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9266",
+   "header": "**C-9266** Email said the Erika Kirk clip was driving the highest engagement",
+   "label": "Email said the Erika Kirk clip was driving the highest engagement",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "According to the host's retyping, the email's addendum said the clip of Erika Kirk saying \"I just want to go home\" was driving the highest engagement of all incident-related content and was the \"strongest emotional response asset\" associated with the incident."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Video clip of Erika Kirk leaving the ballroom area and stating I just want to go home is driving the highest engagement of all incident related content across platforms."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2581.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10923"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the original email and any social-listening reports the White House relied on that night."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9267",
+   "header": "**C-9267** Email recommended amplifying the clip through digital partners and approved surrogates",
+   "label": "Email recommended amplifying the clip through digital partners and approved surrogates",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "According to the host's retyping, the email recommended that all communications channels amplify the clip and coordinate with \"digital partners\" and \"approved surrogates\" for dominant overnight placement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "All communications channels should amplify this clip, coordinate with our digital partners, who that is, and our approved surrogates."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2581.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10923, N-10814"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "FOIA any list of \"approved surrogates\" or digital partners used by White House communications."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9268",
+   "header": "**C-9268** Email expected aligned outside commentators to amplify set themes",
+   "label": "Email expected aligned outside commentators to amplify set themes",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the email expected aligned outside commentators to independently amplify the professionalism of the protective response, media conduct during the evacuation, political rhetoric and escalation concerns, and broader executive stability themes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "external commentary expect aligned outside commentators. So talking about their surrogates to independently amplify the professionalism of protective response"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2581.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10923, N-10814"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the themes listed in the email against commentator posts in the hours after the shooting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9269",
+   "header": "**C-9269** Email was delivered from the White House Communications Agency domain",
+   "label": "Email was delivered from the White House Communications Agency domain",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the email was delivered from the military office domain of the White House Communications Agency."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the email was delivered from the military office domain from the White House communications agency."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2581.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10923, N-10931"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the sender domain through the original message headers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9270",
+   "header": "**C-9270** White House sources describe the WHCA as a DoD-controlled entity",
+   "label": "White House sources describe the WHCA as a DoD-controlled entity",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads a quote from White House sources describing the White House Communications Agency as a Department of Defense-controlled military communications entity embedded in the White House."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The White House Correspondence Agency is a Department of Defense controlled military communications entity that is embedded inside of the White House itself."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2581.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10931, N-10888"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check DoD and White House Military Office documentation on the WHCA's chain of command and mission."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9271",
+   "header": "**C-9271** Email went to Karoline Leavitt's press office and national security teams",
+   "label": "Email went to Karoline Leavitt's press office and national security teams",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:20"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the email was sent to Karoline Leavitt's press office and team, with the national security press team and national security operations team copied, and says Leavitt can confirm its authenticity."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The email was sent to Karoline Leavitt's press office and team so she can confirm its authenticity."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2581.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-280"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10923"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask the White House press office to confirm or deny receipt of the email."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9272",
+   "header": "**C-9272** Steven Cheung and Richard Smale were on the email",
+   "label": "Steven Cheung and Richard Smale were on the email",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:20"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says White House communications director Steven Cheung and Richard Smale, a WHCA communications officer and information assurance engineer, were recipients of the email."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We covered some of this yesterday with Steven Cheung who is the White House communications director. Richard Smale who is the communications officer"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2581.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-160, N-625"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10923, N-10931"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm the named individuals' positions and their inclusion on the distribution list."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9273",
+   "header": "**C-9273** Gustav Anderly and Ryan Rippeon, military communications staff, were on the email",
+   "label": "Gustav Anderly and Ryan Rippeon, military communications staff, were on the email",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:20"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Gustav Anderly, a WHCA information systems manager, and Ryan Rippeon, commander of naval communications, were recipients of the email."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Uh Gustav Anderly, also military position, information systems manager at the White House Communications Agency. And Ryan Rippeon, Ryan Rippeon is the commander of naval communications."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2581.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-621, N-620"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10923, N-10931"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify these names and roles in DoD and Navy personnel listings."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9274",
+   "header": "**C-9274** Michaela Mott of the Navy was on the email",
+   "label": "Michaela Mott of the Navy was on the email",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says a Navy member named Michaela Mott was also on the email."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They also have someone named Michaela Mott who was on this email also Navy."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2581.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-626"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10923"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the name and Navy role, and the distribution list of the original email."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9275",
+   "header": "**C-9275** Email described Erika Kirk as an \"emotional response asset\"",
+   "label": "Email described Erika Kirk as an \"emotional response asset\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that within an hour of the shooting the email prioritized Erika Kirk and described her as an \"emotional response asset.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "She is described in the email as an emotional response asset."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2581.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10923"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the original email text to confirm the exact wording."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9276",
+   "header": "**C-9276** White House sources say there was no scramble that Saturday evening",
+   "label": "White House sources say there was no scramble that Saturday evening",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:11"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "According to the host's White House sources, on the Saturday evening of the dinner the campus security protocol and perimeters were unusual, staff were all available and on standby, and there was no scramble to get personnel back to the White House."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Everybody was somehow available and on standby for some unknown reason."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10932, N-10075, N-10637"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain White House staff duty rosters and badge-access logs for the evening of April 25, 2026."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9277",
+   "header": "**C-9277** White House press conference took place at 10:33 p.m.",
+   "label": "White House press conference took place at 10:33 p.m.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:11"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the late-night White House press conference took place at 10:33 p.m., less than two hours after the shooting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "a late night presser at the White House, which as we as we know and took place at 10:33 p. m."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10932, N-10075, N-10637"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm the press conference start time from White House video archives."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9278",
+   "header": "**C-9278** Erika Kirk announced she would address the shooting on the Charlie Kirk Show",
+   "label": "Erika Kirk announced she would address the shooting on the Charlie Kirk Show",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads Erika Kirk's post saying she was taking time with her family and would join the Charlie Kirk Show on Wednesday at 12:00 p.m. Eastern to address what took place."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I will be joining the Charlie Kirk show Wednesday at 12:00 p. m. Eastern to briefly address what took place. Enough is enough."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2582.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10515"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive Erika Kirk's original post with its timestamp."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9279",
+   "header": "**C-9279** A headline described Kash Patel as a hero for his reaction to the shooting",
+   "label": "A headline described Kash Patel as a hero for his reaction to the shooting",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:02"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host shows a headline on Kash Patel's \"stunning reaction\" to the shooting and says the article calls him a hero for telling others at his table to get down."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Kash Patel's stunning reaction as the shooter opened fired and White House correspondents dinner."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2583.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-69"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10637"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the outlet, author and publication time of the article."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9280",
+   "header": "**C-9280** Erika Kirk said radicalization got her husband killed and led to three attempts on Trump",
+   "label": "Erika Kirk said radicalization got her husband killed and led to three attempts on Trump",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:39"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip played by the host, Erika Kirk says the systemic indoctrination and radicalization of citizens \"got my husband killed\" and led to three legitimate attempts on President Trump's life."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "This is what got my husband killed. This is what has led to three legitimate attempts on President Trump's life."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2582.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-1, N-5"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive the full Charlie Kirk Show episode and compare its themes with those listed in the email."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9281",
+   "header": "**C-9281** Stratos AI data center will cover more than 40,000 acres in Box Elder County",
+   "label": "Stratos AI data center will cover more than 40,000 acres in Box Elder County",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:29"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads a Guardian article reporting that the Stratos AI data center will cover more than 40,000 acres over three sites in Box Elder County, Utah, more than twice the size of Manhattan."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The Stratos Artificial Intelligence Data Center footprint will cover more than 40,000 acres over three sites in Box Elder County in northwestern Utah."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2584.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10933, N-10125"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain Box Elder County planning filings for the Stratos project."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9282",
+   "header": "**C-9282** The data center will need about 9 gigawatts, more than Utah consumes",
+   "label": "The data center will need about 9 gigawatts, more than Utah consumes",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:29"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "According to the Guardian article read by the host, the facility will require about 9 gigawatts of power, more than the whole state of Utah currently consumes, and will draw significant water in a drought-hit area."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The facility will require um about 9 gawatts of power, which is more than the entire state of Utah currently consumes"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2584.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10933, N-10125"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the project's stated power demand with Utah's total electricity consumption data."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9283",
+   "header": "**C-9283** County commissioners approved the project despite thousands of objections",
+   "label": "County commissioners approved the project despite thousands of objections",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:29"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The Guardian article read by the host says Box Elder County commissioners approved the project despite thousands of objections from Utah residents."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Last week, the project was approved by the county's commissioners despite thousands of objections lodged by Utah residents."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2584.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10933, N-10125"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the commission's vote record and the public comment count."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9284",
+   "header": "**C-9284** Kevin O'Leary backs the project and says it will create thousands of jobs",
+   "label": "Kevin O'Leary backs the project and says it will create thousands of jobs",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:48"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The article says the project is backed by Shark Tank venture capitalist Kevin O'Leary, who has claimed Stratos will deliver thousands of jobs."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the proposed project is backed by Kevin O'Leary, the venture capitalist who appeared on the TV show Shark Tank."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2584.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-627"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10933"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the Stratos project's investors and corporate filings."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9285",
+   "header": "**C-9285** Commissioner Lee Perry said the meetings left him physically sick",
+   "label": "Commissioner Lee Perry said the meetings left him physically sick",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:48"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The article says Box Elder County commissioner Lee Perry said the contentious public meetings left him feeling physically sick amid alleged death threats and false accusations."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Lee Perry, who was the box elder county commissioner, said left him feeling physically sick amidst alleged death threats and false accusations."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2584.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-628"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10933"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate Perry's original statement and any police reports of threats."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9286",
+   "header": "**C-9286** O'Leary claimed most protesters were not local and were paid",
+   "label": "O'Leary claimed most protesters were not local and were paid",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:54"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The article says Kevin O'Leary claimed in social media posts that most protesters do not live locally and were paid to object to the project."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "O'Leary has claimed in social media posts that most of the protesters don't live locally and have been paid to object to the project."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2584.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-627"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10933"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive O'Leary's posts and compare with the residency of people who lodged objections."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9287",
+   "header": "**C-9287** Authorities can remotely shut down many newer cars",
+   "label": "Authorities can remotely shut down many newer cars",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:54"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says authorities can already automatically shut down a large portion of newer cars while they are being driven."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They already can shut down a large portion of cars automatically, the newer ones."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review vehicle remote-disable capabilities and any federal mandates on kill-switch technology."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9288",
+   "header": "**C-9288** O'Leary told Tucker Carlson AI facial recognition will run through data centers",
+   "label": "O'Leary told Tucker Carlson AI facial recognition will run through data centers",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:18"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip played by the host, Kevin O'Leary tells Tucker Carlson that AI-enhanced facial recognition has reached a resolution where images will run through data centers, and says he uses it for convenience."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "facial recognition technology has finally got to the resolution using AI's tools where it's going to run through your data center"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2585.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-627, N-22"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10933"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive the full Tucker Carlson interview."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9289",
+   "header": "**C-9289** Host says everyone at TPUSA now seems connected to the military",
+   "label": "Host says everyone at TPUSA now seems connected to the military",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that early in her investigation she noted that seemingly everyone at Turning Point USA was connected to the military, which she says was not the case when she worked there."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "underscored how it seems that everyone is randomly connected to the military at that organization"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10197, N-10000"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compile the military service and affiliation records of TPUSA senior staff and board members."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9290",
+   "header": "**C-9290** Erika Kirk urged people to sign up for TPUSA 48 hours after the assassination",
+   "label": "Erika Kirk urged people to sign up for TPUSA 48 hours after the assassination",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:37"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that 48 hours after Charlie Kirk's assassination Erika Kirk told the public to sign up for Turning Point USA, and a week later asked them to join her in forgiving Tyler Robinson. She calls this the same pattern as the WHCD messaging."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "48 hours later, she tells us, \"Sign up for Turning Point USA.\" That's what she did."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-1, N-40"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10814"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the timing of Erika Kirk's September 2025 statements with any internal TPUSA or government messaging guidance."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9291",
+   "header": "**C-9291** Donors present say Charlie Kirk never made the appointment statement",
+   "label": "Donors present say Charlie Kirk never made the appointment statement",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:26:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host refers to the alleged AI video of Charlie Kirk's voice appointing Erika Kirk, which she says donors present in the room said he never said."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Alleged AI video by the donors who were present in the room and said he never said it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Supports",
+     "v": "C-9050"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the original Aspen recording and interview the donors present."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9292",
+   "header": "**C-9292** The Charlie Kirk Show now averages 380 views per episode",
+   "label": "The Charlie Kirk Show now averages 380 views per episode",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:29:03"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Charlie Kirk Show, once a top-10 show, now averages 380 views per episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the Charlie Kirk show, is now averaging 380 views per episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10312, N-10000"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pull YouTube and podcast chart data for the Charlie Kirk Show."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9293",
+   "header": "**C-9293** Host alleges the Charlie Kirk Show fakes live callers",
+   "label": "Host alleges the Charlie Kirk Show fakes live callers",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host alleges that despite low views the Charlie Kirk Show pretends to have live callers, with producers posing as callers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "despite these very low views, they pretend that they have live callers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare caller names and voices on the show with production staff."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9294",
+   "header": "**C-9294** Israeli clone accounts organized a boycott of the host's advertisers",
+   "label": "Israeli clone accounts organized a boycott of the host's advertisers",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says pro-Erika, pro-TPUSA Israeli clone accounts on X began organizing a boycott of her advertisers that weekend."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "like you could just draw a direct line on X began trying to organize this boycott of my advertisers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10934"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Analyze the accounts that posted the boycott calls for creation dates and coordination patterns."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9295",
+   "header": "**C-9295** On the May 8 show, Kolvet and Neff said Preborn sponsors both shows",
+   "label": "On the May 8 show, Kolvet and Neff said Preborn sponsors both shows",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Blake Neff and Andrew Kolvet signaled the advertiser campaign first. In their May 8 show clip, one of them says Preborn sponsors the host's show and has long sponsored theirs."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Pre-born is a uh is a sponsor of Candace Owens show. Um, and that is I I know frustrating because they've been a sponsor of our show and for a long time"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2586.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-159, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10934, N-10000"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive the full May 8 episode and identify which host made each statement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9296",
+   "header": "**C-9296** The Charlie Kirk Show hosts encouraged viewers to email the sponsor",
+   "label": "The Charlie Kirk Show hosts encouraged viewers to email the sponsor",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:32:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the May 8 clip, a Charlie Kirk Show host suggests that sponsors may be locked into contracts and encourages viewers who feel strongly to email the sponsor with concerns."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I would encourage you to send them an email, you could say, \"I have concerns. I might cease support or I might support you more if you were to make a different decision of this nature.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2586.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-159"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10934"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the speaker and whether TPUSA staff contacted Preborn directly."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9297",
+   "header": "**C-9297** Host says her show does not lock sponsors into contracts",
+   "label": "Host says her show does not lock sponsors into contracts",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her show does not put \"handcuffs\" on sponsors and deliberately sought advertisers who would not back out during a fight."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We do not put handcuffs on our sponsors. Okay? We do not put handcuffs on our sponsors."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10934"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review sponsor contract terms, if disclosed, for exclusivity or cancellation clauses."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9298",
+   "header": "**C-9298** The boycott led to the show's biggest day of merch sales",
+   "label": "The boycott led to the show's biggest day of merch sales",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the campaign led to the biggest day of merch sales on her website ever."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "leading to the biggest day of merch sales on our website ever."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Seek sales data for the store on the dates in question."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9299",
+   "header": "**C-9299** Erika Kirk and Kolvet orchestrated the Fort Huachuca alibi, which Paramount Tactical read out",
+   "label": "Erika Kirk and Kolvet orchestrated the Fort Huachuca alibi, which Paramount Tactical read out",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:06"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says an earlier clip showed Erika Kirk and Andrew Kolvet orchestrating the Fort Huachuca alibi behind the scenes, and that Paramount Tactical accidentally read out the alibi and showed the picture."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we showed you the clip, the now famed clip of Erika and Andrew Kolvet orchestrating this Fort Huachuca non-alibi behind the scenes"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2587.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-14, N-614"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10472, N-10899"
+    },
+    {
+     "k": "Supports",
+     "v": "C-4484"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive the Paramount Tactical Valhalla stream and any messages from Kolvet supplying the alibi."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9300",
+   "header": "**C-9300** Paramount Tactical said the boy in the photo is not Erika's son",
+   "label": "Paramount Tactical said the boy in the photo is not Erika's son",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:06"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Paramount Tactical first said the boy in the alibi photo is not Erika Kirk's son."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "First, he said like, you know, it's not her son."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2587.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-614, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10472, N-10899"
+    },
+    {
+     "k": "Supports",
+     "v": "C-9135"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive Paramount Tactical's original statement on the photo."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9301",
+   "header": "**C-9301** People who know the daughter say the girl in the photo is not hers",
+   "label": "People who know the daughter say the girl in the photo is not hers",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:06"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says people with direct knowledge who know Erika Kirk's daughter say the girl in the alibi photo is not her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "people with direct knowledge and who know the daughter say that it is not her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2587.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10472"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Establish the provenance and date of the photo and the identities of the children shown."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9302",
+   "header": "**C-9302** Gary Melton tweeted that whose children were in the photo does not matter",
+   "label": "Gary Melton tweeted that whose children were in the photo does not matter",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:02"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host shows a tweet by Gary Melton (Paramount Tactical) saying it has not been clarified whose children are in the photo but that it does not matter, and that the picture was proof Erika Kirk was not at Fort Huachuca."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The fact is we don't know. It hasn't been clarified by Erika, but it doesn't matter."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2587.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-614, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10472, N-10899"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive the tweet and the follow-up posts with timestamps."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9303",
+   "header": "**C-9303** Gary Melton served as a Green Beret",
+   "label": "Gary Melton served as a Green Beret",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Gary Melton, the man behind Paramount Tactical, served as a Green Beret, and says Turning Point USA turns to him for public relations."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I'm terrified to understand that Paramount, not so tactical, served as a Green Beret."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-614"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10899"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify Melton's service record through Army Special Forces records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9304",
+   "header": "**C-9304** Tracy Martin clarified the boy is not Erika's son and called it a playdate",
+   "label": "Tracy Martin clarified the boy is not Erika's son and called it a playdate",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:41:18"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Tracy Martin, Erika Kirk's friend of 15 years, clarified that the boy in the photo is not Erika's son and described the occasion as a playdate with friends."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "even Tracy Martin, Erika's dear, long 15-year friend, jumped into the fay at some point and clarified that the sun is not Erika's."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2588.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-544, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10472"
+    },
+    {
+     "k": "Supports",
+     "v": "C-9135"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive Tracy Martin's statement and identify the children and date of the playdate."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9305",
+   "header": "**C-9305** A 22-foot golden Trump statue was unveiled at a Florida golf course",
+   "label": "A 22-foot golden Trump statue was unveiled at a Florida golf course",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:42:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says a 22-foot golden statue of President Trump was unveiled at one of Florida's golf courses."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "a 22 foot golden statue of President Donald Trump at one of Florida's golf courses."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2589.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-5"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10935"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the golf course, date of unveiling and the commissioning party."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9306",
+   "header": "**C-9306** Pastor John Mark Burns defended the statue",
+   "label": "Pastor John Mark Burns defended the statue",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:42:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says evangelical minister John Mark Burns appeared at the ceremony and is defending the statue against backlash."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the pastor John Mark Burns, an evangelical minister, um is defending it"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2589.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-629, N-5"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10935"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive Burns's public statements on the statue."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9307",
+   "header": "**C-9307** Hasidic Jewish donors financially backed the statue",
+   "label": "Hasidic Jewish donors financially backed the statue",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:43:03"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the statue was financially backed not by Christians but, she believes, by major donors from the Hasidic Jewish community, and shows a headline on the subject."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "backed not by Christians financially um but by I believe the acidic Jewish community major donors to the statue"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2589.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-5"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10935"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the article and the named donors or funding entity behind the statue."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9308",
+   "header": "**C-9308** Matthew Shupe does PR for Harmeet Dhillon and Dhillon Law Group",
+   "label": "Matthew Shupe does PR for Harmeet Dhillon and Dhillon Law Group",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Asking who filmed the Erika Kirk clip, the host says she does not think it was Andrew Kolvet. She asks whether it could have been Matthew Shupe, whom she describes as a PR agent for Harmeet Dhillon and Dhillon Law Group who was with Kolvet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Could it have been the other PR agent Andrew Kolvet was with Matthew Shupe? Matthew Shupe who does PR for Harit Dylan. Um Dhillon Law Group."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-630, N-373, N-14, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10638, N-10652"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm Shupe's client relationships and whether he was at the WHCD near Erika Kirk when the clip was filmed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9309",
+   "header": "**C-9309** Harmeet Dhillon sat with Andrew Kolvet at the WHCD",
+   "label": "Harmeet Dhillon sat with Andrew Kolvet at the WHCD",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she knows Harmeet Dhillon was sitting with Andrew Kolvet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I know Harit was sitting with sitting with Andrew Kolvet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-373, N-14"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10637"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the WHCD seating chart and photographs of the relevant table."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 6. Meme Register",
+    ""
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-92",
+   "header": "**M-92** (meme) Paramount Not So Tactical",
+   "label": "(meme) Paramount Not So Tactical",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:37:06"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "um Paramount Not So Tactical doesn't understand what an alibi is."
+    },
+    {
+     "k": "Context",
+     "v": "Host introduces her mocking nickname for Paramount Tactical (Gary Melton) over the Fort Huachuca alibi photo."
+    },
+    {
+     "k": "Tags",
+     "v": "roast, nickname, comedy"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:39:34"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I'm terrified to understand that Paramount, not so tactical, served as a Green Beret."
+    },
+    {
+     "k": "Context",
+     "v": "Host reprises the nickname while mocking Melton's reasoning."
+    },
+    {
+     "k": "Tags",
+     "v": "roast, nickname, comedy"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:41:18"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Maybe you should just create an AI Paramount, not so tactical."
+    },
+    {
+     "k": "Context",
+     "v": "Host jokes that AI could replace him."
+    },
+    {
+     "k": "Tags",
+     "v": "roast, nickname, comedy"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 4"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:50:12"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "they're having the paramount not so tactical problem or something."
+    },
+    {
+     "k": "Context",
+     "v": "Host applies the nickname to failed military psyops in the comments segment."
+    },
+    {
+     "k": "Tags",
+     "v": "roast, nickname, comedy"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-95",
+   "header": "**M-95** (meme) Emotional Response Asset",
+   "label": "(meme) Emotional Response Asset",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:12:19"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "She is described in the email as an emotional response asset. That is stunning. An emotional response asset."
+    },
+    {
+     "k": "Context",
+     "v": "Host seizes on the email's phrase for Erika Kirk."
+    },
+    {
+     "k": "Tags",
+     "v": "catchphrase, erika_kirk, psyop"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:14:01"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "And then our emotional asset is going to break her silence on social media."
+    },
+    {
+     "k": "Context",
+     "v": "Host reuses the phrase to introduce Erika Kirk's post."
+    },
+    {
+     "k": "Tags",
+     "v": "catchphrase, erika_kirk, roast"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-96",
+   "header": "**M-96** (meme) Unholy Alliance",
+   "label": "(meme) Unholy Alliance",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:00:01"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "There seems to be an unholy alliance emerging between Turning Point USA, the White House, and the military."
+    },
+    {
+     "k": "Context",
+     "v": "Host opens the episode with the framing."
+    },
+    {
+     "k": "Tags",
+     "v": "catchphrase, framing"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:19:54"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "There is an unholy alliance between the military and our press trying to convince us that this is fine"
+    },
+    {
+     "k": "Context",
+     "v": "Host applies the framing to data centers and surveillance."
+    },
+    {
+     "k": "Tags",
+     "v": "catchphrase, framing"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:23:45"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "as I said, we are looking at an unholy alliance. It is between the military. It is between the press and I would add here Turning Point USA."
+    },
+    {
+     "k": "Context",
+     "v": "Host returns to the framing after the Tucker Carlson clip."
+    },
+    {
+     "k": "Tags",
+     "v": "catchphrase, framing"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-1",
+   "header": "**M-1** (meme) Grieving Widow",
+   "label": "(meme) Grieving Widow",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:23:45"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Erika not a not a grieving widow. Okay."
+    },
+    {
+     "k": "Context",
+     "v": "Host rejects the grieving-widow framing and calls Erika Kirk military technology."
+    },
+    {
+     "k": "Tags",
+     "v": "framing, erika_kirk, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:49:20"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Independent commentators have are rising to tell us she's a grieving widow and it's not working."
+    },
+    {
+     "k": "Context",
+     "v": "Host replies to a viewer comment on Erika Kirk's crying."
+    },
+    {
+     "k": "Tags",
+     "v": "framing, erika_kirk, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-6",
+   "header": "**M-6** (meme) conspiracy theorist",
+   "label": "(meme) conspiracy theorist",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:02:28"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "you would be well a conspiracy theorist, a term that the CIA came up with after they assassinated JFK."
+    },
+    {
+     "k": "Context",
+     "v": "Host mocks the label for anyone who thinks the WHCD shooting was staged."
+    },
+    {
+     "k": "Tags",
+     "v": "self_label, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-26",
+   "header": "**M-26** (meme) Gaslight",
+   "label": "(meme) Gaslight",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:05:04"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "We were at first completely gaslit and told that we were terrible people for suggesting that the Erika clip seemed to be sort of artificially promoted in our face."
+    },
+    {
+     "k": "Context",
+     "v": "Host says the email vindicates suspicions about the clip's promotion."
+    },
+    {
+     "k": "Tags",
+     "v": "gaslighting, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-54",
+   "header": "**M-54** (meme) Psyop",
+   "label": "(meme) Psyop",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:15:02"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Erika's uh pending speech in my view was intended to begin phase two of the military psychological operation highlighted in the email itself."
+    },
+    {
+     "k": "Context",
+     "v": "Host frames Erika Kirk's Charlie Kirk Show speech as phase two of a psyop."
+    },
+    {
+     "k": "Tags",
+     "v": "psyop, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-29",
+   "header": "**M-29** (meme) You Can't Make This Up",
+   "label": "(meme) You Can't Make This Up",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:33:29"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "just you can't make it up. You cannot make up how perfectly the 180 degree turn is from everything Charlie"
+    },
+    {
+     "k": "Context",
+     "v": "Host reacts to the Charlie Kirk Show sponsor clip."
+    },
+    {
+     "k": "Tags",
+     "v": "incredulity, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-13",
+   "header": "**M-13** (meme) Fake and Gay",
+   "label": "(meme) Fake and Gay",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:46:16"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "it was the fakest of times. It was the gayest of times. Yes, that is the chapter we are in."
+    },
+    {
+     "k": "Context",
+     "v": "Host reads and endorses the top viewer comment."
+    },
+    {
+     "k": "Tags",
+     "v": "chat_elevate, catchphrase, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:50:12"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Like, oh, that's cute, so fake, so very gay.\""
+    },
+    {
+     "k": "Context",
+     "v": "Host reads a viewer comment comparing failed psyops to a toddler's cartwheel."
+    },
+    {
+     "k": "Tags",
+     "v": "chat_elevate, catchphrase, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-66",
+   "header": "**M-66** (meme) Fed Slop",
+   "label": "(meme) Fed Slop",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:46:16"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I didn't believe any of the fed slop pertaining to what happened at the white house dinner."
+    },
+    {
+     "k": "Context",
+     "v": "Host reads a viewer comment on WHCD coverage."
+    },
+    {
+     "k": "Tags",
+     "v": "chat_elevate, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-28",
+   "header": "**M-28** (meme) Christ is King",
+   "label": "(meme) Christ is King",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:47:33"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Love you, Candace. Christ is king. That is 1,000% true."
+    },
+    {
+     "k": "Context",
+     "v": "Host reads and affirms a viewer's sign-off."
+    },
+    {
+     "k": "Tags",
+     "v": "chat_elevate, faith, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-33",
+   "header": "**M-33** (meme) Just Asking Questions",
+   "label": "(meme) Just Asking Questions",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:47:33"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I don't know. I'm just asking legitimate questions"
+    },
+    {
+     "k": "Context",
+     "v": "Host hedges her speculation about who filmed the Erika Kirk clip."
+    },
+    {
+     "k": "Tags",
+     "v": "hedge, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-23",
+   "header": "**M-23** (meme) Battle Bun",
+   "label": "(meme) Battle Bun",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:52:02"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Got our battle bun merch up there. Yay to free markets."
+    },
+    {
+     "k": "Context",
+     "v": "Host plugs merch at the close."
+    },
+    {
+     "k": "Tags",
+     "v": "merch, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-18",
+   "header": "**M-18** (meme) Make Him a Sandwich",
+   "label": "(meme) Make Him a Sandwich",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:52:51"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "So you can head uh to make a sandwich. com to purchase the book and join the book club."
+    },
+    {
+     "k": "Context",
+     "v": "Host plugs the book club for her book."
+    },
+    {
+     "k": "Tags",
+     "v": "book, merch, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 7. Optional Flags",
+    "",
+    "- **DIA beats**: a scan for the required tip/bounty phrases found no hits (the only \"tip\" match is inside \"multiple\" in a sponsor read). No DIA claim, artifact or M-12 occurrence was inscribed, and M-14 does not air.",
+    "- **Artifacts verbally referenced but not shown**: A-2587.2 (earlier Paramount Tactical stream clip, not replayed) and A-2588.1 (Tracy Martin's statement). Sara Sidner's CNN upload of the Erika Kirk clip is referenced but not re-shown, so no artifact was made for it. The host says the email shown (A-2581.1) is her own retyping, not the original document.",
+    "- **Duration discrepancy**: the skeleton meta gave 00:56:29; the transcript front matter gives 53:39, which is used here.",
+    "- **Name matching**: \"Sydney Sidner\" is mapped to N-370 Sara Sidner (CNN). \"Steven Cheung\" is mapped to N-160 Steven Cheung. \"Harit Dylan\" and \"Dhillon Law Group\" are mapped to N-373 Harmeet Dhillon and N-10652. \"Caroline Lev\" (15:44) is read as Karoline Leavitt. \"Andrew Kolvet\", \"Kolvet\" and \"Kovat\" are mapped to N-14. The email recipients \"Richard Smale\", \"Gustav Anderly\", \"Ryan Rippeon\" and \"Michaela Mott\" are minted as new persons with the transcript spellings, which are unverified auto-caption renderings. \"Kevin O'Leary\", \"O'Leary\" and \"Kevin O'Leary\" are treated as Kevin O'Leary. Gary Melton is minted as a person (N-614) separate from the org node N-10899 Paramount Tactical Valhalla, and the integrator may wish to link them.",
+    "- **Transcription ambiguities**: \"White House Correspondence Agency\" in the read quote (09:00) is taken to mean the White House Communications Agency. \"acidic\"/\"acetic\" Jews is kept as written and read as Hasidic. \"Fort Huachuca\" means Fort Huachuca. \"Charlie Cook\" (26:33, 35:20) is read as Charlie Kirk. The host says \"Department of Justice\" at 12:19 where context suggests Defense. \"SCOPS\" and \"scops\" are probably \"psyops.\"",
+    "- **Factual caveat**: C-9257 records the host's statement that Putin has been president for 22 years as spoken, without correction.",
+    "- **Not inscribed as claims (admission test)**: \"We are living inside of an episode of Black Mirror\"; \"operation mockingbird on steroids\"; \"We, all of us, we were the actual targets\"; Erika Kirk as \"a piece of military technology\" or \"Israeli tech\"; \"she socially engineered Charlie\"; the military controlling X and trends; the aim of data centers being a surveillance state; Trump as \"the ultimate Trojan horse\"; the Charlie Kirk Show hosts \"maybe kind of hate Charlie Kirk\"; Erika Kirk having trouble producing real tears; the ballroom \"surrogates\" gut feeling; and rhetorical questions about Erika's West Wing visit.",
+    "- **Minor factual beats not inscribed**: Kash Patel \"was called an alcoholic\"; the Tucker Carlson remark on Franklin Roosevelt's internment of Japanese Americans; Jack Dorsey's Twitter era; Bari Weiss and CBS named among the host's opponents; Elizabeth Lane's dream and the host's appearance on her show; the book club starting with the host's book, which was inspired by Cardi B; and the \"zyobots\"/\"Shabbat\" label for Israeli clone accounts.",
+    "- **Possible cross-episode links left out**: C-9294 (advertiser boycott) may relate to C-8764 (ep 98, X post calling for a sponsor boycott), but it is likely a different campaign and weekend. C-9303 and C-9299 may relate to C-9136 (ep 102), which concerns the Harpole alibi rather than Erika's. C-9260 may relate to C-6825 (ep 76, Kolvet and McCoy in the West Wing on a different occasion).",
+    "- **Sponsor reads** (Preborn, PDS Debt, Just Thrive) and merch promotion are excluded, apart from the meme occurrences.",
+    ""
+   ]
+  }
+ ]
+}
