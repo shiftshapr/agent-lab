@@ -823,7 +823,7 @@ First named by the host at 00:01:26 in episode 64. Iowa man wrongly pictured in 
 
 **N-11159** Erika Kirk Utah Companions and Family Absence Question
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's questions about who accompanied Erika Kirk in Utah on September 10 and afterward, including the claim that no relatives were present and Stacy Sheridan was beside her.
 
 *Related: C-5713, C-5714, C-5715, C-5716, C-5717, C-5718, C-5720, C-5721*

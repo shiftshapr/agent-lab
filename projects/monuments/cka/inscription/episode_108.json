@@ -968,11 +968,11 @@
       ]
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization whose board member was reportedly to help with the will changes, from which $10 million was allegedly missing, and which offered the Daily Mail a private screening of the disputed video.",
       "related_artifacts": [],
       "related_claims": [
@@ -984,14 +984,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10006",
       "ref": "N-10006",
       "name": "Fox News",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Ran a headline on the Tyler Robinson defense seeking to restrict evidence that the host says misrepresented the filing.",
       "related_artifacts": [
         "A-2606.1"
@@ -1003,14 +1005,16 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10014",
       "ref": "N-10014",
       "name": "Federal Bureau of Investigation",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Its DNA report (towel, screwdriver) is among the items the defense seeks to seal; the host mocks the FBI's \"non-investigation.\"",
       "related_artifacts": [],
       "related_claims": [
@@ -1020,14 +1024,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10026",
       "ref": "N-10026",
       "name": "Israel",
-      "type": "investigation_target",
+      "type": "place",
       "description": "The host says Jack Hibbs's circle claimed Israel knew of the death first.",
       "related_artifacts": [],
       "related_claims": [
@@ -1037,14 +1043,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10067",
       "ref": "N-10067",
       "name": "Daily Mail",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "The host says it confirmed that a TPUSA board member was helping with the Kirks' affairs and that TPUSA offered it a private screening of the disputed video.",
       "related_artifacts": [],
       "related_claims": [
@@ -1055,14 +1063,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10072",
       "ref": "N-10072",
       "name": "White House",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Still not answering the host's FOIA request on White House Correspondents' Dinner communications.",
       "related_artifacts": [],
       "related_claims": [
@@ -1072,14 +1082,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "LandmarksOrHistoricalBuildings",
+      "wikidata_class": "Q41176"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10127",
       "ref": "N-10127",
       "name": "TPUSA DOGE Department / Financial Audit",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The host says Charlie Kirk set up a DOGE internal audit to find an alleged missing $10 million, cancelled after his death.",
       "related_artifacts": [],
       "related_claims": [
@@ -1090,14 +1102,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10186",
       "ref": "N-10186",
       "name": "TPUSA Succession Plan Disclosure Timeline",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Erika Kirk's account to Megyn Kelly that Charlie only expressed his succession wish three weeks before his death.",
       "related_artifacts": [],
       "related_claims": [
@@ -1107,14 +1120,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10302",
       "ref": "N-10302",
       "name": "Charlie Kirk Life Insurance Policy & Beneficiary",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The host says the corporate policy included a $10 million payout for Erika Kirk and the children.",
       "related_artifacts": [],
       "related_claims": [
@@ -1124,14 +1138,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10318",
       "ref": "N-10318",
       "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The \"they're going to kill me\" texts the host cites as context for the planned will change.",
       "related_artifacts": [],
       "related_claims": [
@@ -1141,14 +1156,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10424",
       "ref": "N-10424",
       "name": "Andrew Kolvet Charlie Kirk Twitter Control Claim",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The host repeats that Kolvet was running Charlie Kirk's Twitter.",
       "related_artifacts": [],
       "related_claims": [
@@ -1158,14 +1174,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10532",
       "ref": "N-10532",
       "name": "Tyler Robinson Defense – Chain of Custody / Documents",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The defense's lack of discovery and its request to seal preliminary-hearing evidence.",
       "related_artifacts": [
         "A-2606.4"
@@ -1178,14 +1195,16 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10106"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10552",
       "ref": "N-10552",
       "name": "Erika Kirk–Victor Marx Relationship Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Eileen Marx's mentoring of Erika Kirk and the Marxes' visit to the Kirk home in the first days.",
       "related_artifacts": [],
       "related_claims": [
@@ -1196,14 +1215,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10568",
       "ref": "N-10568",
       "name": "Early-Death-Announcement Timeline Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Timing of Victor Marx's post relative to the president's announcement and to when Erika Kirk and Andrew Kolvet learned of the death.",
       "related_artifacts": [
         "A-2608.2"
@@ -1216,14 +1236,15 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10582",
       "ref": "N-10582",
       "name": "WHCD Incident Reconstruction",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "White House Correspondents' Dinner communications sought by the host's FOIA request.",
       "related_artifacts": [
         "A-2605.2"
@@ -1235,14 +1256,15 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10593",
       "ref": "N-10593",
       "name": "Brian Harpole Lawsuit Coordination Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The Harpole defamation suit, within which the host sent preservation letters to Victor Marx and others.",
       "related_artifacts": [
         "A-2602.1"
@@ -1256,14 +1278,15 @@
       "evidence_count": 1,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10606",
       "ref": "N-10606",
       "name": "Charlie Kirk Aspen Audio Authenticity Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The disputed video, of which the host says TPUSA offered the Daily Mail a private screening and to whose audio Erika Kirk walked out.",
       "related_artifacts": [],
       "related_claims": [
@@ -1274,14 +1297,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10617",
       "ref": "N-10617",
       "name": "Lance Twiggs Preliminary Hearing Testimony Limitation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The host says the state plans to call five officers and Lance Twiggs at the preliminary hearing.",
       "related_artifacts": [],
       "related_claims": [
@@ -1291,14 +1315,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10637",
       "ref": "N-10637",
       "name": "Pending FOIA Requests",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The host's FOIA request on White House Correspondents' Dinner communications.",
       "related_artifacts": [
         "A-2605.2"
@@ -1310,14 +1335,15 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10707",
       "ref": "N-10707",
       "name": "Tyler Robinson Case Evidence Inventory",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The FBI DNA report and ATF ballistics report listed as items 31 and 32 in the defense filing.",
       "related_artifacts": [
         "A-2606.4"
@@ -1330,14 +1356,16 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing",
+      "parent": "N-10316"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10737",
       "ref": "N-10737",
       "name": "Foreign / Israeli Angle Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The claim by Jack Hibbs's circle that Israel knew of the death first.",
       "related_artifacts": [],
       "related_claims": [
@@ -1347,14 +1375,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10820",
       "ref": "N-10820",
       "name": "Paramount Tactical",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Called \"Paramount not so tactical\" by the host; she says she sent it a preservation letter and names it as part of the media and influencer orbit.",
       "related_artifacts": [
         "A-2602.2"
@@ -1366,7 +1395,9 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Topic",
@@ -1388,14 +1419,15 @@
       "related_nodes": [
         "N-579",
         "N-637"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "Thing",
       "@id": "N-10863",
       "ref": "N-10863",
       "name": "Victor Marx \"They Only Wanted Charlie\" Text to Erika Kirk",
-      "type": "topic",
+      "type": "thing",
       "description": "Investigation target: the text Victor Marx says he sent Erika Kirk while she was at the hospital, telling her \"nobody's going to kill you\" and that \"they just wanted Charlie.\" The host asks who \"they\" are and why that would be a first text to a widow.",
       "related_artifacts": [
         "A-2600.3"
@@ -1411,14 +1443,15 @@
       "related_nodes": [
         "N-341",
         "N-2"
-      ]
+      ],
+      "schema_org": "Message"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-10864",
       "ref": "N-10864",
       "name": "Charlie Kirk September 15 End-of-Life Document Appointment",
-      "type": "topic",
+      "type": "event",
       "description": "Investigation target: the host's report that Erika Kirk told multiple people that she and Charlie Kirk were due to sign updated end-of-life documents on Monday, September 15, 2025. She also reportedly said a TPUSA board member would help with the changes. The host asks what life event would have prompted the change and offers investigators the names of the people Erika told.",
       "related_artifacts": [
         "A-2603.1"
@@ -1435,7 +1468,10 @@
       "related_nodes": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-09-15"
     },
     {
       "@type": "Topic",
@@ -1462,14 +1498,15 @@
       "related_nodes": [
         "N-635",
         "N-636"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "Thing",
       "@id": "N-10844",
       "ref": "N-10844",
       "name": "White House Military Office Erika Kirk Amplification Email",
-      "type": "topic",
+      "type": "thing",
       "description": "The communication in which, per the host, Erika Kirk was \"written in as an emotional asset just over an hour after shots are fired\" at the White House Correspondents' Dinner, with the focus on making her video \"number one in the morning.\"",
       "related_artifacts": [
         "A-2605.1"
@@ -1484,7 +1521,9 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "Message",
+      "parent": "N-10582"
     }
   ],
   "claims": [

@@ -564,7 +564,7 @@ Existing topic reused for new claims in this episode.
 
 **N-11076** SUBTT Wilmington Maintenance Alibi Question
 
-Node Type: Topic
+Node Type: Investigation Question
 The dispute over whether SUBTT's Wilmington stops were routine maintenance, including X users citing a Falcon maintenance arrangement dating to 1999 and the email's rebuttal based on the Dassault center closure and the SATYS timeline.
 
 *Related: C-3058, C-3072, C-3074, C-3077*

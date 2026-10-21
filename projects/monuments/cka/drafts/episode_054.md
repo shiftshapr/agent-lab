@@ -1248,7 +1248,7 @@ The caller's account of receiving a Trump Pageant World invitation two years aft
 
 **N-11090** Romania-Registered Provo-Arizona Plane
 
-Node Type: Topic
+Node Type: Thing
 The host's finding that the Provo to Arizona plane was once registered in Romania as YR-NVY.
 
 *Related: C-4742*

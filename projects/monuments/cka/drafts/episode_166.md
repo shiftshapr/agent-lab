@@ -507,14 +507,14 @@ First named by the host at 00:38:18 in episode 166. The Fort Hood shooter, a for
 
 **N-11340** Katie Zacharia Lawyer Credential Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Whether the new White House press secretary misrepresented herself as a lawyer and general counsel despite not passing the bar, and how credible her explanations are (Pepperdine president advice, China practice, "surprise baby").
 
 *Related: C-14306, C-14364, C-14365, C-14366, C-14367, C-14368, C-14369, C-14370, C-14371, C-14372, C-14373, C-14374, C-14375, C-14376, C-14377, C-14378, A-3405.1, A-3405.2*
 
 **N-11348** Turning Point Action Funds Depletion Email
 
-Node Type: Topic
+Node Type: Thing
 Turning Point Action's October 2026 "we're broke" type email saying it burned through its financial resources on ballot chasing, which the host links to the missing-money lead and the statue fundraising.
 
 *Related: C-14308, C-14351, C-14361, C-14362, A-3404.1*
@@ -528,7 +528,7 @@ Turning Point Action's program to chase 100 ballots in October, promoted via tpa
 
 **N-11342** Governor Cox September 9–10, 2025 Schedule
 
-Node Type: Topic
+Node Type: Investigation Question
 Governor Cox's published schedule for the week of September 8, 2025, whose entries the host says were mis-dated September 2 and 3 instead of September 9 and 10. It covers the Tyler Clancy meeting, the Rally Connects keynote in Mona, the Murray Park picnic and the reported golf with Val Peterson.
 
 *Related: C-14309, C-14310, C-14311, C-14324, C-14325, C-14326, C-14327, C-14328, C-14329, C-14330, A-3398.1, A-3399.1, A-3399.2*
@@ -542,7 +542,7 @@ The host's report that Officer Tyler Clancy disposed of a bloodied bag on Septem
 
 **N-11350** Taylor Dodd Arrest and Club America Affiliation Scrub
 
-Node Type: Topic
+Node Type: Event
 The arrest of former Bonners Ferry Club America chapter president Taylor Dodd on child sexually exploitative material charges, and the host's allegation that TPUSA scrubbed its affiliation online.
 
 *Related: C-14307, C-14333, C-14334, C-14335, C-14336, C-14337, C-14338, C-14339, C-14340, C-14341, C-14342, C-14343, C-14344, A-3398.2, A-3402.1, A-3402.2*
@@ -570,14 +570,14 @@ Chinese law firm whose international practice division Katie Zacharia says emplo
 
 **N-11354** Fort Hood Shooter Execution Livestream Question
 
-Node Type: Topic
+Node Type: Investigation Question
 The announced plan to livestream the execution of Nidal Malik Hasan, the debate it set off, and Trump's Truth Social reversal.
 
 *Related: C-14379, C-14380, C-14382, C-14383, C-14384, A-3406.1, A-3407.1*
 
 **N-11355** TPUSA AI Charlie and Never-Before-Seen Speeches Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Whether TPUSA planned to use an AI-generated Charlie Kirk for its promised "never before seen" Charlie speeches.
 
 *Related: C-14386, C-14387, A-3408.1*

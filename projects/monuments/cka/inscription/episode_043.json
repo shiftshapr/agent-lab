@@ -753,11 +753,11 @@
       ]
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10297",
       "ref": "N-10297",
       "name": "France / Macron Couple Involvement in Kirk Assassination",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Persistent investigation target; this episode adds Kash Patel's non-denial under direct questioning on camera.",
       "related_artifacts": [
         "A-1514.1"
@@ -773,14 +773,15 @@
       "related_nodes": [
         "N-69",
         "N-46"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10298",
       "ref": "N-10298",
       "name": "Pierre Falcone / Turning Point USA Connection Claim",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Unverified tip received by host asserting a meeting occurred between TPUSA personnel and Pierre Falcone; requires verification.",
       "related_artifacts": [
         "A-1515.1",
@@ -798,14 +799,16 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-312"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10304"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10299",
       "ref": "N-10299",
       "name": "Operation Mockingbird 2.0 Allegation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Host framing premise comparing current media posture regarding the Kirk assassination to the CIA's Operation Mockingbird following JFK. Not artifact-backed in this episode.",
       "related_artifacts": [],
       "related_claims": [],
@@ -816,14 +819,16 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-3"
-      ]
+      ],
+      "schema_org": "Thing",
+      "parent": "N-10058"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10300",
       "ref": "N-10300",
       "name": ".30-06 Forensic Narrative Validity",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigation target regarding the official ballistics account of the Kirk shooting; this episode adds the Jesse Kege / One Shot TV demonstration as a third-party test.",
       "related_artifacts": [
         "A-1516.1"
@@ -839,14 +844,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-316"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10318",
       "ref": "N-10318",
       "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target regarding Charlie Kirk's communications the night before the shooting, including alleged direct statement to Dan Flood that \"they are going to kill me tomorrow,\" and messages to a donor and a TPUSA staffer.",
       "related_artifacts": [],
       "related_claims": [
@@ -861,14 +867,15 @@
       "related_nodes": [
         "N-1",
         "N-270"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10301",
       "ref": "N-10301",
       "name": "TPUSA $1.5M Routing to 110 LLC / Safeway Strip Mall",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target raised via viewer comment; DOJ audit referenced as cancelled.",
       "related_artifacts": [
         "A-1518.6"
@@ -881,14 +888,15 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10302",
       "ref": "N-10302",
       "name": "Charlie Kirk Life Insurance Policy & Beneficiary",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target including $1.5M amount and corporate implications; Daily Mail cited as breaking the story.",
       "related_artifacts": [
         "A-1518.5"
@@ -900,14 +908,15 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10193",
       "ref": "N-10193",
       "name": "Charlie Kirk Burial / Funeral Narrative Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target; viewer social media speculation that Charlie Kirk has not yet been buried, contrasted with host's statement that he had a Catholic funeral mass.",
       "related_artifacts": [],
       "related_claims": [],
@@ -918,14 +927,15 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-1"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10303",
       "ref": "N-10303",
       "name": "Epstein Files Release Status",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Persistent political issue referenced via the Milo Yiannopoulos / Tim Pool / George Santos segment.",
       "related_artifacts": [],
       "related_claims": [],
@@ -934,14 +944,15 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10304",
       "ref": "N-10304",
       "name": "Global Trafficking Angle in Kirk Assassination",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Host's hypothesis (artifact-anchored to the Pierre Falcone / Angolagate tip) that Charlie Kirk's organization was being approached for trafficking-related cooperation; remains framing/speculative until verified.",
       "related_artifacts": [
         "A-1515.1",
@@ -956,7 +967,8 @@
       "related_nodes": [
         "N-312",
         "N-10298"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1018,11 +1030,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10015",
       "ref": "N-10015",
       "name": "Mossad",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Israeli intelligence service; Kirk's May 2025 JFK remarks discuss its mention in the JFK files.",
       "related_artifacts": [],
       "related_claims": [
@@ -1032,14 +1044,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization at the center of the tips, the Falcone lead and the promised response.",
       "related_artifacts": [],
       "related_claims": [
@@ -1058,7 +1072,9 @@
       "evidence_count": 0,
       "claim_count": 10,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Person",
@@ -1206,11 +1222,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10185",
       "ref": "N-10185",
       "name": "Mikey McCoy Call Log Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the viewer request about call logs and metadata around 12:23 p.m.",
       "related_artifacts": [],
       "related_claims": [
@@ -1220,14 +1236,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10214"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10194",
       "ref": "N-10194",
       "name": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for Patel's interview statements and the host's FBI-contact claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1238,14 +1256,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-11102",
       "ref": "N-11102",
       "name": "Angolagate",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic for the Angolan arms-for-oil scandal described by the host and the CorpWatch text.",
       "related_artifacts": [],
       "related_claims": [
@@ -1261,14 +1280,16 @@
       "evidence_count": 0,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q192909"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11203",
       "ref": "N-11203",
       "name": "Tim Pool Dispute With Candace Owens",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's account of Tim Pool's remarks.",
       "related_artifacts": [],
       "related_claims": [
@@ -1279,7 +1300,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1319,7 +1341,9 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
       "@type": "Organization",
@@ -1338,7 +1362,9 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     }
   ],
   "claims": [

@@ -547,7 +547,7 @@ Commentator referenced as part of broader pushback on BB Netany/Yahoo narrative.
 
 **N-10037** Text Message Language Anomaly
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: discrepancy
 Use of words like 'retrieve' and 'vehicle' presented as inconsistent with 22-year-old casual texting.
 
@@ -557,7 +557,7 @@ Use of words like 'retrieve' and 'vehicle' presented as inconsistent with 22-yea
 
 **N-10030** Text Message Timestamp Discrepancy
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: discrepancy
 Indictment text messages released without timestamps, blocking independent chronology.
 
@@ -567,7 +567,7 @@ Indictment text messages released without timestamps, blocking independent chron
 
 **N-10038** Robinson On-Campus Linger Timeline
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: verification_thread
 Allegation that Robinson lingered on campus for hours after the shooting attempting to retrieve rifle.
 
@@ -577,7 +577,7 @@ Allegation that Robinson lingered on campus for hours after the shooting attempt
 
 **N-10039** Note Under Keyboard Disposal
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: verification_thread
 Note directing Lance to look under keyboard was destroyed after a photograph was taken.
 
@@ -587,7 +587,7 @@ Note directing Lance to look under keyboard was destroyed after a photograph was
 
 **N-10019** Robinson Outfit Change Discrepancy
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: discrepancy
 Robinson's text references changing outfits and leaving rifle in bush; alleged inconsistency with Cox's same-outfit-for-33-hours claim.
 
@@ -597,7 +597,7 @@ Robinson's text references changing outfits and leaving rifle in bush; alleged i
 
 **N-10040** Two-Person Theory (Maroon vs Stairs)
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: narrative_pattern
 Host hypothesis that the maroon-shirt person at 8:07 AM differs from the person shown walking the stairs.
 
@@ -607,7 +607,7 @@ Host hypothesis that the maroon-shirt person at 8:07 AM differs from the person 
 
 **N-10041** Lance Twiggs Protection Allegation
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: discrepancy
 Allegation that Lance was quickly released despite apartment raid and seizure of electronics; family claims feds were dishonest.
 

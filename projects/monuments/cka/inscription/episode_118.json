@@ -682,11 +682,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "The host says Erika Kirk reaches high schools through its chapters and that it should answer the Next Model Management question.",
       "related_artifacts": [],
       "related_claims": [
@@ -697,14 +697,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10014",
       "ref": "N-10014",
       "name": "Federal Bureau of Investigation",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "The host says it denied her request for three days of someone's schedule.",
       "related_artifacts": [
         "A-2692.2"
@@ -716,14 +718,16 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10072",
       "ref": "N-10072",
       "name": "White House",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Site of the Situation Room meeting and of Kolvet's reported visit.",
       "related_artifacts": [],
       "related_claims": [
@@ -734,14 +738,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "LandmarksOrHistoricalBuildings",
+      "wikidata_class": "Q41176"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10081",
       "ref": "N-10081",
       "name": "Exit Wound / Bullet Trajectory Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The host's explosive-under-the-chest theory, based on how Charlie Kirk's body moved.",
       "related_artifacts": [],
       "related_claims": [
@@ -751,14 +757,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10194",
       "ref": "N-10194",
       "name": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The host criticizes the FBI's handling of her FOIA request.",
       "related_artifacts": [],
       "related_claims": [
@@ -768,14 +775,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10303",
       "ref": "N-10303",
       "name": "Epstein Files Release Status",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The administration's handling and partial release of the Epstein files.",
       "related_artifacts": [
         "A-2691.1"
@@ -791,14 +799,15 @@
       "evidence_count": 1,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10342",
       "ref": "N-10342",
       "name": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Mitch Snow's lobby sighting is restated.",
       "related_artifacts": [],
       "related_claims": [
@@ -808,14 +817,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10305",
       "ref": "N-10305",
       "name": "Fort Huachuca September 9, 2025 JTF-SB Meeting Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The meeting Mitch Snow says he stumbled on.",
       "related_artifacts": [],
       "related_claims": [
@@ -825,14 +836,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10347",
       "ref": "N-10347",
       "name": "Brian Harpole Fort Huachuca Presence Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Mitch Snow believes he saw Harpole at the meeting.",
       "related_artifacts": [],
       "related_claims": [
@@ -842,14 +855,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10374",
       "ref": "N-10374",
       "name": "Romania / Eastern Europe Trafficking Cluster",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Eastern European trafficking in the Epstein and DynCorp accounts.",
       "related_artifacts": [],
       "related_claims": [
@@ -860,14 +875,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10390",
       "ref": "N-10390",
       "name": "Fort Huachuca Erika Presence Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Mitch Snow's identification of Erika Kirk by her eyes.",
       "related_artifacts": [],
       "related_claims": [
@@ -878,14 +894,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10478",
       "ref": "N-10478",
       "name": "Next Model Management / Erika Kirk Connection",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Erika Kirk's presence at the Next Model Management offices.",
       "related_artifacts": [],
       "related_claims": [
@@ -896,14 +914,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10481",
       "ref": "N-10481",
       "name": "Faith Kates – Epstein Relationship Scope",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Kates' support of Epstein after 2009.",
       "related_artifacts": [],
       "related_claims": [
@@ -913,14 +932,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10478"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10525",
       "ref": "N-10525",
       "name": "Romney–Netanyahu–Utah Connection Network",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The Boston Consulting Group link is restated.",
       "related_artifacts": [],
       "related_claims": [
@@ -930,14 +951,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10534",
       "ref": "N-10534",
       "name": "Pam Bondi Dismissal Context Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Bondi is no longer in the White House.",
       "related_artifacts": [],
       "related_claims": [
@@ -947,14 +969,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10611",
       "ref": "N-10611",
       "name": "SAM702 / Fort Huachuca September 9 Passenger Manifest",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The SAM 702 flight route and the FOIA request on it.",
       "related_artifacts": [
         "A-2692.1"
@@ -968,14 +991,16 @@
       "evidence_count": 1,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10305"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10635",
       "ref": "N-10635",
       "name": "Next Model Management / MC2 Trafficking Connection to Erika Kirk",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Workers' allegation that Erika Kirk was the point of contact for the model apartment.",
       "related_artifacts": [],
       "related_claims": [
@@ -985,14 +1010,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10478"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10637",
       "ref": "N-10637",
       "name": "Pending FOIA Requests",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The host's FOIA requests to the Department of War and FBI.",
       "related_artifacts": [
         "A-2692.1",
@@ -1007,14 +1034,15 @@
       "evidence_count": 2,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10638",
       "ref": "N-10638",
       "name": "Andrew Kolvet EEOB Presence / Kash Patel Connection",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Kolvet's executive office building visit and the pre-recorded Kash Patel show.",
       "related_artifacts": [],
       "related_claims": [
@@ -1025,14 +1053,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10792",
       "ref": "N-10792",
       "name": "Expanded Feb–Aug 2025 Concurrent Timeline (Epstein Situation Room + UVU + Yrefy)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The Situation Room meeting on the Epstein files.",
       "related_artifacts": [],
       "related_claims": [
@@ -1042,14 +1071,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10809",
       "ref": "N-10809",
       "name": "Department of War",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization whose org chart, intelligence office and alleged messaging campaign are discussed.",
       "related_artifacts": [
         "A-2692.1",
@@ -1066,14 +1096,16 @@
       "evidence_count": 2,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "GovernmentOrganization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10820",
       "ref": "N-10820",
       "name": "Paramount Tactical",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Transcript \"Paramount not so Tactical\"; said that the alibi photo children were not Erika Kirk's.",
       "related_artifacts": [],
       "related_claims": [
@@ -1083,7 +1115,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Person",
@@ -1248,7 +1282,9 @@
       "related_nodes": [
         "N-691",
         "N-10913"
-      ]
+      ],
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
       "@type": "Organization",
@@ -1277,7 +1313,9 @@
       "related_nodes": [
         "N-10912",
         "N-10915"
-      ]
+      ],
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
       "@type": "Organization",
@@ -1299,7 +1337,9 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-693"
-      ]
+      ],
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
       "@type": "Topic",
@@ -1328,14 +1368,15 @@
         "N-694",
         "N-695",
         "N-10913"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "Thing",
       "@id": "N-10844",
       "ref": "N-10844",
       "name": "White House Military Office Erika Kirk Amplification Email",
-      "type": "topic",
+      "type": "thing",
       "description": "Investigation target: the communication the host says listed Erika Kirk as an \"emotional asset\" after the White House Correspondents' Dinner shooting. In this episode she says the Department of War office headed by Hegseth, Feinberg and Hansel orchestrated messaging to make Erika the number one trend by morning.",
       "related_artifacts": [],
       "related_claims": [
@@ -1350,7 +1391,9 @@
         "N-2",
         "N-433",
         "N-691"
-      ]
+      ],
+      "schema_org": "Message",
+      "parent": "N-10582"
     },
     {
       "@type": "Organization",
@@ -1375,7 +1418,9 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-217"
-      ]
+      ],
+      "schema_org": "Organization",
+      "wikidata_class": "Q1530022"
     }
   ],
   "claims": [

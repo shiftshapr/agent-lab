@@ -721,11 +721,11 @@
       ]
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10207",
       "ref": "N-10207",
       "name": "TPUSA Posthumous Israel Award Reporting Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent discrepancy between Jerusalem Post / Israeli War Room reporting that Erika Kirk would accept a Pillars of Jerusalem Award on Charlie Kirk's behalf and Andrew Kolvet's on-record statement that TPUSA had not heard of the award and that the CEO was not scheduled to participate.",
       "related_artifacts": [
         "A-1317.1",
@@ -748,14 +748,15 @@
         "N-10815",
         "N-10816",
         "N-2"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10208",
       "ref": "N-10208",
       "name": "TPUSA Leadership Transparency Pressure (Post-Charlie)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Persistent pressure articulated in this episode on TPUSA leadership (CEO/chairman Erika Kirk; Tyler Bowyer; etc.) to publicly disclose what they can about Rob McCoy, Mikey McCoy/McColgan, Taryl, and the timeline of phone calls/texts surrounding Charlie Kirk's death.",
       "related_artifacts": [],
       "related_claims": [
@@ -769,7 +770,8 @@
       "related_nodes": [
         "N-2",
         "N-41"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -851,7 +853,9 @@
         "N-210",
         "N-10207"
       ],
-      "organization_kind": "media_outlet"
+      "organization_kind": "media_outlet",
+      "schema_org": "NewsMediaOrganization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -875,7 +879,9 @@
         "N-10815",
         "N-10207"
       ],
-      "organization_kind": "media_outlet"
+      "organization_kind": "media_outlet",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Person",
@@ -1366,11 +1372,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10006",
       "ref": "N-10006",
       "name": "Fox News",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Fox News; the host discusses Tucker's exit and the Watters interview.",
       "related_artifacts": [],
       "related_claims": [
@@ -1382,14 +1388,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10025",
       "ref": "N-10025",
       "name": "Israel Lobby Pressure on Conservative Figures",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Israel Lobby Pressure on Conservative Figures; topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1401,14 +1409,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10016",
       "ref": "N-10016",
       "name": "Hamptons Meeting Pressure Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Hamptons Donor Pressure Investigation; topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1418,14 +1427,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10044"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10044",
       "ref": "N-10044",
       "name": "Donor Intimidation of Charlie Kirk",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Donor Intimidation of Charlie Kirk; topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1435,14 +1446,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10074",
       "ref": "N-10074",
       "name": "Robinson-Lance Text Chain Authenticity",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Robinson-Lance Text Chain Authenticity; topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1452,14 +1464,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10070",
       "ref": "N-10070",
       "name": "AIPAC",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "AIPAC; the host says it dropped Fine.",
       "related_artifacts": [],
       "related_claims": [
@@ -1469,14 +1482,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10100",
       "ref": "N-10100",
       "name": "Catholic Conversion Rumor",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Catholic Conversion Rumor; topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1487,14 +1502,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10134",
       "ref": "N-10134",
       "name": "Operation Mocking Pastor",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Operation Mocking Pastor; topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1504,14 +1520,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10143",
       "ref": "N-10143",
       "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Charlie Kirk Pre-Mortem Israel Position Claim; topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1523,14 +1540,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing",
+      "parent": "N-10053"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10160",
       "ref": "N-10160",
       "name": "Tyler Bowyer X Defense Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Tyler Bowyer X Defense Pattern; topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1540,14 +1559,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10194",
       "ref": "N-10194",
       "name": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "FBI Charlie Kirk Investigation Handling (Kash Patel); topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1559,14 +1579,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10198",
       "ref": "N-10198",
       "name": "TPUSA Text Chain Authenticity Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "TPUSA Text Chain Authenticity Verification; topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1577,14 +1598,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10223",
       "ref": "N-10223",
       "name": "Megyn Kelly Tour Attendee Authenticity Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Megyn Kelly Tour Attendee Authenticity Question; topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1594,14 +1616,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10315",
       "ref": "N-10315",
       "name": "Tyler Robinson First In-Person Court Appearance Details",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Tyler Robinson First In-Person Court Appearance Details; topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1611,14 +1634,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10316",
       "ref": "N-10316",
       "name": "Tyler Robinson Prosecution Evidence Base",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Tyler Robinson Prosecution Evidence Base; topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1628,14 +1653,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10379",
       "ref": "N-10379",
       "name": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens; topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1645,14 +1671,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10498",
       "ref": "N-10498",
       "name": "Charlie Kirk Legacy Control Dispute",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Charlie Kirk Legacy Control Dispute; topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1664,14 +1691,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10838",
       "ref": "N-10838",
       "name": "Republican Jewish Coalition",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Republican Jewish Coalition; event where the signs appeared.",
       "related_artifacts": [],
       "related_claims": [
@@ -1683,14 +1711,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11010",
       "ref": "N-11010",
       "name": "Erika CEO Appointment Timing Explanation (DeGroote versus TPUSA PR Source)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Erika CEO Appointment Timing Explanation; topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1700,14 +1730,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11017",
       "ref": "N-11017",
       "name": "Candace Owens Australia Visa Review",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Candace Owens Australia Visa Review; topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1717,14 +1748,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11025",
       "ref": "N-11025",
       "name": "Erika Kirk Interview Campaign Talking Points",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Erika Kirk Interview Campaign Talking Points; topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1735,7 +1767,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1838,7 +1871,9 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -1855,7 +1890,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -1873,7 +1910,9 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     }
   ],
   "claims": [

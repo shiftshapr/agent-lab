@@ -1157,7 +1157,9 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "organization_kind": "political_nonprofit"
+      "organization_kind": "political_nonprofit",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -1177,7 +1179,9 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "organization_kind": "law_enforcement"
+      "organization_kind": "law_enforcement",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -1197,7 +1201,9 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "organization_kind": "government_program"
+      "organization_kind": "government_program",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -1215,7 +1221,9 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "organization_kind": "other"
+      "organization_kind": "other",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -1234,7 +1242,9 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "organization_kind": "media_org"
+      "organization_kind": "media_org",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Topic",
@@ -1255,14 +1265,15 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "topic_kind": "investigation_thread"
+      "topic_kind": "investigation_thread",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10128",
       "ref": "N-10128",
       "name": "Federal Investigation Conduct Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Open question of why federal authorities did not contact the two rooftop-footage witnesses until September 15, anchored by direct testimonials.",
       "related_artifacts": [
         "A-1164.2",
@@ -1277,14 +1288,16 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "topic_kind": "verification_thread"
+      "topic_kind": "verification_thread",
+      "schema_org": "Question",
+      "parent": "N-10014"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-10129",
       "ref": "N-10129",
       "name": "Hamptons Weekend Retreat",
-      "type": "topic",
+      "type": "event",
       "description": "August 2025 weekend retreat at which pressure was reportedly applied to Charlie Kirk on Israel/Netanyahu positioning; characterized by Charlie as 'moral blackmail'.",
       "related_artifacts": [
         "A-1165.1",
@@ -1302,14 +1315,18 @@
       "claim_count": 3,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "topic_kind": "narrative_pattern"
+      "topic_kind": "narrative_pattern",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "place": "N-10027",
+      "parent": "N-10044"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10130",
       "ref": "N-10130",
       "name": "Doorbell Footage Completeness Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Tip-based investigation thread alleging that publicly released doorbell footage of Tyler Robinson is incomplete and shows him with an unidentified woman changing clothes.",
       "related_artifacts": [
         "A-1167.1"
@@ -1323,14 +1340,16 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "topic_kind": "verification_thread",
-      "confidence": "low"
+      "confidence": "low",
+      "schema_org": "Question",
+      "parent": "N-10049"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10131",
       "ref": "N-10131",
       "name": "Muzzle Flash Theory (Range Day Bro)",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Range Day Bro's claim that a muzzle flash is visible inside the flag hall; partially rebutted by host via window-doesn't-open argument.",
       "related_artifacts": [
         "A-1163.1",
@@ -1344,14 +1363,15 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "topic_kind": "verification_thread"
+      "topic_kind": "verification_thread",
+      "schema_org": "Question"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10132",
       "ref": "N-10132",
       "name": "Suspicious Bush Theory (Range Day Bro)",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Range Day Bro's claim of a human-and-rifle-shaped outline in rooftop bushes; corroborated by host's ground photographs showing translucency.",
       "related_artifacts": [
         "A-1163.3"
@@ -1364,14 +1384,15 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "topic_kind": "verification_thread"
+      "topic_kind": "verification_thread",
+      "schema_org": "Question"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10133",
       "ref": "N-10133",
       "name": "Bullet Casing Engraving Pattern",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Mentioned by commenters and host regarding markings on bullet casings at recent violent crimes; suggested by host and commenter Ben Autton to resemble 'government signature'.",
       "related_artifacts": [],
       "related_claims": [],
@@ -1380,7 +1401,8 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "topic_kind": "verification_thread"
+      "topic_kind": "verification_thread",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
@@ -1396,14 +1418,15 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "topic_kind": "narrative_pattern"
+      "topic_kind": "narrative_pattern",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10135",
       "ref": "N-10135",
       "name": "Amazon Pre-Event Book Listing (Sep 9)",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Commenter-referenced screenshot of an Amazon listing dated September 9, 2025 for a book about Charlie with accurate event details; host dismisses as Amazon 'technical error'.",
       "related_artifacts": [],
       "related_claims": [],
@@ -1412,7 +1435,8 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "topic_kind": "verification_thread"
+      "topic_kind": "verification_thread",
+      "schema_org": "Question"
     },
     {
       "@type": "Place",
@@ -1434,7 +1458,8 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "place_kind": "region"
+      "place_kind": "region",
+      "schema_org": "Place"
     },
     {
       "@type": "Place",
@@ -1454,7 +1479,10 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "place_kind": "city"
+      "place_kind": "city",
+      "schema_org": "City",
+      "wikidata_class": "Q515",
+      "parent": "N-10120"
     },
     {
       "@type": "Person",
@@ -1491,11 +1519,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10018",
       "ref": "N-10018",
       "name": "Netanyahu Israel Invitation Phone Call",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused for the host's restatement of the call and invitation.",
       "related_artifacts": [],
       "related_claims": [
@@ -1505,14 +1533,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10016",
       "ref": "N-10016",
       "name": "Hamptons Meeting Pressure Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the financial threats claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1522,14 +1552,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10044"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10049",
       "ref": "N-10049",
       "name": "Doorbell-Cam Footage Provenance",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the doorbell footage tip.",
       "related_artifacts": [],
       "related_claims": [
@@ -1539,14 +1571,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10075",
       "ref": "N-10075",
       "name": "TPUSA Financial Apparatus Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the finance and leak claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1562,14 +1595,15 @@
       "evidence_count": 0,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10096",
       "ref": "N-10096",
       "name": "TPUSA SD Card Removal",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused for the footage-release claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1581,14 +1615,19 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-09-10",
+      "place": "N-10028",
+      "parent": "N-10073"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10102",
       "ref": "N-10102",
       "name": "Moral Blackmail by Donors",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the moral blackmail remark and workshop framing.",
       "related_artifacts": [],
       "related_claims": [
@@ -1601,14 +1640,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing",
+      "parent": "N-10044"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10113",
       "ref": "N-10113",
       "name": "Jezebel/Etsy Hex on Charlie Kirk",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's hex and priest claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1618,14 +1659,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10303",
       "ref": "N-10303",
       "name": "Epstein Files Release Status",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for Charlie's distrust of the feds.",
       "related_artifacts": [],
       "related_claims": [
@@ -1635,14 +1677,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10320",
       "ref": "N-10320",
       "name": "Bibi Netanyahu TPUSA Funding Offer",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the offer claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1652,14 +1695,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10323",
       "ref": "N-10323",
       "name": "Hampton Retreat Seth Dillon Confrontation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Dillon and Hammer claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1670,14 +1714,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10129"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10404",
       "ref": "N-10404",
       "name": "Charlie Kirk DOGE Pre-Death Establishment",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the September 2 announcement.",
       "related_artifacts": [],
       "related_claims": [
@@ -1687,14 +1733,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10492",
       "ref": "N-10492",
       "name": "Charlie Kirk Necklace / Magnet Clasp Examination",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the necklace claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1704,14 +1751,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11015",
       "ref": "N-11015",
       "name": "TPUSA Post-Assassination Fundraising Claim",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the fundraising email claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1724,7 +1772,8 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1742,7 +1791,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     }
   ],
   "claims": [

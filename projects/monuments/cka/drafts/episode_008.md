@@ -471,7 +471,7 @@ Tour sponsor whose branding was the backdrop and whose employee appeared post-sh
 
 **N-10057** Good Morning America
 
-Node Type: Organization
+Node Type: Thing
 Organization Kind: media_outlet
 Outlet that aired the Tiffany Barker family interview on 9/11.
 
@@ -503,7 +503,7 @@ Ongoing thread: most viral-witness accounts trace back to TPUSA or government-ti
 
 **N-10092** Artery Remark Provenance
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: discrepancy
 Whether the children's 'hit his artery' description came from observation or parental coaching in the car.
 
@@ -513,7 +513,7 @@ Whether the children's 'hit his artery' description came from observation or par
 
 **N-10093** George Zinn Arrest Location/Timing
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: verification_thread
 Whether arrest in the same area as Charlie's SUV departs within ~1:48 is procedurally normal.
 
@@ -523,7 +523,7 @@ Whether arrest in the same area as Charlie's SUV departs within ~1:48 is procedu
 
 **N-10094** Roof Video Provenance Chain
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: verification_thread
 Tracing the viral roof video through a third-party poster, an unknown Aaron, and Chicago numbers.
 
@@ -533,7 +533,7 @@ Tracing the viral roof video through a third-party poster, an unknown Aaron, and
 
 **N-10095** Shooter Description Contradiction
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: discrepancy
 Eyewitness says tactical gear + face mask + smaller rifle; public FBI narrative says jeans + flag shirt.
 
@@ -543,7 +543,7 @@ Eyewitness says tactical gear + face mask + smaller rifle; public FBI narrative 
 
 **N-10096** TPUSA SD Card Removal
 
-Node Type: Topic
+Node Type: Event
 Topic Kind: verification_thread
 Whether SD cards were pulled to preserve evidence or to control the record.
 
@@ -553,7 +553,7 @@ Whether SD cards were pulled to preserve evidence or to control the record.
 
 **N-10097** Wirefy Post-Shot Individual Identity
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: verification_thread
 Open target: who is the blue-shirt Wirefy representative who texted/photographed in the immediate aftermath.
 
@@ -573,7 +573,7 @@ Host's assertion that what looked like an earpiece was actually Charlie's neckla
 
 **N-10099** Bulletproof Vest Absence
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: verification_thread
 Host's claim that Charlie was not wearing a vest and that a prior provider had stopped supplying them.
 
@@ -613,7 +613,7 @@ Charlie's repeated claim that donors pressured him on who to associate with.
 
 **N-10103** Crime Scene Pavers
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: verification_thread
 Open lead: who paid for the unusually quick paver replacement at the venue.
 
@@ -623,7 +623,7 @@ Open lead: who paid for the unusually quick paver replacement at the venue.
 
 **N-10104** Police Scanner Description
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: discrepancy
 Scanner reportedly described jeans/black shirt/mask/vest/rifle – never made public.
 

@@ -548,7 +548,7 @@ Host's claimed personal experience behind her remarks on Shapiro and contracts.
 
 **N-11338** Val Peterson September 10 Whereabouts
 
-Node Type: Topic
+Node Type: Investigation Question
 Where UVU vice president Val Peterson was on September 10, 2025. The UVU independent review places him 45 minutes away; the host's sources say he was allegedly golfing in Heber, Utah, possibly in a tournament, and allegedly with Governor Cox (unverified by the host).
 
 *Related: C-14235, C-14237, C-14238, C-14239, N-955, N-41*
@@ -557,7 +557,7 @@ Where UVU vice president Val Peterson was on September 10, 2025. The UVU indepen
 
 **N-11342** Governor Cox September 9–10, 2025 Schedule
 
-Node Type: Topic
+Node Type: Investigation Question
 The governor's public schedule for the week of September 8, 2025 lists no commitments on September 9 or 10, and the host says Cox has never said where he was when he learned of Charlie's death.
 
 *Related: C-14240, C-14241, C-14242, C-14243, A-3392.1, N-41*
@@ -566,7 +566,7 @@ The governor's public schedule for the week of September 8, 2025 lists no commit
 
 **N-11343** Cox–Clancy September 2 Governor's Mansion Meeting
 
-Node Type: Topic
+Node Type: Event
 A September 2, 2025, 5:00 p.m. meeting between Governor Cox and Representative Tyler Clancy at the governor's mansion, per the governor's published schedule.
 
 *Related: C-14244, C-14245, A-3392.2, N-41, N-957*
@@ -575,7 +575,7 @@ A September 2, 2025, 5:00 p.m. meeting between Governor Cox and Representative T
 
 **N-11344** Charles Peterson Child Enticement Charges
 
-Node Type: Topic
+Node Type: Event
 2026 arrest and charges in Utah (enticing a minor, aggravated sexual exploitation, distributing harmful material) and Meridian, Idaho (four counts of enticing a child) against a man the host identifies as Val Peterson's brother.
 
 *Related: C-14247, C-14248, C-14249, C-14250, C-14251, C-14253, C-14257, C-14258, C-14259, C-14260, A-3393.1, A-3393.2, N-961*
@@ -593,7 +593,7 @@ Unit of the Idaho Attorney General's office that, per the article the host shows
 
 **N-11340** Katie Zacharia Lawyer Credential Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Whether and where the new White House press secretary passed a bar exam; the host alleges she did not.
 
 *Related: C-14282, C-14283, C-14284, C-14285, A-3394.1, N-960*
@@ -602,7 +602,7 @@ Whether and where the new White House press secretary passed a bar exam; the hos
 
 **N-11346** Kelly Clarkson Art of Play Incident
 
-Node Type: Topic
+Node Type: Event
 Kelly Clarkson's visit to the Brooklyn store Art of Play, where she was told the automated bird "Molly" was not for sale, and her subsequent post alleging she was judged.
 
 *Related: C-14287, C-14288, C-14289, C-14290, C-14291, C-14292, C-14293, C-14303, A-3395.1, A-3395.2, N-963*
@@ -611,7 +611,7 @@ Kelly Clarkson's visit to the Brooklyn store Art of Play, where she was told the
 
 **N-11347** Danny Trejo Pawn Shop Contract Dispute
 
-Node Type: Topic
+Node Type: Event
 Reports that Danny Trejo was cast in the film Pawn Shop without knowing of Ben Shapiro's involvement and is contractually bound to it.
 
 *Related: C-14294, C-14295, C-14296, C-14297, A-3396.1, N-964, N-97*

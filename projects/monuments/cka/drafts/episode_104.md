@@ -401,14 +401,14 @@ First named by the host at 00:35:22 in episode 104. Exiled Iranian actress named
 
 **N-10844** White House Military Office Erika Kirk Amplification Email
 
-Node Type: Topic
+Node Type: Thing
 Investigation target: a White House Military Office communications email sent at about 9:49 p.m. Eastern on the night of the WHCD shooting. The host says it described an "Amendment to the Erika Kirk video clip" and recommended that all channels, digital partners and "approved surrogates" amplify the clip overnight. She says it was copied to Steven Cheung, Ryan Rippeon and Gustav Anderly (White House Communications Agency), carried canary watermarks, and that the White House tried to recall it and then ordered recipients to delete it.
 
 *Related: C-9209, C-9213, C-9214, C-9216, C-9217, C-9218, C-9219, C-9221, C-9222, C-9223, A-2574.1, A-2574.2, N-160, N-620, N-621*
 
 **N-10845** Justin Streiff September 10 Book-Printer Call
 
-Node Type: Topic
+Node Type: Event
 Investigation target: a tip, which the host says was verified with receipts, that on September 10, 2025 Justin Streiff called a printer (a former US Army interrogator). According to the tip, he arranged to at least double a planned 25,000–50,000 order of Charlie Kirk's book "Stop in the Name of God" after getting Erika Kirk's approval.
 
 *Related: C-9224, C-9232, C-9233, C-9234, A-2576.1, N-15, N-2*

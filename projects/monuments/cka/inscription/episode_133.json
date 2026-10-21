@@ -500,11 +500,11 @@
   ],
   "nodes": [
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10684",
       "ref": "N-10684",
       "name": "Rooftop Movement Tactical Analysis",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Persistent question across episodes regarding the technique, training level, and identity markers of the rooftop individual. In this episode, host asserts footage shows a \"lateral crawl\" consistent with military tactical training.",
       "related_artifacts": [
         "A-2198.1",
@@ -520,14 +520,15 @@
       "evidence_count": 4,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10685",
       "ref": "N-10685",
       "name": "Weapon Discharge Visual Indicators",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Question of whether the rooftop footage shows muzzle flash and/or recoil consistent with the alleged weapon (German 98 Mauser family heirloom).",
       "related_artifacts": [
         "A-2198.1",
@@ -541,14 +542,15 @@
       "evidence_count": 2,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10686",
       "ref": "N-10686",
       "name": "K9 Scent Tracking Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host reports two dogs – Loki (scent-tracking, near amphitheater) and Freya (bomb-sniffing, near field where weapon was found). Host states Freya was reported to have a broken nose that day and failed to detect the weapon; rookie officers subsequently found the weapon. These claims are not artifact-displayed.",
       "related_artifacts": [
         "A-2201.1"
@@ -560,14 +562,16 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10972"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10687",
       "ref": "N-10687",
       "name": "Weapon Recovery Officer Chain and NCIS Connection",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host identifies Mitchell Curtis (rookie officer, 2025 UVU graduate) and his father Foster Curtiss (reported 21-year NCIS division chief) as connected to the weapon recovery. Biographical claims not artifact-displayed in this episode.",
       "related_artifacts": [],
       "related_claims": [],
@@ -576,14 +580,15 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10688",
       "ref": "N-10688",
       "name": "Secretary of the Navy Phelan Epstein Flight Connection",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Wikipedia reading indicates Phelan flew twice on Epstein's plane in early 2006, once alongside Jean-Luc Brunel. Host draws broader Epstein-network inferences.",
       "related_artifacts": [
         "A-2200.1",
@@ -599,7 +604,8 @@
       "evidence_count": 3,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -690,11 +696,11 @@
       "related_nodes": []
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -706,14 +712,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10058",
       "ref": "N-10058",
       "name": "CIA Operation Mockingbird",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing organization reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -723,14 +731,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10071",
       "ref": "N-10071",
       "name": "Provo, Utah",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Existing place reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -740,14 +749,17 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "City",
+      "wikidata_class": "Q515",
+      "parent": "N-10120"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10072",
       "ref": "N-10072",
       "name": "White House",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Existing place reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -758,14 +770,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "LandmarksOrHistoricalBuildings",
+      "wikidata_class": "Q41176"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10079",
       "ref": "N-10079",
       "name": "CIA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -775,14 +789,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10127",
       "ref": "N-10127",
       "name": "TPUSA DOGE Department / Financial Audit",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -792,14 +808,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10216",
       "ref": "N-10216",
       "name": "Autopsy Report and Evidence Access Asymmetry",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -809,14 +826,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10295",
       "ref": "N-10295",
       "name": "Roof Shooter Video Witness Follow-up",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -828,14 +846,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10297",
       "ref": "N-10297",
       "name": "France / Macron Couple Involvement in Kirk Assassination",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -845,14 +864,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10299",
       "ref": "N-10299",
       "name": "Operation Mockingbird 2.0 Allegation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -862,14 +882,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10058"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10303",
       "ref": "N-10303",
       "name": "Epstein Files Release Status",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -879,14 +901,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10316",
       "ref": "N-10316",
       "name": "Tyler Robinson Prosecution Evidence Base",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -898,14 +921,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10321",
       "ref": "N-10321",
       "name": "Tyler Robinson Rooftop Access Timeline",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -916,14 +940,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10404",
       "ref": "N-10404",
       "name": "Charlie Kirk DOGE Pre-Death Establishment",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -933,14 +958,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10481",
       "ref": "N-10481",
       "name": "Faith Kates – Epstein Relationship Scope",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -951,14 +977,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10478"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10655",
       "ref": "N-10655",
       "name": "Prosecution Non-Call of Rooftop Eyewitness",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -968,14 +996,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10682",
       "ref": "N-10682",
       "name": "TPUSA White House Meeting Coordination with Netanyahu Trip",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -986,14 +1015,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10896",
       "ref": "N-10896",
       "name": "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1004,14 +1034,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q327333"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10938",
       "ref": "N-10938",
       "name": "Pleasant Grove Sheriff's Department",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1021,14 +1053,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q327333"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10939",
       "ref": "N-10939",
       "name": "Freya Canine Scent Trace",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1038,14 +1072,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10686"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10972",
       "ref": "N-10972",
       "name": "Bomb Dog Deployment at the Crime Scene",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1058,7 +1094,11 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-09-10",
+      "place": "N-10028"
     },
     {
       "@type": "Person",
@@ -1483,11 +1523,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-11057",
       "ref": "N-11057",
       "name": "Manhunt Blurry Still Image Release Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "The host's question why the feds released a blurry stairwell still during the 33-hour manhunt when clearer footage existed.",
       "related_artifacts": [],
       "related_claims": [
@@ -1497,7 +1537,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Organization",
@@ -1517,7 +1558,9 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "GovernmentOrganization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Topic",
@@ -1536,14 +1579,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-11060",
       "ref": "N-11060",
       "name": "Zachariah Qureshi Detention and Release Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "The host's questions about why Zachariah Qureshi was arrested and interrogated and then released, and about his father's military app.",
       "related_artifacts": [],
       "related_claims": [
@@ -1555,7 +1599,9 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10529"
     }
   ],
   "claims": [

@@ -727,7 +727,7 @@ John F. Kennedy; the host's LBJ remark.
 
 **N-11268** Trump Post of Kirk With Israeli Flag
 
-Node Type: Topic
+Node Type: Thing
 The host's recurring point that Donald Trump tweeted a photo of Charlie Kirk hugging an Israeli and an American flag when Kirk died.
 
 *Related: C-8845*
@@ -776,7 +776,7 @@ Existing topic reused for Hammer's text messages.
 
 **N-11269** Charlie Kirk Show Equity Stakes Question
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's account, from Kirk and a Kolvet family source, that Kirk and Andrew Kolvet held stakes in the Charlie Kirk Show and that Kolvet allegedly lost millions when Kirk refused Netanyahu.
 
 *Related: C-8856, C-8858, C-8859, C-8863*

@@ -646,7 +646,7 @@ Business owned by Lyle and Shelly Reams, listed at 21 Rose and Thobi, Sacaton, A
 
 **N-11096** TPUSA Cease and Desist Letter to Candace Owens
 
-Node Type: Topic
+Node Type: Thing
 The legal letter(s) TPUSA sent the host in January 2026, which she says partly cited her statement that military men infiltrated TPUSA.
 
 *Related: C-5532, C-5564, C-5597*
@@ -655,7 +655,7 @@ The legal letter(s) TPUSA sent the host in January 2026, which she says partly c
 
 **N-11097** Magisterium AI
 
-Node Type: Organization
+Node Type: Thing
 Catholic AI answer engine advertised in a sponsor read.
 
 *Related: C-5562*

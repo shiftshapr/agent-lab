@@ -850,7 +850,7 @@ Tel Aviv firm the host names as the second largest shareholder of Satys, investi
 
 **N-11195** UVU Attendee Recognition and Media Avoidance Question
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's account that UVU students did not recognize attendees at the September 10 event, that it was advertised late, and that national media avoided UVU students.
 
 *Related: C-3350, C-3351, C-3404*

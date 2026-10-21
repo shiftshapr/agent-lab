@@ -1154,11 +1154,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "The person alleged to have recorded the exit video appears to have worked with TPUSA. The host repeats her questions for TPUSA leadership.",
       "related_artifacts": [
         "A-2560.1"
@@ -1174,14 +1174,16 @@
       "evidence_count": 1,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10026",
       "ref": "N-10026",
       "name": "Israel",
-      "type": "investigation_target",
+      "type": "place",
       "description": "The country the host says is behind the Show Faith by Works propaganda effort and the outside spending against Thomas Massie.",
       "related_artifacts": [],
       "related_claims": [
@@ -1193,14 +1195,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10067",
       "ref": "N-10067",
       "name": "Daily Mail",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Published the article on Jessica Reed Kraus's marriage and the escort-review allegation.",
       "related_artifacts": [
         "A-2564.1"
@@ -1215,14 +1219,16 @@
       "evidence_count": 1,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10078",
       "ref": "N-10078",
       "name": "Israel Influence on US Politics",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The FARA propaganda spending and the Israeli-lobby money in Thomas Massie's primary.",
       "related_artifacts": [],
       "related_claims": [
@@ -1234,14 +1240,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10070",
       "ref": "N-10070",
       "name": "AIPAC",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Named by the host as teaming up with Trump against Massie, and by Massie as a source of the outside money.",
       "related_artifacts": [
         "A-2562.1"
@@ -1254,14 +1261,16 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10186",
       "ref": "N-10186",
       "name": "TPUSA Succession Plan Disclosure Timeline",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The 35-day-old request to see footage of Charlie Kirk naming Erika Kirk as chairman and CEO.",
       "related_artifacts": [],
       "related_claims": [
@@ -1272,14 +1281,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10319",
       "ref": "N-10319",
       "name": "Andrew Kolvet Surgeon Bullet Description",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The host calls the \"steel neck\" surgeon quote the biggest lie.",
       "related_artifacts": [],
       "related_claims": [
@@ -1289,14 +1299,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10416",
       "ref": "N-10416",
       "name": "Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The host contrasts Erika Kirk's \"Andrew went rogue\" account with Erika initiating a three-way call.",
       "related_artifacts": [],
       "related_claims": [
@@ -1307,14 +1318,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10606",
       "ref": "N-10606",
       "name": "Charlie Kirk Aspen Audio Authenticity Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Donors are said to say the CEO-succession video is AI.",
       "related_artifacts": [],
       "related_claims": [
@@ -1326,14 +1338,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10582",
       "ref": "N-10582",
       "name": "WHCD Incident Reconstruction",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The White House Correspondents' Dinner shooting and Erika Kirk's exit.",
       "related_artifacts": [
         "A-2558.2"
@@ -1346,14 +1359,15 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10583",
       "ref": "N-10583",
       "name": "Sara Sidner Original Video Source Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The host doubts that Sidner recorded the exit video and suspects it was sent to her.",
       "related_artifacts": [
         "A-2558.2"
@@ -1365,14 +1379,15 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10593",
       "ref": "N-10593",
       "name": "Brian Harpole Lawsuit Coordination Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The host cites evidence of possible contact between Kolvet and Harpole through military-bro YouTubers.",
       "related_artifacts": [],
       "related_claims": [
@@ -1382,14 +1397,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10604",
       "ref": "N-10604",
       "name": "2025 FARA Propaganda Timeline Convergence",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The Show Faith by Works filing and the increased Israeli propaganda spend.",
       "related_artifacts": [
         "A-2557.1"
@@ -1404,14 +1420,15 @@
       "evidence_count": 1,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10783",
       "ref": "N-10783",
       "name": "Harpole Shawn Ryan Statements vs Independent Review Findings",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Erika Kirk told the host Harpole's Shawn Ryan appearance was unauthorized.",
       "related_artifacts": [],
       "related_claims": [
@@ -1421,14 +1438,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10762"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10834",
       "ref": "N-10834",
       "name": "Erika Kirk WHCD Exit Video Staging Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Investigation target: whether the viral video of Erika Kirk saying \"I just want to go home\" as she left the 2026 White House Correspondents' Dinner after shots were fired was staged. The host's $10,000 bounty produced a tip from a person in politics who offered a sworn affidavit and named the alleged recorder. That person is described as a freelancing political operative who had done work with Turning Point USA and was positioned in advance. The tipster says the clip was shared among digital media teams to make it go viral. A second tipster holds an unseen 30-second angle. The host says she will withhold the operative's name until it is confirmed.",
       "related_artifacts": [
         "A-2556.1",
@@ -1460,7 +1479,9 @@
       "related_nodes": [
         "N-2",
         "N-10583"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10582"
     },
     {
       "@type": "Organization",
@@ -1484,7 +1505,9 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-10604"
-      ]
+      ],
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
       "@type": "Topic",
@@ -1512,7 +1535,8 @@
         "N-222",
         "N-14",
         "N-589"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1538,7 +1562,8 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-579"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
       "@type": "Organization",
@@ -1557,7 +1582,9 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -1581,14 +1608,16 @@
         "N-298",
         "N-608",
         "N-609"
-      ]
+      ],
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10840",
       "ref": "N-10840",
       "name": "Andrew Kolvet / House Inhabit PR Collaboration Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Investigation target: the host's allegation that Andrew Kolvet works with Jessica Reed Kraus (House Inhabit) and other YouTubers, using them as part of TPUSA's PR effort. She says Kraus is one of the people attacking her husband.",
       "related_artifacts": [],
       "related_claims": [
@@ -1603,7 +1632,8 @@
       "related_nodes": [
         "N-14",
         "N-610"
-      ]
+      ],
+      "schema_org": "Question"
     }
   ],
   "claims": [

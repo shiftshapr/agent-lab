@@ -951,11 +951,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization whose handling of the Aspen video, chapter leaders, corporate will, footage catalog and AI-company contacts is discussed.",
       "related_artifacts": [
         "A-2593.4",
@@ -982,14 +982,16 @@
       "evidence_count": 2,
       "claim_count": 15,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10067",
       "ref": "N-10067",
       "name": "Daily Mail",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Published Charlie Spiering's article on its exclusive screening of the Aspen video.",
       "related_artifacts": [
         "A-2593.1",
@@ -1010,14 +1012,16 @@
       "evidence_count": 4,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10072",
       "ref": "N-10072",
       "name": "White House",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Recipient of the host's inquiries about the WHCD email; gave the same denial in four and a half minutes and has not answered her follow-up.",
       "related_artifacts": [
         "A-2595.3"
@@ -1034,14 +1038,16 @@
       "evidence_count": 1,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "LandmarksOrHistoricalBuildings",
+      "wikidata_class": "Q41176"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10528",
       "ref": "N-10528",
       "name": "Built Inc. Federal Contracting Pattern",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The host recalls that the father of \"decoy boy number two\" received a large DoD contract through the Built app.",
       "related_artifacts": [],
       "related_claims": [
@@ -1051,14 +1057,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10529"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10529",
       "ref": "N-10529",
       "name": "Decoy Subject Investigation (Qureshi)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The host refers to \"decoy boy number two\" and his father's DoD contract.",
       "related_artifacts": [],
       "related_claims": [
@@ -1068,14 +1076,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10582",
       "ref": "N-10582",
       "name": "WHCD Incident Reconstruction",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The shooting at the White House Correspondents' Dinner used as the reference point for the email's timing.",
       "related_artifacts": [],
       "related_claims": [
@@ -1085,14 +1094,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10347",
       "ref": "N-10347",
       "name": "Brian Harpole Fort Huachuca Presence Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The host says the alibi photo passed to Paramount Tactical shows children who are not Erika Kirk's.",
       "related_artifacts": [],
       "related_claims": [
@@ -1103,14 +1113,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10606",
       "ref": "N-10606",
       "name": "Charlie Kirk Aspen Audio Authenticity Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The host's sources say Charlie did not name Erika CEO in Aspen; she argues this implies AI alteration.",
       "related_artifacts": [],
       "related_claims": [
@@ -1121,14 +1133,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10809",
       "ref": "N-10809",
       "name": "Department of War",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Referred to as the Department of Defense; source of the September 2025 payments to Paramount Tactical and of the Built contract.",
       "related_artifacts": [
         "A-2596.1"
@@ -1143,14 +1156,16 @@
       "evidence_count": 1,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "GovernmentOrganization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10820",
       "ref": "N-10820",
       "name": "Paramount Tactical",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Referred to as \"Paramount Tactical\" and \"Paramount, not so tactical\"; the host calls it TPUSA's leading online defender of Erika Kirk and a recipient of DoD payments.",
       "related_artifacts": [
         "A-2596.1"
@@ -1167,14 +1182,16 @@
       "evidence_count": 1,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10857",
       "ref": "N-10857",
       "name": "Aspen CEO-Appointment Video Non-Release",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Investigation target: the video of Charlie Kirk at the Aspen donor event that Erika Kirk says shows him naming her CEO and chairman. TPUSA released only the audio, used it as her AmFest walkout music and, per the host, screened the full video privately for the Daily Mail while citing donor privacy as its reason for not releasing it. The host says her sources dispute that Charlie said the line and argues it may have been added with AI.",
       "related_artifacts": [
         "A-2592.1",
@@ -1206,7 +1223,9 @@
         "N-2",
         "N-1",
         "N-10606"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10606"
     },
     {
       "@type": "Topic",
@@ -1232,14 +1251,15 @@
         "N-10820",
         "N-614",
         "N-10809"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10859",
       "ref": "N-10859",
       "name": "Erika Kirk Corporate Will and Inheritance Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Investigation target: whether Charlie Kirk's corporate will or estate planning named Erika Kirk as TPUSA's successor, and the host's insider report that she inherited about $10 million.",
       "related_artifacts": [],
       "related_claims": [
@@ -1255,14 +1275,16 @@
       "related_nodes": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10186"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-10860",
       "ref": "N-10860",
       "name": "TPUSA Hollywood AI Company Meeting",
-      "type": "topic",
+      "type": "event",
       "description": "Investigation target: the host's report that TPUSA met with a Hollywood AI company that makes posthumous videos, read alongside Erika Kirk's statement that there are 10 years of unseen footage of Charlie.",
       "related_artifacts": [],
       "related_claims": [
@@ -1276,14 +1298,16 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-10000"
-      ]
+      ],
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "Topic",
+      "@type": "Thing",
       "@id": "N-10844",
       "ref": "N-10844",
       "name": "White House Military Office Erika Kirk Amplification Email",
-      "type": "topic",
+      "type": "thing",
       "description": "Investigation target: the email the host says went out about an hour after the White House Correspondents' Dinner shooting. According to the host, it asked that Erika Kirk's \"I want to go home\" clip be boosted through White House surrogates and called her an \"emotional asset,\" and it was sent on April 25 via a distribution list with Steven Cheung, Richard Smale and Ryan Rippeon copied.",
       "related_artifacts": [
         "A-2595.4"
@@ -1308,7 +1332,9 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-10582"
-      ]
+      ],
+      "schema_org": "Message",
+      "parent": "N-10582"
     },
     {
       "@type": "Organization",
@@ -1332,7 +1358,9 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-634"
-      ]
+      ],
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
       "@type": "Organization",
@@ -1357,7 +1385,9 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-10072"
-      ]
+      ],
+      "schema_org": "Organization",
+      "wikidata_class": "Q327333"
     }
   ],
   "claims": [

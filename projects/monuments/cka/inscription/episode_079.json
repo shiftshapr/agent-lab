@@ -1154,11 +1154,11 @@
       ]
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10494",
       "ref": "N-10494",
       "name": "Charlie Kirk Iran War Opposition (June 2025)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Investigative target: documentation of Charlie Kirk's documented opposition to a US-Iran war in June 2025, including White House advocacy and characterization of neocons as \"maniacs.\"",
       "related_artifacts": [
         "A-1847.1"
@@ -1176,14 +1176,15 @@
         "N-1",
         "N-590",
         "N-5"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10495",
       "ref": "N-10495",
       "name": "Tucker Carlson CIA Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigative target: claimed CIA criminal referral against Tucker Carlson under FARA, based on communications with Iranian contacts prior to the war.",
       "related_artifacts": [
         "A-1854.1",
@@ -1204,14 +1205,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-22"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10496",
       "ref": "N-10496",
       "name": "Strait of Hormuz / US-Iran War Context",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Investigative target: status of the Strait of Hormuz, US-Iran military engagement, and allied-nation non-participation as of March 2026.",
       "related_artifacts": [
         "A-1852.1",
@@ -1231,14 +1233,15 @@
       "related_nodes": [
         "N-5",
         "N-36"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10497",
       "ref": "N-10497",
       "name": "US Embassy Baghdad Attack (March 2026)",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Investigative target: drone strike on US embassy complex in Baghdad and US evacuation advisory.",
       "related_artifacts": [
         "A-1860.1"
@@ -1253,14 +1256,18 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-5"
-      ]
+      ],
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2026-03",
+      "parent": "N-10496"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10498",
       "ref": "N-10498",
       "name": "Charlie Kirk Legacy Control Dispute",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Investigative target: ongoing contest over public interpretation of Charlie Kirk's political positions, with focus on his documented relationship with Ben Shapiro, his Iran-war opposition, and host's contention that neocons are misrepresenting his positions.",
       "related_artifacts": [
         "A-1846.1",
@@ -1285,7 +1292,8 @@
       "related_nodes": [
         "N-1",
         "N-97"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1620,11 +1628,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization whose conduct the host criticizes.",
       "related_artifacts": [],
       "related_claims": [
@@ -1637,14 +1645,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10079",
       "ref": "N-10079",
       "name": "CIA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "CIA, the agency in Carlson's account.",
       "related_artifacts": [],
       "related_claims": [
@@ -1656,14 +1666,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10070",
       "ref": "N-10070",
       "name": "AIPAC",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Lobby the commenter says is an unregistered foreign agent.",
       "related_artifacts": [],
       "related_claims": [
@@ -1673,14 +1685,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10127",
       "ref": "N-10127",
       "name": "TPUSA DOGE Department / Financial Audit",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic on a TPUSA audit.",
       "related_artifacts": [],
       "related_claims": [
@@ -1690,14 +1704,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10223",
       "ref": "N-10223",
       "name": "Megyn Kelly Tour Attendee Authenticity Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic on a Kelly tour event.",
       "related_artifacts": [],
       "related_claims": [
@@ -1707,14 +1722,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10224",
       "ref": "N-10224",
       "name": "Shapiro Statement Accuracy Re: Owens' Accusations",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic on Shapiro's statements about the host's accusations.",
       "related_artifacts": [],
       "related_claims": [
@@ -1724,14 +1740,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10252",
       "ref": "N-10252",
       "name": "AmFest Speaker Removal Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic on AmFest speaker removals and donor pressure.",
       "related_artifacts": [],
       "related_claims": [
@@ -1742,14 +1759,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10359",
       "ref": "N-10359",
       "name": "Ben Shapiro Hostile Takeover Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic on Shapiro's alleged takeover pattern.",
       "related_artifacts": [],
       "related_claims": [
@@ -1760,14 +1778,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10364",
       "ref": "N-10364",
       "name": "Ben Shapiro Daily Wire Founding Narrative",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic on Daily Wire founding narrative.",
       "related_artifacts": [],
       "related_claims": [
@@ -1777,14 +1796,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10379",
       "ref": "N-10379",
       "name": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic on attacks on Kelly.",
       "related_artifacts": [],
       "related_claims": [
@@ -1795,14 +1815,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10499",
       "ref": "N-10499",
       "name": "Netanyahu Death/Injury Status Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic on Netanyahu status verification.",
       "related_artifacts": [],
       "related_claims": [
@@ -1813,14 +1834,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10613",
       "ref": "N-10613",
       "name": "June 18 White House Meeting on Iran Involvement",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic on the June 18 White House meeting.",
       "related_artifacts": [],
       "related_claims": [
@@ -1830,14 +1852,18 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-06-18",
+      "place": "N-10072"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10821",
       "ref": "N-10821",
       "name": "Daily Wire",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization tied to Shapiro and the host's former employment.",
       "related_artifacts": [],
       "related_claims": [
@@ -1848,14 +1874,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10883",
       "ref": "N-10883",
       "name": "Venezuela",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Place named in the oil shipment claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1865,14 +1893,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place",
+      "wikidata_class": "Q6256"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10975",
       "ref": "N-10975",
       "name": "Blake Neff Employment History Account",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic on Neff's employment history.",
       "related_artifacts": [],
       "related_claims": [
@@ -1882,14 +1912,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10982",
       "ref": "N-10982",
       "name": "Ben Shapiro and Charlie Kirk Friendship Narrative",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic on the Shapiro and Kirk friendship narrative.",
       "related_artifacts": [],
       "related_claims": [
@@ -1900,14 +1931,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11014",
       "ref": "N-11014",
       "name": "TikTok Israel Moderation Claim",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic on TikTok moderation claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1917,14 +1949,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11021",
       "ref": "N-11021",
       "name": "TikTok",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Platform named in the host's article.",
       "related_artifacts": [],
       "related_claims": [
@@ -1934,14 +1967,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Corporation",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11046",
       "ref": "N-11046",
       "name": "US and Israel Iran War Betrayal Thesis",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic on the Iran war betrayal thesis.",
       "related_artifacts": [],
       "related_claims": [
@@ -1955,14 +1990,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-11062",
       "ref": "N-11062",
       "name": "Minab Iran School Strike",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Place of the school strike the host cites.",
       "related_artifacts": [],
       "related_claims": [
@@ -1974,14 +2010,17 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "parent": "N-10496"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11144",
       "ref": "N-11144",
       "name": "Candace Podcast Ranking and Operations",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic on the host's podcast ranking.",
       "related_artifacts": [],
       "related_claims": [
@@ -1992,7 +2031,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -2011,7 +2051,8 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -2029,7 +2070,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     }
   ],
   "claims": [

@@ -799,7 +799,7 @@ Data-analytics and defense contractor tied to Peter Thiel; the host says Palanti
 
 **N-11306** Kolvet and McCoy White House Meeting (Late January 2026)
 
-Node Type: Topic
+Node Type: Event
 The host's claim that Andrew Kolvet, Mikey McCoy and his wife met the White House on the Thursday before this episode while the public was led to believe they were in Arizona.
 
 *Related: C-6029, C-6031*

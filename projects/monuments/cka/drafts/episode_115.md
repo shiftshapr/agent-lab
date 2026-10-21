@@ -498,21 +498,21 @@ Named by the host as the source of the "emotional asset" email that asked for Er
 
 **N-10844** White House Military Office Erika Kirk Amplification Email
 
-Node Type: Topic
+Node Type: Thing
 Investigation target: the internal email that, per the host, called Erika Kirk an "emotional asset" and asked that her clip be the number one clip by morning, within an hour of the WHCD shooting. In this episode the host says Andrew Kolvet implied the email was made up and that her team filed and followed up on a FOIA request about it.
 
 *Related: C-9963, C-9966, A-2666.1, N-2, N-10809*
 
 **N-10892** Kash Patel September 7–10, 2025 Schedule FOIA Request
 
-Node Type: Topic
+Node Type: Investigation Question
 Investigation target: the host's FOIA request for FBI Director Kash Patel's official schedule, calendar, meetings and travel from September 7 to September 10, 2025, including travel authorizations, flight records and visitor logs. The FBI replied that "unusual circumstances" apply and that it may not decide within 20 days. Blake Neff mocked the request on X.
 
 *Related: C-9959, C-9960, C-9961, C-9962, A-2662.2, A-2662.3, A-2663.1, N-69*
 
 **N-10893** Mark Liti Burn Barrel Death
 
-Node Type: Topic
+Node Type: Event
 Investigation target: the August 23, 2022 death of Mark Liti, 48, reported as a freak burn-barrel explosion in which shrapnel struck his neck. The host says Liti supervised PETN-using perforating work at Surefire Wireline in Kittanning, Pennsylvania, allegedly confessed a week earlier to taking explosives from work, and was under ATF investigation. She says his confidant was Corey Comperatore, killed at Butler on July 13, 2024.
 
 *Related: C-9932, C-9933, C-9934, C-9935, C-9936, C-9937, C-9938, C-9939, C-9942, A-2659.1, N-675, N-105*
@@ -526,7 +526,7 @@ Kittanning, Pennsylvania oil and gas services company specializing in pump-down 
 
 **N-10895** PETN Explosive
 
-Node Type: Topic
+Node Type: Thing
 The explosive PETN, which the host says is used in well perforating, was used in the 2024 pager attack (about six grams per pager per Reuters), and in a 20-gram test mimicked a .30-06 gunshot. She connects it to the theory about Charlie Kirk's Rode microphone.
 
 *Related: C-9935, C-9936, C-9944, C-9947, C-9948, C-9950, A-2660.3, A-2661.1*
@@ -540,14 +540,14 @@ Federal agency the host says was investigating Mark Liti over explosives taken f
 
 **N-10897** Corey Comperatore Front-Row Escort Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Investigation target: the identity and authority of the unknown woman who, according to the host, asked Corey Comperatore's family, who held regular tickets, whether they wanted to be escorted to the front of the Butler rally on July 13, 2024.
 
 *Related: C-9940, N-105*
 
 **N-10898** September 2024 Lebanon Pager Attack
 
-Node Type: Topic
+Node Type: Event
 The September 17–18, 2024 explosions of PETN-rigged pagers across Lebanon and Syria, which the host says wounded more than 3,000 people and killed 12, including two children. She attributes the attack to Israel through shell companies supplying Hezbollah.
 
 *Related: C-9943, C-9944, C-9945, C-9946, C-9947, C-9951, C-9952, A-2660.1, A-2660.2, A-2660.3*
@@ -575,21 +575,21 @@ News agency whose graphic estimated six grams of PETN per rigged pager.
 
 **N-10902** Netanyahu Golden Pager Gift to Trump
 
-Node Type: Topic
+Node Type: Event
 Investigation target: the golden pager Benjamin Netanyahu presented to Donald Trump at the White House on February 4, 2025. The host asks what it signified, given that Biden was president at the time of the pager operation, and whether the United States assisted.
 
 *Related: C-9951, C-9952, N-36, N-5*
 
 **N-10903** FBI Plane Richmond–Salt Lake City September 8, 2025 Flight
 
-Node Type: Topic
+Node Type: Event
 Investigation target: an FBI plane the host says left Richmond, Virginia at 9:50 a.m. on September 8, 2025, reached Salt Lake City at 12:00 p.m. and left about an hour later. She says it partly prompted her request for Kash Patel's schedule and does not show that Patel was aboard.
 
 *Related: C-9956, C-9958, A-2662.1, N-10014, N-69*
 
 **N-10891** Erika Kirk Anti-Israel Stance at Tucker Carlson Dinner
 
-Node Type: Topic
+Node Type: Investigation Question
 Investigation target: the host's account that Tucker Carlson told her and her husband during a one-day visit to his Maine house that, at a summer 2025 dinner with Charlie and Erika Kirk, Erika was "very hardcore against Israel," more so than Charlie, and hated the pastors around him. The host contrasts this with Erika's attendance at the Hamptons summit and her later pro-Israel stance.
 
 *Related: C-9967, C-9968, C-9969, C-9970, C-9971, C-9972, C-9975, N-22, N-2, N-30*

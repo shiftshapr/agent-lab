@@ -1056,7 +1056,7 @@ First named by the host at 00:06:50 in episode 124. Tyler Robinson's father, who
 
 **N-11053** Bullet Fragment Chain-of-Custody Question
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's point that seven fragments were reportedly taken from Charlie's body, but the ATF examiner testified she received four, found three unusable and examined one, labeled 6A.
 
 *Related: C-10646*
@@ -1065,7 +1065,7 @@ The host's point that seven fragments were reportedly taken from Charlie's body,
 
 **N-11054** Transport Car Cardboard-Like Piece Tip
 
-Node Type: Topic
+Node Type: Investigation Question
 A tip the host says she received about a piece that looked like cardboard in the back of the transport vehicle.
 
 *Related: C-10683, C-10684*

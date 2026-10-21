@@ -646,7 +646,7 @@ Charlie's organization; subject of donor pressure allegations.
 
 **N-10030** Text Message Timestamp Discrepancy
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: discrepancy
 Indictment omits timestamps on Robinson-to-Lance texts; host flags as investigative gap.
 
@@ -656,7 +656,7 @@ Indictment omits timestamps on Robinson-to-Lance texts; host flags as investigat
 
 **N-10031** 33-Hour Surrender Timeline Signal
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: verification_thread
 Repeated 33-hour figure in indictment; host flags as suspicious signaling.
 
@@ -686,7 +686,7 @@ Family-sourced allegations re: Lance Twiggs behavioral history, drug use, deep-w
 
 **N-10034** Unusual Traffic at Residence Investigation
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: verification_thread
 Neighbor reports of unusual vehicles at Robinson/Twigs residence before shooting.
 
@@ -696,7 +696,7 @@ Neighbor reports of unusual vehicles at Robinson/Twigs residence before shooting
 
 **N-10035** Building Donor Withdrawal Investigation
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: verification_thread
 Top Jewish donors demanded name removed from TPUSA building 48 hours before Charlie's death; reversed after death.
 
@@ -852,7 +852,7 @@ Existing topic reused for the host's hostile takeover framing.
 
 **N-11282** Bill Ackman Million Dollar Reward Offer
 
-Node Type: Topic
+Node Type: Event
 Bill Ackman's reported offer of a million dollars for information about the person who assassinated Charlie Kirk, as cited against the host by Laura Loomer in the host's account.
 
 *Related: C-285, C-286*

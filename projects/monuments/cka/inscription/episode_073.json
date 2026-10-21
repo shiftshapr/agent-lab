@@ -574,11 +574,11 @@
       "investigative_pressure": "low"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10467",
       "ref": "N-10467",
       "name": "Wedding Photo Disappearance Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigation target: a wedding photo of Charlie and Erika Kirk was visible in the background of Charlie's home studio during the September 8, 2025 broadcast, but absent from the same background during Erika Kirk's December 12, 2025 Glenn Beck interview conducted from that office. Three competing explanations are advanced in the episode: (A) Andrew Kolvet moved it; (B) Erika moved it; (C) Charlie himself moved it on September 9, 2025.",
       "related_artifacts": [
         "A-1773.1",
@@ -598,14 +598,15 @@
       "related_nodes": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10468",
       "ref": "N-10468",
       "name": "Charlie Kirk Phone Access Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target: Charlie Kirk's cell phone has not been publicly seized by law enforcement; Erika Kirk publicly claims to possess it. The episode asserts she used it as a prop during the Glenn Beck interview (\"And I have his cell phone\") to deny that Charlie sent pre-death messages.",
       "related_artifacts": [
         "A-1774.2"
@@ -621,14 +622,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10106",
       "ref": "N-10106",
       "name": "Tyler Robinson Evidence Gaps",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Investigation target: Candace Owens' standing claim, restated in this episode, that no public evidence has been produced tying Tyler Robinson to the assassination, and that the case serves as the \"final thing\" before broader institutional collapse concerns crystallize. (Inscribed only as a target; the claim itself is interpretive commentary and is not inscribed as a C-claim.)",
       "related_artifacts": [],
       "related_claims": [
@@ -639,14 +641,15 @@
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "low",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10469",
       "ref": "N-10469",
       "name": "September 9, 2025 Night Activity Reconstruction Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target: reconciliation of competing accounts of what occurred the night before the assassination – specifically Erika's account (midnight Tokyo return, snack at 2:45 a.m., toddler bedroom swap, wedding ring removal, prayer with priest before tour); Candace Owens' speculation of an argument related to Charlie's pivot on Israel; and the absence of a clear daytime schedule for September 9, 2025.",
       "related_artifacts": [
         "A-1775.1",
@@ -663,14 +666,16 @@
       "related_nodes": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10441"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10470",
       "ref": "N-10470",
       "name": "TPUSA All-American Halftime Show Authenticity Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target: questions raised in this episode about whether the TPUSA All-American Halftime Show functioned as a genuine live event versus a staged production using camera tricks, audience placement, multiple takes, and modest stipends; whether Erika Kirk's absence from filming is meaningful; and the counter-evidence that Trump was watching the official Bad Bunny halftime show at Mar-a-Lago.",
       "related_artifacts": [
         "A-1778.1",
@@ -692,7 +697,8 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1094,11 +1100,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization whose messaging, halftime show and staff are discussed.",
       "related_artifacts": [],
       "related_claims": [
@@ -1113,14 +1119,16 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10006",
       "ref": "N-10006",
       "name": "Fox News",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Network that aired the Watters interview with Erika Kirk.",
       "related_artifacts": [],
       "related_claims": [
@@ -1130,14 +1138,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10011",
       "ref": "N-10011",
       "name": "TMZ",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Outlet the host says somehow obtained the tape in the Guthrie case.",
       "related_artifacts": [],
       "related_claims": [
@@ -1147,14 +1157,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Site of the September 10 event; the host says she has done a UVU event with Charlie.",
       "related_artifacts": [],
       "related_claims": [
@@ -1164,14 +1176,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10252",
       "ref": "N-10252",
       "name": "AmFest Speaker Removal Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1181,14 +1195,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10318",
       "ref": "N-10318",
       "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1202,14 +1217,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10369",
       "ref": "N-10369",
       "name": "Charis Bible College Security Coordination (Post-Assassination)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1219,14 +1235,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10390",
       "ref": "N-10390",
       "name": "Fort Huachuca Erika Presence Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1237,14 +1254,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10434",
       "ref": "N-10434",
       "name": "Calvary Chapel Church CIA Connection Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1254,14 +1273,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10234"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10439",
       "ref": "N-10439",
       "name": "Dan Flood Message Format Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1271,14 +1292,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10318"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10507",
       "ref": "N-10507",
       "name": "Andrew Kolvet 9/10 Flight Itinerary",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1288,14 +1311,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10826",
       "ref": "N-10826",
       "name": "New York Times Erika Kirk Interview Account Discrepancies",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1305,14 +1329,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10889",
       "ref": "N-10889",
       "name": "The New York Times",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Outlet whose apartment interview with Erika Kirk the host cites.",
       "related_artifacts": [],
       "related_claims": [
@@ -1322,14 +1347,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q11032"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11004",
       "ref": "N-11004",
       "name": "Priest Report of Marital Issues",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1340,7 +1367,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1414,7 +1442,8 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Organization",
@@ -1439,7 +1468,9 @@
       "evidence_count": 0,
       "claim_count": 9,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "GovernmentOrganization",
+      "wikidata_class": "Q43229"
     }
   ],
   "claims": [

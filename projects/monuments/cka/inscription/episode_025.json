@@ -704,11 +704,11 @@
       ]
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10186",
       "ref": "N-10186",
       "name": "TPUSA Succession Plan Disclosure Timeline",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target: whether, by whom, and through what mechanism Mikey McCoy was being positioned as Charlie Kirk's institutional successor; encompasses journal-based framing, adjectival praise pattern, and post-9/10 speaking-platform assignments.",
       "related_artifacts": [
         "A-1321.1",
@@ -728,14 +728,15 @@
         "N-17",
         "N-1",
         "N-2"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10209",
       "ref": "N-10209",
       "name": "Mikey McCoy Pre-Death Documentation Pattern",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target: the anomalous onset of Mikey McCoy's personal behind-the-scenes documentation of Charlie Kirk in the weeks preceding 9/10, including first-time micing on the Korea trip and first-time family-trip footage captured on the joint McCoy-Kirk vacation.",
       "related_artifacts": [
         "A-1323.1",
@@ -755,14 +756,15 @@
         "N-217",
         "N-1",
         "N-2"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10210",
       "ref": "N-10210",
       "name": "Rob McCoy Relocation and Timing Pattern",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target: the convergence of Rob McCoy's pastoral transition (mid-July 2025), Phoenix relocation, and Coronado property listing (August 24, 2025) in the period preceding 9/10.",
       "related_artifacts": [
         "A-1325.1",
@@ -780,14 +782,15 @@
       "related_nodes": [
         "N-17",
         "N-218"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10211",
       "ref": "N-10211",
       "name": "UVU Event Approval Timeline Anomaly",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target: the late (mid-July) submission of the 9/10 event application by UVU's TPUSA chapter, its rapid acceptance as \"stop number one,\" the absence of a standard police-protection question on the form, and UVU's subsequent denial of the security plan.",
       "related_artifacts": [
         "A-1326.1"
@@ -803,14 +806,15 @@
       "related_nodes": [
         "N-219",
         "N-181"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10212",
       "ref": "N-10212",
       "name": "Israeli Cell Phone Presence on 9/10",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target: host's claim that 12 Israeli cell-phone accounts (opened in Israel, not VPNs) were present at UVU on September 10, and that the NSA and Trump-administration officials are aware and suppressing this information.",
       "related_artifacts": [
         "A-1330.1",
@@ -827,14 +831,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-220"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10166",
       "ref": "N-10166",
       "name": "George Zinn Hospital Payment Claim",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target: verification of George Zinn's alleged hospital statement (paid to disrupt, unknown payment source) and its provenance.",
       "related_artifacts": [
         "A-1331.1"
@@ -849,7 +854,8 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-42"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1050,11 +1056,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization; source of the insider sentiment and the UVU acceptance.",
       "related_artifacts": [],
       "related_claims": [
@@ -1065,14 +1071,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Venue of the assassination and of the mid-July event request.",
       "related_artifacts": [],
       "related_claims": [
@@ -1084,14 +1092,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10045",
       "ref": "N-10045",
       "name": "Charlie Kirk Assassination Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's bullet claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1101,14 +1111,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10070",
       "ref": "N-10070",
       "name": "AIPAC",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization named in a viewer comment the host endorses.",
       "related_artifacts": [],
       "related_claims": [
@@ -1118,14 +1129,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10126",
       "ref": "N-10126",
       "name": "PragerU",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization the host says the Wilks brothers majorly fund.",
       "related_artifacts": [],
       "related_claims": [
@@ -1135,14 +1148,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10229",
       "ref": "N-10229",
       "name": "UVU Outdoor Venue Selection Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the host's tip about an indoor plan.",
       "related_artifacts": [],
       "related_claims": [
@@ -1152,14 +1167,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10239",
       "ref": "N-10239",
       "name": "Egyptian Military Plane Tracking Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's Egyptian plane claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1171,14 +1187,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10303",
       "ref": "N-10303",
       "name": "Epstein Files Release Status",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the transparency remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1188,14 +1205,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10458",
       "ref": "N-10458",
       "name": "BB Netanyahu Hamptons Dinner Allegation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic loosely reused for Netanyahu's post-assassination statements.",
       "related_artifacts": [],
       "related_claims": [
@@ -1205,14 +1223,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10415"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10614",
       "ref": "N-10614",
       "name": "Turning Point UVU Event Submission Chain",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the July 18 request and acceptance.",
       "related_artifacts": [],
       "related_claims": [
@@ -1223,14 +1243,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10653",
       "ref": "N-10653",
       "name": "Losee Center–Library Route Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the running-figure footage vantage point.",
       "related_artifacts": [],
       "related_claims": [
@@ -1240,14 +1261,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10763",
       "ref": "N-10763",
       "name": "UVU Ambulance Denial Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the no-ambulance claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1257,14 +1279,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10821",
       "ref": "N-10821",
       "name": "Daily Wire",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization the host says the Wilks brothers fund.",
       "related_artifacts": [],
       "related_claims": [
@@ -1274,14 +1297,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10929",
       "ref": "N-10929",
       "name": "Hall of Flags Activity Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the viewer comment and the host's identification.",
       "related_artifacts": [],
       "related_claims": [
@@ -1293,7 +1318,8 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1329,7 +1355,8 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Organization",
@@ -1347,7 +1374,9 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Corporation",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -1364,7 +1393,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
       "@type": "Organization",
@@ -1383,7 +1414,9 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Church",
+      "wikidata_class": "Q43229"
     }
   ],
   "claims": [

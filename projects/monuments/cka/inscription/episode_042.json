@@ -808,11 +808,11 @@
       ]
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10293",
       "ref": "N-10293",
       "name": "Maroon Shirt Pattern at UVU September 10 Event",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Persistent observation of multiple young men alone in maroon shirts at UVU; potential identification protocol question.",
       "related_artifacts": [
         "A-1505.1",
@@ -848,14 +848,15 @@
         "N-307",
         "N-308",
         "N-309"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10294",
       "ref": "N-10294",
       "name": "Charlie Kirk Show Apple Podcasts Ranking Decline",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target tracking reported drop to #94 from prior top-10 status.",
       "related_artifacts": [
         "A-1507.1"
@@ -870,14 +871,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-1"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10289",
       "ref": "N-10289",
       "name": "TPUSA Phoenix Livestream Verification Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target tracking the announced December 15, 2025 TPUSA live stream response, its invitation mechanics, Erika Kirk's attendance, and evidentiary handling.",
       "related_artifacts": [
         "A-1501.1",
@@ -905,14 +907,15 @@
         "N-14",
         "N-311",
         "N-2"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10295",
       "ref": "N-10295",
       "name": "Roof Shooter Video Witness Follow-up",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target tracking the two videos of the alleged roof subject, the side-angle shooter's testimony, and absence of federal or defense outreach.",
       "related_artifacts": [
         "A-1509.1"
@@ -926,14 +929,15 @@
       "evidence_count": 1,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10296",
       "ref": "N-10296",
       "name": "Mainstream Media Eyewitness Selection Pattern at UVU Event",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Persistent target tracking why Emmanuel Bierer was selected by PBS (and other networks) as a featured eyewitness despite his apparent obscurity.",
       "related_artifacts": [
         "A-1508.1"
@@ -948,7 +952,8 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-310"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1193,11 +1198,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization at the center of the invitation dispute.",
       "related_artifacts": [],
       "related_claims": [
@@ -1211,14 +1216,16 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10975",
       "ref": "N-10975",
       "name": "Blake Neff Employment History Account",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The claims about his work for Tucker Carlson.",
       "related_artifacts": [],
       "related_claims": [
@@ -1229,7 +1236,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1247,7 +1255,9 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10052"
     },
     {
       "@type": "Person",

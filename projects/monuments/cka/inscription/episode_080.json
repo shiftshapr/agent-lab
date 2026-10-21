@@ -496,11 +496,11 @@
   ],
   "nodes": [
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10499",
       "ref": "N-10499",
       "name": "Netanyahu Death/Injury Status Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent inquiry (held across multiple video artifacts in this episode) into whether Benjamin Netanyahu has been killed, injured, or replaced following a rumored March 10/11 Iranian strike.",
       "related_artifacts": [
         "A-1872.1",
@@ -524,14 +524,15 @@
       "evidence_count": 5,
       "claim_count": 9,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10500",
       "ref": "N-10500",
       "name": "TPUSA Direction-of-Travel Discrepancy (Post-Charlie)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent inquiry into whether post-assassination Turning Point USA messaging and leadership decisions align with Charlie Kirk's documented positions, anchored by the Arkansas chapter disaffiliation.",
       "related_artifacts": [
         "A-1869.1",
@@ -553,14 +554,16 @@
       "related_nodes": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10498"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10501",
       "ref": "N-10501",
       "name": "Joe Kent Resignation Aftermath Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Inquiry into the coordinated public response to Kent's resignation by Trump administration, sitting Republican officials, and right-wing commentators – possible pattern of criminalization-of-dissent.",
       "related_artifacts": [
         "A-1861.1",
@@ -587,7 +590,8 @@
       "claim_count": 8,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1189,11 +1193,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization whose Arkansas chapter disaffiliated and whose staff the host cites.",
       "related_artifacts": [],
       "related_claims": [
@@ -1204,14 +1208,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10023",
       "ref": "N-10023",
       "name": "Epstein Israeli Intelligence Asset Allegation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Family International and Epstein remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1221,14 +1227,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10060",
       "ref": "N-10060",
       "name": "Gaza",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Place the host cites in her account of harassment over the event.",
       "related_artifacts": [],
       "related_claims": [
@@ -1238,14 +1245,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10194",
       "ref": "N-10194",
       "name": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's Patel claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1255,14 +1263,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10303",
       "ref": "N-10303",
       "name": "Epstein Files Release Status",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Patel sex-trafficking remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1272,14 +1281,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10332",
       "ref": "N-10332",
       "name": "Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Patel and Kent claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1291,14 +1301,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10379",
       "ref": "N-10379",
       "name": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's remarks on Kelly.",
       "related_artifacts": [],
       "related_claims": [
@@ -1310,14 +1321,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10384",
       "ref": "N-10384",
       "name": "Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Harvest claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1327,14 +1339,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10374"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10488",
       "ref": "N-10488",
       "name": "Club America High School Pushback",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Sanders proclamation claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1344,14 +1358,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10489",
       "ref": "N-10489",
       "name": "Renee Crossman / United Hands Romania Cult Affiliation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the host's cult research claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1362,14 +1377,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10374"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10494",
       "ref": "N-10494",
       "name": "Charlie Kirk Iran War Opposition (June 2025)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the June 2025 turning point.",
       "related_artifacts": [],
       "related_claims": [
@@ -1379,14 +1396,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10496",
       "ref": "N-10496",
       "name": "Strait of Hormuz / US-Iran War Context",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Hormuz and India claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1397,14 +1415,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10553",
       "ref": "N-10553",
       "name": "Trump Iran Arms Admission Context",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Boeing 757 cash claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1414,14 +1433,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10877",
       "ref": "N-10877",
       "name": "Catholics for Catholics",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization hosting the March 19 event where the host will interview Kent.",
       "related_artifacts": [],
       "related_claims": [
@@ -1433,14 +1453,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11002",
       "ref": "N-11002",
       "name": "TPUSA Leak Hunt and Employee Firings",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's staff-firing claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1451,14 +1473,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10000"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11144",
       "ref": "N-11144",
       "name": "Candace Podcast Ranking and Operations",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the chart claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1468,14 +1492,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11256",
       "ref": "N-11256",
       "name": "Harvest Christian Fellowship",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization the host says is being sued over Romanian children.",
       "related_artifacts": [],
       "related_claims": [
@@ -1485,7 +1510,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Person",
@@ -1562,7 +1589,9 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     }
   ],
   "claims": [

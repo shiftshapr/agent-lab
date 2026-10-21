@@ -703,11 +703,11 @@
       ]
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10232",
       "ref": "N-10232",
       "name": "Calvary Chapel Institutional Abuse Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Persistent investigative target concerning multiple Calvary Chapel-affiliated abuse scandals referenced in this episode: Calvary Chapel Florida (Bob Coy), Woodlands (2024 arrest), Carrie (lead pastor resignation), Mission Viejo, Solid Rock (Jason James Taylor), North Country Chapel Post Falls (Anthony Iglesias, Robert Davis), Virginia (Doug DeAndrea), Fort Lauderdale (2019), North Thurston Oregon (Jeffrey Zizz).",
       "related_artifacts": [
         "A-1394.1",
@@ -722,14 +722,15 @@
       "related_nodes": [
         "N-249",
         "N-212"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10233",
       "ref": "N-10233",
       "name": "Potter's Field Ministries Financial Fraud Allegations",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "2019 Whitefish, Montana ministry scandal involving allegations of overstated child counts, photoshopped letters, and redirection of funds to Rob McCoy's church via CFO arrangement.",
       "related_artifacts": [],
       "related_claims": [],
@@ -740,7 +741,8 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-249"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1323,14 +1325,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "Topic",
+      "@type": "Thing",
       "@id": "N-10004",
       "ref": "N-10004",
       "name": "Kanye Tweet About Candace Owens",
-      "type": "topic",
+      "type": "thing",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1340,14 +1344,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "SocialMediaPosting"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10103",
       "ref": "N-10103",
       "name": "Crime Scene Pavers",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Existing topic reused for the host's pavers remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1357,7 +1362,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
@@ -1374,14 +1380,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10159",
       "ref": "N-10159",
       "name": "Rob McCoy / TPUSA Faith Division Conflict-of-Interest Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Existing topic reused for the McCoy lies claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1391,14 +1398,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10201"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10185",
       "ref": "N-10185",
       "name": "Mikey McCoy Call Log Verification",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Existing topic reused for the call log claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1408,14 +1417,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10214"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10201",
       "ref": "N-10201",
       "name": "TPUSA Faith / Christian Zionist Infiltration Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Existing topic reused for the infiltration claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1425,14 +1436,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-10231",
       "ref": "N-10231",
       "name": "Alexis Wilkins Honeypot Allegation Lawsuit",
-      "type": "topic",
+      "type": "event",
       "description": "Existing topic reused for the Wilkins and Schaefer claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1443,7 +1455,9 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
       "@type": "Topic",
@@ -1460,7 +1474,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10201"
     },
     {
       "@type": "Topic",
@@ -1477,7 +1493,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10233"
     },
     {
       "@type": "Topic",
@@ -1494,7 +1512,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1511,7 +1530,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1528,14 +1548,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10254",
       "ref": "N-10254",
       "name": "Macron Defamation Lawsuit Delaware Venue Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Macron lawsuit claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1546,7 +1567,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
@@ -1564,7 +1586,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1582,7 +1605,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1599,7 +1623,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1616,14 +1641,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10434",
       "ref": "N-10434",
       "name": "Calvary Chapel Church CIA Connection Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Chuck Smith claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1633,14 +1659,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10234"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10740",
       "ref": "N-10740",
       "name": "Butch Hibbs UVU Recording Behavior",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Butch Hibbs claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1650,14 +1678,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10741",
       "ref": "N-10741",
       "name": "Jack Hibbs Sequence-of-Events Discrepancy",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Jack Hibbs claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1667,7 +1696,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
@@ -1684,7 +1714,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Organization",
@@ -1701,7 +1732,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q1530022"
     },
     {
       "@type": "Person",
@@ -1862,7 +1895,8 @@
       "evidence_count": 0,
       "claim_count": 8,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     }
   ],
   "claims": [

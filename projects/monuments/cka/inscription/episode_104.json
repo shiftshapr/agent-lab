@@ -703,11 +703,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization whose canary-email practice, COO promotion, audit, book order and paid chapter leaders are discussed.",
       "related_artifacts": [],
       "related_claims": [
@@ -721,14 +721,16 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10072",
       "ref": "N-10072",
       "name": "White House",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Source of the rescinded communications email; Sergio Gor's former office there is said to have exchanged staff with Charlie Kirk's office.",
       "related_artifacts": [],
       "related_claims": [
@@ -741,14 +743,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "LandmarksOrHistoricalBuildings",
+      "wikidata_class": "Q41176"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10127",
       "ref": "N-10127",
       "name": "TPUSA DOGE Department / Financial Audit",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The audit announced with Streiff's promotion, and Charlie Kirk's internal DOGE.",
       "related_artifacts": [],
       "related_claims": [
@@ -759,14 +763,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10186",
       "ref": "N-10186",
       "name": "TPUSA Succession Plan Disclosure Timeline",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host says the decision on Erika Kirk taking over the board and CEO role was made within 48 hours.",
       "related_artifacts": [],
       "related_claims": [
@@ -776,14 +781,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10282",
       "ref": "N-10282",
       "name": "Justin Streiff Post-Assassination Phone Call",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Restated (Pierre) and extended with the alleged book-printer call.",
       "related_artifacts": [],
       "related_claims": [
@@ -794,14 +800,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10361",
       "ref": "N-10361",
       "name": "Missing Money from Turning Point Action",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Outside and insider tips of about $10 million missing from Turning Point Action.",
       "related_artifacts": [],
       "related_claims": [
@@ -814,14 +821,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10280",
       "ref": "N-10280",
       "name": "Pierre Dupont Donor Identity Verification Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The \"mysterious Pierre\" whom Streiff allegedly phoned on September 10.",
       "related_artifacts": [],
       "related_claims": [
@@ -831,14 +839,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10486",
       "ref": "N-10486",
       "name": "TPUSA Super Feed Copyright / Data Routing Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host says the \"super feed back door\" pays Lori Frantzve.",
       "related_artifacts": [],
       "related_claims": [
@@ -848,14 +857,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10582",
       "ref": "N-10582",
       "name": "WHCD Incident Reconstruction",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Shooting timed at 8:36 p.m. Eastern, followed by the clip and the email.",
       "related_artifacts": [],
       "related_claims": [
@@ -868,14 +878,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10583",
       "ref": "N-10583",
       "name": "Sara Sidner Original Video Source Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host says the clip was distributed to Sidner and recorded by operatives.",
       "related_artifacts": [
         "A-2575.1"
@@ -888,14 +899,15 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10512",
       "ref": "N-10512",
       "name": "Nick Shirley Background and Backing Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The teacher-praise posts as a defense of Shirley's gang-infiltration story.",
       "related_artifacts": [],
       "related_claims": [
@@ -907,14 +919,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10809",
       "ref": "N-10809",
       "name": "Department of War",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Referred to as the Department of Defense; said to use canary watermarking to trace leakers.",
       "related_artifacts": [],
       "related_claims": [
@@ -924,14 +937,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "GovernmentOrganization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10820",
       "ref": "N-10820",
       "name": "Paramount Tactical",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Transcript spelling \"Paramount not so tactical\"; named among those sent to call Mitch Snow a liar.",
       "related_artifacts": [],
       "related_claims": [
@@ -941,14 +956,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10821",
       "ref": "N-10821",
       "name": "Daily Wire",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "The host says she had agreed to a private court process with the Daily Wire.",
       "related_artifacts": [],
       "related_claims": [
@@ -958,7 +975,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
       "@type": "Person",
@@ -1057,11 +1076,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "Topic",
+      "@type": "Thing",
       "@id": "N-10844",
       "ref": "N-10844",
       "name": "White House Military Office Erika Kirk Amplification Email",
-      "type": "topic",
+      "type": "thing",
       "description": "Investigation target: a White House Military Office communications email sent at about 9:49 p.m. Eastern on the night of the WHCD shooting. The host says it described an \"Amendment to the Erika Kirk video clip\" and recommended that all channels, digital partners and \"approved surrogates\" amplify the clip overnight. She says it was copied to Steven Cheung, Ryan Rippeon and Gustav Anderly (White House Communications Agency), carried canary watermarks, and that the White House tried to recall it and then ordered recipients to delete it.",
       "related_artifacts": [
         "A-2574.1",
@@ -1088,14 +1107,16 @@
         "N-160",
         "N-620",
         "N-621"
-      ]
+      ],
+      "schema_org": "Message",
+      "parent": "N-10582"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-10845",
       "ref": "N-10845",
       "name": "Justin Streiff September 10 Book-Printer Call",
-      "type": "topic",
+      "type": "event",
       "description": "Investigation target: a tip, which the host says was verified with receipts, that on September 10, 2025 Justin Streiff called a printer (a former US Army interrogator). According to the tip, he arranged to at least double a planned 25,000–50,000 order of Charlie Kirk's book \"Stop in the Name of God\" after getting Erika Kirk's approval.",
       "related_artifacts": [
         "A-2576.1"
@@ -1114,7 +1135,11 @@
       "related_nodes": [
         "N-15",
         "N-2"
-      ]
+      ],
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-09-10",
+      "parent": "N-10282"
     },
     {
       "@type": "Organization",
@@ -1136,7 +1161,9 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-11"
-      ]
+      ],
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -1159,7 +1186,9 @@
         "N-15",
         "N-16",
         "N-33"
-      ]
+      ],
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
       "@type": "Topic",
@@ -1186,7 +1215,8 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-16"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1212,7 +1242,8 @@
         "N-82",
         "N-377",
         "N-623"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",

@@ -643,11 +643,11 @@
       ]
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10305",
       "ref": "N-10305",
       "name": "Fort Huachuca September 9, 2025 JTF-SB Meeting Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigable target: an alleged early-morning meeting at Fort Huachuca on September 9, 2025, whose attendees include (per witness) a congressman and a Daily Wire contributor.",
       "related_artifacts": [
         "A-1567.1",
@@ -670,14 +670,16 @@
         "N-266",
         "N-364",
         "N-361"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10345",
       "ref": "N-10345",
       "name": "Mark Amodei September 9 Alibi Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent inconsistency between Amodei's own X claim of full-day attendance in D.C. and Diligent Denizen's record-based analysis of missed morning roll calls.",
       "related_artifacts": [
         "A-1564.1",
@@ -695,14 +697,16 @@
       "related_nodes": [
         "N-363",
         "N-365"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10305"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10346",
       "ref": "N-10346",
       "name": "Cabot Phillips Fort Huachuca Presence Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Verification target: whether Cabot Phillips was in fact at Fort Huachuca on September 9, 2025; pending response to host's outreach.",
       "related_artifacts": [
         "A-1566.1"
@@ -718,14 +722,16 @@
       "related_nodes": [
         "N-364",
         "N-361"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10305"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10347",
       "ref": "N-10347",
       "name": "Brian Harpole Fort Huachuca Presence Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Verification target: whether Brian Harpole attended the Fort Huachuca morning meeting; travel logs cited as enabling but not confirming attendance.",
       "related_artifacts": [
         "A-1567.2"
@@ -741,14 +747,16 @@
       "related_nodes": [
         "N-266",
         "N-10305"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10348",
       "ref": "N-10348",
       "name": "Erika Kirk Pre-Charlie Dating History Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Verification target: whether Erika Kirk publicly stated she never dated anyone before Charlie Kirk, and the status of social-media evidence showing otherwise (Cabot Phillips).",
       "related_artifacts": [],
       "related_claims": [
@@ -762,7 +770,8 @@
       "related_nodes": [
         "N-2",
         "N-364"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1166,11 +1175,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Reused topic cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1182,14 +1191,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10008",
       "ref": "N-10008",
       "name": "YWLS Conference",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Reused topic cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1199,14 +1210,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10015",
       "ref": "N-10015",
       "name": "Mossad",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Reused topic cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1217,14 +1230,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10026",
       "ref": "N-10026",
       "name": "Israel",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Reused topic cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1235,14 +1250,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10225",
       "ref": "N-10225",
       "name": "Daily Wire Intern Covert Recording Operation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Reused topic cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1253,14 +1270,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10239",
       "ref": "N-10239",
       "name": "Egyptian Military Plane Tracking Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Reused topic cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1271,14 +1289,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10252",
       "ref": "N-10252",
       "name": "AmFest Speaker Removal Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Reused topic cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1293,14 +1312,15 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10312",
       "ref": "N-10312",
       "name": "Candlewood Suites Hotel Security Footage (Sept 8, 2025)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused topic cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1310,14 +1330,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10342"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10319",
       "ref": "N-10319",
       "name": "Andrew Kolvet Surgeon Bullet Description",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused topic cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1327,14 +1349,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10366",
       "ref": "N-10366",
       "name": "Liberty University Funding History",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Reused topic cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1344,14 +1367,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10379",
       "ref": "N-10379",
       "name": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Reused topic cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1361,14 +1385,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10389",
       "ref": "N-10389",
       "name": "Daily Wire Stalking Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Reused topic cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1378,14 +1403,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10416",
       "ref": "N-10416",
       "name": "Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused topic cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1395,14 +1421,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10420",
       "ref": "N-10420",
       "name": "USS Liberty Incident Cover-up Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Reused topic cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1412,14 +1439,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10833",
       "ref": "N-10833",
       "name": "Zachary Lewis Daily Wire Kids Case",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Reused topic cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1429,7 +1457,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1449,11 +1478,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10943",
       "ref": "N-10943",
       "name": "Fort Huachuca 9/11 Affidavit Claim",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "The host's statement that Fort Huachuca is involved in lawsuits and sworn affidavits regarding 9/11 from people who asserted that prepping took place there; no case or affiant is named.",
       "related_artifacts": [],
       "related_claims": [
@@ -1463,7 +1492,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
       "@type": "Topic",
@@ -1481,7 +1512,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1500,7 +1532,8 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     }
   ],
   "claims": [

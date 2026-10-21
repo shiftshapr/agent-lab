@@ -456,21 +456,21 @@ Account whose host showed and then disowned the relevance of the Fort Huachuca a
 
 **N-10844** White House Military Office Erika Kirk Amplification Email
 
-Node Type: Topic
+Node Type: Thing
 Investigation target: the email the host says was sent by the White House Military Office through the White House Communications Agency about 25 minutes after Sara Sidner's 9:25 p.m. upload of the Erika Kirk clip on the night of the April 25 WHCD shooting. According to the host's verbatim retyping, it calls the clip the "strongest emotional response asset" and recommends that all channels, digital partners and approved surrogates amplify it. It also expects aligned outside commentators to push themes on protective response, media conduct, political rhetoric and executive stability. The host names recipients including Karoline Leavitt's press office, Steven Cheung and several military communications staff, and calls for FOIA requests.
 
 *Related: C-9255, C-9258, C-9264, C-9265, C-9266, C-9267, C-9268, C-9269, C-9271, C-9272, C-9273, C-9274, C-9275, A-2581.1, A-2581.2, N-2, N-10852*
 
 **N-10850** Erika Kirk Air Force Academy Board of Visitors Appointment
 
-Node Type: Topic
+Node Type: Event
 Investigation target: Erika Kirk's appointment to the U.S. Air Force Academy Board of Visitors in her late husband's place, which the host says was artificial and of unclear qualification.
 
 *Related: C-9259, N-2*
 
 **N-10851** Erika Kirk Pre-WHCD West Wing Visit
 
-Node Type: Topic
+Node Type: Event
 Investigation target: Erika Kirk's visit to the West Wing just before the WHCD shooting, which the host says she can confirm; the host assumes but cannot confirm that Andrew Kolvet and Mikey McCoy went with her.
 
 *Related: C-9260, N-2, N-14, N-190*
@@ -484,14 +484,14 @@ Department of Defense military communications unit embedded in the White House. 
 
 **N-10853** WHCD Night White House "No Scramble" Readiness Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Investigation target: the host's White House sources say that on the Saturday evening of the WHCD, when the White House was not open for business, staff were unusually available and on standby, with no scramble before the 10:33 p.m. press conference.
 
 *Related: C-9276, C-9277*
 
 **N-10854** Stratos AI Data Center (Box Elder County, Utah)
 
-Node Type: Topic
+Node Type: Place
 A proposed AI data center reported by the Guardian to cover more than 40,000 acres over three sites in Box Elder County, Utah. It would need about 9 gigawatts of power and is backed by Kevin O'Leary. County commissioners approved it despite thousands of objections. The host presents it as part of a push toward a surveillance state.
 
 *Related: C-9281, C-9282, C-9283, C-9284, C-9285, C-9286, C-9288, A-2584.1, A-2585.1, N-627, N-628*
@@ -505,7 +505,7 @@ Investigation target: the May 8 Charlie Kirk Show segment in which Andrew Kolvet
 
 **N-10856** Florida Golden Trump Statue
 
-Node Type: Topic
+Node Type: Thing
 A 22-foot golden statue of Donald Trump unveiled at a Florida golf course. Pastor John Mark Burns defended it, and the host says Hasidic Jewish donors backed it.
 
 *Related: C-9305, C-9306, C-9307, A-2589.1, A-2589.2, N-5, N-629*

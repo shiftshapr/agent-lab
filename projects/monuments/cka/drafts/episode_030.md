@@ -872,7 +872,7 @@ Persistent target: the host's report that tech people found TPUSA may use softwa
 
 **N-11149** Mikey McCoy Identity and Family Ties Inquiry
 
-Node Type: Topic
+Node Type: Investigation Question
 Persistent target: the host's questions about Mikey McCoy's legal first name, local recognition of him, and his wife's role as a TPUSA events director.
 
 *Related: C-2673, C-2675, C-2676, C-2677*
@@ -890,7 +890,7 @@ Persistent target: the school Mikey McCoy attended, Rob McCoy's role running it,
 
 **N-11151** Female Jewish Donor Confrontation of Kirk After Tucker Speech
 
-Node Type: Topic
+Node Type: Event
 Persistent target: the host's unnamed female donor who allegedly yelled at Charlie Kirk after Tucker Carlson's July speech.
 
 *Related: C-2657*

@@ -563,7 +563,7 @@ Interviewer of Kolvet and Erika Kirk, per the host.
 
 **N-11018** Charlie Kirk Post-Shooting First Aid Question
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's claims that Kirk received no first aid after being shot and her account of Kolvet's explanation that Kirk had told them not to help him if shot in the neck.
 
 *Related: C-1970, C-1971*

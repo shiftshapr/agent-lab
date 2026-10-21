@@ -888,7 +888,7 @@ The host's statements that Eddie Farnsworth blocked a 2013 hearing on a child se
 
 **N-11031** French Online Harassment Sentences Over Brigitte Macron
 
-Node Type: Topic
+Node Type: Event
 The host's description of the French court's sentences, account suspensions, course orders and moral damages against ten defendants over posts about Brigitte Macron.
 
 *Related: C-4619, C-4620, C-4621, C-4622, C-4623, C-4627*
@@ -906,7 +906,7 @@ Claims that Lori Frantzve's companies AZ Tech and E3 Tech held Department of Def
 
 **N-11033** Robinson Grandmother Whereabouts Hypothesis
 
-Node Type: Topic
+Node Type: Investigation Question
 The tipster hypothesis, offered by the host as unconfirmed, that Tyler Robinson went to his grandmother's house near Panguitch after the Cowboys Smokehouse meal, together with the grandmother's early public statement.
 
 *Related: C-4532, C-4533*

@@ -774,7 +774,7 @@ First named by the host at 00:22:56 in episode 050. Pen name the host says Ben S
 
 **N-10943** Fort Huachuca 9/11 Affidavit Claim
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's statement that Fort Huachuca is involved in lawsuits and sworn affidavits regarding 9/11 from people who asserted that prepping took place there; no case or affiant is named.
 
 *Related: C-4437*

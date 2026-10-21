@@ -810,11 +810,11 @@
       ]
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10353",
       "ref": "N-10353",
       "name": "Erika Kirk Sept 8, 2025 Alibi Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target: the host asserts she cannot obtain or confirm a coherent Sept 8, 2025 alibi for Erika Kirk, that Frank Turek states Charlie was \"dealing with the kids,\" and that witnesses at the residence did not see Erika on Sept 8 but did see her on Sept 9.",
       "related_artifacts": [
         "A-1735.1"
@@ -831,14 +831,16 @@
       "related_nodes": [
         "N-489",
         "N-7"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10390"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10445",
       "ref": "N-10445",
       "name": "Erika Kirk Sept 10 Hospital vs. Clinic Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The NYT reports Erika was at the hospital; the host asserts she has confirmed for a fact that the mother was receiving treatment at a \"holistic clinic,\" not a hospital.",
       "related_artifacts": [
         "A-1728.1",
@@ -857,14 +859,16 @@
         "N-489",
         "N-190",
         "N-15"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10449"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10446",
       "ref": "N-10446",
       "name": "Sept 7, 2025 Erika Instagram Post – Manipulation Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The host asserts the post is exceptional in style (posting mother in vulnerable position, breaking a multi-year privacy pattern) and possibly deployed to preempt alibi scrutiny.",
       "related_artifacts": [
         "A-1727.2"
@@ -879,14 +883,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-489"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10447",
       "ref": "N-10447",
       "name": "Nimrod / Gilgamesh Remains Extraction Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The host asserts that locals reported nighttime American digging and extraction operations at the tomb site; viewer email states tablets related to Nephilim/resurrection went missing from the museum after the raid.",
       "related_artifacts": [
         "A-1729.1"
@@ -901,14 +906,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-541"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10448",
       "ref": "N-10448",
       "name": "Babylon Military Camp Activities",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Camp Alpha / coalition use of Babylon (April 2003 – December 2004); helicopter pad, sandbags filled with archaeological fragments, helicopter-induced roof collapse, museum looting; British Museum comparison to Great Pyramid / Stonehenge.",
       "related_artifacts": [
         "A-1730.1",
@@ -924,14 +930,17 @@
       "evidence_count": 3,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2003-04"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10214",
       "ref": "N-10214",
       "name": "Mikey McCoy Post-Shooting Phone Call Sequence",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "NYT said the call came \"within seconds\"; host asserts Mikey called his wife first, then Erika three-plus minutes later, while adding her to a line already in progress.",
       "related_artifacts": [
         "A-1728.1",
@@ -947,14 +956,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-190"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10449",
       "ref": "N-10449",
       "name": "Erika's Mother Medical Narrative",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Lyme disease (verified by prior Charlie conversation); Bella Hadid comparison; treatments described as 1–2 hour sessions at a center; reportedly two different clinics (one on Sept 8, one on Sept 10).",
       "related_artifacts": [
         "A-1735.1"
@@ -971,14 +981,15 @@
         "N-489",
         "N-15",
         "N-542"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10450",
       "ref": "N-10450",
       "name": "Babylon Library / Tablet Loss Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "UN article acknowledges contents from Hammurabi and Nebuchadnezzar museums and the Babylon library/archive were stolen and destroyed; viewer email asserts tablets concerning reincarnation and the Nephilim were specifically excluded from what the military retrieved.",
       "related_artifacts": [
         "A-1729.1",
@@ -995,7 +1006,9 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-541"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10448"
     },
     {
       "@type": "Person",
@@ -1219,11 +1232,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization at the center of the host's military and ties claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1236,14 +1249,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10189",
       "ref": "N-10189",
       "name": "TPUSA Military-Personnel Network",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the host's military-operation remarks.",
       "related_artifacts": [],
       "related_claims": [
@@ -1254,14 +1269,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10252",
       "ref": "N-10252",
       "name": "AmFest Speaker Removal Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's AmFest slot remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1271,14 +1287,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10370",
       "ref": "N-10370",
       "name": "Charlie Kirk Korea Trip / Pastor Yoon Connection",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Korea and Tokyo return.",
       "related_artifacts": [],
       "related_claims": [
@@ -1288,14 +1305,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10389",
       "ref": "N-10389",
       "name": "Daily Wire Stalking Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the clip-file claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1305,14 +1323,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10390",
       "ref": "N-10390",
       "name": "Fort Huachuca Erika Presence Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the dinner alibi and cease-and-desist claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1324,14 +1343,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10409",
       "ref": "N-10409",
       "name": "Desert Spirit Tech LLC Business Purpose Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the host's LLC remarks.",
       "related_artifacts": [],
       "related_claims": [
@@ -1341,14 +1362,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10356"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10410",
       "ref": "N-10410",
       "name": "Euro Tech / Cincinnati Business Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Cincinnati connection.",
       "related_artifacts": [],
       "related_claims": [
@@ -1358,14 +1381,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10356"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10441",
       "ref": "N-10441",
       "name": "Charlie Kirk Sept 8–10 Timeline Reconstruction",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Sept 8 schedule claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1378,14 +1403,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10024"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10595",
       "ref": "N-10595",
       "name": "Turning Point Geofencing / Show Faith by Works Link",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the geofencing remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1395,14 +1422,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10821",
       "ref": "N-10821",
       "name": "Daily Wire",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization behind All Access and the clip file.",
       "related_artifacts": [],
       "related_claims": [
@@ -1413,14 +1441,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10843",
       "ref": "N-10843",
       "name": "Superfeed",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Company the host links to Erika's mother.",
       "related_artifacts": [],
       "related_claims": [
@@ -1430,14 +1460,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10877",
       "ref": "N-10877",
       "name": "Catholics for Catholics",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Conference where the host says she will speak.",
       "related_artifacts": [],
       "related_claims": [
@@ -1448,14 +1480,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10889",
       "ref": "N-10889",
       "name": "The New York Times",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Outlet named among those Erika admitted.",
       "related_artifacts": [],
       "related_claims": [
@@ -1465,14 +1499,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q11032"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11017",
       "ref": "N-11017",
       "name": "Candace Owens Australia Visa Review",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the blocked tour claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1482,14 +1518,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-11096",
       "ref": "N-11096",
       "name": "TPUSA Cease and Desist Letter to Candace Owens",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Existing topic reused for the cease-and-desist claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1499,7 +1536,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CreativeWork"
     }
   ],
   "claims": [

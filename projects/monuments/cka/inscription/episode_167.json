@@ -770,11 +770,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "",
       "related_artifacts": [],
       "related_claims": [
@@ -788,14 +788,16 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10006",
       "ref": "N-10006",
       "name": "Fox News",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "The host says Zacharia is going back to Fox News.",
       "related_artifacts": [],
       "related_claims": [
@@ -805,14 +807,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "",
       "related_artifacts": [],
       "related_claims": [
@@ -822,14 +826,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10013",
       "ref": "N-10013",
       "name": "Discord",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Platform where the clipping messages were found.",
       "related_artifacts": [
         "A-3412.1",
@@ -843,14 +849,16 @@
       "evidence_count": 2,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10071",
       "ref": "N-10071",
       "name": "Provo, Utah",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Val Peterson once sat on the Provo airport board.",
       "related_artifacts": [],
       "related_claims": [
@@ -860,14 +868,17 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "City",
+      "wikidata_class": "Q515",
+      "parent": "N-10120"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10160",
       "ref": "N-10160",
       "name": "Tyler Bowyer X Defense Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Bowyer's DMs defending the organization.",
       "related_artifacts": [],
       "related_claims": [
@@ -878,14 +889,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10488",
       "ref": "N-10488",
       "name": "Club America High School Pushback",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "",
       "related_artifacts": [],
       "related_claims": [
@@ -895,14 +907,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10582",
       "ref": "N-10582",
       "name": "WHCD Incident Reconstruction",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "",
       "related_artifacts": [],
       "related_claims": [
@@ -915,14 +928,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10750",
       "ref": "N-10750",
       "name": "Statue Vandalism Investigation",
-      "type": "investigation_target",
+      "type": "event",
       "description": "",
       "related_artifacts": [],
       "related_claims": [
@@ -946,14 +960,17 @@
       "evidence_count": 0,
       "claim_count": 15,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2026-09-13"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10755",
       "ref": "N-10755",
       "name": "Trafficking-Pattern Claim (TPUSA / Kirk Circle)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "",
       "related_artifacts": [],
       "related_claims": [
@@ -964,14 +981,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10801",
       "ref": "N-10801",
       "name": "Monster Lab / Clippet",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "",
       "related_artifacts": [],
       "related_claims": [
@@ -992,14 +1010,16 @@
       "evidence_count": 0,
       "claim_count": 12,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10803",
       "ref": "N-10803",
       "name": "Enclave and Key",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "",
       "related_artifacts": [],
       "related_claims": [
@@ -1010,14 +1030,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10807",
       "ref": "N-10807",
       "name": "Latvia",
-      "type": "investigation_target",
+      "type": "place",
       "description": "",
       "related_artifacts": [],
       "related_claims": [
@@ -1027,14 +1049,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-10810",
       "ref": "N-10810",
       "name": "Atlantic Elephant Clipping Expose",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "",
       "related_artifacts": [],
       "related_claims": [
@@ -1044,14 +1068,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Article",
+      "parent": "N-10802"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10812",
       "ref": "N-10812",
       "name": "Erika Kirk September 15 2025 Google Drive Clip Seed",
-      "type": "investigation_target",
+      "type": "event",
       "description": "",
       "related_artifacts": [],
       "related_claims": [
@@ -1062,14 +1088,17 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-09-15"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10836",
       "ref": "N-10836",
       "name": "White House Ballroom Talking-Point Convergence",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "",
       "related_artifacts": [],
       "related_claims": [
@@ -1079,14 +1108,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-10844",
       "ref": "N-10844",
       "name": "White House Military Office Erika Kirk Amplification Email",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "",
       "related_artifacts": [],
       "related_claims": [
@@ -1098,14 +1128,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Message",
+      "parent": "N-10582"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10846",
       "ref": "N-10846",
       "name": "Turning Point Action",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "",
       "related_artifacts": [],
       "related_claims": [
@@ -1116,14 +1148,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11028",
       "ref": "N-11028",
       "name": "Erika Kirk and Tyler Bowyer First-Meeting Account",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "",
       "related_artifacts": [],
       "related_claims": [
@@ -1133,14 +1167,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11029",
       "ref": "N-11029",
       "name": "Tyler Bowyer Legal and Debt History Claims",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "",
       "related_artifacts": [],
       "related_claims": [
@@ -1150,14 +1185,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11134",
       "ref": "N-11134",
       "name": "Timpanogos Regional Hospital",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "",
       "related_artifacts": [],
       "related_claims": [
@@ -1170,14 +1206,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Hospital",
+      "wikidata_class": "Q16917"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11213",
       "ref": "N-11213",
       "name": "TPUSA Mandatory Student Attendance at Erika Kirk Events",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "",
       "related_artifacts": [],
       "related_claims": [
@@ -1192,14 +1230,15 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11229",
       "ref": "N-11229",
       "name": "Candace Owens Leave and Baron Coleman Substitute Hosting",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "",
       "related_artifacts": [],
       "related_claims": [
@@ -1212,14 +1251,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-11338",
       "ref": "N-11338",
       "name": "Val Peterson September 10 Whereabouts",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "",
       "related_artifacts": [],
       "related_claims": [
@@ -1230,14 +1270,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-11340",
       "ref": "N-11340",
       "name": "Katie Zacharia Lawyer Credential Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "",
       "related_artifacts": [],
       "related_claims": [
@@ -1250,14 +1291,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-11348",
       "ref": "N-11348",
       "name": "Turning Point Action Funds Depletion Email",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "",
       "related_artifacts": [],
       "related_claims": [
@@ -1267,14 +1309,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "EmailMessage",
+      "parent": "N-10361"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-11354",
       "ref": "N-11354",
       "name": "Fort Hood Shooter Execution Livestream Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "",
       "related_artifacts": [],
       "related_claims": [
@@ -1286,7 +1330,8 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1328,11 +1373,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-11356",
       "ref": "N-11356",
       "name": "Kenneth Wynn 2004 Child Pornography Investigation",
-      "type": "topic",
+      "type": "event",
       "description": "The 2004 federal (ICE Operation Predator) child pornography investigation in which Kenny Wynn's home computer was reportedly seized. The host raises it as part of a child-abuse pattern in the TPUSA orbit.",
       "related_artifacts": [
         "A-3413.1"
@@ -1353,7 +1398,10 @@
       "related_nodes": [
         "N-970",
         "N-352"
-      ]
+      ],
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2004"
     },
     {
       "@type": "Topic",
@@ -1381,14 +1429,16 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-10801"
-      ]
+      ],
+      "schema_org": "Thing",
+      "parent": "N-10801"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-11358",
       "ref": "N-11358",
       "name": "Timpanogos Hospital Board Membership Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Who sits or sat on the board of Timpanogos Regional Hospital, where Charlie Kirk was taken, given Val Peterson's former seat. The host says the membership is not public.",
       "related_artifacts": [
         "A-3414.1"
@@ -1407,7 +1457,9 @@
       "related_nodes": [
         "N-955",
         "N-11134"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-11134"
     }
   ],
   "claims": [

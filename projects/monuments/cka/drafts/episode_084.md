@@ -574,28 +574,28 @@ How the night-before text came to circulate.
 
 **N-10824** N582MM TPUSA-Associated Plane Flight Pattern
 
-Node Type: Topic
+Node Type: Investigation Question
 Investigation target: a plane with tail number N582MM, which Baron Coleman says a TPUSA insider described as frequently used by TPUSA. Per Coleman's tracking it flew Pierre–Chicago–Provo on September 10, 2025. It spent October 4 at Fort Huachuca after flying in from Atlanta, then went to Kalispell, Montana, the day before a Kalispell-to-Bozeman flight tied to the security team's Fairy Lake gathering. The host says it is plausibly attached to TPUSA's security apparatus.
 
 *Related: C-7507, C-7546, C-7547, C-7548, C-7549, C-7550, A-2527.2, N-330, N-246*
 
 **N-10825** Charlie Kirk Pilot "Jamie" Identification
 
-Node Type: Topic
+Node Type: Investigation Question
 Investigation target: the identity of Charlie Kirk's pilot, known to the host only as "Jamie" and possibly from Texas, whom the host considers a crucial unidentified witness to the September 10 flights.
 
 *Related: C-7521, N-596, N-1*
 
 **N-10826** New York Times Erika Kirk Interview Account Discrepancies
 
-Node Type: Topic
+Node Type: Investigation Question
 Investigation target: the New York Times interview Erika Kirk gave shortly after the assassination. The host says it placed Erika in the hospital with her mother and stated Charlie was pronounced dead while she was airborne. She says it also gave a different account of his departure that morning. She argues these points conflict with Erika's later accounts and notes the article has never been corrected.
 
 *Related: C-7532, C-7535, C-7536, C-7538, A-2530.1, N-2*
 
 **N-10827** Frank Turek Schedule Change Tip
 
-Node Type: Topic
+Node Type: Investigation Question
 Investigation target: an unverified tip that Frank Turek changed his schedule at the last second, cancelling an appointment in another state, and was in Scottsdale with Charlie Kirk on September 8, 2025 despite saying he visits only once or twice a year.
 
 *Related: C-7555, N-7, N-1*

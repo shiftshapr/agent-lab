@@ -426,11 +426,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10192",
       "ref": "N-10192",
       "name": "TPUSA Wikipedia Rob McCoy Co-Founder Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent discrepancy between (a) updated TPUSA Wikipedia entry designating Rob McCoy as co-founder/co-chairman of TPUSA Faith with citation to a Nov 24, 2024 article that does not, per the host, contain that text; and (b) the pre-existing 2021 Wikipedia section naming Charlie Kirk as sole founder.",
       "related_artifacts": [
         "A-1283.1",
@@ -453,14 +453,15 @@
       "related_nodes": [
         "N-1",
         "N-17"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10193",
       "ref": "N-10193",
       "name": "Charlie Kirk Burial / Funeral Narrative Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent discrepancy between public narrative (Charlie Kirk as committed evangelical) and host's claim that Kirk had a Catholic funeral mass and is buried in a Catholic cemetery. No on-episode artifact supports the underlying claim; flagged for external verification.",
       "related_artifacts": [],
       "related_claims": [
@@ -473,14 +474,15 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-1"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10194",
       "ref": "N-10194",
       "name": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Persistent question regarding FBI Director Kash Patel's posture toward outside inquiries (Joe Kent / Tulsi Gabbard office) into the Kirk investigation, including reported resistance and a meeting with White House and ODNI principals.",
       "related_artifacts": [
         "A-1285.1",
@@ -498,7 +500,8 @@
       "evidence_count": 3,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -656,11 +659,11 @@
       "related_nodes": []
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10025",
       "ref": "N-10025",
       "name": "Israel Lobby Pressure on Conservative Figures",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -672,14 +675,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10044",
       "ref": "N-10044",
       "name": "Donor Intimidation of Charlie Kirk",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -691,14 +695,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10078",
       "ref": "N-10078",
       "name": "Israel Influence on US Politics",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -708,14 +713,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10134",
       "ref": "N-10134",
       "name": "Operation Mocking Pastor",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -725,14 +731,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10159",
       "ref": "N-10159",
       "name": "Rob McCoy / TPUSA Faith Division Conflict-of-Interest Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -742,14 +749,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10201"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10300",
       "ref": "N-10300",
       "name": ".30-06 Forensic Narrative Validity",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -759,14 +768,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10328",
       "ref": "N-10328",
       "name": "Charlie Kirk Catholicism Journey",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -776,7 +786,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1044,11 +1055,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-11018",
       "ref": "N-11018",
       "name": "Charlie Kirk Post-Shooting First Aid Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "The host's claims that Kirk received no first aid after being shot and her account of Kolvet's explanation that Kirk had told them not to help him if shot in the neck.",
       "related_artifacts": [],
       "related_claims": [
@@ -1059,7 +1070,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
@@ -1076,7 +1088,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",

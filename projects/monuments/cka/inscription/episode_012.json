@@ -648,11 +648,11 @@
       ]
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10141",
       "ref": "N-10141",
       "name": "Phil Lyman Location Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent inconsistency across three artifact-anchored sources regarding Phil Lyman's position at the moment of the shot: (1) Alex Jones interview places him at the east end outdoors, (2) NewsNation interview places him entering a building and then running out, and (3) video with 12:23 metadata timestamp shows him already inside the Sorensen Center building walking out calmly.",
       "related_artifacts": [
         "A-1183.1",
@@ -671,14 +671,16 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-61"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10139"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10142",
       "ref": "N-10142",
       "name": "Unidentified Goth Person in Broderick Companion Photo",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The second of two foreign companions in the photo with Shaner Broderick; matched by a Belfast viewer to a person on the Provo gothic-underground site \"Buzzards and Bees.\" Remains unidentified by name as of this episode.",
       "related_artifacts": [
         "A-1188.1",
@@ -694,14 +696,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-128"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10143",
       "ref": "N-10143",
       "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Host assertion that approximately 48 hours before his death Charlie Kirk informed Turning Point USA staff, Jewish donors, and a rabbi that he was abandoning the pro-Israel cause, and that he intended to bring Candace Owens back. Currently host-testimony only with no displayed artifact in this episode; TPUSA has been publicly challenged to deny. Verification target.",
       "related_artifacts": [
         "A-1191.1"
@@ -716,14 +719,16 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-36"
-      ]
+      ],
+      "schema_org": "Thing",
+      "parent": "N-10053"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10144",
       "ref": "N-10144",
       "name": "Hospital Routing Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host assertion that Timpanogos Regional Hospital was not the closest trauma-equipped facility and that the hospital had just named Andrew Zenger as a new CEO/surgeon on the same day Charlie's tour was announced. Lacks displayed artifact in this episode; verification target.",
       "related_artifacts": [],
       "related_claims": [
@@ -733,14 +738,15 @@
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "low",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10145",
       "ref": "N-10145",
       "name": "Utah FBI Personnel Replacement",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Verified via Daily Mail: Kash Patel fired the Utah FBI Bureau chief and additional personnel, replaced by Robert Bohls in August 2025; Bowles in his first week on the job at the time of the shooting. Investigation target remains: who approved the timing, who vetted Bowles, and what the chain of command was on September 10.",
       "related_artifacts": [
         "A-1189.1"
@@ -757,14 +763,18 @@
       "related_nodes": [
         "N-133",
         "N-69"
-      ]
+      ],
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-08",
+      "parent": "N-10194"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10146",
       "ref": "N-10146",
       "name": "Mike Mitchell Undercover Role Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Verification target: confirm whether the Detective Mike Mitchell named in the 1999 article is the same Mike Mitchell involved in the Charlie Kirk case, his tenure length (article states approximately one year as of 1999), and whether his specialty in online decoy personas is causally connected to the George Zinn decoy-boy episode.",
       "related_artifacts": [
         "A-1190.1"
@@ -779,7 +789,8 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-125"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1086,11 +1097,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Turning Point USA; the host challenges its executives to deny her claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1109,14 +1120,16 @@
       "evidence_count": 0,
       "claim_count": 10,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10006",
       "ref": "N-10006",
       "name": "Fox News",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Outlet to which Phil Lyman reiterated his driveway account.",
       "related_artifacts": [],
       "related_claims": [
@@ -1126,14 +1139,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Site of the September 10 event; the second Utah stop was scheduled 20 days later at USU.",
       "related_artifacts": [],
       "related_claims": [
@@ -1143,14 +1158,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10025",
       "ref": "N-10025",
       "name": "Israel Lobby Pressure on Conservative Figures",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic cited for the host's claim about creator payments through an agent of Israel.",
       "related_artifacts": [],
       "related_claims": [
@@ -1160,14 +1177,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10032",
       "ref": "N-10032",
       "name": "Decoy Boy Operation Analysis",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic covering George Zinn's role as the decoy boy.",
       "related_artifacts": [],
       "related_claims": [
@@ -1179,14 +1197,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10044",
       "ref": "N-10044",
       "name": "Donor Intimidation of Charlie Kirk",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic covering donor pressure on Kirk about Israel.",
       "related_artifacts": [],
       "related_claims": [
@@ -1199,14 +1218,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10045",
       "ref": "N-10045",
       "name": "Charlie Kirk Assassination Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic covering the assassination investigation as a whole.",
       "related_artifacts": [],
       "related_claims": [
@@ -1216,14 +1236,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10053",
       "ref": "N-10053",
       "name": "Kirk-Israel Narrative Dispute",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic covering the dispute over Kirk's position on Israel and the letter.",
       "related_artifacts": [],
       "related_claims": [
@@ -1239,14 +1260,15 @@
       "evidence_count": 0,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10073",
       "ref": "N-10073",
       "name": "Cameragate Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic covering the removal of cameras after the shooting.",
       "related_artifacts": [],
       "related_claims": [
@@ -1257,14 +1279,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10081",
       "ref": "N-10081",
       "name": "Exit Wound / Bullet Trajectory Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic covering the wound location and trajectory.",
       "related_artifacts": [],
       "related_claims": [
@@ -1275,14 +1298,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10082",
       "ref": "N-10082",
       "name": "Transponder / Plane Anomaly Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic covering the plane transponder anomaly.",
       "related_artifacts": [],
       "related_claims": [
@@ -1292,14 +1316,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10090",
       "ref": "N-10090",
       "name": "LDS Church",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Church in which the host says Mike Mitchell is a Boy Scout leader.",
       "related_artifacts": [],
       "related_claims": [
@@ -1309,14 +1334,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10099",
       "ref": "N-10099",
       "name": "Bulletproof Vest Absence",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic covering whether Kirk wore a bulletproof vest.",
       "related_artifacts": [],
       "related_claims": [
@@ -1326,14 +1353,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10102",
       "ref": "N-10102",
       "name": "Moral Blackmail by Donors",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic covering alleged donor leverage over Kirk.",
       "related_artifacts": [],
       "related_claims": [
@@ -1343,14 +1371,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10044"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10111",
       "ref": "N-10111",
       "name": "Soviet Education Infiltration",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic cited for the host's claim of a communist underground targeting children.",
       "related_artifacts": [],
       "related_claims": [
@@ -1360,14 +1390,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10136",
       "ref": "N-10136",
       "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic covering the thin public record on Mike Mitchell.",
       "related_artifacts": [],
       "related_claims": [
@@ -1378,14 +1409,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10139",
       "ref": "N-10139",
       "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic covering Phil Lyman's proximity to and behavior in the investigation.",
       "related_artifacts": [],
       "related_claims": [
@@ -1399,14 +1431,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10172",
       "ref": "N-10172",
       "name": "Bullet Trajectory and Caliber Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic covering bullet trajectory and caliber questions.",
       "related_artifacts": [],
       "related_claims": [
@@ -1417,14 +1450,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10184",
       "ref": "N-10184",
       "name": "Camera Operator Behavior Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic covering the camera operator's behavior.",
       "related_artifacts": [],
       "related_claims": [
@@ -1436,14 +1470,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10763",
       "ref": "N-10763",
       "name": "UVU Ambulance Denial Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic covering whether an ambulance stood by at the event.",
       "related_artifacts": [],
       "related_claims": [
@@ -1453,14 +1488,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10829",
       "ref": "N-10829",
       "name": "Back-Camera and Platform Setup Introduction (2025 Tour)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic covering the new back-camera and platform setup on the 2025 tour.",
       "related_artifacts": [],
       "related_claims": [
@@ -1470,7 +1506,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Organization",
@@ -1488,7 +1525,9 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -1505,7 +1544,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
       "@type": "Organization",
@@ -1524,7 +1565,9 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Hospital",
+      "wikidata_class": "Q16917"
     }
   ],
   "claims": [

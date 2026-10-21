@@ -1080,7 +1080,7 @@ The comment and host remarks that Israel is taking over ExpressVPN and other VPN
 
 **N-11187** Security Guards Did Not Draw Guns Question
 
-Node Type: Topic
+Node Type: Investigation Question
 The viewer question and host agreement that no security guard drew a weapon when the shots rang out, and the host's remark on the security firm's earnings from Charlie.
 
 *Related: C-1220, C-1221*
@@ -1089,7 +1089,7 @@ The viewer question and host agreement that no security guard drew a weapon when
 
 **N-11188** Charlie Kirk Laptop Access Question
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's statement that she knows who had access to Charlie Kirk's laptop and has questions about that.
 
 *Related: C-1231*
@@ -1107,7 +1107,7 @@ The host's hunch that the shooting was a military operation by people from overs
 
 **N-11190** Shaner Broderick Account Deletion
 
-Node Type: Topic
+Node Type: Event
 The deletion of Shaner Broderick's Facebook, LinkedIn and Instagram content after the host contacted him.
 
 *Related: C-1163*

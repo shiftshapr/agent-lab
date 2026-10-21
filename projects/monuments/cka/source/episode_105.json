@@ -1729,7 +1729,7 @@
     },
     {
      "k": "Node Type",
-     "v": "Topic"
+     "v": "Thing"
     },
     {
      "k": "Investigation target",
@@ -1757,7 +1757,7 @@
     },
     {
      "k": "Node Type",
-     "v": "Topic"
+     "v": "Event"
     },
     {
      "k": "Investigation target",
@@ -1785,7 +1785,7 @@
     },
     {
      "k": "Node Type",
-     "v": "Topic"
+     "v": "Event"
     },
     {
      "k": "Investigation target",
@@ -1840,7 +1840,7 @@
     },
     {
      "k": "Node Type",
-     "v": "Topic"
+     "v": "Investigation Question"
     },
     {
      "k": "Investigation target",
@@ -1868,7 +1868,7 @@
     },
     {
      "k": "Node Type",
-     "v": "Topic"
+     "v": "Place"
     },
     {
      "raw": "A proposed AI data center reported by the Guardian to cover more than 40,000 acres over three sites in Box Elder County, Utah. It would need about 9 gigawatts of power and is backed by Kevin O'Leary. County commissioners approved it despite thousands of objections. The host presents it as part of a push toward a surveillance state."
@@ -1923,7 +1923,7 @@
     },
     {
      "k": "Node Type",
-     "v": "Topic"
+     "v": "Thing"
     },
     {
      "raw": "A 22-foot golden statue of Donald Trump unveiled at a Florida golf course. Pastor John Mark Burns defended it, and the host says Hasidic Jewish donors backed it."

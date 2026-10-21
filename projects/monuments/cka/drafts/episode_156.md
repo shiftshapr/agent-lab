@@ -600,7 +600,7 @@ Shopping center near Utah Valley University where, per the warrants as the host 
 
 **N-11068** Cross-Device Account Access Hypothesis
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's hypothesis that logins to Tyler Robinson's accounts or Google Maps data could come from another device or person using the same account, such as Lance Twiggs.
 
 *Related: C-13479, C-13481*

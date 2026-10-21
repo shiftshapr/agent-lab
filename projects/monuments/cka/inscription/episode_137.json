@@ -460,11 +460,11 @@
   ],
   "nodes": [
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10702",
       "ref": "N-10702",
       "name": "UVU Campus Sept 9 Scoping Incident",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Persistent claim that on Sept 9, 2025 an unidentified individual scoped UVU campus and gave Mike Lee bodyguard cover story to UVU security. Source is verbal (host's \"source from UVU\"), not artifact-documented.",
       "related_artifacts": [],
       "related_claims": [],
@@ -473,14 +473,18 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-09-09",
+      "place": "N-10028"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10703",
       "ref": "N-10703",
       "name": "Screwdriver Narrative Evolution",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Persistent discrepancy between Sept 11 CNN framing (\"near the rifle\") and Kash Patel / Bongino clarification (\"on the rooftop\"). Both positions are artifact-anchored within this episode and prior context.",
       "related_artifacts": [
         "A-2238.1"
@@ -492,14 +496,16 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10086"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10704",
       "ref": "N-10704",
       "name": "Officer Bagley Rooftop Video Review Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent discrepancy between host's expected investigative practice (review all rooftop footage between suspect jump and officer arrival) and Bagley's testimony that he did not do so.",
       "related_artifacts": [
         "A-2242.1"
@@ -511,14 +517,15 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10699",
       "ref": "N-10699",
       "name": "Missing Gloves Origin in SUV Door",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent question regarding black nitrile gloves observed in door compartment; whether they are woodworking/CA-glue gloves per host's woodworker-email source.",
       "related_artifacts": [
         "A-2237.1"
@@ -531,7 +538,8 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -988,11 +996,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10006",
       "ref": "N-10006",
       "name": "Fox News",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Fox News; the network Neff was let go from, per the host.",
       "related_artifacts": [],
       "related_claims": [
@@ -1002,14 +1010,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Utah Valley University; site of the Sept 10 event and the Sept 9 incident.",
       "related_artifacts": [],
       "related_claims": [
@@ -1020,14 +1030,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10026",
       "ref": "N-10026",
       "name": "Israel",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Israel; the host's religious characterization of the state.",
       "related_artifacts": [],
       "related_claims": [
@@ -1037,14 +1049,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10028",
       "ref": "N-10028",
       "name": "Utah Valley University Campus",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Utah Valley University Campus; location of the Sept 9 scoping.",
       "related_artifacts": [],
       "related_claims": [
@@ -1054,14 +1068,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place",
+      "parent": "N-10059"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10067",
       "ref": "N-10067",
       "name": "Daily Mail",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Daily Mail; sender of the press request about a raid.",
       "related_artifacts": [],
       "related_claims": [
@@ -1071,14 +1087,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10086",
       "ref": "N-10086",
       "name": "Screwdriver Evidence Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Screwdriver Evidence Question; reused for the leak-origin and planting claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1088,14 +1106,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10106"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10106",
       "ref": "N-10106",
       "name": "Tyler Robinson Evidence Gaps",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Tyler Robinson Evidence Gaps; reused for the host's list of unshown evidence.",
       "related_artifacts": [],
       "related_claims": [
@@ -1105,14 +1125,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10146",
       "ref": "N-10146",
       "name": "Mike Mitchell Undercover Role Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Mike Mitchell Undercover Role Verification; reused for the surrender story.",
       "related_artifacts": [],
       "related_claims": [
@@ -1122,14 +1143,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10193",
       "ref": "N-10193",
       "name": "Charlie Kirk Burial / Funeral Narrative Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Charlie Kirk Burial Status / Catholic Funeral Mass; reused for the funeral comment.",
       "related_artifacts": [],
       "related_claims": [
@@ -1139,14 +1161,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10322",
       "ref": "N-10322",
       "name": "Candace Owens Security Arrangement",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Candace Owens Security Arrangement; reused for the aide's rehabilitation.",
       "related_artifacts": [],
       "related_claims": [
@@ -1157,14 +1180,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10496",
       "ref": "N-10496",
       "name": "Strait of Hormuz / US-Iran War Context",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Strait of Hormuz / US-Iran War Context; reused for the Iran war claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1175,14 +1199,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10580",
       "ref": "N-10580",
       "name": "Tyler Robinson Roommate Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Tyler Robinson Roommate Question; reused for the boyfriend testimony.",
       "related_artifacts": [],
       "related_claims": [
@@ -1192,14 +1217,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10651",
       "ref": "N-10651",
       "name": "Blake Neff September 10th Movement Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Blake Neff September 10th Movement Discrepancy; reused for his hotel and memory claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1211,14 +1237,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10660",
       "ref": "N-10660",
       "name": "Officer Bagley Body-Cam Battery Anomaly",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Officer Bagley Body-Cam Battery Anomaly; reused for the body cam claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1229,14 +1256,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10665",
       "ref": "N-10665",
       "name": "Screwdriver Footage Graininess Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Screwdriver Footage Graininess Discrepancy; reused for the Patel and Bongino clarification.",
       "related_artifacts": [],
       "related_claims": [
@@ -1246,14 +1274,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10086"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10666",
       "ref": "N-10666",
       "name": "Salt Lake City Hotel Identification Gap",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Salt Lake City Hotel Identification Gap; reused for the Asher Adams hotel claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1265,14 +1295,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10681",
       "ref": "N-10681",
       "name": "Charlie Kirk Cremation/Burial Status Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Charlie Kirk Cremation/Burial Status Verification; reused for the mock funeral remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1282,14 +1313,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10684",
       "ref": "N-10684",
       "name": "Rooftop Movement Tactical Analysis",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Rooftop Movement Tactical Analysis; reused for the crawl debunk claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1299,14 +1331,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10661",
       "ref": "N-10661",
       "name": "Officer Bagley Rooftop Companion Identification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Officer Bagley Rooftop Companion Identification; reused for the companion and Robertson claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1320,14 +1353,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10700",
       "ref": "N-10700",
       "name": "Allan Robertson Brady List Entry / San Bernardino Transfer",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Allan Robertson Brady List Entry / San Bernardino Transfer; reused for the Robertson update.",
       "related_artifacts": [],
       "related_claims": [
@@ -1338,14 +1372,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10975",
       "ref": "N-10975",
       "name": "Blake Neff Employment History Account",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Blake Neff Employment History Account; reused for the Fox and Tucker remarks.",
       "related_artifacts": [],
       "related_claims": [
@@ -1356,7 +1391,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1395,14 +1431,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Place",
+      "@type": "Event",
       "@id": "N-11062",
       "ref": "N-11062",
       "name": "Minab Iran School Strike",
-      "type": "place",
+      "type": "event",
       "description": "The strike on an elementary school in Minab, Iran, early in the US-Iran war, discussed through the Sky News investigation and the Trump and Hegseth statements.",
       "related_artifacts": [],
       "related_claims": [
@@ -1419,7 +1456,10 @@
       "evidence_count": 0,
       "claim_count": 8,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "parent": "N-10496"
     }
   ],
   "claims": [

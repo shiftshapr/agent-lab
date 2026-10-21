@@ -572,11 +572,11 @@
   ],
   "nodes": [
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10699",
       "ref": "N-10699",
       "name": "Missing Gloves Origin in SUV Door",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent discrepancy: black gloves reportedly recovered from the rear-door pocket of the transport SUV, but Mikey McCoy's footage of Kirk's exit from that same vehicle shows the pocket as empty.",
       "related_artifacts": [
         "A-2223.1",
@@ -589,14 +589,15 @@
       "evidence_count": 2,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10661",
       "ref": "N-10661",
       "name": "Officer Bagley Rooftop Companion Identification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent gap: Officer Bagley testified he did not know the plainclothes man with a badge and handgun who accompanied him onto the Losi rooftop; bystander footage and online identification now tie that man to Allan Robertson (USU PD) and a second man to Christopher Hawk.",
       "related_artifacts": [
         "A-2224.1",
@@ -615,14 +616,15 @@
       "evidence_count": 4,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10660",
       "ref": "N-10660",
       "name": "Officer Bagley Body-Cam Battery Anomaly",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent discrepancy: Officer Bagley states his body cam ended because the battery died while he was still on the rooftop; the device had run only 27 min 35 sec, and Nissi's analysis flags that the camera stopped running at a convenient moment relative to the rooftop discovery.",
       "related_artifacts": [
         "A-2224.2",
@@ -636,14 +638,15 @@
       "evidence_count": 2,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10700",
       "ref": "N-10700",
       "name": "Allan Robertson Brady List Entry / San Bernardino Transfer",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigative target: Allan Robertson's Brady List entry, San Bernardino PD's documented non-compliance with Brady disclosure, and the apparent 2024 transfer from California to Utah.",
       "related_artifacts": [
         "A-2229.1"
@@ -657,14 +660,15 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10701",
       "ref": "N-10701",
       "name": "US CentCom Iran Crowdsourcing Request",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Investigative target: senior US Central Command officer's reported email soliciting \"creative and unconventional\" ideas to pressure Iran, sourced from CNN reporting.",
       "related_artifacts": [
         "A-2230.1"
@@ -676,7 +680,8 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1096,11 +1101,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Turning Point USA; its reversal on Kirk's positions and staff hotel are at issue.",
       "related_artifacts": [],
       "related_claims": [
@@ -1114,14 +1119,16 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10014",
       "ref": "N-10014",
       "name": "Federal Bureau of Investigation",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Federal Bureau of Investigation; its arrival timing and clothing custody are discussed.",
       "related_artifacts": [],
       "related_claims": [
@@ -1134,14 +1141,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10071",
       "ref": "N-10071",
       "name": "Provo, Utah",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Provo, Utah; the host cites the nearby FBI office there.",
       "related_artifacts": [],
       "related_claims": [
@@ -1152,14 +1161,17 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "City",
+      "wikidata_class": "Q515",
+      "parent": "N-10120"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10209",
       "ref": "N-10209",
       "name": "Mikey McCoy Pre-Death Documentation Pattern",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the McCoy recording claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1169,14 +1181,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10303",
       "ref": "N-10303",
       "name": "Epstein Files Release Status",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Epstein-files claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1186,14 +1199,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10321",
       "ref": "N-10321",
       "name": "Tyler Robinson Rooftop Access Timeline",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the rooftop access timeline claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1204,14 +1218,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10494",
       "ref": "N-10494",
       "name": "Charlie Kirk Iran War Opposition (June 2025)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for Kirk's Iran war positions.",
       "related_artifacts": [],
       "related_claims": [
@@ -1227,14 +1242,15 @@
       "evidence_count": 0,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10617",
       "ref": "N-10617",
       "name": "Lance Twiggs Preliminary Hearing Testimony Limitation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Twiggs DNA claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1244,14 +1260,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-10619",
       "ref": "N-10619",
       "name": "Shawn Ryan Show Interview Clip Bundle",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Existing topic reused for the Shawn Ryan interview claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1261,14 +1278,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CreativeWork"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10626",
       "ref": "N-10626",
       "name": "Frank Turek Clothing Disposal",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the hospital clothing claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1279,14 +1297,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10666",
       "ref": "N-10666",
       "name": "Salt Lake City Hotel Identification Gap",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the TPUSA hotel claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1296,14 +1315,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10636",
       "ref": "N-10636",
       "name": "Brian Harpole vs Frank Turek CPR Contradiction",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Harpole and Turek car-ride accounts.",
       "related_artifacts": [],
       "related_claims": [
@@ -1317,14 +1337,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10677",
       "ref": "N-10677",
       "name": "TPUSA Inner Circle Composition Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the inner-circle claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1334,14 +1355,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10885",
       "ref": "N-10885",
       "name": "US Central Command (CENTCOM)",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "US Central Command; its reported email asking for Iran ideas.",
       "related_artifacts": [],
       "related_claims": [
@@ -1351,14 +1373,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q176799"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11046",
       "ref": "N-11046",
       "name": "US and Israel Iran War Betrayal Thesis",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Iran war claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1370,14 +1394,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-11222",
       "ref": "N-11222",
       "name": "Security Guard Stroke in Russia",
-      "type": "topic",
+      "type": "event",
       "description": "The host's account of a member of her security detail who suffered a severe stroke during the Russia trip, had brain surgery in a Russian hospital, and is now seeking rehabilitation.",
       "related_artifacts": [],
       "related_claims": [
@@ -1391,7 +1416,9 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
       "@type": "Organization",
@@ -1408,7 +1435,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Topic",
@@ -1428,14 +1457,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "Thing",
       "@id": "N-11225",
       "ref": "N-11225",
       "name": "Brady List Website",
-      "type": "topic",
+      "type": "thing",
       "description": "The Brady List website, a database of officers with documented credibility or misconduct issues, on which the host says Allan E. Robertson has an entry.",
       "related_artifacts": [],
       "related_claims": [
@@ -1446,7 +1476,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "WebSite"
     }
   ],
   "claims": [

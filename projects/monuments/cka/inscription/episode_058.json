@@ -893,11 +893,11 @@
       ]
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10390",
       "ref": "N-10390",
       "name": "Fort Huachuca Erika Presence Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigation into whether Erika was present at Fort Huachuca on or around September 9 (the day before Charlie's assassination) and her broader familiarity with the base.",
       "related_artifacts": [
         "A-1635.1",
@@ -925,14 +925,16 @@
         "N-459",
         "N-462",
         "N-463"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10391",
       "ref": "N-10391",
       "name": "November Renaissance Film Production Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation into the unreleased short film *November Renaissance*, its Fort Huapuca-affiliated cast and crew, its plot content (nanotechnology, corporate proxies), and Erika's reported role as \"Evelyn Mathis.\"",
       "related_artifacts": [
         "A-1635.1",
@@ -956,14 +958,16 @@
         "N-464",
         "N-465",
         "N-466"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10390"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10392",
       "ref": "N-10392",
       "name": "Erika Kirk China Timeline Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Contradiction between Erika's on-air statement that she \"lived in China\" working with child sex-trafficking victims and Turning Point executive Justin Streiff's statement that she never lived there.",
       "related_artifacts": [
         "A-1636.1",
@@ -981,14 +985,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10393",
       "ref": "N-10393",
       "name": "Courage House Nevada Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Investigation into the 40-acre Washoe County psychiatric residential treatment facility for child sex-trafficking survivors, its confidential location, capacity for 18 children, and Nelda Buckman's reported role as largest donor.",
       "related_artifacts": [
         "A-1640.1"
@@ -1005,14 +1010,15 @@
       "related_nodes": [
         "N-460",
         "N-263"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10394",
       "ref": "N-10394",
       "name": "Buckman–TPUSA Donor Relationship Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Investigation into the $10 million Buckman gift, Florida campus renaming, plane access, and Nelda Buckman's described post-assassination closeness with Erika.",
       "related_artifacts": [
         "A-1638.1",
@@ -1034,14 +1040,15 @@
         "N-461",
         "N-330",
         "N-263"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10395",
       "ref": "N-10395",
       "name": "GATE / Gifted Education Program Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Investigation into gifted-and-talented / \"Extraordinary Learners\" programs, DoD-connected youth programs (Aspen Education Group schools), and reported memory blackout / surveillance phenomena among self-identified alumni.",
       "related_artifacts": [
         "A-1642.1",
@@ -1058,14 +1065,15 @@
       "related_nodes": [
         "N-467",
         "N-469"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10396",
       "ref": "N-10396",
       "name": "Identity Crisis Documentary Production Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation into the 2024 *Identity Crisis* documentary, its Daily Wire / Turning Point USA co-production, and Nelda Buckman's role as executive producer.",
       "related_artifacts": [
         "A-1639.1"
@@ -1080,14 +1088,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-460"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10397",
       "ref": "N-10397",
       "name": "Nick Fuentes Federal Informant Allegation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent host allegation that Nick Fuentes operates as a federal informant, with new artifact support in this episode (audio clips re: Epstein / pedophilia framing).",
       "related_artifacts": [
         "A-1641.1",
@@ -1110,7 +1119,8 @@
         "N-220",
         "N-468",
         "N-145"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1310,11 +1320,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Turning Point USA; focus of the host's chart and the Montgomery and Vallely claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1328,14 +1338,16 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10343",
       "ref": "N-10343",
       "name": "Fort Huachuca Covert Operations Training Allegations (Bruce Bevins Class)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Allegations about Fort Huachuca covert-operations classes.",
       "related_artifacts": [],
       "related_claims": [
@@ -1345,14 +1357,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10201",
       "ref": "N-10201",
       "name": "TPUSA Faith / Christian Zionist Infiltration Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Question about Christian Zionist infiltration of TPUSA Faith.",
       "related_artifacts": [],
       "related_claims": [
@@ -1362,7 +1376,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1386,11 +1401,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10353",
       "ref": "N-10353",
       "name": "Erika Kirk Sept 8, 2025 Alibi Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Erika's September 8 alibi topic.",
       "related_artifacts": [],
       "related_claims": [
@@ -1400,14 +1415,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10390"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10305",
       "ref": "N-10305",
       "name": "Fort Huachuca September 9, 2025 JTF-SB Meeting Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Question of what happened at Fort Huachuca on September 9.",
       "related_artifacts": [],
       "related_claims": [
@@ -1418,14 +1435,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10342",
       "ref": "N-10342",
       "name": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Mitch Snow's Fort Huachuca eyewitness encounter.",
       "related_artifacts": [],
       "related_claims": [
@@ -1436,7 +1455,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10330"
     },
     {
       "@type": "Person",
@@ -1456,11 +1477,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11022",
       "ref": "N-11022",
       "name": "Liberty University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Liberty University; a strand on the host's chart.",
       "related_artifacts": [],
       "related_claims": [
@@ -1470,14 +1491,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10374",
       "ref": "N-10374",
       "name": "Romania / Eastern Europe Trafficking Cluster",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Romania and Eastern Europe trafficking cluster.",
       "related_artifacts": [],
       "related_claims": [
@@ -1488,14 +1511,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10032",
       "ref": "N-10032",
       "name": "Decoy Boy Operation Analysis",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Decoy boy operation analysis.",
       "related_artifacts": [],
       "related_claims": [
@@ -1505,7 +1529,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1542,11 +1567,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10384",
       "ref": "N-10384",
       "name": "Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Harvest Christian Fellowship Romanian abuse lawsuit cluster.",
       "related_artifacts": [],
       "related_claims": [
@@ -1556,7 +1581,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10374"
     },
     {
       "@type": "Person",
@@ -1612,11 +1639,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11083",
       "ref": "N-11083",
       "name": "Operation Underground Railroad",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Operation Underground; discussed in the host's recap.",
       "related_artifacts": [],
       "related_claims": [
@@ -1628,14 +1655,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10139",
       "ref": "N-10139",
       "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Phil Lyman proximity investigation.",
       "related_artifacts": [],
       "related_claims": [
@@ -1645,7 +1674,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1683,11 +1713,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11082",
       "ref": "N-11082",
       "name": "Everyday Heroes Foundation",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Everyday Heroes Foundation, which Erika says she founded.",
       "related_artifacts": [],
       "related_claims": [
@@ -1697,14 +1727,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10821",
       "ref": "N-10821",
       "name": "Daily Wire",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Daily Wire; source of the Buckman interview.",
       "related_artifacts": [],
       "related_claims": [
@@ -1714,7 +1746,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
       "@type": "Person",
@@ -1740,11 +1774,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10252",
       "ref": "N-10252",
       "name": "AmFest Speaker Removal Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "AmFest speaker removal pattern.",
       "related_artifacts": [],
       "related_claims": [
@@ -1757,14 +1791,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10359",
       "ref": "N-10359",
       "name": "Ben Shapiro Hostile Takeover Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Ben Shapiro hostile takeover pattern.",
       "related_artifacts": [],
       "related_claims": [
@@ -1774,7 +1809,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1794,11 +1830,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10001",
       "ref": "N-10001",
       "name": "MK Ultra",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "MK Ultra, cited by the host.",
       "related_artifacts": [],
       "related_claims": [
@@ -1808,14 +1844,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-11044",
       "ref": "N-11044",
       "name": "Operation Paperclip",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Operation Paperclip, cited by the host.",
       "related_artifacts": [],
       "related_claims": [
@@ -1825,7 +1862,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
       "@type": "Person",
@@ -1847,11 +1886,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Utah Valley University.",
       "related_artifacts": [],
       "related_claims": [
@@ -1863,14 +1902,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10028",
       "ref": "N-10028",
       "name": "Utah Valley University Campus",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Utah Valley University campus.",
       "related_artifacts": [],
       "related_claims": [
@@ -1880,7 +1921,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place",
+      "parent": "N-10059"
     },
     {
       "@type": "Person",
@@ -1900,11 +1943,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10023",
       "ref": "N-10023",
       "name": "Epstein Israeli Intelligence Asset Allegation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Epstein as Israeli intelligence asset allegation.",
       "related_artifacts": [],
       "related_claims": [
@@ -1915,7 +1958,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1952,11 +1996,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10386",
       "ref": "N-10386",
       "name": "Project Looking Glass Allegation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Project Looking Glass allegation.",
       "related_artifacts": [],
       "related_claims": [
@@ -1966,7 +2010,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -2051,7 +2096,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -2069,7 +2116,9 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -2086,7 +2135,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -2104,7 +2155,9 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -2121,7 +2174,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "School",
+      "wikidata_class": "Q3914"
     },
     {
       "@type": "Place",
@@ -2138,7 +2193,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place",
+      "wikidata_class": "Q245016"
     }
   ],
   "claims": [

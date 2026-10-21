@@ -710,11 +710,11 @@
       ]
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10257",
       "ref": "N-10257",
       "name": "Operation Valhalla – Charlie Kirk Assassination Timeline Connection",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target: whether the Operation Valhalla Strike exercise (Aug 24–29, 2025) and the 891st MSFS's involvement have any causal or coordination link to the September 10, 2025 assassination; includes the Kash Patel \"see you in Valhalla\" press conference statement.",
       "related_artifacts": [
         "A-1451.1",
@@ -735,14 +735,16 @@
         "N-1",
         "N-69",
         "N-10261"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10341"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10258",
       "ref": "N-10258",
       "name": "BTT Minot AFB Stopover Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target: why the Egyptian military BTT aircraft stopped at Minot, North Dakota for approximately one hour on September 4, 2025 rather than flying direct to Provo.",
       "related_artifacts": [
         "A-1454.1"
@@ -758,14 +760,16 @@
       "related_nodes": [
         "N-10260",
         "N-10261"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10199"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10293",
       "ref": "N-10293",
       "name": "Maroon Shirt Pattern at UVU September 10 Event",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Investigation target: host's observation that multiple individuals in assassination-day footage appear to be wearing maroon shirts; host's source reportedly confirmed UVU school color is not maroon.",
       "related_artifacts": [],
       "related_claims": [
@@ -779,14 +783,15 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-40"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10259",
       "ref": "N-10259",
       "name": "Nebraska–Egypt Trade Mission / BTT Plane Overlap",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target: temporal overlap between BTT aircraft's July 20 longest trip (to Nebraska) and Nebraska Secretary of State's July 22 announcement of Egypt trade mission.",
       "related_artifacts": [
         "A-1455.1"
@@ -801,14 +806,16 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-279"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10199"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10260",
       "ref": "N-10260",
       "name": "Minot Air Force Base",
-      "type": "investigation_target",
+      "type": "place",
       "description": "U.S. Air Force base in North Dakota; home to 5,000 military personnel and the 891st MSFS; site of BTT's September 4 stopover.",
       "related_artifacts": [
         "A-1451.1",
@@ -826,14 +833,16 @@
       "related_nodes": [
         "N-10258",
         "N-10261"
-      ]
+      ],
+      "schema_org": "Place",
+      "wikidata_class": "Q245016"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10261",
       "ref": "N-10261",
       "name": "891st Missile Security Forces Squadron",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Air Force unit stationed at Minot AFB; conducted Operation Valhalla Strike at Camp Ripley Aug 24–29, 2025; described as combined military/civilian security force.",
       "related_artifacts": [
         "A-1451.1",
@@ -851,14 +860,16 @@
       "related_nodes": [
         "N-10257",
         "N-10260"
-      ]
+      ],
+      "schema_org": "Organization",
+      "wikidata_class": "Q176799"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10262",
       "ref": "N-10262",
       "name": "Camp Ripley Training Center",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Minnesota training facility where Operation Valhalla Strike was conducted Aug 24–29, 2025; provides full-distance live-fire ranges.",
       "related_artifacts": [
         "A-1451.1"
@@ -873,14 +884,16 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-10261"
-      ]
+      ],
+      "schema_org": "Place",
+      "wikidata_class": "Q245016"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10263",
       "ref": "N-10263",
       "name": "The Free Press",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Online publication co-founded by Bari Weiss; outlet of record for the Rindsberg inquiry email.",
       "related_artifacts": [
         "A-1459.1"
@@ -896,14 +909,16 @@
       "related_nodes": [
         "N-276",
         "N-278"
-      ]
+      ],
+      "schema_org": "NewsMediaOrganization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-10264",
       "ref": "N-10264",
       "name": "Free Press Email Inquiry Target",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Topic: episode-specific Rindsberg email regarding \"economics of high engagement political content\" on YouTube and podcasts, covering Israel, Charlie Kirk's death, and Becoming Brigitte.",
       "related_artifacts": [
         "A-1459.1"
@@ -918,14 +933,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-276"
-      ]
+      ],
+      "schema_org": "EmailMessage"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10265",
       "ref": "N-10265",
       "name": "CBS News",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Network where Bari Weiss was installed per Tim Dillon clip.",
       "related_artifacts": [
         "A-1460.1"
@@ -938,7 +954,9 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-278"
-      ]
+      ],
+      "schema_org": "NewsMediaOrganization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Person",
@@ -1263,11 +1281,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Event site; the host says its school color is not maroon.",
       "related_artifacts": [],
       "related_claims": [
@@ -1279,14 +1297,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10031",
       "ref": "N-10031",
       "name": "33-Hour Surrender Timeline Signal",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the host's reading of Patel's press conference.",
       "related_artifacts": [],
       "related_claims": [
@@ -1296,14 +1316,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10022"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10071",
       "ref": "N-10071",
       "name": "Provo, Utah",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Existing place reused for the Egyptian plane's destination.",
       "related_artifacts": [],
       "related_claims": [
@@ -1314,14 +1336,17 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "City",
+      "wikidata_class": "Q515",
+      "parent": "N-10120"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10090",
       "ref": "N-10090",
       "name": "LDS Church",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization reused for Kasparian's father's reported temple role.",
       "related_artifacts": [],
       "related_claims": [
@@ -1331,14 +1356,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10094",
       "ref": "N-10094",
       "name": "Roof Video Provenance Chain",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the running and lying-down videos.",
       "related_artifacts": [],
       "related_claims": [
@@ -1350,14 +1377,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10132",
       "ref": "N-10132",
       "name": "Suspicious Bush Theory (Range Day Bro)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the host's identification of the person behind the bush.",
       "related_artifacts": [],
       "related_claims": [
@@ -1368,14 +1396,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10136",
       "ref": "N-10136",
       "name": "Mike Mitchell Public Record Anomaly",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the uncle Mitchell question.",
       "related_artifacts": [],
       "related_claims": [
@@ -1385,14 +1414,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10146",
       "ref": "N-10146",
       "name": "Mike Mitchell Undercover Role Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the uncle Mitchell question.",
       "related_artifacts": [],
       "related_claims": [
@@ -1402,14 +1432,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10175",
       "ref": "N-10175",
       "name": "Medical Examiner Inquiry – Weiss Amaro",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the host's military claim about Dr. Amaro.",
       "related_artifacts": [],
       "related_claims": [
@@ -1419,14 +1450,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10189",
       "ref": "N-10189",
       "name": "TPUSA Military-Personnel Network",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the host's list of military connections.",
       "related_artifacts": [],
       "related_claims": [
@@ -1441,14 +1473,15 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10230",
       "ref": "N-10230",
       "name": "Pre-Event Old Man Near Bush Anomaly",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the bush-area sightings.",
       "related_artifacts": [],
       "related_claims": [
@@ -1458,14 +1491,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10239",
       "ref": "N-10239",
       "name": "Egyptian Military Plane Tracking Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Egyptian planes claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1479,14 +1513,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10245",
       "ref": "N-10245",
       "name": "Federal Military Aircraft Escort Protocol Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the host's escort claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1496,14 +1531,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10239"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10249",
       "ref": "N-10249",
       "name": "920 North King Street / 1 Rodney Square Federal Facility",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Existing topic reused for the facility discussion.",
       "related_artifacts": [],
       "related_claims": [
@@ -1518,14 +1555,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Place",
+      "wikidata_class": "Q41176"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10250",
       "ref": "N-10250",
       "name": "SUBTT Wilmington Visit Pattern",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the host's Wilmington stay correction.",
       "related_artifacts": [],
       "related_claims": [
@@ -1536,14 +1575,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10199"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10254",
       "ref": "N-10254",
       "name": "Macron Defamation Lawsuit Delaware Venue Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the host's Delaware lawsuit and local counsel remarks.",
       "related_artifacts": [],
       "related_claims": [
@@ -1554,14 +1595,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10272",
       "ref": "N-10272",
       "name": "French Foreign Legion US Training August 2025",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused for the host's Foreign Legion tips.",
       "related_artifacts": [],
       "related_claims": [
@@ -1571,14 +1613,17 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-08"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10285",
       "ref": "N-10285",
       "name": "Richards Layton & Finger Connection to Candace Lawsuit",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the host's explanation of local counsel.",
       "related_artifacts": [],
       "related_claims": [
@@ -1590,14 +1635,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10295",
       "ref": "N-10295",
       "name": "Roof Shooter Video Witness Follow-up",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the running-video filmer.",
       "related_artifacts": [],
       "related_claims": [
@@ -1607,14 +1653,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10313",
       "ref": "N-10313",
       "name": "CBS Bari Weiss Town Hall Production Integrity",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Weiss CBS commentary.",
       "related_artifacts": [],
       "related_claims": [
@@ -1624,14 +1671,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10334",
       "ref": "N-10334",
       "name": "Surgeon Quotation Authenticity Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the alleged surgeon.",
       "related_artifacts": [],
       "related_claims": [
@@ -1641,14 +1689,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10341",
       "ref": "N-10341",
       "name": "Operation Valhalla Strike",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused for the exercise claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1660,14 +1709,17 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-08-24"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10740",
       "ref": "N-10740",
       "name": "Butch Hibbs UVU Recording Behavior",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for Butch Hibbs's presence.",
       "related_artifacts": [],
       "related_claims": [
@@ -1677,14 +1729,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10928",
       "ref": "N-10928",
       "name": "Satys",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization reused for the French company at the Wilmington hangar.",
       "related_artifacts": [],
       "related_claims": [
@@ -1695,14 +1748,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11107",
       "ref": "N-11107",
       "name": "Pre-Born",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization reused for the sponsor read.",
       "related_artifacts": [],
       "related_claims": [
@@ -1712,7 +1767,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Person",
@@ -1748,7 +1805,8 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     }
   ],
   "claims": [

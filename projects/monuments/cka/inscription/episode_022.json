@@ -754,11 +754,11 @@
       ]
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10195",
       "ref": "N-10195",
       "name": "Provo Airport Flight Anomaly Cluster",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Persistent investigative target encompassing the three suspicious flight events at Provo Airport on 9/10/2025: the military-contracted plane low dip (A-1290.1), the N888KG Maxfield plane departure (A-1291.1), and the SU-BTT Egyptian Air Force departure window (A-1292.1, A-1292.2). Also incorporates viewer-flagged tail N1098L (A-1299.1).",
       "related_artifacts": [
         "A-1290.1",
@@ -777,14 +777,15 @@
       "evidence_count": 4,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10196",
       "ref": "N-10196",
       "name": "Egyptian Air Force SU-BTT Provo Mission Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigative target regarding purpose of Egyptian Air Force presence in Provo from 9/4–9/10, identity of personnel reportedly dropped off, and nature of any \"discreet mission\" alleged by the unnamed email tipster.",
       "related_artifacts": [
         "A-1292.1",
@@ -800,14 +801,16 @@
       "evidence_count": 2,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10199"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10197",
       "ref": "N-10197",
       "name": "N888KG Flight Manifest Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigative target regarding the actual passenger manifest of plane N888KG during its 9/10/2025 movements, including the contested FBO routing (Million Air FBO vs. alternative), the alleged federal instruction for airport personnel to lie, and the discrepancy between the Maxfield statement and any independent flight records.",
       "related_artifacts": [
         "A-1291.1"
@@ -825,14 +828,16 @@
       "related_nodes": [
         "N-94",
         "N-200"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10178"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10198",
       "ref": "N-10198",
       "name": "TPUSA Text Chain Authenticity Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigative target regarding provenance, authenticity, and chain-of-custody of the TPUSA internal text-chain screenshot (A-1296.1) attributed to Charlie Kirk. Independent verification required before claims drawn from it can be elevated.",
       "related_artifacts": [
         "A-1296.1"
@@ -844,7 +849,8 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1154,11 +1160,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10071",
       "ref": "N-10071",
       "name": "Provo, Utah",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Existing item reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1172,14 +1178,17 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "City",
+      "wikidata_class": "Q515",
+      "parent": "N-10120"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10772",
       "ref": "N-10772",
       "name": "Woodbury Building / Baugh Family / N88 Plane Connection Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing item reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1191,14 +1200,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing item reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1208,14 +1218,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10028",
       "ref": "N-10028",
       "name": "Utah Valley University Campus",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Existing item reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1225,14 +1237,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place",
+      "parent": "N-10059"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10503",
       "ref": "N-10503",
       "name": "Egyptian Plane Transponding Correlation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing item reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1242,14 +1256,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10239"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10182",
       "ref": "N-10182",
       "name": "Signature FBO / Million Air FBO (entity cluster)",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing item reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1259,14 +1275,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10775",
       "ref": "N-10775",
       "name": "Dairy Queen Timestamp UTC vs MST Reconciliation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing item reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1276,14 +1294,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10048"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10199",
       "ref": "N-10199",
       "name": "SUBTT (Egyptian military aircraft) Flight Tracking Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing item reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1294,14 +1314,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10239"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11292",
       "ref": "N-11292",
       "name": "Military Bot Activity Claim",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing item reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1311,14 +1333,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10281",
       "ref": "N-10281",
       "name": "TPUSA Egyptian Plane Story Suppression Attempt",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing item reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1329,14 +1352,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10239"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10194",
       "ref": "N-10194",
       "name": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing item reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1347,14 +1372,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10258",
       "ref": "N-10258",
       "name": "BTT Minot AFB Stopover Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing item reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1364,14 +1390,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10199"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10260",
       "ref": "N-10260",
       "name": "Minot Air Force Base",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Existing item reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1381,14 +1409,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place",
+      "wikidata_class": "Q245016"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10332",
       "ref": "N-10332",
       "name": "Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing item reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1398,14 +1428,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing item reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1418,14 +1449,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10252",
       "ref": "N-10252",
       "name": "AmFest Speaker Removal Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing item reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1437,14 +1470,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10067",
       "ref": "N-10067",
       "name": "Daily Mail",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing item reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1455,14 +1489,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10179",
       "ref": "N-10179",
       "name": "Josh Hammer Text Messages Context",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing item reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1472,14 +1508,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10421",
       "ref": "N-10421",
       "name": "Candace Owens Anti-Semite of Year 2024 Nomination",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing item reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1489,14 +1526,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10323",
       "ref": "N-10323",
       "name": "Hampton Retreat Seth Dillon Confrontation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing item reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1507,14 +1545,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10129"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10027",
       "ref": "N-10027",
       "name": "The Hamptons",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Existing item reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1524,14 +1564,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10423",
       "ref": "N-10423",
       "name": "Gaza Death Toll and Documentation Claims",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing item reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1541,14 +1582,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10201",
       "ref": "N-10201",
       "name": "TPUSA Faith / Christian Zionist Infiltration Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing item reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1558,14 +1600,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10143",
       "ref": "N-10143",
       "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing item reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1575,14 +1618,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10053"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10053",
       "ref": "N-10053",
       "name": "Kirk-Israel Narrative Dispute",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing item reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1592,14 +1637,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10129",
       "ref": "N-10129",
       "name": "Hamptons Weekend Retreat",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing item reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1609,14 +1655,18 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "place": "N-10027",
+      "parent": "N-10044"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10102",
       "ref": "N-10102",
       "name": "Moral Blackmail by Donors",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing item reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1626,14 +1676,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10044"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10044",
       "ref": "N-10044",
       "name": "Donor Intimidation of Charlie Kirk",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing item reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1644,14 +1696,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10436",
       "ref": "N-10436",
       "name": "TPUSA Donor Targeting Pattern Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing item reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1661,14 +1714,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10044"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10045",
       "ref": "N-10045",
       "name": "Charlie Kirk Assassination Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing item reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1678,14 +1733,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10177",
       "ref": "N-10177",
       "name": "Plane N1098L Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing item reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1696,7 +1752,9 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10195"
     },
     {
       "@type": "Person",
@@ -1732,7 +1790,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -1749,7 +1809,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -1766,7 +1828,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     }
   ],
   "claims": [

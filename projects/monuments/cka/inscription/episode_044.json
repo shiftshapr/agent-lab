@@ -628,7 +628,9 @@
       "related_nodes": [
         "N-320",
         "N-10310"
-      ]
+      ],
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
       "@type": "Person",
@@ -654,11 +656,11 @@
       ]
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10305",
       "ref": "N-10305",
       "name": "Fort Huachuca September 9, 2025 JTF-SB Meeting Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target: whether a high-level JTF-SB command meeting occurred at Fort Huachuca on September 9, 2025, whether 12–13 lieutenant colonels were present, and whether Harry Myers' account is corroborated by incident report 861-1-2025-MPC446.",
       "related_artifacts": [
         "A-1519.2",
@@ -681,14 +683,16 @@
         "N-318",
         "N-266",
         "N-319"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10306",
       "ref": "N-10306",
       "name": "Incident Report 861-1-2025-MPC446 FOIA Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target: verifiable existence and contents of Fort Huachuca incident report 861-1-2025-MPC446 generated on September 9, 2025 in connection with Harry Myers' detention.",
       "related_artifacts": [
         "A-1519.3"
@@ -704,14 +708,16 @@
       "related_nodes": [
         "N-319",
         "N-10305"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10307",
       "ref": "N-10307",
       "name": "1990 Douglas, Arizona / Operation Catacomb Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target: verifiable history of Joint Task Force 6, Operation Catacomb, the Douglas–Agua Prieta tunnel discovery, and the alleged JTF-6 commander / El Chapo photographs. Connects to Harry Myers' 35-year claim of retaliation and his NDA.",
       "related_artifacts": [
         "A-1519.1",
@@ -729,14 +735,16 @@
       "related_nodes": [
         "N-318",
         "N-323"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10308",
       "ref": "N-10308",
       "name": "Brian Harpole Military Connection Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target: whether Brian Harpole has any military or government connection that could account for his presence at a JTF-SB command meeting at Fort Huachuca on September 9, 2025.",
       "related_artifacts": [
         "A-1519.2"
@@ -752,14 +760,16 @@
       "related_nodes": [
         "N-266",
         "N-10305"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10305"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10309",
       "ref": "N-10309",
       "name": "\"Jonathan Schmidt\" / Arcadi Gaydamak Identity Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target: whether the individual operating in Nashville under the name Jonathan Schmidt is in fact Arcadi Gaydamak, as alleged by seven viewers.",
       "related_artifacts": [
         "A-1522.1",
@@ -777,14 +787,15 @@
       "related_nodes": [
         "N-313",
         "N-320"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10310",
       "ref": "N-10310",
       "name": "Root Brands / Nashville Foreign Intelligence Personnel Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target: verifiable employment history, immigration status, and security posture of Root Brands' workforce given the alleged presence of Arcadi Gaydamak and Ukrainians at the company.",
       "related_artifacts": [
         "A-1523.1"
@@ -802,7 +813,9 @@
         "N-321",
         "N-322",
         "N-10823"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10309"
     },
     {
       "@type": "Person",
@@ -1055,11 +1068,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization the host says hired former cartel weapons traffickers and was infiltrated via its faith structure.",
       "related_artifacts": [],
       "related_claims": [
@@ -1072,14 +1085,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10026",
       "ref": "N-10026",
       "name": "Israel",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Country the host says she has named in her reports of an assassination attempt coordination.",
       "related_artifacts": [],
       "related_claims": [
@@ -1090,14 +1105,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10194",
       "ref": "N-10194",
       "name": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's remarks on Patel's disinterest.",
       "related_artifacts": [],
       "related_claims": [
@@ -1107,14 +1124,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10298",
       "ref": "N-10298",
       "name": "Pierre Falcone / Turning Point USA Connection Claim",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the host's question about TPUSA and Pierre.",
       "related_artifacts": [],
       "related_claims": [
@@ -1124,14 +1142,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10304"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10304",
       "ref": "N-10304",
       "name": "Global Trafficking Angle in Kirk Assassination",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the government-cartel and cartel-involvement remarks.",
       "related_artifacts": [],
       "related_claims": [
@@ -1142,14 +1162,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10318",
       "ref": "N-10318",
       "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the host's reference to Kirk's day-before messages.",
       "related_artifacts": [],
       "related_claims": [
@@ -1159,14 +1180,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10332",
       "ref": "N-10332",
       "name": "Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's contact with Gabbard's office.",
       "related_artifacts": [],
       "related_claims": [
@@ -1176,14 +1198,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10370",
       "ref": "N-10370",
       "name": "Charlie Kirk Korea Trip / Pastor Yoon Connection",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for Kirk's final Korea and Japan trip.",
       "related_artifacts": [],
       "related_claims": [
@@ -1198,14 +1221,15 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10371",
       "ref": "N-10371",
       "name": "Turning Point USA Faith Structure",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the faith-infiltration remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1215,14 +1239,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10374",
       "ref": "N-10374",
       "name": "Romania / Eastern Europe Trafficking Cluster",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Poland-to-Mexico trafficking remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1232,14 +1257,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10405",
       "ref": "N-10405",
       "name": "TPUSA Faith Military Infiltration Claim",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the faith-infiltration remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1249,14 +1275,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10518",
       "ref": "N-10518",
       "name": "French Intelligence (DGSE) Involvement in Charlie Kirk Assassination Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the host's French intelligence remarks.",
       "related_artifacts": [],
       "related_claims": [
@@ -1270,14 +1297,16 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10297"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-11102",
       "ref": "N-11102",
       "name": "Angolagate",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused for Falcone and Gaydamak's involvement.",
       "related_artifacts": [],
       "related_claims": [
@@ -1287,14 +1316,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q192909"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11107",
       "ref": "N-11107",
       "name": "Pre-Born",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization advertised in the sponsor read.",
       "related_artifacts": [],
       "related_claims": [
@@ -1304,7 +1335,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Person",
@@ -1344,11 +1377,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-11198",
       "ref": "N-11198",
       "name": "Iran-Contra Affair",
-      "type": "topic",
+      "type": "event",
       "description": "The 1980s scandal the host cites as showing the CIA trafficked drugs and weapons and as a context for JTF-6 and Epstein.",
       "related_artifacts": [],
       "related_claims": [
@@ -1360,7 +1393,9 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
       "@type": "Organization",
@@ -1382,7 +1417,9 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "GovernmentOrganization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Topic",
@@ -1400,7 +1437,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1418,7 +1456,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1435,7 +1474,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1458,14 +1498,15 @@
       "evidence_count": 0,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-11204",
       "ref": "N-11204",
       "name": "Harry Myers September 10 Salt Lake City Airport Layover",
-      "type": "topic",
+      "type": "event",
       "description": "Harry's account of passing through Salt Lake City airport on September 10, 2025 and learning of the shooting.",
       "related_artifacts": [],
       "related_claims": [
@@ -1476,7 +1517,10 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-09-10"
     }
   ],
   "claims": [

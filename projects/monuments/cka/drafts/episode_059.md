@@ -842,7 +842,7 @@ Everyday Heroes Foundation; the charity the host connects to Erika Kirk's China 
 
 **N-11303** Cattle Baron's Ball / Cattleman's Ball
 
-Node Type: Organization
+Node Type: Event
 The Dallas-founded American Cancer Society single-night fundraiser and a separate 501c3 Cattleman's Ball benefiting the Fred and Pamela Buffett Cancer Center, as described by the host; the emailer alleges the events launder money to buy off US police, which the host cannot confirm.
 
 *Related: C-5244, C-5246, C-5247*

@@ -322,7 +322,7 @@ First named by the host at 00:05:36 in episode 122 (David Sprague; later James N
 
 **N-11109** Rawlinson Name Change and Background Inquiry
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's inquiry into why David Sprague changed his name from James Norman Rawlinson Jr., his stated reasons and the host's inability to confirm his father's alleged crime.
 
 *Related: C-10411, C-10412, C-10413, C-10414, C-10425*

@@ -1623,7 +1623,7 @@
     },
     {
      "k": "Node Type",
-     "v": "topic"
+     "v": "Thing"
     },
     {
      "raw": ""
@@ -3304,7 +3304,7 @@
     },
     {
      "k": "Node Type",
-     "v": "Topic"
+     "v": "Event"
     },
     {
      "raw": "The Turning Point Faith speaking tour on which Erika Kirk appeared at Pursuit Church in Washington state; the transcript sometimes renders it \"Make Kevin Crowded\"."
@@ -3403,7 +3403,7 @@
     },
     {
      "k": "Node Type",
-     "v": "Topic"
+     "v": "Investigation Question"
     },
     {
      "raw": "Question of whether Charlie Kirk's wedding ring fell from his finger at the scene and was never recovered, raised through a viewer comment."

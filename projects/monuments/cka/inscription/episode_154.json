@@ -767,11 +767,11 @@
       ]
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10763",
       "ref": "N-10763",
       "name": "UVU Ambulance Denial Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent contradiction between TPUSA's November 2025 admission (TPUSA UVU chapter declined ambulance) and TPUSA's later filing framing the absence as wrongful death by others. Reinforced by @spilling the TPUSA/anniversary observation.",
       "related_artifacts": [
         "A-2393.1",
@@ -790,14 +790,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10764",
       "ref": "N-10764",
       "name": "Nampa Christian School Opt-In Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Discrepancy between TPUSA's claim that 500+ students voluntarily attended and parent/student reports that attendance was a school-mandated assembly, plus Andrew Kolvet's \"three opt-outs\" reply.",
       "related_artifacts": [
         "A-2397.1",
@@ -822,14 +823,15 @@
         "N-1",
         "N-2",
         "N-14"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10765",
       "ref": "N-10765",
       "name": "2019 Text Thread Provenance Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Provenance question around the 4plebs post allegedly found by \"E\" (Erika Frantzve) and forwarded by Andrew Kolvet in November 2019, and the Vox article Kolvet cited as the path to that post.",
       "related_artifacts": [
         "A-2394.1",
@@ -849,14 +851,15 @@
         "N-2",
         "N-3",
         "N-14"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10766",
       "ref": "N-10766",
       "name": "TPUSA No-Marketing Security Claim",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Contradiction between Andrew Kolvet's X-stated rationale (\"we don't market the event publicly for security reasons\") and TPUSA's prior public framing of Prove Me Wrong / Club America events as unticketed and open to public.",
       "related_artifacts": [
         "A-2393.1",
@@ -873,14 +876,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-14"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10767",
       "ref": "N-10767",
       "name": "Empress Films / Erika Kirk Aug 2025 Call Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Open question about nature and purpose of August 28, 2025 call between Erika Kirk, Andrew Kolvet, and Empress Films executives (Emma Cooper, Eben Davidson), as raised by host with \"Baron Coleman.\"",
       "related_artifacts": [],
       "related_claims": [
@@ -895,14 +899,15 @@
         "N-2",
         "N-14",
         "N-10769"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10768",
       "ref": "N-10768",
       "name": "Blake Neff Censorship Statement",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Blake Neff's verbatim statement that \"we may have to make our peace with censorship\" per Politico profile, criticized by Tucker Carlson.",
       "related_artifacts": [
         "A-2400.1",
@@ -921,14 +926,15 @@
         "N-1",
         "N-22",
         "N-159"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10769",
       "ref": "N-10769",
       "name": "Empress Films (Entity)",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Documentary company founded by Emma Cooper in 2020; production focus described as true crime / murder mystery; described by host as politically left-leaning.",
       "related_artifacts": [
         "A-2402.1",
@@ -949,7 +955,9 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-10767"
-      ]
+      ],
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Person",
@@ -1213,11 +1221,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10003",
       "ref": "N-10003",
       "name": "Charlie-Candace Friendship Continuity",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1233,14 +1241,15 @@
       "evidence_count": 0,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1255,14 +1264,16 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10028",
       "ref": "N-10028",
       "name": "Utah Valley University Campus",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Existing place reused for the host's report of the Fulton Library Quad suggestion.",
       "related_artifacts": [],
       "related_claims": [
@@ -1272,14 +1283,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place",
+      "parent": "N-10059"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10068",
       "ref": "N-10068",
       "name": "ABC",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization; ABC News published the November 18 report the host reads.",
       "related_artifacts": [],
       "related_claims": [
@@ -1293,14 +1306,16 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10072",
       "ref": "N-10072",
       "name": "White House",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Existing place; the host says the Black Leadership Summit took place there in October 2019.",
       "related_artifacts": [],
       "related_claims": [
@@ -1310,14 +1325,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "LandmarksOrHistoricalBuildings",
+      "wikidata_class": "Q41176"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1334,14 +1351,16 @@
       "evidence_count": 0,
       "claim_count": 8,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10488",
       "ref": "N-10488",
       "name": "Club America High School Pushback",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1355,14 +1374,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10793",
       "ref": "N-10793",
       "name": "Brian Cole Jr J6 Pipe-Bomb Patsy / Coerced Confession",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1375,14 +1395,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10794",
       "ref": "N-10794",
       "name": "Scripps Media Bodycam Pattern (Robinson + Cole)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1393,14 +1414,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11064",
       "ref": "N-11064",
       "name": "January 6 Federal Coordination Claim",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1410,14 +1432,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11137",
       "ref": "N-11137",
       "name": "Newsweek",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization; the host says parents' letter appeared there.",
       "related_artifacts": [],
       "related_claims": [
@@ -1427,14 +1450,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11162",
       "ref": "N-11162",
       "name": "Proclaim Streetwear",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization reused for the host's mention of Erika's clothing brand (transcribed \"Proclaim 365\").",
       "related_artifacts": [],
       "related_claims": [
@@ -1444,14 +1469,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10975",
       "ref": "N-10975",
       "name": "Blake Neff Employment History Account",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1463,14 +1490,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-11228",
       "ref": "N-11228",
       "name": "Kolvet PR Role for Erika Kirk August 2025 Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "The host's report, from people who worked with Andrew Kolvet, that TPUSA did not normally handle Erika Kirk's media outside TPUSA Faith events and her question why he was doing so in August 2025.",
       "related_artifacts": [],
       "related_claims": [
@@ -1481,7 +1509,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
@@ -1499,7 +1528,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1517,7 +1547,9 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10763"
     }
   ],
   "claims": [

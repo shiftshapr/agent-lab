@@ -734,11 +734,11 @@
       ]
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10239",
       "ref": "N-10239",
       "name": "Egyptian Military Plane Tracking Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Persistent investigative target tracking allegations that Egyptian military aircraft SUBND and SUBTT conducted sustained surveillance of Erika Kirk (and sometimes Charlie Kirk) from 2022 through September 2025, with concentrated activity on the day of the assassination.",
       "related_artifacts": [
         "A-1418.1",
@@ -763,14 +763,15 @@
         "N-2",
         "N-67",
         "N-263"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10240",
       "ref": "N-10240",
       "name": "TPUSA Financial Filing Anomaly Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target tracking missing IRS Form 990 filings for three of four TPUSA-related entities for FY2024, the $8.56M transfer to America's Turning Point, and the timing of audit requests relative to Charlie Kirk's death.",
       "related_artifacts": [
         "A-1420.1",
@@ -793,14 +794,16 @@
         "N-2",
         "N-41",
         "N-10817"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10075"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10241",
       "ref": "N-10241",
       "name": "T.W. Lewis Scottsdale-to-Provo Flight Manifest Mystery",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target tracking the September 10 Scottsdale–Provo–Santa Barbara–Scottsdale round trip of tail N560TW, flagged by host as warranting public tip submissions.",
       "related_artifacts": [
         "A-1422.1"
@@ -815,14 +818,16 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-1"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10195"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10242",
       "ref": "N-10242",
       "name": "Duncan Aviation Rental Vehicle Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target tracking four rental vehicles with documented plates rented from the Duncan Aviation FBO prior to the assassination, with public tip requests issued.",
       "related_artifacts": [
         "A-1421.1",
@@ -841,14 +846,16 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-260"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10239"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10243",
       "ref": "N-10243",
       "name": "Flock LPR FOIA Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target tracking the potential use of FOIA-accessible Flock automated license plate reader data to cross-reference rental vehicles and UVU-area camera footage.",
       "related_artifacts": [
         "A-1423.1"
@@ -861,14 +868,16 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Question",
+      "parent": "N-10242"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10244",
       "ref": "N-10244",
       "name": "Andrew Kolvet Hospital Threat Disclosure Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target tracking host's verbal claim that Andrew Kolvet disclosed a credible threat against Candace Owens and Tucker Carlson while in the hospital on September 10, and that no federal agency has since followed up directly with her.",
       "related_artifacts": [],
       "related_claims": [
@@ -878,7 +887,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1047,7 +1057,9 @@
       "related_nodes": [
         "N-10240"
       ],
-      "organization_kind": "company"
+      "organization_kind": "company",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -1067,7 +1079,9 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -1088,14 +1102,16 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-11249",
       "ref": "N-11249",
       "name": "Charlie Kirk Salt Lake City Diversion Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Persistent question raised by the host about why Charlie Kirk flew into Salt Lake City at 9:23 a.m. on September 10 rather than the closer Provo airport, and who arranged the interview that she says explained the detour.",
       "related_artifacts": [],
       "related_claims": [
@@ -1106,14 +1122,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10239"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-11250",
       "ref": "N-11250",
       "name": "SUBND Transponder Time Zone Offset Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Dispute over whether the SUBND transponder windows on September 10 should be converted from UTC with minus 7 hours (as presented on air) or minus 6 hours (Mountain Daylight Time), and whether the host's first October 11 plane post had a time-zone error.",
       "related_artifacts": [],
       "related_claims": [
@@ -1126,7 +1144,9 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10200"
     },
     {
       "@type": "Person",
@@ -1315,11 +1335,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization at the centre of the missing-filings, silence and plane-awareness claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1338,14 +1358,16 @@
       "evidence_count": 0,
       "claim_count": 10,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Campus where the host asks students to check photos for the four rental cars.",
       "related_artifacts": [],
       "related_claims": [
@@ -1355,14 +1377,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10026",
       "ref": "N-10026",
       "name": "Israel",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Place named in the host's claims about threats, legislation and the USS Liberty.",
       "related_artifacts": [],
       "related_claims": [
@@ -1375,14 +1399,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10058",
       "ref": "N-10058",
       "name": "CIA Operation Mockingbird",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Program the host invokes in her opening history.",
       "related_artifacts": [],
       "related_claims": [
@@ -1392,14 +1418,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10071",
       "ref": "N-10071",
       "name": "Provo, Utah",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Airport and city where the Egyptian planes and Kolvet's tarmac arrival are located.",
       "related_artifacts": [],
       "related_claims": [
@@ -1410,14 +1437,17 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "City",
+      "wikidata_class": "Q515",
+      "parent": "N-10120"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10096",
       "ref": "N-10096",
       "name": "TPUSA SD Card Removal",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Topic on which the Farnsworth SD card claims bear.",
       "related_artifacts": [],
       "related_claims": [
@@ -1429,14 +1459,19 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-09-10",
+      "place": "N-10028",
+      "parent": "N-10073"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10127",
       "ref": "N-10127",
       "name": "TPUSA DOGE Department / Financial Audit",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic for the internal DOGE audit discussed with the Wolves video.",
       "related_artifacts": [],
       "related_claims": [
@@ -1448,14 +1483,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10134",
       "ref": "N-10134",
       "name": "Operation Mocking Pastor",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Host's framing of the McCoy clip as an influence operation.",
       "related_artifacts": [],
       "related_claims": [
@@ -1465,14 +1501,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10156",
       "ref": "N-10156",
       "name": "SD Card Removal Narrative Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic on which the Farnsworth SD card claims bear.",
       "related_artifacts": [],
       "related_claims": [
@@ -1483,14 +1520,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10096"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10160",
       "ref": "N-10160",
       "name": "Tyler Bowyer X Defense Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic for Bowyer's X posts pointing to the annual audit.",
       "related_artifacts": [],
       "related_claims": [
@@ -1500,14 +1539,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10200",
       "ref": "N-10200",
       "name": "SUBND (Egyptian military aircraft) Flight Tracking Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Aircraft whose September 10 behaviour is described.",
       "related_artifacts": [],
       "related_claims": [
@@ -1517,14 +1557,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10239"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10224",
       "ref": "N-10224",
       "name": "Shapiro Statement Accuracy Re: Owens' Accusations",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic for the dispute over what Shapiro attributed to the host.",
       "related_artifacts": [],
       "related_claims": [
@@ -1534,14 +1576,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10281",
       "ref": "N-10281",
       "name": "TPUSA Egyptian Plane Story Suppression Attempt",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic on TPUSA's silence about the planes.",
       "related_artifacts": [],
       "related_claims": [
@@ -1553,14 +1596,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing",
+      "parent": "N-10239"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10404",
       "ref": "N-10404",
       "name": "Charlie Kirk DOGE Pre-Death Establishment",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic for the claim that Charlie wanted to establish a DOGE a week before his death.",
       "related_artifacts": [],
       "related_claims": [
@@ -1571,14 +1616,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10420",
       "ref": "N-10420",
       "name": "USS Liberty Incident Cover-up Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic the host invokes by analogy.",
       "related_artifacts": [],
       "related_claims": [
@@ -1588,14 +1634,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10453",
       "ref": "N-10453",
       "name": "Egyptian Plane Communication Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic for the encrypted communications hypothesis.",
       "related_artifacts": [],
       "related_claims": [
@@ -1605,14 +1652,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10239"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10734",
       "ref": "N-10734",
       "name": "SD Card Chain-of-Custody Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic on which the Farnsworth SD card claims bear.",
       "related_artifacts": [],
       "related_claims": [
@@ -1622,14 +1671,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10846",
       "ref": "N-10846",
       "name": "Turning Point Action",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "TPUSA affiliate named among the entities audited by Baker Tilly.",
       "related_artifacts": [],
       "related_claims": [
@@ -1639,7 +1689,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     }
   ],
   "claims": [

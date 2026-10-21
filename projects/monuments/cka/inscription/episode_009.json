@@ -970,7 +970,8 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "topic_kind": "verification_thread"
+      "topic_kind": "verification_thread",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -994,14 +995,15 @@
       "claim_count": 5,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "topic_kind": "discrepancy"
+      "topic_kind": "discrepancy",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10107",
       "ref": "N-10107",
       "name": "Crooks Federal-Radar Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Was Crooks known to feds pre-attempt given extensive violent online history?",
       "related_artifacts": [
         "A-1156.1",
@@ -1018,7 +1020,8 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "topic_kind": "verification_thread"
+      "topic_kind": "verification_thread",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
@@ -1034,7 +1037,8 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "topic_kind": "narrative_pattern"
+      "topic_kind": "narrative_pattern",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1056,7 +1060,8 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "topic_kind": "narrative_pattern"
+      "topic_kind": "narrative_pattern",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1072,7 +1077,8 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "topic_kind": "narrative_pattern"
+      "topic_kind": "narrative_pattern",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1088,7 +1094,8 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "topic_kind": "narrative_pattern"
+      "topic_kind": "narrative_pattern",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1106,7 +1113,9 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "topic_kind": "narrative_pattern"
+      "topic_kind": "narrative_pattern",
+      "schema_org": "Thing",
+      "parent": "N-10001"
     },
     {
       "@type": "Topic",
@@ -1126,7 +1135,8 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "topic_kind": "verification_thread"
+      "topic_kind": "verification_thread",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1146,7 +1156,8 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "topic_kind": "biographical"
+      "topic_kind": "biographical",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1166,7 +1177,8 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "topic_kind": "event"
+      "topic_kind": "event",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1188,14 +1200,15 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "topic_kind": "narrative_pattern"
+      "topic_kind": "narrative_pattern",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10095",
       "ref": "N-10095",
       "name": "Shooter Description Contradiction",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Host: eyewitness told her shooter was in tactical gear, gun mismatched.",
       "related_artifacts": [],
       "related_claims": [
@@ -1206,14 +1219,15 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "topic_kind": "discrepancy"
+      "topic_kind": "discrepancy",
+      "schema_org": "Question"
     },
     {
-      "@type": "Organization",
+      "@type": "Topic",
       "@id": "N-10001",
       "ref": "N-10001",
       "name": "MK Ultra",
-      "type": "organization",
+      "type": "topic",
       "description": "CIA program (1950s-60s); host asserts it was never discontinued.",
       "related_artifacts": [],
       "related_claims": [
@@ -1224,7 +1238,8 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "organization_kind": "program_or_initiative"
+      "organization_kind": "program_or_initiative",
+      "schema_org": "Thing"
     },
     {
       "@type": "Organization",
@@ -1242,7 +1257,9 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "organization_kind": "media"
+      "organization_kind": "media",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -1260,7 +1277,9 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "organization_kind": "company"
+      "organization_kind": "company",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -1278,7 +1297,9 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "organization_kind": "educational_institution"
+      "organization_kind": "educational_institution",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
       "@type": "Organization",
@@ -1296,7 +1317,9 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "organization_kind": "company"
+      "organization_kind": "company",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Place",
@@ -1312,7 +1335,9 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "place_kind": "state"
+      "place_kind": "state",
+      "schema_org": "State",
+      "wikidata_class": "Q35657"
     },
     {
       "@type": "Place",
@@ -1328,7 +1353,8 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "place_kind": "city_region"
+      "place_kind": "city_region",
+      "schema_org": "Place"
     },
     {
       "@type": "Place",
@@ -1346,7 +1372,9 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "place_kind": "country"
+      "place_kind": "country",
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
       "@type": "Place",
@@ -1362,7 +1390,9 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "place_kind": "country"
+      "place_kind": "country",
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
       "@type": "Person",
@@ -1382,11 +1412,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization Charlie Kirk wanted to take global; the UK trip helped Turning Point UK get set up.",
       "related_artifacts": [],
       "related_claims": [
@@ -1396,14 +1426,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10014",
       "ref": "N-10014",
       "name": "Federal Bureau of Investigation",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "FBI; the host's source says it is pressuring Utah to close the Kirk case, and she says the feds are obscuring.",
       "related_artifacts": [],
       "related_claims": [
@@ -1416,14 +1448,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10021",
       "ref": "N-10021",
       "name": "Robinson Confession and Arrest Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1434,14 +1468,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10022",
       "ref": "N-10022",
       "name": "Robinson Father Turn-In Narrative",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1451,14 +1486,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10062",
       "ref": "N-10062",
       "name": "Caldera Engineering",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization reused; the host says the only video released is the Caldera Engineering video (transcribed as Calderira).",
       "related_artifacts": [],
       "related_claims": [
@@ -1468,14 +1504,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10102",
       "ref": "N-10102",
       "name": "Moral Blackmail by Donors",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused; the host recalls Charlie's clip about being morally blackmailed.",
       "related_artifacts": [],
       "related_claims": [
@@ -1485,14 +1523,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10044"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10536",
       "ref": "N-10536",
       "name": "Butler PA Investigation Closure Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused; the host says the public was told Iran was behind the Butler attempt.",
       "related_artifacts": [],
       "related_claims": [
@@ -1502,7 +1542,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Organization",
@@ -1521,7 +1562,9 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Corporation",
+      "wikidata_class": "Q4830453"
     },
     {
       "@type": "Organization",
@@ -1539,7 +1582,9 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Corporation",
+      "wikidata_class": "Q4830453"
     }
   ],
   "claims": [

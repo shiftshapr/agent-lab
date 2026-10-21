@@ -848,7 +848,7 @@ First named by the host at 00:07:25 in episode 151. Commentator (Instagram handl
 
 **N-11226** Security Team Timpanogos Scrubs Question
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's questions over why Blake Harreff and others from the security team were wearing hospital scrubs on returning to UVU on the evening of September 10.
 
 *Related: C-13004, C-13005, C-13008, C-13038*

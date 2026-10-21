@@ -610,11 +610,11 @@
   ],
   "nodes": [
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10599",
       "ref": "N-10599",
       "name": "Salem Media Foreign Agent Registration Status",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent question of whether Salem Media Network's contractual relationship with Clock Tower X LLC renders it a foreign-agent platform for Israel under FARA.",
       "related_artifacts": [
         "A-2049.1",
@@ -635,14 +635,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-10604"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10600",
       "ref": "N-10600",
       "name": "Josh Hammer Show Audience Anomaly",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent discrepancy between Josh Hammer's documented low Newsweek/YouTube view counts (~355–665) and his ongoing placement on Salem Podcast Network.",
       "related_artifacts": [
         "A-2050.1"
@@ -658,14 +659,16 @@
       "related_nodes": [
         "N-55",
         "N-10599"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10599"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10601",
       "ref": "N-10601",
       "name": "Pam Bondi Foreign Influence Task Force Disbanding",
-      "type": "investigation_target",
+      "type": "event",
       "description": "February 5, 2025 DOJ directive disbanding Foreign Influence Task Force and limiting FARA criminal enforcement to espionage-class conduct only.",
       "related_artifacts": [
         "A-2052.1",
@@ -683,14 +686,17 @@
       "related_nodes": [
         "N-85",
         "N-10604"
-      ]
+      ],
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-02-05"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10602",
       "ref": "N-10602",
       "name": "Hospital \"No Neck Left\" Narrative Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent inconsistency between contemporaneous reports from hospital staff (and relayed through Andrew Kolvet to host and Tucker Carlson) that Charlie Kirk had \"no neck left,\" and the later public visual record showing Charlie Kirk's neck was intact enough for open-casket viewing.",
       "related_artifacts": [],
       "related_claims": [],
@@ -698,14 +704,15 @@
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "low",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10603",
       "ref": "N-10603",
       "name": "Blake Lively / Justin Baldoni Lawsuit Outcome (Legal Matter – CASE_1 / LM-1000 placeholder)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Lawsuit in which April 2, 2025 ruling dismissed 10 of 13 Lively claims; ultimately settled two weeks before scheduled trial.",
       "related_artifacts": [
         "A-2056.1",
@@ -724,14 +731,15 @@
       "related_nodes": [
         "N-484",
         "N-485"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10604",
       "ref": "N-10604",
       "name": "2025 FARA Propaganda Timeline Convergence",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Persistent investigative question raised by the host regarding the temporal clustering of (a) Bondi's February 5 FARA Task Force disbanding, (b) Brad Parscale's January 10 Salem CSO role, (c) Dhillon Law Group's August 27 paperwork drafting, (d) Dhillon's April 7 DOJ swearing-in, (e) Clock Tower X / Show Faith by Works FARA filings on September 18, (f) Charlie Kirk's September 9 message and September 10 assassination, (g) Netanyahu's September 12 denial, and (h) Josh Hammer's October 15/23 Salem show launch.",
       "related_artifacts": [
         "A-2047.1",
@@ -761,14 +769,15 @@
         "N-33",
         "N-10599",
         "N-10601"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10605",
       "ref": "N-10605",
       "name": "Mikey McCoy Witness Reliability Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigative question about Mikey McCoy's role, demeanor, and current disposition following the assassination; framed by host as possible \"weak link\" among Kirk's inner circle.",
       "related_artifacts": [
         "A-2061.1"
@@ -780,7 +789,8 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -895,7 +905,9 @@
       "claim_count": 3,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "organization_kind": "company"
+      "organization_kind": "company",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
       "@type": "Person",
@@ -1106,11 +1118,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10657",
       "ref": "N-10657",
       "name": "Clock Tower X / Israeli Influence Operation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Clock Tower X / Israeli Influence Operation; existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1123,7 +1135,8 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1171,11 +1184,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10388",
       "ref": "N-10388",
       "name": "Charlie Kirk Premonition Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for Kirk premonition pattern.",
       "related_artifacts": [],
       "related_claims": [
@@ -1185,7 +1198,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1205,11 +1219,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10318",
       "ref": "N-10318",
       "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the night-before texts to Kolvet and Flood.",
       "related_artifacts": [],
       "related_claims": [
@@ -1221,7 +1235,8 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1241,11 +1256,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10593",
       "ref": "N-10593",
       "name": "Brian Harpole Lawsuit Coordination Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Harpole lawsuit.",
       "related_artifacts": [],
       "related_claims": [
@@ -1255,14 +1270,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11174",
       "ref": "N-11174",
       "name": "Harpole Lawsuit Subpoena and Discovery Opportunity",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for Harpole discovery.",
       "related_artifacts": [],
       "related_claims": [
@@ -1272,14 +1288,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10593"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10143",
       "ref": "N-10143",
       "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for Kirk's Israel position claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1291,7 +1309,9 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing",
+      "parent": "N-10053"
     },
     {
       "@type": "Person",
@@ -1353,14 +1373,16 @@
       "evidence_count": 0,
       "claim_count": 8,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11216",
       "ref": "N-11216",
       "name": "Charlie Kirk Show LLC",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Charlie Kirk Show LLC; organization reused for ownership and building claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1376,7 +1398,9 @@
       "evidence_count": 0,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Person",
@@ -1396,11 +1420,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10835",
       "ref": "N-10835",
       "name": "Show Faith by Works LLC",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Show Faith by Works LLC; organization reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1411,14 +1435,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10595",
       "ref": "N-10595",
       "name": "Turning Point Geofencing / Show Faith by Works Link",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the geofencing link.",
       "related_artifacts": [],
       "related_claims": [
@@ -1428,7 +1454,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1448,11 +1475,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "Topic",
+      "@type": "Thing",
       "@id": "N-11268",
       "ref": "N-11268",
       "name": "Trump Post of Kirk With Israeli Flag",
-      "type": "topic",
+      "type": "thing",
       "description": "The host's recurring point that Donald Trump tweeted a photo of Charlie Kirk hugging an Israeli and an American flag when Kirk died.",
       "related_artifacts": [],
       "related_claims": [
@@ -1462,7 +1489,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "SocialMediaPosting"
     },
     {
       "@type": "Person",
@@ -1504,11 +1532,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10379",
       "ref": "N-10379",
       "name": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the attacks on Megyn Kelly.",
       "related_artifacts": [],
       "related_claims": [
@@ -1519,7 +1547,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1543,11 +1572,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10179",
       "ref": "N-10179",
       "name": "Josh Hammer Text Messages Context",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for Hammer's text messages.",
       "related_artifacts": [],
       "related_claims": [
@@ -1558,14 +1587,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-11269",
       "ref": "N-11269",
       "name": "Charlie Kirk Show Equity Stakes Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "The host's account, from Kirk and a Kolvet family source, that Kirk and Andrew Kolvet held stakes in the Charlie Kirk Show and that Kolvet allegedly lost millions when Kirk refused Netanyahu.",
       "related_artifacts": [],
       "related_claims": [
@@ -1578,7 +1608,9 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-11216"
     },
     {
       "@type": "Person",
@@ -1616,11 +1648,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10027",
       "ref": "N-10027",
       "name": "The Hamptons",
-      "type": "investigation_target",
+      "type": "place",
       "description": "The Hamptons; place of the alleged Kirk refusal of Netanyahu.",
       "related_artifacts": [],
       "related_claims": [
@@ -1630,14 +1662,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10425",
       "ref": "N-10425",
       "name": "Charlie Kirk BB Netanyahu Show Refusal",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for Kirk's refusal of Netanyahu.",
       "related_artifacts": [],
       "related_claims": [
@@ -1647,14 +1680,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10018"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10458",
       "ref": "N-10458",
       "name": "BB Netanyahu Hamptons Dinner Allegation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Hamptons dinner allegation.",
       "related_artifacts": [],
       "related_claims": [
@@ -1664,14 +1699,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10415"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10287",
       "ref": "N-10287",
       "name": "Andrew Kolvet \"Lost Millions\" Tip Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Kolvet lost-millions tip.",
       "related_artifacts": [],
       "related_claims": [
@@ -1681,14 +1718,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10284"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10320",
       "ref": "N-10320",
       "name": "Bibi Netanyahu TPUSA Funding Offer",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Netanyahu TPUSA funding offer.",
       "related_artifacts": [],
       "related_claims": [
@@ -1698,7 +1737,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1718,11 +1758,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10162",
       "ref": "N-10162",
       "name": "Josh Hammer Pre-Death Zoom Call Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Hammer pre-death Zoom call.",
       "related_artifacts": [],
       "related_claims": [
@@ -1733,14 +1773,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11137",
       "ref": "N-11137",
       "name": "Newsweek",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Newsweek; distribution partner for the Hammer show.",
       "related_artifacts": [],
       "related_claims": [
@@ -1750,14 +1791,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10831",
       "ref": "N-10831",
       "name": "Dhillon Law Group",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Dhillon Law Group; organization reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1767,7 +1810,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q613142"
     },
     {
       "@type": "Person",
@@ -1810,11 +1855,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11039",
       "ref": "N-11039",
       "name": "Hollywood Gang Claim",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Hollywood gang claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1825,7 +1870,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1920,11 +1966,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10821",
       "ref": "N-10821",
       "name": "Daily Wire",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Daily Wire; organization reused for the court-system and Crain & Co claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1936,14 +1982,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10389",
       "ref": "N-10389",
       "name": "Daily Wire Stalking Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Daily Wire pattern against the host.",
       "related_artifacts": [],
       "related_claims": [
@@ -1953,7 +2001,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1974,11 +2023,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10282",
       "ref": "N-10282",
       "name": "Justin Streiff Post-Assassination Phone Call",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for Justin Streiff's post-assassination phone call.",
       "related_artifacts": [],
       "related_claims": [
@@ -1988,7 +2037,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -2008,11 +2058,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10190",
       "ref": "N-10190",
       "name": "Mikey McCoy Behavior Discrepancy (September 10, 2025)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for Mikey McCoy's behavior on September 10.",
       "related_artifacts": [],
       "related_claims": [
@@ -2023,7 +2073,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
@@ -2042,14 +2093,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-11220",
       "ref": "N-11220",
       "name": "Erika Kirk Memorial Forgiveness Statement",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused for Erika's forgiveness statement.",
       "related_artifacts": [],
       "related_claims": [
@@ -2059,14 +2111,17 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "parent": "N-10002"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10106",
       "ref": "N-10106",
       "name": "Tyler Robinson Evidence Gaps",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Tyler Robinson Evidence Gaps; existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -2076,7 +2131,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -2094,7 +2150,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     }
   ],
   "claims": [

@@ -727,11 +727,11 @@
       ]
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10152",
       "ref": "N-10152",
       "name": "ADL–FBI Partnership Structure",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Persistent investigative target concerning the historical and operational relationship between the Anti-Defamation League and the FBI, including embedded agents, shared intelligence, shared office space, and the announced 2025-10-01 separation.",
       "related_artifacts": [
         "A-1209.1",
@@ -752,14 +752,15 @@
         "N-69",
         "N-143",
         "N-147"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10153",
       "ref": "N-10153",
       "name": "Connecticut FBI Field Office Deployment Anomaly",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigative target concerning the reported deployment of the FBI's Connecticut field office (rather than the closer Salt Lake City–area office) to UVU following the Charlie Kirk assassination, and the contemporaneous nexus with Connecticut-based ADL-FBI office sharing.",
       "related_artifacts": [
         "A-1211.1",
@@ -776,14 +777,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-143"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10154",
       "ref": "N-10154",
       "name": "Tyler Robinson Defense Selection Anomaly",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigative target concerning the role of Utah state prosecutor Skordas in identifying defense counsel for Tyler Robinson, and Elizabeth Lane's reported difficulty in retaining independent pro bono counsel for Robinson.",
       "related_artifacts": [
         "A-1212.1"
@@ -800,14 +802,15 @@
       "related_nodes": [
         "N-6",
         "N-148"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10155",
       "ref": "N-10155",
       "name": "Witness and Public-Figure Demeanor Anomalies",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Persistent investigative target grouping witness-on-site anomalies (Lyman family timing/accomplice testimony; Bishop close-encounter sighting; USA Today witness compilation) with public-figure suicide-denial statements (MTG, Theo Von) as the host posits a coordinated pattern.",
       "related_artifacts": [
         "A-1213.1",
@@ -832,7 +835,8 @@
         "N-144",
         "N-145",
         "N-146"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1200,11 +1204,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization the ADL listed per the host.",
       "related_artifacts": [],
       "related_claims": [
@@ -1216,14 +1220,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10014",
       "ref": "N-10014",
       "name": "Federal Bureau of Investigation",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "FBI; the host discusses its ADL ties and the Connecticut bureau.",
       "related_artifacts": [],
       "related_claims": [
@@ -1238,14 +1244,16 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Site of the shooting; the Connecticut bureau was sent there per the host.",
       "related_artifacts": [],
       "related_claims": [
@@ -1255,14 +1263,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10026",
       "ref": "N-10026",
       "name": "Israel",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Referenced in the host's claims about Kirk's turn and public suicide denials.",
       "related_artifacts": [],
       "related_claims": [
@@ -1275,14 +1285,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10025",
       "ref": "N-10025",
       "name": "Israel Lobby Pressure on Conservative Figures",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1292,14 +1304,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10053",
       "ref": "N-10053",
       "name": "Kirk-Israel Narrative Dispute",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the no-choice claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1309,14 +1322,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10143",
       "ref": "N-10143",
       "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the no-choice claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1326,14 +1340,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10053"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-10057",
       "ref": "N-10057",
       "name": "Good Morning America",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Program Barker spoke to per the host.",
       "related_artifacts": [],
       "related_claims": [
@@ -1343,14 +1359,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CreativeWorkSeries"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10091",
       "ref": "N-10091",
       "name": "9/10 Eyewitness Pattern Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1360,14 +1377,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10106",
       "ref": "N-10106",
       "name": "Tyler Robinson Evidence Gaps",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1377,14 +1395,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10124",
       "ref": "N-10124",
       "name": "Orem Police Department",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Employer of Bishop per the host.",
       "related_artifacts": [],
       "related_claims": [
@@ -1398,14 +1417,16 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10139",
       "ref": "N-10139",
       "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1417,14 +1438,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10148",
       "ref": "N-10148",
       "name": "\"Robbie Hild\" Identity Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for Hild's Cayman and Spain ties.",
       "related_artifacts": [],
       "related_claims": [
@@ -1435,14 +1457,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10254",
       "ref": "N-10254",
       "name": "Macron Defamation Lawsuit Delaware Venue Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1454,14 +1477,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10931",
       "ref": "N-10931",
       "name": "Macron Cease and Desist and Legal Timeline",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1472,14 +1496,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10296",
       "ref": "N-10296",
       "name": "Mainstream Media Eyewitness Selection Pattern at UVU Event",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1490,14 +1515,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10303",
       "ref": "N-10303",
       "name": "Epstein Files Release Status",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1508,14 +1534,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10379",
       "ref": "N-10379",
       "name": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1526,14 +1553,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10604",
       "ref": "N-10604",
       "name": "2025 FARA Propaganda Timeline Convergence",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the JFK FARA remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1543,14 +1571,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10977",
       "ref": "N-10977",
       "name": "Russian-Speaking Turning Point Network",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for Ukrainian/Russian connections.",
       "related_artifacts": [],
       "related_claims": [
@@ -1561,14 +1590,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11048",
       "ref": "N-11048",
       "name": "B'nai B'rith",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization the host says gave rise to the ADL.",
       "related_artifacts": [],
       "related_claims": [
@@ -1581,7 +1611,9 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Person",
@@ -1682,7 +1714,9 @@
       "evidence_count": 0,
       "claim_count": 12,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -1699,7 +1733,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Topic",
@@ -1719,7 +1755,8 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1740,7 +1777,8 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1758,7 +1796,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     }
   ],
   "claims": [

@@ -1023,7 +1023,7 @@ The host's account, from her own source, that the rooftop runner wore a black ja
 
 **N-11319** Faumuina Family 1995 Hawaii Homicide Case
 
-Node Type: Topic
+Node Type: Event
 The 1995 Hawaii death of Misiona Faumuina, an uncle of Sgt. Jennifer Faumuina, which the host describes from news articles: an alleged gang initiation beating, manslaughter charges against three youths and conflicting accounts about his gang and church ties.
 
 *Related: C-11005, C-11006, C-11008, C-11009, C-11010*
@@ -1032,7 +1032,7 @@ The 1995 Hawaii death of Misiona Faumuina, an uncle of Sgt. Jennifer Faumuina, w
 
 **N-11320** Franklin Cover-Up Scandal
 
-Node Type: Topic
+Node Type: Event
 The Franklin credit union scandal in Omaha, Nebraska, which the host describes as a widely debated conspiracy theory over a $40 million fraud with claims of abuse by politicians and satanic ritual abuse.
 
 *Related: C-11045*
@@ -1041,7 +1041,7 @@ The Franklin credit union scandal in Omaha, Nebraska, which the host describes a
 
 **N-11321** Utah Statewide Camera Footage Gap
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's question why Utah's statewide camera network has produced no clear footage of Tyler Robinson on the day, his route on the rooftop or the shot itself.
 
 *Related: C-11046*

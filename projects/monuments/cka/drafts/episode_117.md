@@ -748,7 +748,7 @@ Said by the host to have artificially boosted Erika Kirk after the WHCD.
 
 **N-10907** Charlie Kirk Inside-Shirt Rode Mic Placement
 
-Node Type: Topic
+Node Type: Investigation Question
 Investigation target: why Charlie Kirk's Rode Wireless Pro transmitter was worn inside his shirt, with the magnetic clasp outside, on September 10. The host dates the inside placement to October 8, 2024 on the "You're Being Brainwashed" tour, after the wireless redundancy was added and earlier stops had it outside the shirt. She identifies Philip Goldsberry Jr. as the technician who fitted it, and audio professionals told her the placement makes no audio sense.
 
 *Related: C-10052, C-10053, C-10054, C-10055, C-10056, C-10059, C-10060, C-10061, C-10083, A-2680.1, A-2680.2, A-2682.1, A-2683.1, N-685, N-261*
@@ -783,14 +783,14 @@ Audio-visual company run by Terryl Farnsworth as CEO, long-time AV provider for 
 
 **N-10844** White House Military Office Erika Kirk Amplification Email
 
-Node Type: Topic
+Node Type: Thing
 Investigation target: the email the host says describes Erika Kirk as an "emotional asset" after the White House Correspondents' Dinner shooting. In this episode the host says it shows the WHCD messaging was staged and that the Department of War was artificially boosting Erika Kirk. She urges FOIA requests.
 
 *Related: C-10100, A-2689.1, N-2, N-10809*
 
 **N-10834** Erika Kirk WHCD Exit Video Staging Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Investigation target: who recorded the viral video of Erika Kirk leaving the White House Correspondents' Dinner. In this episode the host says her $10,000 bounty has still not identified the person, and that it was not the CNN reporter who posted it on Instagram.
 
 *Related: C-10101, A-2690.1, N-2*

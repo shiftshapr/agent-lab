@@ -759,11 +759,11 @@
   ],
   "nodes": [
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10144",
       "ref": "N-10144",
       "name": "Hospital Routing Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host assertion that Timpanogos Regional Hospital was not the closest trauma-equipped facility and that the hospital had just named Andrew Zenger as a new CEO/surgeon on the same day Charlie's tour was announced. Lacks displayed artifact in this episode; verification target.",
       "related_artifacts": [],
       "related_claims": [],
@@ -772,14 +772,15 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10666",
       "ref": "N-10666",
       "name": "Salt Lake City Hotel Identification Gap",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent inability to confirm which hotel the Turning Point USA team (including Erika Kirk) stayed at on the night of September 10, 2025; Blake Neff states he cannot recall.",
       "related_artifacts": [
         "A-2162.1",
@@ -793,14 +794,15 @@
       "evidence_count": 2,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10667",
       "ref": "N-10667",
       "name": "Utah Pre-Event Personnel Restructuring Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Cluster of Utah appointments in the months prior to the September 10, 2025 assassination: Beau Mason (June 19, 2025), Tony Graf (May 2025), medical examiner (July 2024), Andrew Zenger (August 18, 2025), Robert Bohls (September 2, 2025).",
       "related_artifacts": [
         "A-2158.1",
@@ -818,14 +820,15 @@
       "evidence_count": 4,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10668",
       "ref": "N-10668",
       "name": "Ballistics Narrative Contradiction (O'Neill/Holt)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Public on-camera rejection by a former SEAL Team Six sniper and an Air Force Brigadier General of the official .30-06 / spine-impact ballistics explanation.",
       "related_artifacts": [
         "A-2153.1",
@@ -840,14 +843,15 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10669",
       "ref": "N-10669",
       "name": "Rooftop Clothing Change Narrative",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Governor Cox's September 12, 2025 statement that the assassin changed clothes on the rooftop; not retracted or explained in subsequent official communications.",
       "related_artifacts": [
         "A-2154.1"
@@ -860,14 +864,16 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Question",
+      "parent": "N-10019"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10086",
       "ref": "N-10086",
       "name": "Screwdriver Evidence Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Recovery of a screwdriver on the rooftop with alleged shooter DNA; subsequent claim that the suspect disassembled the rifle on the roof contradicted by later discovery of the assembled weapon in the woods.",
       "related_artifacts": [
         "A-2155.1"
@@ -884,14 +890,16 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10106"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10636",
       "ref": "N-10636",
       "name": "Brian Harpole vs Frank Turek CPR Contradiction",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Brian Harpole asserts CPR was not performed in the vehicle; Frank Turek concedes he attempted CPR for the last 20–30 seconds of the ride and characterizes the divergence as emphasis rather than contradiction.",
       "related_artifacts": [
         "A-2161.1"
@@ -905,14 +913,15 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10670",
       "ref": "N-10670",
       "name": "Faumuina Media Presence Anomaly",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "A sworn state law enforcement officer with FBI JTTF assignment appearing as a presenter on Netflix's *Worst Roommate Ever* and later as a podcast guest.",
       "related_artifacts": [
         "A-2156.1"
@@ -924,14 +933,15 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10671",
       "ref": "N-10671",
       "name": "Fort Huachuca Connection Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Lt. Col. Kolvet's public X post denying any connection between his brother Andrew Kolvet and Fort Huachuca beyond a single 3-day MP unit training visit.",
       "related_artifacts": [
         "A-2163.1"
@@ -943,7 +953,9 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
       "@type": "Person",
@@ -1697,11 +1709,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Turning Point USA; its team's lodging and staff.",
       "related_artifacts": [],
       "related_claims": [
@@ -1715,14 +1727,16 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10019",
       "ref": "N-10019",
       "name": "Robinson Outfit Change Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Robinson Outfit Change Discrepancy; clothing questions.",
       "related_artifacts": [],
       "related_claims": [
@@ -1733,14 +1747,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10106"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10032",
       "ref": "N-10032",
       "name": "Decoy Boy Operation Analysis",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Decoy Boy Operation Analysis; the host's decoy theory.",
       "related_artifacts": [],
       "related_claims": [
@@ -1750,14 +1766,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10090",
       "ref": "N-10090",
       "name": "LDS Church",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "LDS Church; context for the host's Mormon territory remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1767,14 +1784,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10235",
       "ref": "N-10235",
       "name": "\"Mormon Mafia\" Allegation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the claims below.",
       "related_artifacts": [],
       "related_claims": [
@@ -1787,14 +1806,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10243",
       "ref": "N-10243",
       "name": "Flock LPR FOIA Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Flock LPR FOIA Investigation; camera network context.",
       "related_artifacts": [],
       "related_claims": [
@@ -1804,14 +1824,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10242"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10255",
       "ref": "N-10255",
       "name": "Tyler Robinson Washington County Surveillance Footage Gap",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the claims below.",
       "related_artifacts": [],
       "related_claims": [
@@ -1821,14 +1843,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10324",
       "ref": "N-10324",
       "name": "Terryl Farnsworth Camera Removal Justification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the claims below.",
       "related_artifacts": [],
       "related_claims": [
@@ -1838,14 +1861,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10096"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10325",
       "ref": "N-10325",
       "name": "Egyptian Planes Israel Flight Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the claims below.",
       "related_artifacts": [],
       "related_claims": [
@@ -1855,14 +1880,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10239"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10356",
       "ref": "N-10356",
       "name": "Farnsworth Family Political-Military Network",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the claims below.",
       "related_artifacts": [],
       "related_claims": [
@@ -1873,14 +1900,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10390",
       "ref": "N-10390",
       "name": "Fort Huachuca Erika Presence Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the claims below.",
       "related_artifacts": [],
       "related_claims": [
@@ -1890,14 +1918,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10494",
       "ref": "N-10494",
       "name": "Charlie Kirk Iran War Opposition (June 2025)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the claims below.",
       "related_artifacts": [],
       "related_claims": [
@@ -1908,14 +1938,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10593",
       "ref": "N-10593",
       "name": "Brian Harpole Lawsuit Coordination Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the claims below.",
       "related_artifacts": [],
       "related_claims": [
@@ -1925,14 +1956,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-10619",
       "ref": "N-10619",
       "name": "Shawn Ryan Show Interview Clip Bundle",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Existing topic reused for the claims below.",
       "related_artifacts": [],
       "related_claims": [
@@ -1942,14 +1974,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CreativeWork"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10625",
       "ref": "N-10625",
       "name": "Frank Turek CPR Claim Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the claims below.",
       "related_artifacts": [],
       "related_claims": [
@@ -1960,14 +1993,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10636"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10651",
       "ref": "N-10651",
       "name": "Blake Neff September 10th Movement Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the claims below.",
       "related_artifacts": [],
       "related_claims": [
@@ -1977,14 +2012,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10654",
       "ref": "N-10654",
       "name": "Abandoned Backpack / Jacket / Gloves Non-Testing Decision",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the claims below.",
       "related_artifacts": [],
       "related_claims": [
@@ -1996,14 +2032,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10665",
       "ref": "N-10665",
       "name": "Screwdriver Footage Graininess Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the claims below.",
       "related_artifacts": [],
       "related_claims": [
@@ -2014,14 +2051,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10086"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10678",
       "ref": "N-10678",
       "name": "Ben Shapiro 9/10 Lunch Meeting Identification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the claims below.",
       "related_artifacts": [],
       "related_claims": [
@@ -2032,14 +2071,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10698",
       "ref": "N-10698",
       "name": "Losee Center Gun Verification Gap",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the claims below.",
       "related_artifacts": [],
       "related_claims": [
@@ -2049,14 +2089,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10703",
       "ref": "N-10703",
       "name": "Screwdriver Narrative Evolution",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the claims below.",
       "related_artifacts": [],
       "related_claims": [
@@ -2066,14 +2107,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10086"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-11012",
       "ref": "N-11012",
       "name": "Kash Patel August 17 Omaha Trip FOIA Response",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Existing topic reused for the claims below.",
       "related_artifacts": [],
       "related_claims": [
@@ -2083,14 +2126,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CreativeWork",
+      "parent": "N-10194"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11046",
       "ref": "N-11046",
       "name": "US and Israel Iran War Betrayal Thesis",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the claims below.",
       "related_artifacts": [],
       "related_claims": [
@@ -2100,14 +2145,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11221",
       "ref": "N-11221",
       "name": "Utah Medical Examiner Office Departures to New York",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the claims below.",
       "related_artifacts": [],
       "related_claims": [
@@ -2117,7 +2163,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10175"
     },
     {
       "@type": "Person",
@@ -2175,14 +2223,15 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-11319",
       "ref": "N-11319",
       "name": "Faumuina Family 1995 Hawaii Homicide Case",
-      "type": "topic",
+      "type": "event",
       "description": "The 1995 Hawaii death of Misiona Faumuina, an uncle of Sgt. Jennifer Faumuina, which the host describes from news articles: an alleged gang initiation beating, manslaughter charges against three youths and conflicting accounts about his gang and church ties.",
       "related_artifacts": [],
       "related_claims": [
@@ -2196,14 +2245,17 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "1995"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-11320",
       "ref": "N-11320",
       "name": "Franklin Cover-Up Scandal",
-      "type": "topic",
+      "type": "event",
       "description": "The Franklin credit union scandal in Omaha, Nebraska, which the host describes as a widely debated conspiracy theory over a $40 million fraud with claims of abuse by politicians and satanic ritual abuse.",
       "related_artifacts": [],
       "related_claims": [
@@ -2213,14 +2265,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-11321",
       "ref": "N-11321",
       "name": "Utah Statewide Camera Footage Gap",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "The host's question why Utah's statewide camera network has produced no clear footage of Tyler Robinson on the day, his route on the rooftop or the shot itself.",
       "related_artifacts": [],
       "related_claims": [
@@ -2230,7 +2284,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Person",

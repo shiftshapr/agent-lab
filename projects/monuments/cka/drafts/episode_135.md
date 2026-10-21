@@ -686,7 +686,7 @@ Organization abbreviated IGDA in the transcript, with a games user research spec
 
 **N-11219** Guajardo Spouse Gamer and Furry Culture Question
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's inquiry into the medical examiner's wife, her gamer and furry culture research and online presence, and whether she overlaps with the Discord and gaming community around Tyler Robinson and Lance Twiggs.
 
 *Related: C-11606, C-11607, C-11609, C-11613, C-11616, C-11619*
@@ -695,7 +695,7 @@ The host's inquiry into the medical examiner's wife, her gamer and furry culture
 
 **N-11220** Erika Kirk Memorial Forgiveness Statement
 
-Node Type: Topic
+Node Type: Event
 Erika Kirk's "I forgive him" statement about Tyler Robinson at the memorial, which the host reinterprets as a conviction of him.
 
 *Related: C-11672, C-11673*

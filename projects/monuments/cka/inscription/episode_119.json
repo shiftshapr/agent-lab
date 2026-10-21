@@ -1291,11 +1291,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization whose campus, staff, faith division and evidence handling are discussed.",
       "related_artifacts": [],
       "related_claims": [
@@ -1309,14 +1309,16 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10053",
       "ref": "N-10053",
       "name": "Kirk-Israel Narrative Dispute",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Tucker Carlson's Israel-motive claim and Blake Neff's rebuttal.",
       "related_artifacts": [],
       "related_claims": [
@@ -1328,14 +1330,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10067",
       "ref": "N-10067",
       "name": "Daily Mail",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Host refers back to a Daily Mail article in which Erika Kirk's succession story began to shift.",
       "related_artifacts": [],
       "related_claims": [
@@ -1345,14 +1348,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10091",
       "ref": "N-10091",
       "name": "9/10 Eyewitness Pattern Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The chest-wound eyewitness accounts and the later neck-wound witnesses.",
       "related_artifacts": [
         "A-2699.1",
@@ -1371,14 +1376,15 @@
       "evidence_count": 3,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10143",
       "ref": "N-10143",
       "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The night-before message about abandoning the pro-Israel cause and Tucker Carlson's motive claim.",
       "related_artifacts": [
         "A-2704.1"
@@ -1391,14 +1397,16 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing",
+      "parent": "N-10053"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10156",
       "ref": "N-10156",
       "name": "SD Card Removal Narrative Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host rejects the theft explanation for Farnsworth taking the SD card.",
       "related_artifacts": [],
       "related_claims": [
@@ -1409,14 +1417,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10096"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10162",
       "ref": "N-10162",
       "name": "Josh Hammer Pre-Death Zoom Call Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The night-before Zoom call with Josh Hammer and a rabbi.",
       "related_artifacts": [],
       "related_claims": [
@@ -1427,14 +1437,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10186",
       "ref": "N-10186",
       "name": "TPUSA Succession Plan Disclosure Timeline",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Erika Kirk's evolving account of the succession plan.",
       "related_artifacts": [
         "A-2700.2"
@@ -1447,14 +1458,15 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10216",
       "ref": "N-10216",
       "name": "Autopsy Report and Evidence Access Asymmetry",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host says evidence such as the microphone and phone was returned to TPUSA and Erika Kirk.",
       "related_artifacts": [],
       "related_claims": [
@@ -1465,14 +1477,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10296",
       "ref": "N-10296",
       "name": "Mainstream Media Eyewitness Selection Pattern at UVU Event",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Politically connected witnesses who spoke to NBC News and other outlets.",
       "related_artifacts": [],
       "related_claims": [
@@ -1483,14 +1496,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10319",
       "ref": "N-10319",
       "name": "Andrew Kolvet Surgeon Bullet Description",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The \"Superman\" / \"man of steel\" bullet story that the host says Erika Kirk falsely blamed on Kolvet going rogue.",
       "related_artifacts": [],
       "related_claims": [
@@ -1500,14 +1514,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10324",
       "ref": "N-10324",
       "name": "Terryl Farnsworth Camera Removal Justification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Farnsworth's explanation that he did not want Erika to relive the death.",
       "related_artifacts": [],
       "related_claims": [
@@ -1519,14 +1534,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10096"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10356",
       "ref": "N-10356",
       "name": "Farnsworth Family Political-Military Network",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Farnsworth ties to Tyler Bowyer, Lori Frantzve and Visual Impulse personnel.",
       "related_artifacts": [],
       "related_claims": [
@@ -1539,14 +1556,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10371",
       "ref": "N-10371",
       "name": "Turning Point USA Faith Structure",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Erika Kirk's role limited to TPUSA Faith in Charlie's final presentation, per the host.",
       "related_artifacts": [],
       "related_claims": [
@@ -1556,14 +1574,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10417",
       "ref": "N-10417",
       "name": "TPUSA September 16 Corporate Call Framing Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Farnsworth standing behind Erika Kirk on the first staff Zoom call.",
       "related_artifacts": [],
       "related_claims": [
@@ -1573,14 +1592,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10468",
       "ref": "N-10468",
       "name": "Charlie Kirk Phone Access Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host says Charlie Kirk's phone was returned to Erika Kirk rather than kept in evidence.",
       "related_artifacts": [],
       "related_claims": [
@@ -1590,14 +1610,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10106",
       "ref": "N-10106",
       "name": "Tyler Robinson Evidence Gaps",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Host says TPUSA staff doubt Robinson acted alone and notes Erika Kirk's absence from the hearings.",
       "related_artifacts": [],
       "related_claims": [
@@ -1608,14 +1629,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10484",
       "ref": "N-10484",
       "name": "Arizona-Romania Pipeline Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Goldsberry family charity in Romania.",
       "related_artifacts": [],
       "related_claims": [
@@ -1625,14 +1647,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10374"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10506",
       "ref": "N-10506",
       "name": "Aubrey Termination Circumstances",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Aubrey's remark to Kolvet at her firing that nobody knows who Erika is.",
       "related_artifacts": [],
       "related_claims": [
@@ -1642,14 +1666,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10456"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10588",
       "ref": "N-10588",
       "name": "Harpole Limited-Purpose Public Figure Status",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Harpole's claim that he went on the Shawn Ryan Show only because of the host.",
       "related_artifacts": [],
       "related_claims": [
@@ -1659,14 +1685,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10593"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10606",
       "ref": "N-10606",
       "name": "Charlie Kirk Aspen Audio Authenticity Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host refers to the \"doctored footage\" of Charlie appointing Erika as CEO.",
       "related_artifacts": [],
       "related_claims": [
@@ -1676,14 +1704,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10671",
       "ref": "N-10671",
       "name": "Fort Huachuca Connection Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Emails suggesting the rigged microphone could have been assembled at Fort Huachuca.",
       "related_artifacts": [],
       "related_claims": [
@@ -1693,14 +1722,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10697",
       "ref": "N-10697",
       "name": "Shaped Charge / Exploding Microphone Hypothesis",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host's theory that a shaped charge in the redundant microphone was meant to hit Charlie's chest; endorsed by the EOD email.",
       "related_artifacts": [
         "A-2707.1"
@@ -1717,14 +1748,15 @@
       "evidence_count": 1,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10786",
       "ref": "N-10786",
       "name": "Erika Heaven-Focused Political Non-Answers / CEO Fitness",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Host's claim that Erika Kirk is scripted and coached.",
       "related_artifacts": [],
       "related_claims": [
@@ -1734,14 +1766,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10808",
       "ref": "N-10808",
       "name": "Las Vegas",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Location of Encounter Church, where Rob McCoy delivered the sermon.",
       "related_artifacts": [
         "A-2703.1"
@@ -1753,7 +1786,9 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "City",
+      "wikidata_class": "Q515"
     },
     {
       "@type": "Topic",
@@ -1777,7 +1812,8 @@
       "related_nodes": [
         "N-266",
         "N-224"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
       "@type": "Organization",
@@ -1810,14 +1846,16 @@
         "N-698",
         "N-699",
         "N-700"
-      ]
+      ],
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10918",
       "ref": "N-10918",
       "name": "Robert Golow Identification",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Investigation target: the background and September 10 role of Robert Golow, a Visual Impulse camera operator from Liberia. He was hired in 2024 when the redundant microphone was introduced, stood next to Terryl Farnsworth at the shooting and then ran off, and has never spoken publicly. The host asks for tips.",
       "related_artifacts": [
         "A-2708.1"
@@ -1834,14 +1872,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-700"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10919",
       "ref": "N-10919",
       "name": "Erika Kirk Staff Familiarity Discrepancy",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Investigation target: Erika Kirk said at an Illinois summit that she had a \"0% learning curve\" and knew all the staff by name. The host contrasts this with a post-Super Bowl call in which Erika said she wanted to learn employees' names, and with reports from current and former staff that she does not know them.",
       "related_artifacts": [
         "A-2700.1",
@@ -1859,14 +1898,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10920",
       "ref": "N-10920",
       "name": "Spousal CEO Succession Precedent Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Investigation target: the host's assertion that no wife in history has assumed her late husband's role as CEO and chairman. She says ChatGPT's examples (Ellen Gordon, Katharine Graham, Miriam Adelson) involved family-controlled companies or inherited shares.",
       "related_artifacts": [
         "A-2702.1"
@@ -1890,7 +1930,8 @@
         "N-703",
         "N-704",
         "N-298"
-      ]
+      ],
+      "schema_org": "Question"
     }
   ],
   "claims": [

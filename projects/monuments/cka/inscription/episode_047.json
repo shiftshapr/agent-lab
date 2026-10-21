@@ -1361,11 +1361,11 @@
       "investigative_pressure": "low"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10316",
       "ref": "N-10316",
       "name": "Tyler Robinson Prosecution Evidence Base",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Persistent question over what evidence exists beyond the charging affidavit; what investigators have shared with victim family; probable cause hearing scope.",
       "related_artifacts": [
         "A-1540.1"
@@ -1378,14 +1378,15 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10214",
       "ref": "N-10214",
       "name": "Mikey McCoy Post-Shooting Phone Call Sequence",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Contested sequence of Mikey McCoy's first calls; discrepancy between Blake Neff's narrative and the call logs.",
       "related_artifacts": [
         "A-1542.1",
@@ -1405,14 +1406,15 @@
         "N-190",
         "N-217",
         "N-159"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10317",
       "ref": "N-10317",
       "name": "Elizabeth McCoy Disappearance From Public Narrative",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Question over why Elizabeth McCoy has been removed from the publicly-circulated version of the post-shooting call sequence.",
       "related_artifacts": [
         "A-1543.1"
@@ -1428,14 +1430,16 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-217"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10214"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10318",
       "ref": "N-10318",
       "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Pre-incident messages received by Andrew Kolvet (\"they're going to kill me\") and Dan Flood (\"the left is going to kill me\"); authentication status.",
       "related_artifacts": [
         "A-1539.1"
@@ -1451,14 +1455,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10319",
       "ref": "N-10319",
       "name": "Andrew Kolvet Surgeon Bullet Description",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Question over Andrew Kolvet's contact with the operating surgeon; HIPAA implications; basis for the \"man of steel\" tweet.",
       "related_artifacts": [
         "A-1541.1",
@@ -1472,14 +1477,15 @@
       "evidence_count": 2,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10320",
       "ref": "N-10320",
       "name": "Bibi Netanyahu TPUSA Funding Offer",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Alleged offer to take TPUSA to next level; reported Charlie Kirk rejection; contradiction with Andrew Kolvet's $150 million denial.",
       "related_artifacts": [
         "A-1539.1"
@@ -1496,14 +1502,15 @@
       "related_nodes": [
         "N-36",
         "N-14"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10321",
       "ref": "N-10321",
       "name": "Tyler Robinson Rooftop Access Timeline",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Disputed earliest public date of UVU courtyard disclosure; August 27 vs September 2.",
       "related_artifacts": [
         "A-1544.2",
@@ -1522,14 +1529,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-331"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10322",
       "ref": "N-10322",
       "name": "Candace Owens Security Arrangement",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Question over Candace's security team and its relationship (or not) to Charlie Kirk's security apparatus.",
       "related_artifacts": [
         "A-1539.1",
@@ -1550,14 +1558,15 @@
       "related_nodes": [
         "N-267",
         "N-332"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10323",
       "ref": "N-10323",
       "name": "Hampton Retreat Seth Dillon Confrontation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Alleged confrontation between Seth Dillon and Charlie Kirk over hypothetical anti-Netanyahu tweet.",
       "related_artifacts": [
         "A-1539.1"
@@ -1572,14 +1581,16 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-38"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10129"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10324",
       "ref": "N-10324",
       "name": "Terryl Farnsworth Camera Removal Justification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Contested justification for removal of cameras at UVU event before shooting.",
       "related_artifacts": [
         "A-1539.1"
@@ -1594,14 +1605,16 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10096"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10325",
       "ref": "N-10325",
       "name": "Egyptian Planes Israel Flight Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Alleged pattern of Egyptian planes turning off transponders when flying in/out of Israel.",
       "related_artifacts": [
         "A-1539.1"
@@ -1611,14 +1624,16 @@
       "evidence_count": 1,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "low",
+      "schema_org": "Thing",
+      "parent": "N-10239"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10326",
       "ref": "N-10326",
       "name": "Rob McCoy TPUSA Affiliation Claim",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Question over whether Rob McCoy has any actual affiliation with TPUSA.",
       "related_artifacts": [
         "A-1539.1"
@@ -1633,14 +1648,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-17"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10327",
       "ref": "N-10327",
       "name": "Bari Weiss CBS Interview Question Selection",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Alleged pre-selection of questions at CBS interview; relationship to \"podcaster Candace Owens\" question.",
       "related_artifacts": [
         "A-1539.1"
@@ -1650,14 +1666,15 @@
       "evidence_count": 1,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "low",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10328",
       "ref": "N-10328",
       "name": "Charlie Kirk Catholicism Journey",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Charlie Kirk's reported attendance at mass and intent to begin Catholic conversion process.",
       "related_artifacts": [
         "A-1539.1",
@@ -1674,14 +1691,15 @@
       "related_nodes": [
         "N-2",
         "N-335"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10329",
       "ref": "N-10329",
       "name": "Candace Husband Qatari Passport Claim",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "New York Post allegation that Candace's husband holds Qatari passport/citizenship; contradicted by Candace.",
       "related_artifacts": [
         "A-1546.1"
@@ -1696,14 +1714,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-10819"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10330",
       "ref": "N-10330",
       "name": "Fort Huachuca Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Reported follow-up on Fort Huachuca air base and Baron Coleman video collaboration.",
       "related_artifacts": [
         "A-1551.2"
@@ -1716,14 +1735,15 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-330"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10192",
       "ref": "N-10192",
       "name": "TPUSA Wikipedia Rob McCoy Co-Founder Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Alleged Wikipedia update claiming Rob McCoy founded Turning Point USA Faith.",
       "related_artifacts": [
         "A-1539.1"
@@ -1736,14 +1756,15 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-17"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10331",
       "ref": "N-10331",
       "name": "George Zinn Self-Incriminating Hospital Statement",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Alleged statement by George Zinn to Utah Valley nurses that he was paid to claim to be the shooter.",
       "related_artifacts": [
         "A-1539.1"
@@ -1758,14 +1779,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-42"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10332",
       "ref": "N-10332",
       "name": "Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Alleged dispute over investigation of potential terrorist angle.",
       "related_artifacts": [
         "A-1539.1"
@@ -1782,14 +1804,15 @@
         "N-69",
         "N-329",
         "N-209"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10256",
       "ref": "N-10256",
       "name": "Harpole–Flood Text Attribution Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Claim that text message Brian Harpole showed on camera belonged to Dan Flood.",
       "related_artifacts": [
         "A-1539.1"
@@ -1799,14 +1822,15 @@
       "evidence_count": 1,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "low",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10333",
       "ref": "N-10333",
       "name": "UVU Walk-Through Disputed",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Allegation that no security walk-through was performed at UVU on incident day.",
       "related_artifacts": [
         "A-1539.1"
@@ -1816,7 +1840,8 @@
       "evidence_count": 1,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "low",
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1886,7 +1911,9 @@
       "related_nodes": [
         "N-10329"
       ],
-      "organization_kind": "media_outlet"
+      "organization_kind": "media_outlet",
+      "schema_org": "NewsMediaOrganization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Person",
@@ -2084,7 +2111,9 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "organization_kind": "media_org",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Person",
@@ -2104,11 +2133,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-11295",
       "ref": "N-11295",
       "name": "Candace-Erika December 15 Private Meeting Revelations",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "The roughly 4.5-hour private meeting between the host, Erika Kirk and Justin Streiff, and the surrounding dispute over why it was not livestreamed.",
       "related_artifacts": [],
       "related_claims": [
@@ -2132,7 +2161,8 @@
       "evidence_count": 0,
       "claim_count": 15,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
@@ -2149,7 +2179,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -2166,7 +2197,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -2184,7 +2216,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -2457,7 +2490,9 @@
       "evidence_count": 0,
       "claim_count": 8,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -2475,14 +2510,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-10018",
       "ref": "N-10018",
       "name": "Netanyahu Israel Invitation Phone Call",
-      "type": "topic",
+      "type": "event",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2492,7 +2529,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
       "@type": "Place",
@@ -2511,14 +2550,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10093",
       "ref": "N-10093",
       "name": "George Zinn Arrest Location/Timing",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2528,7 +2569,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
@@ -2546,7 +2588,9 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10320"
     },
     {
       "@type": "Topic",
@@ -2563,7 +2607,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -2580,7 +2625,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -2597,14 +2643,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10313",
       "ref": "N-10313",
       "name": "CBS Bari Weiss Town Hall Production Integrity",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2614,14 +2661,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10334",
       "ref": "N-10334",
       "name": "Surgeon Quotation Authenticity Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2631,14 +2679,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10783",
       "ref": "N-10783",
       "name": "Harpole Shawn Ryan Statements vs Independent Review Findings",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2648,7 +2697,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10762"
     },
     {
       "@type": "Topic",
@@ -2665,7 +2716,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Place",
@@ -2684,7 +2736,9 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
       "@type": "Organization",
@@ -2701,7 +2755,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     }
   ],
   "claims": [

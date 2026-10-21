@@ -833,7 +833,7 @@ First named by the host at 00:34:37 in episode 126. Account the host says the Ti
 
 **N-11114** Rooftop Video Missing Minute Question
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's statement that a minute was removed from the rooftop video shown in court, and the open question of what it showed.
 
 *Related: C-10809*
@@ -842,7 +842,7 @@ The host's statement that a minute was removed from the rooftop video shown in c
 
 **N-11115** Library 911 Calls and Lockdown
 
-Node Type: Topic
+Node Type: Event
 The string of 911 calls and dispatch reports about shots near the UVU library and the library lockdown, away from the Losee Center.
 
 *Related: C-10812, C-10813*
@@ -851,7 +851,7 @@ The string of 911 calls and dispatch reports about shots near the UVU library an
 
 **N-11116** Unfired .223 Round on Science Building
 
-Node Type: Topic
+Node Type: Thing
 Testimony the host cites about an unfired .223 round found atop the science building and the officers' answer about not acting on it.
 
 *Related: C-10814, C-10815*

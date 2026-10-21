@@ -626,7 +626,7 @@ Existing topic reused for new claims in this episode.
 
 **N-10954** Aurora Theater Shooting Pattern Inquiry
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's and Coleman's examination of the 2012 Aurora theater shooting, victim Jessica Ghawi and links to other shootings and military presence.
 
 *Related: C-5349, C-5351, C-5352, C-5353, C-5354, C-5355, C-5356, C-5357, C-5358, C-5359, C-5360*
@@ -821,7 +821,7 @@ Mikey McCoy; Coleman says Kirk ran emergency drills with him.
 
 **N-10957** Erika Kirk Foreknowledge Question
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's question and stated opinion on whether Erika Kirk knew Charlie Kirk would die the next day.
 
 *Related: C-5408*

@@ -493,11 +493,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10386",
       "ref": "N-10386",
       "name": "Project Looking Glass Allegation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigative target: claim that a US military/CIA device capable of viewing future timelines was shut down after 2012 convergence; supported by whistleblower Bill Wood testimony and a referenced CIA document.",
       "related_artifacts": [
         "A-1628.1",
@@ -516,14 +516,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-454"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10387",
       "ref": "N-10387",
       "name": "CERN Satantic Ritual Claim",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigative target: episode's presentation of a \"satanic human sacrifice\" at CERN grounds, CERN's \"prank\" framing, and host's challenge to that framing.",
       "related_artifacts": [
         "A-1629.1",
@@ -537,14 +538,15 @@
       "evidence_count": 2,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10388",
       "ref": "N-10388",
       "name": "Charlie Kirk Premonition Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Persistent investigative target across the series: Charlie Kirk's alleged foreknowledge (via text messages to Candace) that he would die young and that his death would relate to Turning Point USA.",
       "related_artifacts": [
         "A-1633.1",
@@ -561,14 +563,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10389",
       "ref": "N-10389",
       "name": "Daily Wire Stalking Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Investigative target: ongoing alleged \"gangstalking\" pattern by Daily Wire against Candace Owens, with the Egyptian Airways parody video (A-1631.1) cited as the latest escalation.",
       "related_artifacts": [
         "A-1631.1"
@@ -583,7 +586,8 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-3"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -846,11 +850,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization Charlie founded and in which the host says he knew he would die.",
       "related_artifacts": [],
       "related_claims": [
@@ -863,14 +867,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10060",
       "ref": "N-10060",
       "name": "Gaza",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Place at issue in the Pompeo clip.",
       "related_artifacts": [],
       "related_claims": [
@@ -882,14 +888,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Place"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10254",
       "ref": "N-10254",
       "name": "Macron Defamation Lawsuit Delaware Venue Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic for the Macron lawsuit the host calls a mistake.",
       "related_artifacts": [],
       "related_claims": [
@@ -899,14 +906,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10358",
       "ref": "N-10358",
       "name": "Daily Wire Show Targeting Candace Owens / Tucker Carlson",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic for the host's complaints about the Daily Wire.",
       "related_artifacts": [],
       "related_claims": [
@@ -917,14 +925,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10361",
       "ref": "N-10361",
       "name": "Missing Money from Turning Point Action",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic cited where the host describes Charlie telling them to take the money out of the organization.",
       "related_artifacts": [],
       "related_claims": [
@@ -934,14 +943,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10377",
       "ref": "N-10377",
       "name": "Candace Owens Dream Vision of Andrew Kolvet",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic for the host's dream that Charlie was betrayed.",
       "related_artifacts": [],
       "related_claims": [
@@ -951,14 +961,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10395",
       "ref": "N-10395",
       "name": "GATE / Gifted Education Program Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic for gifted-program claims about Charlie and commenters.",
       "related_artifacts": [],
       "related_claims": [
@@ -971,14 +982,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10397",
       "ref": "N-10397",
       "name": "Nick Fuentes Federal Informant Allegation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic for the claim that Fuentes is a federal informant.",
       "related_artifacts": [],
       "related_claims": [
@@ -990,14 +1002,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10423",
       "ref": "N-10423",
       "name": "Gaza Death Toll and Documentation Claims",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic for the host's claim that Palestinian deaths would be written out of textbooks.",
       "related_artifacts": [],
       "related_claims": [
@@ -1007,7 +1020,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1049,7 +1063,9 @@
       "evidence_count": 0,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q17558136"
     },
     {
       "@type": "Organization",
@@ -1066,7 +1082,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -1090,7 +1108,9 @@
       "evidence_count": 0,
       "claim_count": 8,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q31855"
     },
     {
       "@type": "Topic",
@@ -1111,7 +1131,8 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1130,7 +1151,8 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1148,7 +1170,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1165,7 +1188,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1184,7 +1208,8 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     }
   ],
   "claims": [

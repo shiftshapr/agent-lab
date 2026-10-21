@@ -1134,11 +1134,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization the host says blamed Jeff Long and is tied to the clipping campaign.",
       "related_artifacts": [],
       "related_claims": [
@@ -1154,14 +1154,16 @@
       "evidence_count": 0,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Site of the resignations the host reports.",
       "related_artifacts": [],
       "related_claims": [
@@ -1173,14 +1175,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10318",
       "ref": "N-10318",
       "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host says the official account is that Erika did not know about threats the night before.",
       "related_artifacts": [],
       "related_claims": [
@@ -1190,14 +1194,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10256",
       "ref": "N-10256",
       "name": "Harpole–Flood Text Attribution Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host says Harpole presented the Flood text as his own.",
       "related_artifacts": [
         "A-3365.1"
@@ -1211,14 +1216,15 @@
       "evidence_count": 1,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-10619",
       "ref": "N-10619",
       "name": "Shawn Ryan Show Interview Clip Bundle",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Harpole's Shawn Ryan clip replayed in this episode.",
       "related_artifacts": [
         "A-3365.1"
@@ -1232,14 +1238,15 @@
       "evidence_count": 1,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "CreativeWork"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-10762",
       "ref": "N-10762",
       "name": "Independent Review of UVU Security Failures",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Review the host cites on Harpole, Crofts and Ebmeyer.",
       "related_artifacts": [
         "A-3367.2",
@@ -1258,14 +1265,15 @@
       "evidence_count": 2,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Report"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10783",
       "ref": "N-10783",
       "name": "Harpole Shawn Ryan Statements vs Independent Review Findings",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host says the review confirmed Harpole misrepresented things.",
       "related_artifacts": [],
       "related_claims": [
@@ -1275,14 +1283,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10762"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10801",
       "ref": "N-10801",
       "name": "Monster Lab / Clippet",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Clipping site the host says is now blocked in the U.S.; Clip It LLC is its Wyoming filing per the host.",
       "related_artifacts": [
         "A-3362.1",
@@ -1304,14 +1314,16 @@
       "evidence_count": 3,
       "claim_count": 9,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10802",
       "ref": "N-10802",
       "name": "Elephant Clipping Campaign",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Campaign the host says became a go-to for Shapiro and Crowder.",
       "related_artifacts": [],
       "related_claims": [
@@ -1323,14 +1335,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10803",
       "ref": "N-10803",
       "name": "Enclave and Key",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Blake Wynn's firm; Atlantic reporting on drive deletions recalled.",
       "related_artifacts": [],
       "related_claims": [
@@ -1341,14 +1354,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10804",
       "ref": "N-10804",
       "name": "Anti-Candace Paid Clipping Campaign",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Host says the operator pays people to harass her; contrasts her own organic clips.",
       "related_artifacts": [],
       "related_claims": [
@@ -1359,14 +1374,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10807",
       "ref": "N-10807",
       "name": "Latvia",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Operator's home country per the host.",
       "related_artifacts": [],
       "related_claims": [
@@ -1378,14 +1394,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10808",
       "ref": "N-10808",
       "name": "Las Vegas",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Location of Wynn's firm and the TPUSA office the host recalls.",
       "related_artifacts": [],
       "related_claims": [
@@ -1396,14 +1414,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "City",
+      "wikidata_class": "Q515"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-10810",
       "ref": "N-10810",
       "name": "Atlantic Elephant Clipping Expose",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Atlantic article the host cites on drive deletions and the September 15 start.",
       "related_artifacts": [],
       "related_claims": [
@@ -1414,14 +1434,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Article",
+      "parent": "N-10802"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10812",
       "ref": "N-10812",
       "name": "Erika Kirk September 15 2025 Google Drive Clip Seed",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Host says per the Atlantic the campaign began September 15.",
       "related_artifacts": [],
       "related_claims": [
@@ -1434,14 +1456,17 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-09-15"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10820",
       "ref": "N-10820",
       "name": "Paramount Tactical",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Gary Melton's account in the Ian Carroll exchange.",
       "related_artifacts": [
         "A-3369.1"
@@ -1455,14 +1480,16 @@
       "evidence_count": 1,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-10785",
       "ref": "N-10785",
       "name": "Vanity Fair Erika Kirk Profile (Clara Molot)",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Host cites it as saying the sun revolved around Charlie at TPUSA.",
       "related_artifacts": [],
       "related_claims": [
@@ -1472,14 +1499,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Article"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-11005",
       "ref": "N-11005",
       "name": "TPUSA Notice of Intent to Sue UVU",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Host says Kolvet blamed Long after the Kirk family filed intent to sue.",
       "related_artifacts": [
         "A-3366.1"
@@ -1491,14 +1519,15 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CreativeWork"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-11009",
       "ref": "N-11009",
       "name": "Wear Forbidden",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Account whose parody video the host plays.",
       "related_artifacts": [
         "A-3360.1"
@@ -1510,14 +1539,15 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CreativeWork"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11131",
       "ref": "N-11131",
       "name": "UVU Security Team Conduct and Ticket-Count Communication",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Host says TPUSA controlled tickets and told Long 600 people.",
       "related_artifacts": [
         "A-3367.1"
@@ -1530,14 +1560,15 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11275",
       "ref": "N-11275",
       "name": "Chabad Lubavitch",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Host ties Kolomoisky to Chabad-Lubavitch.",
       "related_artifacts": [],
       "related_claims": [
@@ -1547,14 +1578,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-11328",
       "ref": "N-11328",
       "name": "Blake Neff \"Murdering Charlie\" Slip",
-      "type": "topic",
+      "type": "event",
       "description": "Blake Neff's X space remark that the host would \"hate Erika for murdering Charlie\", which another participant said meant \"marrying\"; framed by the host as a Freudian slip alongside Kolvet's \"processing their guilt\".",
       "related_artifacts": [
         "A-3359.2",
@@ -1577,7 +1610,9 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-159"
-      ]
+      ],
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
       "@type": "Topic",
@@ -1601,7 +1636,9 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-10801"
-      ]
+      ],
+      "schema_org": "Thing",
+      "parent": "N-10801"
     },
     {
       "@type": "Topic",
@@ -1629,14 +1666,16 @@
       "related_nodes": [
         "N-351",
         "N-949"
-      ]
+      ],
+      "schema_org": "Thing",
+      "parent": "N-10801"
     },
     {
-      "@type": "Topic",
+      "@type": "Thing",
       "@id": "N-11331",
       "ref": "N-11331",
       "name": "Pandora Papers",
-      "type": "topic",
+      "type": "thing",
       "description": "The 2021 ICIJ leak of about 12 million offshore financial records; the host links the Clip It LLC registered agent to Pandora Papers reporting on Wyoming registered agents.",
       "related_artifacts": [
         "A-3363.3",
@@ -1661,7 +1700,8 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-11332"
-      ]
+      ],
+      "schema_org": "CreativeWork"
     },
     {
       "@type": "Organization",
@@ -1683,7 +1723,9 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-11331"
-      ]
+      ],
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Topic",
@@ -1708,14 +1750,16 @@
       "related_nodes": [
         "N-271",
         "N-750"
-      ]
+      ],
+      "schema_org": "Thing",
+      "parent": "N-10762"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-11334",
       "ref": "N-11334",
       "name": "TPUSA Las Vegas Office Opening",
-      "type": "topic",
+      "type": "event",
       "description": "The host's recollection that TPUSA, with Erika Kirk, opened an office in Las Vegas, possibly in March.",
       "related_artifacts": [],
       "related_claims": [
@@ -1728,7 +1772,10 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-10808"
-      ]
+      ],
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "place": "N-10808"
     }
   ],
   "claims": [

@@ -839,7 +839,7 @@ French aircraft-painting company, rendered Satys in the transcript, that announc
 
 **N-10929** Hall of Flags Activity Question
 
-Node Type: Topic
+Node Type: Investigation Question
 
 Persistent investigative target on what was happening in the Hall of Flags at UVU on September 10, 2025, why Turning Point security focused on controlled access there, and why a student posting videos was inside it.
 
@@ -869,7 +869,7 @@ Dated timeline of the Macron side's cease and desist letters, the Becoming Brigi
 
 **N-10932** Tyler Robinson Surrender Narrative Dispute
 
-Node Type: Topic
+Node Type: Investigation Question
 
 Persistent investigative target on how Tyler Robinson came into custody, including the father-turned-in story the host disputes and the missing sheriff's-office surrender footage.
 

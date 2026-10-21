@@ -939,7 +939,7 @@ Existing topic reused for the Australia visa claim.
 
 **N-11135** Charlie Kirk Security Company Ownership Question
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's statement that Charlie Kirk owned, and purchased outright, the security company around him, and that it did not check rooftops.
 
 *Related: C-1593, C-1594*

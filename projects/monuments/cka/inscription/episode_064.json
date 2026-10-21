@@ -406,11 +406,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10415",
       "ref": "N-10415",
       "name": "Hamptons Summit / Netanyahu Funding Offer Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent discrepancy between Andrew Kolvet's account (Netanyahu offered to fund TPUSA \"to the next level\") and Erika Kirk's account (no funding offer was made; Bibi was calling about a May letter) regarding the Hamptons retreat phone call.",
       "related_artifacts": [],
       "related_claims": [],
@@ -421,14 +421,16 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10320"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10416",
       "ref": "N-10416",
       "name": "Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent discrepancy regarding whether Dr. Lee Trotter acted independently and violated HIPAA, or whether Erika Kirk was present on a three-way call with the surgeon on the day of Charlie Kirk's funeral mass, and whether the \"Superman neck\" statement originated from her.",
       "related_artifacts": [],
       "related_claims": [],
@@ -439,14 +441,15 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10417",
       "ref": "N-10417",
       "name": "TPUSA September 16 Corporate Call Framing Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Investigation target concerning Erika Kirk's \"family\" / job-safety framing of TPUSA staff in the September 16 Zoom call, juxtaposed by host against subsequent employee terminations she reports learning about from ex-staff.",
       "related_artifacts": [
         "A-1686.2",
@@ -466,14 +469,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10418",
       "ref": "N-10418",
       "name": "Daily Wire Hungary Production Expenditure Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target concerning the financial scale and rationale of Daily Wire's Hungary-based production, including reporting that it involved approximately 100 extras, marsh sequences, transport to Italy, and bulls imported from Spain.",
       "related_artifacts": [
         "A-1689.1"
@@ -489,14 +493,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-366"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10419",
       "ref": "N-10419",
       "name": "Fort Huachuca PR Response Coordination Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent question regarding coordination between Erika Kirk and Andrew Kolvet on the Fort Huachuca PR response, allegedly routed through Paramount Tactical rather than directly to Candace Owens following their four-hour sit-down.",
       "related_artifacts": [],
       "related_claims": [],
@@ -507,7 +512,9 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
       "@type": "Person",
@@ -722,11 +729,11 @@
       "investigative_pressure": "low"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Employer in the firing, call and PR claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -748,14 +755,16 @@
       "evidence_count": 0,
       "claim_count": 13,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10027",
       "ref": "N-10027",
       "name": "The Hamptons",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Location of the retreat where the Netanyahu call occurred.",
       "related_artifacts": [],
       "related_claims": [
@@ -766,14 +775,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10071",
       "ref": "N-10071",
       "name": "Provo, Utah",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Airport where the host says Kolvet and Erika met on the tarmac.",
       "related_artifacts": [],
       "related_claims": [
@@ -783,14 +793,17 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "City",
+      "wikidata_class": "Q515",
+      "parent": "N-10120"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10225",
       "ref": "N-10225",
       "name": "Daily Wire Intern Covert Recording Operation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -802,14 +815,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10319",
       "ref": "N-10319",
       "name": "Andrew Kolvet Surgeon Bullet Description",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -821,14 +835,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10320",
       "ref": "N-10320",
       "name": "Bibi Netanyahu TPUSA Funding Offer",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -838,14 +853,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10324",
       "ref": "N-10324",
       "name": "Terryl Farnsworth Camera Removal Justification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -855,14 +871,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10096"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10389",
       "ref": "N-10389",
       "name": "Daily Wire Stalking Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -874,14 +892,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10408",
       "ref": "N-10408",
       "name": "TPUSA Termination Cause Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -891,14 +910,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10421",
       "ref": "N-10421",
       "name": "Candace Owens Anti-Semite of Year 2024 Nomination",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -908,14 +928,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10456",
       "ref": "N-10456",
       "name": "TPUSA Post-Charlie Loyalty-Test Termination Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -931,14 +952,15 @@
       "evidence_count": 0,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10502",
       "ref": "N-10502",
       "name": "Tarmac Hug Account Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -952,14 +974,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10507",
       "ref": "N-10507",
       "name": "Andrew Kolvet 9/10 Flight Itinerary",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -970,14 +993,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10513",
       "ref": "N-10513",
       "name": "Stacy Sheridan September 10 Location Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -987,14 +1011,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10627",
       "ref": "N-10627",
       "name": "Daily Wire Financial Status and IPO Effort",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1006,14 +1031,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10820",
       "ref": "N-10820",
       "name": "Paramount Tactical",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Gary Melton's YouTube channel that handled the Fort Huachuca response and appeared on Kirk's show.",
       "related_artifacts": [],
       "related_claims": [
@@ -1025,14 +1051,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10821",
       "ref": "N-10821",
       "name": "Daily Wire",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Company at the center of the Boreing allegations.",
       "related_artifacts": [],
       "related_claims": [
@@ -1053,14 +1081,16 @@
       "evidence_count": 0,
       "claim_count": 12,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10920",
       "ref": "N-10920",
       "name": "Spousal CEO Succession Precedent Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1070,14 +1100,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10934",
       "ref": "N-10934",
       "name": "TPUSA Post-Assassination Merchandise Revenue Claim",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1087,14 +1118,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11002",
       "ref": "N-11002",
       "name": "TPUSA Leak Hunt and Employee Firings",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1107,14 +1139,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing",
+      "parent": "N-10000"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11010",
       "ref": "N-11010",
       "name": "Erika CEO Appointment Timing Explanation (DeGroote versus TPUSA PR Source)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1126,14 +1160,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11034",
       "ref": "N-11034",
       "name": "Candace Owens Daily Wire Firing Reasons",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1150,14 +1185,15 @@
       "evidence_count": 0,
       "claim_count": 8,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-11096",
       "ref": "N-11096",
       "name": "TPUSA Cease and Desist Letter to Candace Owens",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Existing topic reused for new claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1168,14 +1204,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CreativeWork"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11098",
       "ref": "N-11098",
       "name": "TPUSA Crisis PR Team",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization reused for new claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1186,14 +1223,17 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229",
+      "parent": "N-10000"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11107",
       "ref": "N-11107",
       "name": "Pre-Born",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Sponsor of the ad read.",
       "related_artifacts": [],
       "related_claims": [
@@ -1203,7 +1243,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Person",
@@ -1458,11 +1500,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-11159",
       "ref": "N-11159",
       "name": "Erika Kirk Utah Companions and Family Absence Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "The host's questions about who accompanied Erika Kirk in Utah on September 10 and afterward, including the claim that no relatives were present and Stacy Sheridan was beside her.",
       "related_artifacts": [],
       "related_claims": [
@@ -1479,7 +1521,8 @@
       "evidence_count": 0,
       "claim_count": 8,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
@@ -1499,7 +1542,8 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     }
   ],
   "claims": [

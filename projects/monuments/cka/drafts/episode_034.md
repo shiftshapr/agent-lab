@@ -806,7 +806,7 @@ First named by the host at 00:45:45 in episode 34 (spelled Churnick in the trans
 
 **N-10926** Joyce Churnick Donor Identification
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's identification of the donor she says yelled and withdrew a million dollars after Charlie Kirk let Tucker Carlson speak at the July 2025 TPUSA event.
 
 *Related: C-3039*
@@ -831,7 +831,7 @@ First named by the host at 00:49:25 in episode 34 (as JFK). Cited in the host's 
 
 **N-10927** Alleged Shooter Residence Vehicle Cluster
 
-Node Type: Topic
+Node Type: Investigation Question
 Viewer tips and the host's request for footage about many vehicles reportedly parked at the alleged shooter's home between September 4 and September 10, 2025, and whether they match the five rented vehicles.
 
 *Related: C-3043, C-3044*

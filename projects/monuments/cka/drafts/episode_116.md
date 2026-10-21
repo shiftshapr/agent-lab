@@ -645,21 +645,21 @@ Federal department the host says accused her of clickbait through the FBI's rapi
 
 **N-10905** September 10 UVU Event Live Stream to TPUSA Office Verification
 
-Node Type: Topic
+Node Type: Investigation Question
 Investigation target: whether the September 10 UVU event was actually being live streamed back to the Turning Point USA office, as Terryl Farnsworth told the host. The host says no one at TPUSA has confirmed watching that live stream.
 
 *Related: C-10016, N-261, N-10000*
 
 **N-10906** Accurate Energetic Systems Explosion (Hickman County, Tennessee)
 
-Node Type: Topic
+Node Type: Event
 Investigation target: the October 10 explosion at Accurate Energetic Systems, a maker of military and demolition explosives about 60 miles west of Nashville, which the host says killed 16 employees. The host says some believe it could be where a rigged device was assembled, or a way to hide evidence, and asks for tips.
 
 *Related: C-10017, C-10018, C-10019, A-2673.1*
 
 **N-10844** White House Military Office Erika Kirk Amplification Email
 
-Node Type: Topic
+Node Type: Thing
 Investigation target: the email the host says went out about an hour after the White House Correspondents' Dinner shooting, which sought to boost Erika Kirk's video and called her an "emotional asset," and the host's FOIA request for emails naming Erika Kirk.
 
 *Related: C-10021, C-10022, N-2, N-10809*

@@ -994,11 +994,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization whose executives have not answered the host's question on whether the appointment video is doctored; its X account shared her email instead.",
       "related_artifacts": [
         "A-2630.3"
@@ -1014,14 +1014,16 @@
       "evidence_count": 1,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10008",
       "ref": "N-10008",
       "name": "YWLS Conference",
-      "type": "investigation_target",
+      "type": "event",
       "description": "The 2026 Young Women's Leadership Summit, where Dana Loesch spoke and from which the host says Erika Kirk left early.",
       "related_artifacts": [
         "A-2628.2"
@@ -1036,14 +1038,16 @@
       "evidence_count": 1,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10065",
       "ref": "N-10065",
       "name": "NSA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Redirected the host's FOIA request on the \"emotional asset\" email to the Department of War.",
       "related_artifacts": [
         "A-2631.1"
@@ -1055,14 +1059,16 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10070",
       "ref": "N-10070",
       "name": "AIPAC",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Named by the host (\"Apac\") as effectively ousting Thomas Massie.",
       "related_artifacts": [],
       "related_claims": [
@@ -1072,14 +1078,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10328",
       "ref": "N-10328",
       "name": "Charlie Kirk Catholicism Journey",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Context for the host's allegation that Erika Kirk directed Andrew Kolvet to say Charlie only liked the architecture of the Catholic Church.",
       "related_artifacts": [],
       "related_claims": [
@@ -1089,14 +1097,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10384",
       "ref": "N-10384",
       "name": "Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Context for the host's statement that Greg Laurie is accused in court of trafficking people from Romania.",
       "related_artifacts": [],
       "related_claims": [
@@ -1106,14 +1115,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10374"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10239",
       "ref": "N-10239",
       "name": "Egyptian Military Plane Tracking Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The host says Erika Kirk laughed at the Egyptian planes' departure times on the day of the assassination.",
       "related_artifacts": [],
       "related_claims": [
@@ -1123,14 +1134,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10478",
       "ref": "N-10478",
       "name": "Next Model Management / Erika Kirk Connection",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Context for the host's allegation about Erika Kirk and Jeffrey Epstein's orbit at Next Model Management.",
       "related_artifacts": [],
       "related_claims": [
@@ -1140,14 +1152,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10496",
       "ref": "N-10496",
       "name": "Strait of Hormuz / US-Iran War Context",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Context for the host's paraphrase of Trump on bombing bridges in Iran.",
       "related_artifacts": [],
       "related_claims": [
@@ -1157,14 +1170,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10582",
       "ref": "N-10582",
       "name": "WHCD Incident Reconstruction",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Context for Erika Kirk's attendance at the White House Correspondents' Dinner and the shooting incident.",
       "related_artifacts": [],
       "related_claims": [
@@ -1175,14 +1189,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10637",
       "ref": "N-10637",
       "name": "Pending FOIA Requests",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Cluster of FOIA requests filed by the host's team; this episode reports the NSA redirect and the Department of War \"burden\" reply on the \"emotional asset\" email.",
       "related_artifacts": [
         "A-2631.1"
@@ -1197,14 +1212,15 @@
       "evidence_count": 1,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10809",
       "ref": "N-10809",
       "name": "Department of War",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Received the redirected FOIA request and replied that it was too burdensome; the host says it was directing people to boost Erika Kirk.",
       "related_artifacts": [
         "A-2631.1",
@@ -1222,14 +1238,16 @@
       "evidence_count": 3,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "GovernmentOrganization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10820",
       "ref": "N-10820",
       "name": "Paramount Tactical",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Transcript \"Paramount Not So Tactical\" / \"Paramount Tactical\". The host says the account accidentally exposed its use of ChatGPT and its place in an influencer network.",
       "related_artifacts": [],
       "related_claims": [
@@ -1239,14 +1257,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "Topic",
+      "@type": "Thing",
       "@id": "N-10844",
       "ref": "N-10844",
       "name": "White House Military Office Erika Kirk Amplification Email",
-      "type": "topic",
+      "type": "thing",
       "description": "Investigation target: the internal email the host says described Erika Kirk as an \"emotional asset\" about an hour after the WHCD shooting and directed people to boost her \"I want to go home\" video. In this episode the host says Andrew Kolvet hosted Graham Allen to claim it was fake. She also says her FOIA request about it was redirected from the NSA to the Department of War, which called the request too burdensome.",
       "related_artifacts": [],
       "related_claims": [
@@ -1265,7 +1285,9 @@
       "related_nodes": [
         "N-10809",
         "N-10637"
-      ]
+      ],
+      "schema_org": "Message",
+      "parent": "N-10582"
     },
     {
       "@type": "Place",
@@ -1288,7 +1310,9 @@
       "evidence_count": 2,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Place",
+      "wikidata_class": "Q23442"
     },
     {
       "@type": "Organization",
@@ -1305,14 +1329,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10878",
       "ref": "N-10878",
       "name": "Charlie Kirk WLS \"I Appoint My Wife\" Video Authenticity Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Investigation target: whether the video released from the WLS event, in which Charlie Kirk appears to appoint Erika Kirk to run Turning Point USA in his absence, is authentic, complete and in context. The host has emailed TPUSA executives for an on-record yes or no and has received no answer. She names the donors who asked the question as Julie and Arthur Fields, and says a donor source asserts the video is doctored.",
       "related_artifacts": [
         "A-2630.1",
@@ -1334,14 +1360,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-10186"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10186",
       "ref": "N-10186",
       "name": "TPUSA Succession Plan Disclosure Timeline",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Related prior topic on how and when TPUSA's succession plan was disclosed.",
       "related_artifacts": [],
       "related_claims": [
@@ -1351,7 +1378,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
@@ -1372,7 +1400,8 @@
       "related_nodes": [
         "N-579",
         "N-10070"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
       "@type": "Organization",
@@ -1394,7 +1423,9 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-178"
-      ]
+      ],
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
       "@type": "Topic",
@@ -1418,7 +1449,8 @@
       "related_nodes": [
         "N-10879",
         "N-10876"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
       "@type": "Organization",
@@ -1441,7 +1473,9 @@
       "evidence_count": 1,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q41298"
     }
   ],
   "claims": [

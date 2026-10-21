@@ -319,7 +319,7 @@ Confidence Level: High
 
 **N-10619** Shawn Ryan Show Interview Clip Bundle
 
-Node Type: topic
+Node Type: Thing
 
 *Related:*
 
@@ -868,7 +868,7 @@ First named by the host at 00:57:35 in episode 120, while reading a viewer comme
 
 **N-10971** Charlie Kirk Handheld Microphone Custody
 
-Node Type: Topic
+Node Type: Investigation Question
 Persistent target: where Charlie Kirk's handheld microphone went after the shooting, including the host's claim that it was not kept in evidence and was displayed in glass at a Mar-a-Lago fundraiser.
 
 *Related: C-10228, C-10303*
@@ -877,7 +877,7 @@ Persistent target: where Charlie Kirk's handheld microphone went after the shoot
 
 **N-10972** Bomb Dog Deployment at the Crime Scene
 
-Node Type: Topic
+Node Type: Event
 Persistent target: whether bomb-detection dogs were kept away from the UVU crime scene, as the host lists in her exploding-mic evidence chart.
 
 *Related: C-10252*
@@ -886,7 +886,7 @@ Persistent target: whether bomb-detection dogs were kept away from the UVU crime
 
 **N-10973** Tyler Robinson Gunshot Residue Test Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Persistent target: whether a standard gunshot residue test was performed on Tyler Robinson when he was brought in, which the host says was not done.
 
 *Related: C-10253*
@@ -895,7 +895,7 @@ Persistent target: whether a standard gunshot residue test was performed on Tyle
 
 **N-10974** Erika Kirk Employee Statement Contradiction
 
-Node Type: Topic
+Node Type: Investigation Question
 Persistent target: the host's comparison of Erika Kirk's January conference-call remarks to employees with her June remarks to donors about whether she already knew the staff and departments.
 
 *Related: C-10287, C-10288*

@@ -512,7 +512,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 
 **N-11161** Netanyahu Erika Kirk Shapiro Palm Beach Filming Cancellation
 
-Node Type: Topic
+Node Type: Event
 Host-alleged joint filming of Benjamin Netanyahu, Erika Kirk and Ben Shapiro scheduled in Palm Beach weeks before this episode, possibly for the Super Bowl, which was canceled at the last second.
 
 *Related: C-6450*

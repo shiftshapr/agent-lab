@@ -686,7 +686,7 @@ The profile's and the host's account that TPUSA chased leaks to the host, fired 
 
 **N-11003** Night-Before Security Recommendations Discussion
 
-Node Type: Topic
+Node Type: Event
 DeGroote's account, read from the profile, that on the night before the assassination Charlie discussed security recommendations including bulletproof glass shields and vests with Erika and their pastor.
 
 *Related: C-13673*
@@ -704,7 +704,7 @@ The host's claim, from a source, that the priest told people there were marital 
 
 **N-11005** TPUSA Notice of Intent to Sue UVU
 
-Node Type: Topic
+Node Type: Thing
 The host's account of a sloppily filed TPUSA notice that it intends to sue UVU despite not participating in the independent review.
 
 *Related: C-13684*
@@ -740,7 +740,7 @@ The host's prediction that judges and lawyers acting for the state, which she ca
 
 **N-11009** Wear Forbidden
 
-Node Type: Organization
+Node Type: Thing
 Account whose parody video of a smear strategy meeting the host plays at the end of the episode.
 
 *Related: C-13720, C-13721*

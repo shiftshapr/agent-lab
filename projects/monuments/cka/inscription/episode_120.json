@@ -486,11 +486,11 @@
   ],
   "nodes": [
     {
-      "@type": "Topic",
+      "@type": "Thing",
       "@id": "N-10619",
       "ref": "N-10619",
       "name": "Shawn Ryan Show Interview Clip Bundle",
-      "type": "topic",
+      "type": "thing",
       "description": "",
       "related_artifacts": [],
       "related_claims": [],
@@ -498,7 +498,8 @@
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "low",
+      "schema_org": "CreativeWork"
     },
     {
       "@type": "Person",
@@ -563,11 +564,11 @@
       ]
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10643",
       "ref": "N-10643",
       "name": "Missing Charlie's Shirt Investigation Target",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target: whether Charlie's \"freedom shirt\" – predicted to retain explosive residue under the mic-explosion hypothesis – was preserved as evidence or otherwise disposed of.",
       "related_artifacts": [
         "A-2085.1"
@@ -586,14 +587,15 @@
       "related_nodes": [
         "N-1",
         "N-10136"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10615",
       "ref": "N-10615",
       "name": "Sara Tewell Witness Statement Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Contradiction node: chest/heart vs. neck wound location and 200-yard shooter distance claim, across three successive Sara Tewell interviews.",
       "related_artifacts": [
         "A-2086.1",
@@ -613,14 +615,15 @@
       "related_nodes": [
         "N-1",
         "N-10137"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10616",
       "ref": "N-10616",
       "name": "SUV Floorboard Shard Mic Identification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target: whether the black shards visible on the SUV floorboard are ABS shards from a Rode Wireless Pro microphone or from another source.",
       "related_artifacts": [
         "A-2087.1",
@@ -641,14 +644,16 @@
       "related_nodes": [
         "N-1",
         "N-10138"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10641"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10617",
       "ref": "N-10617",
       "name": "Lance Twiggs Preliminary Hearing Testimony Limitation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Target: court ruling permitting Twiggs's recorded statement at the preliminary hearing without live cross-examination.",
       "related_artifacts": [
         "A-2092.1"
@@ -664,14 +669,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-40"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10618",
       "ref": "N-10618",
       "name": "Erika Signature Change Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Target: observable transformation of Erika Kirk's signature between her Miss Arizona era and current usage.",
       "related_artifacts": [
         "A-2091.1",
@@ -687,7 +693,8 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1101,11 +1108,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization the host says never answered a request for comment on the Next Model Management tip.",
       "related_artifacts": [],
       "related_claims": [
@@ -1116,14 +1123,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10100",
       "ref": "N-10100",
       "name": "Catholic Conversion Rumor",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's account of Erika presenting as Catholic after Charlie's death.",
       "related_artifacts": [],
       "related_claims": [
@@ -1134,14 +1143,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10103",
       "ref": "N-10103",
       "name": "Crime Scene Pavers",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the soil removal and paving claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1151,14 +1161,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10106",
       "ref": "N-10106",
       "name": "Tyler Robinson Evidence Gaps",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's list of missing evidence in the Robinson case.",
       "related_artifacts": [],
       "related_claims": [
@@ -1169,14 +1180,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10226",
       "ref": "N-10226",
       "name": "Timpanogos Hospital Footage Seizure Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the claim that Kash Patel took hospital camera footage.",
       "related_artifacts": [],
       "related_claims": [
@@ -1186,14 +1198,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10524"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10239",
       "ref": "N-10239",
       "name": "Egyptian Military Plane Tracking Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's Egyptian planes remarks.",
       "related_artifacts": [],
       "related_claims": [
@@ -1204,14 +1218,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10300",
       "ref": "N-10300",
       "name": ".30-06 Forensic Narrative Validity",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the viewer comment questioning the .30-06 narrative.",
       "related_artifacts": [],
       "related_claims": [
@@ -1221,14 +1236,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10316",
       "ref": "N-10316",
       "name": "Tyler Robinson Prosecution Evidence Base",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the sources of evidence against Robinson.",
       "related_artifacts": [],
       "related_claims": [
@@ -1240,14 +1256,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10319",
       "ref": "N-10319",
       "name": "Andrew Kolvet Surgeon Bullet Description",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the \"Superman neck\" statement.",
       "related_artifacts": [],
       "related_claims": [
@@ -1257,14 +1274,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10324",
       "ref": "N-10324",
       "name": "Terryl Farnsworth Camera Removal Justification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the camera removal claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1274,14 +1292,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10096"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10328",
       "ref": "N-10328",
       "name": "Charlie Kirk Catholicism Journey",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the claim that Charlie loved the Catholic Church.",
       "related_artifacts": [],
       "related_claims": [
@@ -1291,14 +1311,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10374",
       "ref": "N-10374",
       "name": "Romania / Eastern Europe Trafficking Cluster",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's claim about trafficking from Eastern Europe through modeling agencies.",
       "related_artifacts": [],
       "related_claims": [
@@ -1308,14 +1329,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10416",
       "ref": "N-10416",
       "name": "Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Superman neck tweet.",
       "related_artifacts": [],
       "related_claims": [
@@ -1325,14 +1347,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10462",
       "ref": "N-10462",
       "name": "Erika Kirk Real Estate License Timing Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the New York real estate license discussion.",
       "related_artifacts": [],
       "related_claims": [
@@ -1342,14 +1365,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10478",
       "ref": "N-10478",
       "name": "Next Model Management / Erika Kirk Connection",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the new tips and witness reports on Erika's alleged role.",
       "related_artifacts": [],
       "related_claims": [
@@ -1368,14 +1392,15 @@
       "evidence_count": 0,
       "claim_count": 10,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10492",
       "ref": "N-10492",
       "name": "Charlie Kirk Necklace / Magnet Clasp Examination",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the necklace custody claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1386,14 +1411,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10532",
       "ref": "N-10532",
       "name": "Tyler Robinson Defense – Chain of Custody / Documents",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the defense's lack of access to the text messages.",
       "related_artifacts": [],
       "related_claims": [
@@ -1403,14 +1429,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10106"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10545",
       "ref": "N-10545",
       "name": "Lance Twiggs Federal Asset Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the host's questions about why Twiggs was not held.",
       "related_artifacts": [],
       "related_claims": [
@@ -1420,14 +1448,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10593",
       "ref": "N-10593",
       "name": "Brian Harpole Lawsuit Coordination Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the host's remark that she is being sued over the Harpole interview.",
       "related_artifacts": [],
       "related_claims": [
@@ -1437,14 +1466,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10623",
       "ref": "N-10623",
       "name": "Car Interior Shards and Blood Evidence Pattern",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the SUV disposal and shard claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1455,14 +1485,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10672"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10622",
       "ref": "N-10622",
       "name": "Brian Harpole Shirt Removal Event Timing",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for Harpole's account of cutting the shirt and guarding the door.",
       "related_artifacts": [],
       "related_claims": [
@@ -1473,14 +1505,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10625",
       "ref": "N-10625",
       "name": "Frank Turek CPR Claim Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the CPR contradiction.",
       "related_artifacts": [],
       "related_claims": [
@@ -1490,14 +1523,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10636"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10626",
       "ref": "N-10626",
       "name": "Frank Turek Clothing Disposal",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the clothing change at the hospital.",
       "related_artifacts": [],
       "related_claims": [
@@ -1507,14 +1542,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10628",
       "ref": "N-10628",
       "name": "Erika Kirk Dissociative Identity Disorder Assessment",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's persona-change discussion and the web page shown.",
       "related_artifacts": [],
       "related_claims": [
@@ -1526,14 +1562,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10630",
       "ref": "N-10630",
       "name": "911 Call Origin in Hospital Transport Vehicle",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the 911 call question.",
       "related_artifacts": [],
       "related_claims": [
@@ -1543,14 +1580,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10663"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10636",
       "ref": "N-10636",
       "name": "Brian Harpole vs Frank Turek CPR Contradiction",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the hospital-account contradictions.",
       "related_artifacts": [],
       "related_claims": [
@@ -1561,14 +1600,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10639",
       "ref": "N-10639",
       "name": "Tyler Robinson Set-up Theory (Lance Twiggs as Actual Perpetrator)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the patsy / source-of-evidence discussion.",
       "related_artifacts": [],
       "related_claims": [
@@ -1579,14 +1619,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10641",
       "ref": "N-10641",
       "name": "Charlie's Road Microphone Glass Origin Investigation Target",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the shard and mic claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1600,14 +1641,16 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10697"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10658",
       "ref": "N-10658",
       "name": "Carhartt \"Freedom Shirt\" Origin",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the freedom shirt sale claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1617,14 +1660,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10663",
       "ref": "N-10663",
       "name": "911 Call Identification Gap",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the missing 911 call.",
       "related_artifacts": [],
       "related_claims": [
@@ -1634,14 +1678,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10763",
       "ref": "N-10763",
       "name": "UVU Ambulance Denial Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the no-ambulance-on-standby claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1651,14 +1696,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10818",
       "ref": "N-10818",
       "name": "Project Constitution",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization (X account) whose claims the host says draw quick replies from TPUSA.",
       "related_artifacts": [],
       "related_claims": [
@@ -1668,14 +1714,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10891",
       "ref": "N-10891",
       "name": "Erika Kirk Anti-Israel Stance at Tucker Carlson Dinner",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Maine conversation claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1685,7 +1733,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1726,11 +1775,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10971",
       "ref": "N-10971",
       "name": "Charlie Kirk Handheld Microphone Custody",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Persistent target: where Charlie Kirk's handheld microphone went after the shooting, including the host's claim that it was not kept in evidence and was displayed in glass at a Mar-a-Lago fundraiser.",
       "related_artifacts": [],
       "related_claims": [
@@ -1741,14 +1790,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-10972",
       "ref": "N-10972",
       "name": "Bomb Dog Deployment at the Crime Scene",
-      "type": "topic",
+      "type": "event",
       "description": "Persistent target: whether bomb-detection dogs were kept away from the UVU crime scene, as the host lists in her exploding-mic evidence chart.",
       "related_artifacts": [],
       "related_claims": [
@@ -1758,14 +1808,18 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-09-10",
+      "place": "N-10028"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10973",
       "ref": "N-10973",
       "name": "Tyler Robinson Gunshot Residue Test Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Persistent target: whether a standard gunshot residue test was performed on Tyler Robinson when he was brought in, which the host says was not done.",
       "related_artifacts": [],
       "related_claims": [
@@ -1775,14 +1829,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10106"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10974",
       "ref": "N-10974",
       "name": "Erika Kirk Employee Statement Contradiction",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Persistent target: the host's comparison of Erika Kirk's January conference-call remarks to employees with her June remarks to donors about whether she already knew the staff and departments.",
       "related_artifacts": [],
       "related_claims": [
@@ -1793,7 +1849,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     }
   ],
   "claims": [

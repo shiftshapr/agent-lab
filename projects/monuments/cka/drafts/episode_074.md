@@ -1270,7 +1270,7 @@ The host's claim, from Stacy Sheridan's resume, that she worked eight years in K
 
 **N-11169** Steven Crowder Bullet Inscription and Nashville Notebook Question
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's questions about why Steven Crowder received the bullet inscription details after September 10 and the Nashville notebook, and whether he knowingly passed on fed material.
 
 *Related: C-6701, C-6702, A-3064.1, N-259*

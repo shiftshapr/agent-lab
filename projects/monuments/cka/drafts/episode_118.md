@@ -482,7 +482,7 @@ Investigation target: the 1990s scandal, exposed in the early 2000s and made int
 
 **N-10844** White House Military Office Erika Kirk Amplification Email
 
-Node Type: Topic
+Node Type: Thing
 Investigation target: the communication the host says listed Erika Kirk as an "emotional asset" after the White House Correspondents' Dinner shooting. In this episode she says the Department of War office headed by Hegseth, Feinberg and Hansel orchestrated messaging to make Erika the number one trend by morning.
 
 *Related: C-10143, N-2, N-433, N-691*

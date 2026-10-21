@@ -642,7 +642,7 @@ First named by the host at 00:08:17 in episode 86. Named as a TPUSA figure who, 
 
 **N-11172** Back-Footage FaceTime Recording Inquiry
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic. The host's account that on September 20, 2025 TPUSA leadership and the FBI were asking whether she had recorded Terryl Farnsworth's September 19 FaceTime showing the back-camera footage.
 
 *Related: C-7695, C-7696, C-7697, C-7698*

@@ -641,7 +641,7 @@ Persistent thread on Charlie Kirk's pre-death financial concerns at TPUSA, ancho
 
 **N-10128** Federal Investigation Conduct Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: verification_thread
 Open question of why federal authorities did not contact the two rooftop-footage witnesses until September 15, anchored by direct testimonials.
 
@@ -651,7 +651,7 @@ Open question of why federal authorities did not contact the two rooftop-footage
 
 **N-10129** Hamptons Weekend Retreat
 
-Node Type: Topic
+Node Type: Event
 Topic Kind: narrative_pattern
 August 2025 weekend retreat at which pressure was reportedly applied to Charlie Kirk on Israel/Netanyahu positioning; characterized by Charlie as 'moral blackmail'.
 
@@ -661,7 +661,7 @@ August 2025 weekend retreat at which pressure was reportedly applied to Charlie 
 
 **N-10130** Doorbell Footage Completeness Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: verification_thread
 Tip-based investigation thread alleging that publicly released doorbell footage of Tyler Robinson is incomplete and shows him with an unidentified woman changing clothes.
 
@@ -673,7 +673,7 @@ Confidence: low
 
 **N-10131** Muzzle Flash Theory (Range Day Bro)
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: verification_thread
 Range Day Bro's claim that a muzzle flash is visible inside the flag hall; partially rebutted by host via window-doesn't-open argument.
 
@@ -683,7 +683,7 @@ Range Day Bro's claim that a muzzle flash is visible inside the flag hall; parti
 
 **N-10132** Suspicious Bush Theory (Range Day Bro)
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: verification_thread
 Range Day Bro's claim of a human-and-rifle-shaped outline in rooftop bushes; corroborated by host's ground photographs showing translucency.
 
@@ -693,7 +693,7 @@ Range Day Bro's claim of a human-and-rifle-shaped outline in rooftop bushes; cor
 
 **N-10133** Bullet Casing Engraving Pattern
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: verification_thread
 Mentioned by commenters and host regarding markings on bullet casings at recent violent crimes; suggested by host and commenter Ben Autton to resemble 'government signature'.
 
@@ -713,7 +713,7 @@ Host asserts this is 'a real thing' when discussing financially motivated pastor
 
 **N-10135** Amazon Pre-Event Book Listing (Sep 9)
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: verification_thread
 Commenter-referenced screenshot of an Amazon listing dated September 9, 2025 for a book about Charlie with accurate event details; host dismisses as Amazon 'technical error'.
 

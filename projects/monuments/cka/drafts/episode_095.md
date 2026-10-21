@@ -520,7 +520,7 @@ Transcript spelling "Wiyre Fy". The host ties the new back camera to the sponsor
 
 **N-10828** Lori Frantzve 2016 Gun Patent Dinner
 
-Node Type: Topic
+Node Type: Event
 Investigation target: a tip that in late fall 2016 Lori Frantzve and Larry Guinta met two holders of a pending patent for an interchangeable-caliber gun. The tip says they met at a Salt Lake City expo where Lori was promoting G-Tech Industries' EMP technology. They then held a dinner in Scottsdale, offered an introduction to their G-Tech angel investor and claimed access to government contracts. According to the tip, Erika Frantzve arrived unannounced, and her mother mentioned that Erika was dating a man with big political connections. The host says nothing came of the deal, the patent is now approved, and the patent holder later had a lawsuit with Victor Marx.
 
 *Related: C-8510, C-8512, C-8513, C-8514, C-8515, C-8516, C-8517, C-8518, A-2540.1, N-489, N-387, N-2*

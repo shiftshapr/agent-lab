@@ -453,7 +453,7 @@ First named by the host at 00:17:30 in episode 167. Brother of Steve Wynn; the h
 
 **N-11356** Kenneth Wynn 2004 Child Pornography Investigation
 
-Node Type: Topic
+Node Type: Event
 The 2004 federal (ICE Operation Predator) child pornography investigation in which Kenny Wynn's home computer was reportedly seized. The host raises it as part of a child-abuse pattern in the TPUSA orbit.
 
 *Related: C-14437, C-14438, C-14439, C-14440, C-14441, C-14442, A-3413.1, N-970, N-352*
@@ -467,7 +467,7 @@ Discord messages in which Monster Lab clippers were allegedly told to delete mes
 
 **N-11358** Timpanogos Hospital Board Membership Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Who sits or sat on the board of Timpanogos Regional Hospital, where Charlie Kirk was taken, given Val Peterson's former seat. The host says the membership is not public.
 
 *Related: C-14445, C-14447, C-14448, C-14449, A-3414.1, N-955, N-11134*

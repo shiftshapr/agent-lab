@@ -835,7 +835,7 @@ The host's catalog of named narrative campaigns she says were run against her af
 
 **N-11300** Falwell Jr. Ouster and Liberty Succession Account
 
-Node Type: Topic
+Node Type: Event
 The host's account, from sources she says work at Liberty University, of how Jerry Falwell Jr. was removed, how Jerry Prevo's succession followed, and how that affected Charlie Kirk, the Falkirk Center and Johnnie Moore.
 
 *Related: C-4901, C-4902, C-4937, C-4938*
@@ -844,7 +844,7 @@ The host's account, from sources she says work at Liberty University, of how Jer
 
 **N-11301** Erika Kirk Summer House Appearance Question
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's question whether Erika Kirk's 2019 appearance on Summer House connects to Mark Burnett and MGM, and who arranged it.
 
 *Related: C-4912*
@@ -853,7 +853,7 @@ The host's question whether Erika Kirk's 2019 appearance on Summer House connect
 
 **N-11302** Erika Kirk Background and Overseas Claims Inquiry
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's stated plan to examine Erika Kirk's charities and her claims of living in China and Costa Rica, and to offer her a chance to respond.
 
 *Related: C-4962, C-4963*

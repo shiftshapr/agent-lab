@@ -857,7 +857,7 @@ The dispute over whether Ben Shapiro and Charlie Kirk were friends, which the ho
 
 **N-10983** Preliminary Hearing Influencer Invitation Question
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's claim that Erika Kirk invited influencers into the courtroom at Tyler Robinson's preliminary hearing and that this registered with the public as an unforced error.
 
 *Related: C-11250*

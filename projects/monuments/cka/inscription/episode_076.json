@@ -949,11 +949,11 @@
       ]
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10478",
       "ref": "N-10478",
       "name": "Next Model Management / Erika Kirk Connection",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigation target: what was the documented nature of Erika Kirk's meetings at Next Model Management NYC, where Faith Kates was a co-founder with documented Epstein ties?",
       "related_artifacts": [
         "A-1815.1"
@@ -972,14 +972,15 @@
       "related_nodes": [
         "N-2",
         "N-568"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10463",
       "ref": "N-10463",
       "name": "Erika Kirk Corcoran Group Employment Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target: documented record of Erika Kirk's Corcoran-issued New York real estate license and any completed transactions. Host reports no record of completed deals and flags potential \"back door\" licensure.",
       "related_artifacts": [],
       "related_claims": [
@@ -997,14 +998,15 @@
         "N-2",
         "N-571",
         "N-556"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10353",
       "ref": "N-10353",
       "name": "Erika Kirk Sept 8, 2025 Alibi Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigation target: independent verification of Erika Kirk's whereabouts on September 8, 2025. Host reports no witness corroboration of Erika in the neighborhood; Frank Turek reference is to \"family\" dinner without naming Erika.",
       "related_artifacts": [
         "A-1816.1",
@@ -1037,14 +1039,16 @@
         "N-1",
         "N-2",
         "N-7"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10390"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10479",
       "ref": "N-10479",
       "name": "January 29 West Wing Meeting Subject",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target: subject matter of Andrew Kolvet / Mikey McCoy White House meeting on January 29, 2026 – the day before the Epstein files release. Why was the meeting pre-recorded and not publicized?",
       "related_artifacts": [
         "A-1810.1"
@@ -1062,14 +1066,15 @@
       "related_nodes": [
         "N-14",
         "N-190"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10480",
       "ref": "N-10480",
       "name": "Lynn Forester de Rothschild Corcoran Group Presidency Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target: verification that Lynn Forester de Rothschild was/is president of the Corcoran Group and the scope of her Epstein-file exposure.",
       "related_artifacts": [
         "A-1814.1"
@@ -1084,14 +1089,16 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-556"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10463"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10481",
       "ref": "N-10481",
       "name": "Faith Kates – Epstein Relationship Scope",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target: scope and content of Faith Kates–Jeffrey Epstein email relationship (referenced ~4,000 times), including the bar mitzvah invitation context.",
       "related_artifacts": [
         "A-1812.1",
@@ -1109,7 +1116,9 @@
       "related_nodes": [
         "N-568",
         "N-9"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10478"
     },
     {
       "@type": "Person",
@@ -1473,11 +1482,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1488,14 +1497,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10072",
       "ref": "N-10072",
       "name": "White House",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Existing place reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1506,14 +1517,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "LandmarksOrHistoricalBuildings",
+      "wikidata_class": "Q41176"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10112",
       "ref": "N-10112",
       "name": "MK Ultra Continuity Theory",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's MK Ultra aside.",
       "related_artifacts": [],
       "related_claims": [
@@ -1523,14 +1536,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10001"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10368",
       "ref": "N-10368",
       "name": "Tyler Bowyer 2011 Romania Activities",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Bowyer Constanta claim (the host dates it 2010 here).",
       "related_artifacts": [],
       "related_claims": [
@@ -1540,14 +1555,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10374"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10374",
       "ref": "N-10374",
       "name": "Romania / Eastern Europe Trafficking Cluster",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1560,14 +1577,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10390",
       "ref": "N-10390",
       "name": "Fort Huachuca Erika Presence Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1579,14 +1597,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10441",
       "ref": "N-10441",
       "name": "Charlie Kirk Sept 8–10 Timeline Reconstruction",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1601,14 +1621,16 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10024"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10444",
       "ref": "N-10444",
       "name": "Charlie Kirk Sept 8 Walk Companion Identification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1620,14 +1642,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10441"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10451",
       "ref": "N-10451",
       "name": "Tracy Martin Background and Husband Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1637,14 +1661,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10484",
       "ref": "N-10484",
       "name": "Arizona-Romania Pipeline Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the 2010 Romania claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1654,14 +1679,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10374"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10496",
       "ref": "N-10496",
       "name": "Strait of Hormuz / US-Iran War Context",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's Epstein Fury remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1671,14 +1698,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10635",
       "ref": "N-10635",
       "name": "Next Model Management / MC2 Trafficking Connection to Erika Kirk",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1689,14 +1717,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10478"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10850",
       "ref": "N-10850",
       "name": "Erika Kirk Air Force Academy Board of Visitors Appointment",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1709,14 +1739,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10908",
       "ref": "N-10908",
       "name": "Miss Universe Organization",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization reused for the pageant ownership claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1728,14 +1760,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10910",
       "ref": "N-10910",
       "name": "Black Sea Rotational Force",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1748,14 +1782,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q176799"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11080",
       "ref": "N-11080",
       "name": "Kairos Company",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization reused for the Burnett link claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1765,14 +1801,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11081",
       "ref": "N-11081",
       "name": "Romanian Angels Project",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1783,14 +1821,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11082",
       "ref": "N-11082",
       "name": "Everyday Heroes Foundation",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1800,14 +1840,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-11096",
       "ref": "N-11096",
       "name": "TPUSA Cease and Desist Letter to Candace Owens",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Existing topic reused for the cease and desist reference.",
       "related_artifacts": [],
       "related_claims": [
@@ -1817,14 +1859,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CreativeWork"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11108",
       "ref": "N-11108",
       "name": "Sabbatian-Frankist Cult Allegation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's Frankist claim about Epstein.",
       "related_artifacts": [],
       "related_claims": [
@@ -1834,7 +1877,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1888,7 +1932,9 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
       "@type": "Organization",
@@ -1905,7 +1951,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q189004"
     }
   ],
   "claims": [

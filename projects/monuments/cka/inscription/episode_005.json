@@ -847,14 +847,15 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "topic_kind": "verification_thread"
+      "topic_kind": "verification_thread",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10046",
       "ref": "N-10046",
       "name": "Robinson Outfit/Language Anomaly",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Host asserts text-message phrasing ('squad car', 'outfit', 'Prince') is inconsistent with Robinson's likely profile.",
       "related_artifacts": [],
       "related_claims": [
@@ -866,14 +867,16 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "topic_kind": "discrepancy"
+      "topic_kind": "discrepancy",
+      "schema_org": "Question",
+      "parent": "N-10019"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10047",
       "ref": "N-10047",
       "name": "Steele Family Orem Cluster",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Multiple Steele/Steel residents appearing across artifacts (doorbell-cam house, BBC witness, GMA family); host cannot reconcile Sherri Steele against databases.",
       "related_artifacts": [
         "A-1112.1",
@@ -892,14 +895,16 @@
       "claim_count": 5,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "topic_kind": "verification_thread"
+      "topic_kind": "verification_thread",
+      "schema_org": "Question",
+      "parent": "N-10091"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10048",
       "ref": "N-10048",
       "name": "Dairy Queen 6:38 Photo Verification",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Authenticity and timestamp of the DQ photograph relative to the official Robinson timeline.",
       "related_artifacts": [
         "A-1111.1"
@@ -912,14 +917,15 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "topic_kind": "verification_thread"
+      "topic_kind": "verification_thread",
+      "schema_org": "Question"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10049",
       "ref": "N-10049",
       "name": "Doorbell-Cam Footage Provenance",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Whether footage reached TMZ via the homeowner or via federal channels before TMZ release.",
       "related_artifacts": [
         "A-1112.1",
@@ -934,7 +940,8 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "topic_kind": "discrepancy"
+      "topic_kind": "discrepancy",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
@@ -953,14 +960,16 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "topic_kind": "narrative_pattern"
+      "topic_kind": "narrative_pattern",
+      "schema_org": "Thing",
+      "parent": "N-10032"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10051",
       "ref": "N-10051",
       "name": "Caldera Engineering Valve Pattern",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Host pattern-matches Steele family employer (valve manufacturer) to prior Pastnic family pipeline business.",
       "related_artifacts": [],
       "related_claims": [],
@@ -969,14 +978,16 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "topic_kind": "narrative_pattern"
+      "topic_kind": "narrative_pattern",
+      "schema_org": "Question",
+      "parent": "N-10062"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10052",
       "ref": "N-10052",
       "name": "Federal Footage Sweep",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Host's pattern claim that feds have pressured locals not to release any footage, drawing analogy to post-9/11 Pentagon footage controls.",
       "related_artifacts": [],
       "related_claims": [
@@ -987,7 +998,8 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "topic_kind": "narrative_pattern"
+      "topic_kind": "narrative_pattern",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
@@ -1012,14 +1024,15 @@
       "claim_count": 4,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "topic_kind": "narrative_pattern"
+      "topic_kind": "narrative_pattern",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10054",
       "ref": "N-10054",
       "name": "Owens Memorial Invitation Status",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Status of Candace Owens's invitation/speaking role at the Kirk memorial event; disputed across Daily Mail / Bowling / Owens accounts.",
       "related_artifacts": [
         "A-1116.1"
@@ -1033,7 +1046,8 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "topic_kind": "verification_thread"
+      "topic_kind": "verification_thread",
+      "schema_org": "Question"
     },
     {
       "@type": "Organization",
@@ -1057,7 +1071,9 @@
       "claim_count": 4,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "organization_kind": "educational_institution"
+      "organization_kind": "educational_institution",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
       "@type": "Organization",
@@ -1077,7 +1093,9 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "organization_kind": "media_outlet"
+      "organization_kind": "media_outlet",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -1097,14 +1115,16 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "organization_kind": "media_outlet"
+      "organization_kind": "media_outlet",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "Organization",
+      "@type": "Thing",
       "@id": "N-10056",
       "ref": "N-10056",
       "name": "PBD Podcast",
-      "type": "organization",
+      "type": "thing",
       "description": "Carried the Eric Bolling segment contradicting Owens's account of TPUSA involvement.",
       "related_artifacts": [
         "A-1116.1"
@@ -1117,7 +1137,8 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "organization_kind": "media_outlet"
+      "organization_kind": "media_outlet",
+      "schema_org": "CreativeWorkSeries"
     },
     {
       "@type": "Organization",
@@ -1139,14 +1160,16 @@
       "claim_count": 3,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "organization_kind": "nonprofit"
+      "organization_kind": "nonprofit",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "Organization",
+      "@type": "Thing",
       "@id": "N-10057",
       "ref": "N-10057",
       "name": "Good Morning America",
-      "type": "organization",
+      "type": "thing",
       "description": "Aired the Tiffany Barker / L Steel / Mia Grant interview the morning after the shooting.",
       "related_artifacts": [
         "A-1114.1"
@@ -1159,14 +1182,15 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "organization_kind": "media_outlet"
+      "organization_kind": "media_outlet",
+      "schema_org": "CreativeWorkSeries"
     },
     {
-      "@type": "Organization",
+      "@type": "Topic",
       "@id": "N-10058",
       "ref": "N-10058",
       "name": "CIA Operation Mockingbird",
-      "type": "organization",
+      "type": "topic",
       "description": "Historical CIA program referenced by host to explain mainstream-media alignment.",
       "related_artifacts": [],
       "related_claims": [],
@@ -1175,7 +1199,8 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "organization_kind": "program_or_initiative"
+      "organization_kind": "program_or_initiative",
+      "schema_org": "Thing"
     },
     {
       "@type": "Place",
@@ -1199,7 +1224,10 @@
       "claim_count": 4,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "place_kind": "city"
+      "place_kind": "city",
+      "schema_org": "City",
+      "wikidata_class": "Q515",
+      "parent": "N-10120"
     },
     {
       "@type": "Place",
@@ -1219,7 +1247,9 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "place_kind": "country"
+      "place_kind": "country",
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
       "@type": "Place",
@@ -1235,7 +1265,8 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "place_kind": "region"
+      "place_kind": "region",
+      "schema_org": "Place"
     },
     {
       "@type": "Place",
@@ -1253,7 +1284,9 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "place_kind": "venue"
+      "place_kind": "venue",
+      "schema_org": "LandmarksOrHistoricalBuildings",
+      "wikidata_class": "Q41176"
     },
     {
       "@type": "Place",
@@ -1273,7 +1306,8 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "place_kind": "region"
+      "place_kind": "region",
+      "schema_org": "Place"
     },
     {
       "@type": "Topic",
@@ -1292,7 +1326,8 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1309,14 +1344,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10002",
       "ref": "N-10002",
       "name": "Charlie Kirk Death and Memorial",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Arizona memorial claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1327,14 +1363,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10003",
       "ref": "N-10003",
       "name": "Charlie-Candace Friendship Continuity",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for claims about the Kirk and Owens relationship.",
       "related_artifacts": [],
       "related_claims": [
@@ -1349,14 +1386,15 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10008",
       "ref": "N-10008",
       "name": "YWLS Conference",
-      "type": "investigation_target",
+      "type": "event",
       "description": "YWLS Conference; the host says she spoke there after the Daily Wire firing.",
       "related_artifacts": [],
       "related_claims": [
@@ -1366,14 +1404,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10016",
       "ref": "N-10016",
       "name": "Hamptons Meeting Pressure Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Hamptons pressure and blackmail claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1389,14 +1429,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10044"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10018",
       "ref": "N-10018",
       "name": "Netanyahu Israel Invitation Phone Call",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused for Netanyahu's invitation to Kirk.",
       "related_artifacts": [],
       "related_claims": [
@@ -1408,14 +1450,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10019",
       "ref": "N-10019",
       "name": "Robinson Outfit Change Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the outfit-change claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1428,14 +1472,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10106"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10025",
       "ref": "N-10025",
       "name": "Israel Lobby Pressure on Conservative Figures",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for claims of Israel lobby pressure on conservatives.",
       "related_artifacts": [],
       "related_claims": [
@@ -1453,14 +1499,15 @@
       "evidence_count": 0,
       "claim_count": 9,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10032",
       "ref": "N-10032",
       "name": "Decoy Boy Operation Analysis",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the decoy and pressure theory.",
       "related_artifacts": [],
       "related_claims": [
@@ -1470,14 +1517,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10035",
       "ref": "N-10035",
       "name": "Building Donor Withdrawal Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for donor withdrawal and building-name claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1489,14 +1537,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10044"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10036",
       "ref": "N-10036",
       "name": "Bill Ackman Response Analysis",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for Ackman's response.",
       "related_artifacts": [],
       "related_claims": [
@@ -1507,14 +1557,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10129"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10067",
       "ref": "N-10067",
       "name": "Daily Mail",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Daily Mail; the host reads its wording on the lack of Kirk and Owens contact.",
       "related_artifacts": [],
       "related_claims": [
@@ -1524,14 +1576,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10074",
       "ref": "N-10074",
       "name": "Robinson-Lance Text Chain Authenticity",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Robinson and Lance text claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1543,14 +1597,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10085",
       "ref": "N-10085",
       "name": "Charlie Kirk / Candace Alleged Falling Out",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for claims about a Kirk and Owens falling out.",
       "related_artifacts": [],
       "related_claims": [
@@ -1564,14 +1619,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10119",
       "ref": "N-10119",
       "name": "Riverbend Ranch",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Riverbend Ranch; sponsor that supplied the tribute played on air.",
       "related_artifacts": [],
       "related_claims": [
@@ -1582,14 +1638,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10129",
       "ref": "N-10129",
       "name": "Hamptons Weekend Retreat",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused for the Hamptons retreat claim about home ownership.",
       "related_artifacts": [],
       "related_claims": [
@@ -1599,14 +1657,18 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "place": "N-10027",
+      "parent": "N-10044"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10252",
       "ref": "N-10252",
       "name": "AmFest Speaker Removal Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for claims about AmFest speaker removals.",
       "related_artifacts": [],
       "related_claims": [
@@ -1618,14 +1680,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10254",
       "ref": "N-10254",
       "name": "Macron Defamation Lawsuit Delaware Venue Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Brigitte Macron lawsuit claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1637,14 +1700,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10425",
       "ref": "N-10425",
       "name": "Charlie Kirk BB Netanyahu Show Refusal",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for claims about a Netanyahu show appearance.",
       "related_artifacts": [],
       "related_claims": [
@@ -1655,14 +1719,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10018"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10498",
       "ref": "N-10498",
       "name": "Charlie Kirk Legacy Control Dispute",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the claim of a takeover of Kirk's organization.",
       "related_artifacts": [],
       "related_claims": [
@@ -1672,14 +1738,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10819",
       "ref": "N-10819",
       "name": "New York Post",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "New York Post; the host says it ran Bolling's breakup claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1689,14 +1756,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "NewsMediaOrganization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11017",
       "ref": "N-11017",
       "name": "Candace Owens Australia Visa Review",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's Australia ban remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1706,7 +1775,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",

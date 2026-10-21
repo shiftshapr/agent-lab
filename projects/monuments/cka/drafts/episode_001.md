@@ -303,7 +303,7 @@ Host asserts the personal/professional friendship with Charlie Kirk was never br
 
 **N-10004** Kanye Tweet About Candace Owens
 
-Node Type: Topic
+Node Type: Thing
 Topic Kind: event
 Kanye West's public tweet praising Candace Owens; celebrated by Charlie and Candace as 'manifested' via repeated listening to 'Power.'
 
@@ -353,7 +353,7 @@ Charlie Kirk at age 23 told Candace he planned to take control of the RNC.
 
 **N-10008** YWLS Conference
 
-Node Type: Organization
+Node Type: Event
 Organization Kind: conference
 Conference concurrent with the 'him too' / #MeToo press incident; reporters swooped in on Candace's statements.
 
@@ -433,7 +433,7 @@ The host says young women at Turning Point threatened to quit, and some quit, ov
 
 **N-11281** Trump Call to Candace Owens About Brigitte Macron via Charlie Kirk
 
-Node Type: Topic
+Node Type: Event
 The host says Charlie Kirk was the intermediary when Trump called her about Brigitte Macron, and that Trump-world used Charlie as the channel for calls to her.
 
 *Related: C-49, C-50*

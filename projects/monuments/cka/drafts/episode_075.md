@@ -766,7 +766,7 @@ The host's argument that the 2026 US and Israeli campaign against Iran was engin
 
 **N-11047** Freemasonry
 
-Node Type: Topic
+Node Type: Organization
 The fraternal order and its symbolism, which the host studies and ties to her occult-influence thesis.
 
 *Related: C-6712, C-6717, C-6728*
@@ -811,7 +811,7 @@ The host's account of how many posts Trump made about Charlie Kirk, their conten
 
 **N-11051** Glyphosate and White Phosphorus Defense Production Act Order
 
-Node Type: Topic
+Node Type: Thing
 The February 26 executive order invoking the Defense Production Act for glyphosate and the Washington Post's note on elemental phosphorus, and the host's tie to Israeli use of white phosphorus.
 
 *Related: C-6778, C-6779, C-6780*

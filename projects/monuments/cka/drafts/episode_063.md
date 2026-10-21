@@ -582,7 +582,7 @@ Agency the host connects to the Shaklee contract, the moon landing and mass pois
 
 **N-11044** Operation Paperclip
 
-Node Type: Topic
+Node Type: Event
 Post-WWII program the host says brought German scientists to the US; invoked in her moon-landing and mind-control commentary.
 
 *Related: C-5656, C-5657*
@@ -591,7 +591,7 @@ Post-WWII program the host says brought German scientists to the US; invoked in 
 
 **N-11045** Kanye West Public Apology
 
-Node Type: Topic
+Node Type: Event
 Kanye West's full-page Wall Street Journal ad and Vanity Fair answers apologizing for harm he caused, as discussed by the host.
 
 *Related: C-5670, C-5671, C-5672*
@@ -609,7 +609,7 @@ Reused existing node; cited by the new claims in this supplement.
 
 **N-10001** MK Ultra
 
-Node Type: Organization
+Node Type: Topic
 Reused existing node; cited by the new claims in this supplement.
 
 *Related: C-5658*
@@ -627,7 +627,7 @@ Reused existing node; cited by the new claims in this supplement.
 
 **N-10189** TPUSA Military-Personnel Network
 
-Node Type: Topic
+Node Type: Investigation Question
 Reused existing node; cited by the new claims in this supplement.
 
 *Related: C-5668*
@@ -636,7 +636,7 @@ Reused existing node; cited by the new claims in this supplement.
 
 **N-10201** TPUSA Faith / Christian Zionist Infiltration Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Reused existing node; cited by the new claims in this supplement.
 
 *Related: C-5659, C-5661, C-5662*
@@ -645,7 +645,7 @@ Reused existing node; cited by the new claims in this supplement.
 
 **N-10203** Lincoln, Nebraska TPUSA Chapter Origin Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Reused existing node; cited by the new claims in this supplement.
 
 *Related: C-5641*
@@ -654,7 +654,7 @@ Reused existing node; cited by the new claims in this supplement.
 
 **N-10193** Charlie Kirk Burial / Funeral Narrative Discrepancy
 
-Node Type: Topic
+Node Type: Investigation Question
 Reused existing node; cited by the new claims in this supplement.
 
 *Related: C-5606, C-5607, C-5613*
@@ -663,7 +663,7 @@ Reused existing node; cited by the new claims in this supplement.
 
 **N-10318** Night-Before Text Messages to Andrew Kolvet and Dan Flood
 
-Node Type: Topic
+Node Type: Investigation Question
 Reused existing node; cited by the new claims in this supplement.
 
 *Related: C-5681*
@@ -672,7 +672,7 @@ Reused existing node; cited by the new claims in this supplement.
 
 **N-10386** Project Looking Glass Allegation
 
-Node Type: Topic
+Node Type: Investigation Question
 Reused existing node; cited by the new claims in this supplement.
 
 *Related: C-5635*
@@ -681,7 +681,7 @@ Reused existing node; cited by the new claims in this supplement.
 
 **N-10392** Erika Kirk China Timeline Discrepancy
 
-Node Type: Topic
+Node Type: Investigation Question
 Reused existing node; cited by the new claims in this supplement.
 
 *Related: C-5673*
@@ -699,7 +699,7 @@ Reused existing node; cited by the new claims in this supplement.
 
 **N-10408** TPUSA Termination Cause Investigation
 
-Node Type: Topic
+Node Type: Investigation Question
 Reused existing node; cited by the new claims in this supplement.
 
 *Related: C-5603, C-5620, C-5634, C-5676*
@@ -726,7 +726,7 @@ Reused existing node; cited by the new claims in this supplement.
 
 **N-10826** New York Times Erika Kirk Interview Account Discrepancies
 
-Node Type: Topic
+Node Type: Investigation Question
 Reused existing node; cited by the new claims in this supplement.
 
 *Related: C-5608, C-5611, C-5612*

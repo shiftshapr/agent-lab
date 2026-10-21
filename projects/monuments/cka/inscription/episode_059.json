@@ -1028,11 +1028,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10398",
       "ref": "N-10398",
       "name": "Dan Flood Family Law Enforcement Network",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Persistent investigable target covering the overlapping law enforcement, military, and FBI-affiliated backgrounds of Dan Flood, Robert Flood, Brian Harpole, and Bobby Harpole, plus the alleged Cattleman's Ball / Dallas security cluster.",
       "related_artifacts": [
         "A-1643.1",
@@ -1055,14 +1055,15 @@
         "N-266",
         "N-471",
         "N-332"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10399",
       "ref": "N-10399",
       "name": "New Braunfels Texas Security Personnel Cluster",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Investigable target covering the geographic clustering of Dan Flood and the Buckman donors in New Braunfels, Texas.",
       "related_artifacts": [
         "A-1644.1",
@@ -1080,14 +1081,16 @@
         "N-270",
         "N-460",
         "N-461"
-      ]
+      ],
+      "schema_org": "Thing",
+      "parent": "N-10398"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10251",
       "ref": "N-10251",
       "name": "TPUSA Drone Disclosure Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target reconciling the conflicting TPUSA-affiliated statements about drone activity on September 10: Frank Turek (drone footage with Charlie), Andrew Kolvet (wide-angle shot, not drone), and the cease-and-desist letter (media production drone for B-roll, but no security drones).",
       "related_artifacts": [
         "A-1648.1",
@@ -1105,14 +1108,15 @@
       "related_nodes": [
         "N-14",
         "N-7"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10392",
       "ref": "N-10392",
       "name": "Erika Kirk China Timeline Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target reconciling three artifact-anchored statements about Erika Kirk's China residence: her own \"living in China\" claim (A-1650.1), Charlie's \"6 months\" claim (A-1650.3), and TPUSA's \"2 weeks\" official response (A-1650.2).",
       "related_artifacts": [
         "A-1650.1",
@@ -1131,14 +1135,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10134",
       "ref": "N-10134",
       "name": "Operation Mocking Pastor",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Investigable target covering the recurring Cornerstone Chapel series featuring named guests tied to TPUSA Faith and Israeli business interests.",
       "related_artifacts": [
         "A-1651.1"
@@ -1155,7 +1160,8 @@
         "N-17",
         "N-473",
         "N-474"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1423,11 +1429,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Turning Point USA; the organization behind the purge, the letter and the donors.",
       "related_artifacts": [],
       "related_claims": [
@@ -1441,14 +1447,16 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Utah Valley University; the host of the event whose drone rules are disputed.",
       "related_artifacts": [],
       "related_claims": [
@@ -1459,14 +1467,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10342",
       "ref": "N-10342",
       "name": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Fort Huachuca September 8-9, 2025 Eyewitness Encounter; the topic behind Mitch Snow's account.",
       "related_artifacts": [],
       "related_claims": [
@@ -1476,14 +1486,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10374",
       "ref": "N-10374",
       "name": "Romania / Eastern Europe Trafficking Cluster",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Romania / Eastern Europe Trafficking Cluster; related to Erika's Romanian orphanage work and the host's trafficking theme.",
       "related_artifacts": [],
       "related_claims": [
@@ -1495,14 +1507,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10394",
       "ref": "N-10394",
       "name": "Buckman–TPUSA Donor Relationship Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Buckman-TPUSA Donor Relationship Investigation; covers the top donors and the $10 million gift.",
       "related_artifacts": [],
       "related_claims": [
@@ -1513,14 +1526,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10395",
       "ref": "N-10395",
       "name": "GATE / Gifted Education Program Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "GATE / Gifted Education Program Investigation; reused for the commenters' memory reports.",
       "related_artifacts": [],
       "related_claims": [
@@ -1530,14 +1544,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10632",
       "ref": "N-10632",
       "name": "Dan Flood Role and Behavior Assessment",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Dan Flood Role and Behavior Assessment; reused for Flood's reported security presence at the event.",
       "related_artifacts": [],
       "related_claims": [
@@ -1547,14 +1562,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10820",
       "ref": "N-10820",
       "name": "Paramount Tactical",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Paramount Tactical; the host says it told them the shot Frank Turek saw was only the wide shot.",
       "related_artifacts": [],
       "related_claims": [
@@ -1565,14 +1581,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10956",
       "ref": "N-10956",
       "name": "Shaffer Security",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Shaffer Security; the security firm that the Shaffer Security hiring claim appears to concern (spelling differs, see doubts).",
       "related_artifacts": [],
       "related_claims": [
@@ -1582,14 +1600,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11040",
       "ref": "N-11040",
       "name": "Creative Children's Academy / Quest Academy",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Creative Children's Academy / Quest Academy; the school the host calls the X-Men school.",
       "related_artifacts": [],
       "related_claims": [
@@ -1600,14 +1620,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "School",
+      "wikidata_class": "Q3914"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11082",
       "ref": "N-11082",
       "name": "Everyday Heroes Foundation",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Everyday Heroes Foundation; the charity the host connects to Erika Kirk's China work.",
       "related_artifacts": [],
       "related_claims": [
@@ -1618,14 +1640,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "Organization",
+      "@type": "Event",
       "@id": "N-11303",
       "ref": "N-11303",
       "name": "Cattle Baron's Ball / Cattleman's Ball",
-      "type": "organization",
+      "type": "event",
       "description": "The Dallas-founded American Cancer Society single-night fundraiser and a separate 501c3 Cattleman's Ball benefiting the Fred and Pamela Buffett Cancer Center, as described by the host; the emailer alleges the events launder money to buy off US police, which the host cannot confirm.",
       "related_artifacts": [],
       "related_claims": [
@@ -1637,7 +1661,9 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q15275719"
     },
     {
       "@type": "Topic",
@@ -1657,7 +1683,9 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing",
+      "parent": "N-11303"
     }
   ],
   "claims": [

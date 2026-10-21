@@ -478,7 +478,7 @@ Referred to as "Paramount Tactical" and "Paramount, not so tactical"; the host c
 
 **N-10857** Aspen CEO-Appointment Video Non-Release
 
-Node Type: Topic
+Node Type: Investigation Question
 Investigation target: the video of Charlie Kirk at the Aspen donor event that Erika Kirk says shows him naming her CEO and chairman. TPUSA released only the audio, used it as her AmFest walkout music and, per the host, screened the full video privately for the Daily Mail while citing donor privacy as its reason for not releasing it. The host says her sources dispute that Charlie said the line and argues it may have been added with AI.
 
 *Related: C-9319, C-9320, C-9321, C-9322, C-9323, C-9324, C-9325, C-9326, C-9330, C-9331, C-9332, C-9335, C-9336, A-2592.1, A-2593.1, A-2593.3, A-2593.4, N-2, N-1, N-10606*
@@ -492,21 +492,21 @@ Investigation target: two Department of Defense payments the host says Paramount
 
 **N-10859** Erika Kirk Corporate Will and Inheritance Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Investigation target: whether Charlie Kirk's corporate will or estate planning named Erika Kirk as TPUSA's successor, and the host's insider report that she inherited about $10 million.
 
 *Related: C-9327, C-9328, C-9329, N-2, N-1*
 
 **N-10860** TPUSA Hollywood AI Company Meeting
 
-Node Type: Topic
+Node Type: Event
 Investigation target: the host's report that TPUSA met with a Hollywood AI company that makes posthumous videos, read alongside Erika Kirk's statement that there are 10 years of unseen footage of Charlie.
 
 *Related: C-9333, C-9334, N-10000*
 
 **N-10844** White House Military Office Erika Kirk Amplification Email
 
-Node Type: Topic
+Node Type: Thing
 Investigation target: the email the host says went out about an hour after the White House Correspondents' Dinner shooting. According to the host, it asked that Erika Kirk's "I want to go home" clip be boosted through White House surrogates and called her an "emotional asset," and it was sent on April 25 via a distribution list with Steven Cheung, Richard Smale and Ryan Rippeon copied.
 
 *Related: C-9339, C-9340, C-9341, C-9342, C-9343, C-9344, C-9345, C-9346, C-9347, C-9348, C-9349, A-2595.4, N-10582*

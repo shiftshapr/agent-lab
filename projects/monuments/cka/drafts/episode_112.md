@@ -475,7 +475,7 @@ Transcript "Paramount Not So Tactical" / "Paramount Tactical". The host says the
 
 **N-10844** White House Military Office Erika Kirk Amplification Email
 
-Node Type: Topic
+Node Type: Thing
 Investigation target: the internal email the host says described Erika Kirk as an "emotional asset" about an hour after the WHCD shooting and directed people to boost her "I want to go home" video. In this episode the host says Andrew Kolvet hosted Graham Allen to claim it was fake. She also says her FOIA request about it was redirected from the NSA to the Department of War, which called the request too burdensome.
 
 *Related: C-9789, C-9790, C-9791, C-9792, C-9793, C-9794, N-10809, N-10637*
@@ -496,7 +496,7 @@ Organizer of the March 2026 prayer event at which the host spoke. The host alleg
 
 **N-10878** Charlie Kirk WLS "I Appoint My Wife" Video Authenticity Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Investigation target: whether the video released from the WLS event, in which Charlie Kirk appears to appoint Erika Kirk to run Turning Point USA in his absence, is authentic, complete and in context. The host has emailed TPUSA executives for an on-record yes or no and has received no answer. She names the donors who asked the question as Julie and Arthur Fields, and says a donor source asserts the video is doctored.
 
 *Related: C-9782, C-9783, C-9784, C-9786, C-9787, C-9788, A-2630.1, A-2630.2, A-2630.3, N-10186*

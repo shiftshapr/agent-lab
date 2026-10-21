@@ -891,7 +891,7 @@ TPUSA; the host calls it an $80 million company and links a donor to it.
 
 **N-10004** Kanye Tweet About Candace Owens
 
-Node Type: Topic
+Node Type: Thing
 Existing topic reused.
 
 *Related: C-2790*
@@ -900,7 +900,7 @@ Existing topic reused.
 
 **N-10103** Crime Scene Pavers
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing topic reused for the host's pavers remark.
 
 *Related: C-2809*
@@ -918,7 +918,7 @@ Existing topic reused for the host's Calvary Chapel remark.
 
 **N-10159** Rob McCoy / TPUSA Faith Division Conflict-of-Interest Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing topic reused for the McCoy lies claim.
 
 *Related: C-2772*
@@ -927,7 +927,7 @@ Existing topic reused for the McCoy lies claim.
 
 **N-10185** Mikey McCoy Call Log Verification
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing topic reused for the call log claim.
 
 *Related: C-2733*
@@ -936,7 +936,7 @@ Existing topic reused for the call log claim.
 
 **N-10201** TPUSA Faith / Christian Zionist Infiltration Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing topic reused for the infiltration claim.
 
 *Related: C-2771*
@@ -945,7 +945,7 @@ Existing topic reused for the infiltration claim.
 
 **N-10231** Alexis Wilkins Honeypot Allegation Lawsuit
 
-Node Type: Topic
+Node Type: Event
 Existing topic reused for the Wilkins and Schaefer claims.
 
 *Related: C-2797, C-2800*
@@ -999,7 +999,7 @@ Existing topic reused for the donor demand claim.
 
 **N-10254** Macron Defamation Lawsuit Delaware Venue Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing topic reused for the Macron lawsuit claims.
 
 *Related: C-2779, C-2802*
@@ -1044,7 +1044,7 @@ Existing topic reused for the DOGE committee claim.
 
 **N-10434** Calvary Chapel Church CIA Connection Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing topic reused for the Chuck Smith claim.
 
 *Related: C-2776*
@@ -1053,7 +1053,7 @@ Existing topic reused for the Chuck Smith claim.
 
 **N-10740** Butch Hibbs UVU Recording Behavior
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing topic reused for the Butch Hibbs claim.
 
 *Related: C-2774*
@@ -1062,7 +1062,7 @@ Existing topic reused for the Butch Hibbs claim.
 
 **N-10741** Jack Hibbs Sequence-of-Events Discrepancy
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing topic reused for the Jack Hibbs claim.
 
 *Related: C-2775*

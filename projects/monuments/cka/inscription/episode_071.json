@@ -819,11 +819,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10459",
       "ref": "N-10459",
       "name": "Thomas Martin Identity Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Open question: Is the Thomas Martin identified as Director / Deputy Chief Patrol Agent with US Border Patrol / DHS in Tucson (since at least 1985) the same person as Tracy Martin's husband Thomas Martin?",
       "related_artifacts": [
         "A-1757.1",
@@ -844,14 +844,16 @@
       "related_nodes": [
         "N-544",
         "N-551"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10451"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10460",
       "ref": "N-10460",
       "name": "Tracy's Daughter Erika Assistant Status Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Open question: Is Tracy Martin's daughter actually Erika Kirk's assistant, and was she actually scheduled to attend UVU on September 10, 2025?",
       "related_artifacts": [
         "A-1759.1"
@@ -869,14 +871,16 @@
         "N-544",
         "N-552",
         "N-2"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10451"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10470",
       "ref": "N-10470",
       "name": "TPUSA All-American Halftime Show Authenticity Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigative target: The discrepancy between Andrew Kolvet's claimed TPUSA halftime viewership metrics (6M–20M+ concurrent) and the YouTube screenshot metrics (5,839 views / 175 comments / 667,000 likes), plus the comment-to-view ratio anomaly.",
       "related_artifacts": [
         "A-1751.1",
@@ -901,14 +905,15 @@
       "evidence_count": 5,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10461",
       "ref": "N-10461",
       "name": "Hamptons Meeting Characterization Evolution",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigative target: Evolution in Seth Dillon's characterization of the Hamptons meeting, from prior \"spirited debate\" framing to current on-the-record admission of \"heated\" debate about Israel.",
       "related_artifacts": [
         "A-1760.1"
@@ -925,7 +930,9 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-553"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10323"
     },
     {
       "@type": "Person",
@@ -1354,11 +1361,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization whose halftime show and finances are discussed.",
       "related_artifacts": [],
       "related_claims": [
@@ -1372,14 +1379,16 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10016",
       "ref": "N-10016",
       "name": "Hamptons Meeting Pressure Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target for the August 2025 Hamptons meeting.",
       "related_artifacts": [],
       "related_claims": [
@@ -1402,14 +1411,16 @@
       "evidence_count": 0,
       "claim_count": 14,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10044"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10018",
       "ref": "N-10018",
       "name": "Netanyahu Israel Invitation Phone Call",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Topic of a reported Netanyahu call to Kirk.",
       "related_artifacts": [],
       "related_claims": [
@@ -1419,14 +1430,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10027",
       "ref": "N-10027",
       "name": "The Hamptons",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Place of the August 2025 retreat.",
       "related_artifacts": [],
       "related_claims": [
@@ -1437,14 +1450,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10129",
       "ref": "N-10129",
       "name": "Hamptons Weekend Retreat",
-      "type": "investigation_target",
+      "type": "event",
       "description": "The retreat itself, its attendees and format.",
       "related_artifacts": [],
       "related_claims": [
@@ -1455,14 +1469,18 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "place": "N-10027",
+      "parent": "N-10044"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10201",
       "ref": "N-10201",
       "name": "TPUSA Faith / Christian Zionist Infiltration Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic area touching the host's Christian Zionism criticism.",
       "related_artifacts": [],
       "related_claims": [
@@ -1472,14 +1490,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10305",
       "ref": "N-10305",
       "name": "Fort Huachuca September 9, 2025 JTF-SB Meeting Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Meeting alleged at Fort Huachuca.",
       "related_artifacts": [],
       "related_claims": [
@@ -1489,14 +1508,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10320",
       "ref": "N-10320",
       "name": "Bibi Netanyahu TPUSA Funding Offer",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic of the alleged offer to take TPUSA to the next level.",
       "related_artifacts": [],
       "related_claims": [
@@ -1507,14 +1528,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10323",
       "ref": "N-10323",
       "name": "Hampton Retreat Seth Dillon Confrontation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Dillon's role in the Hamptons confrontation.",
       "related_artifacts": [],
       "related_claims": [
@@ -1527,14 +1549,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10129"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10342",
       "ref": "N-10342",
       "name": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Snow's eyewitness encounter at the base.",
       "related_artifacts": [],
       "related_claims": [
@@ -1546,14 +1570,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10346",
       "ref": "N-10346",
       "name": "Cabot Phillips Fort Huachuca Presence Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Check on Phillips' presence at the base.",
       "related_artifacts": [],
       "related_claims": [
@@ -1563,14 +1589,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10305"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10351",
       "ref": "N-10351",
       "name": "Andrew Kolvet Coordination with Attackers of Mitch Snow",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic of the PR response to Snow.",
       "related_artifacts": [],
       "related_claims": [
@@ -1580,14 +1608,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10385",
       "ref": "N-10385",
       "name": "Erika Kirk June 19 Instagram Purge",
-      "type": "investigation_target",
+      "type": "event",
       "description": "The 126-post deletion.",
       "related_artifacts": [],
       "related_claims": [
@@ -1598,14 +1627,17 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-06-19"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10390",
       "ref": "N-10390",
       "name": "Fort Huachuca Erika Presence Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Where Erika was at Fort Huachuca.",
       "related_artifacts": [],
       "related_claims": [
@@ -1615,14 +1647,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10415",
       "ref": "N-10415",
       "name": "Hamptons Summit / Netanyahu Funding Offer Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Conflicting accounts of the funding offer.",
       "related_artifacts": [],
       "related_claims": [
@@ -1633,14 +1667,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10320"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10425",
       "ref": "N-10425",
       "name": "Charlie Kirk BB Netanyahu Show Refusal",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic of Kirk declining to host Netanyahu.",
       "related_artifacts": [],
       "related_claims": [
@@ -1650,14 +1686,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10018"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10451",
       "ref": "N-10451",
       "name": "Tracy Martin Background and Husband Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Verification topic on Tracy Martin and her husband.",
       "related_artifacts": [],
       "related_claims": [
@@ -1669,14 +1707,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10458",
       "ref": "N-10458",
       "name": "BB Netanyahu Hamptons Dinner Allegation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Allegation of a Netanyahu call/presence during the Hamptons.",
       "related_artifacts": [],
       "related_claims": [
@@ -1687,14 +1726,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10415"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10464",
       "ref": "N-10464",
       "name": "Erika Kirk September 10 Assistant Pull-Back Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation of the assistant being kept from the event.",
       "related_artifacts": [],
       "related_claims": [
@@ -1704,14 +1745,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10460"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10494",
       "ref": "N-10494",
       "name": "Charlie Kirk Iran War Opposition (June 2025)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Kirk's June 2025 stance on Iran.",
       "related_artifacts": [],
       "related_claims": [
@@ -1724,14 +1767,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10613",
       "ref": "N-10613",
       "name": "June 18 White House Meeting on Iran Involvement",
-      "type": "investigation_target",
+      "type": "event",
       "description": "The alleged June 18 meeting.",
       "related_artifacts": [],
       "related_claims": [
@@ -1743,14 +1787,18 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-06-18",
+      "place": "N-10072"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10832",
       "ref": "N-10832",
       "name": "Department of Homeland Security",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Agency named in the contract and border patrol claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1760,14 +1808,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q327333"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10997",
       "ref": "N-10997",
       "name": "Operation Midnight Hammer",
-      "type": "investigation_target",
+      "type": "event",
       "description": "The June 2025 strikes on Iran.",
       "related_artifacts": [],
       "related_claims": [
@@ -1777,14 +1827,17 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q645883",
+      "event_time": "2025-06-22"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10998",
       "ref": "N-10998",
       "name": "Student Action Summit July 2025 (Tampa)",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Event where Tucker Carlson spoke.",
       "related_artifacts": [],
       "related_claims": [
@@ -1794,14 +1847,17 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-07"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11081",
       "ref": "N-11081",
       "name": "Romanian Angels Project",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization named with Tracy Martin.",
       "related_artifacts": [],
       "related_claims": [
@@ -1811,14 +1867,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11104",
       "ref": "N-11104",
       "name": "White House Religious Liberty Commission",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Body that held the hearing.",
       "related_artifacts": [],
       "related_claims": [
@@ -1832,14 +1890,16 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "GovernmentOrganization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-11151",
       "ref": "N-11151",
       "name": "Female Jewish Donor Confrontation of Kirk After Tucker Speech",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Related to donors angry after the SAS speech.",
       "related_artifacts": [],
       "related_claims": [
@@ -1849,14 +1909,17 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "parent": "N-10998"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11199",
       "ref": "N-11199",
       "name": "Joint Task Force Six and Joint Task Force Southern Border",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Unit Snow said he encountered.",
       "related_artifacts": [],
       "related_claims": [
@@ -1868,7 +1931,9 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "GovernmentOrganization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Person",
@@ -1921,14 +1986,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "SportsOrganization",
+      "wikidata_class": "Q623109"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-11308",
       "ref": "N-11308",
       "name": "2026 Super Bowl Halftime Show (Bad Bunny)",
-      "type": "topic",
+      "type": "event",
       "description": "The NFL halftime performance headlined by Bad Bunny, its booking, and the counter-programmed TPUSA show.",
       "related_artifacts": [],
       "related_claims": [
@@ -1940,14 +2007,18 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2026-02-08",
+      "parent": "N-10470"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-11309",
       "ref": "N-11309",
       "name": "1985 Tucson Sanctuary Movement Trial",
-      "type": "topic",
+      "type": "event",
       "description": "The 1985 trial in Tucson of church workers charged with concealing illegal aliens, as described in the Times Union article the host reads.",
       "related_artifacts": [],
       "related_claims": [
@@ -1957,7 +2028,10 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "1985"
     },
     {
       "@type": "Topic",
@@ -1975,14 +2049,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-11311",
       "ref": "N-11311",
       "name": "Charlie Kirk Third Eye Conversation (2018)",
-      "type": "topic",
+      "type": "event",
       "description": "The host's 2018 written exchange with Charlie Kirk about his third eye and what she thinks it led to.",
       "related_artifacts": [],
       "related_claims": [
@@ -1995,7 +2070,10 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2018"
     }
   ],
   "claims": [

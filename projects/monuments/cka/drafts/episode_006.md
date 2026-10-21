@@ -575,7 +575,7 @@ Pro-Israel lobbying group alleged to employ Victoria Churchill
 
 **N-10012** Utah Valley University
 
-Node Type: Place
+Node Type: Organization
 Place Kind: venue
 University with alleged CIA pipeline mentioned by host
 
@@ -625,7 +625,7 @@ Investigation into two unidentified men handling the post-shooting camera and ch
 
 **N-10074** Robinson-Lance Text Chain Authenticity
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: discrepancy
 Discrepancy over whether FBI-released text messages between Robinson and Lance are genuine
 

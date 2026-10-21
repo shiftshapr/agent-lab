@@ -966,11 +966,11 @@
       ]
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10167",
       "ref": "N-10167",
       "name": "Josh Hammer September 9 Retweet Context Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigative target: whether the September 9, 2025 9:09 p.m. ET retweet (A-1236.1) had an articulable contextual anchor. Direct entries: host asserts none; Yashar Ali (A-1237.1) proposes Iryna Zarutska anchor (disputed by host); Matt Walsh comparative (A-1238.1); Hammer's historical anchors (A-1239.2) demonstrate he has only previously invoked public execution in visceral real-time response (Uvalde 2022).",
       "related_artifacts": [
         "A-1236.1",
@@ -997,14 +997,15 @@
         "N-161",
         "N-162",
         "N-163"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10168",
       "ref": "N-10168",
       "name": "UVU Left-Side Footage Black Hole",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target: the absence of video from the audience's left / Charlie's left side at the September 10 UVU event. Host issues All-Points Bulletin to UVU attendees for footage of older males with hair tied in ponytails or buns, and from the missing-angle sector.",
       "related_artifacts": [],
       "related_claims": [
@@ -1018,14 +1019,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-1"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10169",
       "ref": "N-10169",
       "name": "Candace Kill Switch / Dead Man Switch",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Investigation target / verification node: the existence, recipients, and content of Candace Owens's \"kill switch\" – confirmed by Alex Jones audio (A-1246.1) to include Max Blumenthal, Tucker Carlson, Tate brothers, Dave Smith, and others. James O'Keefe precedent cited by Jones.",
       "related_artifacts": [
         "A-1246.1"
@@ -1045,14 +1047,15 @@
         "N-27",
         "N-39",
         "N-170"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10170",
       "ref": "N-10170",
       "name": "Charlie Kirk Final-Days Text Communications",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target: the existence and provenance of text communications from Charlie Kirk on or around the day of his death, specifically (a) \"they are going to kill me\" texts to unnamed recipients, and (b) texts expressing concern about Israel infringing on American speech. Host references both; neither artifact is displayed in this episode.",
       "related_artifacts": [],
       "related_claims": [],
@@ -1065,14 +1068,15 @@
         "N-1",
         "N-14",
         "N-164"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10016",
       "ref": "N-10016",
       "name": "Hamptons Meeting Pressure Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target: the gathering in the Hamptons at which, per host, Seth Dillon and Josh Hammer pressed Charlie on his shifting Israel views. Reference is host narrative; the episode's matching audio artifacts come from the JTV and Wolicki interviews (A-1242.1, A-1243.1) concerning a different meeting.",
       "related_artifacts": [
         "A-1242.1",
@@ -1088,14 +1092,16 @@
         "N-14",
         "N-164",
         "N-38"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10044"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10171",
       "ref": "N-10171",
       "name": "Iryna Zarutska Murder Timeline Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target: the public timeline of the August 22, 2025 Charlotte murder, arrest, and September 5 footage release. Episode uses this to falsify the Yashar Ali contextualization claim. Matt Walsh's September 5 tweet (A-1238.1) is documentary evidence of the date.",
       "related_artifacts": [
         "A-1237.1",
@@ -1113,7 +1119,8 @@
         "N-14",
         "N-161",
         "N-162"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1561,11 +1568,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Turning Point USA; staff, executives and cooperation with the feds.",
       "related_artifacts": [],
       "related_claims": [
@@ -1579,14 +1586,16 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10015",
       "ref": "N-10015",
       "name": "Mossad",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Mossad; named in Jones's Savage anecdote.",
       "related_artifacts": [],
       "related_claims": [
@@ -1596,14 +1605,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10018",
       "ref": "N-10018",
       "name": "Netanyahu Israel Invitation Phone Call",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused for the Netanyahu invitation and number claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1614,14 +1625,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10025",
       "ref": "N-10025",
       "name": "Israel Lobby Pressure on Conservative Figures",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for claims about Israel-lobby pressure on Kirk.",
       "related_artifacts": [],
       "related_claims": [
@@ -1633,14 +1646,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10027",
       "ref": "N-10027",
       "name": "The Hamptons",
-      "type": "investigation_target",
+      "type": "place",
       "description": "The Hamptons; location of the meeting the host says Hammer lied about.",
       "related_artifacts": [],
       "related_claims": [
@@ -1651,14 +1665,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10053",
       "ref": "N-10053",
       "name": "Kirk-Israel Narrative Dispute",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for claims about Kirk's views on Israel.",
       "related_artifacts": [],
       "related_claims": [
@@ -1681,14 +1696,15 @@
       "evidence_count": 0,
       "claim_count": 14,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10102",
       "ref": "N-10102",
       "name": "Moral Blackmail by Donors",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for claims about donor pressure on Kirk.",
       "related_artifacts": [],
       "related_claims": [
@@ -1700,14 +1716,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing",
+      "parent": "N-10044"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10120",
       "ref": "N-10120",
       "name": "Utah",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Utah; where the host contrasts the Mormon community's reaction.",
       "related_artifacts": [],
       "related_claims": [
@@ -1718,14 +1736,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "State",
+      "wikidata_class": "Q35657"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-10157",
       "ref": "N-10157",
       "name": "Pre-Assassination Group Chat Content",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Existing topic reused for claims about the pre-assassination group chat.",
       "related_artifacts": [],
       "related_claims": [
@@ -1738,14 +1758,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "CreativeWork"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10162",
       "ref": "N-10162",
       "name": "Josh Hammer Pre-Death Zoom Call Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for claims about the Hammer Zoom call.",
       "related_artifacts": [],
       "related_claims": [
@@ -1762,14 +1783,15 @@
       "evidence_count": 0,
       "claim_count": 8,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10198",
       "ref": "N-10198",
       "name": "TPUSA Text Chain Authenticity Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the text chain.",
       "related_artifacts": [],
       "related_claims": [
@@ -1780,14 +1802,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10323",
       "ref": "N-10323",
       "name": "Hampton Retreat Seth Dillon Confrontation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for Dillon at the Hamptons.",
       "related_artifacts": [],
       "related_claims": [
@@ -1797,14 +1820,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10129"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10590",
       "ref": "N-10590",
       "name": "TPUSA Rooftop Security Decision-Making Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for claims about rooftop security.",
       "related_artifacts": [],
       "related_claims": [
@@ -1815,14 +1840,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-10592",
       "ref": "N-10592",
       "name": "Charlie Kirk September 9 Pre-Event Threat Text",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Existing topic reused for the pre-event 'they are going to kill me' text.",
       "related_artifacts": [],
       "related_claims": [
@@ -1833,14 +1859,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Message",
+      "parent": "N-10318"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10930",
       "ref": "N-10930",
       "name": "Lay-Low List Warning",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the lay-low calls.",
       "related_artifacts": [],
       "related_claims": [
@@ -1853,14 +1881,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11017",
       "ref": "N-11017",
       "name": "Candace Owens Australia Visa Review",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Australia visa claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1870,14 +1899,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-11135",
       "ref": "N-11135",
       "name": "Charlie Kirk Security Company Ownership Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "The host's statement that Charlie Kirk owned, and purchased outright, the security company around him, and that it did not check rooftops.",
       "related_artifacts": [],
       "related_claims": [
@@ -1888,7 +1918,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     }
   ],
   "claims": [

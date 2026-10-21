@@ -866,11 +866,11 @@
       ]
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10420",
       "ref": "N-10420",
       "name": "USS Liberty Incident Cover-up Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Persistent investigative target across the series. This episode surfaces additional verification material: Ward Boston notarized statement (via viewer) and Victor Ostrovsky book reference. Host also notes New York Times is preparing a USS Liberty piece.",
       "related_artifacts": [
         "A-1694.1",
@@ -889,14 +889,15 @@
       "related_nodes": [
         "N-498",
         "N-499"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10421",
       "ref": "N-10421",
       "name": "Candace Owens Anti-Semite of Year 2024 Nomination",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Persistent series element. In this episode confirmed via opening clip A-1691.1 referencing both her nomination and Tucker Carlson's win.",
       "related_artifacts": [
         "A-1691.1"
@@ -912,14 +913,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-497"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10422",
       "ref": "N-10422",
       "name": "Piers Morgan Bassem Youssef Chart Numbers Claim",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Specific 2014 figures cited by Youssef: 88 Israelis vs. 2,329 Palestinians killed (ratio ~1:27). Plus reference to 7,000 West Bank Palestinians killed since occupation.",
       "related_artifacts": [
         "A-1690.1"
@@ -935,14 +937,16 @@
       "related_nodes": [
         "N-497",
         "N-204"
-      ]
+      ],
+      "schema_org": "Thing",
+      "parent": "N-10423"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10423",
       "ref": "N-10423",
       "name": "Gaza Death Toll and Documentation Claims",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Composite node tracking Youssef and Owens' on-record statements about Gaza casualties and the documentation of them.",
       "related_artifacts": [
         "A-1690.1",
@@ -954,14 +958,15 @@
       "evidence_count": 3,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10424",
       "ref": "N-10424",
       "name": "Andrew Kolvet Charlie Kirk Twitter Control Claim",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Youssef states \"Charlie didn't run his Twitter feed. Andrew Kolvet did.\" (A-1690 transcript)",
       "related_artifacts": [],
       "related_claims": [],
@@ -970,14 +975,15 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10425",
       "ref": "N-10425",
       "name": "Charlie Kirk BB Netanyahu Show Refusal",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Per host Candace Owens: \"When BB went on a little mini tour and went on everyone's shows sometime in August, Charlie didn't let him on a show.\" (A-1690 transcript)",
       "related_artifacts": [],
       "related_claims": [],
@@ -985,14 +991,16 @@
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "low",
+      "schema_org": "Thing",
+      "parent": "N-10018"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10426",
       "ref": "N-10426",
       "name": "New York Times USS Liberty Investigation Reporting",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Per host, NYT contacted her regarding her Phil Tourney interview and is preparing a piece on USS Liberty.",
       "related_artifacts": [],
       "related_claims": [],
@@ -1004,14 +1012,16 @@
       "related_nodes": [
         "N-10420",
         "N-498"
-      ]
+      ],
+      "schema_org": "Thing",
+      "parent": "N-10420"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10427",
       "ref": "N-10427",
       "name": "Ostrovsky October 7th Photo Authenticity Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Discrepancy noted in the two photos: blood on face vs. no blood on bandages.",
       "related_artifacts": [
         "A-1693.1",
@@ -1027,14 +1037,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-501"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10428",
       "ref": "N-10428",
       "name": "Bassem Youssef Belly of the Beast Tour Schedule",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Documented tour dates: Portland 3/20, Seattle 3/21, plus Philadelphia, DC, Houston, Atlanta.",
       "related_artifacts": [
         "A-1695.1"
@@ -1049,14 +1060,16 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-497"
-      ]
+      ],
+      "schema_org": "EventSeries",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10429",
       "ref": "N-10429",
       "name": "Victor Ostrovsky *By Way of Deception* 24-Hour Gag Order Claim",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Claim that the book was subject to a 24-hour gag order in 1992, described as \"the first and last ever gag order on an American book.\"",
       "related_artifacts": [
         "A-1697.1"
@@ -1071,14 +1084,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-500"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10430",
       "ref": "N-10430",
       "name": "1982 Beirut Barracks Bombing Mossad Advance Knowledge Claim",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Per Ostrovsky book (per Youssef): Mossad allegedly knew about the bombing of U.S. Marines in Beirut in advance and withheld information.",
       "related_artifacts": [
         "A-1697.1"
@@ -1093,14 +1107,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-500"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-10431",
       "ref": "N-10431",
       "name": "*Till Kingdom Come* Documentary Pastors Clip",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Verbal reference to documentary showing pastors telling children Jews are more special.",
       "related_artifacts": [
         "A-1698.1"
@@ -1112,14 +1127,16 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CreativeWork",
+      "wikidata_class": "Q93204"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-10432",
       "ref": "N-10432",
       "name": "Ward Boston Notarized Statement San Diego Union Tribune",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Specific publication reference: Ward Boston's notarized statement was published in the San Diego Union Tribune before his death.",
       "related_artifacts": [
         "A-1694.1"
@@ -1135,14 +1152,17 @@
       "related_nodes": [
         "N-499",
         "N-10420"
-      ]
+      ],
+      "schema_org": "CreativeWork",
+      "wikidata_class": "Q49848",
+      "parent": "N-10420"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10433",
       "ref": "N-10433",
       "name": "Candace Phil Tourney Interview View Count",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Approximately 7 million views cited by host at 01:21:47 (also noted in a Project Constitution viewer comment).",
       "related_artifacts": [
         "A-1694.2",
@@ -1158,14 +1178,16 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-498"
-      ]
+      ],
+      "schema_org": "Thing",
+      "parent": "N-10420"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10434",
       "ref": "N-10434",
       "name": "Calvary Chapel Church CIA Connection Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host claim that Calvary Chapel is \"a CIA story\" and that Rob McCoy's father ran Navy psychological operations. (Host claim – not artifact-anchored in this episode beyond host testimony.)",
       "related_artifacts": [],
       "related_claims": [],
@@ -1176,7 +1198,9 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-17"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10234"
     },
     {
       "@type": "Person",
@@ -1629,11 +1653,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization whose employees received Erika Kirk's calls and whose event hosted the Shapiro Liberty exchange.",
       "related_artifacts": [],
       "related_claims": [
@@ -1646,14 +1670,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10015",
       "ref": "N-10015",
       "name": "Mossad",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization named in Youssef's historical false-flag claims and his Ostrovsky statements.",
       "related_artifacts": [],
       "related_claims": [
@@ -1669,14 +1695,16 @@
       "evidence_count": 0,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10023",
       "ref": "N-10023",
       "name": "Epstein Israeli Intelligence Asset Allegation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic related to Youssef's statements on Epstein.",
       "related_artifacts": [],
       "related_claims": [
@@ -1687,14 +1715,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10026",
       "ref": "N-10026",
       "name": "Israel",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Place at the center of the episode's statements.",
       "related_artifacts": [],
       "related_claims": [
@@ -1713,14 +1742,16 @@
       "evidence_count": 0,
       "claim_count": 10,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10045",
       "ref": "N-10045",
       "name": "Charlie Kirk Assassination Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic linked to the host's statements on Netanyahu's press tour and Trump's tweet.",
       "related_artifacts": [],
       "related_claims": [
@@ -1732,14 +1763,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-10056",
       "ref": "N-10056",
       "name": "PBD Podcast",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Show on which Youssef says Kirk asked questions about Israel.",
       "related_artifacts": [],
       "related_claims": [
@@ -1749,14 +1781,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CreativeWorkSeries"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10060",
       "ref": "N-10060",
       "name": "Gaza",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Place discussed throughout the episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1769,14 +1802,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Place"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10126",
       "ref": "N-10126",
       "name": "PragerU",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization where the host says she worked for Marissa.",
       "related_artifacts": [],
       "related_claims": [
@@ -1786,14 +1820,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10196",
       "ref": "N-10196",
       "name": "Egyptian Air Force SU-BTT Provo Mission Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Aircraft investigation target related to the host's Egyptian passport names claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1803,14 +1839,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10199"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10239",
       "ref": "N-10239",
       "name": "Egyptian Military Plane Tracking Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Investigation target for the Egyptian aircraft that tracked Kirk and TPUSA faith events.",
       "related_artifacts": [],
       "related_claims": [
@@ -1821,14 +1859,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10248",
       "ref": "N-10248",
       "name": "Calvary Chapel Pro-Israel Coordination",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic related to the host's statements about Calvary Chapel.",
       "related_artifacts": [],
       "related_claims": [
@@ -1838,14 +1877,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10320",
       "ref": "N-10320",
       "name": "Bibi Netanyahu TPUSA Funding Offer",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic related to the host's statement that Kirk said no when Netanyahu wanted to take Turning Point further.",
       "related_artifacts": [],
       "related_claims": [
@@ -1855,14 +1895,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10383",
       "ref": "N-10383",
       "name": "TPUSA Board Member Military–Satanism Connection",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic related to the host's Aquino and Temple of Set statements.",
       "related_artifacts": [],
       "related_claims": [
@@ -1873,14 +1914,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10390",
       "ref": "N-10390",
       "name": "Fort Huachuca Erika Presence Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic related to the host's Fort Huachuca statement.",
       "related_artifacts": [],
       "related_claims": [
@@ -1890,14 +1932,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10821",
       "ref": "N-10821",
       "name": "Daily Wire",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization that the host says barred Youssef and sued her after the Tourney interview.",
       "related_artifacts": [],
       "related_claims": [
@@ -1912,14 +1956,16 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10889",
       "ref": "N-10889",
       "name": "The New York Times",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization discussed in Youssef's and the host's statements about its Gaza reporting.",
       "related_artifacts": [],
       "related_claims": [
@@ -1931,7 +1977,9 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q11032"
     },
     {
       "@type": "Person",
@@ -2040,7 +2088,8 @@
       "evidence_count": 1,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -2058,7 +2107,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -2080,14 +2130,15 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-10961",
       "ref": "N-10961",
       "name": "US Sanctions on ICC Judges",
-      "type": "topic",
+      "type": "event",
       "description": "Investigation target: Youssef's claim that the US sanctioned an ICC judge, a Dutch national, cutting off his bank access.",
       "related_artifacts": [],
       "related_claims": [
@@ -2097,14 +2148,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "Topic",
+      "@type": "Thing",
       "@id": "N-10962",
       "ref": "N-10962",
       "name": "Erika Kirk Employee Call Recordings",
-      "type": "topic",
+      "type": "thing",
       "description": "Investigation target: recordings of Erika Kirk addressing TPUSA employees five days after Charlie Kirk's death.",
       "related_artifacts": [
         "A-2765.1"
@@ -2117,7 +2170,8 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "AudioObject"
     },
     {
       "@type": "Topic",
@@ -2138,14 +2192,15 @@
       "evidence_count": 1,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10964",
       "ref": "N-10964",
       "name": "ICE Tel Aviv Field Office Claim",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Investigation target: Youssef's claim that an ICE field office is in Tel Aviv.",
       "related_artifacts": [],
       "related_claims": [
@@ -2155,7 +2210,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     }
   ],
   "claims": [

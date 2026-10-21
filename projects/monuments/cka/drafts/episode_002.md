@@ -663,7 +663,7 @@ Uncertainty: Transcript spells 'Mossad'; canonical Mossad.
 
 **N-10016** Hamptons Meeting Pressure Investigation
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: verification_thread
 Investigation thread on alleged Bill Ackman-led intervention against Kirk weeks before his death.
 
@@ -684,7 +684,7 @@ Uncertainty: No artifact directly shown; based on host assertion of personal com
 
 **N-10017** Charlie Kirk May 2 Letter Misrepresentation
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: verification_thread
 Discrepancy between Netanyahu's framing of the May 2 letter and host's claim that it actually expressed concern over Israel influence.
 
@@ -694,7 +694,7 @@ Discrepancy between Netanyahu's framing of the May 2 letter and host's claim tha
 
 **N-10018** Netanyahu Israel Invitation Phone Call
 
-Node Type: Topic
+Node Type: Event
 Topic Kind: verification_thread
 Alleged phone call where Netanyahu invited Kirk to Israel weeks before his death; host frames it as a threat under pressure.
 
@@ -704,7 +704,7 @@ Alleged phone call where Netanyahu invited Kirk to Israel weeks before his death
 
 **N-10019** Robinson Outfit Change Discrepancy
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: discrepancy
 Discrepancy between surveillance outfits (maroon vs black) and the 33-hour re-donning of the original outfit.
 
@@ -714,7 +714,7 @@ Discrepancy between surveillance outfits (maroon vs black) and the 33-hour re-do
 
 **N-10020** Weapon Disassembly/Reassembly Claim
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: verification_thread
 FBI narrative that the Mauser was disassembled on the rooftop, carried in backpack, and found reassembled in woods.
 
@@ -724,7 +724,7 @@ FBI narrative that the Mauser was disassembled on the rooftop, carried in backpa
 
 **N-10021** Robinson Confession and Arrest Discrepancy
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: discrepancy
 Discrepancy between reported father/pastor-led turn-in and Governor Cox's statement that Robinson has not confessed.
 

@@ -720,7 +720,7 @@ Existing topic reused for new claims in this episode.
 
 **N-11228** Kolvet PR Role for Erika Kirk August 2025 Question
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's report, from people who worked with Andrew Kolvet, that TPUSA did not normally handle Erika Kirk's media outside TPUSA Faith events and her question why he was doing so in August 2025.
 
 *Related: C-13331, C-13332*

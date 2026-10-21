@@ -577,7 +577,7 @@ The host's former employer, whose finances, Pendragon, alleged stalking, the 202
 
 **N-10830** Blake Bednarz Preservation Order / Non-Suit Discrepancy
 
-Node Type: Topic
+Node Type: Investigation Question
 Investigation target: why the Harpole plaintiffs served Douglas Blake Bednarz – who explicitly and repeatedly accused Harpole of killing Charlie Kirk – with a preservation order rather than suing him, along with the host's earlier contacts with Bednarz and a new lead the host says she received about him.
 
 *Related: C-8927, C-8928, C-8929, C-8931, C-8932, C-8934, C-8935, C-8936, C-8985, A-2544.2, A-2545.1, N-600, N-266*

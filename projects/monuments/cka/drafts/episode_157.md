@@ -1356,7 +1356,7 @@ Aliases (transcript spelling): Claire Guinan.
 
 **N-10992** UVUPD Fugal Gateway Command Post
 
-Node Type: Topic
+Node Type: Place
 Chief Long's command post on the second floor of the Fugal Gateway building from 11:30 a.m. on September 10, from which the review says the whole event area was visible and which no TPUSA security member joined.
 
 *Related: C-13564*
@@ -1365,7 +1365,7 @@ Chief Long's command post on the second floor of the Fugal Gateway building from
 
 **N-10993** Wristband and VIP Access Question
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's question about who distributed wristbands to people seated near Charlie Kirk's vehicle given the review's finding of no formal credentialing, screening or ticket verification.
 
 *Related: C-13592, C-13593, C-13594*
@@ -1401,7 +1401,7 @@ The UVU committee the host praises for flagging expected protests, monitoring co
 
 **N-10997** Operation Midnight Hammer
 
-Node Type: Topic
+Node Type: Event
 The June 2025 U.S. strike on Iranian nuclear sites named by the host in her concurrent timeline.
 
 *Related: C-13643*
@@ -1410,7 +1410,7 @@ The June 2025 U.S. strike on Iranian nuclear sites named by the host in her conc
 
 **N-10998** Student Action Summit July 2025 (Tampa)
 
-Node Type: Topic
+Node Type: Event
 The TPUSA Student Action Summit held July 11 to 13, 2025 in Tampa, Florida, where Tucker Carlson spoke and Kirk's Epstein remarks drew donor reaction per the host.
 
 *Related: C-13597, C-13598, C-13603*
@@ -1419,7 +1419,7 @@ The TPUSA Student Action Summit held July 11 to 13, 2025 in Tampa, Florida, wher
 
 **N-10999** New York Post Weinstein Payment Story
 
-Node Type: Topic
+Node Type: Thing
 The story the host says the New York Post ran in the week of the episode implying she accepted $1.5 million from Harvey Weinstein, which she denies.
 
 *Related: C-13639, C-13640*

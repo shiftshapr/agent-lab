@@ -683,11 +683,11 @@
       ]
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10412",
       "ref": "N-10412",
       "name": "TPUSA Post-Assassination Leadership Tone/Timing Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigative target: tonal and temporal gap between Erika Kirk's upbeat call presentation and the recency of Charlie Kirk's public assassination.",
       "related_artifacts": [
         "A-1676.1",
@@ -705,14 +705,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10413",
       "ref": "N-10413",
       "name": "TPUSA Vision 2030 Documentation Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigative target: verification of Erika Kirk's claim that Charlie was working on a 2030 strategic plan with Justin and that she possesses his journals documenting it.",
       "related_artifacts": [
         "A-1676.3"
@@ -729,14 +730,15 @@
       "related_nodes": [
         "N-2",
         "N-15"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10414",
       "ref": "N-10414",
       "name": "Christian Zionist Threat Message Authorship Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigative target: confirmation that the previously circulated Christian Zionist threat message is authored by Laurie Cardoza-Moore via audio voice match.",
       "related_artifacts": [
         "A-1680.1",
@@ -752,7 +754,8 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-495"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1112,7 +1115,9 @@
       "evidence_count": 0,
       "claim_count": 9,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "School",
+      "wikidata_class": "Q3914"
     },
     {
       "@type": "Organization",
@@ -1129,7 +1134,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Corporation",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -1149,7 +1156,9 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Corporation",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -1169,14 +1178,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "GovernmentOrganization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-11044",
       "ref": "N-11044",
       "name": "Operation Paperclip",
-      "type": "topic",
+      "type": "event",
       "description": "Post-WWII program the host says brought German scientists to the US; invoked in her moon-landing and mind-control commentary.",
       "related_artifacts": [],
       "related_claims": [
@@ -1187,14 +1198,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-11045",
       "ref": "N-11045",
       "name": "Kanye West Public Apology",
-      "type": "topic",
+      "type": "event",
       "description": "Kanye West's full-page Wall Street Journal ad and Vanity Fair answers apologizing for harm he caused, as discussed by the host.",
       "related_artifacts": [],
       "related_claims": [
@@ -1206,7 +1219,9 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
       "@type": "Organization",
@@ -1247,14 +1262,16 @@
       "evidence_count": 0,
       "claim_count": 25,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "Organization",
+      "@type": "Topic",
       "@id": "N-10001",
       "ref": "N-10001",
       "name": "MK Ultra",
-      "type": "organization",
+      "type": "topic",
       "description": "Reused existing node; cited by the new claims in this supplement.",
       "related_artifacts": [],
       "related_claims": [
@@ -1264,7 +1281,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1285,14 +1303,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10189",
       "ref": "N-10189",
       "name": "TPUSA Military-Personnel Network",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Reused existing node; cited by the new claims in this supplement.",
       "related_artifacts": [],
       "related_claims": [
@@ -1302,14 +1321,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10201",
       "ref": "N-10201",
       "name": "TPUSA Faith / Christian Zionist Infiltration Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Reused existing node; cited by the new claims in this supplement.",
       "related_artifacts": [],
       "related_claims": [
@@ -1321,14 +1341,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10203",
       "ref": "N-10203",
       "name": "Lincoln, Nebraska TPUSA Chapter Origin Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Reused existing node; cited by the new claims in this supplement.",
       "related_artifacts": [],
       "related_claims": [
@@ -1338,14 +1359,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10199"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10193",
       "ref": "N-10193",
       "name": "Charlie Kirk Burial / Funeral Narrative Discrepancy",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Reused existing node; cited by the new claims in this supplement.",
       "related_artifacts": [],
       "related_claims": [
@@ -1357,14 +1380,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10318",
       "ref": "N-10318",
       "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Reused existing node; cited by the new claims in this supplement.",
       "related_artifacts": [],
       "related_claims": [
@@ -1374,14 +1398,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10386",
       "ref": "N-10386",
       "name": "Project Looking Glass Allegation",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Reused existing node; cited by the new claims in this supplement.",
       "related_artifacts": [],
       "related_claims": [
@@ -1391,14 +1416,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10392",
       "ref": "N-10392",
       "name": "Erika Kirk China Timeline Discrepancy",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Reused existing node; cited by the new claims in this supplement.",
       "related_artifacts": [],
       "related_claims": [
@@ -1408,7 +1434,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
@@ -1427,14 +1454,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10408",
       "ref": "N-10408",
       "name": "TPUSA Termination Cause Investigation",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Reused existing node; cited by the new claims in this supplement.",
       "related_artifacts": [],
       "related_claims": [
@@ -1447,7 +1475,8 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
@@ -1464,7 +1493,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Organization",
@@ -1481,14 +1511,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10826",
       "ref": "N-10826",
       "name": "New York Times Erika Kirk Interview Account Discrepancies",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Reused existing node; cited by the new claims in this supplement.",
       "related_artifacts": [],
       "related_claims": [
@@ -1500,7 +1532,8 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
       "@type": "Organization",
@@ -1518,7 +1551,9 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q11032"
     },
     {
       "@type": "Topic",
@@ -1535,7 +1570,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     }
   ],
   "claims": [

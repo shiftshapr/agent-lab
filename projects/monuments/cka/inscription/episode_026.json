@@ -572,11 +572,11 @@
       ]
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "*(Existing – referenced in scheduling and phone call discussion)*",
       "related_artifacts": [
         "A-1339.1",
@@ -591,7 +591,9 @@
       "evidence_count": 2,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Person",
@@ -840,11 +842,11 @@
       ]
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10211",
       "ref": "N-10211",
       "name": "UVU Event Approval Timeline Anomaly",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent discrepancy between standard TPUSA advance-planning window (≈5–6 months, per A-1333.1) and the unusually short UVU request-to-event interval (mid-July 2025 request, September 2025 approval per host).",
       "related_artifacts": [
         "A-1333.1",
@@ -861,14 +863,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10213",
       "ref": "N-10213",
       "name": "Equipment Box / First-Aid Anomaly at UVU Scene",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent claim that Charlie Kirk was placed on top of an equipment box rather than flat ground, and that no visible first-aid administration occurred in the immediate post-shot window.",
       "related_artifacts": [
         "A-1344.1",
@@ -885,14 +888,15 @@
       "related_nodes": [
         "N-1",
         "N-190"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10214",
       "ref": "N-10214",
       "name": "Mikey McCoy Post-Shooting Phone Call Sequence",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent claim that Mikey McCoy's described phone calls (Erica, Rob McCoy) within one minute of the shooting are inconsistent with observed movement patterns and with expected human behavior under such circumstances.",
       "related_artifacts": [
         "A-1339.1",
@@ -916,14 +920,15 @@
         "N-159",
         "N-17",
         "N-2"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10215",
       "ref": "N-10215",
       "name": "YouTube Scheduling Order Anomaly",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent claim that the first scheduled post on Charlie Kirk's YouTube channel after the memorial event was Mikey McCoy's speech, queued before Erika Kirk's.",
       "related_artifacts": [
         "A-1343.1"
@@ -939,7 +944,8 @@
       "related_nodes": [
         "N-190",
         "N-2"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1395,11 +1401,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10002",
       "ref": "N-10002",
       "name": "Charlie Kirk Death and Memorial",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for memorial claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1410,14 +1416,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Utah Valley University; venue of the September 10 event.",
       "related_artifacts": [],
       "related_claims": [
@@ -1428,14 +1435,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10061",
       "ref": "N-10061",
       "name": "The Pentagon",
-      "type": "investigation_target",
+      "type": "place",
       "description": "The Pentagon; named in the host's 9/11 comments.",
       "related_artifacts": [],
       "related_claims": [
@@ -1445,14 +1454,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "LandmarksOrHistoricalBuildings",
+      "wikidata_class": "Q41176"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10070",
       "ref": "N-10070",
       "name": "AIPAC",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "APAC; named in the viewer comment about a TPUSA takeover.",
       "related_artifacts": [],
       "related_claims": [
@@ -1462,14 +1473,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10119",
       "ref": "N-10119",
       "name": "Riverbend Ranch",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Riverbend Ranch; the sponsor in the ad read.",
       "related_artifacts": [],
       "related_claims": [
@@ -1479,14 +1492,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10144",
       "ref": "N-10144",
       "name": "Hospital Routing Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for hospital arrival and lockdown claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1497,14 +1512,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10185",
       "ref": "N-10185",
       "name": "Mikey McCoy Call Log Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for call-log claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1515,14 +1531,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10214"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10186",
       "ref": "N-10186",
       "name": "TPUSA Succession Plan Disclosure Timeline",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the succession plan claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1533,14 +1551,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10190",
       "ref": "N-10190",
       "name": "Mikey McCoy Behavior Discrepancy (September 10, 2025)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for Mikey McCoy's movement claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1552,14 +1571,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10191",
       "ref": "N-10191",
       "name": "Susie Wiles Eulogy-Selection Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Wiles eulogy claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1569,14 +1589,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10194",
       "ref": "N-10194",
       "name": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Kash Patel claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1586,14 +1607,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10208",
       "ref": "N-10208",
       "name": "TPUSA Leadership Transparency Pressure (Post-Charlie)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the transparency claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1603,14 +1625,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10212",
       "ref": "N-10212",
       "name": "Israeli Cell Phone Presence on 9/10",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Israeli cell phone cover-up claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1620,14 +1643,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10303",
       "ref": "N-10303",
       "name": "Epstein Files Release Status",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Epstein donors claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1637,14 +1661,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10535",
       "ref": "N-10535",
       "name": "Trump Truth Social Post Pattern Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Trump posting claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1655,14 +1680,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10574",
       "ref": "N-10574",
       "name": "Laura Loomer Involuntary Psychiatric Holds / Firearm Prohibition",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Loomer 5150 claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1672,14 +1698,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10576",
       "ref": "N-10576",
       "name": "Laura Loomer Identity Claims (Jewish Heritage)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Loomer identity claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1690,14 +1717,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10651",
       "ref": "N-10651",
       "name": "Blake Neff September 10th Movement Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for Blake Neff's movement claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1708,14 +1736,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10838",
       "ref": "N-10838",
       "name": "Republican Jewish Coalition",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Republican Jewish Coalition; event Cooper watched.",
       "related_artifacts": [],
       "related_claims": [
@@ -1725,14 +1754,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-11018",
       "ref": "N-11018",
       "name": "Charlie Kirk Post-Shooting First Aid Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the first-aid claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1743,7 +1774,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1849,7 +1881,8 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1866,7 +1899,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     }
   ],
   "claims": [

@@ -610,11 +610,11 @@
   ],
   "nodes": [
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10645",
       "ref": "N-10645",
       "name": "Parking Garage Challenger Vehicle Exhaust Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The discrepancy between the dual-exhaust Dodge Challenger shown in preliminary hearing footage (A-2120.1) and Tyler Robinson's known single-exhaust Dodge Challenger (A-2120.2).",
       "related_artifacts": [
         "A-2120.1",
@@ -627,14 +627,16 @@
       "evidence_count": 2,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10773"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10646",
       "ref": "N-10646",
       "name": "Bullet Jacket Fragment Diameter Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The discrepancy between the 6A bullet jacket fragment diameter range (286–301 thousandths of an inch, per A-2125.1) and the minimum cartridge diameter (.308) for a .30-06 rifle.",
       "related_artifacts": [
         "A-2125.1"
@@ -646,14 +648,15 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10647",
       "ref": "N-10647",
       "name": "Tyler Robinson DNA Most Degraded Anomaly",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The anomaly that Tyler Robinson's DNA sample on the firearm was the most degraded of all contributors identified, despite the prosecution's theory that Robinson handled the gun immediately prior to disposal.",
       "related_artifacts": [
         "A-2124.3"
@@ -665,14 +668,15 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10648",
       "ref": "N-10648",
       "name": "Ben Shapiro Car Ride Live Updates",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The discrepancy that Ben Shapiro's security team received live updates from someone in Charlie Kirk's vehicle during the seven-minute transport to the hospital, while the vehicle occupants have publicly given accounts that do not readily identify who could have made such calls.",
       "related_artifacts": [
         "A-2127.1"
@@ -687,14 +691,16 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-1"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10624"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10649",
       "ref": "N-10649",
       "name": "Tyler-Lance Text Message Extraction Source",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The investigative question of which Tel Aviv-based company extracted the Tyler-Lance text messages introduced at the preliminary hearing.",
       "related_artifacts": [
         "A-2123.1"
@@ -704,7 +710,9 @@
       "evidence_count": 1,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "low",
+      "schema_org": "Question",
+      "parent": "N-10074"
     },
     {
       "@type": "Person",
@@ -1094,11 +1102,11 @@
       "related_nodes": []
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Turning Point USA; where staff and leadership are discussed throughout.",
       "related_artifacts": [],
       "related_claims": [
@@ -1109,14 +1117,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Utah Valley University; the hearing and the Loy Center are tied to it.",
       "related_artifacts": [],
       "related_claims": [
@@ -1130,14 +1140,16 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10018",
       "ref": "N-10018",
       "name": "Netanyahu Israel Invitation Phone Call",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused for the Netanyahu call.",
       "related_artifacts": [],
       "related_claims": [
@@ -1147,14 +1159,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10022",
       "ref": "N-10022",
       "name": "Robinson Father Turn-In Narrative",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the claim that Robinson's parents turned him in.",
       "related_artifacts": [],
       "related_claims": [
@@ -1167,14 +1181,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10027",
       "ref": "N-10027",
       "name": "The Hamptons",
-      "type": "investigation_target",
+      "type": "place",
       "description": "The Hamptons; location of the gathering with the Netanyahu call.",
       "related_artifacts": [],
       "related_claims": [
@@ -1184,14 +1199,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10028",
       "ref": "N-10028",
       "name": "Utah Valley University Campus",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Campus where Robinson's movements and the Loy Center are placed.",
       "related_artifacts": [],
       "related_claims": [
@@ -1205,14 +1221,16 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Place",
+      "parent": "N-10059"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10048",
       "ref": "N-10048",
       "name": "Dairy Queen 6:38 Photo Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the host's belief Robinson was at the Dairy Queen.",
       "related_artifacts": [],
       "related_claims": [
@@ -1222,14 +1240,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10074",
       "ref": "N-10074",
       "name": "Robinson-Lance Text Chain Authenticity",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Tyler-Lance texts.",
       "related_artifacts": [],
       "related_claims": [
@@ -1244,14 +1263,15 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10354",
       "ref": "N-10354",
       "name": "Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Panguitch steak claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1263,14 +1283,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10359",
       "ref": "N-10359",
       "name": "Ben Shapiro Hostile Takeover Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Charlie-Shapiro relationship.",
       "related_artifacts": [],
       "related_claims": [
@@ -1280,14 +1301,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10362",
       "ref": "N-10362",
       "name": "Charlie Kirk Premonition Dreams",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the dreams.",
       "related_artifacts": [],
       "related_claims": [
@@ -1297,14 +1319,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10458",
       "ref": "N-10458",
       "name": "BB Netanyahu Hamptons Dinner Allegation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Netanyahu call allegation.",
       "related_artifacts": [],
       "related_claims": [
@@ -1316,14 +1339,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10415"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10523",
       "ref": "N-10523",
       "name": "ATF Bullet-to-Gun Inconclusive Finding",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the gun and bullet linkage.",
       "related_artifacts": [],
       "related_claims": [
@@ -1334,14 +1359,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10106"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10545",
       "ref": "N-10545",
       "name": "Lance Twiggs Federal Asset Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the federal asset claim about Lance.",
       "related_artifacts": [],
       "related_claims": [
@@ -1356,14 +1383,15 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10617",
       "ref": "N-10617",
       "name": "Lance Twiggs Preliminary Hearing Testimony Limitation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for limits on Lance's testimony and cross-examination.",
       "related_artifacts": [],
       "related_claims": [
@@ -1374,14 +1402,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10630",
       "ref": "N-10630",
       "name": "911 Call Origin in Hospital Transport Vehicle",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for 911 and transport vehicle events.",
       "related_artifacts": [],
       "related_claims": [
@@ -1393,14 +1422,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10663"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10639",
       "ref": "N-10639",
       "name": "Tyler Robinson Set-up Theory (Lance Twiggs as Actual Perpetrator)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the set-up theory.",
       "related_artifacts": [],
       "related_claims": [
@@ -1411,14 +1442,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10663",
       "ref": "N-10663",
       "name": "911 Call Identification Gap",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for who called 911.",
       "related_artifacts": [],
       "related_claims": [
@@ -1428,14 +1460,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10678",
       "ref": "N-10678",
       "name": "Ben Shapiro 9/10 Lunch Meeting Identification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for who Shapiro was with at lunch.",
       "related_artifacts": [],
       "related_claims": [
@@ -1446,14 +1479,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10821",
       "ref": "N-10821",
       "name": "Daily Wire",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Daily Wire; Shapiro's company, discussed in the lawsuit and donation claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1466,14 +1500,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10896",
       "ref": "N-10896",
       "name": "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "ATF; the source of the DNA and ballistics testimony.",
       "related_artifacts": [],
       "related_claims": [
@@ -1487,14 +1523,16 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q327333"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10937",
       "ref": "N-10937",
       "name": "TPUSA Influencer Payment Campaign Allegation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's pay allegation about influencers.",
       "related_artifacts": [],
       "related_claims": [
@@ -1505,14 +1543,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10983",
       "ref": "N-10983",
       "name": "Preliminary Hearing Influencer Invitation Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the invitation of influencers to the hearing.",
       "related_artifacts": [],
       "related_claims": [
@@ -1527,7 +1566,9 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-11065"
     },
     {
       "@type": "Person",
@@ -1799,11 +1840,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-11053",
       "ref": "N-11053",
       "name": "Bullet Fragment Chain-of-Custody Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "The host's point that seven fragments were reportedly taken from Charlie's body, but the ATF examiner testified she received four, found three unusable and examined one, labeled 6A.",
       "related_artifacts": [],
       "related_claims": [
@@ -1813,14 +1854,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10106"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-11054",
       "ref": "N-11054",
       "name": "Transport Car Cardboard-Like Piece Tip",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "A tip the host says she received about a piece that looked like cardboard in the back of the transport vehicle.",
       "related_artifacts": [],
       "related_claims": [
@@ -1831,7 +1874,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
@@ -1851,7 +1895,8 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     }
   ],
   "claims": [

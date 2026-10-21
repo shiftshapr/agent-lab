@@ -495,11 +495,11 @@
   ],
   "nodes": [
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10676",
       "ref": "N-10676",
       "name": "Howard Hughes Death Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent discrepancy between the official cause of death (kidney failure) and host-narrated findings of fatal codeine injection, malnutrition, bed sores, and five broken hypodermic needles in arm flesh.",
       "related_artifacts": [
         "A-2173.1"
@@ -509,14 +509,15 @@
       "evidence_count": 1,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "low",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10675",
       "ref": "N-10675",
       "name": "Daily Mail Article Source Identity",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent question of who provided the on-the-record quotes about Candace Owens in the Daily Mail article; host names \"Tracy\" (former local id 1221) as her guess; Kolvet disputes origin via A-2174.1.",
       "related_artifacts": [
         "A-2174.1",
@@ -536,14 +537,15 @@
       "related_nodes": [
         "N-2",
         "N-14"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10504",
       "ref": "N-10504",
       "name": "Blake Neff \"Two Phones\" Implication",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent open-question of whether Mikey possessed two phones on 9/10; Neff's phrasing \"I put that phone away\" (A-2176.1) is noted as linguistically suggestive of a second phone.",
       "related_artifacts": [
         "A-2176.1"
@@ -561,14 +563,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-159"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10677",
       "ref": "N-10677",
       "name": "TPUSA Inner Circle Composition Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent question of LDS staffing inside TPUSA leadership; introduced this episode via host's account of Charlie Kirk's UVU remarks (not artifact-displayed in this episode) and connections drawn from A-2173.1.",
       "related_artifacts": [
         "A-2173.1"
@@ -579,7 +582,8 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -832,11 +836,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization at issue in staff-composition and funding claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -849,14 +853,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10018",
       "ref": "N-10018",
       "name": "Netanyahu Israel Invitation Phone Call",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Netanyahu call to Charlie Kirk.",
       "related_artifacts": [],
       "related_claims": [
@@ -866,14 +872,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10027",
       "ref": "N-10027",
       "name": "The Hamptons",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Hamptons location of the Dillon confrontation.",
       "related_artifacts": [],
       "related_claims": [
@@ -883,14 +891,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10067",
       "ref": "N-10067",
       "name": "Daily Mail",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Publisher of the article at the center of the episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -905,14 +914,16 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10127",
       "ref": "N-10127",
       "name": "TPUSA DOGE Department / Financial Audit",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "TPUSA internal DOGE audit.",
       "related_artifacts": [],
       "related_claims": [
@@ -923,14 +934,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10235",
       "ref": "N-10235",
       "name": "\"Mormon Mafia\" Allegation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Mormon Mafia concept introduced in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -942,14 +954,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10239",
       "ref": "N-10239",
       "name": "Egyptian Military Plane Tracking Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Egyptian plane tracking.",
       "related_artifacts": [],
       "related_claims": [
@@ -959,14 +972,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10242",
       "ref": "N-10242",
       "name": "Duncan Aviation Rental Vehicle Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Duncan Aviation investigation.",
       "related_artifacts": [],
       "related_claims": [
@@ -977,14 +991,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10239"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10293",
       "ref": "N-10293",
       "name": "Maroon Shirt Pattern at UVU September 10 Event",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Maroon shirt pattern referenced in the Hughes relative claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -994,14 +1010,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10319",
       "ref": "N-10319",
       "name": "Andrew Kolvet Surgeon Bullet Description",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Surgeon quote.",
       "related_artifacts": [],
       "related_claims": [
@@ -1011,14 +1028,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10323",
       "ref": "N-10323",
       "name": "Hampton Retreat Seth Dillon Confrontation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Seth Dillon confrontation at the Hamptons retreat.",
       "related_artifacts": [],
       "related_claims": [
@@ -1028,14 +1046,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10129"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10356",
       "ref": "N-10356",
       "name": "Farnsworth Family Political-Military Network",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Farnsworth family network.",
       "related_artifacts": [],
       "related_claims": [
@@ -1045,14 +1065,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10361",
       "ref": "N-10361",
       "name": "Missing Money from Turning Point Action",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Missing money at Turning Point Action.",
       "related_artifacts": [],
       "related_claims": [
@@ -1062,14 +1083,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10371",
       "ref": "N-10371",
       "name": "Turning Point USA Faith Structure",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "TPUSA faith structure and LDS composition.",
       "related_artifacts": [],
       "related_claims": [
@@ -1080,14 +1102,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10416",
       "ref": "N-10416",
       "name": "Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Surgeon call discrepancy.",
       "related_artifacts": [],
       "related_claims": [
@@ -1097,14 +1120,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10648",
       "ref": "N-10648",
       "name": "Ben Shapiro Car Ride Live Updates",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Shapiro car ride live updates.",
       "related_artifacts": [],
       "related_claims": [
@@ -1114,14 +1138,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10624"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10650",
       "ref": "N-10650",
       "name": "Unidentified Burnt Object in Charlie Kirk's SUV",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Burnt object in SUV.",
       "related_artifacts": [],
       "related_claims": [
@@ -1133,14 +1159,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10672"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10672",
       "ref": "N-10672",
       "name": "SUV Interior Anomaly",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "SUV interior anomaly.",
       "related_artifacts": [
         "A-2791.1"
@@ -1153,14 +1181,15 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10673",
       "ref": "N-10673",
       "name": "Sandy Hook Comparison Rhetoric",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Sandy Hook comparison.",
       "related_artifacts": [],
       "related_claims": [
@@ -1170,14 +1199,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10739",
       "ref": "N-10739",
       "name": "NCRI Report Provenance and Authorship",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "NCRI report provenance.",
       "related_artifacts": [],
       "related_claims": [
@@ -1187,14 +1217,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10846",
       "ref": "N-10846",
       "name": "Turning Point Action",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Turning Point Action.",
       "related_artifacts": [],
       "related_claims": [
@@ -1205,14 +1236,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10859",
       "ref": "N-10859",
       "name": "Erika Kirk Corporate Will and Inheritance Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Corporate will question.",
       "related_artifacts": [],
       "related_claims": [
@@ -1222,7 +1255,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10186"
     },
     {
       "@type": "Person",
@@ -1901,7 +1936,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
       "@type": "Organization",
@@ -1921,7 +1958,9 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -1940,7 +1979,9 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Topic",
@@ -1959,14 +2000,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10983",
       "ref": "N-10983",
       "name": "Preliminary Hearing Influencer Invitation Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "The host's claim that Erika Kirk invited influencers into the courtroom at Tyler Robinson's preliminary hearing and that this registered with the public as an unforced error.",
       "related_artifacts": [],
       "related_claims": [
@@ -1976,7 +2018,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-11065"
     }
   ],
   "claims": [

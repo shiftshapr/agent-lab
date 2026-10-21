@@ -766,11 +766,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10211",
       "ref": "N-10211",
       "name": "UVU Event Approval Timeline Anomaly",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Dispute over whether the UVU campus stop was \"approved\" in July or only \"requested,\" and over the typical timeline from request to event. Only Allie's side is artifact-anchored in this episode.",
       "related_artifacts": [
         "A-1347.1",
@@ -794,14 +794,15 @@
       "related_nodes": [
         "N-227",
         "N-228"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10216",
       "ref": "N-10216",
       "name": "Autopsy Report and Evidence Access Asymmetry",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Erika Kirk's stated direct access to the autopsy report and \"different evidence portions,\" contrasted with the public record of fragmented disclosures.",
       "related_artifacts": [
         "A-1346.2"
@@ -816,14 +817,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10217",
       "ref": "N-10217",
       "name": "Saint Michael Pendant / Charlie Catholic-Curious Status",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Whether Charlie Kirk was on a spiritual journey toward Catholicism at the time of his death. Erika Kirk's interview confirms the Saint Michael pendant and its personal significance; Allie Beth Stuckey's referenced private text exchange (mentioned in this episode but not displayed) is the principal counter-claim.",
       "related_artifacts": [
         "A-1346.3",
@@ -840,14 +842,16 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10100"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10218",
       "ref": "N-10218",
       "name": "TPUSA / Candace Owens NDA and Blexit Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Alyssa Cordova's speculation that an NDA exists between TPUSA and Candace Owens via the Blexit business arrangement.",
       "related_artifacts": [
         "A-1350.1"
@@ -862,14 +866,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-229"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10219",
       "ref": "N-10219",
       "name": "UVU Green Hoodie Person Identification (Resolved)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Kolby Sessions publicly identified himself as the figure in the green hoodie at the UVU event, apparently closing the speculative inquiry.",
       "related_artifacts": [
         "A-1352.1"
@@ -884,14 +889,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-230"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10220",
       "ref": "N-10220",
       "name": "Priest Presence at Ole Miss Event",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host observation of a priest in backstage video at the University of Mississippi event alongside Watters and Kirk; also referenced as the same priest who accompanied Erika to the hospital after the shooting.",
       "related_artifacts": [
         "A-1353.1"
@@ -908,14 +914,15 @@
         "N-2",
         "N-211",
         "N-10217"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10221",
       "ref": "N-10221",
       "name": "Charlie's Heart Still Beating Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Tom Paul's viewer-mediated reference to Andrew Klavan's claim on the Alex Clark show that Charlie's heart was still beating, juxtaposed against statements that he died instantly / went instantly to heaven.",
       "related_artifacts": [
         "A-1354.1"
@@ -933,14 +940,15 @@
         "N-99",
         "N-2",
         "N-7"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10222",
       "ref": "N-10222",
       "name": "Erika–Charlie 2018 Israel Airport Meeting Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Tom Paul's reference to Erika first seeing Charlie at an airport in Israel in May 2018 with her mom; host recalls possibly the embassy opening but expresses uncertainty.",
       "related_artifacts": [
         "A-1354.1"
@@ -953,7 +961,8 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1073,11 +1082,11 @@
       "investigative_pressure": "low"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Public denial of Wilson debate funding / Latvian contractors vs Discord instructions and orbit money.",
       "related_artifacts": [],
       "related_claims": [
@@ -1098,7 +1107,9 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Topic",
@@ -1117,7 +1128,8 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1223,11 +1235,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10006",
       "ref": "N-10006",
       "name": "Fox News",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Fox News; carried the Erika Kirk interview.",
       "related_artifacts": [],
       "related_claims": [
@@ -1238,7 +1250,9 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Person",
@@ -1300,11 +1314,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10316",
       "ref": "N-10316",
       "name": "Tyler Robinson Prosecution Evidence Base",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Tyler Robinson Prosecution Evidence Base; lone-actor question.",
       "related_artifacts": [],
       "related_claims": [
@@ -1314,7 +1328,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1335,11 +1350,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10052",
       "ref": "N-10052",
       "name": "Federal Footage Sweep",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Federal Footage Sweep; footage withheld, per host.",
       "related_artifacts": [],
       "related_claims": [
@@ -1350,14 +1365,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Utah Valley University; site of the contested event.",
       "related_artifacts": [],
       "related_claims": [
@@ -1371,14 +1387,16 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10168",
       "ref": "N-10168",
       "name": "UVU Left-Side Footage Black Hole",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "UVU Left-Side Footage Black Hole; camera coverage question.",
       "related_artifacts": [],
       "related_claims": [
@@ -1388,14 +1406,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10100",
       "ref": "N-10100",
       "name": "Catholic Conversion Rumor",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Catholic Conversion Rumor; host's Catholic-curious account.",
       "related_artifacts": [],
       "related_claims": [
@@ -1409,14 +1428,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10300",
       "ref": "N-10300",
       "name": ".30-06 Forensic Narrative Validity",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": ".30-06 Forensic Narrative Validity; host says the neck could not have stopped it.",
       "related_artifacts": [],
       "related_claims": [
@@ -1426,14 +1446,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11022",
       "ref": "N-11022",
       "name": "Liberty University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Liberty University; venue of Charlie's slated speaking slot.",
       "related_artifacts": [],
       "related_claims": [
@@ -1444,14 +1465,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11016",
       "ref": "N-11016",
       "name": "Alex Clark WSJ Memorial Photo Controversy",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1462,7 +1485,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1531,7 +1555,9 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Person",
@@ -1551,11 +1577,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10013",
       "ref": "N-10013",
       "name": "Discord",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Discord; platform of the Fed Discord messages.",
       "related_artifacts": [],
       "related_claims": [
@@ -1565,14 +1591,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10014",
       "ref": "N-10014",
       "name": "Federal Bureau of Investigation",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "FBI; the Feds in the Discord remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1582,7 +1610,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Person",
@@ -1602,11 +1632,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10934",
       "ref": "N-10934",
       "name": "TPUSA Post-Assassination Merchandise Revenue Claim",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "TPUSA Post-Assassination Merchandise Revenue Claim; T-shirts and revenue.",
       "related_artifacts": [],
       "related_claims": [
@@ -1617,7 +1647,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
@@ -1635,7 +1666,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1655,11 +1687,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10127",
       "ref": "N-10127",
       "name": "TPUSA DOGE Department / Financial Audit",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "TPUSA DOGE Department / Financial Audit; DOGE remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1669,14 +1701,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11087",
       "ref": "N-11087",
       "name": "Kirk \"Internet DOGE\" Money-Tracing Effort",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Kirk Internet DOGE Money-Tracing Effort; DOGE remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1686,14 +1719,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10201",
       "ref": "N-10201",
       "name": "TPUSA Faith / Christian Zionist Infiltration Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "TPUSA Faith / Christian Zionist Infiltration Question; donor-pressure framing.",
       "related_artifacts": [],
       "related_claims": [
@@ -1703,14 +1737,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10239",
       "ref": "N-10239",
       "name": "Egyptian Military Plane Tracking Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Egyptian Military Plane Tracking Investigation; cited as a prior nerve-hit.",
       "related_artifacts": [],
       "related_claims": [
@@ -1720,14 +1755,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10402",
       "ref": "N-10402",
       "name": "TPUSA Non-Disparagement Enforcement Campaign",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "TPUSA Non-Disparagement Enforcement Campaign; NDA remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1737,7 +1773,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1757,11 +1794,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10625",
       "ref": "N-10625",
       "name": "Frank Turek CPR Claim Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Frank Turek CPR Claim Verification; stage remarks.",
       "related_artifacts": [],
       "related_claims": [
@@ -1771,7 +1808,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10636"
     },
     {
       "@type": "Person",

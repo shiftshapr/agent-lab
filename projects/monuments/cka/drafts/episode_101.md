@@ -570,7 +570,7 @@ Erika Kirk told the host Harpole's Shawn Ryan appearance was unauthorized.
 
 **N-10834** Erika Kirk WHCD Exit Video Staging Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Investigation target: whether the viral video of Erika Kirk saying "I just want to go home" as she left the 2026 White House Correspondents' Dinner after shots were fired was staged. The host's $10,000 bounty produced a tip from a person in politics who offered a sworn affidavit and named the alleged recorder. That person is described as a freelancing political operative who had done work with Turning Point USA and was positioned in advance. The tipster says the clip was shared among digital media teams to make it go viral. A second tipster holds an unseen 30-second angle. The host says she will withhold the operative's name until it is confirmed.
 
 *Related: C-8988, C-8993, C-9001, C-9002, C-9003, C-9004, C-9005, C-9006, C-9011, C-9041, A-2556.1, A-2556.2, A-2556.3, A-2556.4, A-2556.5, A-2558.2, A-2560.1, A-2560.2, N-2, N-10583*
@@ -612,7 +612,7 @@ PAC that Thomas Massie says was funded jointly by Miriam Adelson, Paul Singer an
 
 **N-10840** Andrew Kolvet / House Inhabit PR Collaboration Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Investigation target: the host's allegation that Andrew Kolvet works with Jessica Reed Kraus (House Inhabit) and other YouTubers, using them as part of TPUSA's PR effort. She says Kraus is one of the people attacking her husband.
 
 *Related: C-9018, C-9023, N-14, N-610*

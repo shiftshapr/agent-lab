@@ -1085,7 +1085,7 @@ Existing topic reused for new claims in this episode.
 
 **N-11258** Fort Campbell Drone Theft Report
 
-Node Type: Topic
+Node Type: Event
 A commenter's report that four drones were stolen from Fort Campbell and the host's guess that they went to Israel.
 
 *Related: C-7054, C-7055*
@@ -1094,7 +1094,7 @@ A commenter's report that four drones were stolen from Fort Campbell and the hos
 
 **N-11259** Alexander Brothers Epstein File Redaction Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Whether the Alexander brothers' names were redacted from the Epstein files and why, set against their federal sex trafficking convictions and ties to Kushner.
 
 *Related: C-6980, C-6981, C-6982, C-6983, C-6985, C-6987, C-6988, C-6991*

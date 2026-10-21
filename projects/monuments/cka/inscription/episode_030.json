@@ -715,11 +715,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10229",
       "ref": "N-10229",
       "name": "UVU Outdoor Venue Selection Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigative target concerning the late (July 18) UVU Turning Point chapter request, the rapid dispatch of scouts in early August, and Turning Point USA's decision to override UVU's safety-based recommendation against the outdoor amphitheater.",
       "related_artifacts": [
         "A-1387.1"
@@ -732,14 +732,15 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10230",
       "ref": "N-10230",
       "name": "Pre-Event Old Man Near Bush Anomaly",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigative target concerning an unidentified-to-the-public older man seen alone near a bush at the UVU venue during setup, identified in this episode as Butch Hibbs via Frank Turek.",
       "related_artifacts": [
         "A-1383.1",
@@ -756,14 +757,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-246"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10231",
       "ref": "N-10231",
       "name": "Alexis Wilkins Honeypot Allegation Lawsuit",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Persistent investigative target concerning the $5 million Wilkins lawsuit against Elijah Schaffer and other content creators over \"honeypot\" allegations, including the Hen Mazzig X post and Schaefer photograph cited within the complaint.",
       "related_artifacts": [
         "A-1385.1",
@@ -784,7 +786,9 @@
         "N-212",
         "N-247",
         "N-248"
-      ]
+      ],
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
       "@type": "Person",
@@ -1045,11 +1049,11 @@
       "related_nodes": []
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Public denial of Wilson debate funding / Latvian contractors vs Discord instructions and orbit money.",
       "related_artifacts": [],
       "related_claims": [
@@ -1071,14 +1075,16 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-10004",
       "ref": "N-10004",
       "name": "Kanye Tweet About Candace Owens",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Reused for the tweet items.",
       "related_artifacts": [],
       "related_claims": [
@@ -1090,14 +1096,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "SocialMediaPosting"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "The host's venue discussion.",
       "related_artifacts": [],
       "related_claims": [
@@ -1107,14 +1114,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10015",
       "ref": "N-10015",
       "name": "Mossad",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Referenced in the Wilkins complaint text.",
       "related_artifacts": [],
       "related_claims": [
@@ -1125,14 +1134,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10023",
       "ref": "N-10023",
       "name": "Epstein Israeli Intelligence Asset Allegation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Reused for Tucker's Epstein remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1142,14 +1153,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10026",
       "ref": "N-10026",
       "name": "Israel",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Reused for the host's sweeping remarks.",
       "related_artifacts": [],
       "related_claims": [
@@ -1159,14 +1171,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10027",
       "ref": "N-10027",
       "name": "The Hamptons",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Place of the retreat the host discusses.",
       "related_artifacts": [],
       "related_claims": [
@@ -1177,14 +1191,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10044",
       "ref": "N-10044",
       "name": "Donor Intimidation of Charlie Kirk",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Reused for the donor items.",
       "related_artifacts": [],
       "related_claims": [
@@ -1196,14 +1211,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10060",
       "ref": "N-10060",
       "name": "Gaza",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Reused for the host's casino remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1213,14 +1229,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10096",
       "ref": "N-10096",
       "name": "TPUSA SD Card Removal",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Reused for the camera and SD card lies.",
       "related_artifacts": [],
       "related_claims": [
@@ -1231,14 +1248,19 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-09-10",
+      "place": "N-10028",
+      "parent": "N-10073"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10126",
       "ref": "N-10126",
       "name": "PragerU",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Reused for the Streit introductions and Wilkins remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1250,14 +1272,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10127",
       "ref": "N-10127",
       "name": "TPUSA DOGE Department / Financial Audit",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Reused for lie nine.",
       "related_artifacts": [],
       "related_claims": [
@@ -1267,14 +1291,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10156",
       "ref": "N-10156",
       "name": "SD Card Removal Narrative Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused for the hats explanation.",
       "related_artifacts": [],
       "related_claims": [
@@ -1284,14 +1309,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10096"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10185",
       "ref": "N-10185",
       "name": "Mikey McCoy Call Log Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused for the call-first and 911 items.",
       "related_artifacts": [],
       "related_claims": [
@@ -1302,14 +1329,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10214"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10188",
       "ref": "N-10188",
       "name": "UVU Hospital Charlie Kirk Medical File Access Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused for the hospital items.",
       "related_artifacts": [],
       "related_claims": [
@@ -1321,14 +1350,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10190",
       "ref": "N-10190",
       "name": "Mikey McCoy Behavior Discrepancy (September 10, 2025)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused for the lie list.",
       "related_artifacts": [],
       "related_claims": [
@@ -1339,14 +1369,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10224",
       "ref": "N-10224",
       "name": "Shapiro Statement Accuracy Re: Owens' Accusations",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused for Shapiro and Kelly items.",
       "related_artifacts": [],
       "related_claims": [
@@ -1359,14 +1390,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10234",
       "ref": "N-10234",
       "name": "Calvary Chapel Network Infiltration Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused for Hibbs and the academy purchase.",
       "related_artifacts": [],
       "related_claims": [
@@ -1377,14 +1409,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10323",
       "ref": "N-10323",
       "name": "Hampton Retreat Seth Dillon Confrontation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused for the Hamptons items.",
       "related_artifacts": [],
       "related_claims": [
@@ -1395,14 +1428,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10129"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10324",
       "ref": "N-10324",
       "name": "Terryl Farnsworth Camera Removal Justification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused for the police instruction lie.",
       "related_artifacts": [],
       "related_claims": [
@@ -1412,14 +1447,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10096"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10404",
       "ref": "N-10404",
       "name": "Charlie Kirk DOGE Pre-Death Establishment",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Reused for lie nine.",
       "related_artifacts": [],
       "related_claims": [
@@ -1429,14 +1466,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10405",
       "ref": "N-10405",
       "name": "TPUSA Faith Military Infiltration Claim",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused for the Hibbs military-family item.",
       "related_artifacts": [],
       "related_claims": [
@@ -1446,14 +1484,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10740",
       "ref": "N-10740",
       "name": "Butch Hibbs UVU Recording Behavior",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused for his arrival with Kirk.",
       "related_artifacts": [],
       "related_claims": [
@@ -1463,14 +1502,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-10791",
       "ref": "N-10791",
       "name": "Yrefy / Yrefy Sponsorship Contracts and July 25 Addendum",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Possible match for the sponsor transcribed 'Rei'.",
       "related_artifacts": [],
       "related_claims": [
@@ -1480,7 +1520,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CreativeWork"
     },
     {
       "@type": "Person",
@@ -1500,11 +1541,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10982",
       "ref": "N-10982",
       "name": "Ben Shapiro and Charlie Kirk Friendship Narrative",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Reused for the bad-blood lie.",
       "related_artifacts": [],
       "related_claims": [
@@ -1514,14 +1555,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10998",
       "ref": "N-10998",
       "name": "Student Action Summit July 2025 (Tampa)",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Setting of the backstage exchange.",
       "related_artifacts": [],
       "related_claims": [
@@ -1533,14 +1575,17 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-07"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11002",
       "ref": "N-11002",
       "name": "TPUSA Leak Hunt and Employee Firings",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Reused for the leak items.",
       "related_artifacts": [],
       "related_claims": [
@@ -1552,14 +1597,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing",
+      "parent": "N-10000"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11039",
       "ref": "N-11039",
       "name": "Hollywood Gang Claim",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Reused for the Kanye Hollywood remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1569,14 +1616,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11083",
       "ref": "N-11083",
       "name": "Operation Underground Railroad",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Ballard's organization.",
       "related_artifacts": [],
       "related_claims": [
@@ -1586,14 +1634,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11087",
       "ref": "N-11087",
       "name": "Kirk \"Internet DOGE\" Money-Tracing Effort",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Reused for lie nine.",
       "related_artifacts": [],
       "related_claims": [
@@ -1603,7 +1653,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1783,14 +1834,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-11149",
       "ref": "N-11149",
       "name": "Mikey McCoy Identity and Family Ties Inquiry",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Persistent target: the host's questions about Mikey McCoy's legal first name, local recognition of him, and his wife's role as a TPUSA events director.",
       "related_artifacts": [],
       "related_claims": [
@@ -1803,7 +1855,8 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
@@ -1823,14 +1876,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-11151",
       "ref": "N-11151",
       "name": "Female Jewish Donor Confrontation of Kirk After Tucker Speech",
-      "type": "topic",
+      "type": "event",
       "description": "Persistent target: the host's unnamed female donor who allegedly yelled at Charlie Kirk after Tucker Carlson's July speech.",
       "related_artifacts": [],
       "related_claims": [
@@ -1840,7 +1894,10 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "parent": "N-10998"
     }
   ],
   "claims": [

@@ -523,14 +523,14 @@ Gary Melton's show and channel, on which the alibi and the children's photo aire
 
 **N-10824** N582MM TPUSA-Associated Plane Flight Pattern
 
-Node Type: Topic
+Node Type: Investigation Question
 Investigation target: the plane with tail number N582MM, tied to Paradise Jets, which the host says was Charlie Kirk's main plane after Mikey McCoy became chief of staff. According to the host, on September 10, 2025 it departed Denver at 11:58 a.m. Mountain Time, landed at Pierre, South Dakota at 12:56 p.m., went on to Chicago for an apparent pickup, landed in Provo at 6:57 p.m., stayed overnight and returned to Pierre, carrying someone known to Turning Point USA.
 
 *Related: C-9168, C-9169, C-9170, C-9171, C-9172, C-9173, A-2568.1*
 
 **N-10841** Evergreen High School Shooting (September 10, 2025) Open Questions
 
-Node Type: Topic
+Node Type: Investigation Question
 Investigation target: the Evergreen High School shooting in Jefferson County, Colorado, at about 12:21 p.m. on September 10, 2025. Open questions raised by local parents and the host: the identity and location of the first 911 caller, which outside agency's officers knocked on locked classroom doors, which job site roofer Delmer Martinez was working, and the undocumented traffic crash to which the part-time school resource officer was dispatched.
 
 *Related: C-9174, C-9175, C-9176, C-9177, C-9178, C-9179, C-9180, C-9181, C-9182, C-9183, C-9184, C-9185, C-9208, A-2569.1, A-2569.2, A-2569.3, A-2572.5*

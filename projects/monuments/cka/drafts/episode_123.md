@@ -651,7 +651,7 @@ Existing node reused for new claims in this episode.
 
 **N-11052** Charlie Kirk Carry-to-Vehicle Handling Question
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's observation, from images she has not shown, that Charlie's neck was unsecured and his shirt raised as he was carried to the vehicle.
 
 *Related: C-10560, C-10561, C-10562*

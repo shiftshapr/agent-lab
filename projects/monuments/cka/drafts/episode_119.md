@@ -669,21 +669,21 @@ The audio-visual company run by Terryl Farnsworth that filmed Charlie Kirk's eve
 
 **N-10918** Robert Golow Identification
 
-Node Type: Topic
+Node Type: Investigation Question
 Investigation target: the background and September 10 role of Robert Golow, a Visual Impulse camera operator from Liberia. He was hired in 2024 when the redundant microphone was introduced, stood next to Terryl Farnsworth at the shooting and then ran off, and has never spoken publicly. The host asks for tips.
 
 *Related: C-10176, C-10177, C-10178, A-2708.1, N-700*
 
 **N-10919** Erika Kirk Staff Familiarity Discrepancy
 
-Node Type: Topic
+Node Type: Investigation Question
 Investigation target: Erika Kirk said at an Illinois summit that she had a "0% learning curve" and knew all the staff by name. The host contrasts this with a post-Super Bowl call in which Erika said she wanted to learn employees' names, and with reports from current and former staff that she does not know them.
 
 *Related: C-10191, C-10198, C-10199, A-2700.1, A-2701.1, N-2*
 
 **N-10920** Spousal CEO Succession Precedent Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Investigation target: the host's assertion that no wife in history has assumed her late husband's role as CEO and chairman. She says ChatGPT's examples (Ellen Gordon, Katharine Graham, Miriam Adelson) involved family-controlled companies or inherited shares.
 
 *Related: C-10192, C-10193, C-10194, C-10195, C-10196, C-10197, A-2702.1, N-701, N-702, N-703, N-704, N-298*

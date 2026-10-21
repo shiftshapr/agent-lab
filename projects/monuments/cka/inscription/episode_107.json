@@ -730,11 +730,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10814",
       "ref": "N-10814",
       "name": "45,000 Rescue Claim Discrepancy",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Website (victor2026.com) claimed Victor Marx rescued more than 45,000 women and children; Victor denied ever making that claim.",
       "related_artifacts": [
         "A-2509.2"
@@ -747,7 +747,8 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -899,11 +900,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization where, per the host, Marx conducted prayers, and where Marx says he prayed for Charlie and three others.",
       "related_artifacts": [],
       "related_claims": [
@@ -914,14 +915,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10006",
       "ref": "N-10006",
       "name": "Fox News",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Cited by Marx as an outlet where he said Hamas must stop firing and return hostages.",
       "related_artifacts": [],
       "related_claims": [
@@ -931,14 +934,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10026",
       "ref": "N-10026",
       "name": "Israel",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Setting of Marx's post-October 7 trips, the rocket fire and the six-hour reinforcement timeline.",
       "related_artifacts": [],
       "related_claims": [
@@ -950,14 +955,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10060",
       "ref": "N-10060",
       "name": "Gaza",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Subject of Marx's account of entering Gaza and of the exchange on whether it is a genocide.",
       "related_artifacts": [],
       "related_claims": [
@@ -969,14 +976,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Place"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10371",
       "ref": "N-10371",
       "name": "Turning Point USA Faith Structure",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Structure of Turning Point USA Faith, discussed in the host's remarks on Charlie's Aspen statement and Erika Kirk's role.",
       "related_artifacts": [],
       "related_claims": [
@@ -988,14 +996,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10548",
       "ref": "N-10548",
       "name": "Victor Marx IDF 50,000 Guns Request",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic of Corby Hall's allegation and Marx's reply that he buys only for his own training.",
       "related_artifacts": [],
       "related_claims": [
@@ -1007,14 +1016,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10551",
       "ref": "N-10551",
       "name": "Victor Marx Background Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic for the host's checks of Marx's background with family members.",
       "related_artifacts": [],
       "related_claims": [
@@ -1053,14 +1063,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10552",
       "ref": "N-10552",
       "name": "Erika Kirk–Victor Marx Relationship Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic for Marx's account of his relationships with Charlie, Erika and Eileen Marx.",
       "related_artifacts": [],
       "related_claims": [
@@ -1078,14 +1089,15 @@
       "evidence_count": 0,
       "claim_count": 9,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10564",
       "ref": "N-10564",
       "name": "Victor Marx IDF / Israeli Defense Group Connection",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic for Marx's statements about IDF special operations access and his Charlie Kirk Show appearance.",
       "related_artifacts": [],
       "related_claims": [
@@ -1096,14 +1108,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10568",
       "ref": "N-10568",
       "name": "Early-Death-Announcement Timeline Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic for the timing and explanation of Marx's early Instagram posts about Charlie Kirk's death.",
       "related_artifacts": [],
       "related_claims": [
@@ -1119,14 +1132,15 @@
       "evidence_count": 0,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10637",
       "ref": "N-10637",
       "name": "Pending FOIA Requests",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic under which the host's new FOIA request for White House Correspondents Dinner emails falls.",
       "related_artifacts": [],
       "related_claims": [
@@ -1136,14 +1150,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-10844",
       "ref": "N-10844",
       "name": "White House Military Office Erika Kirk Amplification Email",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Topic of the White House email the host says the press team is not answering about.",
       "related_artifacts": [],
       "related_claims": [
@@ -1154,14 +1169,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Message",
+      "parent": "N-10582"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-10863",
       "ref": "N-10863",
       "name": "Victor Marx \"They Only Wanted Charlie\" Text to Erika Kirk",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Topic for Marx's account of the text reassuring Erika Kirk that they only wanted Charlie.",
       "related_artifacts": [],
       "related_claims": [
@@ -1171,7 +1188,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Message"
     },
     {
       "@type": "Person",
@@ -1286,7 +1304,9 @@
       "evidence_count": 0,
       "claim_count": 12,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q1530022"
     },
     {
       "@type": "Topic",
@@ -1312,14 +1332,15 @@
       "evidence_count": 0,
       "claim_count": 10,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10967",
       "ref": "N-10967",
       "name": "Holly Chalmers Rescue Dispute",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "The dispute between Holly Chalmers, who accuses Marx of kidnapping her across state lines and calls him a trafficker, and Marx, who says he rescued her from a pedophile boyfriend with HSI approval.",
       "related_artifacts": [],
       "related_claims": [
@@ -1334,7 +1355,8 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
@@ -1358,14 +1380,15 @@
       "evidence_count": 0,
       "claim_count": 8,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "Thing",
       "@id": "N-10969",
       "ref": "N-10969",
       "name": "Victor Marx Cold-Case Sheriff Report",
-      "type": "topic",
+      "type": "thing",
       "description": "Marx's account that he shot a man at age 7 under his stepfather's coercion, later called a sheriff's department about a 40-year-old cold case in Simpson County, Mississippi, and cannot identify the victim or site.",
       "related_artifacts": [],
       "related_claims": [
@@ -1379,7 +1402,9 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "CreativeWork",
+      "parent": "N-10551"
     },
     {
       "@type": "Topic",
@@ -1401,7 +1426,9 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing",
+      "parent": "N-10551"
     }
   ],
   "claims": [

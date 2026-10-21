@@ -477,7 +477,7 @@ Host's source: no roof video, fragmented bullet, no confession, gun-arrival unre
 
 **N-10107** Crooks Federal-Radar Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: verification_thread
 Was Crooks known to feds pre-attempt given extensive violent online history?
 
@@ -577,7 +577,7 @@ Host documents Crooks' shift from pro-Trump to anti-Trump around 2020.
 
 **N-10095** Shooter Description Contradiction
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: discrepancy
 Host: eyewitness told her shooter was in tactical gear, gun mismatched.
 
@@ -587,7 +587,7 @@ Host: eyewitness told her shooter was in tactical gear, gun mismatched.
 
 **N-10001** MK Ultra
 
-Node Type: Organization
+Node Type: Topic
 Organization Kind: program_or_initiative
 CIA program (1950s-60s); host asserts it was never discontinued.
 

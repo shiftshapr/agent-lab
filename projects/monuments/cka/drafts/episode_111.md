@@ -628,14 +628,14 @@ The host says it appears to have been involved in the White House emails about E
 
 **N-10869** St. Petersburg International Economic Forum (SPIEF)
 
-Node Type: Organization
+Node Type: Event
 Annual economic forum in St. Petersburg, described by the host as the "Davos of the East," where she spoke on a family panel. She says a Trump administration delegation also attended. Critics claimed Putin invited her and that she appeared alongside Dugin.
 
 *Related: C-9708, C-9709, C-9710, C-9712, A-2618.1*
 
 **N-10870** Alexander Dugin–George Farmer Italy Meeting Allegation
 
-Node Type: Topic
+Node Type: Event
 Investigation target: Laura Loomer's source-based claim that Alexander Dugin met the host's husband George Farmer in a secret meeting in Italy about a month before the Russia trip, used to call for FARA registration and FinCEN flags. The host denies ever meeting Dugin.
 
 *Related: C-9711, C-9712, C-9713, A-2618.2*
@@ -677,7 +677,7 @@ Christian legal organization (ADF) where Alex Clark's fiancé Vance Voetberg say
 
 **N-10844** White House Military Office Erika Kirk Amplification Email
 
-Node Type: Topic
+Node Type: Thing
 Investigation target: the email the host says was sent by the White House Military Office through the White House Communications Agency about 25 minutes after Sara Sidner's 9:25 p.m. upload of the Erika Kirk clip on the night of the April 25 WHCD shooting. In this episode the host says her report was true, that Erika Kirk is considered an "emotional asset," and that the Department of War appears to have been involved; her narrowed FOIA request seeks these emails.
 
 *Related: C-9768*

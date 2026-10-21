@@ -398,11 +398,11 @@
   ],
   "nodes": [
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10546",
       "ref": "N-10546",
       "name": "ATF Trace on Fold AR SN 02735 (September 10, 2025)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent question regarding the timing, target crime, and follow-up (or absence thereof) of the ATF trace initiated on the morning of Charlie Kirk's assassination.",
       "related_artifacts": [
         "A-1963.1"
@@ -418,14 +418,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-10550"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10547",
       "ref": "N-10547",
       "name": "Victor Marx 51% Fold AR Acquisition Attempt",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent question regarding Victor Marx's stated intent to purchase a controlling stake in Fold AR and the responses received; includes valuation ($2M) and Daniel Horner / Sig Sauer intermediary claims.",
       "related_artifacts": [
         "A-1958.1"
@@ -439,14 +440,15 @@
       "evidence_count": 1,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10548",
       "ref": "N-10548",
       "name": "Victor Marx IDF 50,000 Guns Request",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent question regarding Victor Marx's alleged statement that the IDF needed 50,000 guns for operations in Gaza, Lebanon, and Syria, and any subsequent broker or transfer activity.",
       "related_artifacts": [
         "A-1958.1"
@@ -459,14 +461,15 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10549",
       "ref": "N-10549",
       "name": "Victor Marx Haiti Mission and Arms Request",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent question regarding the 50-rifle request, long-range rifle provision, and stated intent to capture/execute Jimmy Barbecue; reconciliation with CBN News reporting.",
       "related_artifacts": [
         "A-1958.1",
@@ -482,14 +485,15 @@
       "evidence_count": 2,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10550",
       "ref": "N-10550",
       "name": "Fold AR SN 02735 Disappearance and Recovery Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent question regarding the gun's theft from a Texas deputy's vehicle, the deputy's claim of reporting to Midland PD, lack of follow-up, and any connection to the September 10, 2025 ATF trace.",
       "related_artifacts": [
         "A-1958.1",
@@ -507,14 +511,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-10546"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10551",
       "ref": "N-10551",
       "name": "Victor Marx Background Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent question regarding Victor Marx's biographical claims, military service (length, location, discharge status), family history, and inconsistencies identified by independent researchers.",
       "related_artifacts": [
         "A-1958.1",
@@ -530,14 +535,15 @@
       "evidence_count": 3,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10552",
       "ref": "N-10552",
       "name": "Erika Kirk–Victor Marx Relationship Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent question regarding the nature, depth, and timing of Erika Kirk's relationship with Victor Marx – including the proximity and recording of the post-assassination contact window.",
       "related_artifacts": [
         "A-1958.1",
@@ -551,14 +557,15 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10553",
       "ref": "N-10553",
       "name": "Trump Iran Arms Admission Context",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Persistent question regarding Trump's public admission of US arms shipments to Iranian protesters and the underlying operational chain and intermediaries.",
       "related_artifacts": [
         "A-1961.1"
@@ -570,7 +577,8 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1130,11 +1138,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization; the host's pastors, speeches and planes claims concern it.",
       "related_artifacts": [],
       "related_claims": [
@@ -1146,14 +1154,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10026",
       "ref": "N-10026",
       "name": "Israel",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Place; existing node reused for the host's Iran, IDF and Zionism remarks.",
       "related_artifacts": [],
       "related_claims": [
@@ -1165,14 +1175,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10232",
       "ref": "N-10232",
       "name": "Calvary Chapel Institutional Abuse Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's remarks on Calvary Chapel as a source of troubled pastors.",
       "related_artifacts": [],
       "related_claims": [
@@ -1183,14 +1195,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10239",
       "ref": "N-10239",
       "name": "Egyptian Military Plane Tracking Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's Egyptian plane timeline and Erika's reaction to it.",
       "related_artifacts": [],
       "related_claims": [
@@ -1206,14 +1219,15 @@
       "evidence_count": 0,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10259",
       "ref": "N-10259",
       "name": "Nebraska–Egypt Trade Mission / BTT Plane Overlap",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Nebraska overlap with Charlie's schedule.",
       "related_artifacts": [],
       "related_claims": [
@@ -1223,14 +1237,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10199"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10281",
       "ref": "N-10281",
       "name": "TPUSA Egyptian Plane Story Suppression Attempt",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's claim that Erika does not want the public looking at the planes.",
       "related_artifacts": [],
       "related_claims": [
@@ -1241,14 +1257,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10239"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10304",
       "ref": "N-10304",
       "name": "Global Trafficking Angle in Kirk Assassination",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's trafficking hypothesis and arms trafficking claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1261,14 +1279,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10371",
       "ref": "N-10371",
       "name": "Turning Point USA Faith Structure",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for Turning Point Faith as the host's alleged infiltration vector.",
       "related_artifacts": [],
       "related_claims": [
@@ -1280,14 +1299,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10374",
       "ref": "N-10374",
       "name": "Romania / Eastern Europe Trafficking Cluster",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Harvest church Romania accusation.",
       "related_artifacts": [],
       "related_claims": [
@@ -1297,14 +1317,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10384",
       "ref": "N-10384",
       "name": "Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Harvest church accusation.",
       "related_artifacts": [],
       "related_claims": [
@@ -1314,14 +1335,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10374"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10523",
       "ref": "N-10523",
       "name": "ATF Bullet-to-Gun Inconclusive Finding",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the host's reference to the inconclusive Tyler Robinson trace.",
       "related_artifacts": [],
       "related_claims": [
@@ -1331,14 +1354,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10106"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10560",
       "ref": "N-10560",
       "name": "Victor Marx / Corby Hall On-Air Interview Proposal",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's plan to have Hall on the show.",
       "related_artifacts": [],
       "related_claims": [
@@ -1349,14 +1374,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10896",
       "ref": "N-10896",
       "name": "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Federal agency; the host describes its trace practice and plans to contact it.",
       "related_artifacts": [],
       "related_claims": [
@@ -1369,14 +1395,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q327333"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-11102",
       "ref": "N-11102",
       "name": "Angolagate",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused for the host's arms trafficking context claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1386,14 +1414,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q192909"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11160",
       "ref": "N-11160",
       "name": "Brett Cooper Departure Dispute with Daily Wire",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's remark on how Daily Wire treated those who leave.",
       "related_artifacts": [],
       "related_claims": [
@@ -1403,7 +1433,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1424,7 +1455,8 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1441,7 +1473,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1459,7 +1492,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     }
   ],
   "claims": [

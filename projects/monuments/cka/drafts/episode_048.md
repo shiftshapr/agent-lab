@@ -901,7 +901,7 @@ Host's repeated claim that online reaction against her is driven by military gra
 
 **N-10940** Las Vegas Congressman Meeting Sighting Claim
 
-Node Type: Topic
+Node Type: Investigation Question
 Host's claim that the person Harry believes he saw leaving the September 9 Fort Huachuca meeting was a Las Vegas congressman, and her speculation tying this to the Las Vegas stop of the SAM000 aircraft.
 
 *Related: C-4273, C-4274*

@@ -496,11 +496,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10645",
       "ref": "N-10645",
       "name": "Parking Garage Challenger Vehicle Exhaust Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent discrepancy between the dual-exhaust configuration of Tyler Robinson's known towed vehicle (per Fox News) and the quad-exhaust configuration of the Dodge Challenger shown entering the parking garage on September 10.",
       "related_artifacts": [
         "A-2419.1",
@@ -518,14 +518,16 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-10645"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10773"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10774",
       "ref": "N-10774",
       "name": "Quick Quack Car Wash Footage Release Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Question of why the Quick Quack Car Wash surveillance footage – seized by law enforcement – was never publicly released, including questions of what the footage actually depicts.",
       "related_artifacts": [
         "A-2421.1",
@@ -539,14 +541,15 @@
       "evidence_count": 2,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10775",
       "ref": "N-10775",
       "name": "Dairy Queen Timestamp UTC vs MST Reconciliation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Question of whether the original Dairy Queen surveillance timestamp of 6:38 PM was recorded in UTC (converting to 12:38 PM Mountain) versus Mountain Standard Time, and the implications for the published timeline.",
       "related_artifacts": [
         "A-2418.1"
@@ -559,14 +562,16 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10048"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10776",
       "ref": "N-10776",
       "name": "Partial License Plate Match Verification Process",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Question raised by a viewer comment that license-plate identification in testimony (Officer Go Forth) relied on partial-plate matches rather than full-plate identification.",
       "related_artifacts": [
         "A-2424.1"
@@ -579,7 +584,8 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -910,11 +916,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-11009",
       "ref": "N-11009",
       "name": "Wear Forbidden",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Creator of the AI parody videos (the transcript says \"Wear Forbidden\" and \"atware forbidden\").",
       "related_artifacts": [],
       "related_claims": [
@@ -924,14 +930,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CreativeWork"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization the host discusses in connection with lawsuits and her early trust in it.",
       "related_artifacts": [],
       "related_claims": [
@@ -943,14 +950,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10048",
       "ref": "N-10048",
       "name": "Dairy Queen 6:38 Photo Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -965,14 +974,15 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10354",
       "ref": "N-10354",
       "name": "Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -982,14 +992,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10161",
       "ref": "N-10161",
       "name": "Maroon Shirt Person Identification (Lance Twiggs Hypothesis)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -999,14 +1010,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10293"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10773",
       "ref": "N-10773",
       "name": "Two Grey Dodge Challengers Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1020,14 +1033,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10086",
       "ref": "N-10086",
       "name": "Screwdriver Evidence Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1037,14 +1051,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10106"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10735",
       "ref": "N-10735",
       "name": "Aspect-Ratio Modification Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1054,14 +1070,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10571",
       "ref": "N-10571",
       "name": "Probable Cause Hearing Exhibit Count (35 Exhibits)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1071,14 +1088,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-11065"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10545",
       "ref": "N-10545",
       "name": "Lance Twiggs Federal Asset Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1089,14 +1108,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10781",
       "ref": "N-10781",
       "name": "July 10 HQ-Driven Courtyard Request (Crofts / Chilcutt Chain)",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused for the correction about the person near the van.",
       "related_artifacts": [],
       "related_claims": [
@@ -1106,14 +1126,18 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-07-10",
+      "place": "N-10028"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10898",
       "ref": "N-10898",
       "name": "September 2024 Lebanon Pager Attack",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused for the beeper clip.",
       "related_artifacts": [],
       "related_claims": [
@@ -1123,14 +1147,17 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2024-09"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10901",
       "ref": "N-10901",
       "name": "Reuters",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "News agency whose headline the host reads.",
       "related_artifacts": [],
       "related_claims": [
@@ -1140,14 +1167,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q192283"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10496",
       "ref": "N-10496",
       "name": "Strait of Hormuz / US-Iran War Context",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Iran war remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1157,14 +1186,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10390",
       "ref": "N-10390",
       "name": "Fort Huachuca Erika Presence Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the host's remarks on the video and Fort Huachuca.",
       "related_artifacts": [],
       "related_claims": [
@@ -1175,7 +1205,9 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
       "@type": "Place",
@@ -1198,14 +1230,16 @@
       "evidence_count": 0,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "ShoppingCenter",
+      "wikidata_class": "Q11315"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-11068",
       "ref": "N-11068",
       "name": "Cross-Device Account Access Hypothesis",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "The host's hypothesis that logins to Tyler Robinson's accounts or Google Maps data could come from another device or person using the same account, such as Lance Twiggs.",
       "related_artifacts": [],
       "related_claims": [
@@ -1216,7 +1250,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     }
   ],
   "claims": [

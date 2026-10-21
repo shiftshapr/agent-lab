@@ -1035,7 +1035,7 @@ League that, per the host, partnered with Jay-Z to book the Super Bowl halftime 
 
 **N-11308** 2026 Super Bowl Halftime Show (Bad Bunny)
 
-Node Type: Topic
+Node Type: Event
 The NFL halftime performance headlined by Bad Bunny, its booking, and the counter-programmed TPUSA show.
 
 *Related: C-6315, C-6318, C-6319*
@@ -1044,7 +1044,7 @@ The NFL halftime performance headlined by Bad Bunny, its booking, and the counte
 
 **N-11309** 1985 Tucson Sanctuary Movement Trial
 
-Node Type: Topic
+Node Type: Event
 The 1985 trial in Tucson of church workers charged with concealing illegal aliens, as described in the Times Union article the host reads.
 
 *Related: C-6352*
@@ -1062,7 +1062,7 @@ The claimed phenomenon of street lights turning off or flickering when a person 
 
 **N-11311** Charlie Kirk Third Eye Conversation (2018)
 
-Node Type: Topic
+Node Type: Event
 The host's 2018 written exchange with Charlie Kirk about his third eye and what she thinks it led to.
 
 *Related: C-6411, C-6412, C-6413, C-6414*

@@ -864,11 +864,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "The host alleges it scrubbed its Club America affiliation from the Taylor Dodd story.",
       "related_artifacts": [],
       "related_claims": [
@@ -889,14 +889,16 @@
       "evidence_count": 0,
       "claim_count": 12,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Site of the shooting, referenced in Cox's clothing statement.",
       "related_artifacts": [],
       "related_claims": [
@@ -906,14 +908,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10013",
       "ref": "N-10013",
       "name": "Discord",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "The source of the tip to ICAC in the Taylor Dodd case.",
       "related_artifacts": [],
       "related_claims": [
@@ -923,14 +927,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10059",
       "ref": "N-10059",
       "name": "Orem, Utah",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Possible location of the fire station of the captain who performed CPR.",
       "related_artifacts": [],
       "related_claims": [
@@ -940,14 +946,17 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "City",
+      "wikidata_class": "Q515",
+      "parent": "N-10120"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10071",
       "ref": "N-10071",
       "name": "Provo, Utah",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Provo Airport pickup and the Provo police service channel.",
       "related_artifacts": [],
       "related_claims": [
@@ -958,14 +967,17 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "City",
+      "wikidata_class": "Q515",
+      "parent": "N-10120"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10361",
       "ref": "N-10361",
       "name": "Missing Money from Turning Point Action",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The host revisits the lead that $10 million was missing.",
       "related_artifacts": [],
       "related_claims": [
@@ -978,14 +990,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10404",
       "ref": "N-10404",
       "name": "Charlie Kirk DOGE Pre-Death Establishment",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The host (transcribed \"Osha\") says Charlie established DOGE seven days before he died because money was missing.",
       "related_artifacts": [],
       "related_claims": [
@@ -995,14 +1008,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10488",
       "ref": "N-10488",
       "name": "Club America High School Pushback",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The host's warning about Club America in schools, tied to the Taylor Dodd arrest.",
       "related_artifacts": [],
       "related_claims": [
@@ -1014,14 +1028,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10750",
       "ref": "N-10750",
       "name": "Statue Vandalism Investigation",
-      "type": "investigation_target",
+      "type": "event",
       "description": "\"Statugate\": vandalism of the Charlie Kirk statue at TPUSA headquarters and the fundraising that followed.",
       "related_artifacts": [],
       "related_claims": [
@@ -1040,14 +1055,17 @@
       "evidence_count": 0,
       "claim_count": 10,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2026-09-13"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10795",
       "ref": "N-10795",
       "name": "UVU Independent Review Unnamed Fire Captain CPR Redaction",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The host repeats her request to identify the fire captain who performed CPR.",
       "related_artifacts": [],
       "related_claims": [
@@ -1062,14 +1080,16 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10762"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10846",
       "ref": "N-10846",
       "name": "Turning Point Action",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "The 501c4 arm. The host says it is out of money and pushed Commit 100 after the vandalism.",
       "related_artifacts": [],
       "related_claims": [
@@ -1088,14 +1108,16 @@
       "evidence_count": 0,
       "claim_count": 10,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11229",
       "ref": "N-11229",
       "name": "Candace Owens Leave and Baron Coleman Substitute Hosting",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The host says Baron Coleman will take over the show.",
       "related_artifacts": [],
       "related_claims": [
@@ -1105,7 +1127,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1284,11 +1307,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-11340",
       "ref": "N-11340",
       "name": "Katie Zacharia Lawyer Credential Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Whether the new White House press secretary misrepresented herself as a lawyer and general counsel despite not passing the bar, and how credible her explanations are (Pepperdine president advice, China practice, \"surprise baby\").",
       "related_artifacts": [
         "A-3405.1",
@@ -1316,14 +1339,15 @@
       "evidence_count": 2,
       "claim_count": 16,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "Topic",
+      "@type": "Thing",
       "@id": "N-11348",
       "ref": "N-11348",
       "name": "Turning Point Action Funds Depletion Email",
-      "type": "topic",
+      "type": "thing",
       "description": "Turning Point Action's October 2026 \"we're broke\" type email saying it burned through its financial resources on ballot chasing, which the host links to the missing-money lead and the statue fundraising.",
       "related_artifacts": [
         "A-3404.1"
@@ -1338,7 +1362,9 @@
       "evidence_count": 1,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "EmailMessage",
+      "parent": "N-10361"
     },
     {
       "@type": "Topic",
@@ -1362,14 +1388,16 @@
       "evidence_count": 2,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing",
+      "parent": "N-10846"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-11342",
       "ref": "N-11342",
       "name": "Governor Cox September 9–10, 2025 Schedule",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Governor Cox's published schedule for the week of September 8, 2025, whose entries the host says were mis-dated September 2 and 3 instead of September 9 and 10. It covers the Tyler Clancy meeting, the Rally Connects keynote in Mona, the Murray Park picnic and the reported golf with Val Peterson.",
       "related_artifacts": [
         "A-3398.1",
@@ -1392,7 +1420,8 @@
       "evidence_count": 3,
       "claim_count": 10,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
@@ -1415,14 +1444,15 @@
       "evidence_count": 0,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-11350",
       "ref": "N-11350",
       "name": "Taylor Dodd Arrest and Club America Affiliation Scrub",
-      "type": "topic",
+      "type": "event",
       "description": "The arrest of former Bonners Ferry Club America chapter president Taylor Dodd on child sexually exploitative material charges, and the host's allegation that TPUSA scrubbed its affiliation online.",
       "related_artifacts": [
         "A-3398.2",
@@ -1448,7 +1478,9 @@
       "evidence_count": 3,
       "claim_count": 13,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
       "@type": "Organization",
@@ -1468,7 +1500,9 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "NewsMediaOrganization",
+      "wikidata_class": "Q11032"
     },
     {
       "@type": "Organization",
@@ -1486,7 +1520,9 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
       "@type": "Organization",
@@ -1504,14 +1540,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q613142"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-11354",
       "ref": "N-11354",
       "name": "Fort Hood Shooter Execution Livestream Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "The announced plan to livestream the execution of Nidal Malik Hasan, the debate it set off, and Trump's Truth Social reversal.",
       "related_artifacts": [
         "A-3406.1",
@@ -1528,14 +1566,15 @@
       "evidence_count": 2,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-11355",
       "ref": "N-11355",
       "name": "TPUSA AI Charlie and Never-Before-Seen Speeches Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Whether TPUSA planned to use an AI-generated Charlie Kirk for its promised \"never before seen\" Charlie speeches.",
       "related_artifacts": [
         "A-3408.1"
@@ -1548,7 +1587,8 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     }
   ],
   "claims": [

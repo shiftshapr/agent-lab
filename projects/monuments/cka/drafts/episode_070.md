@@ -773,7 +773,7 @@ The host's account of a fundraising lunch between Charlie Kirk and 'Ike' at Mar-
 
 **N-11102** Angolagate
 
-Node Type: Topic
+Node Type: Event
 The arms-sales affair the host connects to Pierre Falcone when guessing the identity of the donor Pierre.
 
 *Related: C-6273*

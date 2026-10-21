@@ -733,11 +733,11 @@
   ],
   "nodes": [
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10606",
       "ref": "N-10606",
       "name": "Charlie Kirk Aspen Audio Authenticity Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigation target: whether the released TPUSA audio of Charlie Kirk nominating Erika as CEO is authentic, AI-generated, or fabricated. Supported by donor testimony, AI-voice source, and Blake Neff's prior AI concern.",
       "related_artifacts": [
         "A-2066.1",
@@ -763,14 +763,15 @@
       "related_nodes": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10465",
       "ref": "N-10465",
       "name": "Erika Kirk Educational Credentials Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target: reconciliation of Erika Kirk's LinkedIn degree claims (ASU magna/summa laude, double degree in political science & international relations, Liberty University Ed.D.) with public records showing no honors, no double degree, and ASU not offering the international relations degree in 2012.",
       "related_artifacts": [
         "A-2071.1",
@@ -791,14 +792,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10512",
       "ref": "N-10512",
       "name": "Nick Shirley Background and Backing Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target: verification of Nick Shirley's claimed journalism credentials, plausibility of his Brazilian favela infiltration story, and identification of who is backing him in the media ecosystem.",
       "related_artifacts": [
         "A-2073.1",
@@ -814,14 +816,15 @@
       "evidence_count": 3,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10607",
       "ref": "N-10607",
       "name": "Project Constitution / TPUSA Divorce Rumor Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target: whether the Project Constitution divorce rumor regarding Andrew Kolvet had a factual basis, and the proportionality of TPUSA's response.",
       "related_artifacts": [
         "A-2062.1",
@@ -842,7 +845,9 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-41"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10818"
     },
     {
       "@type": "Person",
@@ -960,11 +965,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10347",
       "ref": "N-10347",
       "name": "Brian Harpole Fort Huachuca Presence Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target: whether Brian Harpole was present at Fort Huachuca on the date alleged by Mitch, given the disputed alibi photo, the flight records that do not cover the alleged sighting window, and Paramount Tactical's admission the alibi photo is not of Erika's son.",
       "related_artifacts": [
         "A-2075.1",
@@ -985,7 +990,9 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
       "@type": "Person",
@@ -1540,11 +1547,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Turning Point USA; withholds the video.",
       "related_artifacts": [],
       "related_claims": [
@@ -1556,14 +1563,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-10056",
       "ref": "N-10056",
       "name": "PBD Podcast",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "PBD Podcast; platform for the Shirley interview.",
       "related_artifacts": [],
       "related_claims": [
@@ -1573,14 +1582,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CreativeWorkSeries"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10327",
       "ref": "N-10327",
       "name": "Bari Weiss CBS Interview Question Selection",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Bari Weiss question.",
       "related_artifacts": [],
       "related_claims": [
@@ -1591,14 +1601,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10342",
       "ref": "N-10342",
       "name": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Mitch eyewitness encounter.",
       "related_artifacts": [],
       "related_claims": [
@@ -1616,14 +1627,16 @@
       "evidence_count": 0,
       "claim_count": 9,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10390",
       "ref": "N-10390",
       "name": "Fort Huachuca Erika Presence Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for Erika's Fort Huachuca ties.",
       "related_artifacts": [],
       "related_claims": [
@@ -1633,14 +1646,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10493",
       "ref": "N-10493",
       "name": "Turning Point Action / Thomas Massie Disavowal Incident",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused for the Massie disavowal.",
       "related_artifacts": [],
       "related_claims": [
@@ -1650,14 +1665,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10556",
       "ref": "N-10556",
       "name": "Marcus Wada Arms Trafficking and Biography Cluster",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for Wada's background.",
       "related_artifacts": [],
       "related_claims": [
@@ -1667,14 +1684,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-11295",
       "ref": "N-11295",
       "name": "Candace-Erika December 15 Private Meeting Revelations",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the December 15 meeting.",
       "related_artifacts": [],
       "related_claims": [
@@ -1688,14 +1706,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10783",
       "ref": "N-10783",
       "name": "Harpole Shawn Ryan Statements vs Independent Review Findings",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for Harpole's statements.",
       "related_artifacts": [],
       "related_claims": [
@@ -1709,14 +1728,16 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10762"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10818",
       "ref": "N-10818",
       "name": "Project Constitution",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Project Constitution; the X account Neff replied to.",
       "related_artifacts": [],
       "related_claims": [
@@ -1726,14 +1747,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10820",
       "ref": "N-10820",
       "name": "Paramount Tactical",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Paramount Tactical; livestream account that read the alibi.",
       "related_artifacts": [],
       "related_claims": [
@@ -1751,14 +1774,16 @@
       "evidence_count": 0,
       "claim_count": 9,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10857",
       "ref": "N-10857",
       "name": "Aspen CEO-Appointment Video Non-Release",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for non-release of the video.",
       "related_artifacts": [],
       "related_claims": [
@@ -1770,14 +1795,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10606"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10884",
       "ref": "N-10884",
       "name": "Cuba",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Cuba; subject of Shirley's trip and the headline.",
       "related_artifacts": [],
       "related_claims": [
@@ -1789,14 +1816,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Place",
+      "wikidata_class": "Q6256"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10921",
       "ref": "N-10921",
       "name": "Valhalla VFT",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Valhalla VFT; account the host says threatened her.",
       "related_artifacts": [],
       "related_claims": [
@@ -1810,14 +1839,16 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q17558136"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11022",
       "ref": "N-11022",
       "name": "Liberty University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Liberty University; Erika's master's.",
       "related_artifacts": [],
       "related_claims": [
@@ -1827,14 +1858,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11027",
       "ref": "N-11027",
       "name": "Andrew Kolvet Rogue-Actor Explanation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the rogue explanation.",
       "related_artifacts": [],
       "related_claims": [
@@ -1844,14 +1877,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11098",
       "ref": "N-11098",
       "name": "TPUSA Crisis PR Team",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "TPUSA Crisis PR Team; the PR firm Erika mentioned.",
       "related_artifacts": [],
       "related_claims": [
@@ -1862,14 +1896,17 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229",
+      "parent": "N-10000"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11164",
       "ref": "N-11164",
       "name": "Arizona State University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Arizona State University; Erika's claimed degree.",
       "related_artifacts": [],
       "related_claims": [
@@ -1880,14 +1917,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11171",
       "ref": "N-11171",
       "name": "Hillsdale College",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Hillsdale College; commencement and honorary doctorate.",
       "related_artifacts": [],
       "related_claims": [
@@ -1899,14 +1938,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q189004"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11203",
       "ref": "N-11203",
       "name": "Tim Pool Dispute With Candace Owens",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Tim Pool dispute.",
       "related_artifacts": [],
       "related_claims": [
@@ -1916,14 +1957,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-11228",
       "ref": "N-11228",
       "name": "Kolvet PR Role for Erika Kirk August 2025 Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for Kolvet PR role.",
       "related_artifacts": [],
       "related_claims": [
@@ -1933,7 +1975,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
@@ -1953,7 +1996,8 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     }
   ],
   "claims": [

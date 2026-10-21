@@ -687,7 +687,7 @@ The host's account that Utah State University officers including Allan Robertson
 
 **N-11062** Minab Iran School Strike
 
-Node Type: Place
+Node Type: Event
 The strike on an elementary school in Minab, Iran, early in the US-Iran war, discussed through the Sky News investigation and the Trump and Hegseth statements.
 
 *Related: C-11804, C-11805, C-11806, C-11807, C-11809, C-11810, C-11811, C-11813*

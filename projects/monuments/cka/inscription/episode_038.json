@@ -1011,11 +1011,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10266",
       "ref": "N-10266",
       "name": "French Street Wilmington Historical Cluster",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Persistent claim that Wilmington's North French Street originated as Willing Street in Thomas Willing's grid and was renamed after 1790s Haitian/French Revolution refugee settlement; central to the alleged \"French network\" narrative.",
       "related_artifacts": [
         "A-1469.1"
@@ -1027,14 +1027,15 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10249",
       "ref": "N-10249",
       "name": "920 North King Street / 1 Rodney Square Federal Facility",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Claim that three federal agencies work together at 920 North King Street, Wilmington; also identified as the address to which a foreign dignitary was escorted and where the attorneys filing Candace Owens's Brigitte-lawsuit paperwork are housed.",
       "related_artifacts": [
         "A-1469.2",
@@ -1051,14 +1052,16 @@
       "evidence_count": 2,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place",
+      "wikidata_class": "Q41176"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10267",
       "ref": "N-10267",
       "name": "Bracebridge Complex French Connection",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "1100 North King Street complex: originally Maryland Bank HQ (1995), Bank of America acquired (2006) and vacated (2018); 2024 legislation supporting Longwood Foundation (Pierre S. du Pont) to operate as educational center; six connected buildings on French Street and King Street.",
       "related_artifacts": [
         "A-1469.3",
@@ -1078,14 +1081,15 @@
       "related_nodes": [
         "N-287",
         "N-288"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10268",
       "ref": "N-10268",
       "name": "Incyte Corporation French CEO",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Claim that long-time Incyte CEO was Hervé Hoppenot (French national), now advisor; Incyte owns the construction site across from 920 North King and is plugged into VA/military health care supply chains.",
       "related_artifacts": [
         "A-1469.4"
@@ -1100,14 +1104,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-286"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10269",
       "ref": "N-10269",
       "name": "Longwood Foundation / Pierre du Pont Educational Center",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Claim that 2024 legislation provided financial support to the Longwood Foundation (founded by Pierre S. du Pont) to function as an educational center at Bracebridge.",
       "related_artifacts": [
         "A-1469.3"
@@ -1122,14 +1127,16 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-288"
-      ]
+      ],
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10270",
       "ref": "N-10270",
       "name": "Wilmington Trust / T. Coleman du Pont",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Claim that the Wilmington Trust was founded by T. Coleman du Pont; located at 1100 North Market Street on Rodney Square, adjacent to Bracebridge; acquired WSFS branches in 1990.",
       "related_artifacts": [
         "A-1469.5"
@@ -1145,14 +1152,16 @@
       "related_nodes": [
         "N-289",
         "N-10271"
-      ]
+      ],
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10271",
       "ref": "N-10271",
       "name": "Rodney Square / 500 Delaware Avenue Federal Cluster",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Claim that 500 North Delaware Avenue hosts an FBI presence; MG+M Delaware Avenue law firm occupies Suite 200 directly below the FBI Suite 300; located on Rodney Square alongside Wilmington Trust and Bracebridge.",
       "related_artifacts": [
         "A-1469.5",
@@ -1165,14 +1174,15 @@
       "evidence_count": 2,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10272",
       "ref": "N-10272",
       "name": "French Foreign Legion US Training August 2025",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Joint training exercises: (a) FFL 2nd Foreign Infantry Regiment with US Marines 6th Marine Regiment in California, August 2–25, 2025 (A-1465.1, confirmed by France 24 / French Ministry); (b) Operation Valhalla joint military-civilian exercise at Camp Ripley, MN, August 25–27, 2025 (A-1477.1, host-cited).",
       "related_artifacts": [
         "A-1465.1",
@@ -1189,14 +1199,17 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-10279"
-      ]
+      ],
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-08"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10273",
       "ref": "N-10273",
       "name": "Operation Bright Star August–September 2025",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Claim that Operation Bright Star (bi-annual US-Egypt joint operation in Cairo) ran August 29 – September 10, 2025, ending on the day of the Charlie Kirk assassination.",
       "related_artifacts": [
         "A-1478.1"
@@ -1208,14 +1221,17 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-08-29"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10274",
       "ref": "N-10274",
       "name": "FFL Six-Regiment Command Change August 2025",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Per an August 20, 2025 article (A-1479.1), six French Foreign Legion regiments underwent changes of command in mid-August 2025.",
       "related_artifacts": [
         "A-1479.1"
@@ -1227,14 +1243,17 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-08"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10275",
       "ref": "N-10275",
       "name": "Safari Club Intelligence Network",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Wikipedia-summarized covert alliance of intelligence services formed in 1976 (members including pre-revolutionary Iran, Egypt, Saudi Arabia, Morocco, France, Israel, Djibouti, South Africa); central to Ponton's framing of plausibility.",
       "related_artifacts": [
         "A-1463.1",
@@ -1250,14 +1269,16 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-284"
-      ]
+      ],
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10276",
       "ref": "N-10276",
       "name": "Brigitte Macron Schedule Gap September 4–10, 2025",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Documented Brigitte Macron public appearances on September 4, 2025 (Paris Design Week, Zelensky photo, Saudi Arabia orchestra); six-day absence in public schedule before Charlie Kirk's September 10 assassination. Not a separate artifact in this episode beyond A-1475.1/A-1475.2.",
       "related_artifacts": [
         "A-1475.1",
@@ -1274,14 +1295,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-82"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10277",
       "ref": "N-10277",
       "name": "YouTube Live Poll: Lawsuit as Government Operation",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Poll results from live show: 24,856 votes, 93% Yes on \"Do you think that this lawsuit was an operation against me?\"",
       "related_artifacts": [
         "A-1476.1"
@@ -1293,14 +1315,16 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10278",
       "ref": "N-10278",
       "name": "Camp Riley vs Camp Ripley Typo Issue",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Host typed \"Camp Riley\" in her X post when referring to Camp Ripley, Minnesota; the French Ministry and France 24 used this typo to assert the host's broader allegations were unfounded; Andy Parrish identified the correct camp name.",
       "related_artifacts": [
         "A-1467.1",
@@ -1318,14 +1342,16 @@
       "related_nodes": [
         "N-285",
         "N-10272"
-      ]
+      ],
+      "schema_org": "Thing",
+      "parent": "N-10262"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10279",
       "ref": "N-10279",
       "name": "Eric Bolling / PBD Podcast Apology Incident",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Eric Bolling sent an apology email to Candace Owens's PR after a PBD segment in which he claimed she had not been friends with Charlie Kirk since 2017; he blamed \"that Alex guy\" (Adam Sosnick) and said he did not even know Adam's name (initially referring to him as \"Sam\").",
       "related_artifacts": [
         "A-1474.1"
@@ -1341,7 +1367,9 @@
       "related_nodes": [
         "N-72",
         "N-282"
-      ]
+      ],
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
       "@type": "Person",
@@ -1565,7 +1593,9 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing",
+      "parent": "N-10254"
     },
     {
       "@type": "Organization",
@@ -1583,14 +1613,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-11195",
       "ref": "N-11195",
       "name": "UVU Attendee Recognition and Media Avoidance Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "The host's account that UVU students did not recognize attendees at the September 10 event, that it was advertised late, and that national media avoided UVU students.",
       "related_artifacts": [],
       "related_claims": [
@@ -1602,7 +1634,8 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
@@ -1624,7 +1657,9 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing",
+      "parent": "N-10297"
     },
     {
       "@type": "Person",
@@ -1680,11 +1715,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1698,14 +1733,16 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10140",
       "ref": "N-10140",
       "name": "UVU Campus Familiarity Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1715,14 +1752,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10014",
       "ref": "N-10014",
       "name": "Federal Bureau of Investigation",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1734,14 +1772,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10072",
       "ref": "N-10072",
       "name": "White House",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1753,14 +1793,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "LandmarksOrHistoricalBuildings",
+      "wikidata_class": "Q41176"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10084",
       "ref": "N-10084",
       "name": "Candace Owens FBI/CIA Reporting Incident",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1770,14 +1812,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10145",
       "ref": "N-10145",
       "name": "Utah FBI Personnel Replacement",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1787,14 +1830,18 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-08",
+      "parent": "N-10194"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10297",
       "ref": "N-10297",
       "name": "France / Macron Couple Involvement in Kirk Assassination",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1809,14 +1856,15 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10257",
       "ref": "N-10257",
       "name": "Operation Valhalla – Charlie Kirk Assassination Timeline Connection",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1826,14 +1874,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10341"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10262",
       "ref": "N-10262",
       "name": "Camp Ripley Training Center",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1843,14 +1893,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place",
+      "wikidata_class": "Q245016"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10260",
       "ref": "N-10260",
       "name": "Minot Air Force Base",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1860,14 +1912,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place",
+      "wikidata_class": "Q245016"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10196",
       "ref": "N-10196",
       "name": "Egyptian Air Force SU-BTT Provo Mission Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1877,14 +1931,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10199"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10250",
       "ref": "N-10250",
       "name": "SUBTT Wilmington Visit Pattern",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1894,14 +1950,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10199"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10071",
       "ref": "N-10071",
       "name": "Provo, Utah",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1911,14 +1969,17 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "City",
+      "wikidata_class": "Q515",
+      "parent": "N-10120"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10928",
       "ref": "N-10928",
       "name": "Satys",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1930,14 +1991,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10253",
       "ref": "N-10253",
       "name": "Wilmington Airport Hangar Federal Connection",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1948,14 +2011,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10250"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10931",
       "ref": "N-10931",
       "name": "Macron Cease and Desist and Legal Timeline",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1965,14 +2030,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10254",
       "ref": "N-10254",
       "name": "Macron Defamation Lawsuit Delaware Venue Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1985,14 +2051,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10015",
       "ref": "N-10015",
       "name": "Mossad",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2002,14 +2069,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10001",
       "ref": "N-10001",
       "name": "MK Ultra",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2019,14 +2088,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10112",
       "ref": "N-10112",
       "name": "MK Ultra Continuity Theory",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2036,14 +2106,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10001"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10003",
       "ref": "N-10003",
       "name": "Charlie-Candace Friendship Continuity",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2053,14 +2125,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10821",
       "ref": "N-10821",
       "name": "Daily Wire",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2070,14 +2143,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-10056",
       "ref": "N-10056",
       "name": "PBD Podcast",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2087,14 +2162,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CreativeWorkSeries"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10212",
       "ref": "N-10212",
       "name": "Israeli Cell Phone Presence on 9/10",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2104,14 +2180,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10930",
       "ref": "N-10930",
       "name": "Lay-Low List Warning",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -2122,7 +2199,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     }
   ],
   "claims": [

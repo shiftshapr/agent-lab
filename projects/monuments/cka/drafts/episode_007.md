@@ -500,7 +500,7 @@ Federal Aviation Administration; consulted re transponder claim.
 
 **N-10081** Exit Wound / Bullet Trajectory Discrepancy
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: discrepancy
 Mismatch between expected high-velocity bullet behavior and reported no-exit-wound outcome.
 
@@ -510,7 +510,7 @@ Mismatch between expected high-velocity bullet behavior and reported no-exit-wou
 
 **N-10082** Transponder / Plane Anomaly Investigation
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: discrepancy
 Dispute between FBI (lost signal) and plane owner (ATC-permitted shutdown).
 
@@ -520,7 +520,7 @@ Dispute between FBI (lost signal) and plane owner (ATC-permitted shutdown).
 
 **N-10083** UVU Underground Tunnel / Pipeline Investigation
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: verification_thread
 Hypothesis that underground access near Charlie's seat could explain no-exit-wound outcome.
 
@@ -550,7 +550,7 @@ Disputed narrative that Charlie and Candace had a breakup; host denies.
 
 **N-10086** Screwdriver Evidence Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: verification_thread
 Viewer claim that screwdriver reportedly found on roof doesn't fit the rifle.
 

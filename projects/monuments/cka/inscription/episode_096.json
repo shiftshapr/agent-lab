@@ -624,11 +624,11 @@
   ],
   "nodes": [
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10582",
       "ref": "N-10582",
       "name": "WHCD Incident Reconstruction",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent discrepancy between official shooting narrative and surveillance footage indicating possible friendly fire by Secret Service at the 2026 White House Correspondents Dinner incident.",
       "related_artifacts": [
         "A-2008.1",
@@ -645,14 +645,15 @@
       "claim_count": 3,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10583",
       "ref": "N-10583",
       "name": "Sara Sidner Original Video Source Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Unresolved question of whether Sara Sidner personally recorded the Erika Kirk \"I just want to go home\" clip or obtained it from another source.",
       "related_artifacts": [
         "A-2008.3"
@@ -668,14 +669,15 @@
       "related_nodes": [
         "N-2",
         "N-370"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10584",
       "ref": "N-10584",
       "name": "Erika Kirk Pre-Recorded Statement Authorship and Authenticity",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Question of who authored Erika Kirk's pre-recorded 9-minute statement (host suggests Blake Neff), whether it was scripted, and how it was produced.",
       "related_artifacts": [
         "A-2009.1",
@@ -697,14 +699,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10585",
       "ref": "N-10585",
       "name": "Trump Truth Social Tweet Authorship/Origin",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Question of who authored and pushed send on Trump's April 2026 Truth Social post criticizing Candace Owens (host names Dan Scavino and Natalie Harp as historical senders).",
       "related_artifacts": [
         "A-2007.1"
@@ -719,14 +722,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-5"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10586",
       "ref": "N-10586",
       "name": "Andrew Kolvet Text Message Full Context Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Unresolved question of the complete text message chain shared between Candace and others regarding the December meeting with Erika Kirk; host has publicly authorized release of the full chain.",
       "related_artifacts": [
         "A-2011.1"
@@ -745,14 +749,16 @@
         "N-2",
         "N-3",
         "N-14"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-11295"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10587",
       "ref": "N-10587",
       "name": "Erika Kirk Murder Allegation Accuracy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Question of whether Candace Owens ever made an explicit on-podcast claim that Erika Kirk murdered Charlie Kirk, and the framing of the December text joke as evidence.",
       "related_artifacts": [
         "A-2009.4",
@@ -777,7 +783,8 @@
       "related_nodes": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1209,11 +1216,11 @@
       "related_nodes": []
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Turning Point USA.",
       "related_artifacts": [
         "A-2962.1",
@@ -1228,14 +1235,16 @@
       "evidence_count": 2,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10186",
       "ref": "N-10186",
       "name": "TPUSA Succession Plan Disclosure Timeline",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1245,14 +1254,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10194",
       "ref": "N-10194",
       "name": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1262,14 +1272,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10254",
       "ref": "N-10254",
       "name": "Macron Defamation Lawsuit Delaware Venue Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node cited by new claims in this episode.",
       "related_artifacts": [
         "A-2963.1"
@@ -1283,14 +1294,15 @@
       "evidence_count": 1,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10327",
       "ref": "N-10327",
       "name": "Bari Weiss CBS Interview Question Selection",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1300,14 +1312,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10334",
       "ref": "N-10334",
       "name": "Surgeon Quotation Authenticity Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1318,14 +1331,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10379",
       "ref": "N-10379",
       "name": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1335,14 +1349,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10416",
       "ref": "N-10416",
       "name": "Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1353,14 +1368,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10506",
       "ref": "N-10506",
       "name": "Aubrey Termination Circumstances",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1370,14 +1386,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10456"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10535",
       "ref": "N-10535",
       "name": "Trump Truth Social Post Pattern Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1388,14 +1406,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10538",
       "ref": "N-10538",
       "name": "Laura Loomer Influence on Trump Policy Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1409,14 +1428,16 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10535"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10548",
       "ref": "N-10548",
       "name": "Victor Marx IDF 50,000 Guns Request",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1426,14 +1447,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10554",
       "ref": "N-10554",
       "name": "UGA No-Show Security Threat Explanation Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1444,14 +1466,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10560",
       "ref": "N-10560",
       "name": "Victor Marx / Corby Hall On-Air Interview Proposal",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1462,14 +1485,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10606",
       "ref": "N-10606",
       "name": "Charlie Kirk Aspen Audio Authenticity Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1481,7 +1505,8 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
       "@type": "Person",

@@ -457,11 +457,11 @@
       ]
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10342",
       "ref": "N-10342",
       "name": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Persistent investigation target: claimed physical encounter by \"Mitch\" at Candlewood Inn & Suites (Fort Huachuca) on the evening of September 8, 2025 and at a JTF command building on the morning of September 9, 2025, including claimed identifications by resemblance of N-2 (Erika Kirk), Brian Harpole (see N-10342 related), and Captain Neff (N-319).",
       "related_artifacts": [
         "A-1558.1",
@@ -487,14 +487,16 @@
         "N-361",
         "N-363",
         "N-319"
-      ]
+      ],
+      "schema_org": "Thing",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10343",
       "ref": "N-10343",
       "name": "Fort Huachuca Covert Operations Training Allegations (Bruce Bevins Class)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigation target: viewer-email allegation that Fort Huachuca hosted a class teaching military personnel to infiltrate Christian organizations through covert psychological operations, with corroborating student testimony regarding overnight deception exercises in Tucson.",
       "related_artifacts": [
         "A-1557.1",
@@ -512,14 +514,16 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-362"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10344",
       "ref": "N-10344",
       "name": "Charlie Kirk SUV Interior Black Plastic Fragmentation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigation target: viewer-flagged and host-confirmed visual observation of black plastic / tempered-glass-like fragments across the rear floor of Charlie Kirk's SUV in post-shooting photographs.",
       "related_artifacts": [
         "A-1560.1",
@@ -535,7 +539,8 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-1"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -613,7 +618,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -635,7 +641,8 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -811,11 +818,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10082",
       "ref": "N-10082",
       "name": "Transponder / Plane Anomaly Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused for the host's call-sign and transponder claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -825,14 +832,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10106",
       "ref": "N-10106",
       "name": "Tyler Robinson Evidence Gaps",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Reused for the host's statements on the evidence against Tyler Robinson and the surgeon's account.",
       "related_artifacts": [],
       "related_claims": [
@@ -843,14 +851,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10095",
       "ref": "N-10095",
       "name": "Shooter Description Contradiction",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused for the rooftop eyewitness's description of the shooter and weapon.",
       "related_artifacts": [],
       "related_claims": [
@@ -862,14 +871,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10226",
       "ref": "N-10226",
       "name": "Timpanogos Hospital Footage Seizure Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused for federal removal of hospital footage and exclusion of the surgeon.",
       "related_artifacts": [],
       "related_claims": [
@@ -880,14 +890,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10524"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10232",
       "ref": "N-10232",
       "name": "Calvary Chapel Institutional Abuse Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Reused for the host's statements on Calvary Chapel pastors and Rob McCoy.",
       "related_artifacts": [],
       "related_claims": [
@@ -898,14 +910,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10254",
       "ref": "N-10254",
       "name": "Macron Defamation Lawsuit Delaware Venue Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused for the host's mention of being sued by a transatlantic president.",
       "related_artifacts": [],
       "related_claims": [
@@ -915,14 +928,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10255",
       "ref": "N-10255",
       "name": "Tyler Robinson Washington County Surveillance Footage Gap",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused for the missing Tyler Robinson surrender footage and the host's account of the surrender.",
       "related_artifacts": [],
       "related_claims": [
@@ -936,14 +950,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10305",
       "ref": "N-10305",
       "name": "Fort Huachuca September 9, 2025 JTF-SB Meeting Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused for Mitch's account of the September 9 JTF building encounter and its aftermath.",
       "related_artifacts": [],
       "related_claims": [
@@ -967,14 +982,16 @@
       "evidence_count": 0,
       "claim_count": 15,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10307",
       "ref": "N-10307",
       "name": "1990 Douglas, Arizona / Operation Catacomb Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused for Mitch's account of the 1990 Douglas, Arizona tunnel operation.",
       "related_artifacts": [],
       "related_claims": [
@@ -989,14 +1006,16 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10312",
       "ref": "N-10312",
       "name": "Candlewood Suites Hotel Security Footage (Sept 8, 2025)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused for the Candlewood hotel stay and lobby encounter.",
       "related_artifacts": [],
       "related_claims": [
@@ -1008,14 +1027,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10342"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10324",
       "ref": "N-10324",
       "name": "Terryl Farnsworth Camera Removal Justification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused for Terryl Farnsworth's camera removal.",
       "related_artifacts": [],
       "related_claims": [
@@ -1026,14 +1047,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10096"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10336",
       "ref": "N-10336",
       "name": "Gun Discovery Procedure Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused for bomb-dog failure, federal direction to the weapon and prints.",
       "related_artifacts": [],
       "related_claims": [
@@ -1047,14 +1070,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10338",
       "ref": "N-10338",
       "name": "Vehicle Disposition Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused for the non-impounded hospital transport vehicle.",
       "related_artifacts": [],
       "related_claims": [
@@ -1064,14 +1088,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10340",
       "ref": "N-10340",
       "name": "SAM658/RCH658 Call Sign Switch Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused for the call-sign switch claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1083,14 +1108,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10390",
       "ref": "N-10390",
       "name": "Fort Huachuca Erika Presence Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused for the question of Erika Kirk's presence and connection to Fort Huachuca.",
       "related_artifacts": [],
       "related_claims": [
@@ -1100,14 +1126,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10405",
       "ref": "N-10405",
       "name": "TPUSA Faith Military Infiltration Claim",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused for the host's claims about military infiltration of faith and TPUSA.",
       "related_artifacts": [],
       "related_claims": [
@@ -1120,14 +1148,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10611",
       "ref": "N-10611",
       "name": "SAM702 / Fort Huachuca September 9 Passenger Manifest",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused for the Fort Huachuca flight data discussion.",
       "related_artifacts": [],
       "related_claims": [
@@ -1138,14 +1167,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10305"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10655",
       "ref": "N-10655",
       "name": "Prosecution Non-Call of Rooftop Eyewitness",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused for the uncontacted rooftop eyewitness.",
       "related_artifacts": [],
       "related_claims": [
@@ -1155,14 +1186,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10698",
       "ref": "N-10698",
       "name": "Losee Center Gun Verification Gap",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused for the weapon recovery and eyewitness description.",
       "related_artifacts": [],
       "related_claims": [
@@ -1174,7 +1206,8 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     }
   ],
   "claims": [

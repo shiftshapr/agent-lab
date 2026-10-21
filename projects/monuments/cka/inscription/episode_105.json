@@ -889,11 +889,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization the host places in an alliance with the White House and the military; its Charlie Kirk Show hosts are criticized over the advertiser campaign.",
       "related_artifacts": [],
       "related_claims": [
@@ -907,14 +907,16 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10067",
       "ref": "N-10067",
       "name": "Daily Mail",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Erika Kirk said she came to DC to confront its reporters.",
       "related_artifacts": [],
       "related_claims": [
@@ -924,14 +926,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10072",
       "ref": "N-10072",
       "name": "White House",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Site of Erika Kirk's West Wing visit and the 10:33 p.m. press conference; base of the communications agency.",
       "related_artifacts": [],
       "related_claims": [
@@ -943,14 +947,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "LandmarksOrHistoricalBuildings",
+      "wikidata_class": "Q41176"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10120",
       "ref": "N-10120",
       "name": "Utah",
-      "type": "investigation_target",
+      "type": "place",
       "description": "State where the Stratos data center was approved.",
       "related_artifacts": [
         "A-2584.1"
@@ -964,14 +970,16 @@
       "evidence_count": 1,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "State",
+      "wikidata_class": "Q35657"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10189",
       "ref": "N-10189",
       "name": "TPUSA Military-Personnel Network",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The host says everyone at Turning Point USA now seems connected to the military.",
       "related_artifacts": [],
       "related_claims": [
@@ -981,14 +989,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10294",
       "ref": "N-10294",
       "name": "Charlie Kirk Show Apple Podcasts Ranking Decline",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The host says the show, once top 10, now averages 380 views per episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -998,14 +1007,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10299",
       "ref": "N-10299",
       "name": "Operation Mockingbird 2.0 Allegation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The host frames the WHCD messaging as \"operation mockingbird on steroids.\"",
       "related_artifacts": [],
       "related_claims": [
@@ -1015,14 +1025,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10058"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10390",
       "ref": "N-10390",
       "name": "Fort Huachuca Erika Presence Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The children in Erika Kirk's alibi photo and Paramount Tactical's statements about them.",
       "related_artifacts": [
         "A-2587.1",
@@ -1039,14 +1051,16 @@
       "evidence_count": 2,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10474",
       "ref": "N-10474",
       "name": "Erika Kirk Twitter Silence Break Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Erika Kirk's post-WHCD statement breaking her silence.",
       "related_artifacts": [
         "A-2582.1"
@@ -1058,14 +1072,15 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10582",
       "ref": "N-10582",
       "name": "WHCD Incident Reconstruction",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Timing of the shooting, the clip upload, the email and the press conference.",
       "related_artifacts": [
         "A-2583.1"
@@ -1082,14 +1097,15 @@
       "evidence_count": 1,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10583",
       "ref": "N-10583",
       "name": "Sara Sidner Original Video Source Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Who filmed and first uploaded the Erika Kirk clip.",
       "related_artifacts": [],
       "related_claims": [
@@ -1100,14 +1116,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10594",
       "ref": "N-10594",
       "name": "Dhillon Law Group / Show Faith by Works Connection",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The host ties Matthew Shupe to Dhillon Law Group.",
       "related_artifacts": [],
       "related_claims": [
@@ -1117,14 +1134,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10593"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10738",
       "ref": "N-10738",
       "name": "Pentagon–State Department–TPUSA Coordinated Messaging Operation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The email's surrogate and digital-partner amplification instructions.",
       "related_artifacts": [],
       "related_claims": [
@@ -1137,14 +1156,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10809",
       "ref": "N-10809",
       "name": "Department of War",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "The host says the email came from the Department of Defense through the White House Communications Agency.",
       "related_artifacts": [
         "A-2581.1",
@@ -1159,14 +1179,16 @@
       "evidence_count": 2,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "GovernmentOrganization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10820",
       "ref": "N-10820",
       "name": "Paramount Tactical",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Account whose host showed and then disowned the relevance of the Fort Huachuca alibi photo.",
       "related_artifacts": [
         "A-2587.1",
@@ -1181,14 +1203,16 @@
       "evidence_count": 2,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "Topic",
+      "@type": "Thing",
       "@id": "N-10844",
       "ref": "N-10844",
       "name": "White House Military Office Erika Kirk Amplification Email",
-      "type": "topic",
+      "type": "thing",
       "description": "Investigation target: the email the host says was sent by the White House Military Office through the White House Communications Agency about 25 minutes after Sara Sidner's 9:25 p.m. upload of the Erika Kirk clip on the night of the April 25 WHCD shooting. According to the host's verbatim retyping, it calls the clip the \"strongest emotional response asset\" and recommends that all channels, digital partners and approved surrogates amplify it. It also expects aligned outside commentators to push themes on protective response, media conduct, political rhetoric and executive stability. The host names recipients including Karoline Leavitt's press office, Steven Cheung and several military communications staff, and calls for FOIA requests.",
       "related_artifacts": [
         "A-2581.1",
@@ -1217,14 +1241,16 @@
       "related_nodes": [
         "N-2",
         "N-10852"
-      ]
+      ],
+      "schema_org": "Message",
+      "parent": "N-10582"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-10850",
       "ref": "N-10850",
       "name": "Erika Kirk Air Force Academy Board of Visitors Appointment",
-      "type": "topic",
+      "type": "event",
       "description": "Investigation target: Erika Kirk's appointment to the U.S. Air Force Academy Board of Visitors in her late husband's place, which the host says was artificial and of unclear qualification.",
       "related_artifacts": [],
       "related_claims": [
@@ -1237,14 +1263,16 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-10851",
       "ref": "N-10851",
       "name": "Erika Kirk Pre-WHCD West Wing Visit",
-      "type": "topic",
+      "type": "event",
       "description": "Investigation target: Erika Kirk's visit to the West Wing just before the WHCD shooting, which the host says she can confirm; the host assumes but cannot confirm that Andrew Kolvet and Mikey McCoy went with her.",
       "related_artifacts": [],
       "related_claims": [
@@ -1259,7 +1287,12 @@
         "N-2",
         "N-14",
         "N-190"
-      ]
+      ],
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2026-04-25",
+      "place": "N-10072",
+      "parent": "N-10582"
     },
     {
       "@type": "Organization",
@@ -1286,14 +1319,16 @@
       "related_nodes": [
         "N-625",
         "N-621"
-      ]
+      ],
+      "schema_org": "Organization",
+      "wikidata_class": "Q327333"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10853",
       "ref": "N-10853",
       "name": "WHCD Night White House \"No Scramble\" Readiness Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Investigation target: the host's White House sources say that on the Saturday evening of the WHCD, when the White House was not open for business, staff were unusually available and on standby, with no scramble before the 10:33 p.m. press conference.",
       "related_artifacts": [],
       "related_claims": [
@@ -1304,14 +1339,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10582"
     },
     {
-      "@type": "Topic",
+      "@type": "Place",
       "@id": "N-10854",
       "ref": "N-10854",
       "name": "Stratos AI Data Center (Box Elder County, Utah)",
-      "type": "topic",
+      "type": "place",
       "description": "A proposed AI data center reported by the Guardian to cover more than 40,000 acres over three sites in Box Elder County, Utah. It would need about 9 gigawatts of power and is backed by Kevin O'Leary. County commissioners approved it despite thousands of objections. The host presents it as part of a push toward a surveillance state.",
       "related_artifacts": [
         "A-2584.1",
@@ -1334,7 +1371,8 @@
       "related_nodes": [
         "N-627",
         "N-628"
-      ]
+      ],
+      "schema_org": "Place"
     },
     {
       "@type": "Topic",
@@ -1360,14 +1398,15 @@
       "related_nodes": [
         "N-14",
         "N-159"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "Thing",
       "@id": "N-10856",
       "ref": "N-10856",
       "name": "Florida Golden Trump Statue",
-      "type": "topic",
+      "type": "thing",
       "description": "A 22-foot golden statue of Donald Trump unveiled at a Florida golf course. Pastor John Mark Burns defended it, and the host says Hasidic Jewish donors backed it.",
       "related_artifacts": [
         "A-2589.1",
@@ -1386,7 +1425,8 @@
       "related_nodes": [
         "N-5",
         "N-629"
-      ]
+      ],
+      "schema_org": "VisualArtwork"
     }
   ],
   "claims": [

@@ -1290,11 +1290,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization whose summit, handling of the appointment video, X account and fundraising practices are criticized.",
       "related_artifacts": [
         "A-2626.1",
@@ -1320,14 +1320,16 @@
       "evidence_count": 2,
       "claim_count": 14,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10008",
       "ref": "N-10008",
       "name": "YWLS Conference",
-      "type": "investigation_target",
+      "type": "event",
       "description": "The summit, renamed the Women's Leadership Summit, where Erika Kirk was heckled and Dana Loesch and Alex Clark spoke.",
       "related_artifacts": [
         "A-2622.1",
@@ -1346,14 +1348,16 @@
       "evidence_count": 3,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10026",
       "ref": "N-10026",
       "name": "Israel",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Subject of the reported US military merger headline.",
       "related_artifacts": [
         "A-2619.1"
@@ -1365,14 +1369,16 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10053",
       "ref": "N-10053",
       "name": "Kirk-Israel Narrative Dispute",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The host restates that Charlie Kirk was changing his mind about Israel.",
       "related_artifacts": [],
       "related_claims": [
@@ -1382,14 +1388,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10067",
       "ref": "N-10067",
       "name": "Daily Mail",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Reporters were shown the appointment video exclusively, per the host.",
       "related_artifacts": [],
       "related_claims": [
@@ -1399,14 +1406,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10186",
       "ref": "N-10186",
       "name": "TPUSA Succession Plan Disclosure Timeline",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Erika Kirk's November 2025 Megyn Kelly interview introduced the appointment video.",
       "related_artifacts": [],
       "related_claims": [
@@ -1416,14 +1425,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10328",
       "ref": "N-10328",
       "name": "Charlie Kirk Catholicism Journey",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The host restates that Charlie attended Catholic mass, sometimes daily.",
       "related_artifacts": [],
       "related_claims": [
@@ -1433,14 +1443,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10349",
       "ref": "N-10349",
       "name": "AmFest Tent Recreation Approval Chain",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The host cites the recreated tent for selfies alongside the displayed microphone.",
       "related_artifacts": [],
       "related_claims": [
@@ -1450,14 +1461,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10374",
       "ref": "N-10374",
       "name": "Romania / Eastern Europe Trafficking Cluster",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Context for the allegation the heckler referenced about Erika Kirk's past.",
       "related_artifacts": [],
       "related_claims": [
@@ -1467,14 +1479,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10384",
       "ref": "N-10384",
       "name": "Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The host says the church Erika Kirk partnered with is being sued and the lawsuit is ongoing.",
       "related_artifacts": [],
       "related_claims": [
@@ -1484,14 +1497,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10374"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10406",
       "ref": "N-10406",
       "name": "Aspen Donor Recall Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Donors and Erika fans present say the appointment never happened; the host has contacted the donors.",
       "related_artifacts": [],
       "related_claims": [
@@ -1503,14 +1518,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10420",
       "ref": "N-10420",
       "name": "USS Liberty Incident Cover-up Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Thomas Massie's announced honor for survivors; the host's Phil Tourney interview.",
       "related_artifacts": [],
       "related_claims": [
@@ -1520,14 +1536,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10493",
       "ref": "N-10493",
       "name": "Turning Point Action / Thomas Massie Disavowal Incident",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Kolvet's earlier statement that an intern runs the TPUSA X account.",
       "related_artifacts": [],
       "related_claims": [
@@ -1537,14 +1554,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10606",
       "ref": "N-10606",
       "name": "Charlie Kirk Aspen Audio Authenticity Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Attendees believe the clip was spliced from different points of the event.",
       "related_artifacts": [
         "A-2625.2"
@@ -1565,14 +1584,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10582",
       "ref": "N-10582",
       "name": "WHCD Incident Reconstruction",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The host's narrowed FOIA asks for emails on Erika Kirk and the correspondents' dinner shooting.",
       "related_artifacts": [],
       "related_claims": [
@@ -1582,14 +1602,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10637",
       "ref": "N-10637",
       "name": "Pending FOIA Requests",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The White House asked the host to narrow her Erika Kirk FOIA request.",
       "related_artifacts": [
         "A-2627.1"
@@ -1602,14 +1623,15 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10809",
       "ref": "N-10809",
       "name": "Department of War",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "The host says it appears to have been involved in the White House emails about Erika Kirk.",
       "related_artifacts": [],
       "related_claims": [
@@ -1619,14 +1641,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "GovernmentOrganization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "Organization",
+      "@type": "Event",
       "@id": "N-10869",
       "ref": "N-10869",
       "name": "St. Petersburg International Economic Forum (SPIEF)",
-      "type": "organization",
+      "type": "event",
       "description": "Annual economic forum in St. Petersburg, described by the host as the \"Davos of the East,\" where she spoke on a family panel. She says a Trump administration delegation also attended. Critics claimed Putin invited her and that she appeared alongside Dugin.",
       "related_artifacts": [
         "A-2618.1"
@@ -1641,14 +1665,16 @@
       "evidence_count": 1,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-10870",
       "ref": "N-10870",
       "name": "Alexander Dugin–George Farmer Italy Meeting Allegation",
-      "type": "topic",
+      "type": "event",
       "description": "Investigation target: Laura Loomer's source-based claim that Alexander Dugin met the host's husband George Farmer in a secret meeting in Italy about a month before the Russia trip, used to call for FARA registration and FinCEN flags. The host denies ever meeting Dugin.",
       "related_artifacts": [
         "A-2618.2"
@@ -1662,7 +1688,9 @@
       "evidence_count": 1,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
       "@type": "Organization",
@@ -1680,7 +1708,9 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q327333"
     },
     {
       "@type": "Organization",
@@ -1700,7 +1730,9 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Place",
@@ -1719,7 +1751,9 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place",
+      "wikidata_class": "Q16970"
     },
     {
       "@type": "Organization",
@@ -1736,7 +1770,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
       "@type": "Organization",
@@ -1755,14 +1791,16 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "Topic",
+      "@type": "Thing",
       "@id": "N-10844",
       "ref": "N-10844",
       "name": "White House Military Office Erika Kirk Amplification Email",
-      "type": "topic",
+      "type": "thing",
       "description": "Investigation target: the email the host says was sent by the White House Military Office through the White House Communications Agency about 25 minutes after Sara Sidner's 9:25 p.m. upload of the Erika Kirk clip on the night of the April 25 WHCD shooting. In this episode the host says her report was true, that Erika Kirk is considered an \"emotional asset,\" and that the Department of War appears to have been involved; her narrowed FOIA request seeks these emails.",
       "related_artifacts": [],
       "related_claims": [
@@ -1772,7 +1810,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Message",
+      "parent": "N-10582"
     }
   ],
   "claims": [

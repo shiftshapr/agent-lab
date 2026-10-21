@@ -289,11 +289,11 @@
   ],
   "nodes": [
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10520",
       "ref": "N-10520",
       "name": "Comparative Bullet Lead Analysis Revival",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent question regarding the FBI's planned use of a forensic technique (CBLA/comparative bullet lead analysis) that the FBI discontinued in 2005 due to flawed scientific, statistical, and interpretive validity.",
       "related_artifacts": [
         "A-1912.1",
@@ -308,14 +308,16 @@
       "evidence_count": 2,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10106"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10521",
       "ref": "N-10521",
       "name": "Defense Discovery Dumping Strategy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent pattern alleged by host in which prosecution withheld key items (autopsy report, autopsy photographs, full forensic files) and delivered a ~600,000-file dump on March 12, 2026 – two months before the scheduled May 2026 preliminary hearing.",
       "related_artifacts": [
         "A-1912.1"
@@ -331,14 +333,16 @@
       "evidence_count": 1,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-11065"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10522",
       "ref": "N-10522",
       "name": "July 14, 2025 Long Beach Flight",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Investigation target referenced by host as a \"crucial date\" tied to a flight involving Erika Kirk, Katherine Locastro, Derek Niekerk, and Jonathan Barcelo to Long Beach; viewer email adds geographic context via proximity to Los Alamitos Joint Forces Air Base.",
       "related_artifacts": [
         "A-1915.1"
@@ -350,14 +354,17 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-07-14"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10523",
       "ref": "N-10523",
       "name": "ATF Bullet-to-Gun Inconclusive Finding",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent evidentiary gap documented in the defense filing: the ATF was unable to identify the autopsy-recovered bullet to the rifle allegedly tied to Tyler Robinson.",
       "related_artifacts": [
         "A-1912.1"
@@ -369,14 +376,16 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10106"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10524",
       "ref": "N-10524",
       "name": "Timpanogos Hospital Evidence Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target referenced at episode end – host indicates a planned follow-up on Timpanogos hospital staff, Elizabeth Lane's hospital-lockdown commentary, and the question of whether Charlie Kirk was initially taken to Utah Valley or Timpanogos.",
       "related_artifacts": [],
       "related_claims": [],
@@ -384,7 +393,8 @@
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "low",
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -415,11 +425,11 @@
       "related_nodes": []
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10081",
       "ref": "N-10081",
       "name": "Exit Wound / Bullet Trajectory Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent inconsistency between Andrew Kolvet's September 20, 2025 tweet (bullet found beneath skin), Andrew Kolvet's reported September 23, 2025 verbal account (bullet traveled C2–C6, shattered in thorax), and Brian Harpool's later statement (fragmented in stomach/thorax).",
       "related_artifacts": [
         "A-1913.1"
@@ -433,7 +443,8 @@
       "evidence_count": 1,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -573,11 +584,11 @@
       "related_nodes": []
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Turning Point USA; subject of the host's allegations about the footage and employee statements.",
       "related_artifacts": [],
       "related_claims": [
@@ -589,7 +600,9 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Person",
@@ -663,11 +676,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10006",
       "ref": "N-10006",
       "name": "Fox News",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Fox News; venue of Erika Kirk's remark about wanting the case to be fast.",
       "related_artifacts": [],
       "related_claims": [
@@ -677,7 +690,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Person",
@@ -714,11 +729,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Utah Valley University; source of students and staff the host says she spoke to.",
       "related_artifacts": [],
       "related_claims": [
@@ -728,14 +743,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10014",
       "ref": "N-10014",
       "name": "Federal Bureau of Investigation",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Federal Bureau of Investigation; alleged to have been calling TPUSA about the footage and to be running a second bullet analysis.",
       "related_artifacts": [],
       "related_claims": [
@@ -748,7 +765,9 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Person",
@@ -785,11 +804,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10030",
       "ref": "N-10030",
       "name": "Text Message Timestamp Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Missing Text Message Timestamps; reused for the PDF text messages the defense says lack time data.",
       "related_artifacts": [],
       "related_claims": [
@@ -799,7 +818,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10074"
     },
     {
       "@type": "Person",
@@ -900,11 +921,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10096",
       "ref": "N-10096",
       "name": "TPUSA SD Card Removal",
-      "type": "investigation_target",
+      "type": "event",
       "description": "TPUSA SD Card Removal; reused for the Farnsworth card removal claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -917,14 +938,19 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-09-10",
+      "place": "N-10028",
+      "parent": "N-10073"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10106",
       "ref": "N-10106",
       "name": "Tyler Robinson Evidence Gaps",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Tyler Robinson Evidence Gaps; reused for the prints and DNA claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -935,14 +961,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10156",
       "ref": "N-10156",
       "name": "SD Card Removal Narrative Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "SD Card Removal Narrative Discrepancy; reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -952,14 +979,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10096"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10193",
       "ref": "N-10193",
       "name": "Charlie Kirk Burial / Funeral Narrative Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Charlie Kirk Burial / Funeral Narrative Discrepancy; reused for the September 20 burial date.",
       "related_artifacts": [],
       "related_claims": [
@@ -969,14 +998,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10282",
       "ref": "N-10282",
       "name": "Justin Streiff Post-Assassination Phone Call",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Justin Streiff Post-Assassination Phone Call; reused for the host's account of his contact with her husband.",
       "related_artifacts": [],
       "related_claims": [
@@ -986,14 +1016,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10324",
       "ref": "N-10324",
       "name": "Terryl Farnsworth Camera Removal Justification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Terryl Farnsworth Camera Removal Justification; reused for his and Kolvet's explanations.",
       "related_artifacts": [],
       "related_claims": [
@@ -1004,14 +1035,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10096"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10336",
       "ref": "N-10336",
       "name": "Gun Discovery Procedure Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Gun Discovery Procedure Question; reused for the planted-gun allegation.",
       "related_artifacts": [],
       "related_claims": [
@@ -1021,14 +1054,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10362",
       "ref": "N-10362",
       "name": "Charlie Kirk Premonition Dreams",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Charlie Kirk Premonition Dreams; reused for the host's account that he told her he would die.",
       "related_artifacts": [],
       "related_claims": [
@@ -1038,14 +1072,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10416",
       "ref": "N-10416",
       "name": "Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Three-Way Surgeon Call / Superman Neck HIPAA Discrepancy; reused for the Erika, Kolvet and Trotter call.",
       "related_artifacts": [],
       "related_claims": [
@@ -1059,14 +1094,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10494",
       "ref": "N-10494",
       "name": "Charlie Kirk Iran War Opposition (June 2025)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Charlie Kirk Iran War Opposition (June 2025); reused for the host's timeline theory.",
       "related_artifacts": [],
       "related_claims": [
@@ -1076,14 +1112,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10532",
       "ref": "N-10532",
       "name": "Tyler Robinson Defense – Chain of Custody / Documents",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Tyler Robinson Defense Chain of Custody / Documents; reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1094,14 +1131,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10106"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10567",
       "ref": "N-10567",
       "name": "Gun Firing Evidence Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Gun Firing Evidence Verification; reused for the GSR, prints and heirloom ammunition claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1114,14 +1153,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10570",
       "ref": "N-10570",
       "name": "Defense Access to Firearm Evidence (Quantico)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Defense Access to Firearm Evidence (Quantico); reused for the outstanding ATF and FBI materials.",
       "related_artifacts": [],
       "related_claims": [
@@ -1131,14 +1171,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10647",
       "ref": "N-10647",
       "name": "Tyler Robinson DNA Most Degraded Anomaly",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Tyler Robinson DNA Most Degraded Anomaly; reused for the DNA mixture claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1148,14 +1189,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10188",
       "ref": "N-10188",
       "name": "UVU Hospital Charlie Kirk Medical File Access Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Utah Valley Hospital File Anomaly; reused for the hospital routing question.",
       "related_artifacts": [],
       "related_claims": [
@@ -1165,14 +1207,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10721",
       "ref": "N-10721",
       "name": "Terryl Farnsworth Google-Hack Contradiction",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Terryl Farnsworth Google-Hack Contradiction; reused for his excuses for not sending the footage.",
       "related_artifacts": [],
       "related_claims": [
@@ -1182,14 +1225,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10736"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10896",
       "ref": "N-10896",
       "name": "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF); source of the inconclusive bullet finding.",
       "related_artifacts": [],
       "related_claims": [
@@ -1201,14 +1246,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q327333"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10972",
       "ref": "N-10972",
       "name": "Bomb Dog Deployment at the Crime Scene",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Bomb Dog Deployment at the Crime Scene; reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1218,14 +1265,18 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-09-10",
+      "place": "N-10028"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10973",
       "ref": "N-10973",
       "name": "Tyler Robinson Gunshot Residue Test Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Tyler Robinson Gunshot Residue Test Question; reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1235,14 +1286,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10106"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10986",
       "ref": "N-10986",
       "name": "Utah Rule 1102 Hearsay Standard",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Utah Rule 1102 Hearsay Standard; reused for the hearsay argument.",
       "related_artifacts": [],
       "related_claims": [
@@ -1254,14 +1307,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing",
+      "parent": "N-11065"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-11065",
       "ref": "N-11065",
       "name": "Tyler Robinson Preliminary Hearing and Motion to Dismiss",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Tyler Robinson Preliminary Hearing and Motion to Dismiss; reused for the continuance request.",
       "related_artifacts": [],
       "related_claims": [
@@ -1275,7 +1330,9 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
       "@type": "Person",
@@ -1295,11 +1352,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-11172",
       "ref": "N-11172",
       "name": "Back-Footage FaceTime Recording Inquiry",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Topic. The host's account that on September 20, 2025 TPUSA leadership and the FBI were asking whether she had recorded Terryl Farnsworth's September 19 FaceTime showing the back-camera footage.",
       "related_artifacts": [],
       "related_claims": [
@@ -1312,7 +1369,9 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10723"
     },
     {
       "@type": "Organization",
@@ -1329,7 +1388,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "GovernmentOrganization",
+      "wikidata_class": "Q43229"
     }
   ],
   "claims": [

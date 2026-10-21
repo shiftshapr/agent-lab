@@ -403,7 +403,7 @@ Umbrella investigation thread encompassing all episode-13 evidence streams.
 
 **N-10046** Robinson Outfit/Language Anomaly
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: discrepancy
 Host asserts text-message phrasing ('squad car', 'outfit', 'Prince') is inconsistent with Robinson's likely profile.
 
@@ -413,7 +413,7 @@ Host asserts text-message phrasing ('squad car', 'outfit', 'Prince') is inconsis
 
 **N-10047** Steele Family Orem Cluster
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: verification_thread
 Multiple Steele/Steel residents appearing across artifacts (doorbell-cam house, BBC witness, GMA family); host cannot reconcile Sherri Steele against databases.
 
@@ -423,7 +423,7 @@ Multiple Steele/Steel residents appearing across artifacts (doorbell-cam house, 
 
 **N-10048** Dairy Queen 6:38 Photo Verification
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: verification_thread
 Authenticity and timestamp of the DQ photograph relative to the official Robinson timeline.
 
@@ -433,7 +433,7 @@ Authenticity and timestamp of the DQ photograph relative to the official Robinso
 
 **N-10049** Doorbell-Cam Footage Provenance
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: discrepancy
 Whether footage reached TMZ via the homeowner or via federal channels before TMZ release.
 
@@ -453,7 +453,7 @@ Local-theory claim that Robinson was a decoy who dropped the gun at a chicken co
 
 **N-10051** Caldera Engineering Valve Pattern
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: narrative_pattern
 Host pattern-matches Steele family employer (valve manufacturer) to prior Pastnic family pipeline business.
 
@@ -463,7 +463,7 @@ Host pattern-matches Steele family employer (valve manufacturer) to prior Pastni
 
 **N-10052** Federal Footage Sweep
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: narrative_pattern
 Host's pattern claim that feds have pressured locals not to release any footage, drawing analogy to post-9/11 Pentagon footage controls.
 
@@ -483,7 +483,7 @@ Owens vs Netanyahu/TPUSA-donor characterization of Kirk's stance toward Israel; 
 
 **N-10054** Owens Memorial Invitation Status
 
-Node Type: Topic
+Node Type: Investigation Question
 Topic Kind: verification_thread
 Status of Candace Owens's invitation/speaking role at the Kirk memorial event; disputed across Daily Mail / Bowling / Owens accounts.
 
@@ -523,7 +523,7 @@ Published Sherri Steele witness account and withheld a video she provided.
 
 **N-10056** PBD Podcast
 
-Node Type: Organization
+Node Type: Thing
 Organization Kind: media_outlet
 Carried the Eric Bolling segment contradicting Owens's account of TPUSA involvement.
 
@@ -545,7 +545,7 @@ Kirk-founded organization at the center of the donor-pressure narrative.
 
 **N-10057** Good Morning America
 
-Node Type: Organization
+Node Type: Thing
 Organization Kind: media_outlet
 Aired the Tiffany Barker / L Steel / Mia Grant interview the morning after the shooting.
 
@@ -557,7 +557,7 @@ Aired the Tiffany Barker / L Steel / Mia Grant interview the morning after the s
 
 **N-10058** CIA Operation Mockingbird
 
-Node Type: Organization
+Node Type: Topic
 Organization Kind: program_or_initiative
 Historical CIA program referenced by host to explain mainstream-media alignment.
 

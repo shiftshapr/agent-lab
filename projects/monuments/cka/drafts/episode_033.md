@@ -564,7 +564,7 @@ Turning Point USA affiliate that the Wolves and Finance video says received $8,5
 
 **N-11249** Charlie Kirk Salt Lake City Diversion Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Persistent question raised by the host about why Charlie Kirk flew into Salt Lake City at 9:23 a.m. on September 10 rather than the closer Provo airport, and who arranged the interview that she says explained the detour.
 
 *Related: C-2910, C-2915*
@@ -573,7 +573,7 @@ Persistent question raised by the host about why Charlie Kirk flew into Salt Lak
 
 **N-11250** SUBND Transponder Time Zone Offset Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Dispute over whether the SUBND transponder windows on September 10 should be converted from UTC with minus 7 hours (as presented on air) or minus 6 hours (Mountain Daylight Time), and whether the host's first October 11 plane post had a time-zone error.
 
 *Related: C-2895, C-2896, C-2926, C-2968*

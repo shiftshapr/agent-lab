@@ -371,7 +371,7 @@ Victor Marx's stepfather, named by the host; subject of Victor's childhood abuse
 
 **N-10814** 45,000 Rescue Claim Discrepancy
 
-Node Type: Topic
+Node Type: Investigation Question
 Website (victor2026.com) claimed Victor Marx rescued more than 45,000 women and children; Victor denied ever making that claim.
 
 *Related: A-2509.2, C-9478, C-9454*
@@ -590,7 +590,7 @@ The practice, described by the host as 'retooling' prayer and by Marx as deliver
 
 **N-10967** Holly Chalmers Rescue Dispute
 
-Node Type: Topic
+Node Type: Investigation Question
 The dispute between Holly Chalmers, who accuses Marx of kidnapping her across state lines and calls him a trafficker, and Marx, who says he rescued her from a pedophile boyfriend with HSI approval.
 
 *Related: C-9391, C-9394, C-9464, C-9465, C-9466, C-9467*
@@ -608,7 +608,7 @@ The dispute over whether Corby Hall threatened Marx, whether Corey filed stateme
 
 **N-10969** Victor Marx Cold-Case Sheriff Report
 
-Node Type: Topic
+Node Type: Thing
 Marx's account that he shot a man at age 7 under his stepfather's coercion, later called a sheriff's department about a 40-year-old cold case in Simpson County, Mississippi, and cannot identify the victim or site.
 
 *Related: C-9410, C-9412, C-9413, C-9419, C-9420*

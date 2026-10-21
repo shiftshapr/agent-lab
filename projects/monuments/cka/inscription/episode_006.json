@@ -1070,7 +1070,9 @@
       "claim_count": 3,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "organization_kind": "nonprofit"
+      "organization_kind": "nonprofit",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -1091,7 +1093,9 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "organization_kind": "company"
+      "organization_kind": "company",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -1111,7 +1115,9 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "organization_kind": "government_agency"
+      "organization_kind": "government_agency",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -1131,7 +1137,9 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "organization_kind": "government_agency"
+      "organization_kind": "government_agency",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -1151,7 +1159,9 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "organization_kind": "government_agency"
+      "organization_kind": "government_agency",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -1171,7 +1181,9 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "organization_kind": "government_agency"
+      "organization_kind": "government_agency",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -1191,7 +1203,9 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "organization_kind": "media_outlet"
+      "organization_kind": "media_outlet",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -1211,7 +1225,9 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "organization_kind": "media_outlet"
+      "organization_kind": "media_outlet",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -1231,7 +1247,9 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "organization_kind": "government_agency"
+      "organization_kind": "government_agency",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -1250,14 +1268,16 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "organization_kind": "advocacy_group"
+      "organization_kind": "advocacy_group",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "Place",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "place",
+      "type": "organization",
       "description": "University with alleged CIA pipeline mentioned by host",
       "related_artifacts": [],
       "related_claims": [],
@@ -1266,7 +1286,9 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "place_kind": "venue"
+      "place_kind": "venue",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
       "@type": "Place",
@@ -1286,7 +1308,10 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "place_kind": "city"
+      "place_kind": "city",
+      "schema_org": "City",
+      "wikidata_class": "Q515",
+      "parent": "N-10120"
     },
     {
       "@type": "Place",
@@ -1306,7 +1331,9 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "place_kind": "venue"
+      "place_kind": "venue",
+      "schema_org": "LandmarksOrHistoricalBuildings",
+      "wikidata_class": "Q41176"
     },
     {
       "@type": "Place",
@@ -1324,7 +1351,9 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "place_kind": "country"
+      "place_kind": "country",
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
       "@type": "Topic",
@@ -1351,14 +1380,15 @@
       "claim_count": 4,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "topic_kind": "verification_thread"
+      "topic_kind": "verification_thread",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10074",
       "ref": "N-10074",
       "name": "Robinson-Lance Text Chain Authenticity",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Discrepancy over whether FBI-released text messages between Robinson and Lance are genuine",
       "related_artifacts": [
         "A-1131.1",
@@ -1373,7 +1403,8 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "topic_kind": "discrepancy"
+      "topic_kind": "discrepancy",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
@@ -1395,7 +1426,8 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "topic_kind": "verification_thread"
+      "topic_kind": "verification_thread",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1419,7 +1451,8 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "topic_kind": "verification_thread"
+      "topic_kind": "verification_thread",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1440,7 +1473,8 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "topic_kind": "verification_thread"
+      "topic_kind": "verification_thread",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1462,7 +1496,8 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "topic_kind": "narrative_pattern"
+      "topic_kind": "narrative_pattern",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1496,7 +1531,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1513,14 +1549,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10002",
       "ref": "N-10002",
       "name": "Charlie Kirk Death and Memorial",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic reused: the memorial the host will not attend.",
       "related_artifacts": [],
       "related_claims": [
@@ -1532,14 +1569,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10011",
       "ref": "N-10011",
       "name": "TMZ",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization reused: published the doorbell-cam footage.",
       "related_artifacts": [],
       "related_claims": [
@@ -1549,14 +1587,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10014",
       "ref": "N-10014",
       "name": "Federal Bureau of Investigation",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization reused: the feds the host distrusts and the bullet and footage handover questions.",
       "related_artifacts": [],
       "related_claims": [
@@ -1570,14 +1610,16 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10027",
       "ref": "N-10027",
       "name": "The Hamptons",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Place reused: where the host says Kolvet was not.",
       "related_artifacts": [],
       "related_claims": [
@@ -1587,14 +1629,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10044",
       "ref": "N-10044",
       "name": "Donor Intimidation of Charlie Kirk",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic reused: donor pressure after the host's TPUSA appearance.",
       "related_artifacts": [],
       "related_claims": [
@@ -1606,14 +1649,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10048",
       "ref": "N-10048",
       "name": "Dairy Queen 6:38 Photo Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic reused: dating the Dairy Queen photo.",
       "related_artifacts": [],
       "related_claims": [
@@ -1625,14 +1669,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10049",
       "ref": "N-10049",
       "name": "Doorbell-Cam Footage Provenance",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic reused: where the TMZ doorbell footage came from.",
       "related_artifacts": [],
       "related_claims": [
@@ -1642,14 +1687,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10050",
       "ref": "N-10050",
       "name": "Vacant-House / Decoy Shooter Theory",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic reused: the vacant house locals suspect.",
       "related_artifacts": [],
       "related_claims": [
@@ -1659,14 +1705,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10032"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10051",
       "ref": "N-10051",
       "name": "Caldera Engineering Valve Pattern",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic reused: the host's valve-industry pattern across her investigations.",
       "related_artifacts": [],
       "related_claims": [
@@ -1680,14 +1728,16 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10062"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10054",
       "ref": "N-10054",
       "name": "Owens Memorial Invitation Status",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic reused: whether the host was invited to the memorial.",
       "related_artifacts": [],
       "related_claims": [
@@ -1700,14 +1750,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-10056",
       "ref": "N-10056",
       "name": "PBD Podcast",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Organization reused: show that carried the clip.",
       "related_artifacts": [],
       "related_claims": [
@@ -1720,14 +1771,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "CreativeWorkSeries"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10081",
       "ref": "N-10081",
       "name": "Exit Wound / Bullet Trajectory Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic reused: the no-blood and exit-wound claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1741,14 +1793,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10115",
       "ref": "N-10115",
       "name": "Jimmy Kimmel Free-Speech Defense",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic reused: the host's defense of Kimmel on speech grounds.",
       "related_artifacts": [],
       "related_claims": [
@@ -1761,14 +1814,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10129",
       "ref": "N-10129",
       "name": "Hamptons Weekend Retreat",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Topic reused: the retreat in question.",
       "related_artifacts": [],
       "related_claims": [
@@ -1778,14 +1832,18 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "place": "N-10027",
+      "parent": "N-10044"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10158",
       "ref": "N-10158",
       "name": "Campus Footage Release Strategy Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic reused: whether the back-camera footage will be released.",
       "related_artifacts": [],
       "related_claims": [
@@ -1796,14 +1854,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10252",
       "ref": "N-10252",
       "name": "AmFest Speaker Removal Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic reused: the host being told she could not speak at AmFest.",
       "related_artifacts": [],
       "related_claims": [
@@ -1813,14 +1872,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10358",
       "ref": "N-10358",
       "name": "Daily Wire Show Targeting Candace Owens / Tucker Carlson",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic reused: the host's Daily Wire exit.",
       "related_artifacts": [],
       "related_claims": [
@@ -1830,14 +1890,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10924",
       "ref": "N-10924",
       "name": "Alleged $150 Million Netanyahu-Funded Campaign Against Tucker Carlson and Candace Owens",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic reused: the host's view of Netanyahu spending.",
       "related_artifacts": [],
       "related_claims": [
@@ -1847,14 +1908,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11002",
       "ref": "N-11002",
       "name": "TPUSA Leak Hunt and Employee Firings",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic reused: employee firings and secrecy.",
       "related_artifacts": [],
       "related_claims": [
@@ -1864,14 +1926,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10000"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11014",
       "ref": "N-11014",
       "name": "TikTok Israel Moderation Claim",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic reused: the host's TikTok claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1882,14 +1946,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11021",
       "ref": "N-11021",
       "name": "TikTok",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization reused: platform the host says Israel is taking over.",
       "related_artifacts": [],
       "related_claims": [
@@ -1901,14 +1966,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Corporation",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11143",
       "ref": "N-11143",
       "name": "AIPAC Hostile Takeover of TPUSA Claim",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic reused: the takeover thesis.",
       "related_artifacts": [],
       "related_claims": [
@@ -1919,14 +1986,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-11172",
       "ref": "N-11172",
       "name": "Back-Footage FaceTime Recording Inquiry",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic reused: the FaceTime showing of the back footage.",
       "related_artifacts": [],
       "related_claims": [
@@ -1936,14 +2004,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10723"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11234",
       "ref": "N-11234",
       "name": "Robinson Cemetery Clothing Drop Report",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic reused: the cemetery clothing report.",
       "related_artifacts": [],
       "related_claims": [
@@ -1953,7 +2023,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     }
   ],
   "claims": [

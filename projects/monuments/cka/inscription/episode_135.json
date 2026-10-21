@@ -408,11 +408,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10694",
       "ref": "N-10694",
       "name": "Timpanogos Hospital Evacuation Tip",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Source-asserted (verbal, not displayed) claim that Timpanogos Hospital ER staff directed all patients to a different wing approximately 10:00 a.m. on September 10, 2025, with patients then transferred via shuttle to Intermountain/Utah Valley Hospital at approximately 11:30 a.m. – over two hours before Charlie Kirk's shooting.",
       "related_artifacts": [],
       "related_claims": [
@@ -427,14 +427,15 @@
       "related_nodes": [
         "N-1",
         "N-10188"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10695",
       "ref": "N-10695",
       "name": "Security Clothing Disposal Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host's assertion that FBI took security team clothing down to boxer briefs; host infers possible destruction rather than evidence preservation given FBI's prior behavior of towing and reselling the vehicle.",
       "related_artifacts": [],
       "related_claims": [
@@ -444,14 +445,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10696",
       "ref": "N-10696",
       "name": "Autopsy Timeline Anomaly",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Question raised by medical professional email (A-2220.2) and host regarding unusually short (~3 hour) autopsy timeline given typical protocol of bringing body to 40°F in morgue cooler before examination; estimate includes time Erika Kirk spent with the body on arrival.",
       "related_artifacts": [
         "A-2220.2"
@@ -466,14 +468,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10697",
       "ref": "N-10697",
       "name": "Shaped Charge / Exploding Microphone Hypothesis",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Alternative theory advanced by multiple artifact-anchored medical communications suggesting Charlie Kirk's neck wound pattern is more consistent with a shaped charge in his lapel microphone than with a bullet; also encompasses the inference that recovered bullet fragments may actually be shaped charge casing.",
       "related_artifacts": [
         "A-2220.1",
@@ -489,14 +492,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-1"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10698",
       "ref": "N-10698",
       "name": "Losee Center Gun Verification Gap",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent absence of eyewitness confirmation that any firearm was visible on the Losee Center rooftop; the witness recording (A-2222.1) describes only military crawling and positioning without mentioning a gun.",
       "related_artifacts": [
         "A-2222.1"
@@ -512,14 +516,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10188",
       "ref": "N-10188",
       "name": "UVU Hospital Charlie Kirk Medical File Access Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Charlie Kirk's patient file appearing in Utah Valley Hospital / Intermountain Health electronic records on September 10, despite Timpanogos being named as receiving hospital; originally surfaced in October 28, 2025 episode; potentially explained by source-asserted patient transfer (N-10694) or by pre-existing record creation.",
       "related_artifacts": [],
       "related_claims": [
@@ -535,7 +540,8 @@
       "related_nodes": [
         "N-1",
         "N-10694"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -779,11 +785,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10002",
       "ref": "N-10002",
       "name": "Charlie Kirk Death and Memorial",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -793,14 +799,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10013",
       "ref": "N-10013",
       "name": "Discord",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -812,14 +819,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10014",
       "ref": "N-10014",
       "name": "Federal Bureau of Investigation",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -830,14 +839,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10021",
       "ref": "N-10021",
       "name": "Robinson Confession and Arrest Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -847,14 +858,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10150",
       "ref": "N-10150",
       "name": "Autopsy Record – Utah Privacy Statute Application",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -864,14 +876,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10175",
       "ref": "N-10175",
       "name": "Medical Examiner Inquiry – Weiss Amaro",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -884,14 +897,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10208",
       "ref": "N-10208",
       "name": "TPUSA Leadership Transparency Pressure (Post-Charlie)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -901,14 +915,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10216",
       "ref": "N-10216",
       "name": "Autopsy Report and Evidence Access Asymmetry",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -918,14 +933,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10226",
       "ref": "N-10226",
       "name": "Timpanogos Hospital Footage Seizure Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -935,14 +951,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10524"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10322",
       "ref": "N-10322",
       "name": "Candace Owens Security Arrangement",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -952,14 +970,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10338",
       "ref": "N-10338",
       "name": "Vehicle Disposition Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -969,14 +988,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10523",
       "ref": "N-10523",
       "name": "ATF Bullet-to-Gun Inconclusive Finding",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -986,14 +1006,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10106"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10524",
       "ref": "N-10524",
       "name": "Timpanogos Hospital Evidence Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1003,14 +1025,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10567",
       "ref": "N-10567",
       "name": "Gun Firing Evidence Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1022,14 +1045,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10585",
       "ref": "N-10585",
       "name": "Trump Truth Social Tweet Authorship/Origin",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1039,14 +1063,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10617",
       "ref": "N-10617",
       "name": "Lance Twiggs Preliminary Hearing Testimony Limitation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1056,14 +1081,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10625",
       "ref": "N-10625",
       "name": "Frank Turek CPR Claim Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1073,14 +1099,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10636"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10626",
       "ref": "N-10626",
       "name": "Frank Turek Clothing Disposal",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1091,14 +1119,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10636",
       "ref": "N-10636",
       "name": "Brian Harpole vs Frank Turek CPR Contradiction",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1110,14 +1139,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10639",
       "ref": "N-10639",
       "name": "Tyler Robinson Set-up Theory (Lance Twiggs as Actual Perpetrator)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1127,14 +1157,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10679",
       "ref": "N-10679",
       "name": "Amaro Resignation Cause",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1145,14 +1176,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10175"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10681",
       "ref": "N-10681",
       "name": "Charlie Kirk Cremation/Burial Status Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1162,14 +1195,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10684",
       "ref": "N-10684",
       "name": "Rooftop Movement Tactical Analysis",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1180,14 +1214,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10690",
       "ref": "N-10690",
       "name": "Kirk Autopsy Heart/Lung Hemorrhage Causation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1198,14 +1233,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10714",
       "ref": "N-10714",
       "name": "Luna / Helluva Boss Cultural Connection",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1215,14 +1251,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10818",
       "ref": "N-10818",
       "name": "Project Constitution",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1232,14 +1269,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10896",
       "ref": "N-10896",
       "name": "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing organization node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1249,14 +1288,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q327333"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10907",
       "ref": "N-10907",
       "name": "Charlie Kirk Inside-Shirt Rode Mic Placement",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1266,14 +1307,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10957",
       "ref": "N-10957",
       "name": "Erika Kirk Foreknowledge Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1284,14 +1326,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10973",
       "ref": "N-10973",
       "name": "Tyler Robinson Gunshot Residue Test Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1301,14 +1344,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10106"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-11053",
       "ref": "N-11053",
       "name": "Bullet Fragment Chain-of-Custody Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1318,7 +1363,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10106"
     },
     {
       "@type": "Person",
@@ -1385,7 +1432,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -1402,14 +1451,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-11219",
       "ref": "N-11219",
       "name": "Guajardo Spouse Gamer and Furry Culture Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "The host's inquiry into the medical examiner's wife, her gamer and furry culture research and online presence, and whether she overlaps with the Discord and gaming community around Tyler Robinson and Lance Twiggs.",
       "related_artifacts": [],
       "related_claims": [
@@ -1424,14 +1475,15 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-11220",
       "ref": "N-11220",
       "name": "Erika Kirk Memorial Forgiveness Statement",
-      "type": "topic",
+      "type": "event",
       "description": "Erika Kirk's \"I forgive him\" statement about Tyler Robinson at the memorial, which the host reinterprets as a conviction of him.",
       "related_artifacts": [],
       "related_claims": [
@@ -1442,7 +1494,10 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "parent": "N-10002"
     },
     {
       "@type": "Topic",
@@ -1461,7 +1516,9 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing",
+      "parent": "N-10175"
     }
   ],
   "claims": [

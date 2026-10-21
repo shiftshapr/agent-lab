@@ -1070,11 +1070,11 @@
       ]
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10471",
       "ref": "N-10471",
       "name": "Color of the Day Redaction Anomaly",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent claim that the day-of-assassination DOJ file is uniquely redacted on the \"color of the day\" field among ~40 similar operational files; introduced via a viral TikTok audio.",
       "related_artifacts": [
         "A-1786.1"
@@ -1086,14 +1086,15 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10467",
       "ref": "N-10467",
       "name": "Wedding Photo Disappearance Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent inconsistency between (a) Erika's Glenn Beck statement that she had not been in the studio in \"forever\"; (b) Turning Point's Newsweek statement that Erika moved the photo for her daughter; (c) Mikey McCoy's prior in-studio appearances (Sept 22, 2025 with photo visible; Nov 8, 2025 without).",
       "related_artifacts": [
         "A-1787.1",
@@ -1115,14 +1116,15 @@
       "related_nodes": [
         "N-190",
         "N-14"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10472",
       "ref": "N-10472",
       "name": "Jillian Photographer Identification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Open question: identify the male photographer whose first name begins with \"R\" and who took photos of then-15-year-old Jillian Falcon, arranged by Erika Kirk without parental consent.",
       "related_artifacts": [
         "A-1781.10"
@@ -1138,14 +1140,15 @@
       "related_nodes": [
         "N-564",
         "N-567"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10473",
       "ref": "N-10473",
       "name": "Erika Kirk September 8–10, 2025 Whereabouts Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Open question: verify Erika Kirk's whereabouts on September 8 (Twitter-silence-breaking tweet day), September 9, and September 10, 2025 (day of Charlie Kirk's assassination); neighbors reportedly do not recall seeing her on the 10th.",
       "related_artifacts": [
         "A-1785.1",
@@ -1160,14 +1163,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-10474"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10474",
       "ref": "N-10474",
       "name": "Erika Kirk Twitter Silence Break Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Observation that Erika authored no tweets between 2023 and 2025-09-08, then authored three scripture tweets across Sept 8–10, 2025, with the third posted ~1.5 hours before the assassination of Charlie Kirk.",
       "related_artifacts": [
         "A-1785.1",
@@ -1186,14 +1190,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-10473"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10475",
       "ref": "N-10475",
       "name": "Erika Kirk Ohio Childhood Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Open question: identify classmates or family members who can corroborate Erika Frantzve's pre–high-school Ohio upbringing, including elementary and middle school attendance.",
       "related_artifacts": [],
       "related_claims": [],
@@ -1201,14 +1206,16 @@
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "low",
+      "schema_org": "Question",
+      "parent": "N-10465"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10476",
       "ref": "N-10476",
       "name": "Erika Kirk Loyola Marymount Attendance Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Open question: identify attendees who can corroborate Erika Frantzve's enrollment at Loyola Marymount; the host notes that classmates from the same year do not recall her, despite a program reference.",
       "related_artifacts": [],
       "related_claims": [],
@@ -1216,14 +1223,16 @@
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "low",
+      "schema_org": "Question",
+      "parent": "N-10465"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10477",
       "ref": "N-10477",
       "name": "Erika Kirk Batman Colorado Theater Connection",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Open question: identify the person Erika Kirk referenced in a tweet as someone she knew who was present at the 2012 Batman Colorado theater mass shooting.",
       "related_artifacts": [],
       "related_claims": [],
@@ -1231,7 +1240,8 @@
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "low",
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1637,11 +1647,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization whose headquarters location and photo statement are discussed.",
       "related_artifacts": [],
       "related_claims": [
@@ -1653,14 +1663,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10106",
       "ref": "N-10106",
       "name": "Tyler Robinson Evidence Gaps",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic reused for the defense-team contact claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1670,14 +1682,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10133",
       "ref": "N-10133",
       "name": "Bullet Casing Engraving Pattern",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic reused for the bullet inscription leak to Crowder.",
       "related_artifacts": [],
       "related_claims": [
@@ -1687,14 +1700,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10293",
       "ref": "N-10293",
       "name": "Maroon Shirt Pattern at UVU September 10 Event",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic reused for the host's military-operation and color of the day claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1707,14 +1721,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10303",
       "ref": "N-10303",
       "name": "Epstein Files Release Status",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic reused for the Moskowitz and Bondi hearing claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1737,14 +1752,15 @@
       "evidence_count": 0,
       "claim_count": 14,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10342",
       "ref": "N-10342",
       "name": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic reused for the alleged Erika sighting.",
       "related_artifacts": [],
       "related_claims": [
@@ -1754,14 +1770,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10392",
       "ref": "N-10392",
       "name": "Erika Kirk China Timeline Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic reused for the China charity reference.",
       "related_artifacts": [],
       "related_claims": [
@@ -1771,14 +1789,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10409",
       "ref": "N-10409",
       "name": "Desert Spirit Tech LLC Business Purpose Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic reused for the reservation, address and trafficking-email claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1790,14 +1809,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10356"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10353",
       "ref": "N-10353",
       "name": "Erika Kirk Sept 8, 2025 Alibi Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic reused for the Sept 8 alibi question.",
       "related_artifacts": [],
       "related_claims": [
@@ -1807,14 +1828,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10390"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10452",
       "ref": "N-10452",
       "name": "Dream City Church Connection Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic reused for Tracy Martin and the Phoenix Dream Center claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1825,14 +1848,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10469",
       "ref": "N-10469",
       "name": "September 9, 2025 Night Activity Reconstruction Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic reused for the toddler alibi recap and the alleged fight.",
       "related_artifacts": [],
       "related_claims": [
@@ -1843,14 +1867,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10441"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10513",
       "ref": "N-10513",
       "name": "Stacy Sheridan September 10 Location Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic reused for the Sept 10 travel account.",
       "related_artifacts": [],
       "related_claims": [
@@ -1861,14 +1887,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10755",
       "ref": "N-10755",
       "name": "Trafficking-Pattern Claim (TPUSA / Kirk Circle)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic reused for the proximity-to-trafficking claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1878,14 +1905,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10874",
       "ref": "N-10874",
       "name": "Paleo Valley",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Sponsor named in the Alex Clark pressure allegation.",
       "related_artifacts": [],
       "related_claims": [
@@ -1896,14 +1924,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10934",
       "ref": "N-10934",
       "name": "TPUSA Post-Assassination Merchandise Revenue Claim",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Topic reused for the Zoom call merchandise remarks.",
       "related_artifacts": [],
       "related_claims": [
@@ -1913,14 +1943,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11016",
       "ref": "N-11016",
       "name": "Alex Clark WSJ Memorial Photo Controversy",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Topic reused for the boots-and-memorial remarks.",
       "related_artifacts": [],
       "related_claims": [
@@ -1930,7 +1961,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1989,7 +2021,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place"
     },
     {
       "@type": "Organization",
@@ -2008,7 +2041,9 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Topic",
@@ -2032,14 +2067,15 @@
       "related_nodes": [
         "N-186",
         "N-854"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-11169",
       "ref": "N-11169",
       "name": "Steven Crowder Bullet Inscription and Nashville Notebook Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "The host's questions about why Steven Crowder received the bullet inscription details after September 10 and the Nashville notebook, and whether he knowingly passed on fed material.",
       "related_artifacts": [
         "A-3064.1"
@@ -2055,7 +2091,8 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-259"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
@@ -2077,7 +2114,8 @@
       "related_nodes": [
         "N-99",
         "N-10874"
-      ]
+      ],
+      "schema_org": "Thing"
     }
   ],
   "claims": [

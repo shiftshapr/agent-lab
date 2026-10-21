@@ -496,7 +496,7 @@ White building near 68th Street between 2nd and 3rd Avenues, which eyewitnesses 
 
 **N-11209** Win Haven Real Estate
 
-Node Type: Topic
+Node Type: Organization
 Real estate company the host says Allan Rothstein chaired.
 
 *Related: C-6918*

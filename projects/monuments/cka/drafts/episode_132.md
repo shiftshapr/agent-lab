@@ -439,7 +439,7 @@ First named by the host at 00:23:26 in episode 132. Aliases: Pastor Russ.
 
 **N-10683** Andrew Kolvet X Post and Community Note Bundle
 
-Node Type: topic
+Node Type: Thing
 
 *Related:*
 
@@ -900,7 +900,7 @@ The host's catalogue of Charlie Kirk's death being made public: casket footage w
 
 **N-11119** Make Heaven Crowded Tour
 
-Node Type: Topic
+Node Type: Event
 The Turning Point Faith speaking tour on which Erika Kirk appeared at Pursuit Church in Washington state; the transcript sometimes renders it "Make Kevin Crowded".
 
 *Related: C-11403, C-11409, C-11410, C-11412*
@@ -927,7 +927,7 @@ Pro-Israel Christian advocacy organization the host says Pastor Russell works wi
 
 **N-11122** Charlie Kirk Wedding Ring Whereabouts
 
-Node Type: Topic
+Node Type: Investigation Question
 Question of whether Charlie Kirk's wedding ring fell from his finger at the scene and was never recovered, raised through a viewer comment.
 
 *Related: C-11442, C-11443*

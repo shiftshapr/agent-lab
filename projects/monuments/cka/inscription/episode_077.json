@@ -624,11 +624,11 @@
       ]
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10482",
       "ref": "N-10482",
       "name": "Antonio Placement Center Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigation target: Constanta, Romania institution described by Larissa as \"notorious for corruption and illicit activities such as trafficking children\"; per email, Erika Kirk's promotional materials 2012–2014 referenced it as a Romanian Angels partner.",
       "related_artifacts": [
         "A-1827.1"
@@ -645,14 +645,16 @@
       "related_nodes": [
         "N-2",
         "N-572"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10484"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10462",
       "ref": "N-10462",
       "name": "Erika Kirk Real Estate License Timing Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target: independent verification of NY real estate license #10401322765 (issued 2018-10-24) and of any completed NY real estate transactions.",
       "related_artifacts": [
         "A-1825.1"
@@ -672,14 +674,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10483",
       "ref": "N-10483",
       "name": "Erika Real Estate Bio Credential Verification Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target: verification of bio claims including magna cum laude graduation, ASU double major in political science and international relations, and Juris Master at Liberty University.",
       "related_artifacts": [
         "A-1824.1"
@@ -694,14 +697,16 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10463"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10484",
       "ref": "N-10484",
       "name": "Arizona-Romania Pipeline Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Persistent target: convergence of Tyler Bowyer's 2010 Romania trip, ASU Romanian studies program and honorary Romanian consulate (2010), Romania-to-Arizona charity/placement activity, and Arizona opening first US state trade office in Romania (~July 2025).",
       "related_artifacts": [
         "A-1828.1",
@@ -715,14 +720,16 @@
       "evidence_count": 2,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing",
+      "parent": "N-10374"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10485",
       "ref": "N-10485",
       "name": "SB 1439 Charlie Kirk Memorial Plate Fund Routing",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target: SB 1439's \"conservative grassroots network special plate fund\" and its description (nonprofit founded 2012, restoring traditional values, high school and college campus grassroots network, voter registration) – descriptors matching Turning Point USA per host.",
       "related_artifacts": [
         "A-1829.1",
@@ -744,14 +751,15 @@
         "N-575",
         "N-576",
         "N-577"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10486",
       "ref": "N-10486",
       "name": "TPUSA Super Feed Copyright / Data Routing Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target: Super Feed Inc. copyright on the Turning Point USA app per fine print; question of where user data flows.",
       "related_artifacts": [
         "A-1833.1"
@@ -763,7 +771,8 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -873,7 +882,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Topic",
@@ -890,14 +901,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10478"
     },
     {
-      "@type": "Topic",
+      "@type": "Organization",
       "@id": "N-11209",
       "ref": "N-11209",
       "name": "Win Haven Real Estate",
-      "type": "topic",
+      "type": "organization",
       "description": "Real estate company the host says Allan Rothstein chaired.",
       "related_artifacts": [],
       "related_claims": [
@@ -907,7 +920,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Person",
@@ -1090,11 +1105,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization at the center of headquarters, real-estate, DOGE and plate-fund claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1113,14 +1128,16 @@
       "evidence_count": 0,
       "claim_count": 10,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10368",
       "ref": "N-10368",
       "name": "Tyler Bowyer 2011 Romania Activities",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the 2010 Romania trip claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1130,14 +1147,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10374"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10374",
       "ref": "N-10374",
       "name": "Romania / Eastern Europe Trafficking Cluster",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the trafficking-hotbed claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1147,14 +1166,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10404",
       "ref": "N-10404",
       "name": "Charlie Kirk DOGE Pre-Death Establishment",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the DOGE claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1164,14 +1184,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10478",
       "ref": "N-10478",
       "name": "Next Model Management / Erika Kirk Connection",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new Next claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1189,14 +1210,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10481",
       "ref": "N-10481",
       "name": "Faith Kates – Epstein Relationship Scope",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for Epstein-at-Next claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1206,14 +1228,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10478"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10843",
       "ref": "N-10843",
       "name": "Superfeed",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization whose board the host says includes Lori Frantzve and Tyler Bowyer.",
       "related_artifacts": [],
       "related_claims": [
@@ -1223,14 +1247,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10850",
       "ref": "N-10850",
       "name": "Erika Kirk Air Force Academy Board of Visitors Appointment",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused for the viewer-comment claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1240,14 +1266,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10875",
       "ref": "N-10875",
       "name": "Alliance Defending Freedom",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Named by the Fox interviewer as holding an approved plate.",
       "related_artifacts": [],
       "related_claims": [
@@ -1257,14 +1285,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11022",
       "ref": "N-11022",
       "name": "Liberty University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "School of Erika's claimed Juris Master.",
       "related_artifacts": [],
       "related_claims": [
@@ -1275,14 +1305,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11028",
       "ref": "N-11028",
       "name": "Erika Kirk and Tyler Bowyer First-Meeting Account",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1292,14 +1324,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11081",
       "ref": "N-11081",
       "name": "Romanian Angels Project",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1311,14 +1344,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11082",
       "ref": "N-11082",
       "name": "Everyday Heroes Foundation",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing topic reused for the bio claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1328,14 +1363,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11087",
       "ref": "N-11087",
       "name": "Kirk \"Internet DOGE\" Money-Tracing Effort",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the DOGE claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1345,14 +1382,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11110",
       "ref": "N-11110",
       "name": "Next Model Management / MC2 Model Apartments Class Action",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -1362,14 +1400,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10478"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11164",
       "ref": "N-11164",
       "name": "Arizona State University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Host's ASU Romanian studies claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1381,7 +1421,9 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     }
   ],
   "claims": [

@@ -628,14 +628,14 @@ Newspaper that published the piece on the White House reaction to the Epstein fi
 
 **N-10890** Trump–Charlie Kirk July 12, 2025 Scolding Call
 
-Node Type: Topic
+Node Type: Event
 Investigation target: the New York Times report that Donald Trump called Charlie Kirk on July 12, 2025, the day after Tucker Carlson's Student Action Summit speech, and scolded him over the event becoming "an Epstein grievance fest." The host asks who prompted the call and places it on her pre-assassination timeline.
 
 *Related: C-9881, C-9882, C-9885, A-2648.1*
 
 **N-10891** Erika Kirk Anti-Israel Stance at Tucker Carlson Dinner
 
-Node Type: Topic
+Node Type: Investigation Question
 Investigation target: the contrast between Erika Kirk's pro-Israel July 14, 2025 Calvary Chapel speech and Tucker Carlson's account to the host, days later in Maine, that Erika had been "hardcore on the anti-Israel train" at dinner, and her later pro-Israel public positions.
 
 *Related: C-9893, C-9900, C-9901, C-9902, A-2650.1*

@@ -702,7 +702,7 @@ First named by the host at 00:11:15 in episode 40, as the Calvary Chapel founder
 
 **N-10933** Charlie Kirk Pre-Death Texts Saying He Expected to Be Killed Verification
 
-Node Type: Topic
+Node Type: Investigation Question
 Persistent investigable target: whether text messages exist in which Charlie Kirk told TPUSA staff and security guards the day before his death that he thought they would kill him the next day, as the host alleges.
 
 *Related: C-3533, C-3565*
@@ -711,7 +711,7 @@ Persistent investigable target: whether text messages exist in which Charlie Kir
 
 **N-10934** TPUSA Post-Assassination Merchandise Revenue Claim
 
-Node Type: Topic
+Node Type: Investigation Question
 Persistent investigable target: the host's claim that TPUSA made $80 million plus in merchandise sales in the first three weeks after September 10 and its whole annual budget in the first couple of weeks.
 
 *Related: C-3555, C-3556*

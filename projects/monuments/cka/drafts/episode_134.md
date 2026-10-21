@@ -608,7 +608,7 @@ Existing topic reused for new claims in this episode.
 
 **N-10086** Screwdriver Evidence Question
 
-Node Type: Topic
+Node Type: Investigation Question
 The dispute over whether a screwdriver was recovered from or used on the Losee rooftop: Neff and the prosecution (exhibits 12.1 and 12.4) are cited as asserting it, and the host says no evidence of a screwdriver has been shown.
 
 *Related: C-11564, C-11565, C-11580, C-11581*

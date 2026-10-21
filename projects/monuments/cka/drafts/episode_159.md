@@ -1203,7 +1203,7 @@ Conflict between board member Doug DeGroote's account that journalist pressure f
 
 **N-11011** Utah Back-to-Back Tour Stops Anomaly
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's observation that two UVU-area Utah stops were scheduled about 10 days apart against TPUSA's usual corridor routing, and the tip tying the routing to financial pressure.
 
 *Related: C-13733, C-13734*
@@ -1212,7 +1212,7 @@ The host's observation that two UVU-area Utah stops were scheduled about 10 days
 
 **N-11012** Kash Patel August 17 Omaha Trip FOIA Response
 
-Node Type: Topic
+Node Type: Thing
 The host's FOIA request about Kash Patel's August 17, 2025 trip to Omaha while Egyptian planes were in Lincoln and Omaha, answered with neither confirm nor deny.
 
 *Related: C-13803*

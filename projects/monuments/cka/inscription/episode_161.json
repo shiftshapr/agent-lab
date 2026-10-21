@@ -407,7 +407,9 @@
       "related_nodes": [
         "N-351",
         "N-10802"
-      ]
+      ],
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Topic",
@@ -432,7 +434,8 @@
       "related_nodes": [
         "N-10801",
         "N-351"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
       "@type": "Organization",
@@ -456,7 +459,9 @@
       "related_nodes": [
         "N-352",
         "N-10808"
-      ]
+      ],
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Topic",
@@ -479,14 +484,15 @@
       "related_nodes": [
         "N-10802",
         "N-3"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-10805",
       "ref": "N-10805",
       "name": "Wayback Machine Monster Lab September 2025 Wipe",
-      "type": "topic",
+      "type": "event",
       "description": "Archive captures from September 12, 2025 forward that only show loading; host frames as track-cleaning around go-live / first Erika campaign.",
       "related_artifacts": [
         "A-2501.1"
@@ -502,14 +508,17 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-10801"
-      ]
+      ],
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-09"
     },
     {
-      "@type": "Topic",
+      "@type": "Thing",
       "@id": "N-10806",
       "ref": "N-10806",
       "name": "Jennica Pounds DoD Special Government Employee Thread",
-      "type": "topic",
+      "type": "thing",
       "description": "Undisclosed DoD hire posting anti-Candace / pro-official-narrative thread during Tyler Robinson prelim week; later resignation.",
       "related_artifacts": [
         "A-2497.1"
@@ -526,7 +535,8 @@
       "related_nodes": [
         "N-281",
         "N-10809"
-      ]
+      ],
+      "schema_org": "SocialMediaPosting"
     },
     {
       "@type": "Place",
@@ -548,7 +558,9 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-351"
-      ]
+      ],
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
       "@type": "Place",
@@ -571,7 +583,9 @@
         "N-10803",
         "N-10235",
         "N-10676"
-      ]
+      ],
+      "schema_org": "City",
+      "wikidata_class": "Q515"
     },
     {
       "@type": "Organization",
@@ -593,14 +607,16 @@
       "related_nodes": [
         "N-281",
         "N-591"
-      ]
+      ],
+      "schema_org": "GovernmentOrganization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "Topic",
+      "@type": "Thing",
       "@id": "N-10810",
       "ref": "N-10810",
       "name": "Atlantic Elephant Clipping Expose",
-      "type": "topic",
+      "type": "thing",
       "description": "Ali Breland September 2026 Atlantic investigation into paid conservative clipping ops.",
       "related_artifacts": [
         "A-2499.1"
@@ -617,7 +633,9 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-354"
-      ]
+      ],
+      "schema_org": "Article",
+      "parent": "N-10802"
     },
     {
       "@type": "Topic",
@@ -639,14 +657,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-170"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-10812",
       "ref": "N-10812",
       "name": "Erika Kirk September 15 2025 Google Drive Clip Seed",
-      "type": "topic",
+      "type": "event",
       "description": "Erika videos uploaded to campaign drives five days after Charlie's death; host asks why she needed selling before the \"I forgive him\" speech.",
       "related_artifacts": [
         "A-2500.1"
@@ -663,7 +682,10 @@
       "related_nodes": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-09-15"
     },
     {
       "@type": "Topic",
@@ -685,7 +707,8 @@
       "related_nodes": [
         "N-2",
         "N-10000"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1479,11 +1502,11 @@
       ]
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Public denial of Wilson debate funding / Latvian contractors vs Discord instructions and orbit money.",
       "related_artifacts": [],
       "related_claims": [
@@ -1498,14 +1521,16 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-10804"
-      ]
+      ],
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10013",
       "ref": "N-10013",
       "name": "Discord",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Assignment channel for clipping campaigns and site of Tyler Robinson alleged confession lore.",
       "related_artifacts": [],
       "related_claims": [
@@ -1519,14 +1544,16 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-10802"
-      ]
+      ],
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10026",
       "ref": "N-10026",
       "name": "Israel",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Host: Israeli-aligned interests in who is attacked/protected by clipping ops; \"Israel did nothing\" syndicate framing.",
       "related_artifacts": [],
       "related_claims": [
@@ -1539,14 +1566,16 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-10804"
-      ]
+      ],
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10235",
       "ref": "N-10235",
       "name": "\"Mormon Mafia\" Allegation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Reused Vegas vulture / Hughes-company chop-up framing tied to Wynn/Adelson pieces.",
       "related_artifacts": [],
       "related_claims": [
@@ -1560,14 +1589,15 @@
       "related_nodes": [
         "N-10676",
         "N-10808"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10676",
       "ref": "N-10676",
       "name": "Howard Hughes Death Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Prior Hughes topic reused for Las Vegas company takeover narrative.",
       "related_artifacts": [],
       "related_claims": [
@@ -1580,14 +1610,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-10235"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10739",
       "ref": "N-10739",
       "name": "NCRI Report Provenance and Authorship",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Pounds thread reinforced NCRI step-by-step blaming Candace for Erika dehumanization.",
       "related_artifacts": [],
       "related_claims": [
@@ -1600,14 +1631,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-281"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10795",
       "ref": "N-10795",
       "name": "UVU Independent Review Unnamed Fire Captain CPR Redaction",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Comments continue: fire captain CPR on a body dead ~15 minutes as dog not barking; still seeking identity.",
       "related_artifacts": [],
       "related_claims": [
@@ -1621,14 +1653,16 @@
       "related_nodes": [
         "N-266",
         "N-7"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10762"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10796",
       "ref": "N-10796",
       "name": "Candyland Illegal-Nanny Mansion NDA Smear",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Opening satire of commenters volunteering as nannies after yesterday's Candyland package.",
       "related_artifacts": [],
       "related_claims": [
@@ -1641,7 +1675,8 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-3"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1729,14 +1764,15 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-11183",
       "ref": "N-11183",
       "name": "Erika Kirk Political Ambition Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "The host's opinion that Erika Kirk wanted the White House and had high political ambitions, and her question whether Erika knew of the clipping site's launch.",
       "related_artifacts": [],
       "related_claims": [
@@ -1747,14 +1783,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-11184",
       "ref": "N-11184",
       "name": "vancekirk.com Domain Purchase",
-      "type": "topic",
+      "type": "event",
       "description": "The host's statement that the domain vancekirk.com was purchased on September 12, 2025 by an unknown buyer.",
       "related_artifacts": [],
       "related_claims": [
@@ -1764,7 +1801,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
       "@type": "Person",
@@ -1784,11 +1823,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10021",
       "ref": "N-10021",
       "name": "Robinson Confession and Arrest Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Discord confession claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1798,14 +1837,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10662",
       "ref": "N-10662",
       "name": "Timpanogos Hospital Pre-Notification Failure",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the host's challenge to Harpole's account.",
       "related_artifacts": [],
       "related_claims": [
@@ -1815,14 +1855,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10663"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-10844",
       "ref": "N-10844",
       "name": "White House Military Office Erika Kirk Amplification Email",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Existing topic reused for the \"go home\" exit video.",
       "related_artifacts": [],
       "related_claims": [
@@ -1832,7 +1874,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Message",
+      "parent": "N-10582"
     }
   ],
   "claims": [

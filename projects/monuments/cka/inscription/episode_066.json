@@ -573,11 +573,11 @@
       ]
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10435",
       "ref": "N-10435",
       "name": "Cardinal Stadium RV Show Booking Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent verification target: was a lucrative RV show actually scheduled at Cardinal Stadium on the weekend of the Kirk memorial such that displaced revenue drove a $6M memorial cost?",
       "related_artifacts": [
         "A-1709.1",
@@ -594,14 +594,16 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-10438"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10438"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10436",
       "ref": "N-10436",
       "name": "TPUSA Donor Targeting Pattern Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Cross-episode investigation target: did TPUSA personnel (Stacy Sheridan, TPUSA Blank, top fundraiser) systematically coordinate donor access through memorial events, mass attendance, and faith-channel rapport-building?",
       "related_artifacts": [
         "A-1706.1",
@@ -621,14 +623,16 @@
         "N-186",
         "N-515",
         "N-14"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10044"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10437",
       "ref": "N-10437",
       "name": "Father Blank September 10 Mass Cancellation Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host verbal claim that Father Blank cancelled his regular mass on September 10 (the Monday morning the donor attended). No artifact presented in this episode.",
       "related_artifacts": [
         "A-1706.1"
@@ -641,14 +645,15 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-514"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10438",
       "ref": "N-10438",
       "name": "$6 Million Memorial Cost Claim Verification Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Cross-reference target: figure stated in TPUSA Blank's donor-introduction text and reiterated by host; tied to the RV show displacement claim (N-10435).",
       "related_artifacts": [
         "A-1709.1"
@@ -663,7 +668,8 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-10435"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -906,11 +912,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Turning Point USA; subject of the crisis PR, donor targeting and firing claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -928,14 +934,16 @@
       "evidence_count": 0,
       "claim_count": 9,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10002",
       "ref": "N-10002",
       "name": "Charlie Kirk Death and Memorial",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Charlie Kirk Death and Memorial; the setting for the donor's account.",
       "related_artifacts": [],
       "related_claims": [
@@ -949,14 +957,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10015",
       "ref": "N-10015",
       "name": "Mossad",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Mossad; named in the host's remark about CIA and Mossad training.",
       "related_artifacts": [],
       "related_claims": [
@@ -966,14 +975,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10026",
       "ref": "N-10026",
       "name": "Israel",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Israel; context for the host's Zionism and Mar-a-Lago remarks.",
       "related_artifacts": [],
       "related_claims": [
@@ -984,14 +995,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-10056",
       "ref": "N-10056",
       "name": "PBD Podcast",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "PBD Podcast; the donor networked with people orbiting it.",
       "related_artifacts": [],
       "related_claims": [
@@ -1001,14 +1014,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CreativeWorkSeries"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10067",
       "ref": "N-10067",
       "name": "Daily Mail",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Daily Mail; publisher of the grief-policing article.",
       "related_artifacts": [],
       "related_claims": [
@@ -1018,14 +1032,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10201",
       "ref": "N-10201",
       "name": "TPUSA Faith / Christian Zionist Infiltration Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused: TPUSA Faith / Christian Zionist infiltration question.",
       "related_artifacts": [],
       "related_claims": [
@@ -1036,14 +1052,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10303",
       "ref": "N-10303",
       "name": "Epstein Files Release Status",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Epstein Files Release Status; context for the host's Bondi remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1053,14 +1070,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10408",
       "ref": "N-10408",
       "name": "TPUSA Termination Cause Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "TPUSA Termination Cause Investigation; reused for the firing claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1070,14 +1088,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10456",
       "ref": "N-10456",
       "name": "TPUSA Post-Charlie Loyalty-Test Termination Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "TPUSA Post-Charlie Loyalty-Test Termination Pattern; reused for the loyalty-test claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1087,14 +1106,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10595",
       "ref": "N-10595",
       "name": "Turning Point Geofencing / Show Faith by Works Link",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Turning Point Geofencing / Show Faith by Works Link; reused for the memorial geofencing claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1104,14 +1124,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-10790",
       "ref": "N-10790",
       "name": "Dominate 2.0 Mar-a-Lago “Big Hitters” Telegram Donor List",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Dominate 2.0 Mar-a-Lago Big Hitters Telegram Donor List; reused as the Mar-a-Lago gala context.",
       "related_artifacts": [],
       "related_claims": [
@@ -1122,14 +1143,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CreativeWork"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10820",
       "ref": "N-10820",
       "name": "Paramount Tactical",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Paramount Tactical; the host says it is part of TPUSA's paid orbit.",
       "related_artifacts": [],
       "related_claims": [
@@ -1140,14 +1162,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10934",
       "ref": "N-10934",
       "name": "TPUSA Post-Assassination Merchandise Revenue Claim",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "TPUSA Post-Assassination Merchandise Revenue Claim; reused for the hat claims.",
       "related_artifacts": [
         "A-2929.1"
@@ -1160,14 +1184,15 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11002",
       "ref": "N-11002",
       "name": "TPUSA Leak Hunt and Employee Firings",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "TPUSA Employee Purge and Leak Hunt; reused for the firing claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1178,7 +1203,9 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10000"
     },
     {
       "@type": "Organization",
@@ -1195,7 +1222,10 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229",
+      "parent": "N-10000"
     },
     {
       "@type": "Topic",
@@ -1215,7 +1245,8 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     }
   ],
   "claims": [

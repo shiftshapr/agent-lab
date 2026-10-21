@@ -776,7 +776,7 @@ The host's account of Blake Neff's career: Fox News departure, Stew Peters, Mari
 
 **N-10976** Thomas Patrick 2019 Email on Kirk Money
 
-Node Type: Topic
+Node Type: Thing
 The host's account that Thomas Patrick emailed her in 2019 that Charlie Kirk was lying to her about money, during the Perlmutter dispute and a smear campaign.
 
 *Related: C-10718, C-10719, C-10721, C-10723*
@@ -794,7 +794,7 @@ The host's claims that many Turning Point people and relatives speak Russian or 
 
 **N-10978** Bank of America Epstein Victims Settlement
 
-Node Type: Topic
+Node Type: Event
 The Epstein victims' suit against Bank of America, the $170 million transfers and the settlement as described by the host.
 
 *Related: C-10734, C-10735, C-10736*
@@ -803,7 +803,7 @@ The Epstein victims' suit against Bank of America, the $170 million transfers an
 
 **N-10979** Restaurantology Event Green Room Attendance Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Who was in the restaurantology event green room and whether Frank Turek was there or in the second SUV.
 
 *Related: C-10739, C-10740, C-10741*

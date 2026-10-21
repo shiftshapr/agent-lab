@@ -713,7 +713,7 @@ The host's account of being pressured to condemn Kanye West after his 2022 tweet
 
 **N-11036** Shapiro Knowledge of Kirk Death Question
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's stated belief that Ben Shapiro may know more than the public about Charlie Kirk's death and may expect to benefit from it.
 
 *Related: C-4661, C-4662*
@@ -722,7 +722,7 @@ The host's stated belief that Ben Shapiro may know more than the public about Ch
 
 **N-11037** Andrew Breitbart Death and Autopsy Inquiry
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's account of Andrew Breitbart's 2012 death, the autopsy and the death of a forensic technician, none of it shown.
 
 *Related: C-4667, C-4668, C-4669, C-4670*

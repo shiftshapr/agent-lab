@@ -608,14 +608,14 @@ Identification of Charlie's driver and the security members in the footage.
 
 **N-11335** Federal White-Vehicle Escort of TPUSA Staff to Timpanogos (September 10)
 
-Node Type: Topic
+Node Type: Event
 The host's account that, just before 1:00 p.m. on September 10, Mikey McCoy, Blake Neff, Danny Philip and Nate Walker, and separately security members Blake Harreff, Blake Gibson and driver Christopher Rhoades, were walked to a lineup of unmarked white vehicles near the UVU roundabout and driven off by what she describes as federal officers; the first car is seen arriving at Timpanogos about 1:10 p.m., and the destination of the second is unknown.
 
 *Related: C-14073, C-14078, C-14081, C-14083, C-14084, C-14086, C-14087, C-14088, C-14089, C-14132, C-14133, A-3374.2*
 
 **N-11336** Frank Turek "The War on Reality" Book Account
 
-Node Type: Topic
+Node Type: Thing
 Frank Turek's book, which the host says was published on September 8, 2026, and whose account of the car ride, CPR, Dan Flood's jurisdiction and the surgeon's announcement she compares with Brian Harpole's and Blake Neff's accounts.
 
 *Related: C-14101, C-14102, C-14106, C-14111, C-14117, C-14121, A-3376.1*

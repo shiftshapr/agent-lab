@@ -443,11 +443,11 @@
       ]
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10291",
       "ref": "N-10291",
       "name": "Wedi Machmood Identity Verification Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent unresolved target: who is the person using the name \"Wedi Machmood\" – possibly a pilot, possibly a person well acquainted with President El-Sisi given use of a presidential Egyptian military aircraft.",
       "related_artifacts": [],
       "related_claims": [],
@@ -459,14 +459,16 @@
       "related_nodes": [
         "N-305",
         "N-10292"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10239"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10292",
       "ref": "N-10292",
       "name": "SU-BTU May 27 – June 2, 2025 Provo Visit with Wedi Machmood Aboard",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Egyptian military aircraft SU-BTU allegedly flew into Provo on May 27, 2025 with Wedi Machmood aboard, and departed June 2, 2025 without transponder data. Distinct from the September 10 yellow plane (SU-BND) incident.",
       "related_artifacts": [],
       "related_claims": [],
@@ -478,7 +480,12 @@
       "related_nodes": [
         "N-305",
         "N-10291"
-      ]
+      ],
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-05-27",
+      "place": "N-10071",
+      "parent": "N-10239"
     },
     {
       "@type": "Person",
@@ -526,7 +533,9 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "organization_kind": "media_outlet"
+      "organization_kind": "media_outlet",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Person",
@@ -637,11 +646,11 @@
       "related_nodes": []
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Public denial of Wilson debate funding / Latvian contractors vs Discord instructions and orbit money.",
       "related_artifacts": [],
       "related_claims": [
@@ -665,7 +674,9 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Person",
@@ -770,11 +781,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10061",
       "ref": "N-10061",
       "name": "The Pentagon",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Setting of the Higby question and the host's no-denial point.",
       "related_artifacts": [],
       "related_claims": [
@@ -785,14 +796,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "LandmarksOrHistoricalBuildings",
+      "wikidata_class": "Q41176"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10071",
       "ref": "N-10071",
       "name": "Provo, Utah",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Airport where the Egyptian planes and the named passenger appeared.",
       "related_artifacts": [],
       "related_claims": [
@@ -806,14 +819,17 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "City",
+      "wikidata_class": "Q515",
+      "parent": "N-10120"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10200",
       "ref": "N-10200",
       "name": "SUBND (Egyptian military aircraft) Flight Tracking Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the SU-BND ground transponder claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -823,14 +839,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10239"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10239",
       "ref": "N-10239",
       "name": "Egyptian Military Plane Tracking Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the plane identification claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -843,14 +861,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10297",
       "ref": "N-10297",
       "name": "France / Macron Couple Involvement in Kirk Assassination",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the French-plot claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -861,14 +880,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10303",
       "ref": "N-10303",
       "name": "Epstein Files Release Status",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Trump remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -878,14 +898,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10318",
       "ref": "N-10318",
       "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the host's night-before text claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -895,14 +916,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10518",
       "ref": "N-10518",
       "name": "French Intelligence (DGSE) Involvement in Charlie Kirk Assassination Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused.",
       "related_artifacts": [],
       "related_claims": [
@@ -913,14 +935,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10297"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10728",
       "ref": "N-10728",
       "name": "TPUSA Debate PR Strategy",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the debate-terms claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -937,7 +961,8 @@
       "evidence_count": 0,
       "claim_count": 8,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -958,11 +983,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10936",
       "ref": "N-10936",
       "name": "Cam Higby TPUSA Payroll Verification",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Host's claim that Cam Higby joined the TPUSA payroll in August 2025 and the question of who directed his Pentagon briefing question.",
       "related_artifacts": [],
       "related_claims": [
@@ -972,7 +997,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
@@ -989,7 +1015,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     }
   ],
   "claims": [

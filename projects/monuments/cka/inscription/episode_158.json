@@ -664,11 +664,11 @@
       ]
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10053",
       "ref": "N-10053",
       "name": "Kirk-Israel Narrative Dispute",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Advanced by Carlson quote that Erika was privately more critical of Israel than Charlie, versus her public bandwidth refusal / glowing partnerships.",
       "related_artifacts": [],
       "related_claims": [
@@ -682,14 +682,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-10786"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10190",
       "ref": "N-10190",
       "name": "Mikey McCoy Behavior Discrepancy (September 10, 2025)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused for post-assassination office/home-office behavior contrast with shrine narrative.",
       "related_artifacts": [],
       "related_claims": [
@@ -702,14 +703,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-190"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10186",
       "ref": "N-10186",
       "name": "TPUSA Succession Plan Disclosure Timeline",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused around will-appointment timing and succession optics.",
       "related_artifacts": [],
       "related_claims": [
@@ -720,14 +722,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-10762",
       "ref": "N-10762",
       "name": "Independent Review of UVU Security Failures",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Background for TPUSA non-participation contrast and post-review smear timing.",
       "related_artifacts": [
         "A-2459.1"
@@ -740,14 +743,15 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-10780"
-      ]
+      ],
+      "schema_org": "Report"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10780",
       "ref": "N-10780",
       "name": "TPUSA Non-Participation in UVU Independent Review",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Reused: host opens by contrasting Vanity Fair access with refusal to cooperate with Lake Forest Group.",
       "related_artifacts": [],
       "related_claims": [
@@ -760,14 +764,16 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-10762"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10762"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10781",
       "ref": "N-10781",
       "name": "July 10 HQ-Driven Courtyard Request (Crofts / Chilcutt Chain)",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Reused when plotting July 9 college-video archive against July 10 UVU ask.",
       "related_artifacts": [],
       "related_claims": [
@@ -780,14 +786,18 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-10789"
-      ]
+      ],
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-07-10",
+      "place": "N-10028"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10784",
       "ref": "N-10784",
       "name": "July 2025 Charlie Kirk Pressure Concurrent with UVU Booking",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Reused as parent concurrent-pressure frame for Netanyahu/Hamptons/archive overlay.",
       "related_artifacts": [],
       "related_claims": [
@@ -800,14 +810,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-10789"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-10785",
       "ref": "N-10785",
       "name": "Vanity Fair Erika Kirk Profile (Clara Molot)",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "New topic: published profile granting months of access; host treats as primary source artifact exposing CEO/widow narrative contradictions.",
       "related_artifacts": [
         "A-2459.1"
@@ -823,14 +834,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2"
-      ]
+      ],
+      "schema_org": "Article"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10786",
       "ref": "N-10786",
       "name": "Erika Heaven-Focused Political Non-Answers / CEO Fitness",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "New topic: profile quotations where Erika avoids politics/Israel via heaven/bandwidth framing; writer Clara Molot on-camera notes disingenuous/incoherent political conversation.",
       "related_artifacts": [
         "A-2459.1"
@@ -846,14 +858,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-10053"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10787",
       "ref": "N-10787",
       "name": "Night-of Assassination Aloe Yoga Outfit Directive",
-      "type": "investigation_target",
+      "type": "event",
       "description": "New topic: profile’s Erika-directed Aloe purchase the morning after for Air Force 2 optics, versus prior Elizabeth McCoy clothing-run narrative.",
       "related_artifacts": [
         "A-2460.1"
@@ -869,14 +882,17 @@
       "related_nodes": [
         "N-2",
         "N-217"
-      ]
+      ],
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-09-10"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10788",
       "ref": "N-10788",
       "name": "Candace Smear Narrative Flip (Lesbian / Secret-Zionist Package)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "New topic: post–UVU-review smear escalation flipping prior jealous/antisemitic frames into fabricated sexuality/blackmail/Zionist-control package.",
       "related_artifacts": [
         "A-2464.1"
@@ -892,14 +908,15 @@
       "related_nodes": [
         "N-3",
         "N-30"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10789",
       "ref": "N-10789",
       "name": "July 9 2025 Archive of Candace College YouTube Project",
-      "type": "investigation_target",
+      "type": "event",
       "description": "New topic: first archive of 2008 college final on July 9, 2025 adjacent to Netanyahu DC visit and July 10 UVU courtyard request; later smear uses that real video as seed; Ackman amplification.",
       "related_artifacts": [
         "A-2465.1"
@@ -917,7 +934,10 @@
         "N-37",
         "N-10781",
         "N-10784"
-      ]
+      ],
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-07-09"
     },
     {
       "@type": "Person",
@@ -1050,11 +1070,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10067",
       "ref": "N-10067",
       "name": "Daily Mail",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Daily Mail; source of the headline the host reads about her being in crisis.",
       "related_artifacts": [],
       "related_claims": [
@@ -1065,14 +1085,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10809",
       "ref": "N-10809",
       "name": "Department of War",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization the host links to attacks on her that she says double when Erika Kirk is in DC.",
       "related_artifacts": [],
       "related_claims": [
@@ -1083,14 +1105,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "GovernmentOrganization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10060",
       "ref": "N-10060",
       "name": "Gaza",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Place at issue in the profile's account of Charlie's criticism and in the host's Gaza remarks.",
       "related_artifacts": [],
       "related_claims": [
@@ -1102,14 +1126,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Place"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10783",
       "ref": "N-10783",
       "name": "Harpole Shawn Ryan Statements vs Independent Review Findings",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the review's debunking of Harpole's podcast narrative.",
       "related_artifacts": [],
       "related_claims": [
@@ -1119,14 +1144,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10762"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10320",
       "ref": "N-10320",
       "name": "Bibi Netanyahu TPUSA Funding Offer",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the host's August 5 Hamptons phone call claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1136,14 +1163,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10027",
       "ref": "N-10027",
       "name": "The Hamptons",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Place where the host says Charlie was on August 5, 2025.",
       "related_artifacts": [],
       "related_claims": [
@@ -1154,14 +1182,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10099",
       "ref": "N-10099",
       "name": "Bulletproof Vest Absence",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the night-before vest recommendation claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1171,7 +1200,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
@@ -1189,7 +1219,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1210,7 +1241,8 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1228,14 +1260,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10000"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-11003",
       "ref": "N-11003",
       "name": "Night-Before Security Recommendations Discussion",
-      "type": "topic",
+      "type": "event",
       "description": "DeGroote's account, read from the profile, that on the night before the assassination Charlie discussed security recommendations including bulletproof glass shields and vests with Erika and their pastor.",
       "related_artifacts": [],
       "related_claims": [
@@ -1245,7 +1279,10 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-09-09"
     },
     {
       "@type": "Topic",
@@ -1262,14 +1299,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "Thing",
       "@id": "N-11005",
       "ref": "N-11005",
       "name": "TPUSA Notice of Intent to Sue UVU",
-      "type": "topic",
+      "type": "thing",
       "description": "The host's account of a sloppily filed TPUSA notice that it intends to sue UVU despite not participating in the independent review.",
       "related_artifacts": [],
       "related_claims": [
@@ -1279,7 +1317,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CreativeWork"
     },
     {
       "@type": "Topic",
@@ -1297,7 +1336,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1323,7 +1363,8 @@
       "evidence_count": 0,
       "claim_count": 10,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1340,14 +1381,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Organization",
+      "@type": "Thing",
       "@id": "N-11009",
       "ref": "N-11009",
       "name": "Wear Forbidden",
-      "type": "organization",
+      "type": "thing",
       "description": "Account whose parody video of a smear strategy meeting the host plays at the end of the episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1358,7 +1400,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CreativeWork"
     }
   ],
   "claims": [

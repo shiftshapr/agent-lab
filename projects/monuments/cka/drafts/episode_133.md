@@ -650,7 +650,7 @@ First named by the host at 00:27:47 in episode 133 (transcript spelling 'felon f
 
 **N-11057** Manhunt Blurry Still Image Release Question
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's question why the feds released a blurry stairwell still during the 33-hour manhunt when clearer footage existed.
 
 *Related: C-11449*
@@ -677,7 +677,7 @@ The host's account of Foster Curtiss leaving NCIS in June 2025 to be Richmond's 
 
 **N-11060** Zachariah Qureshi Detention and Release Question
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's questions about why Zachariah Qureshi was arrested and interrogated and then released, and about his father's military app.
 
 *Related: C-11450, C-11451, C-11452*

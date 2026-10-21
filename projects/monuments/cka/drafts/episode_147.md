@@ -720,7 +720,7 @@ Existing topic reused for new claims in this episode.
 
 **N-11322** Security Vehicle Block-In Question
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's argument that the security detail parked its own vehicles in a way that blocked them in at UVU, while Kirk's vehicle could leave.
 
 *Related: C-12683*

@@ -1086,11 +1086,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization whose new FRG security team includes a same-named Christopher Rhoades.",
       "related_artifacts": [],
       "related_claims": [
@@ -1100,14 +1100,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10190",
       "ref": "N-10190",
       "name": "Mikey McCoy Behavior Discrepancy (September 10, 2025)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Blake Neff's account of Mikey McCoy's quivering lip and \"general\" role.",
       "related_artifacts": [],
       "related_claims": [
@@ -1118,14 +1120,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10214",
       "ref": "N-10214",
       "name": "Mikey McCoy Post-Shooting Phone Call Sequence",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Calls to Erika Kirk and Rob McCoy, and the call after the ICAC statement.",
       "related_artifacts": [],
       "related_claims": [
@@ -1136,14 +1139,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10593",
       "ref": "N-10593",
       "name": "Brian Harpole Lawsuit Coordination Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host on Harpole suing her instead of answering her text.",
       "related_artifacts": [],
       "related_claims": [
@@ -1153,14 +1157,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10621",
       "ref": "N-10621",
       "name": "Brian Harpole ER Story Plausibility",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host recalls Harpole found the room and prepared Charlie for the defibrillator.",
       "related_artifacts": [],
       "related_claims": [
@@ -1170,14 +1175,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10632",
       "ref": "N-10632",
       "name": "Dan Flood Role and Behavior Assessment",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Turek's book on Dan Flood's limited jurisdiction.",
       "related_artifacts": [],
       "related_claims": [
@@ -1187,14 +1193,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10664",
       "ref": "N-10664",
       "name": "Frank Turek FaceTime Story Inconsistency",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Book says Turek's phone stayed live in his pocket with his son and daughter-in-law listening.",
       "related_artifacts": [],
       "related_claims": [
@@ -1204,14 +1211,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10744",
       "ref": "N-10744",
       "name": "Christopher Pre-Shot Location Anomaly",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host says the driver went to the rooftop with Nate Walker just before the shot.",
       "related_artifacts": [],
       "related_claims": [
@@ -1221,14 +1229,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10763",
       "ref": "N-10763",
       "name": "UVU Ambulance Denial Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Book's ambulance heading away from the hospital mid-route.",
       "related_artifacts": [],
       "related_claims": [
@@ -1238,14 +1247,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-11149",
       "ref": "N-11149",
       "name": "Mikey McCoy Identity and Family Ties Inquiry",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Mikey McCoy's age and 2023 promotion.",
       "related_artifacts": [],
       "related_claims": [
@@ -1255,14 +1265,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11272",
       "ref": "N-11272",
       "name": "Druski Skit Mocking Erika Kirk Controversy",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Host says Erika Kirk cannot forgive Druski.",
       "related_artifacts": [],
       "related_claims": [
@@ -1272,14 +1283,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10256",
       "ref": "N-10256",
       "name": "Harpole–Flood Text Attribution Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Turek's shifting account of when Dan Flood showed him the Chief Long text.",
       "related_artifacts": [],
       "related_claims": [
@@ -1291,14 +1303,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10492",
       "ref": "N-10492",
       "name": "Charlie Kirk Necklace / Magnet Clasp Examination",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host says she received a different tip about the necklace.",
       "related_artifacts": [],
       "related_claims": [
@@ -1309,14 +1322,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-10619",
       "ref": "N-10619",
       "name": "Shawn Ryan Show Interview Clip Bundle",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Harpole's Shawn Ryan account replayed here.",
       "related_artifacts": [],
       "related_claims": [
@@ -1326,14 +1340,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CreativeWork"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10651",
       "ref": "N-10651",
       "name": "Blake Neff September 10th Movement Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host's questions about where Blake Neff and Danny Philip went before returning near 1:00 p.m.",
       "related_artifacts": [],
       "related_claims": [
@@ -1345,14 +1360,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10636",
       "ref": "N-10636",
       "name": "Brian Harpole vs Frank Turek CPR Contradiction",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Book's \"all three of us\" bleeding-control and CPR lines vs Harpole's account.",
       "related_artifacts": [],
       "related_claims": [
@@ -1364,14 +1380,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10694",
       "ref": "N-10694",
       "name": "Timpanogos Hospital Evacuation Tip",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host says it has been alleged the hospital was cleared a couple of hours before.",
       "related_artifacts": [],
       "related_claims": [
@@ -1382,14 +1399,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-10762",
       "ref": "N-10762",
       "name": "Independent Review of UVU Security Failures",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Review the host says revealed a fire captain doing CPR.",
       "related_artifacts": [],
       "related_claims": [
@@ -1399,14 +1417,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Report"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10795",
       "ref": "N-10795",
       "name": "UVU Independent Review Unnamed Fire Captain CPR Redaction",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host's search for the fire captain; down to two possibilities.",
       "related_artifacts": [],
       "related_claims": [
@@ -1418,14 +1437,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10762"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10802",
       "ref": "N-10802",
       "name": "Elephant Clipping Campaign",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Host's jab at Blake Neff's rant and at Turek's book title.",
       "related_artifacts": [],
       "related_claims": [
@@ -1435,14 +1456,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10807",
       "ref": "N-10807",
       "name": "Latvia",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Host credits Latvian sleuths for information on \"the Latvian nerd\".",
       "related_artifacts": [],
       "related_claims": [
@@ -1452,14 +1474,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10929",
       "ref": "N-10929",
       "name": "Hall of Flags Activity Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The group walk began from the employee lot behind the Hall of Flags.",
       "related_artifacts": [],
       "related_claims": [
@@ -1469,14 +1493,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-11124",
       "ref": "N-11124",
       "name": "Timpanogos Hospital Group Arrival Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Fox 5 footage of the first group arriving about 1:10 p.m.",
       "related_artifacts": [],
       "related_claims": [
@@ -1488,14 +1513,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11134",
       "ref": "N-11134",
       "name": "Timpanogos Regional Hospital",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Destination of the first white vehicle.",
       "related_artifacts": [],
       "related_claims": [
@@ -1506,14 +1532,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Hospital",
+      "wikidata_class": "Q16917"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11179",
       "ref": "N-11179",
       "name": "Utah Internet Crimes Against Children Task Force",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Unit of the officer who the host says took Mikey McCoy's statement.",
       "related_artifacts": [],
       "related_claims": [
@@ -1524,14 +1552,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "GovernmentOrganization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-11226",
       "ref": "N-11226",
       "name": "Security Team Timpanogos Scrubs Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Why Harreff and Gibson returned in scrubs and the driver did not.",
       "related_artifacts": [],
       "related_claims": [
@@ -1543,14 +1573,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-11237",
       "ref": "N-11237",
       "name": "Kirk Security Team Name Identification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Identification of Charlie's driver and the security members in the footage.",
       "related_artifacts": [],
       "related_claims": [
@@ -1562,14 +1593,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-11335",
       "ref": "N-11335",
       "name": "Federal White-Vehicle Escort of TPUSA Staff to Timpanogos (September 10)",
-      "type": "topic",
+      "type": "event",
       "description": "The host's account that, just before 1:00 p.m. on September 10, Mikey McCoy, Blake Neff, Danny Philip and Nate Walker, and separately security members Blake Harreff, Blake Gibson and driver Christopher Rhoades, were walked to a lineup of unmarked white vehicles near the UVU roundabout and driven off by what she describes as federal officers; the first car is seen arriving at Timpanogos about 1:10 p.m., and the destination of the second is unknown.",
       "related_artifacts": [
         "A-3374.2"
@@ -1591,14 +1623,17 @@
       "evidence_count": 1,
       "claim_count": 11,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-09-10"
     },
     {
-      "@type": "Topic",
+      "@type": "Thing",
       "@id": "N-11336",
       "ref": "N-11336",
       "name": "Frank Turek \"The War on Reality\" Book Account",
-      "type": "topic",
+      "type": "thing",
       "description": "Frank Turek's book, which the host says was published on September 8, 2026, and whose account of the car ride, CPR, Dan Flood's jurisdiction and the surgeon's announcement she compares with Brian Harpole's and Blake Neff's accounts.",
       "related_artifacts": [
         "A-3376.1"
@@ -1615,7 +1650,9 @@
       "evidence_count": 1,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Book",
+      "wikidata_class": "Q571"
     },
     {
       "@type": "Organization",
@@ -1632,7 +1669,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Corporation",
+      "wikidata_class": "Q4830453"
     }
   ],
   "claims": [

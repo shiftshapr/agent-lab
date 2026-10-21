@@ -957,11 +957,11 @@
       ]
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10147",
       "ref": "N-10147",
       "name": "Unidentified Female / \"Accomplice\" in Shooter Footage",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target referenced across host reporting, anonymous tip, and Shaner Broderick footage; the FBI has not, per host, publicly identified or released her.",
       "related_artifacts": [
         "A-1196.1",
@@ -979,14 +979,15 @@
       "related_nodes": [
         "N-142",
         "N-128"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10148",
       "ref": "N-10148",
       "name": "\"Robbie Hild\" Identity Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "X-handle candidate allegedly from Washington; named by viewer's reverse-image search. Per host, no one has come forward to personally identify him, raising the possibility of a synthetic identity.",
       "related_artifacts": [
         "A-1196.1"
@@ -996,14 +997,15 @@
       "evidence_count": 1,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "low",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10149",
       "ref": "N-10149",
       "name": "Case-Personnel Cluster Anomalies",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Composite target covering the simultaneous arrival of new senior figures (FBI SAC \"Robert Bohls,\" hospital CEO/surgeon Andrew Zenger, Judge Tony F. Graf Jr., unnamed new coroner) onto the case.",
       "related_artifacts": [
         "A-1198.1"
@@ -1020,14 +1022,15 @@
         "N-133",
         "N-134",
         "N-135"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10150",
       "ref": "N-10150",
       "name": "Autopsy Record – Utah Privacy Statute Application",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Discrete legal target: confirmation that an autopsy was conducted and that Utah statutory default is privacy absent family release.",
       "related_artifacts": [
         "A-1199.4"
@@ -1043,14 +1046,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10144",
       "ref": "N-10144",
       "name": "Hospital Routing Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Discrete question why Charlie was transported to a regional hospital that was neither nearest nor ranked highly for neck trauma capability.",
       "related_artifacts": [
         "A-1199.2"
@@ -1065,14 +1069,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-134"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10151",
       "ref": "N-10151",
       "name": "TPUSA Faith Packet / Israel References Claim",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Composite target referencing an attendee-submitted TPUSA Faith Packet said to mention Israel eight times; framed as a Turning Point directionality question.",
       "related_artifacts": [],
       "related_claims": [],
@@ -1080,7 +1085,9 @@
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "low",
+      "schema_org": "Question",
+      "parent": "N-10201"
     },
     {
       "@type": "Person",
@@ -1318,11 +1325,11 @@
       "related_nodes": []
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10146",
       "ref": "N-10146",
       "name": "Mike Mitchell Undercover Role Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Verification target: confirm whether the Detective Mike Mitchell named in the 1999 article is the same Mike Mitchell involved in the Charlie Kirk case, his tenure length (article states approximately one year as of 1999), and whether his specialty in online decoy personas is causally connected to the George Zinn decoy-boy episode.",
       "related_artifacts": [],
       "related_claims": [],
@@ -1331,7 +1338,8 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1528,11 +1536,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization whose events, Faith packet and personnel the host questions.",
       "related_artifacts": [],
       "related_claims": [
@@ -1545,14 +1553,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10003",
       "ref": "N-10003",
       "name": "Charlie-Candace Friendship Continuity",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's statement that she and Charlie never criticized each other publicly.",
       "related_artifacts": [],
       "related_claims": [
@@ -1562,14 +1572,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10006",
       "ref": "N-10006",
       "name": "Fox News",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Network on which the host says Lyman spoke.",
       "related_artifacts": [],
       "related_claims": [
@@ -1579,14 +1590,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10011",
       "ref": "N-10011",
       "name": "TMZ",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Outlet that published the doorbell-cam footage.",
       "related_artifacts": [],
       "related_claims": [
@@ -1598,14 +1611,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Campus where the shooting took place; subject of the host's remarks about Russian and CIA ties.",
       "related_artifacts": [],
       "related_claims": [
@@ -1618,14 +1633,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10014",
       "ref": "N-10014",
       "name": "Federal Bureau of Investigation",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Agency the host says withheld the woman from the public.",
       "related_artifacts": [],
       "related_claims": [
@@ -1637,14 +1654,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10017",
       "ref": "N-10017",
       "name": "Charlie Kirk May 2 Letter Misrepresentation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the alleged fake letter.",
       "related_artifacts": [],
       "related_claims": [
@@ -1654,14 +1673,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10026",
       "ref": "N-10026",
       "name": "Israel",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Country at the center of the host's Netanyahu clip, TikTok and Kirk remarks.",
       "related_artifacts": [],
       "related_claims": [
@@ -1675,14 +1695,16 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10049",
       "ref": "N-10049",
       "name": "Doorbell-Cam Footage Provenance",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for how TMZ obtained the footage.",
       "related_artifacts": [],
       "related_claims": [
@@ -1694,14 +1716,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10053",
       "ref": "N-10053",
       "name": "Kirk-Israel Narrative Dispute",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's account of Kirk's changing view of Israel.",
       "related_artifacts": [],
       "related_claims": [
@@ -1711,14 +1734,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10075",
       "ref": "N-10075",
       "name": "TPUSA Financial Apparatus Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the awaited financial report.",
       "related_artifacts": [],
       "related_claims": [
@@ -1728,14 +1752,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10079",
       "ref": "N-10079",
       "name": "CIA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Agency the host links to UVU.",
       "related_artifacts": [],
       "related_claims": [
@@ -1745,14 +1770,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10111",
       "ref": "N-10111",
       "name": "Soviet Education Infiltration",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the viewer remark on the UVU president.",
       "related_artifacts": [],
       "related_claims": [
@@ -1762,14 +1789,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10126",
       "ref": "N-10126",
       "name": "PragerU",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization linked by the host to the Horowitz family.",
       "related_artifacts": [],
       "related_claims": [
@@ -1779,14 +1807,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10130",
       "ref": "N-10130",
       "name": "Doorbell Footage Completeness Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the footage the FBI allegedly withheld.",
       "related_artifacts": [],
       "related_claims": [
@@ -1796,14 +1826,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10049"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10134",
       "ref": "N-10134",
       "name": "Operation Mocking Pastor",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's pastor-funding remarks.",
       "related_artifacts": [],
       "related_claims": [
@@ -1814,14 +1846,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10139",
       "ref": "N-10139",
       "name": "Phil Lyman Proximity and Behavior Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the host's exchange with Lyman.",
       "related_artifacts": [],
       "related_claims": [
@@ -1832,14 +1865,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10141",
       "ref": "N-10141",
       "name": "Phil Lyman Location Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for Lyman's statements about where he watched the footage.",
       "related_artifacts": [],
       "related_claims": [
@@ -1849,14 +1883,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10139"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10142",
       "ref": "N-10142",
       "name": "Unidentified Goth Person in Broderick Companion Photo",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the person next to Shaner.",
       "related_artifacts": [],
       "related_claims": [
@@ -1868,14 +1904,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10143",
       "ref": "N-10143",
       "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for why Kirk turned against Israel.",
       "related_artifacts": [],
       "related_claims": [
@@ -1885,14 +1922,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10053"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10152",
       "ref": "N-10152",
       "name": "ADL–FBI Partnership Structure",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the shared-building claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1902,14 +1941,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10153",
       "ref": "N-10153",
       "name": "Connecticut FBI Field Office Deployment Anomaly",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Connecticut building remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1919,14 +1959,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10154",
       "ref": "N-10154",
       "name": "Tyler Robinson Defense Selection Anomaly",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the defense lawyer comment.",
       "related_artifacts": [],
       "related_claims": [
@@ -1936,14 +1977,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10201",
       "ref": "N-10201",
       "name": "TPUSA Faith / Christian Zionist Infiltration Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Faith packet remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1954,14 +1996,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10379",
       "ref": "N-10379",
       "name": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the pressure campaign on Kelly.",
       "related_artifacts": [],
       "related_claims": [
@@ -1976,14 +2019,15 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10819",
       "ref": "N-10819",
       "name": "New York Post",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Outlet cited for the alleged fake letter and a spy story.",
       "related_artifacts": [],
       "related_claims": [
@@ -1994,14 +2038,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "NewsMediaOrganization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10821",
       "ref": "N-10821",
       "name": "Daily Wire",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Employer where the host says she read VPN ads.",
       "related_artifacts": [],
       "related_claims": [
@@ -2011,14 +2057,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11014",
       "ref": "N-11014",
       "name": "TikTok Israel Moderation Claim",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the content-strike claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -2028,14 +2076,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11021",
       "ref": "N-11021",
       "name": "TikTok",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Platform at the center of the Netanyahu clip and the host's censorship claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -2049,14 +2098,16 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Corporation",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11069",
       "ref": "N-11069",
       "name": "Anti-Defamation League",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization the host says shares a building with the FBI.",
       "related_artifacts": [],
       "related_claims": [
@@ -2067,14 +2118,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11086",
       "ref": "N-11086",
       "name": "International Fellowship of Christians and Jews",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization the host says funds pastors.",
       "related_artifacts": [],
       "related_claims": [
@@ -2085,14 +2138,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11133",
       "ref": "N-11133",
       "name": "Utah State University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Site of the TPUSA event described by an attendee.",
       "related_artifacts": [],
       "related_claims": [
@@ -2102,7 +2157,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
       "@type": "Topic",
@@ -2120,7 +2177,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -2139,14 +2197,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-11187",
       "ref": "N-11187",
       "name": "Security Guards Did Not Draw Guns Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "The viewer question and host agreement that no security guard drew a weapon when the shots rang out, and the host's remark on the security firm's earnings from Charlie.",
       "related_artifacts": [],
       "related_claims": [
@@ -2157,14 +2216,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-11188",
       "ref": "N-11188",
       "name": "Charlie Kirk Laptop Access Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "The host's statement that she knows who had access to Charlie Kirk's laptop and has questions about that.",
       "related_artifacts": [],
       "related_claims": [
@@ -2174,7 +2234,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
@@ -2192,14 +2253,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-11190",
       "ref": "N-11190",
       "name": "Shaner Broderick Account Deletion",
-      "type": "topic",
+      "type": "event",
       "description": "The deletion of Shaner Broderick's Facebook, LinkedIn and Instagram content after the host contacted him.",
       "related_artifacts": [],
       "related_claims": [
@@ -2209,14 +2271,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10889",
       "ref": "N-10889",
       "name": "The New York Times",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Newspaper. First cited in this episode, where the host says the New York Times has reported on Russian and Ukrainian spies (intro moved from ep45, 2026-10-19).",
       "related_artifacts": [],
       "related_claims": [
@@ -2226,7 +2290,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q11032"
     }
   ],
   "claims": [

@@ -504,7 +504,7 @@ The host says Clancy was also on ICAC.
 
 **N-11338** Val Peterson September 10 Whereabouts
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's question of where UVU vice president and retired brigadier general Val Peterson was on September 10, 2025, after the after-action report placed him about 45 minutes from campus at the time of the shooting; she notes Salt Lake City and National Guard facilities but says she has no idea whether he was there.
 
 *Related: C-14161, C-14162, C-14163, C-14165, N-955*
@@ -518,14 +518,14 @@ The host's allegation, attributed to multiple Provo and Orem sources, that Provo
 
 **N-11340** Katie Zacharia Lawyer Credential Question
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's and press reports' question of whether new White House press secretary Katie Zacharia graduated law school and passed a bar exam.
 
 *Related: C-14212, C-14213, C-14214, A-3388.2, N-960*
 
 **N-11341** Cornell 7 Case
 
-Node Type: Topic
+Node Type: Event
 The Cornell fraternity party case involving allegations of a gang rape and a group text, on which the host gives her general opinion.
 
 *Related: C-14215, C-14216, C-14219, A-3389.1*

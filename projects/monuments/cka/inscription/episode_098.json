@@ -696,11 +696,11 @@
   ],
   "nodes": [
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10593",
       "ref": "N-10593",
       "name": "Brian Harpole Lawsuit Coordination Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigative target: did the Brian Harpole lawsuit, filed via Sarelson/Roth, coordinate with Ben Shapiro, the Daily Wire, and/or Laura Loomer?",
       "related_artifacts": [
         "A-2034.1",
@@ -720,14 +720,15 @@
       "evidence_count": 6,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10594",
       "ref": "N-10594",
       "name": "Dhillon Law Group / Show Faith by Works Connection",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigative target: is the Dhillon Law Group's representation of Show Faith by Works (FARA) materially relevant to the firm's broader litigation posture in the Harpole case and the host's targeting?",
       "related_artifacts": [
         "A-2035.1",
@@ -742,14 +743,16 @@
       "evidence_count": 3,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10593"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10595",
       "ref": "N-10595",
       "name": "Turning Point Geofencing / Show Faith by Works Link",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigative target: did Show Faith by Works (or another FARA-registered entity) partner with Andrew Kolvet / Turning Point USA to geofence the State Farm Stadium memorial, and does the targeting list overlap with Turning Point-affiliated churches (Calvary Chapel / Dream City Church)?",
       "related_artifacts": [
         "A-2036.1",
@@ -765,14 +768,15 @@
       "evidence_count": 4,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10596",
       "ref": "N-10596",
       "name": "Zalman Shapiro Uranium Transfer Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigative target: did Zalman Shapiro (alleged uncle) transfer uranium to Israel, and what was the disposition of any related prosecution?",
       "related_artifacts": [],
       "related_claims": [],
@@ -780,14 +784,15 @@
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "low",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10597",
       "ref": "N-10597",
       "name": "Charlie Kirk Assassination Perpetrator Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent host assertion that Tyler Robinson did not act alone on a rooftop; flagged as ongoing series target.",
       "related_artifacts": [],
       "related_claims": [],
@@ -798,14 +803,15 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-1"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10598",
       "ref": "N-10598",
       "name": "Charlotte Airport Photo Coordination Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigative target: did Laura Loomer coordinate with Matt Sarelson to obtain photographs of the host at the Charlotte airport simultaneous with the Harpole lawsuit email?",
       "related_artifacts": [
         "A-2034.1",
@@ -820,7 +826,9 @@
       "evidence_count": 3,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10593"
     },
     {
       "@type": "Person",
@@ -1066,7 +1074,9 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [],
-      "organization_kind": "media_outlet"
+      "organization_kind": "media_outlet",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
       "@type": "Person",
@@ -1430,11 +1440,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization the host says possesses 4K footage and was geofencing the memorial.",
       "related_artifacts": [],
       "related_claims": [
@@ -1446,14 +1456,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10002",
       "ref": "N-10002",
       "name": "Charlie Kirk Death and Memorial",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Memorial and funeral topic.",
       "related_artifacts": [],
       "related_claims": [
@@ -1463,14 +1475,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10126",
       "ref": "N-10126",
       "name": "PragerU",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization the host says was not destroyed by her exit.",
       "related_artifacts": [],
       "related_claims": [
@@ -1480,14 +1493,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10225",
       "ref": "N-10225",
       "name": "Daily Wire Intern Covert Recording Operation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the intern claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1497,14 +1512,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10352",
       "ref": "N-10352",
       "name": "Daily Wire Social Media Reactivation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the channels claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1514,14 +1530,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10358",
       "ref": "N-10358",
       "name": "Daily Wire Show Targeting Candace Owens / Tucker Carlson",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the show claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1531,14 +1548,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10379",
       "ref": "N-10379",
       "name": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the clip claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1548,14 +1566,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10389",
       "ref": "N-10389",
       "name": "Daily Wire Stalking Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the stalking claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1566,14 +1585,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10452",
       "ref": "N-10452",
       "name": "Dream City Church Connection Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Dream City claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1583,14 +1603,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10577",
       "ref": "N-10577",
       "name": "George Farmer / Tracy Robinson $6,987 Incident",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the hit-and-run accusation.",
       "related_artifacts": [],
       "related_claims": [
@@ -1600,14 +1621,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10582",
       "ref": "N-10582",
       "name": "WHCD Incident Reconstruction",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Kolvet seating claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1617,14 +1639,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10585",
       "ref": "N-10585",
       "name": "Trump Truth Social Tweet Authorship/Origin",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the photo post.",
       "related_artifacts": [],
       "related_claims": [
@@ -1635,14 +1658,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10603",
       "ref": "N-10603",
       "name": "Blake Lively / Justin Baldoni Lawsuit Outcome (Legal Matter – CASE_1 / LM-1000 placeholder)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the settlement claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1653,14 +1677,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10627",
       "ref": "N-10627",
       "name": "Daily Wire Financial Status and IPO Effort",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the finance claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1674,14 +1699,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10632",
       "ref": "N-10632",
       "name": "Dan Flood Role and Behavior Assessment",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Flood claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1691,14 +1717,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10831",
       "ref": "N-10831",
       "name": "Dhillon Law Group",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Law firm of Harmeet Dhillon, counsel on the Show Faith by Works filing.",
       "related_artifacts": [],
       "related_claims": [
@@ -1710,14 +1737,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q613142"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10835",
       "ref": "N-10835",
       "name": "Show Faith by Works LLC",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "FARA-registered company running the church geofencing campaign.",
       "related_artifacts": [],
       "related_claims": [
@@ -1733,14 +1762,16 @@
       "evidence_count": 0,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11034",
       "ref": "N-11034",
       "name": "Candace Owens Daily Wire Firing Reasons",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Klavan claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1750,7 +1781,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1819,7 +1851,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     }
   ],
   "claims": [

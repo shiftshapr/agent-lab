@@ -1104,7 +1104,7 @@ First named by the host at 00:07:45 in episode 16. Online commentator whose X po
 
 **N-11237** Kirk Security Team Name Identification
 
-Node Type: Topic
+Node Type: Investigation Question
 Investigation target: the host's statement that she holds the names of everyone on Charlie Kirk's security team, including people the earlier investigation could not identify.
 
 *Related: C-1504*

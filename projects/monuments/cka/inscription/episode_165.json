@@ -873,11 +873,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Host says it pushes Club America through mandated high-school assemblies under Erika's leadership.",
       "related_artifacts": [],
       "related_claims": [
@@ -891,14 +891,16 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Val Peterson's institution; source of faculty tips.",
       "related_artifacts": [
         "A-3397.1"
@@ -912,14 +914,16 @@
       "evidence_count": 1,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10026",
       "ref": "N-10026",
       "name": "Israel",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Host says Charlie had changed his mind on Israel; Rothschild creation claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -930,14 +934,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10045",
       "ref": "N-10045",
       "name": "Charlie Kirk Assassination Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Host disputes the 150-yard shot narrative.",
       "related_artifacts": [],
       "related_claims": [
@@ -947,14 +953,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10072",
       "ref": "N-10072",
       "name": "White House",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Site of Kolvet's alleged meeting, Cox's call and the press secretary segment.",
       "related_artifacts": [],
       "related_claims": [
@@ -970,14 +977,16 @@
       "evidence_count": 0,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "LandmarksOrHistoricalBuildings",
+      "wikidata_class": "Q41176"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10143",
       "ref": "N-10143",
       "name": "Charlie Kirk Pre-Mortem Israel Position Claim",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Host repeats that Charlie had changed his mind on Israel.",
       "related_artifacts": [],
       "related_claims": [
@@ -987,14 +996,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10053"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10425",
       "ref": "N-10425",
       "name": "Charlie Kirk BB Netanyahu Show Refusal",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Viewer comment refers to Charlie declining BB's offer.",
       "related_artifacts": [],
       "related_claims": [
@@ -1004,14 +1015,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10018"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10272",
       "ref": "N-10272",
       "name": "French Foreign Legion US Training August 2025",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Host repeats that the Legion was on the ground on September 10 and that the White House never disputed it.",
       "related_artifacts": [],
       "related_claims": [
@@ -1021,14 +1034,17 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-08"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10303",
       "ref": "N-10303",
       "name": "Epstein Files Release Status",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Host repeats the partial release, Bondi's remark and the administration's refusal to release in full.",
       "related_artifacts": [],
       "related_claims": [
@@ -1042,14 +1058,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10388",
       "ref": "N-10388",
       "name": "Charlie Kirk Premonition Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Host says Charlie knew death was coming and that it would spark an awakening.",
       "related_artifacts": [],
       "related_claims": [
@@ -1059,14 +1076,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10478",
       "ref": "N-10478",
       "name": "Next Model Management / Erika Kirk Connection",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host repeats the unanswered modeling-office and modeling-apartment allegations.",
       "related_artifacts": [],
       "related_claims": [
@@ -1078,14 +1096,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10488",
       "ref": "N-10488",
       "name": "Club America High School Pushback",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Host says Club America is administratively forced on students.",
       "related_artifacts": [],
       "related_claims": [
@@ -1097,14 +1116,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10755",
       "ref": "N-10755",
       "name": "Trafficking-Pattern Claim (TPUSA / Kirk Circle)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Host frames the Peterson charges as part of a recurring trafficking and child-abuse theme around the story.",
       "related_artifacts": [],
       "related_claims": [
@@ -1115,14 +1135,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-10762",
       "ref": "N-10762",
       "name": "Independent Review of UVU Security Failures",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Source the host cites for Val Peterson's duties and his distance from campus, and for Maycee Crofts's amphitheater request.",
       "related_artifacts": [],
       "related_claims": [
@@ -1134,14 +1155,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Report"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10890",
       "ref": "N-10890",
       "name": "Trump–Charlie Kirk July 12, 2025 Scolding Call",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Host repeats that Trump reprimanded Charlie in July over the Epstein files.",
       "related_artifacts": [],
       "related_claims": [
@@ -1151,14 +1173,17 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-07-12"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10945",
       "ref": "N-10945",
       "name": "Shapiro Legal Actions Against Candace Owens",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Host's claimed personal experience behind her remarks on Shapiro and contracts.",
       "related_artifacts": [],
       "related_claims": [
@@ -1169,14 +1194,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-11338",
       "ref": "N-11338",
       "name": "Val Peterson September 10 Whereabouts",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Where UVU vice president Val Peterson was on September 10, 2025. The UVU independent review places him 45 minutes away; the host's sources say he was allegedly golfing in Heber, Utah, possibly in a tournament, and allegedly with Governor Cox (unverified by the host).",
       "related_artifacts": [],
       "related_claims": [
@@ -1193,14 +1219,15 @@
       "related_nodes": [
         "N-955",
         "N-41"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-11342",
       "ref": "N-11342",
       "name": "Governor Cox September 9–10, 2025 Schedule",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "The governor's public schedule for the week of September 8, 2025 lists no commitments on September 9 or 10, and the host says Cox has never said where he was when he learned of Charlie's death.",
       "related_artifacts": [
         "A-3392.1"
@@ -1218,14 +1245,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-41"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-11343",
       "ref": "N-11343",
       "name": "Cox–Clancy September 2 Governor's Mansion Meeting",
-      "type": "topic",
+      "type": "event",
       "description": "A September 2, 2025, 5:00 p.m. meeting between Governor Cox and Representative Tyler Clancy at the governor's mansion, per the governor's published schedule.",
       "related_artifacts": [
         "A-3392.2"
@@ -1242,14 +1270,17 @@
       "related_nodes": [
         "N-41",
         "N-957"
-      ]
+      ],
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-09-02"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-11344",
       "ref": "N-11344",
       "name": "Charles Peterson Child Enticement Charges",
-      "type": "topic",
+      "type": "event",
       "description": "2026 arrest and charges in Utah (enticing a minor, aggravated sexual exploitation, distributing harmful material) and Meridian, Idaho (four counts of enticing a child) against a man the host identifies as Val Peterson's brother.",
       "related_artifacts": [
         "A-3393.1",
@@ -1274,7 +1305,9 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-961"
-      ]
+      ],
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
       "@type": "Organization",
@@ -1296,14 +1329,16 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-962"
-      ]
+      ],
+      "schema_org": "GovernmentOrganization",
+      "wikidata_class": "Q327333"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-11340",
       "ref": "N-11340",
       "name": "Katie Zacharia Lawyer Credential Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Whether and where the new White House press secretary passed a bar exam; the host alleges she did not.",
       "related_artifacts": [
         "A-3394.1"
@@ -1321,14 +1356,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-960"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-11346",
       "ref": "N-11346",
       "name": "Kelly Clarkson Art of Play Incident",
-      "type": "topic",
+      "type": "event",
       "description": "Kelly Clarkson's visit to the Brooklyn store Art of Play, where she was told the automated bird \"Molly\" was not for sale, and her subsequent post alleging she was judged.",
       "related_artifacts": [
         "A-3395.1",
@@ -1351,14 +1387,16 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-963"
-      ]
+      ],
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-11347",
       "ref": "N-11347",
       "name": "Danny Trejo Pawn Shop Contract Dispute",
-      "type": "topic",
+      "type": "event",
       "description": "Reports that Danny Trejo was cast in the film Pawn Shop without knowing of Ben Shapiro's involvement and is contractually bound to it.",
       "related_artifacts": [
         "A-3396.1"
@@ -1377,7 +1415,9 @@
       "related_nodes": [
         "N-964",
         "N-97"
-      ]
+      ],
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     }
   ],
   "claims": [

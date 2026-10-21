@@ -797,7 +797,7 @@ School the host says accepted Robinson.
 
 **N-11288** Robinson Rifle Family Heirloom Provenance
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's source's account that the rifle is a custom-made family heirloom inherited by Tyler Robinson as the firstborn son, and that he is not a gun enthusiast.
 
 *Related: C-953, C-954*
@@ -806,7 +806,7 @@ The host's source's account that the rifle is a custom-made family heirloom inhe
 
 **N-11289** Food-Court Black-Suit Photo Provenance
 
-Node Type: Topic
+Node Type: Investigation Question
 Where the photo of the person in a black suit and dark sunglasses in the UVU food court came from, per the host: sent by Nick, who learned it came from Tiffany Barker's mother.
 
 *Related: C-1012*

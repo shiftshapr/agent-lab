@@ -908,11 +908,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization whose staff, camera setup, Aspen audio and tent recreation are discussed.",
       "related_artifacts": [],
       "related_claims": [
@@ -928,14 +928,16 @@
       "evidence_count": 0,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10006",
       "ref": "N-10006",
       "name": "Fox News",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Asked Erika Kirk where Charlie Kirk is buried.",
       "related_artifacts": [],
       "related_claims": [
@@ -945,14 +947,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Site where, per Nicci, the back camera was either zoomed that day or the footage cropped afterwards.",
       "related_artifacts": [],
       "related_claims": [
@@ -962,14 +966,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10022",
       "ref": "N-10022",
       "name": "Robinson Father Turn-In Narrative",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Whether Tyler Robinson's parents recognized the rifle or photos of the suspect.",
       "related_artifacts": [
         "A-2541.1",
@@ -985,14 +991,15 @@
       "evidence_count": 3,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10023",
       "ref": "N-10023",
       "name": "Epstein Israeli Intelligence Asset Allegation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The host ties Epstein to weapons trafficking and Iran-Contra via a former Mossad agent's testimony.",
       "related_artifacts": [],
       "related_claims": [
@@ -1003,14 +1010,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10067",
       "ref": "N-10067",
       "name": "Daily Mail",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Published the family-heirloom headline the host cited to Neff.",
       "related_artifacts": [
         "A-2541.2"
@@ -1022,14 +1030,16 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10074",
       "ref": "N-10074",
       "name": "Robinson-Lance Text Chain Authenticity",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The rifle-photo message and newly added \"pooch\" line in Robinson's messages.",
       "related_artifacts": [
         "A-2541.3"
@@ -1042,14 +1052,15 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10282",
       "ref": "N-10282",
       "name": "Justin Streiff Post-Assassination Phone Call",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Streiff's call to the host's husband about whether she recorded the footage.",
       "related_artifacts": [],
       "related_claims": [
@@ -1059,14 +1070,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10193",
       "ref": "N-10193",
       "name": "Charlie Kirk Burial / Funeral Narrative Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The host asks whether Charlie was buried after a Catholic funeral mass or cremated.",
       "related_artifacts": [],
       "related_claims": [
@@ -1076,14 +1088,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10324",
       "ref": "N-10324",
       "name": "Terryl Farnsworth Camera Removal Justification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Terryl's stated reason (protecting Erika) for removing the camera.",
       "related_artifacts": [],
       "related_claims": [
@@ -1094,14 +1107,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10096"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10349",
       "ref": "N-10349",
       "name": "AmFest Tent Recreation Approval Chain",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The tent recreation for selfies is cited again.",
       "related_artifacts": [],
       "related_claims": [
@@ -1111,14 +1126,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10521",
       "ref": "N-10521",
       "name": "Defense Discovery Dumping Strategy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "600,000 files given to the defense in March and the continuance request.",
       "related_artifacts": [],
       "related_claims": [
@@ -1129,14 +1145,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-11065"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10532",
       "ref": "N-10532",
       "name": "Tyler Robinson Defense – Chain of Custody / Documents",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The host urges the defense to obtain the unzoomed back-camera footage.",
       "related_artifacts": [],
       "related_claims": [
@@ -1146,14 +1164,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10106"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10538",
       "ref": "N-10538",
       "name": "Laura Loomer Influence on Trump Policy Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Loomer's phone access to Trump and her role as adviser.",
       "related_artifacts": [],
       "related_claims": [
@@ -1164,14 +1184,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10535"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10547",
       "ref": "N-10547",
       "name": "Victor Marx 51% Fold AR Acquisition Attempt",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Recalled as Marx wanting the patent and pushing Corby Hall out.",
       "related_artifacts": [],
       "related_claims": [
@@ -1181,14 +1203,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10560",
       "ref": "N-10560",
       "name": "Victor Marx / Corby Hall On-Air Interview Proposal",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Marx declined to join; the Corby Hall interview goes ahead.",
       "related_artifacts": [],
       "related_claims": [
@@ -1198,14 +1221,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10564",
       "ref": "N-10564",
       "name": "Victor Marx IDF / Israeli Defense Group Connection",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The host says Marx wanted the patent for Israel.",
       "related_artifacts": [],
       "related_claims": [
@@ -1215,14 +1239,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10572",
       "ref": "N-10572",
       "name": "Erika Kirk Speedy Trial Motion (January 16)",
-      "type": "investigation_target",
+      "type": "event",
       "description": "The host anticipates the judge refusing a continuance because Erika asserted her victim's rights.",
       "related_artifacts": [],
       "related_claims": [
@@ -1232,14 +1257,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10574",
       "ref": "N-10574",
       "name": "Laura Loomer Involuntary Psychiatric Holds / Firearm Prohibition",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The host says Loomer cannot own a gun in any of the 50 states.",
       "related_artifacts": [],
       "related_claims": [
@@ -1249,14 +1276,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10606",
       "ref": "N-10606",
       "name": "Charlie Kirk Aspen Audio Authenticity Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Donors told the host Charlie never said the \"I appoint Erika\" line at Aspen.",
       "related_artifacts": [],
       "related_claims": [
@@ -1267,14 +1295,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10681",
       "ref": "N-10681",
       "name": "Charlie Kirk Cremation/Burial Status Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The host asks whether Charlie Kirk was cremated.",
       "related_artifacts": [
         "A-2543.1"
@@ -1288,14 +1317,15 @@
       "evidence_count": 1,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10723",
       "ref": "N-10723",
       "name": "Back-Camera Footage Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Nicci's finding that the shared footage was zoomed or cropped, hiding the ground.",
       "related_artifacts": [
         "A-2537.1"
@@ -1310,14 +1340,15 @@
       "evidence_count": 1,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10725",
       "ref": "N-10725",
       "name": "Terryl Post-Removal Communications",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The host's September 17 and 19 calls with Terryl.",
       "related_artifacts": [],
       "related_claims": [
@@ -1329,14 +1360,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10732",
       "ref": "N-10732",
       "name": "Terryl SD Card-to-Laptop Transfer Sequence",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The \"YOLO\" drive on Terryl's desktop in Scottsdale.",
       "related_artifacts": [
         "A-2538.1"
@@ -1349,14 +1381,16 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10734"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10734",
       "ref": "N-10734",
       "name": "SD Card Chain-of-Custody Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Whether the SD card was ever given to federal agents.",
       "related_artifacts": [
         "A-2538.1"
@@ -1370,14 +1404,15 @@
       "evidence_count": 1,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10736",
       "ref": "N-10736",
       "name": "Terryl Farnsworth Evidence-Handling Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Terryl's possession of the footage in Arizona.",
       "related_artifacts": [],
       "related_claims": [
@@ -1388,14 +1423,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10734"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-10791",
       "ref": "N-10791",
       "name": "Yrefy / Yrefy Sponsorship Contracts and July 25 Addendum",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Transcript spelling \"Wiyre Fy\". The host ties the new back camera to the sponsorship deal.",
       "related_artifacts": [],
       "related_claims": [
@@ -1405,14 +1442,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CreativeWork"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-10828",
       "ref": "N-10828",
       "name": "Lori Frantzve 2016 Gun Patent Dinner",
-      "type": "topic",
+      "type": "event",
       "description": "Investigation target: a tip that in late fall 2016 Lori Frantzve and Larry Guinta met two holders of a pending patent for an interchangeable-caliber gun. The tip says they met at a Salt Lake City expo where Lori was promoting G-Tech Industries' EMP technology. They then held a dinner in Scottsdale, offered an introduction to their G-Tech angel investor and claimed access to government contracts. According to the tip, Erika Frantzve arrived unannounced, and her mother mentioned that Erika was dating a man with big political connections. The host says nothing came of the deal, the patent is now approved, and the patent holder later had a lawsuit with Victor Marx.",
       "related_artifacts": [
         "A-2540.1"
@@ -1436,7 +1474,10 @@
         "N-489",
         "N-387",
         "N-2"
-      ]
+      ],
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2016"
     },
     {
       "@type": "Topic",
@@ -1465,7 +1506,8 @@
       "related_nodes": [
         "N-1",
         "N-563"
-      ]
+      ],
+      "schema_org": "Thing"
     }
   ],
   "claims": [

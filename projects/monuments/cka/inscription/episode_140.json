@@ -674,11 +674,11 @@
       ]
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10715",
       "ref": "N-10715",
       "name": "Parking-Garage Subject Identity Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent investigative target: whether the subject of the parking-garage surveillance stills is in fact Tyler Robinson, given apparent physical-trait discrepancies (left-handedness, high socks, hat-above-head positioning, broad build).",
       "related_artifacts": [
         "A-2267.1",
@@ -695,14 +695,15 @@
       "evidence_count": 4,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10716",
       "ref": "N-10716",
       "name": "George Zinn Device Identification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Open investigative target: identify the walkie-talkie / iPhone-like device visible during George Zinn's arrest footage.",
       "related_artifacts": [
         "A-2271.1",
@@ -715,14 +716,15 @@
       "evidence_count": 2,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10717",
       "ref": "N-10717",
       "name": "Tyler Robinson Handedness Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Open investigative target: verify Tyler Robinson's handedness against the left-hand-dominant behavior observed in parking-garage footage and against Lance Twiggs's apparent handedness.",
       "related_artifacts": [
         "A-2267.2",
@@ -738,7 +740,8 @@
       "evidence_count": 3,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1083,11 +1086,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization; alleged payer of Andrew Wilson and subject of the host's debate criticism.",
       "related_artifacts": [],
       "related_claims": [
@@ -1100,14 +1103,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10011",
       "ref": "N-10011",
       "name": "TMZ",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Released the 8:07 a.m. neighbor-camera footage in the host's recount.",
       "related_artifacts": [],
       "related_claims": [
@@ -1117,14 +1122,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Campus where Robinson is said to have gone to Chick-fil-A.",
       "related_artifacts": [],
       "related_claims": [
@@ -1134,14 +1141,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10048",
       "ref": "N-10048",
       "name": "Dairy Queen 6:38 Photo Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Dairy Queen sighting claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1152,14 +1161,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10049",
       "ref": "N-10049",
       "name": "Doorbell-Cam Footage Provenance",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the doorbell footage in the return-home timeline.",
       "related_artifacts": [],
       "related_claims": [
@@ -1170,14 +1180,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10059",
       "ref": "N-10059",
       "name": "Orem, Utah",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Place the host says Robinson left and returned to.",
       "related_artifacts": [],
       "related_claims": [
@@ -1188,14 +1199,17 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "City",
+      "wikidata_class": "Q515",
+      "parent": "N-10120"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10074",
       "ref": "N-10074",
       "name": "Robinson-Lance Text Chain Authenticity",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the alleged confession message.",
       "related_artifacts": [],
       "related_claims": [
@@ -1205,14 +1219,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10093",
       "ref": "N-10093",
       "name": "George Zinn Arrest Location/Timing",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Zinn arrest claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1222,14 +1237,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10134",
       "ref": "N-10134",
       "name": "Operation Mocking Pastor",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the pastors complaining about the host.",
       "related_artifacts": [],
       "related_claims": [
@@ -1239,14 +1255,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10190",
       "ref": "N-10190",
       "name": "Mikey McCoy Behavior Discrepancy (September 10, 2025)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the McCoy statements.",
       "related_artifacts": [],
       "related_claims": [
@@ -1256,14 +1273,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10214",
       "ref": "N-10214",
       "name": "Mikey McCoy Post-Shooting Phone Call Sequence",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the McCoy call-sequence claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1275,14 +1293,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10354",
       "ref": "N-10354",
       "name": "Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Panguitch steak house claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1293,14 +1312,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10389",
       "ref": "N-10389",
       "name": "Daily Wire Stalking Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for Weidner's alleged targeting.",
       "related_artifacts": [],
       "related_claims": [
@@ -1310,14 +1330,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10705",
       "ref": "N-10705",
       "name": "\"Protecting Mrs. Kirk\" Group Chat Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the 92-member group-chat claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1335,14 +1356,15 @@
       "evidence_count": 0,
       "claim_count": 9,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10711",
       "ref": "N-10711",
       "name": "Lance Twiggs Handedness Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Lance fingerprint claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1352,14 +1374,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10820",
       "ref": "N-10820",
       "name": "Paramount Tactical",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Gary Melton's channel; the host says its account was virtually the only male in the group.",
       "related_artifacts": [],
       "related_claims": [
@@ -1369,14 +1392,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10821",
       "ref": "N-10821",
       "name": "Daily Wire",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization; the host links the super fan accounts and her own pregnancy photos to it.",
       "related_artifacts": [],
       "related_claims": [
@@ -1389,14 +1414,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10984",
       "ref": "N-10984",
       "name": "Wilson Debate Crucible Team Anonymity",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Wilson team negotiations.",
       "related_artifacts": [],
       "related_claims": [
@@ -1408,14 +1435,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10985",
       "ref": "N-10985",
       "name": "Wilson Debate Studio Access Dispute",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the smoking and studio rules dispute.",
       "related_artifacts": [],
       "related_claims": [
@@ -1433,14 +1461,15 @@
       "evidence_count": 0,
       "claim_count": 9,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11098",
       "ref": "N-11098",
       "name": "TPUSA Crisis PR Team",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Existing topic reused for the PR agent claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1450,7 +1479,10 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229",
+      "parent": "N-10000"
     },
     {
       "@type": "Person",
@@ -1540,7 +1572,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1557,14 +1590,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10293"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-11177",
       "ref": "N-11177",
       "name": "Robinson September 10 Day Timeline Plausibility",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "The host's step-by-step recount of the official account of Robinson's movements on September 10 and her argument that the drives, clothing changes and awake time are implausible.",
       "related_artifacts": [],
       "related_claims": [
@@ -1591,7 +1626,8 @@
       "evidence_count": 0,
       "claim_count": 18,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
@@ -1609,7 +1645,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     }
   ],
   "claims": [

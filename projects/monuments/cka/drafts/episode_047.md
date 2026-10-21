@@ -1098,7 +1098,7 @@ First named by a clip speaker at 00:53:58 in episode 47 (spelled Ryan Routh in t
 
 **N-11295** Candace-Erika December 15 Private Meeting Revelations
 
-Node Type: Topic
+Node Type: Investigation Question
 The roughly 4.5-hour private meeting between the host, Erika Kirk and Justin Streiff, and the surrounding dispute over why it was not livestreamed.
 
 *Related: C-4055, C-4057, C-4059, C-4060, C-4069, C-4085, C-4098, C-4133, C-4134, C-4144, C-4161, C-4160, C-4168, C-4169, C-4170*
@@ -1312,7 +1312,7 @@ Campus where the event took place.
 
 **N-10018** Netanyahu Israel Invitation Phone Call
 
-Node Type: Topic
+Node Type: Event
 Existing topic reused for new claims in this episode.
 
 *Related: C-4117*
@@ -1330,7 +1330,7 @@ Place the host says Egyptian planes fly to and from.
 
 **N-10093** George Zinn Arrest Location/Timing
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing topic reused for new claims in this episode.
 
 *Related: C-4155*
@@ -1375,7 +1375,7 @@ Existing topic reused for new claims in this episode.
 
 **N-10313** CBS Bari Weiss Town Hall Production Integrity
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing topic reused for new claims in this episode.
 
 *Related: C-4070*
@@ -1384,7 +1384,7 @@ Existing topic reused for new claims in this episode.
 
 **N-10334** Surgeon Quotation Authenticity Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing topic reused for new claims in this episode.
 
 *Related: C-4082*
@@ -1393,7 +1393,7 @@ Existing topic reused for new claims in this episode.
 
 **N-10783** Harpole Shawn Ryan Statements vs Independent Review Findings
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing topic reused for new claims in this episode.
 
 *Related: C-4083*

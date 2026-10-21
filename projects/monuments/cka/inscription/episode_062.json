@@ -586,11 +586,11 @@
       ]
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10407",
       "ref": "N-10407",
       "name": "Identity of Christian Zionist Donor (Unverified)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent unresolved target: the host states Turning Point USA has not named the sender of A-1669.1.",
       "related_artifacts": [
         "A-1669.1"
@@ -605,14 +605,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-1"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10408",
       "ref": "N-10408",
       "name": "TPUSA Termination Cause Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent unresolved target: the actual cause(s) of the TPUSA terminations referenced in A-1674.1, A-1675.1, A-1675.2.",
       "related_artifacts": [
         "A-1674.1",
@@ -636,14 +637,15 @@
         "N-14",
         "N-493",
         "N-494"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10409",
       "ref": "N-10409",
       "name": "Desert Spirit Tek LLC Business Purpose Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent unresolved target: stated business activity of Desert Spirit Tek LLC.",
       "related_artifacts": [
         "A-1671.1",
@@ -662,14 +664,16 @@
         "N-489",
         "N-387",
         "N-490"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10356"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10410",
       "ref": "N-10410",
       "name": "Euro Tech / Cincinnati Business Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent unresolved target: the \"Euro Tech\" company Lori Frantzve formed in Cincinnati, Ohio; host indicates it has not been fully examined yet.",
       "related_artifacts": [],
       "related_claims": [],
@@ -680,14 +684,16 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-489"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10356"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10411",
       "ref": "N-10411",
       "name": "Sacaton \"Rose and Thobi\" Address Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent unresolved target: whether 26 Rose and Thobi (Desert Spirit Tech) and 21 Rose and Thobi (Generation Seven Farms) correspond to actual physical addresses.",
       "related_artifacts": [
         "A-1671.1",
@@ -705,7 +711,9 @@
         "N-489",
         "N-490",
         "N-491"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10409"
     },
     {
       "@type": "Person",
@@ -896,11 +904,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization whose firings, finances and legal letters the host discusses.",
       "related_artifacts": [],
       "related_claims": [
@@ -923,14 +931,16 @@
       "evidence_count": 0,
       "claim_count": 14,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10007",
       "ref": "N-10007",
       "name": "Republican National Committee (RNC)",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization the host compares TPUSA to.",
       "related_artifacts": [],
       "related_claims": [
@@ -940,14 +950,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10015",
       "ref": "N-10015",
       "name": "Mossad",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Named in Carlson's played question about Epstein.",
       "related_artifacts": [],
       "related_claims": [
@@ -957,14 +969,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10023",
       "ref": "N-10023",
       "name": "Epstein Israeli Intelligence Asset Allegation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -976,14 +990,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10026",
       "ref": "N-10026",
       "name": "Israel",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Place; recurring subject of the donor text and the host's remarks.",
       "related_artifacts": [],
       "related_claims": [
@@ -995,14 +1010,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10044",
       "ref": "N-10044",
       "name": "Donor Intimidation of Charlie Kirk",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1014,14 +1031,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10060",
       "ref": "N-10060",
       "name": "Gaza",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Place named in the host's remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1031,14 +1049,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10189",
       "ref": "N-10189",
       "name": "TPUSA Military-Personnel Network",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the Bowyer tweet claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1049,14 +1068,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10201",
       "ref": "N-10201",
       "name": "TPUSA Faith / Christian Zionist Infiltration Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1067,14 +1087,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10252",
       "ref": "N-10252",
       "name": "AmFest Speaker Removal Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the AmFest invitation claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1085,14 +1106,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10318",
       "ref": "N-10318",
       "name": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the September 9 AmFest text claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1102,14 +1124,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10322",
       "ref": "N-10322",
       "name": "Candace Owens Security Arrangement",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the host's security remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1119,14 +1142,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10371",
       "ref": "N-10371",
       "name": "Turning Point USA Faith Structure",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the faith-pivot claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1136,14 +1160,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10405",
       "ref": "N-10405",
       "name": "TPUSA Faith Military Infiltration Claim",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the legal-letter and Bowyer tweet claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1154,14 +1179,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-10790",
       "ref": "N-10790",
       "name": "Dominate 2.0 Mar-a-Lago “Big Hitters” Telegram Donor List",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Existing topic reused for the Mar-a-Lago donor event reference.",
       "related_artifacts": [],
       "related_claims": [
@@ -1171,14 +1197,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CreativeWork"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10904",
       "ref": "N-10904",
       "name": "U.S. Department of Justice",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization the host links to Lori Frantzve's 2017 defense work.",
       "related_artifacts": [],
       "related_claims": [
@@ -1188,14 +1215,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q327333"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11002",
       "ref": "N-11002",
       "name": "TPUSA Leak Hunt and Employee Firings",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1211,14 +1240,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10000"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10998",
       "ref": "N-10998",
       "name": "Student Action Summit July 2025 (Tampa)",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused for the SAS and Tampa event claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1229,14 +1260,17 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-07"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11015",
       "ref": "N-11015",
       "name": "TPUSA Post-Assassination Fundraising Claim",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the 250 million dollar claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1248,7 +1282,8 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Organization",
@@ -1267,7 +1302,9 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "NewsMediaOrganization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Place",
@@ -1286,7 +1323,9 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Place",
+      "wikidata_class": "Q486972"
     },
     {
       "@type": "Organization",
@@ -1303,7 +1342,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "GovernmentOrganization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -1320,14 +1361,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "Topic",
+      "@type": "Thing",
       "@id": "N-11096",
       "ref": "N-11096",
       "name": "TPUSA Cease and Desist Letter to Candace Owens",
-      "type": "topic",
+      "type": "thing",
       "description": "The legal letter(s) TPUSA sent the host in January 2026, which she says partly cited her statement that military men infiltrated TPUSA.",
       "related_artifacts": [],
       "related_claims": [
@@ -1339,14 +1382,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "CreativeWork"
     },
     {
-      "@type": "Organization",
+      "@type": "Thing",
       "@id": "N-11097",
       "ref": "N-11097",
       "name": "Magisterium AI",
-      "type": "organization",
+      "type": "thing",
       "description": "Catholic AI answer engine advertised in a sponsor read.",
       "related_artifacts": [],
       "related_claims": [
@@ -1356,7 +1400,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "SoftwareApplication"
     }
   ],
   "claims": [

@@ -1119,11 +1119,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "A TPUSA source is cited in the military YouTuber's message; the host says Erika Kirk stopped using Kolvet for PR; Neff speech claim.",
       "related_artifacts": [
         "A-2548.1"
@@ -1137,14 +1137,16 @@
       "evidence_count": 1,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10121",
       "ref": "N-10121",
       "name": "London / UK",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Where George Farmer says he introduced Daily Wire leadership to investors.",
       "related_artifacts": [],
       "related_claims": [
@@ -1154,14 +1156,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10225",
       "ref": "N-10225",
       "name": "Daily Wire Intern Covert Recording Operation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The host restates that interns were flown to follow her to public events.",
       "related_artifacts": [],
       "related_claims": [
@@ -1171,14 +1174,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10342",
       "ref": "N-10342",
       "name": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Mitch Snow's videos and hotel receipts are cited as proof of his presence.",
       "related_artifacts": [],
       "related_claims": [
@@ -1189,14 +1193,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10347",
       "ref": "N-10347",
       "name": "Brian Harpole Fort Huachuca Presence Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The host's December 27 request for evidence to debunk the Harpole sighting.",
       "related_artifacts": [
         "A-2549.2",
@@ -1210,14 +1216,16 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10351",
       "ref": "N-10351",
       "name": "Andrew Kolvet Coordination with Attackers of Mitch Snow",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Kolvet's alibi texts read on Paramount Tactical.",
       "related_artifacts": [],
       "related_claims": [
@@ -1227,14 +1235,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10358",
       "ref": "N-10358",
       "name": "Daily Wire Show Targeting Candace Owens / Tucker Carlson",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Boreing's podcast episodes about the host and Tucker Carlson, including his platforming of Loomer.",
       "related_artifacts": [],
       "related_claims": [
@@ -1245,14 +1254,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10389",
       "ref": "N-10389",
       "name": "Daily Wire Stalking Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Interns following the host, outside PR and alleged private investigators.",
       "related_artifacts": [],
       "related_claims": [
@@ -1263,14 +1273,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10390",
       "ref": "N-10390",
       "name": "Fort Huachuca Erika Presence Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Mitch Snow's belief that he saw Erika Kirk leave a base hotel on September 8.",
       "related_artifacts": [
         "A-2550.1"
@@ -1287,14 +1298,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10406",
       "ref": "N-10406",
       "name": "Aspen Donor Recall Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Donors in attendance deny the CEO-appointment statement.",
       "related_artifacts": [],
       "related_claims": [
@@ -1304,14 +1317,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10418",
       "ref": "N-10418",
       "name": "Daily Wire Hungary Production Expenditure Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Pendragon's cost and Boreing's leave to shoot it in Hungary.",
       "related_artifacts": [],
       "related_claims": [
@@ -1322,14 +1336,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10419",
       "ref": "N-10419",
       "name": "Fort Huachuca PR Response Coordination Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The host's group text to Streiff and Kolvet about back-channel messaging through YouTubers.",
       "related_artifacts": [
         "A-2549.2"
@@ -1341,14 +1356,16 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10577",
       "ref": "N-10577",
       "name": "George Farmer / Tracy Robinson $6,987 Incident",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "The incident Boreing and Loomer cite, the 2024 Daily Wire pitch to the New York Post, and the host's denials.",
       "related_artifacts": [
         "A-2551.1"
@@ -1366,14 +1383,15 @@
       "evidence_count": 1,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10593",
       "ref": "N-10593",
       "name": "Brian Harpole Lawsuit Coordination Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Preservation orders, the TPUSA-source message about a planned suit, shared counsel with the Daily Wire, and the filing's contents.",
       "related_artifacts": [
         "A-2544.1",
@@ -1395,14 +1413,15 @@
       "evidence_count": 2,
       "claim_count": 10,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-10619",
       "ref": "N-10619",
       "name": "Shawn Ryan Show Interview Clip Bundle",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Harpole's Shawn Ryan interview, after which Bednarz began his theories.",
       "related_artifacts": [],
       "related_claims": [
@@ -1412,14 +1431,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CreativeWork"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10627",
       "ref": "N-10627",
       "name": "Daily Wire Financial Status and IPO Effort",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Boreing's revenue-growth claim and the host's profit and Pendragon rebuttal.",
       "related_artifacts": [
         "A-2551.1"
@@ -1432,14 +1452,15 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10697",
       "ref": "N-10697",
       "name": "Shaped Charge / Exploding Microphone Hypothesis",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Bednarz's posts claim a pendant-shaped charge was detonated by Harpole.",
       "related_artifacts": [
         "A-2546.1"
@@ -1451,14 +1472,15 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10819",
       "ref": "N-10819",
       "name": "New York Post",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "The host says it was pitched the George Farmer report in 2024 and declined.",
       "related_artifacts": [],
       "related_claims": [
@@ -1469,7 +1491,9 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "NewsMediaOrganization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -1487,7 +1511,9 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q17558136"
     },
     {
       "@type": "Person",
@@ -1508,11 +1534,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10820",
       "ref": "N-10820",
       "name": "Paramount Tactical",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "The military YouTubers who attacked Mitch Snow and read Kolvet's alibi texts on air; their host Gary is named.",
       "related_artifacts": [
         "A-2548.1",
@@ -1531,14 +1557,16 @@
       "evidence_count": 2,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10821",
       "ref": "N-10821",
       "name": "Daily Wire",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "The host's former employer, whose finances, Pendragon, alleged stalking, the 2024 pitch about George Farmer and the Zachary Lewis case are discussed.",
       "related_artifacts": [],
       "related_claims": [
@@ -1565,14 +1593,16 @@
       "evidence_count": 0,
       "claim_count": 18,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10830",
       "ref": "N-10830",
       "name": "Blake Bednarz Preservation Order / Non-Suit Discrepancy",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Investigation target: why the Harpole plaintiffs served Douglas Blake Bednarz – who explicitly and repeatedly accused Harpole of killing Charlie Kirk – with a preservation order rather than suing him, along with the host's earlier contacts with Bednarz and a new lead the host says she received about him.",
       "related_artifacts": [
         "A-2544.2",
@@ -1597,7 +1627,8 @@
       "related_nodes": [
         "N-600",
         "N-266"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
       "@type": "Organization",
@@ -1617,7 +1648,9 @@
       "evidence_count": 1,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q613142"
     },
     {
       "@type": "Organization",
@@ -1635,7 +1668,9 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q327333"
     },
     {
       "@type": "Topic",
@@ -1663,7 +1698,8 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-605"
-      ]
+      ],
+      "schema_org": "Thing"
     }
   ],
   "claims": [

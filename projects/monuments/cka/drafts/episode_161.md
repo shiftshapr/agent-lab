@@ -263,7 +263,7 @@ Episode Count: 1
 
 **N-10805** Wayback Machine Monster Lab September 2025 Wipe
 
-Node Type: Topic
+Node Type: Event
 Archive captures from September 12, 2025 forward that only show loading; host frames as track-cleaning around go-live / first Erika campaign.
 
 Evidence Count: 1
@@ -276,7 +276,7 @@ Episode Count: 1
 
 **N-10806** Jennica Pounds DoD Special Government Employee Thread
 
-Node Type: Topic
+Node Type: Thing
 Undisclosed DoD hire posting anti-Candace / pro-official-narrative thread during Tyler Robinson prelim week; later resignation.
 
 Evidence Count: 1
@@ -328,7 +328,7 @@ Episode Count: 1
 
 **N-10810** Atlantic Elephant Clipping Expose
 
-Node Type: Topic
+Node Type: Thing
 Ali Breland September 2026 Atlantic investigation into paid conservative clipping ops.
 
 Evidence Count: 1
@@ -354,7 +354,7 @@ Episode Count: 1
 
 **N-10812** Erika Kirk September 15 2025 Google Drive Clip Seed
 
-Node Type: Topic
+Node Type: Event
 Erika videos uploaded to campaign drives five days after Charlie's death; host asks why she needed selling before the "I forgive him" speech.
 
 Evidence Count: 2
@@ -802,7 +802,7 @@ The host's list of events where Blake Wynn appeared beside Erika Kirk after the 
 
 **N-11183** Erika Kirk Political Ambition Question
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's opinion that Erika Kirk wanted the White House and had high political ambitions, and her question whether Erika knew of the clipping site's launch.
 
 *Related: C-13950, C-13951*
@@ -811,7 +811,7 @@ The host's opinion that Erika Kirk wanted the White House and had high political
 
 **N-11184** vancekirk.com Domain Purchase
 
-Node Type: Topic
+Node Type: Event
 The host's statement that the domain vancekirk.com was purchased on September 12, 2025 by an unknown buyer.
 
 *Related: C-13952*

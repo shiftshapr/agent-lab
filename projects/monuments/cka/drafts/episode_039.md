@@ -895,7 +895,7 @@ French and Israeli firm that the host says is the second largest shareholder of 
 
 **N-11197** April 2018 Syria Strikes
 
-Node Type: Topic
+Node Type: Event
 The April 13 and 14, 2018 US and French strikes on Syria that the host ties to Charlie Kirk's April 13, 2018 text about war.
 
 *Related: C-3487, C-3488, C-3489, C-3490*

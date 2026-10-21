@@ -784,7 +784,7 @@ First named in a viewer comment at 00:50:53 in episode 083, as organizer of the 
 
 **N-11260** Erika Kirk Death-Notification Account Discrepancy
 
-Node Type: Topic
+Node Type: Investigation Question
 Competing accounts of how Erika Kirk learned that Charlie was dead: Elizabeth McCoy says she told Erika at the airport terminal, while Erika told the host a doctor called her directly.
 
 *Related: C-7449, C-7450*
@@ -793,7 +793,7 @@ Competing accounts of how Erika Kirk learned that Charlie was dead: Elizabeth Mc
 
 **N-11261** Katherine LoCastro Vehicle Retrieval and Overnight Items Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Open question why Katherine LoCastro was sent to retrieve something from the bloodied vehicle, given Charlie carried no bag and agents were said to be guarding it, and what Elizabeth McCoy gathered for the overnight stay.
 
 *Related: C-7455, C-7456, C-7457, C-7458*

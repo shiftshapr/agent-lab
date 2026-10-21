@@ -460,11 +460,11 @@
       ]
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10334",
       "ref": "N-10334",
       "name": "Surgeon Quotation Authenticity Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Discrepancy between the quotation attributed to \"the surgeon\" on Kolvet's X post (A-1552.1) and host sources' claim that no such statement was made by Dr. Lee Trotter.",
       "related_artifacts": [
         "A-1552.1"
@@ -480,14 +480,15 @@
       "related_nodes": [
         "N-14",
         "N-195"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10335",
       "ref": "N-10335",
       "name": "Hospital Federal Access Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Allegation that federal officers at Timpanogos Regional Hospital blocked Dr. Lee Trotter from returning to the operating room, and that a phone call to a political figure resulted in stand-down orders.",
       "related_artifacts": [],
       "related_claims": [],
@@ -498,14 +499,15 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-195"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10336",
       "ref": "N-10336",
       "name": "Gun Discovery Procedure Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Allegation that bomb dogs from the Pleasant Grove sheriff's department cleared the area without finding the gun, and that federal officers then directed three officers with combined experience of less than 1.5 years to re-search the area, after which the gun was found. Also: Freya's \"condensed scent trace\" methodology.",
       "related_artifacts": [],
       "related_claims": [],
@@ -514,14 +516,15 @@
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10337",
       "ref": "N-10337",
       "name": "White Toyota RAV4 FBI Badge Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Allegation that shortly after the shot, an officer pulled over a white Toyota RAV4 and the driver flashed an FBI badge, ending the encounter.",
       "related_artifacts": [],
       "related_claims": [],
@@ -529,14 +532,15 @@
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
-      "investigative_pressure": "low"
+      "investigative_pressure": "low",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10338",
       "ref": "N-10338",
       "name": "Vehicle Disposition Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Allegation that the transport vehicle was towed, then quickly moved for cleaning and auction without insurance inspection, and that the rental company owner instructed it never be returned to the facility.",
       "related_artifacts": [
         "A-1553.1",
@@ -550,14 +554,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-7"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10339",
       "ref": "N-10339",
       "name": "SAM000 Flight Manifest Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Discrepancy in Coleman's segment between stated route (\"from Joint Base Andrews to Colorado Springs\") and displayed log (landing Las Vegas 4:48 p.m. on August 25). Manifest of the SAM000 passenger(s) remains unknown.",
       "related_artifacts": [
         "A-1554.1"
@@ -572,14 +577,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-330"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10340",
       "ref": "N-10340",
       "name": "SAM658/RCH658 Call Sign Switch Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Coleman display shows RCH658 designation on Las Vegas departure and SAM658 designation on return leg to Andrews, which Coleman's framework ties to VIP boarding/deboarding at the Colorado Springs stop.",
       "related_artifacts": [
         "A-1554.1"
@@ -595,14 +601,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-330"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10305",
       "ref": "N-10305",
       "name": "Fort Huachuca September 9, 2025 JTF-SB Meeting Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Alleged meeting reportedly observed by unnamed \"Elvis guy\" eyewitness; tied by host to alleged Sept 9 SAM jet presence and to Brian Harpole's whereabouts.",
       "related_artifacts": [
         "A-1554.1",
@@ -618,14 +625,16 @@
         "N-330",
         "N-266",
         "N-360"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10341",
       "ref": "N-10341",
       "name": "Operation Valhalla Strike",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Host statement that a military exercise named Operation Valhalla Strike ran August 24–27, 2025. Coincides on August 24 with Brian Harpole's stated start of UVU event intelligence gathering (A-1555.1).",
       "related_artifacts": [
         "A-1555.1"
@@ -640,7 +649,10 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-266"
-      ]
+      ],
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-08-24"
     },
     {
       "@type": "Person",
@@ -870,7 +882,8 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "topic_kind": "verification_thread",
-      "related_nodes": []
+      "related_nodes": [],
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -1101,11 +1114,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization the host says wanted a private meeting.",
       "related_artifacts": [],
       "related_claims": [
@@ -1115,14 +1128,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Site of the event; topography dispute over the gun recovery site.",
       "related_artifacts": [],
       "related_claims": [
@@ -1132,14 +1147,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10014",
       "ref": "N-10014",
       "name": "Federal Bureau of Investigation",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Agency whose badge the RAV4 driver allegedly flashed; target of host outreach.",
       "related_artifacts": [],
       "related_claims": [
@@ -1149,14 +1166,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10026",
       "ref": "N-10026",
       "name": "Israel",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Host links Egyptian planes and Netanyahu remarks to Israel.",
       "related_artifacts": [],
       "related_claims": [
@@ -1167,14 +1186,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Country",
+      "wikidata_class": "Q6256"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10070",
       "ref": "N-10070",
       "name": "AIPAC",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization the host alleges was implicated in the JFK matter.",
       "related_artifacts": [],
       "related_claims": [
@@ -1184,14 +1205,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10194",
       "ref": "N-10194",
       "name": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's statements on federal conduct on the day.",
       "related_artifacts": [],
       "related_claims": [
@@ -1206,14 +1229,15 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10226",
       "ref": "N-10226",
       "name": "Timpanogos Hospital Footage Seizure Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the camera seizure claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1223,14 +1247,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10524"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10239",
       "ref": "N-10239",
       "name": "Egyptian Military Plane Tracking Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for SUBTV flight logs.",
       "related_artifacts": [],
       "related_claims": [
@@ -1241,14 +1267,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10272",
       "ref": "N-10272",
       "name": "French Foreign Legion US Training August 2025",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused for the host's French Legion evidence claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1258,14 +1285,17 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-08"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10322",
       "ref": "N-10322",
       "name": "Candace Owens Security Arrangement",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the security gift option.",
       "related_artifacts": [],
       "related_claims": [
@@ -1275,14 +1305,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10325",
       "ref": "N-10325",
       "name": "Egyptian Planes Israel Flight Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the host's Israel link.",
       "related_artifacts": [],
       "related_claims": [
@@ -1292,14 +1323,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10239"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10342",
       "ref": "N-10342",
       "name": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the eyewitness verification claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1318,14 +1351,16 @@
       "evidence_count": 0,
       "claim_count": 10,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10343",
       "ref": "N-10343",
       "name": "Fort Huachuca Covert Operations Training Allegations (Bruce Bevins Class)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the intelligence base claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1335,14 +1370,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10347",
       "ref": "N-10347",
       "name": "Brian Harpole Fort Huachuca Presence Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the possible attendance claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1353,14 +1390,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10330"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10808",
       "ref": "N-10808",
       "name": "Las Vegas",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Place reused for the SAM000 landing and the congressman link.",
       "related_artifacts": [],
       "related_claims": [
@@ -1372,7 +1411,9 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "City",
+      "wikidata_class": "Q515"
     },
     {
       "@type": "Organization",
@@ -1389,7 +1430,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q327333"
     },
     {
       "@type": "Topic",
@@ -1407,7 +1450,9 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10686"
     },
     {
       "@type": "Topic",
@@ -1428,14 +1473,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-10940",
       "ref": "N-10940",
       "name": "Las Vegas Congressman Meeting Sighting Claim",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "Host's claim that the person Harry believes he saw leaving the September 9 Fort Huachuca meeting was a Las Vegas congressman, and her speculation tying this to the Las Vegas stop of the SAM000 aircraft.",
       "related_artifacts": [],
       "related_claims": [
@@ -1446,7 +1492,9 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10305"
     }
   ],
   "claims": [

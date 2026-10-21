@@ -1113,7 +1113,7 @@ Investigation target: Youssef's claims about historical staged or covert attacks
 
 **N-10961** US Sanctions on ICC Judges
 
-Node Type: Topic
+Node Type: Event
 Investigation target: Youssef's claim that the US sanctioned an ICC judge, a Dutch national, cutting off his bank access.
 
 *Related: C-5860*
@@ -1122,7 +1122,7 @@ Investigation target: Youssef's claim that the US sanctioned an ICC judge, a Dut
 
 **N-10962** Erika Kirk Employee Call Recordings
 
-Node Type: Topic
+Node Type: Thing
 Investigation target: recordings of Erika Kirk addressing TPUSA employees five days after Charlie Kirk's death.
 
 *Related: C-5839, C-5840, A-2765.1*
@@ -1140,7 +1140,7 @@ Investigation target: the host's and Youssef's claims that reports of babies in 
 
 **N-10964** ICE Tel Aviv Field Office Claim
 
-Node Type: Topic
+Node Type: Investigation Question
 Investigation target: Youssef's claim that an ICE field office is in Tel Aviv.
 
 *Related: C-5854*

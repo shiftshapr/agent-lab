@@ -597,7 +597,7 @@ Entertainment trade publication that ran the headline "How Hunter Biden ended up
 
 **N-10844** White House Military Office Erika Kirk Amplification Email
 
-Node Type: Topic
+Node Type: Thing
 Investigation target: the internal email that, according to the host, asked for Erika Kirk's "I Want to Go Home" clip from the night of the White House Correspondents' Dinner shooting to be artificially boosted. The host says it described her as an emotional asset, sought to make the clip number one overnight and asked for surrogates to push it, about an hour after the shooting. The White House denied only that the White House Military Office drafted it, and the NSA redirected the host's FOIA request to the Office of the Secretary of War and/or the Joint Staff.
 
 *Related: C-9546, C-9547, C-9548, C-9549, C-9550, C-9551, A-2610.1, A-2610.2, N-160, N-2*

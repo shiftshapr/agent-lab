@@ -681,7 +681,7 @@ First named by the host at 00:05:09 in episode 44. President during Iran-Contra,
 
 **N-11198** Iran-Contra Affair
 
-Node Type: Topic
+Node Type: Event
 The 1980s scandal the host cites as showing the CIA trafficked drugs and weapons and as a context for JTF-6 and Epstein.
 
 *Related: C-3807, C-3808, C-3810*
@@ -735,7 +735,7 @@ The exchange in which Tim Pool's clip calls the host names and says she has no s
 
 **N-11204** Harry Myers September 10 Salt Lake City Airport Layover
 
-Node Type: Topic
+Node Type: Event
 Harry's account of passing through Salt Lake City airport on September 10, 2025 and learning of the shooting.
 
 *Related: C-3842, C-3843*

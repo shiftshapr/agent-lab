@@ -1124,7 +1124,7 @@
     },
     {
      "k": "Node Type",
-     "v": "Topic"
+     "v": "Thing"
     },
     {
      "k": "Topic Kind",
@@ -1309,7 +1309,7 @@
     },
     {
      "k": "Node Type",
-     "v": "Organization"
+     "v": "Event"
     },
     {
      "k": "Organization Kind",
@@ -1602,7 +1602,7 @@
     },
     {
      "k": "Node Type",
-     "v": "Topic"
+     "v": "Event"
     },
     {
      "raw": "The host says Charlie Kirk was the intermediary when Trump called her about Brigitte Macron, and that Trump-world used Charlie as the channel for calls to her."

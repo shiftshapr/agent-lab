@@ -1001,7 +1001,7 @@ First named by the host at 00:47:42 in episode 94. Named by the host as the subj
 
 **N-11266** Erika Kirk Dream City Church Trump Event Appearance
 
-Node Type: Topic
+Node Type: Event
 Erika Kirk's Friday appearance opening for Trump at the Dream City Church in Phoenix, set against the canceled Georgia and Pinnacle High School events.
 
 *Related: C-8411, C-8414, C-8415*

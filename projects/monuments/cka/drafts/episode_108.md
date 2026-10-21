@@ -549,14 +549,14 @@ Thomas Massie's Kentucky primary loss, which the host frames as an attempt to bu
 
 **N-10863** Victor Marx "They Only Wanted Charlie" Text to Erika Kirk
 
-Node Type: Topic
+Node Type: Thing
 Investigation target: the text Victor Marx says he sent Erika Kirk while she was at the hospital, telling her "nobody's going to kill you" and that "they just wanted Charlie." The host asks who "they" are and why that would be a first text to a widow.
 
 *Related: C-9506, A-2600.3, N-341, N-2*
 
 **N-10864** Charlie Kirk September 15 End-of-Life Document Appointment
 
-Node Type: Topic
+Node Type: Event
 Investigation target: the host's report that Erika Kirk told multiple people that she and Charlie Kirk were due to sign updated end-of-life documents on Monday, September 15, 2025. She also reportedly said a TPUSA board member would help with the changes. The host asks what life event would have prompted the change and offers investigators the names of the people Erika told.
 
 *Related: C-9508, C-9522, A-2603.1, N-2, N-1*
@@ -570,7 +570,7 @@ The Utah case of Kouri Richins, who the host says was found guilty of murdering 
 
 **N-10844** White House Military Office Erika Kirk Amplification Email
 
-Node Type: Topic
+Node Type: Thing
 The communication in which, per the host, Erika Kirk was "written in as an emotional asset just over an hour after shots are fired" at the White House Correspondents' Dinner, with the focus on making her video "number one in the morning."
 
 *Related: C-9524, A-2605.1, N-2*

@@ -781,7 +781,7 @@ The host's assertions about the Wilks brothers funding Calvary Chapel church con
 
 **N-11065** Tyler Robinson Preliminary Hearing and Motion to Dismiss
 
-Node Type: Topic
+Node Type: Event
 The preliminary hearing, the seven charges and the defense motion to dismiss counts 1, 6 and 7, with the magistrate's ruling awaited on the broadcast date.
 
 *Related: C-12601, C-12602, C-12603, C-12604, C-12605, C-12606, C-12607, C-12608, C-12609, C-12610, C-12611, C-12614, C-12615, C-12616, C-12617, C-12618, C-12619, C-12620, C-12621, C-12622, C-12623, C-12637*

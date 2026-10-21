@@ -1005,11 +1005,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10188",
       "ref": "N-10188",
       "name": "UVU Hospital Charlie Kirk Medical File Access Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent question raised by host's receipt of an internal UVU Hospital message (A-1278.1) restricting file access and by tipster claims that Kirk was treated at UVU rather than Timpanogos.",
       "related_artifacts": [
         "A-1278.1"
@@ -1025,14 +1025,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-197"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10189",
       "ref": "N-10189",
       "name": "TPUSA Military-Personnel Network",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent question regarding the density of U.S. military-background personnel inside TPUSA and adjacent media (host frames as \"military simulation\" hypothesis). Supported by A-1279.1, A-1282.1.",
       "related_artifacts": [
         "A-1279.1",
@@ -1053,14 +1054,15 @@
         "N-7",
         "N-17",
         "N-41"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10190",
       "ref": "N-10190",
       "name": "Mikey McCoy Behavior Discrepancy (September 10, 2025)",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent discrepancy between TPUSA's explanation (A-1275.1) of McCoy's actions (ear-covering, video capture, delayed call to Erica) and the host's behavioral analysis of the same video.",
       "related_artifacts": [
         "A-1275.1",
@@ -1080,14 +1082,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-190"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10191",
       "ref": "N-10191",
       "name": "Susie Wiles Eulogy-Selection Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Host's flagged curiosity regarding the selection of Susie Wiles (spelled \"Susie Wiles\" in one place) as a Kirk eulogist; no artifact-anchored explanation given.",
       "related_artifacts": [],
       "related_claims": [],
@@ -1098,7 +1101,8 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-1"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1718,11 +1722,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Turning Point USA; the host says it ran like a military operation.",
       "related_artifacts": [],
       "related_claims": [
@@ -1732,14 +1736,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-10004",
       "ref": "N-10004",
       "name": "Kanye Tweet About Candace Owens",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Kanye Tweet About Candace Owens; manifested remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1749,14 +1755,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "SocialMediaPosting"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10108",
       "ref": "N-10108",
       "name": "Lone-Shooter Narrative Critique",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Lone-Shooter Narrative Critique; the host rejects the lone-shooter account.",
       "related_artifacts": [],
       "related_claims": [
@@ -1766,14 +1773,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10114",
       "ref": "N-10114",
       "name": "Candace UK Premonition / Husband Meeting",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Candace UK Premonition / Husband Meeting; the host's pull to go to the UK.",
       "related_artifacts": [],
       "related_claims": [
@@ -1784,14 +1792,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10126",
       "ref": "N-10126",
       "name": "PragerU",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "PragerU; offered the host a job in early 2019.",
       "related_artifacts": [],
       "related_claims": [
@@ -1803,14 +1812,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10134",
       "ref": "N-10134",
       "name": "Operation Mocking Pastor",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Operation Mocking Pastor; the host's coinage.",
       "related_artifacts": [],
       "related_claims": [
@@ -1820,14 +1831,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10144",
       "ref": "N-10144",
       "name": "Hospital Routing Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Hospital Routing Discrepancy; ambulance, trauma level and missing footage.",
       "related_artifacts": [],
       "related_claims": [
@@ -1839,14 +1851,15 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10175",
       "ref": "N-10175",
       "name": "Medical Examiner Inquiry – Deirdre Amaro",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Medical Examiner Inquiry – Deirdre Amaro; new host statements.",
       "related_artifacts": [],
       "related_claims": [
@@ -1857,14 +1870,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10194",
       "ref": "N-10194",
       "name": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "FBI Charlie Kirk Investigation Handling (Kash Patel); the holiday event remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1874,14 +1888,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10202",
       "ref": "N-10202",
       "name": "NAR (New Apostolic Reformation) Infiltration Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "NAR Infiltration Question; military and church infiltration remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1891,14 +1906,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10201"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10254",
       "ref": "N-10254",
       "name": "Macron Defamation Lawsuit Delaware Venue Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Macron Defamation Lawsuit Delaware Venue Question; the host's remarks on the suit.",
       "related_artifacts": [],
       "related_claims": [
@@ -1912,14 +1929,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10319",
       "ref": "N-10319",
       "name": "Andrew Kolvet Surgeon Bullet Description",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Andrew Kolvet Surgeon Bullet Description; the moose quote.",
       "related_artifacts": [],
       "related_claims": [
@@ -1929,14 +1947,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10362",
       "ref": "N-10362",
       "name": "Charlie Kirk Premonition Dreams",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Charlie Kirk Premonition Dreams; the host's account.",
       "related_artifacts": [],
       "related_claims": [
@@ -1949,14 +1968,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10416",
       "ref": "N-10416",
       "name": "Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy; neck claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1966,14 +1986,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10537",
       "ref": "N-10537",
       "name": "Adelson–West Bank Annexation Meeting Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Adelson–West Bank Annexation Meeting Verification; Adelson donation remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1984,14 +2005,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10602",
       "ref": "N-10602",
       "name": "Hospital \"No Neck Left\" Narrative Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Hospital \"No Neck Left\" Narrative Discrepancy; neck and 306 claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -2002,14 +2024,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10603",
       "ref": "N-10603",
       "name": "Blake Lively / Justin Baldoni Lawsuit Outcome (Legal Matter – CASE_1 / LM-1000 placeholder)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Blake Lively / Justin Baldoni Lawsuit Outcome; the host's collusion rebuttal.",
       "related_artifacts": [],
       "related_claims": [
@@ -2019,14 +2042,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10605",
       "ref": "N-10605",
       "name": "Mikey McCoy Witness Reliability Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Mikey McCoy Witness Reliability Question; account comes from Kolvet not McCoy.",
       "related_artifacts": [],
       "related_claims": [
@@ -2036,14 +2060,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10625",
       "ref": "N-10625",
       "name": "Frank Turek CPR Claim Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Frank Turek CPR Claim Verification; Turek's stated preparation.",
       "related_artifacts": [],
       "related_claims": [
@@ -2053,14 +2078,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10636"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10989",
       "ref": "N-10989",
       "name": "Hitler Remark Clip Dispute",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Hitler Remark Clip Dispute; the host's account of the 2019 clip.",
       "related_artifacts": [],
       "related_claims": [
@@ -2074,14 +2101,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11021",
       "ref": "N-11021",
       "name": "TikTok",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "TikTok; the buyer-group remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -2091,14 +2119,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Corporation",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-11035",
       "ref": "N-11035",
       "name": "Kanye Condemnation Pressure and Contract Cut",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Kanye Condemnation Pressure and Contract Cut; the October 2018 statement.",
       "related_artifacts": [],
       "related_claims": [
@@ -2111,7 +2141,8 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Person",
@@ -2200,7 +2231,9 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -2219,7 +2252,9 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -2236,7 +2271,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
       "@type": "Organization",
@@ -2253,7 +2290,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Organization",
@@ -2272,7 +2311,9 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Hospital",
+      "wikidata_class": "Q16917"
     },
     {
       "@type": "Organization",
@@ -2295,7 +2336,9 @@
       "evidence_count": 0,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Hospital",
+      "wikidata_class": "Q16917"
     },
     {
       "@type": "Organization",
@@ -2312,7 +2355,9 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     }
   ],
   "claims": [

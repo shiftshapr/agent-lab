@@ -1247,7 +1247,7 @@ Organization founded by James O'Keefe; the host says he was ousted in a January 
 
 **N-11244** Covenant School Nashville Shooting
 
-Node Type: Topic
+Node Type: Event
 The March 2023 shooting at Covenant Elementary School in Nashville that the host places during the first TPUSA Faith Pastor Summit and says the feds covered up.
 
 *Related: C-2090, C-2091, C-2098*
@@ -1256,7 +1256,7 @@ The March 2023 shooting at Covenant Elementary School in Nashville that the host
 
 **N-11245** Scottsdale Jets to Salt Lake City on September 10 Question
 
-Node Type: Topic
+Node Type: Investigation Question
 The two planes the host says flew out of Scottsdale on the day of the shooting, including N102DZ to Salt Lake City, and the open question of who was aboard.
 
 *Related: C-2143, C-2146, C-2147, C-2148*

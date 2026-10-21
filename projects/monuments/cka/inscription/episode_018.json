@@ -550,11 +550,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10172",
       "ref": "N-10172",
       "name": "Bullet Trajectory and Caliber Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target: whether the recovered projectile was a .30-06, where the fragment was recovered, and whether the death certificate reflects it.",
       "related_artifacts": [
         "A-1251.1",
@@ -573,14 +573,15 @@
       "related_nodes": [
         "N-14",
         "N-175"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10173",
       "ref": "N-10173",
       "name": "Multiple Shooter Theory",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target: whether more than one shooter / weapon was involved at the Utah Valley event.",
       "related_artifacts": [
         "A-1254.1",
@@ -598,14 +599,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-175"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10174",
       "ref": "N-10174",
       "name": "Cooper Brown Identity Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target: verifying Cooper Brown's institutional affiliation, biographical claims, and presence at the event.",
       "related_artifacts": [
         "A-1252.1",
@@ -627,14 +629,15 @@
       "related_nodes": [
         "N-174",
         "N-175"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10175",
       "ref": "N-10175",
       "name": "Medical Examiner Inquiry – Weiss Amaro",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target: full background, prior work history, and case-handling record of the Utah state medical examiner.",
       "related_artifacts": [],
       "related_claims": [
@@ -647,14 +650,15 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-176"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10176",
       "ref": "N-10176",
       "name": "Caldera Engineering Background Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target: founders, employees, Israel project history, and connections to other named figures in the series.",
       "related_artifacts": [],
       "related_claims": [
@@ -667,14 +671,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10062"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10177",
       "ref": "N-10177",
       "name": "Plane N1098L Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target: chain of custody, contracting entity, and purpose of military tail-numbered aircraft seen near Utah on 9/10.",
       "related_artifacts": [],
       "related_claims": [
@@ -689,14 +695,16 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-10181"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10195"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10178",
       "ref": "N-10178",
       "name": "Plane 888 / Maxfield Plane Investigation",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target: ADSB transponder status, FBO destination change, and conflicting accounts from Kash Patel and Derek Maxfield.",
       "related_artifacts": [],
       "related_claims": [
@@ -715,14 +723,16 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-94"
-      ]
+      ],
+      "schema_org": "Question",
+      "parent": "N-10195"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10179",
       "ref": "N-10179",
       "name": "Josh Hammer Text Messages Context",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Persistent target: chronological placement and substantive content of the released text exchange relative to Charlie Kirk's known Israel-related shift.",
       "related_artifacts": [
         "A-1256.1"
@@ -739,14 +749,15 @@
       "related_nodes": [
         "N-14",
         "N-163"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10180",
       "ref": "N-10180",
       "name": "Leadership Institute (entity)",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization identified by Cooper Brown as his employer and described by host as working \"hand-in-hand\" with TPUSA, YAL, and Students for Life on conservative coalition events.",
       "related_artifacts": [
         "A-1253.1"
@@ -761,14 +772,16 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-174"
-      ]
+      ],
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10181",
       "ref": "N-10181",
       "name": "Las Vegas Aviation LLC (entity)",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Company identified by host as the owner/contractor of plane N1098L.",
       "related_artifacts": [],
       "related_claims": [
@@ -781,14 +794,16 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-10177"
-      ]
+      ],
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10182",
       "ref": "N-10182",
       "name": "Signature FBO / Million Air FBO (entity cluster)",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Two fixed-base operators referenced in connection with plane 888's last-minute destination change and contradicting employee statements.",
       "related_artifacts": [],
       "related_claims": [
@@ -802,7 +817,9 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-10178"
-      ]
+      ],
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Person",
@@ -1122,11 +1139,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization whose media instruction and volunteer roles the host questions.",
       "related_artifacts": [],
       "related_claims": [
@@ -1139,14 +1156,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10006",
       "ref": "N-10006",
       "name": "Fox News",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Network on which Cooper Brown and Jason Chaffetz appeared.",
       "related_artifacts": [],
       "related_claims": [
@@ -1159,14 +1178,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Host campus of the 9/10 event.",
       "related_artifacts": [],
       "related_claims": [
@@ -1177,14 +1198,16 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10014",
       "ref": "N-10014",
       "name": "Federal Bureau of Investigation",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Agency the host says is guarding information or whose staff are related to Chaffetz.",
       "related_artifacts": [],
       "related_claims": [
@@ -1197,14 +1220,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10027",
       "ref": "N-10027",
       "name": "The Hamptons",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Location of the August retreat Hammer's statement addresses.",
       "related_artifacts": [],
       "related_claims": [
@@ -1215,14 +1240,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Place"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10052",
       "ref": "N-10052",
       "name": "Federal Footage Sweep",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for camera-removal claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1232,14 +1258,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10060",
       "ref": "N-10060",
       "name": "Gaza",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Place at the center of the host's discussion of the peace deal.",
       "related_artifacts": [],
       "related_claims": [
@@ -1254,14 +1281,15 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Place"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10062",
       "ref": "N-10062",
       "name": "Caldera Engineering",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Valve maker the host investigates.",
       "related_artifacts": [],
       "related_claims": [
@@ -1276,14 +1304,16 @@
       "evidence_count": 0,
       "claim_count": 6,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10091",
       "ref": "N-10091",
       "name": "9/10 Eyewitness Pattern Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the multiple-shot witnesses.",
       "related_artifacts": [],
       "related_claims": [
@@ -1293,14 +1323,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Event",
       "@id": "N-10129",
       "ref": "N-10129",
       "name": "Hamptons Weekend Retreat",
-      "type": "investigation_target",
+      "type": "event",
       "description": "Existing topic reused for Hammer's statement.",
       "related_artifacts": [],
       "related_claims": [
@@ -1311,14 +1342,18 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "place": "N-10027",
+      "parent": "N-10044"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10134",
       "ref": "N-10134",
       "name": "Operation Mocking Pastor",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the pastors remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1328,14 +1363,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10100",
       "ref": "N-10100",
       "name": "Catholic Conversion Rumor",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Catholicism remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1345,14 +1381,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10162",
       "ref": "N-10162",
       "name": "Josh Hammer Pre-Death Zoom Call Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the call-timing and purpose claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1363,14 +1400,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10165",
       "ref": "N-10165",
       "name": "Multiple Decoys Theory (4 Decoys Named)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the decoy-rifle claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1380,14 +1418,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing",
+      "parent": "N-10032"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10168",
       "ref": "N-10168",
       "name": "UVU Left-Side Footage Black Hole",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the left-side blind spot.",
       "related_artifacts": [],
       "related_claims": [
@@ -1398,14 +1438,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10184",
       "ref": "N-10184",
       "name": "Camera Operator Behavior Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the camera-removal claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1415,14 +1456,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10296",
       "ref": "N-10296",
       "name": "Mainstream Media Eyewitness Selection Pattern at UVU Event",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the witness-selection claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1436,14 +1478,15 @@
       "evidence_count": 0,
       "claim_count": 5,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10328",
       "ref": "N-10328",
       "name": "Charlie Kirk Catholicism Journey",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Catholicism remark.",
       "related_artifacts": [],
       "related_claims": [
@@ -1453,14 +1496,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10423",
       "ref": "N-10423",
       "name": "Gaza Death Toll and Documentation Claims",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Gaza destruction claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1470,14 +1514,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10723",
       "ref": "N-10723",
       "name": "Back-Camera Footage Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the rear footage claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1490,14 +1535,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11253",
       "ref": "N-11253",
       "name": "Hamas",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization named in the peace deal discussion.",
       "related_artifacts": [],
       "related_claims": [
@@ -1507,14 +1553,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-11291",
       "ref": "N-11291",
       "name": "Gaza Peace Deal First Phase Announcement (October 2025)",
-      "type": "topic",
+      "type": "event",
       "description": "The reported first phase of an Israel and Hamas agreement with troop withdrawal and hostage release, and the Trump announcement and negotiators the host criticizes.",
       "related_artifacts": [],
       "related_claims": [
@@ -1525,7 +1573,10 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682",
+      "event_time": "2025-10-08"
     },
     {
       "@type": "Topic",
@@ -1542,7 +1593,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1560,7 +1612,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     }
   ],
   "claims": [

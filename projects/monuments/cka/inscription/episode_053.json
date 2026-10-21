@@ -597,11 +597,11 @@
       ]
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10358",
       "ref": "N-10358",
       "name": "Daily Wire Show Targeting Candace Owens / Tucker Carlson",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Investigation target: the proposed Daily Wire show whose audition involved an AI-generated video mocking Candace Owens, and whose casting process targeted young Christian women.",
       "related_artifacts": [
         "A-1587.1",
@@ -621,14 +621,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-388"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10359",
       "ref": "N-10359",
       "name": "Ben Shapiro Hostile Takeover Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Investigation target: persistent claim across the series that Ben Shapiro has attempted hostile takeovers of multiple conservative organizations (Breitbart, David Horowitz's organization, Turning Point) and that his founding of the Daily Wire was preceded by a manufactured scandal.",
       "related_artifacts": [
         "A-1590.1",
@@ -652,14 +653,15 @@
         "N-393",
         "N-46",
         "N-10364"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10360",
       "ref": "N-10360",
       "name": "Tyler Bowyer Investigation Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target: host's persistent claim that Tyler Bowyer staffed nearly everyone around Charlie Kirk and requires further investigation. This episode cites Austin Smith's criminal sentencing and an unnamed source's claim that Bowyer offered jobs in exchange for favors.",
       "related_artifacts": [
         "A-1592.1"
@@ -673,14 +675,15 @@
       "related_nodes": [
         "N-394",
         "N-10363"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10361",
       "ref": "N-10361",
       "name": "Missing Money from Turning Point Action",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target: host's claim that \"a lot of money was missing from Turning Point Action,\" described as unconfirmed but with a \"strong lead.\"",
       "related_artifacts": [],
       "related_claims": [],
@@ -691,14 +694,15 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-10360"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10362",
       "ref": "N-10362",
       "name": "Charlie Kirk Premonition Dreams",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Investigation target: persistent claim across the series that Charlie Kirk had extensive premonition dreams and text-message disclosures of dying young, and that an \"oracle\" figure confirmed these visions.",
       "related_artifacts": [
         "A-1593.1"
@@ -714,14 +718,15 @@
       "related_nodes": [
         "N-1",
         "N-396"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10363",
       "ref": "N-10363",
       "name": "Austin Smith / Turning Point Action Fraud Connection",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target: link between Austin Smith's signature fraud and his role at Turning Point Action, with host's broader implication that this reflects personnel and integrity issues inside Turning Point.",
       "related_artifacts": [
         "A-1592.1"
@@ -738,14 +743,15 @@
       "related_nodes": [
         "N-394",
         "N-10360"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10364",
       "ref": "N-10364",
       "name": "Ben Shapiro Daily Wire Founding Narrative",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Investigation target: host's claim that the Daily Wire's launch in 2016 was preceded by a manufactured scandal involving Ben Shapiro, Jamie Weinstein, and Michelle Fields to undermine Breitbart News.",
       "related_artifacts": [
         "A-1590.1"
@@ -762,7 +768,8 @@
         "N-392",
         "N-393",
         "N-10359"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
       "@type": "Person",
@@ -1157,11 +1164,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Organization at the center of the Bowyer, DOGE and missing-money claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1179,14 +1186,16 @@
       "evidence_count": 0,
       "claim_count": 9,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-10004",
       "ref": "N-10004",
       "name": "Kanye Tweet About Candace Owens",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1196,14 +1205,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "SocialMediaPosting"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10109",
       "ref": "N-10109",
       "name": "Beehive Code / School Underground Premonition",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the AI sample's bee lines.",
       "related_artifacts": [],
       "related_claims": [
@@ -1213,14 +1223,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10252",
       "ref": "N-10252",
       "name": "AmFest Speaker Removal Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the Amfest slot claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1230,14 +1241,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10254",
       "ref": "N-10254",
       "name": "Macron Defamation Lawsuit Delaware Venue Question",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Existing topic reused for the suing claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1247,14 +1259,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10297",
       "ref": "N-10297",
       "name": "France / Macron Couple Involvement in Kirk Assassination",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the suing claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1264,14 +1277,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10379",
       "ref": "N-10379",
       "name": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1282,14 +1296,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10389",
       "ref": "N-10389",
       "name": "Daily Wire Stalking Pattern",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1302,14 +1317,15 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10395",
       "ref": "N-10395",
       "name": "GATE / Gifted Education Program Investigation",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for the gifted school link.",
       "related_artifacts": [],
       "related_claims": [
@@ -1319,14 +1335,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10603",
       "ref": "N-10603",
       "name": "Blake Lively / Justin Baldoni Lawsuit Outcome (Legal Matter – CASE_1 / LM-1000 placeholder)",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1336,14 +1353,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10821",
       "ref": "N-10821",
       "name": "Daily Wire",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "The host's former employer.",
       "related_artifacts": [],
       "related_claims": [
@@ -1366,14 +1384,16 @@
       "evidence_count": 0,
       "claim_count": 14,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q4830453"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10846",
       "ref": "N-10846",
       "name": "Turning Point Action",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Campaign arm of TPUSA; Austin Smith's employer and the missing-money tip.",
       "related_artifacts": [],
       "related_claims": [
@@ -1385,7 +1405,9 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
       "@type": "Topic",
@@ -1404,7 +1426,8 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1427,14 +1450,15 @@
       "evidence_count": 0,
       "claim_count": 7,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-11036",
       "ref": "N-11036",
       "name": "Shapiro Knowledge of Kirk Death Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "The host's stated belief that Ben Shapiro may know more than the public about Charlie Kirk's death and may expect to benefit from it.",
       "related_artifacts": [],
       "related_claims": [
@@ -1445,14 +1469,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-11037",
       "ref": "N-11037",
       "name": "Andrew Breitbart Death and Autopsy Inquiry",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "The host's account of Andrew Breitbart's 2012 death, the autopsy and the death of a forensic technician, none of it shown.",
       "related_artifacts": [],
       "related_claims": [
@@ -1465,7 +1490,8 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
@@ -1482,7 +1508,8 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1501,7 +1528,8 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Thing"
     },
     {
       "@type": "Topic",
@@ -1519,7 +1547,8 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     }
   ],
   "claims": [

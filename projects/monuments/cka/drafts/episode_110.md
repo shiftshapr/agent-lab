@@ -855,7 +855,7 @@ Existing node reused in this episode.
 
 **N-11316** Charlie Kirk Show Episode Removal Question
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's allegation that Turning Point removed episodes, tweets and Q&As from the Charlie Kirk Show beginning November 3, 2025, and that TPUSA denied it.
 
 *Related: C-9685, C-9686, C-9687, C-9688, C-9689, C-9690*
@@ -864,7 +864,7 @@ The host's allegation that Turning Point removed episodes, tweets and Q&As from 
 
 **N-11317** Netanyahu 2025 American Podcast Tour
 
-Node Type: Topic
+Node Type: Event
 The host's account of Netanyahu's summer 2025 run of American podcast interviews in the run-up to the assassination, after Kirk refused to host him.
 
 *Related: C-9601, C-9602, C-9603, C-9604*

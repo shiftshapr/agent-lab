@@ -384,7 +384,7 @@ Existing topic reused for the broadcast, memorial and betrayal claims in this ep
 
 **N-10004** Kanye Tweet About Candace Owens
 
-Node Type: Topic
+Node Type: Thing
 Existing topic reused for the 2018 tweet timeline.
 
 *Related: C-12983*
@@ -447,7 +447,7 @@ Existing topic reused for the Truman Show remark.
 
 **N-10934** TPUSA Post-Assassination Merchandise Revenue Claim
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing topic reused for the sale of items in Kirk's name.
 
 *Related: C-12960, C-12995*

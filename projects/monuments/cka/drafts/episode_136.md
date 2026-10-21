@@ -684,7 +684,7 @@ Existing topic reused for the Iran war claims.
 
 **N-11222** Security Guard Stroke in Russia
 
-Node Type: Topic
+Node Type: Event
 The host's account of a member of her security detail who suffered a severe stroke during the Russia trip, had brain surgery in a Russian hospital, and is now seeking rehabilitation.
 
 *Related: C-11722, C-11723, C-11724, C-11725, C-11726*
@@ -711,7 +711,7 @@ The dispute over whether TPUSA-aligned influencers claimed to have seen 4K video
 
 **N-11225** Brady List Website
 
-Node Type: Topic
+Node Type: Thing
 The Brady List website, a database of officers with documented credibility or misconduct issues, on which the host says Allan E. Robertson has an entry.
 
 *Related: C-11712, C-11713*

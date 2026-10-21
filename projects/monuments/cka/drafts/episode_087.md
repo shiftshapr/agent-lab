@@ -866,7 +866,7 @@ Existing node reused for new claims in this episode.
 
 **N-10139** Phil Lyman Proximity and Behavior Investigation
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing node reused for new claims in this episode.
 
 *Related: C-7818, C-7819, C-7821, C-7822*
@@ -875,7 +875,7 @@ Existing node reused for new claims in this episode.
 
 **N-10148** "Robbie Hild" Identity Verification
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing node reused for new claims in this episode.
 
 *Related: C-7818, C-7822, C-7825, C-7827, C-7838*
@@ -884,7 +884,7 @@ Existing node reused for new claims in this episode.
 
 **N-10161** Maroon Shirt Person Identification (Lance Twiggs Hypothesis)
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing node reused for new claims in this episode.
 
 *Related: C-7820*
@@ -893,7 +893,7 @@ Existing node reused for new claims in this episode.
 
 **N-10176** Caldera Engineering Background Investigation
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing node reused for new claims in this episode.
 
 *Related: C-7819*
@@ -911,7 +911,7 @@ Existing node reused for new claims in this episode.
 
 **N-10166** George Zinn Hospital Payment Claim
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing node reused for new claims in this episode.
 
 *Related: C-7777*
@@ -920,7 +920,7 @@ Existing node reused for new claims in this episode.
 
 **N-10226** Timpanogos Hospital Footage Seizure Verification
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing node reused for new claims in this episode.
 
 *Related: C-7768*
@@ -938,7 +938,7 @@ Existing node reused for new claims in this episode.
 
 **N-10305** Fort Huachuca September 9, 2025 JTF-SB Meeting Verification
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing node reused for new claims in this episode.
 
 *Related: C-7782*
@@ -956,7 +956,7 @@ Existing node reused for new claims in this episode.
 
 **N-10320** Bibi Netanyahu TPUSA Funding Offer
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing node reused for new claims in this episode.
 
 *Related: C-7758, C-7760, C-7761*
@@ -965,7 +965,7 @@ Existing node reused for new claims in this episode.
 
 **N-10324** Terryl Farnsworth Camera Removal Justification
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing node reused for new claims in this episode.
 
 *Related: C-7848, C-7849, C-7850*
@@ -983,7 +983,7 @@ Existing node reused for new claims in this episode.
 
 **N-10331** George Zinn Self-Incriminating Hospital Statement
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing node reused for new claims in this episode.
 
 *Related: C-7777*
@@ -1019,7 +1019,7 @@ Existing node reused for new claims in this episode.
 
 **N-10415** Hamptons Summit / Netanyahu Funding Offer Discrepancy
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing node reused for new claims in this episode.
 
 *Related: C-7758, C-7759, C-7760, C-7864*
@@ -1037,7 +1037,7 @@ Existing node reused for new claims in this episode.
 
 **N-10458** BB Netanyahu Hamptons Dinner Allegation
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing node reused for new claims in this episode.
 
 *Related: C-7759*
@@ -1046,7 +1046,7 @@ Existing node reused for new claims in this episode.
 
 **N-10490** 9/10 Behind Charlie Video Analysis
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing node reused for new claims in this episode.
 
 *Related: C-7849*
@@ -1082,7 +1082,7 @@ Existing node reused for new claims in this episode.
 
 **N-10523** ATF Bullet-to-Gun Inconclusive Finding
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing node reused for new claims in this episode.
 
 *Related: C-7834*
@@ -1091,7 +1091,7 @@ Existing node reused for new claims in this episode.
 
 **N-10524** Timpanogos Hospital Evidence Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing node reused for new claims in this episode.
 
 *Related: C-7767, C-7769, C-7770, C-7773*
@@ -1109,7 +1109,7 @@ Existing node reused for new claims in this episode.
 
 **N-10613** June 18 White House Meeting on Iran Involvement
 
-Node Type: Topic
+Node Type: Event
 Existing node reused for new claims in this episode.
 
 *Related: C-7840*
@@ -1145,7 +1145,7 @@ Existing node reused for new claims in this episode.
 
 **N-11060** Zachariah Qureshi Detention and Release Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing node reused for new claims in this episode.
 
 *Related: C-7774*
@@ -1154,7 +1154,7 @@ Existing node reused for new claims in this episode.
 
 **N-11115** Library 911 Calls and Lockdown
 
-Node Type: Topic
+Node Type: Event
 Existing node reused for new claims in this episode.
 
 *Related: C-7773*
@@ -1163,7 +1163,7 @@ Existing node reused for new claims in this episode.
 
 **N-11124** Timpanogos Hospital Group Arrival Question
 
-Node Type: Topic
+Node Type: Investigation Question
 Existing node reused for new claims in this episode.
 
 *Related: C-7767*
@@ -1189,7 +1189,7 @@ First named by the host at 00:27:39 in episode 87 (spelled Robbie Hild and Robbi
 
 **N-11314** Utah Mormon Colony Family Ties Inquiry
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's examination of marriage and migration ties among the Romney, Farnsworth, Robinson and Hild families, including the Mormon colonies in Chihuahua, Mexico.
 
 *Related: C-7804, C-7837, C-7838, C-7839*
@@ -1198,7 +1198,7 @@ The host's examination of marriage and migration ties among the Romney, Farnswor
 
 **N-11315** 2012 RNC Convention Rule Changes
 
-Node Type: Topic
+Node Type: Event
 The host reads that the RNC altered 2012 convention rules to bind delegates and refused to recognize Ron Paul's Maine delegates.
 
 *Related: C-7854, C-7855*

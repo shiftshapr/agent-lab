@@ -587,7 +587,7 @@ Host ties Kolomoisky to Chabad-Lubavitch.
 
 **N-11328** Blake Neff "Murdering Charlie" Slip
 
-Node Type: Topic
+Node Type: Event
 Blake Neff's X space remark that the host would "hate Erika for murdering Charlie", which another participant said meant "marrying"; framed by the host as a Freudian slip alongside Kolvet's "processing their guilt".
 
 *Related: C-13970, C-13972, C-13973, C-13976, C-13977, C-14050, A-3359.2, A-3359.1, A-3360.1, A-3370.1, N-159*
@@ -608,7 +608,7 @@ The Clip It LLC Wyoming filing (May 28, 2025 per the host), connected by the hos
 
 **N-11331** Pandora Papers
 
-Node Type: Topic
+Node Type: Thing
 The 2021 ICIJ leak of about 12 million offshore financial records; the host links the Clip It LLC registered agent to Pandora Papers reporting on Wyoming registered agents.
 
 *Related: C-13995, C-13996, C-13997, C-13998, C-13999, C-14000, C-14001, C-14002, C-14003, C-14004, A-3363.3, A-3364.1, N-11332*
@@ -629,7 +629,7 @@ The host's reports, from UVU sources, that Police Chief Jeff Long has resigned a
 
 **N-11334** TPUSA Las Vegas Office Opening
 
-Node Type: Topic
+Node Type: Event
 The host's recollection that TPUSA, with Erika Kirk, opened an office in Las Vegas, possibly in March.
 
 *Related: C-14048, N-10808*

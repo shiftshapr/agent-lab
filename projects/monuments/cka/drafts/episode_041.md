@@ -519,7 +519,7 @@ Aliases: Elsisi; el-Sisi; LCC (transcript read of a post)
 
 **N-10936** Cam Higby TPUSA Payroll Verification
 
-Node Type: Topic
+Node Type: Investigation Question
 Host's claim that Cam Higby joined the TPUSA payroll in August 2025 and the question of who directed his Pentagon briefing question.
 
 *Related: C-3609*

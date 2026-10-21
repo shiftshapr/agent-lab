@@ -1070,7 +1070,7 @@ Israeli digital forensics firm, transcribed as Celebrite, that the host says pol
 
 **N-11124** Timpanogos Hospital Group Arrival Question
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's public question to Blake Neff about whether he, Danny Phillip, Mikey McCoy and Nate Walker arrived together in one car at Timpanogos Hospital.
 
 *Related: C-11873*
@@ -1079,7 +1079,7 @@ The host's public question to Blake Neff about whether he, Danny Phillip, Mikey 
 
 **N-11125** Perez Hilton Live-Streamed Self-Harm Incident
 
-Node Type: Topic
+Node Type: Event
 The Tuesday-night TikTok live stream of Perez Hilton and the Miami-Dade Sheriff's response, as discussed by the host.
 
 *Related: C-11879, C-11880, C-11881, C-11882*

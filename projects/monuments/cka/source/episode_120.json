@@ -1120,7 +1120,7 @@
     },
     {
      "k": "Node Type",
-     "v": "topic"
+     "v": "Thing"
     },
     {
      "raw": ""
@@ -3125,7 +3125,7 @@
     },
     {
      "k": "Node Type",
-     "v": "Topic"
+     "v": "Investigation Question"
     },
     {
      "k": "Persistent target",
@@ -3159,7 +3159,7 @@
     },
     {
      "k": "Node Type",
-     "v": "Topic"
+     "v": "Event"
     },
     {
      "k": "Persistent target",
@@ -3193,7 +3193,7 @@
     },
     {
      "k": "Node Type",
-     "v": "Topic"
+     "v": "Investigation Question"
     },
     {
      "k": "Persistent target",
@@ -3227,7 +3227,7 @@
     },
     {
      "k": "Node Type",
-     "v": "Topic"
+     "v": "Investigation Question"
     },
     {
      "k": "Persistent target",

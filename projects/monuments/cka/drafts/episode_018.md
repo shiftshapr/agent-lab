@@ -858,7 +858,7 @@ Organization named in the peace deal discussion.
 
 **N-11291** Gaza Peace Deal First Phase Announcement (October 2025)
 
-Node Type: Topic
+Node Type: Event
 The reported first phase of an Israel and Hamas agreement with troop withdrawal and hostage release, and the Trump announcement and negotiators the host criticizes.
 
 *Related: C-1690, C-1692*

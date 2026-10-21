@@ -1055,7 +1055,7 @@ Existing topic reused for new claims in this episode.
 
 **N-11313** Brooksby Resignation Inquiry
 
-Node Type: Topic
+Node Type: Investigation Question
 Sudden resignation of Washington County Sheriff Nate Brooksby on a Friday, with an interim sheriff appointed, his name removed from official pages, and the host speculating about a link to the Robinson case.
 
 *Related: C-7622, C-7624*

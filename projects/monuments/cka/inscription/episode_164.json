@@ -981,11 +981,11 @@
       "investigative_pressure": "high"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10000",
       "ref": "N-10000",
       "name": "Turning Point USA",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "The host alleges Peterson sides with TPUSA and that TPUSA members or affiliates rode in Clancy's car.",
       "related_artifacts": [],
       "related_claims": [
@@ -997,14 +997,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Organization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-10012",
       "ref": "N-10012",
       "name": "Utah Valley University",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "Peterson's employer and the site of the September 10 event.",
       "related_artifacts": [],
       "related_claims": [
@@ -1017,14 +1019,16 @@
       "evidence_count": 0,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "CollegeOrUniversity",
+      "wikidata_class": "Q3918"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10059",
       "ref": "N-10059",
       "name": "Orem, Utah",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Part of Peterson's House district; the host cites Orem sources for the bag account.",
       "related_artifacts": [],
       "related_claims": [
@@ -1035,14 +1039,17 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "City",
+      "wikidata_class": "Q515",
+      "parent": "N-10120"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Place",
       "@id": "N-10071",
       "ref": "N-10071",
       "name": "Provo, Utah",
-      "type": "investigation_target",
+      "type": "place",
       "description": "Clancy's police department; the host cites Provo sources.",
       "related_artifacts": [],
       "related_claims": [
@@ -1053,14 +1060,17 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "City",
+      "wikidata_class": "Q515",
+      "parent": "N-10120"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10492",
       "ref": "N-10492",
       "name": "Charlie Kirk Necklace / Magnet Clasp Examination",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Turek's clip says the necklace was on top of the bloodied bag.",
       "related_artifacts": [],
       "related_claims": [
@@ -1071,14 +1081,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10465",
       "ref": "N-10465",
       "name": "Erika Kirk Educational Credentials Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The host compares Zacharia's unconfirmed law degree to Erika Kirk's doctorate claim.",
       "related_artifacts": [],
       "related_claims": [
@@ -1089,14 +1100,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10625",
       "ref": "N-10625",
       "name": "Frank Turek CPR Claim Verification",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The host questions Turek's CPR account given the bag in the back seat.",
       "related_artifacts": [],
       "related_claims": [
@@ -1106,14 +1118,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question",
+      "parent": "N-10636"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10626",
       "ref": "N-10626",
       "name": "Frank Turek Clothing Disposal",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "Turek's clip describes changing into scrubs and disposing of the bloodied bag.",
       "related_artifacts": [],
       "related_claims": [
@@ -1124,14 +1138,15 @@
       "evidence_count": 0,
       "claim_count": 2,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10651",
       "ref": "N-10651",
       "name": "Blake Neff September 10th Movement Discrepancy",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The host recalls Neff's \"marking time\" account in Salt Lake City.",
       "related_artifacts": [],
       "related_claims": [
@@ -1141,14 +1156,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Question"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-10762",
       "ref": "N-10762",
       "name": "Independent Review of UVU Security Failures",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "The host cites the after-action report on Peterson's location.",
       "related_artifacts": [
         "A-3383.1"
@@ -1160,14 +1176,15 @@
       "evidence_count": 1,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Report"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Thing",
       "@id": "N-10785",
       "ref": "N-10785",
       "name": "Vanity Fair Erika Kirk Profile (Clara Molot)",
-      "type": "investigation_target",
+      "type": "thing",
       "description": "The host disputes Erika Kirk's tweet explaining why she sat down with Vanity Fair.",
       "related_artifacts": [],
       "related_claims": [
@@ -1177,14 +1194,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Article"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Topic",
       "@id": "N-10793",
       "ref": "N-10793",
       "name": "Brian Cole Jr J6 Pipe-Bomb Patsy / Coerced Confession",
-      "type": "investigation_target",
+      "type": "topic",
       "description": "Raised in a viewer comment; the host promises to discuss it.",
       "related_artifacts": [],
       "related_claims": [
@@ -1194,14 +1212,15 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "Thing"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "InvestigationQuestion",
       "@id": "N-10795",
       "ref": "N-10795",
       "name": "UVU Independent Review Unnamed Fire Captain CPR Redaction",
-      "type": "investigation_target",
+      "type": "investigation_question",
       "description": "The host says the fire captain who gave CPR at Timpanogos still cannot be identified.",
       "related_artifacts": [
         "A-3387.1"
@@ -1216,14 +1235,16 @@
       "evidence_count": 1,
       "claim_count": 4,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Question",
+      "parent": "N-10762"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11134",
       "ref": "N-11134",
       "name": "Timpanogos Regional Hospital",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "The host alleges Clancy was at Timpanogos shortly after Charlie Kirk arrived and was dispatched from there.",
       "related_artifacts": [],
       "related_claims": [
@@ -1235,14 +1256,16 @@
       "evidence_count": 0,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Hospital",
+      "wikidata_class": "Q16917"
     },
     {
-      "@type": "InvestigationTarget",
+      "@type": "Organization",
       "@id": "N-11179",
       "ref": "N-11179",
       "name": "Utah Internet Crimes Against Children Task Force",
-      "type": "investigation_target",
+      "type": "organization",
       "description": "The host says Clancy was also on ICAC.",
       "related_artifacts": [],
       "related_claims": [
@@ -1252,14 +1275,16 @@
       "evidence_count": 0,
       "claim_count": 1,
       "episode_count": 1,
-      "investigative_pressure": "medium"
+      "investigative_pressure": "medium",
+      "schema_org": "GovernmentOrganization",
+      "wikidata_class": "Q43229"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-11338",
       "ref": "N-11338",
       "name": "Val Peterson September 10 Whereabouts",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "The host's question of where UVU vice president and retired brigadier general Val Peterson was on September 10, 2025, after the after-action report placed him about 45 minutes from campus at the time of the shooting; she notes Salt Lake City and National Guard facilities but says she has no idea whether he was there.",
       "related_artifacts": [],
       "related_claims": [
@@ -1275,7 +1300,8 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-955"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
       "@type": "Topic",
@@ -1302,14 +1328,15 @@
       "related_nodes": [
         "N-957",
         "N-7"
-      ]
+      ],
+      "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "InvestigationQuestion",
       "@id": "N-11340",
       "ref": "N-11340",
       "name": "Katie Zacharia Lawyer Credential Question",
-      "type": "topic",
+      "type": "investigation_question",
       "description": "The host's and press reports' question of whether new White House press secretary Katie Zacharia graduated law school and passed a bar exam.",
       "related_artifacts": [
         "A-3388.2"
@@ -1326,14 +1353,15 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-960"
-      ]
+      ],
+      "schema_org": "Question"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-11341",
       "ref": "N-11341",
       "name": "Cornell 7 Case",
-      "type": "topic",
+      "type": "event",
       "description": "The Cornell fraternity party case involving allegations of a gang rape and a group text, on which the host gives her general opinion.",
       "related_artifacts": [
         "A-3389.1"
@@ -1347,7 +1375,9 @@
       "evidence_count": 1,
       "claim_count": 3,
       "episode_count": 1,
-      "investigative_pressure": "high"
+      "investigative_pressure": "high",
+      "schema_org": "Event",
+      "wikidata_class": "Q1656682"
     }
   ],
   "claims": [

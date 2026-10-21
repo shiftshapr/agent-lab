@@ -798,7 +798,7 @@ The host's claim that media outlets selectively released maroon-shirt photos of 
 
 **N-11177** Robinson September 10 Day Timeline Plausibility
 
-Node Type: Topic
+Node Type: Investigation Question
 The host's step-by-step recount of the official account of Robinson's movements on September 10 and her argument that the drives, clothing changes and awake time are implausible.
 
 *Related: C-12037, C-12038, C-12039, C-12040, C-12041, C-12042, C-12043, C-12044, C-12045, C-12046, C-12048, C-12049, C-12050, C-12051, C-12052, C-12053, C-12054, C-12055*
